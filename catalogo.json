@@ -1,0 +1,36 @@
+{
+  "filmes": [
+    {
+      "id": "filme-1",
+      "titulo": "Filme Exemplo",
+      "ano": 2024,
+      "genero": ["Ação", "Aventura"],
+      "capa": "https://via.placeholder.com/300x450?text=Filme",
+      "descricao": "Descrição do filme exemplo.",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+    }
+  ],
+  "series": [
+    {
+      "id": "serie-1",
+      "titulo": "Série Exemplo",
+      "ano": 2024,
+      "genero": ["Drama"],
+      "capa": "https://via.placeholder.com/300x450?text=Serie",
+      "descricao": "Descrição da série exemplo.",
+      "temporadas": [
+        {
+          "numero": 1,
+          "episodios": [
+            {
+              "id": "serie-1-t1-e1",
+              "numero": 1,
+              "titulo": "Episódio 1",
+              "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
