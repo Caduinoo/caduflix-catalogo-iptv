@@ -1,23 +1,16 @@
 {
   "filmes": [
     {
-      "id": "filme-1",
-      "titulo": "Filme Exemplo",
+      {
+      "id": "filme-teste-player",
+      "titulo": "Filme Teste Player",
       "ano": 2024,
-      "genero": ["Ação", "Aventura"],
-      "capa": "https://via.placeholder.com/300x450?text=Filme",
-      "descricao": "Descrição do filme exemplo.",
-      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "genero": ["Teste"],
+      "capa": "https://via.placeholder.com/300x450?text=Teste",
+      "descricao": "Teste usando player externo.",
+      "embedUrl": "https://noflix.top/player.php?id=&tmdb=11322&player=1"
+      }
     }
-    {
-  "id": "filme-teste-player",
-  "titulo": "Filme Teste Player",
-  "ano": 2024,
-  "genero": ["Teste"],
-  "capa": "https://via.placeholder.com/300x450?text=Teste",
-  "descricao": "Teste usando player externo.",
-  "embedUrl": "https://noflix.top/player.php?id=&tmdb=11322&player=1"
-}
   ],
   "series": [
     {
