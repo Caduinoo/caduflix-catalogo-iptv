@@ -1,36 +1,714 @@
 {
   "filmes": [
     {
-      "id": "filme-teste-player",
-      "titulo": "Filme Teste Player",
-      "ano": 2024,
-      "genero": ["Teste"],
-      "capa": "https://via.placeholder.com/300x450?text=Teste",
-      "descricao": "Teste usando player externo.",
-      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=11322&player=1"
+      "id": "mae-em-furia-828305",
+      "titulo": "Mãe em Fúria",
+      "ano": "2021",
+      "genero": [
+        "Mistério",
+        "Thriller",
+        "Terror",
+        "Drama",
+        "Crime"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/6ejm4Sx3rp44awUE0qyG1APBvpI.jpg",
+      "descricao": "Barbara O'Brien é uma mãe católica irlandesa que tem sua vida destruída depois que o seu filho é morto durante um trote universitário. Sentindo que as autoridades deram pouca importância ao caso, ela decide lutar até as últimas consequências por justiça.",
+      "tmdb": "828305",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=828305&player=1"
+    },
+    {
+      "id": "o-jogo-do-elevador-1015303",
+      "titulo": "O Jogo do Elevador",
+      "ano": "2023",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/zWfE8QVHRq0tEcgJlud394YQl2k.jpg",
+      "descricao": "Ryan se junta a um grupo de ex-alunos, acreditando que eles estão envolvidos no desaparecimento de sua irmã. Desesperado para encontrá-la, ele se envolve em um ritual que abre portas para outra dimensão. Será que Ryan vai conseguir resgatar sua irmã?",
+      "tmdb": "1015303",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1015303&player=1"
+    },
+    {
+      "id": "impuratus-a-confissao-do-diabo-478530",
+      "titulo": "Impuratus: A Confissão do Diabo",
+      "ano": "2023",
+      "genero": [
+        "Terror",
+        "Mistério",
+        "Fantasia"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/uoxXcTlZTqNX3qiYaxUxLdM39nq.jpg",
+      "descricao": "O detetive de polícia Clayton Douglas é convocado a um hospital remoto para testemunhar a ultrajante confissão de um misterioso veterano da Guerra Civil no leito de morte, que o força a aceitar o sobrenatural.",
+      "tmdb": "478530",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=478530&player=1"
+    },
+    {
+      "id": "ilha-do-medo-11324",
+      "titulo": "Ilha do Medo",
+      "ano": "2010",
+      "genero": [
+        "Drama",
+        "Thriller",
+        "Mistério"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
+      "descricao": "No verão de 1954, os agentes judiciais Teddy Daniels (DiCaprio) e Chuck Aule (Ruffalo) foram designados para uma ilha remota do porto de Boston para investigar o desaparecimento de uma perigosa assassina (Mortimer) que estava reclusa no hospital psiquiátrico Ashecliffe, um centro penitenciário para criminosos perturbados dirigido pelo sinistro médico John Cawley. (Kingsley). Logo eles descobrem que o centro guarda muitos segredos e que a ilha esconde algo mais perigoso que os pacientes.",
+      "tmdb": "11324",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=11324&player=1"
+    },
+    {
+      "id": "a-maldicao-de-hannah-stevenson-949567",
+      "titulo": "A Maldição de Hannah Stevenson",
+      "ano": "2022",
+      "genero": [
+        "Fantasia",
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/uCOMiPwygEPSuUjatADcLMDoRnL.jpg",
+      "descricao": "Hannah e Matt, um jovem casal em suas primeiras férias juntos, descobrem rapidamente que podem não concordar. Sentindo-se como se tivesse decepcionado o namorado, Hannah pede a ajuda de uma misteriosa cigana, na esperança de que os problemas do casal possam ser superados. No entanto, quando Matt acorda e descobre que sua namorada desapareceu, as intenções sinistras da cigana tornam-se muito claras.",
+      "tmdb": "949567",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=949567&player=1"
+    },
+    {
+      "id": "a-maldicao-do-titanic-945657",
+      "titulo": "A Maldição do Titanic",
+      "ano": "2022",
+      "genero": [
+        "Mistério",
+        "Thriller",
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/rA4irW4Pf9kntxTqv9rtlYZFzD9.jpg",
+      "descricao": "Depois que um navio de cruzeiro gigante navega sobre o local do desastre do Titanic, eventos sombrios e mortais começam a ocorrer a bordo. Quando o capitão do navio investiga as trágicas ocorrências, torna-se claro que os passageiros do Titanic original voltaram.",
+      "tmdb": "945657",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=945657&player=1"
+    },
+    {
+      "id": "antologia-da-pandemia-707079",
+      "titulo": "Antologia da Pandemia",
+      "ano": "2020",
+      "genero": [
+        "Drama",
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/8eyTXtfSAQyXjGP2qSYNZv5UZzy.jpg",
+      "descricao": "2020 é o ano em que um vírus parou o planeta. Em meio à quarentena e à incerteza sobre o futuro, o Fantaspoa criou um concurso para cineastas criarem suas histórias da pandemia - em suas casas, com os recursos disponíveis. Essa antologia reúne os 13 curtas mais criativos produzidos, capturando esse momento que, se a humanidade tiver sorte, nunca se repetirá.",
+      "tmdb": "707079",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=707079&player=1"
+    },
+    {
+      "id": "o-resort-810271",
+      "titulo": "O Resort",
+      "ano": "2021",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/bXZUVJP8Fr3RId7SSsV4RXvjnIh.jpg",
+      "descricao": "Quatro amigos viajam para o Havaí para investigar fenômenos paranormais e procurar um misterioso fantasma em um resort abandonado. Eles ficam maravilhados com a beleza do local, mas logo percebem que é preciso ter cuidado com aquilo que se deseja.",
+      "tmdb": "810271",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=810271&player=1"
+    },
+    {
+      "id": "vitimas-do-silencio-834347",
+      "titulo": "Vítimas do Silêncio",
+      "ano": "2021",
+      "genero": [
+        "Terror",
+        "Thriller"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/nmQRyvCUXoHzutgyONkg46i3Qg7.jpg",
+      "descricao": "Um famoso e desiludido escritor, incapaz de falar após realizar uma cirurgia na mandíbula, é surpreendido pela inesperada visita de sua filha distante, que revela um perigoso segredo.",
+      "tmdb": "834347",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=834347&player=1"
+    },
+    {
+      "id": "os-13-pecados-155084",
+      "titulo": "Os 13 Pecados",
+      "ano": "2014",
+      "genero": [
+        "Terror",
+        "Thriller"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/afBMXuBdEfowk06jMUWHd5isX7J.jpg",
+      "descricao": "Elliot Brindle (Mark Webber) é um vendedor que está endividado e preocupado, pois está prestes a se casar com o amor de sua vida. Até que um dia Elliot recebe uma ligação anônima informando que ele está participando de uma espécie de reality show, no qual poderá ganhar milhares de dólares se cumprir as treze tarefas determinadas. À medida que ele as realiza, sua conta bancária aumenta, mas chega um momento em que estas tarefas vão se tornando cada vez mais extremas e desagradáveis.",
+      "tmdb": "155084",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=155084&player=1"
+    },
+    {
+      "id": "a-sombra-do-mal-1000173",
+      "titulo": "A Sombra do Mal",
+      "ano": "2023",
+      "genero": [
+        "Thriller",
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/6LyFyzc2TGioGjmueMb4vD2HTvv.jpg",
+      "descricao": "Neste terror sufocante, uma jovem grávida se vê envolta em uma série de crimes brutais que assolam sua cidade. Quando ela descobre que seu namorado perfeito pode ser um sonâmbulo perigoso, ela precisa desvendar a verdade antes que seja tarde.",
+      "tmdb": "1000173",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1000173&player=1"
+    },
+    {
+      "id": "desespero-profundo-1096197",
+      "titulo": "Desespero Profundo",
+      "ano": "2024",
+      "genero": [
+        "Thriller",
+        "Terror",
+        "Ação"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/iJgY7pFXAs2PKhoA1g9jeoqUmQd.jpg",
+      "descricao": "Um grupo de desconhecidos acabam no meio do Oceano Pacífico depois de um acidente aéreo. Presos em uma bolsa de ar, eles devem trabalhar juntos para enfrentar os perigos que os cercam antes que o oxigênio acabe.",
+      "tmdb": "1096197",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1096197&player=1"
+    },
+    {
+      "id": "os-garotos-perdidos-1547",
+      "titulo": "Os Garotos Perdidos",
+      "ano": "1987",
+      "genero": [
+        "Terror",
+        "Comédia",
+        "Thriller",
+        "Drama",
+        "Romance"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/xlzkIfReoFJbPkbV67NcsuMcu6T.jpg",
+      "descricao": "Os irmãos adolescentes Michael e Sam se mudam com a sua mãe para uma pequena cidade no norte da Califórnia. Enquanto o jovem Sam encontra novos amigos com interesses semelhantes, o angustiado Michael acaba se apaixonando por Star, que está envolvida com David, o líder de uma gangue local de vampiros. Ao se dar conta do que está acontecendo, Sam e seus novos amigos embarcam na missão de salvar Michael e Star dos mortos-vivos.",
+      "tmdb": "1547",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1547&player=1"
+    },
+    {
+      "id": "fuja-da-luz-879672",
+      "titulo": "Fuja da Luz",
+      "ano": "2022",
+      "genero": [
+        "Terror",
+        "Thriller"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/7uRmvy5PIe6FysvbxxvVBfU7ffP.jpg",
+      "descricao": "Tintim, Milu, Haddock e Calculus procuram pelo professor Girassol, que foi raptado durante o roubo de uma rara múmia inca no Peru.",
+      "tmdb": "879672",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=879672&player=1"
+    },
+    {
+      "id": "nao-volte-para-casa-628866",
+      "titulo": "Não Volte Para Casa!",
+      "ano": "2020",
+      "genero": [
+        "Terror",
+        "Ficção científica"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/yFQvabvW8dcnnRnTU5vFOwcmEXP.jpg",
+      "descricao": "Após a morte de seu pai, um brilhante estudante universitário retorna para a casa de sua família, onde descobre que os horrores de sua infância não estão tão mortos e perdidos como ele pensava.",
+      "tmdb": "628866",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=628866&player=1"
+    },
+    {
+      "id": "o-senhor-diabo-602518",
+      "titulo": "O Senhor Diabo",
+      "ano": "2019",
+      "genero": [
+        "Terror",
+        "Mistério"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/65SXCGEndNfEEyg5TtHZMjxEERh.jpg",
+      "descricao": "Em 1952, na Itália, o jovem oficial Furio Momenté é enviado para a região de Veneto para investigar o misterioso caso de um adolescente de quatorze anos que matou um menino, alegando ter matado o próprio diabo.",
+      "tmdb": "602518",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=602518&player=1"
+    },
+    {
+      "id": "segredos-nao-podem-ser-enterrados-798060",
+      "titulo": "Segredos Não Podem Ser Enterrados",
+      "ano": "2021",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/k5IpWbxBv6sSEGC4FLfA93aZcsA.jpg",
+      "descricao": "David Van Owen se muda para uma casa misteriosa e descobre uma caixa com 3 milhões de dólares e um cadáver. Ele fica em dúvida entre enterrar o corpo ou relatar sua descoberta e perder o dinheiro.",
+      "tmdb": "798060",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=798060&player=1"
+    },
+    {
+      "id": "experiencia-ii-a-mutacao-10216",
+      "titulo": "Experiência II - A Mutação",
+      "ano": "1998",
+      "genero": [
+        "Ficção científica",
+        "Ação",
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/53IqPn7T5uP5SSv6ToQW0a3i9Rk.jpg",
+      "descricao": "Terminada a missão em Marte, o astronauta Patrick Ross volta à Terra e descobre que foi infectado com o DNA de um alienígena que o transforma em um ser preocupado apenas em ter relações com mulheres, o que faz ter um desejo enorme de ter filhos para dominar os humanos.",
+      "tmdb": "10216",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=10216&player=1"
+    },
+    {
+      "id": "lisa-frankenstein-993784",
+      "titulo": "Lisa Frankenstein",
+      "ano": "2024",
+      "genero": [
+        "Terror",
+        "Comédia",
+        "Romance"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/jAW7ZdIm4HLKB3g15uMOWYNdU8r.jpg",
+      "descricao": "Em 1989, uma garota impopular do ensino médio chamada Lisa acidentalmente reanima um belo cadáver vitoriano durante uma tempestade e começa a reconstruí-lo no homem dos seus sonhos usando a cama de bronzeamento quebrada em sua garagem.",
+      "tmdb": "993784",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=993784&player=1"
+    },
+    {
+      "id": "it-capitulo-dois-474350",
+      "titulo": "IT: Capítulo Dois",
+      "ano": "2019",
+      "genero": [
+        "Terror",
+        "Thriller",
+        "Drama"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/qjKvLv6Z2D9QWEOdnsrffguazHk.jpg",
+      "descricao": "Vinte e sete anos após o Clube dos Otários derrotar Pennywise, It está de volta. Agora adultos Os Otários seguiram com suas vidas, mas com os recentes desaparecimentos em Derry, Mike resolve reunir o grupo novamente. Perturbados pelo passado, eles precisam vencer seus medos para destruir Pennywise, que está ainda mais perigoso, de uma vez por todas.",
+      "tmdb": "474350",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=474350&player=1"
+    },
+    {
+      "id": "a-ultima-noite-em-pacerville-990982",
+      "titulo": "A Última Noite em Pacerville",
+      "ano": "2022",
+      "genero": [
+        "Thriller",
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/3M4m02AVz4gCil1e0I5Wiz8ETiK.jpg",
+      "descricao": "John Dunbar é um professor de história, que percebe um grupo de estudantes zombando dele durante uma aula por videoconferência. Ele então decide encontrar os alunos depois da aula para colocar o seu plano de vingança em prática.",
+      "tmdb": "990982",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=990982&player=1"
+    },
+    {
+      "id": "ele-te-ve-enquanto-voce-dorme-1371534",
+      "titulo": "Ele Te Vê Enquanto Você Dorme",
+      "ano": "2024",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/ciqCPFDKYtvQjCjjEwGFoj5ywn2.jpg",
+      "descricao": "Chester retorna para a casa de sua família dezessete anos após seus pais terem sido mortos por um assassino vestido de Papai Noel. Mas na véspera de Natal, um assassino misterioso começa a matar seus parentes novamente.",
+      "tmdb": "1371534",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1371534&player=1"
+    },
+    {
+      "id": "o-concerto-maldito-sinfonia-do-mal-845643",
+      "titulo": "O Concerto Maldito, Sinfonia do Mal",
+      "ano": "2023",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/28B3s9T3ZqmIeaZdooZgh2CK3rX.jpg",
+      "descricao": "Baseado em O Flautista de Hamelin, o filme se concentra em uma jovem compositora ( Charlotte Hope) que se propõe a terminar a partitura que seu falecido mentor deixou inacabada quando morreu repentinamente. Ela logo descobre que o som dessas notas tem repercussões mortais, levando-a a desmascarar as origens perturbadoras da melodia e a força maligna que é despertada naqueles que a ouvem.",
+      "tmdb": "845643",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=845643&player=1"
+    },
+    {
+      "id": "panico-na-montanha-826047",
+      "titulo": "Pânico na Montanha",
+      "ano": "2021",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/zsATKx7B970yqPNri093CE7DUBW.jpg",
+      "descricao": "Para conseguir terminar de escrever seu livro, Blake Sinclair decide passar o fim de semana em uma cabana isolada nas montanhas, sem saber que um assassino sedento por sangue se encontra à solta nesse mesmo local.",
+      "tmdb": "826047",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=826047&player=1"
+    },
+    {
+      "id": "quatro-cavaleiros-do-apocalipse-969686",
+      "titulo": "Quatro Cavaleiros do Apocalipse",
+      "ano": "2022",
+      "genero": [
+        "Ficção científica",
+        "Terror",
+        "Cinema TV"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/AoB4ZIHY16GThNDObQPmOWPJTPu.jpg",
+      "descricao": "Uma equipe de cientistas precisa correr contra o tempo para impedir uma série de desastres ao redor do planeta, anunciando que o apocalipse está próximo.",
+      "tmdb": "969686",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=969686&player=1"
+    },
+    {
+      "id": "o-covil-799982",
+      "titulo": "O Covil",
+      "ano": "2021",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/j90FkQ3VFFopWE469L1Jh1il9Hq.jpg",
+      "descricao": "Uma família fragmentada é forçada a enfrentar seus demônios, metafórica e literalmente, à medida que involuntariamente se envolvem na tentativa de um homem de provar a existência do sobrenatural para derrubar a condenação de assassinato de um amigo.",
+      "tmdb": "799982",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=799982&player=1"
+    },
+    {
+      "id": "uma-noite-no-inferno-30519",
+      "titulo": "Uma Noite no Inferno",
+      "ano": "1991",
+      "genero": [
+        "Terror",
+        "Mistério",
+        "Thriller"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/9KBH7erBJrqzaydlszf6lncea4h.jpg",
+      "descricao": "Há 25 anos, Zachary Malius assassinou sete garotos e foi preso. Agora ele está em liberdade e volta para o local para cometer os mesmos crimes.",
+      "tmdb": "30519",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=30519&player=1"
+    },
+    {
+      "id": "quarentena-13812",
+      "titulo": "Quarentena",
+      "ano": "2008",
+      "genero": [
+        "Terror",
+        "Ficção científica",
+        "Thriller"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/4KYoUDKOO4sCxuE0UjpcXjdgkVG.jpg",
+      "descricao": "Angela Vidal (Jennifer Carpenter) é uma repórter de TV que, juntamente com seu operador de câmera Scott Percival (Steve Harris), são enviados para cobrir o turno noturno de dois bombeiros. Após uma noite tranqüila, um chamado de emergência os leva a um pequeno prédio no centro da cidade. Ao chegarem alguns policiais já estão no local, devido aos gritos horripilantes que vêm de um apartamento do 3º andar. Ansiosos por um furo de reportagem, Angela e Scott decidem filmar tudo o que acontece no local.",
+      "tmdb": "13812",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=13812&player=1"
+    },
+    {
+      "id": "abigail-1111873",
+      "titulo": "Abigail",
+      "ano": "2024",
+      "genero": [
+        "Terror",
+        "Thriller"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+      "descricao": "Um grupo de criminosos sequestra a filha de 12 anos de uma figura poderosa. Mantendo-a em uma mansão isolada, o plano deles começa a desmoronar quando descobrem que a jovem prisioneira é na verdade uma menina nada normal.",
+      "tmdb": "1111873",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1111873&player=1"
+    },
+    {
+      "id": "o-corpo-da-outra-901417",
+      "titulo": "O Corpo da Outra",
+      "ano": "2021",
+      "genero": [
+        "Terror",
+        "Thriller",
+        "Drama"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/AmdzJd8Z37Q85FtPiwhBwXC2IJr.jpg",
+      "descricao": "Após encontrar sua namorada desmaiada e uma mensagem misteriosa em seu celular, Clara embarca em uma jornada de transgressão e transformação.",
+      "tmdb": "901417",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=901417&player=1"
+    },
+    {
+      "id": "o-taro-da-morte-719221",
+      "titulo": "O Tarô da Morte",
+      "ano": "2024",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/ltOnEtJZyruTAOPRs0xYy6njIkY.jpg",
+      "descricao": "Quando um grupo de amigos irresponsavelmente viola a regra sagrada da leitura de tarô, a de nunca usar o deque de outra pessoa, eles libertam um mal inominável que estava preso nas cartas. Um por um, eles encaram seu destino e acabam em uma corrida contra a morte para escapar do futuro previsto para eles nas cartas.",
+      "tmdb": "719221",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=719221&player=1"
+    },
+    {
+      "id": "a-forma-do-medo-949697",
+      "titulo": "A Forma do Medo",
+      "ano": "2022",
+      "genero": [
+        "Thriller",
+        "Ação"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/27trSNWE8XYrokG7ef7mAv9NMc2.jpg",
+      "descricao": "Fame e Phil são irmãos que retornaram do exterior e são obrigados a cumprir o período de quarentena em um hotel, onde habita uma criatura capaz de mudar de forma, podendo assumir a aparência de qualquer hóspede do local.",
+      "tmdb": "949697",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=949697&player=1"
+    },
+    {
+      "id": "a-primeira-profecia-437342",
+      "titulo": "A Primeira Profecia",
+      "ano": "2024",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg",
+      "descricao": "Uma mulher começa a questionar a sua própria fé quando descobre uma terrível conspiração para provocar o nascimento do mal encarnado em Roma.",
+      "tmdb": "437342",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=437342&player=1"
+    },
+    {
+      "id": "a-proxima-vitima-317894",
+      "titulo": "A Próxima Vítima",
+      "ano": "1983",
+      "genero": [
+        "Terror",
+        "Thriller",
+        "Crime"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/y3jonKAWv9JPfz1r7UouRRpZGY8.jpg",
+      "descricao": "Prostitutas de um bairro paulistano são assassinadas por um maníaco, e um repórter de TV decide investigar o caso, principalmente pelo seu envolvimento com uma das possíveis vítimas.",
+      "tmdb": "317894",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=317894&player=1"
+    },
+    {
+      "id": "o-sacrificio-1677320",
+      "titulo": "O sacrifício",
+      "ano": "2003",
+      "genero": [
+        "Documentário"
+      ],
+      "capa": "https://via.placeholder.com/300x450?text=Filme",
+      "descricao": "",
+      "tmdb": "1677320",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1677320&player=1"
+    },
+    {
+      "id": "sua-alma-sera-minha-950925",
+      "titulo": "Sua Alma Será Minha",
+      "ano": "2024",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/dOnXC5ihEBN9HQGYR3huiXyQgok.jpg",
+      "descricao": "Enquanto cuidam de sua filha doente, Mike e Angie descobrem que estão sendo perseguidos por um demônio. Mike precisará enfrentar os seus próprios medos se quiser lutar contra essa força sobrenatural e salvar a vida de sua filha.",
+      "tmdb": "950925",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=950925&player=1"
+    },
+    {
+      "id": "uma-viagem-noite-adentro-875522",
+      "titulo": "Uma Viagem Noite Adentro",
+      "ano": "2022",
+      "genero": [
+        "Drama",
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/964dl05pWaHQV7TR6EqHEadTtrL.jpg",
+      "descricao": "Harutoshi mora com sua namorada e sonha em ser um escritor de mangá. Durante uma viagem com seus amigos de faculdade, sua vida muda inesperadamente ao descobrir o resultado de uma premiação de mangá e reencontrar um antigo amor.",
+      "tmdb": "875522",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=875522&player=1"
+    },
+    {
+      "id": "turno-maldito-829038",
+      "titulo": "Turno Maldito",
+      "ano": "2023",
+      "genero": [
+        "Terror",
+        "Thriller"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/5rvNOajrsKcJQ6LOXB2xkwQcjjB.jpg",
+      "descricao": "Uma jovem trabalhando em seu primeiro turno da noite em um motel remoto, começa a suspeitar que está sendo seguida por um personagem perigoso de seu passado. Conforme a noite avança e eventos sobrenaturais ocorrem, ela rapidamente descobre que nada é o que parece ser.",
+      "tmdb": "829038",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=829038&player=1"
+    },
+    {
+      "id": "godzilla-minus-one-940721",
+      "titulo": "Godzilla Minus One",
+      "ano": "2023",
+      "genero": [
+        "Ficção científica",
+        "Terror",
+        "Ação"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg",
+      "descricao": "Em um Japão social e economicamente devastado após o término da Segunda Guerra Mundial, a situação chega a um nível ainda mais crítico quando uma gigantesca e misteriosa criatura surge do mar para assolar o país.",
+      "tmdb": "940721",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=940721&player=1"
+    },
+    {
+      "id": "parque-do-terror-1058078",
+      "titulo": "Parque do Terror",
+      "ano": "2023",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/4ew3fa0O4xpQ6Bnhtdilmkp0Ixc.jpg",
+      "descricao": "Em uma noite de Halloween, um grupo de amigos decide celebrar em um parque de diversões vazio. A alegria se transforma em terror quando eles percebem que não estão sozinhos. Presos no parque, a noite de diversão se torna uma luta pela sobrevivência.",
+      "tmdb": "1058078",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1058078&player=1"
+    },
+    {
+      "id": "sob-as-aguas-do-sena-1001311",
+      "titulo": "Sob as Águas do Sena",
+      "ano": "2024",
+      "genero": [
+        "Ação",
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg",
+      "descricao": "Um tubarão gigante apareceu no rio Sena, em Paris. Para evitar a catástrofe, uma cientista vai ter que encarar as tragédias do próprio passado.",
+      "tmdb": "1001311",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1001311&player=1"
+    },
+    {
+      "id": "fugindo-da-morte-1032949",
+      "titulo": "Fugindo da Morte",
+      "ano": "2023",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/xZz8ZBsnZlDUfhPGRSE0bZwJFL.jpg",
+      "descricao": "Após uma escolha desesperada, Jack se vê perdido, ferido e desamparado em um cenário isolado. Enfrentando a hostilidade local e uma natureza implacável, ele trava uma batalha pela sobrevivência em um jogo mortal e doentio de gato e rato.",
+      "tmdb": "1032949",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1032949&player=1"
+    },
+    {
+      "id": "o-ataque-dos-tubaroes-1011604",
+      "titulo": "O Ataque dos Tubarões",
+      "ano": "2022",
+      "genero": [
+        "Thriller",
+        "Terror",
+        "Ação"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/oEkB4NcjO7qFZKzjqWmUOuKmdQl.jpg",
+      "descricao": "Grandes tubarões brancos atacam um barco de pesca que se encontra a quilômetros da costa, obrigando os membros da tripulação a lutarem por suas vidas.",
+      "tmdb": "1011604",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1011604&player=1"
+    },
+    {
+      "id": "vampiras-as-noivas-de-dracula-1034751",
+      "titulo": "Vampiras: As Noivas de Drácula",
+      "ano": "2024",
+      "genero": [
+        "Terror",
+        "Fantasia",
+        "Ação"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/pi4tozVXTwlV6N0ubFWVjMtPtBr.jpg",
+      "descricao": "Depois de mais de 300 anos escondidas, as noivas de Drácula, Luna, Adriana e sua nova aprendiz Katya, devem se unir mais uma vez para deter a ameaça mais diabólica de seu passado, sua irmã Mina.",
+      "tmdb": "1034751",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=1034751&player=1"
+    },
+    {
+      "id": "viralize-ou-morra-969160",
+      "titulo": "Viralize ou Morra",
+      "ano": "2022",
+      "genero": [
+        "Terror",
+        "Thriller"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/qJ2nJq6F9hQ6uqLiZyBqxcs49tC.jpg",
+      "descricao": "Uma jovem e influente líder de torcida é feita de refém por um psicopata mascarado. Para salvar a sua vida e a de outras jovens, ela é obrigada a participar de uma série de desafios em suas redes sociais.",
+      "tmdb": "969160",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=969160&player=1"
+    },
+    {
+      "id": "o-ultimo-portal-622",
+      "titulo": "O Último Portal",
+      "ano": "1999",
+      "genero": [
+        "Mistério",
+        "Thriller",
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/6E4XFUZGQnhqjnQhcAb0ZiA89lo.jpg",
+      "descricao": "Johnny Depp está no papel de Dean Corso, um especialista em livros raros. Ele é contratado por Boris Balkan, um estudioso sobre demônios que acabou de conseguir uma raro livro do século 17 que, segundo a lenda, foi escrito pelo Diabo e traz uma poderosa invocação satânica. O novo cliente quer que Corso viaje à Europa e encontre os dois outros únicos exemplares do mesmo livro para verificar sua autenticiadade. De Nova York a Toledo, de Portugal à Paris, Corso submerge-se num labirinto cheio de armadilhas e tentações, lidando com violência e mortes misteriosas",
+      "tmdb": "622",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=622&player=1"
+    },
+    {
+      "id": "a-freira-439079",
+      "titulo": "A Freira",
+      "ano": "2018",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/8RkHWJFDuzm0mrsJUxTbPTnsPe7.jpg",
+      "descricao": "Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre assombrado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento em um campo de batalha.",
+      "tmdb": "439079",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=439079&player=1"
+    },
+    {
+      "id": "a-freira-2-968051",
+      "titulo": "A Freira 2",
+      "ano": "2023",
+      "genero": [
+        "Terror"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg",
+      "descricao": "Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons).",
+      "tmdb": "968051",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=968051&player=1"
+    },
+    {
+      "id": "isolamento-mortal-829410",
+      "titulo": "Isolamento Mortal",
+      "ano": "2022",
+      "genero": [
+        "Terror",
+        "Mistério"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/tDXYFCA3EAvYiZLAgvTYBHKZ1YG.jpg",
+      "descricao": "Durante a pandemia do Covid-19, as amigas Parker e Miri se isolam na casa do lago da família de uma delas e aparentemente tudo parecia tranquilo. Quando uma batida violenta na porta começa a assustá-las, a estadia das amigas acaba se tornando uma sequência de horror e luta pela sobrevivência",
+      "tmdb": "829410",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=829410&player=1"
+    },
+    {
+      "id": "fade-to-black-40034",
+      "titulo": "Fade to Black",
+      "ano": "1980",
+      "genero": [
+        "Drama",
+        "Terror",
+        "Thriller",
+        "Comédia"
+      ],
+      "capa": "https://image.tmdb.org/t/p/w500/wQA5HMwryIjOwnmN6uumCz6mjJs.jpg",
+      "descricao": "",
+      "tmdb": "40034",
+      "player": 1,
+      "embedUrl": "https://noflix.top/filme/assistir.php?idtmdb=40034&player=1"
     }
   ],
-  "series": [
-    {
-      "id": "serie-1",
-      "titulo": "Série Exemplo",
-      "ano": 2024,
-      "genero": ["Drama"],
-      "capa": "https://via.placeholder.com/300x450?text=Serie",
-      "descricao": "Descrição da série exemplo.",
-      "temporadas": [
-        {
-          "numero": 1,
-          "episodios": [
-            {
-              "id": "serie-1-t1-e1",
-              "numero": 1,
-              "titulo": "Episódio 1",
-              "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "series": []
 }
