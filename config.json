@@ -1,0 +1,13 @@
+{
+  "nome": "Caduflix",
+  "versao": "1.0.0",
+  "atualizadoEm": "2026-05-22",
+  "catalogo": {
+    "filmes": "https://caduinoo.github.io/caduflix-catalogo/filmes.json",
+    "series": "https://caduinoo.github.io/caduflix-catalogo/series.json",
+    "canais": "https://caduinoo.github.io/caduflix-catalogo/canais.json"
+  },
+  "api": {
+    "play": "https://caduflix-play.carloslopes4657.workers.dev/play"
+  }
+}
