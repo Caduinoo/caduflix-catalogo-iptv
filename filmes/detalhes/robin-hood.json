@@ -1,0 +1,26 @@
+{
+  "id": "robin-hood",
+  "tipo": "filme",
+  "titulo": "Robin Hood",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nEqRBLHEFAwAo38DM3TKx56kHZR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rBfY9GOG028ZlBmuSc7SkhmCUJP.jpg",
+  "tmdbId": 203121,
+  "nota": 6.75,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770632,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567045,
+  "tituloOriginal": "Robin Hood",
+  "dataLancamento": "2013-08-20"
+}

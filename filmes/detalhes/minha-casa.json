@@ -1,0 +1,34 @@
+{
+  "id": "minha-casa",
+  "tipo": "filme",
+  "titulo": "Meu Castelo, Minha Casa",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7Rb7WPg7KtBukBATqvNXJpT9JPx.jpg",
+  "banner": null,
+  "tmdbId": 627859,
+  "nota": 10,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787355,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775876,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Meu Castelo, Minha Casa",
+  "dataLancamento": "2021-10-30"
+}

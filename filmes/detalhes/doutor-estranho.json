@@ -1,0 +1,34 @@
+{
+  "id": "doutor-estranho",
+  "tipo": "filme",
+  "titulo": "Doutor Estranho",
+  "ano": null,
+  "descricao": "Após sua carreira ser destruída, um brilhante, porém arrogante, cirurgião ganha uma nova chance em sua vida quando um feiticeiro o treina para se tornar o Mago Supremo.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pb4clPWRJ5AKlSFu1HrrHdt5uAw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
+  "tmdbId": 284052,
+  "nota": 7.42,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769641,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782292,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Doctor Strange",
+  "dataLancamento": "2016-10-25"
+}

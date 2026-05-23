@@ -1,0 +1,51 @@
+{
+  "id": "confissoes-do-assassino-da-times-square",
+  "tipo": "serie",
+  "titulo": "Confissões do Assassino da Times Square",
+  "ano": null,
+  "descricao": "Robert Anzilotti, chefe dos detetives do condado de Bergen, entrevista Richard Cottingham, um assassino em série brutal, para tentar ligá-lo a outros crimes ainda não resolvidos.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/e5IfdL0Vvg3tYM66Pb9OlxLVWne.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sS1i1IwGrgglB13QHxEydy9ukFI.jpg",
+  "tmdbId": 222016,
+  "nota": 7.4,
+  "xtreamSeriesId": 5904,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10975301",
+          "tipo": "episodio",
+          "titulo": "Confissoes do Assassino da Times Square S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10975301",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5IfdL0Vvg3tYM66Pb9OlxLVWne.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10975302",
+          "tipo": "episodio",
+          "titulo": "Confissoes do Assassino da Times Square S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10975302",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5IfdL0Vvg3tYM66Pb9OlxLVWne.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "The Torso Killer Confessions",
+  "dataLancamento": "2023-03-09"
+}

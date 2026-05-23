@@ -1,0 +1,42 @@
+{
+  "id": "dog-a-aventura-de-uma-vida",
+  "tipo": "filme",
+  "titulo": "Dog - A Aventura de Uma Vida",
+  "ano": null,
+  "descricao": "Dois ex-Rangers do Exército são emparelhados contra sua vontade na viagem de uma vida. Briggs e Lulu correm pela costa do Pacífico para chegar a tempo ao funeral de um companheiro soldado.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gln0b5rezteLuyv9kO1q0h0vqnA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cGnaZm6EQOJESde3Vv4v53Zk4gN.jpg",
+  "tmdbId": 626735,
+  "nota": 7.286,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785540,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772632,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775262,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Dog",
+  "dataLancamento": "2022-02-17"
+}

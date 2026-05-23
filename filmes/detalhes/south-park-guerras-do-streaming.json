@@ -1,0 +1,34 @@
+{
+  "id": "south-park-guerras-do-streaming",
+  "tipo": "filme",
+  "titulo": "South Park: Guerras do Streaming",
+  "ano": null,
+  "descricao": "Nesta nova aventura, Cartman enfrenta sua mãe em uma batalha de vontades, enquanto um conflito épico ameaça a existência de South Park.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/phEHjunMMV1wY7o5dKiLAMZ4pO4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zOZ3Uh76Z2dNrW4qkHYIxxTvPY5.jpg",
+  "tmdbId": 974691,
+  "nota": 7.174,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789871,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771795,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "South Park the Streaming Wars",
+  "dataLancamento": "2022-06-01"
+}

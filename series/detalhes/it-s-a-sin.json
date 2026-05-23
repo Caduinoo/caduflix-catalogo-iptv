@@ -1,0 +1,87 @@
+{
+  "id": "it-s-a-sin",
+  "tipo": "serie",
+  "titulo": "It's a Sin",
+  "ano": null,
+  "descricao": "A Minissérie de cinco episódios se passa entre os anos de 1981 a 1991 em Londres e retrata a vida de um grupo de gays e seus amigos que viveram durante a crise de HIV/AIDS no Reino Unido.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tUaNS4b5TIiP1SwpHCYCbUoGpHG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pVkw6917LRh4mWkbDKe5sIMCzci.jpg",
+  "tmdbId": 116174,
+  "nota": 7.936,
+  "xtreamSeriesId": 3599,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10889950",
+          "tipo": "episodio",
+          "titulo": "It's a Sin S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10889950",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUaNS4b5TIiP1SwpHCYCbUoGpHG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889951",
+          "tipo": "episodio",
+          "titulo": "It's a Sin S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10889951",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUaNS4b5TIiP1SwpHCYCbUoGpHG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889952",
+          "tipo": "episodio",
+          "titulo": "It's a Sin S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10889952",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUaNS4b5TIiP1SwpHCYCbUoGpHG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889953",
+          "tipo": "episodio",
+          "titulo": "It's a Sin S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10889953",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUaNS4b5TIiP1SwpHCYCbUoGpHG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889954",
+          "tipo": "episodio",
+          "titulo": "It's a Sin S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10889954",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUaNS4b5TIiP1SwpHCYCbUoGpHG.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "It's a Sin",
+  "dataLancamento": "2021-01-22"
+}

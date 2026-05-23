@@ -1,0 +1,34 @@
+{
+  "id": "dose-dupla",
+  "tipo": "filme",
+  "titulo": "Dose Dupla",
+  "ano": null,
+  "descricao": "Bobby e Stig são dois agentes à paisana escalados para roubar um banco que serve de fachada para Máfia. O detalhe é que um não sabe da real identidade do outro. Quando eles descobrem, o mandande da tarefa demite ambos, deixando a dupla a mercê dos bandidos.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/u5X9qjUfIZDmlVJXJ7xJVyyHZFa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/swyPgOP2lffHfMjeZKNnNFR9P88.jpg",
+  "tmdbId": 136400,
+  "nota": 6.541,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785566,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769639,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "2 Guns",
+  "dataLancamento": "2013-08-02"
+}

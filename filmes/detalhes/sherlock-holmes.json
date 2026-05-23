@@ -1,0 +1,26 @@
+{
+  "id": "sherlock-holmes",
+  "tipo": "filme",
+  "titulo": "Sherlock Holmes",
+  "ano": null,
+  "descricao": "O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/19ZNLpF6ibwcFIynGb65X3Z1bnL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/85g84VtSf9tu1A9JqqruXEHspb7.jpg",
+  "tmdbId": 10528,
+  "nota": 7.219,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770721,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567046,
+  "tituloOriginal": "Sherlock Holmes",
+  "dataLancamento": "2009-12-23"
+}

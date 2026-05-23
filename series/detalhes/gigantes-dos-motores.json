@@ -1,0 +1,63 @@
+{
+  "id": "gigantes-dos-motores",
+  "tipo": "serie",
+  "titulo": "Gigantes dos Motores",
+  "ano": null,
+  "descricao": "Conheça a história dos titãs visionários que foram pioneiros na indústria automobilística nos EUA e transformaram o país.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w7lD8iUYnJA4A7Rl1WJq6YNpG5W.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rGrVuetECGNjrfach6b2HhiRpyM.jpg",
+  "tmdbId": 73295,
+  "nota": 6.6,
+  "xtreamSeriesId": 6007,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10978495",
+          "tipo": "episodio",
+          "titulo": "Gigantes dos Motores S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10978495",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w7lD8iUYnJA4A7Rl1WJq6YNpG5W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978496",
+          "tipo": "episodio",
+          "titulo": "Gigantes dos Motores S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10978496",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w7lD8iUYnJA4A7Rl1WJq6YNpG5W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978497",
+          "tipo": "episodio",
+          "titulo": "Gigantes dos Motores S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10978497",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w7lD8iUYnJA4A7Rl1WJq6YNpG5W.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "The Cars That Made America",
+  "dataLancamento": "2017-08-13"
+}

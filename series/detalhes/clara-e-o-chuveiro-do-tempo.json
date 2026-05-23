@@ -1,0 +1,75 @@
+{
+  "id": "clara-e-o-chuveiro-do-tempo",
+  "tipo": "serie",
+  "titulo": "Clara e o Chuveiro do Tempo",
+  "ano": null,
+  "descricao": "Depois de inventar uma máquina do tempo, Vô Teodoro acaba se perdendo no passado. Clara e seu melhor amigo Nico se aventuram para trazer o avô da menina de volta ao presente.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2tHxfaCsj6B1hj9NJPKMhr6UC1h.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1T9oh8ZKXVLIRgid3l6c1oU5euZ.jpg",
+  "tmdbId": 129462,
+  "nota": 7,
+  "xtreamSeriesId": 2955,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10868053",
+          "tipo": "episodio",
+          "titulo": "Clara e o Chuveiro do Tempo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10868053",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2tHxfaCsj6B1hj9NJPKMhr6UC1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10868054",
+          "tipo": "episodio",
+          "titulo": "Clara e o Chuveiro do Tempo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10868054",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2tHxfaCsj6B1hj9NJPKMhr6UC1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10868055",
+          "tipo": "episodio",
+          "titulo": "Clara e o Chuveiro do Tempo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10868055",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2tHxfaCsj6B1hj9NJPKMhr6UC1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10868056",
+          "tipo": "episodio",
+          "titulo": "Clara e o Chuveiro do Tempo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10868056",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2tHxfaCsj6B1hj9NJPKMhr6UC1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Clara e o Chuveiro do Tempo",
+  "dataLancamento": "2005-12-18"
+}

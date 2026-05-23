@@ -1,0 +1,63 @@
+{
+  "id": "o-marido-do-meu-irmao",
+  "tipo": "serie",
+  "titulo": "O Marido do Meu Irmão",
+  "ano": null,
+  "descricao": "Yaichi é um homem divorciado que vive com sua filha, Kana. Seu irmão gêmeo, Ryouji, que se mudou para o Canadá muitos anos atrás, faleceu recentemente. Seu marido, Mike, decide visitar Yaichi para conhecer melhor a cultura japonesa e para saber um pouco mais sobre a infância de Ryouji.",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/am1uitVwQJGknHTUevocUm9izES.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wvpQ7rPzzPB5J5qA7itmSk2yRUS.jpg",
+  "tmdbId": 80997,
+  "nota": 5.75,
+  "xtreamSeriesId": 2548,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10857269",
+          "tipo": "episodio",
+          "titulo": "O Marido do Meu Irmao [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10857269",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/am1uitVwQJGknHTUevocUm9izES.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10857270",
+          "tipo": "episodio",
+          "titulo": "O Marido do Meu Irmao [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10857270",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/am1uitVwQJGknHTUevocUm9izES.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10857271",
+          "tipo": "episodio",
+          "titulo": "O Marido do Meu Irmao [L] S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10857271",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/am1uitVwQJGknHTUevocUm9izES.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "弟の夫",
+  "dataLancamento": "2018-03-04"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "comedy-revenge",
+  "tipo": "serie",
+  "titulo": "Comedy Revenge",
+  "ano": null,
+  "descricao": "Vários astros da comédia se enfrentam em uma batalha de humor. As gargalhadas estão garantidas! A apresentação fica a cargo do lendário comediante Lee Kyeong-kyu.",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vrXpJDIwFYwctYxJxJwDMcAh9uG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oMS7gPtskbrmo8v4eqq6cssgSU3.jpg",
+  "tmdbId": 260565,
+  "nota": 8,
+  "xtreamSeriesId": 2291,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10852758",
+          "tipo": "episodio",
+          "titulo": "Comedy Revenge [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10852758",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrXpJDIwFYwctYxJxJwDMcAh9uG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852759",
+          "tipo": "episodio",
+          "titulo": "Comedy Revenge [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10852759",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrXpJDIwFYwctYxJxJwDMcAh9uG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852760",
+          "tipo": "episodio",
+          "titulo": "Comedy Revenge [L] S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10852760",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrXpJDIwFYwctYxJxJwDMcAh9uG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852761",
+          "tipo": "episodio",
+          "titulo": "Comedy Revenge [L] S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10852761",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrXpJDIwFYwctYxJxJwDMcAh9uG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852762",
+          "tipo": "episodio",
+          "titulo": "Comedy Revenge [L] S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10852762",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrXpJDIwFYwctYxJxJwDMcAh9uG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852763",
+          "tipo": "episodio",
+          "titulo": "Comedy Revenge [L] S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10852763",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrXpJDIwFYwctYxJxJwDMcAh9uG.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "코미디 리벤지",
+  "dataLancamento": "2024-10-15"
+}

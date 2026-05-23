@@ -1,0 +1,33 @@
+{
+  "id": "your-name",
+  "tipo": "filme",
+  "titulo": "Your name.",
+  "ano": null,
+  "descricao": "Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.",
+  "generos": [
+    "ANIMES"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eIm2nKC0125GyEPSWl6ODCA9J1S.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+  "tmdbId": 372058,
+  "nota": 8.5,
+  "opcoes": [
+    {
+      "nome": "Dublado",
+      "idioma": "Dublado",
+      "qualidade": "Não informado",
+      "xtreamId": 11020113,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11020160,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773580028,
+  "tituloOriginal": "君の名は。",
+  "dataLancamento": "2016-08-26"
+}

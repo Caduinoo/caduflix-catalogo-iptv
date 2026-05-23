@@ -1,0 +1,411 @@
+{
+  "id": "the-hardy-boys",
+  "tipo": "serie",
+  "titulo": "The Hardy Boys",
+  "ano": null,
+  "descricao": "Frank e Joe se mudam com seu pai, Fenton, para Bridgeport. Lá, os jovens vão tentar descobrir o que há por trás de uma tragédia recente que mudou suas vidas. Mas, ao fazer isso, acabam descobrindo algo muito mais sinistro.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eC9V272H4LVpu5bNmOmU0trdWbl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nyiFlvwcvO2dcVUL5TNPs130yWu.jpg",
+  "tmdbId": 21968,
+  "nota": 7.667,
+  "xtreamSeriesId": 2085,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10847799",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10847799",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847800",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10847800",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847801",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10847801",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847802",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10847802",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847803",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10847803",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847804",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10847804",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847805",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10847805",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847806",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10847806",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847807",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10847807",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847808",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10847808",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847809",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E11",
+          "numero": 11,
+          "temporada": 1,
+          "xtreamId": "10847809",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847810",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E12",
+          "numero": 12,
+          "temporada": 1,
+          "xtreamId": "10847810",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847811",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S01E13",
+          "numero": 13,
+          "temporada": 1,
+          "xtreamId": "10847811",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "nome": "Temporada 2",
+      "episodios": [
+        {
+          "id": "ep-10847812",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E01",
+          "numero": 1,
+          "temporada": 2,
+          "xtreamId": "10847812",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847813",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E02",
+          "numero": 2,
+          "temporada": 2,
+          "xtreamId": "10847813",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847814",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E03",
+          "numero": 3,
+          "temporada": 2,
+          "xtreamId": "10847814",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847815",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E04",
+          "numero": 4,
+          "temporada": 2,
+          "xtreamId": "10847815",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847816",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E05",
+          "numero": 5,
+          "temporada": 2,
+          "xtreamId": "10847816",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847817",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E06",
+          "numero": 6,
+          "temporada": 2,
+          "xtreamId": "10847817",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847818",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E07",
+          "numero": 7,
+          "temporada": 2,
+          "xtreamId": "10847818",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847819",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E08",
+          "numero": 8,
+          "temporada": 2,
+          "xtreamId": "10847819",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847820",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E09",
+          "numero": 9,
+          "temporada": 2,
+          "xtreamId": "10847820",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847821",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S02E10",
+          "numero": 10,
+          "temporada": 2,
+          "xtreamId": "10847821",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "nome": "Temporada 3",
+      "episodios": [
+        {
+          "id": "ep-10847822",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S03E01",
+          "numero": 1,
+          "temporada": 3,
+          "xtreamId": "10847822",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847823",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S03E02",
+          "numero": 2,
+          "temporada": 3,
+          "xtreamId": "10847823",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847824",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S03E03",
+          "numero": 3,
+          "temporada": 3,
+          "xtreamId": "10847824",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847825",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S03E04",
+          "numero": 4,
+          "temporada": 3,
+          "xtreamId": "10847825",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847826",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S03E05",
+          "numero": 5,
+          "temporada": 3,
+          "xtreamId": "10847826",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847827",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S03E06",
+          "numero": 6,
+          "temporada": 3,
+          "xtreamId": "10847827",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847828",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S03E07",
+          "numero": 7,
+          "temporada": 3,
+          "xtreamId": "10847828",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847829",
+          "tipo": "episodio",
+          "titulo": "The Hardy Boys S03E08",
+          "numero": 8,
+          "temporada": 3,
+          "xtreamId": "10847829",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e5vF3NMIXUglmlovawSo3m98O6O.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 3,
+  "totalEpisodios": 31,
+  "tituloOriginal": "The Hardy Boys",
+  "dataLancamento": "1995-09-23"
+}

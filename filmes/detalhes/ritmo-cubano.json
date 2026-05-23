@@ -1,0 +1,34 @@
+{
+  "id": "ritmo-cubano",
+  "tipo": "filme",
+  "titulo": "Ritmo Cubano",
+  "ano": null,
+  "descricao": "Quando era criança, Bruce adorava dançar, e possuía o talento necessário para se transformar em um dançarino profissional. Mas um momento de humilhação fez com que ele abandonasse esta paixão. Mais de duas décadas depois, Bruce trabalha em um escritório, é infeliz e não tem vida amorosa. Com a chegada de sua nova chefe, o funcionário pensa como fazer para seduzi-la, e descobre justamente que um de seus principais passatempos é a salsa. Bruce cria coragem e decide aprender a dançar novamente, contando com a ajuda do atrapalhado amigo Drew.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xuRAyIUJmgXwI1ba06AxYBAQMTc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rKIifnWUilOKt8raPEx35Lt3jmT.jpg",
+  "tmdbId": 201086,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789487,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773760,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Cuban Fury",
+  "dataLancamento": "2014-02-14"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-culpado",
+  "tipo": "filme",
+  "titulo": "O Culpado",
+  "ano": null,
+  "descricao": "Um detetive rebaixado a operador de chamadas de emergência tenta salvar uma mulher desesperada em meio a um dia frenético cheio de revelações, e acertos de contas.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8JmNl927pzilMKGLs8u4wv7wGEJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5wPWgTvdoVKW6ICeEAg86IBJOBW.jpg",
+  "tmdbId": 567748,
+  "nota": 6.421,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787977,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776063,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Guilty",
+  "dataLancamento": "2021-09-24"
+}

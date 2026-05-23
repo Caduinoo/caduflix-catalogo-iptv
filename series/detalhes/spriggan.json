@@ -1,0 +1,99 @@
+{
+  "id": "spriggan",
+  "tipo": "serie",
+  "titulo": "SPRIGGAN",
+  "ano": null,
+  "descricao": "As relíquias de uma antiga civilização guardam poderes perigosos. Ainda bem que os agentes Spriggan estão prontos para evitar que elas caiam nas mãos erradas.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bY7OyHeL3AIhCedifoANMEm5QYz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8v1flw4wcx1I7cIBxavaMsQqLou.jpg",
+  "tmdbId": 94925,
+  "nota": 6.657,
+  "xtreamSeriesId": 5279,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10923687",
+          "tipo": "episodio",
+          "titulo": "SPRIGGAN S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10923687",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/18by4OjqBPl5TKUHNdjlqThmsUr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923688",
+          "tipo": "episodio",
+          "titulo": "SPRIGGAN S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10923688",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/18by4OjqBPl5TKUHNdjlqThmsUr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923689",
+          "tipo": "episodio",
+          "titulo": "SPRIGGAN S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10923689",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/18by4OjqBPl5TKUHNdjlqThmsUr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923690",
+          "tipo": "episodio",
+          "titulo": "SPRIGGAN S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10923690",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/18by4OjqBPl5TKUHNdjlqThmsUr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923691",
+          "tipo": "episodio",
+          "titulo": "SPRIGGAN S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10923691",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/18by4OjqBPl5TKUHNdjlqThmsUr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923692",
+          "tipo": "episodio",
+          "titulo": "SPRIGGAN S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10923692",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/18by4OjqBPl5TKUHNdjlqThmsUr.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "スプリガン",
+  "dataLancamento": "2022-06-18"
+}

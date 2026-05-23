@@ -1,0 +1,99 @@
+{
+  "id": "o-refugio",
+  "tipo": "serie",
+  "titulo": "O Refúgio Atômico",
+  "ano": null,
+  "descricao": "Quando um grupo de bilionários se abriga em um bunker de luxo, uma antiga rixa entre duas famílias ressurge em meio a um conflito global sem precedentes.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fduPmBTeNtpMZeywIK4TEtLuRgH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
+  "tmdbId": 245648,
+  "nota": 6.257,
+  "xtreamSeriesId": 3148,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10875558",
+          "tipo": "episodio",
+          "titulo": "O Refugio S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10875558",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fduPmBTeNtpMZeywIK4TEtLuRgH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875559",
+          "tipo": "episodio",
+          "titulo": "O Refugio S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10875559",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fduPmBTeNtpMZeywIK4TEtLuRgH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875560",
+          "tipo": "episodio",
+          "titulo": "O Refugio S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10875560",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fduPmBTeNtpMZeywIK4TEtLuRgH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875561",
+          "tipo": "episodio",
+          "titulo": "O Refugio S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10875561",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fduPmBTeNtpMZeywIK4TEtLuRgH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875562",
+          "tipo": "episodio",
+          "titulo": "O Refugio S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10875562",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fduPmBTeNtpMZeywIK4TEtLuRgH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875563",
+          "tipo": "episodio",
+          "titulo": "O Refugio S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10875563",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fduPmBTeNtpMZeywIK4TEtLuRgH.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "El refugio atómico",
+  "dataLancamento": "2025-09-19"
+}

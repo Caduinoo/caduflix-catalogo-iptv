@@ -1,0 +1,693 @@
+{
+  "id": "naked-attraction",
+  "tipo": "serie",
+  "titulo": "Naked Attraction",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6fEANxuz4apmPvRurbVP5l5Ux1P.jpg",
+  "tmdbId": 67385,
+  "nota": 6,
+  "xtreamSeriesId": 3700,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10892474",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10892474",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892475",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10892475",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892476",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10892476",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892477",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10892477",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892478",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10892478",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "nome": "Temporada 2",
+      "episodios": [
+        {
+          "id": "ep-10892479",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E01",
+          "numero": 1,
+          "temporada": 2,
+          "xtreamId": "10892479",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892480",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E02",
+          "numero": 2,
+          "temporada": 2,
+          "xtreamId": "10892480",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892481",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E03",
+          "numero": 3,
+          "temporada": 2,
+          "xtreamId": "10892481",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892482",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E04",
+          "numero": 4,
+          "temporada": 2,
+          "xtreamId": "10892482",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892483",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E05",
+          "numero": 5,
+          "temporada": 2,
+          "xtreamId": "10892483",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892484",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E06",
+          "numero": 6,
+          "temporada": 2,
+          "xtreamId": "10892484",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892485",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E07",
+          "numero": 7,
+          "temporada": 2,
+          "xtreamId": "10892485",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892486",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E08",
+          "numero": 8,
+          "temporada": 2,
+          "xtreamId": "10892486",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892487",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E09",
+          "numero": 9,
+          "temporada": 2,
+          "xtreamId": "10892487",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892488",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S02E10",
+          "numero": 10,
+          "temporada": 2,
+          "xtreamId": "10892488",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "nome": "Temporada 3",
+      "episodios": [
+        {
+          "id": "ep-10892489",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E01",
+          "numero": 1,
+          "temporada": 3,
+          "xtreamId": "10892489",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892490",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E02",
+          "numero": 2,
+          "temporada": 3,
+          "xtreamId": "10892490",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892491",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E03",
+          "numero": 3,
+          "temporada": 3,
+          "xtreamId": "10892491",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892492",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E04",
+          "numero": 4,
+          "temporada": 3,
+          "xtreamId": "10892492",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892493",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E05",
+          "numero": 5,
+          "temporada": 3,
+          "xtreamId": "10892493",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892494",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E06",
+          "numero": 6,
+          "temporada": 3,
+          "xtreamId": "10892494",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892495",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E07",
+          "numero": 7,
+          "temporada": 3,
+          "xtreamId": "10892495",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892496",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E08",
+          "numero": 8,
+          "temporada": 3,
+          "xtreamId": "10892496",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892497",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E09",
+          "numero": 9,
+          "temporada": 3,
+          "xtreamId": "10892497",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892498",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S03E10",
+          "numero": 10,
+          "temporada": 3,
+          "xtreamId": "10892498",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "nome": "Temporada 4",
+      "episodios": [
+        {
+          "id": "ep-10892499",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E01",
+          "numero": 1,
+          "temporada": 4,
+          "xtreamId": "10892499",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892500",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E02",
+          "numero": 2,
+          "temporada": 4,
+          "xtreamId": "10892500",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892501",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E03",
+          "numero": 3,
+          "temporada": 4,
+          "xtreamId": "10892501",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892502",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E04",
+          "numero": 4,
+          "temporada": 4,
+          "xtreamId": "10892502",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892503",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E05",
+          "numero": 5,
+          "temporada": 4,
+          "xtreamId": "10892503",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892504",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E06",
+          "numero": 6,
+          "temporada": 4,
+          "xtreamId": "10892504",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892505",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E07",
+          "numero": 7,
+          "temporada": 4,
+          "xtreamId": "10892505",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892506",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E08",
+          "numero": 8,
+          "temporada": 4,
+          "xtreamId": "10892506",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892507",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E09",
+          "numero": 9,
+          "temporada": 4,
+          "xtreamId": "10892507",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892508",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S04E10",
+          "numero": 10,
+          "temporada": 4,
+          "xtreamId": "10892508",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "nome": "Temporada 5",
+      "episodios": [
+        {
+          "id": "ep-10892509",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E01",
+          "numero": 1,
+          "temporada": 5,
+          "xtreamId": "10892509",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892510",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E02",
+          "numero": 2,
+          "temporada": 5,
+          "xtreamId": "10892510",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892511",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E03",
+          "numero": 3,
+          "temporada": 5,
+          "xtreamId": "10892511",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892512",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E04",
+          "numero": 4,
+          "temporada": 5,
+          "xtreamId": "10892512",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892513",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E05",
+          "numero": 5,
+          "temporada": 5,
+          "xtreamId": "10892513",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892514",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E06",
+          "numero": 6,
+          "temporada": 5,
+          "xtreamId": "10892514",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892515",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E07",
+          "numero": 7,
+          "temporada": 5,
+          "xtreamId": "10892515",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892516",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E08",
+          "numero": 8,
+          "temporada": 5,
+          "xtreamId": "10892516",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892517",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E09",
+          "numero": 9,
+          "temporada": 5,
+          "xtreamId": "10892517",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892518",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S05E10",
+          "numero": 10,
+          "temporada": 5,
+          "xtreamId": "10892518",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "nome": "Temporada 6",
+      "episodios": [
+        {
+          "id": "ep-10892519",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S06E01",
+          "numero": 1,
+          "temporada": 6,
+          "xtreamId": "10892519",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892520",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S06E02",
+          "numero": 2,
+          "temporada": 6,
+          "xtreamId": "10892520",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892521",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S06E03",
+          "numero": 3,
+          "temporada": 6,
+          "xtreamId": "10892521",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892522",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S06E04",
+          "numero": 4,
+          "temporada": 6,
+          "xtreamId": "10892522",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892523",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S06E05",
+          "numero": 5,
+          "temporada": 6,
+          "xtreamId": "10892523",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892524",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S06E06",
+          "numero": 6,
+          "temporada": 6,
+          "xtreamId": "10892524",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892525",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S06E07",
+          "numero": 7,
+          "temporada": 6,
+          "xtreamId": "10892525",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892526",
+          "tipo": "episodio",
+          "titulo": "Naked Attraction S06E08",
+          "numero": 8,
+          "temporada": 6,
+          "xtreamId": "10892526",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rqrgb2CvBcaUD9UsTGynOBHmwqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 6,
+  "totalEpisodios": 53,
+  "tituloOriginal": "Naked Attraction",
+  "dataLancamento": "2016-07-25"
+}

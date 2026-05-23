@@ -1,0 +1,99 @@
+{
+  "id": "capitaes-do-mundo",
+  "tipo": "serie",
+  "titulo": "Capitães do Mundo",
+  "ano": null,
+  "descricao": "Dos vestiários ao campo, esta série documental acompanha de perto os 32 times em busca da maior conquista do futebol na Copa do Mundo FIFA 2022.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wvaAQpfj7bxQCuOIdYIMbZ1pVax.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/k0VlATt8q5tM2r7XFMwl2cVvfgQ.jpg",
+  "tmdbId": 242238,
+  "nota": 8.506,
+  "xtreamSeriesId": 4222,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10903530",
+          "tipo": "episodio",
+          "titulo": "Capitaes do Mundo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10903530",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wvaAQpfj7bxQCuOIdYIMbZ1pVax.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903531",
+          "tipo": "episodio",
+          "titulo": "Capitaes do Mundo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10903531",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wvaAQpfj7bxQCuOIdYIMbZ1pVax.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903532",
+          "tipo": "episodio",
+          "titulo": "Capitaes do Mundo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10903532",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wvaAQpfj7bxQCuOIdYIMbZ1pVax.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903533",
+          "tipo": "episodio",
+          "titulo": "Capitaes do Mundo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10903533",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wvaAQpfj7bxQCuOIdYIMbZ1pVax.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903534",
+          "tipo": "episodio",
+          "titulo": "Capitaes do Mundo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10903534",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wvaAQpfj7bxQCuOIdYIMbZ1pVax.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903535",
+          "tipo": "episodio",
+          "titulo": "Capitaes do Mundo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10903535",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wvaAQpfj7bxQCuOIdYIMbZ1pVax.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Captains of the World",
+  "dataLancamento": "2023-12-30"
+}

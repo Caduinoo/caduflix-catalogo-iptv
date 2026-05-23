@@ -1,0 +1,75 @@
+{
+  "id": "vidrados-no-natal",
+  "tipo": "serie",
+  "titulo": "Vidrados no Natal",
+  "ano": null,
+  "descricao": "Cinco artistas estão de volta para encher a oficina do vidro com criações natalinas. Mas só um deles vai para casa com um generoso presente de Natal.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fNrKfD2igYvN4nlW0yNACKqToHL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8YVXH8FATvrwxWvInkKXaUbHpvL.jpg",
+  "tmdbId": 136101,
+  "nota": 6,
+  "xtreamSeriesId": 5443,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927719",
+          "tipo": "episodio",
+          "titulo": "Vidrados no Natal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927719",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fNrKfD2igYvN4nlW0yNACKqToHL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927720",
+          "tipo": "episodio",
+          "titulo": "Vidrados no Natal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927720",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fNrKfD2igYvN4nlW0yNACKqToHL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927721",
+          "tipo": "episodio",
+          "titulo": "Vidrados no Natal S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927721",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fNrKfD2igYvN4nlW0yNACKqToHL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927722",
+          "tipo": "episodio",
+          "titulo": "Vidrados no Natal S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927722",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fNrKfD2igYvN4nlW0yNACKqToHL.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Blown Away: Christmas",
+  "dataLancamento": "2021-11-19"
+}

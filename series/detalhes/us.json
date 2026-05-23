@@ -1,0 +1,87 @@
+{
+  "id": "us",
+  "tipo": "serie",
+  "titulo": "The Last of Us",
+  "ano": null,
+  "descricao": "Situado duas décadas após a implosão de nossa sociedade, o drama seguirá Joel, um sobrevivente difícil, que é contratado para contrabandear uma garota de 14 anos chamada Ellie para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e de partir o coração, já que os dois precisam atravessar os Estados Unidos e dependem um do outro para sobreviver.",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/el1KQzwdIm17I3A6cYPfsVIWhfX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/acevLdSl5I2MK5RYAm7gwAndt1w.jpg",
+  "tmdbId": 100088,
+  "nota": 8.432,
+  "xtreamSeriesId": 2759,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10860860",
+          "tipo": "episodio",
+          "titulo": "Us [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10860860",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dWBZqmCdM56vCxpb8YO29k8Bd5n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10860861",
+          "tipo": "episodio",
+          "titulo": "Us [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10860861",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dWBZqmCdM56vCxpb8YO29k8Bd5n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10860862",
+          "tipo": "episodio",
+          "titulo": "Us [L] S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10860862",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dWBZqmCdM56vCxpb8YO29k8Bd5n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10860863",
+          "tipo": "episodio",
+          "titulo": "Us [L] S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10860863",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dWBZqmCdM56vCxpb8YO29k8Bd5n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10860864",
+          "tipo": "episodio",
+          "titulo": "Us [L] S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10860864",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dWBZqmCdM56vCxpb8YO29k8Bd5n.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "The Last of Us",
+  "dataLancamento": "2023-01-15"
+}

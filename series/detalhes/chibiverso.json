@@ -1,0 +1,75 @@
+{
+  "id": "chibiverso",
+  "tipo": "serie",
+  "titulo": "Chibiverso",
+  "ano": null,
+  "descricao": "Junte-se aos seus personagens favoritos da Disney enquanto eles organizam uma vitrine para celebrar suas aventuras selvagens de Chibi Tiny Tales, incluindo Phineas e Ferb, Cricket Green, Anne Boonchuy, Molly McGee, Penny Proud e muito mais.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/s6BO9QBSJE2lMcUPjVJmyJeRxSY.jpg",
+  "tmdbId": 205683,
+  "nota": 7,
+  "xtreamSeriesId": 1742,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10837520",
+          "tipo": "episodio",
+          "titulo": "Chibiverso S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10837520",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837521",
+          "tipo": "episodio",
+          "titulo": "Chibiverso S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10837521",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837522",
+          "tipo": "episodio",
+          "titulo": "Chibiverso S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10837522",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837523",
+          "tipo": "episodio",
+          "titulo": "Chibiverso S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10837523",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Chibiverse",
+  "dataLancamento": "2022-07-30"
+}

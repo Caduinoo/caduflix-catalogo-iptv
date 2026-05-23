@@ -1,0 +1,34 @@
+{
+  "id": "alberto",
+  "tipo": "filme",
+  "titulo": "Oi, Alberto",
+  "ano": null,
+  "descricao": "O monstro marinho que adora diversão, Alberto, quer de todo coração provar seu valor para o seu impassível mentor, Massimo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/njLC9j6Cfa2VuXWQGPD2tqjbzbx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qXctHIfK4LAgHH7qZiJJVCPclaY.jpg",
+  "tmdbId": 876716,
+  "nota": 7.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784003,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772207,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Ciao Alberto",
+  "dataLancamento": "2021-11-11"
+}

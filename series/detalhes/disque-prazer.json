@@ -1,0 +1,99 @@
+{
+  "id": "disque-prazer",
+  "tipo": "serie",
+  "titulo": "Disque Prazer",
+  "ano": null,
+  "descricao": "Na Amsterdã dos anos 1980, uma estudante ambiciosa descobre uma nova carreira por acaso: atendente de um serviço de telessexo criado por dois irmãos bem diferentes.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rbq4SsY1gJKLMO18i2XrUrswyLS.jpg",
+  "tmdbId": 105306,
+  "nota": 6.2,
+  "xtreamSeriesId": 4410,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906474",
+          "tipo": "episodio",
+          "titulo": "Disque Prazer S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906474",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906475",
+          "tipo": "episodio",
+          "titulo": "Disque Prazer S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906475",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906476",
+          "tipo": "episodio",
+          "titulo": "Disque Prazer S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906476",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906477",
+          "tipo": "episodio",
+          "titulo": "Disque Prazer S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906477",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906478",
+          "tipo": "episodio",
+          "titulo": "Disque Prazer S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10906478",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906479",
+          "tipo": "episodio",
+          "titulo": "Disque Prazer S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10906479",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Dirty Lines",
+  "dataLancamento": "2022-04-08"
+}

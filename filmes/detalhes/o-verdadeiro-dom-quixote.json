@@ -1,0 +1,34 @@
+{
+  "id": "o-verdadeiro-dom-quixote",
+  "tipo": "filme",
+  "titulo": "O Verdadeiro Dom Quixote",
+  "ano": null,
+  "descricao": "O conto clássico de Cervantes ganha vida na Louisiana contemporânea, onde um homem sem rumo transforma seu bairro em uma terra fantástica de glória medieval.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/i4CTZENYMTvI0QPbgU7ZmHXUmFG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/l3i81FWQs2OExzXRpIfrZXNFIYC.jpg",
+  "tmdbId": 632701,
+  "nota": 7.071,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791737,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791697,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "The True Don Quixote",
+  "dataLancamento": "2019-10-01"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "narvik",
+  "tipo": "filme",
+  "titulo": "Narvik",
+  "ano": null,
+  "descricao": "Com a primeira derrota de Hitler na Segunda Guerra como pano de fundo, um soldado norueguês volta para casa e descobre uma verdade chocante sobre a esposa.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lutKUOeedR5TZdfuMbD4fcAy64b.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ogFIG0fNXEYRQKrpnoRJcXQNX9n.jpg",
+  "tmdbId": 619930,
+  "nota": 6.78,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787598,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778032,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Kampen om Narvik",
+  "dataLancamento": "2022-12-25"
+}

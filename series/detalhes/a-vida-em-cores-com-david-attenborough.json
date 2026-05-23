@@ -1,0 +1,63 @@
+{
+  "id": "a-vida-em-cores-com-david-attenborough",
+  "tipo": "serie",
+  "titulo": "A Vida em Cores com David Attenborough",
+  "ano": null,
+  "descricao": "Usando tecnologia inovadora, esta série documental explora a natureza de uma nova perspectiva, enquanto os animais usam a cor para sobreviver e prosperar na natureza.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/egZRYjJRFhcDzubtnZldtYBzz7i.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jSBu2PKzLx3Lf1foTMxUMKDkjG5.jpg",
+  "tmdbId": 119815,
+  "nota": 7.7,
+  "xtreamSeriesId": 4014,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10900198",
+          "tipo": "episodio",
+          "titulo": "A Vida em Cores com David Attenborough S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10900198",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/egZRYjJRFhcDzubtnZldtYBzz7i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900199",
+          "tipo": "episodio",
+          "titulo": "A Vida em Cores com David Attenborough S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10900199",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/egZRYjJRFhcDzubtnZldtYBzz7i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900200",
+          "tipo": "episodio",
+          "titulo": "A Vida em Cores com David Attenborough S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10900200",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/egZRYjJRFhcDzubtnZldtYBzz7i.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Attenborough's Life in Colour",
+  "dataLancamento": "2021-02-28"
+}

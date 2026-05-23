@@ -1,0 +1,99 @@
+{
+  "id": "batalha-das-comidinhas",
+  "tipo": "serie",
+  "titulo": "Batalha das Comidinhas",
+  "ano": null,
+  "descricao": "O chef Darnell Ferguson e a comediante Mamrie Hart apresentam a maior competição de comidas minúsculas do mundo, com um prêmio de 5 mil dólares e um mini troféu em jogo.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/27DXPlKE4bcsalvgzPg8FvkNogE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9HYvpNPSHmmsOPWbA9hMMb4ehUm.jpg",
+  "tmdbId": 133811,
+  "nota": 10,
+  "xtreamSeriesId": 5829,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10972606",
+          "tipo": "episodio",
+          "titulo": "Batalha das Comidinhas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10972606",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/27DXPlKE4bcsalvgzPg8FvkNogE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972607",
+          "tipo": "episodio",
+          "titulo": "Batalha das Comidinhas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10972607",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/27DXPlKE4bcsalvgzPg8FvkNogE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972608",
+          "tipo": "episodio",
+          "titulo": "Batalha das Comidinhas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10972608",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/27DXPlKE4bcsalvgzPg8FvkNogE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972609",
+          "tipo": "episodio",
+          "titulo": "Batalha das Comidinhas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10972609",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/27DXPlKE4bcsalvgzPg8FvkNogE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972610",
+          "tipo": "episodio",
+          "titulo": "Batalha das Comidinhas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10972610",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/27DXPlKE4bcsalvgzPg8FvkNogE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972611",
+          "tipo": "episodio",
+          "titulo": "Batalha das Comidinhas S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10972611",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/27DXPlKE4bcsalvgzPg8FvkNogE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Tiny Food Fight",
+  "dataLancamento": "2021-09-16"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "disque-jane",
+  "tipo": "filme",
+  "titulo": "Disque Jane",
+  "ano": null,
+  "descricao": "Em 1960 um grupo de mulheres vanguardistas criou em Chicago uma organização secreta que oferecia abortos seguros para mulheres em uma época em que a prática ainda não era legalizada. Neste contexto, uma mulher casada engravida inesperadamente e procura o grupo com urgência, no entanto, ela acaba se tornando uma das principais líderes do movimento que mais tarde carregaria o seu nome",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qK2sx7wBd3bhkdh6S2fsfS0CuCd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4AT2EM0wOkDB6kuClleU6ElIHyl.jpg",
+  "tmdbId": 579496,
+  "nota": 6.51,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785506,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775255,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Call Jane",
+  "dataLancamento": "2022-10-27"
+}

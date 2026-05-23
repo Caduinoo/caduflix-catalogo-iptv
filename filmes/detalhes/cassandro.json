@@ -1,0 +1,42 @@
+{
+  "id": "cassandro",
+  "tipo": "filme",
+  "titulo": "Cassandro",
+  "ano": null,
+  "descricao": "Saúl Armendáriz, um lutador gay de lucha libre de El Paso, alcança a fama internacional depois de criar o personagem Cassandro, o \"Liberace da Lucha Libre\". Durante o processo, ele subverte não apenas o mundo macho da lucha libre, mas também sua própria vida.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/w8OpyJ7O3Uozflzxkn0J0TmowZn.jpg",
+  "tmdbId": 729120,
+  "nota": 6.619,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784840,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775056,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10791670,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Cassandro",
+  "dataLancamento": "2023-09-14"
+}

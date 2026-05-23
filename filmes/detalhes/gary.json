@@ -1,0 +1,42 @@
+{
+  "id": "gary",
+  "tipo": "filme",
+  "titulo": "Gary",
+  "ano": null,
+  "descricao": "Dois amigos encaram uma viagem a trabalho cheia de desafios inesperados. Enquanto resolvem problemas e se conectam com os moradores, a experiência deixa uma marca inesquecível e oferece um novo olhar sobre a amizade deles.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg",
+  "tmdbId": 1688652,
+  "nota": 6.333,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040906,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040899,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050004,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Gary",
+  "dataLancamento": "2026-05-05"
+}

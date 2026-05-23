@@ -1,0 +1,99 @@
+{
+  "id": "na-estrada-com-o-ex",
+  "tipo": "serie",
+  "titulo": "Na Estrada com o Ex",
+  "ano": null,
+  "descricao": "Em uma viagem épica para um casamento na Espanha com sua irmã Deb, Addie quase colide com um Porsche em alta velocidade.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5H8cMgq97S31P1IOxgp83tr4cvW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aXG9wWBN6cX7fh3Jm1o3IOABqng.jpg",
+  "tmdbId": 275277,
+  "nota": 5.375,
+  "xtreamSeriesId": 447,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10802041",
+          "tipo": "episodio",
+          "titulo": "Na Estrada Com O Ex S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10802041",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5H8cMgq97S31P1IOxgp83tr4cvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802042",
+          "tipo": "episodio",
+          "titulo": "Na Estrada Com O Ex S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10802042",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5H8cMgq97S31P1IOxgp83tr4cvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802043",
+          "tipo": "episodio",
+          "titulo": "Na Estrada Com O Ex S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10802043",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5H8cMgq97S31P1IOxgp83tr4cvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802044",
+          "tipo": "episodio",
+          "titulo": "Na Estrada Com O Ex S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10802044",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5H8cMgq97S31P1IOxgp83tr4cvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802045",
+          "tipo": "episodio",
+          "titulo": "Na Estrada Com O Ex S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10802045",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5H8cMgq97S31P1IOxgp83tr4cvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802046",
+          "tipo": "episodio",
+          "titulo": "Na Estrada Com O Ex S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10802046",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5H8cMgq97S31P1IOxgp83tr4cvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Road Trip",
+  "dataLancamento": "2024-12-25"
+}

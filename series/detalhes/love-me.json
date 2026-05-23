@@ -1,0 +1,100 @@
+{
+  "id": "love-me",
+  "tipo": "serie",
+  "titulo": "Love Me",
+  "ano": null,
+  "descricao": "Clara (30 anos), Glen (50 anos) e Aaron (20 anos), se encontram em uma encruzilhada emocional após um evento inesperado que mudará as suas vidas para sempre.",
+  "generos": [
+    "PARAMOUNT+",
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oZoTcYBFB1r0TpTdhEQWp3zbglq.jpg",
+  "tmdbId": 139628,
+  "nota": 6.1,
+  "xtreamSeriesId": 6561,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10996883",
+          "tipo": "episodio",
+          "titulo": "Love Me S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10996883",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10996884",
+          "tipo": "episodio",
+          "titulo": "Love Me S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10996884",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10996885",
+          "tipo": "episodio",
+          "titulo": "Love Me S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10996885",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10996886",
+          "tipo": "episodio",
+          "titulo": "Love Me S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10996886",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10996887",
+          "tipo": "episodio",
+          "titulo": "Love Me S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10996887",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10996888",
+          "tipo": "episodio",
+          "titulo": "Love Me S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10996888",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHeLDWexDAjxRALv4Yi0oaT0UCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Love Me",
+  "dataLancamento": "2021-12-26"
+}

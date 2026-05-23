@@ -1,0 +1,34 @@
+{
+  "id": "o-poco-2",
+  "tipo": "filme",
+  "titulo": "O Poço 2",
+  "ano": null,
+  "descricao": "Após um líder misterioso impor sua própria lei em um sistema brutal de celas verticais, uma mulher luta contra um método bizarro de distribuição de comida.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2fJn438T3W2XDlyBlgNuAeAAHrj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg",
+  "tmdbId": 1125510,
+  "nota": 5.56,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788376,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779929,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "El hoyo 2",
+  "dataLancamento": "2024-09-27"
+}

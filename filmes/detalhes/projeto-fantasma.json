@@ -1,0 +1,34 @@
+{
+  "id": "projeto-fantasma",
+  "tipo": "filme",
+  "titulo": "Projeto Fantasma",
+  "ano": null,
+  "descricao": "Três jovens programadores encontram uma tecnologia que havia sido criada para detectar presenças sobrenaturais, porém, o projeto estava abandonado. Juntos, eles usam a tecnologia para criar um aplicativo para o smartphone. Só que, ao usar o app, o trio acaba mexendo com o que não deveriam.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5OnTlcjY4e0WhWqTOuGFYXmkFKJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/loeggqqCjQFFEVEixbO3UJ7df9v.jpg",
+  "tmdbId": 1161663,
+  "nota": 5.564,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789188,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781339,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Ghost Project",
+  "dataLancamento": "2023-08-07"
+}

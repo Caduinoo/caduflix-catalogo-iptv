@@ -1,0 +1,34 @@
+{
+  "id": "apollo-11",
+  "tipo": "filme",
+  "titulo": "Apollo 11",
+  "ano": null,
+  "descricao": "Com o plano de desembarcar dois astronautas na superfície lunar e regressar para a Terra em segurança, a missão Apollo 11 é até hoje uma grande referência quando se trata de momentos importantes na humanidade. Durante décadas, trechos dos bastidores permaneceram guardados e apenas recentemente foram liberados para visualização do público no geral.",
+  "generos": [
+    "LEGENDADOS",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/el4j0LHk56uH6ErE5FZu2x5UJx8.jpg",
+  "tmdbId": 549559,
+  "nota": 7.866,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784246,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782066,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Apollo 11",
+  "dataLancamento": "2019-03-01"
+}

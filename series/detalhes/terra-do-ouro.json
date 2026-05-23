@@ -1,0 +1,75 @@
+{
+  "id": "terra-do-ouro",
+  "tipo": "serie",
+  "titulo": "Terra do Ouro",
+  "ano": null,
+  "descricao": "Heeju acidentalmente se depara com uma fortuna em barras de ouro de contrabandistas. Em meio a um caos de ganância e traição, ela é consumida pelo desejo de ficar com tudo e trava uma batalha desesperada para ficar com o tesouro só para si.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/stWNLnCpp6IrzApfvEvn2IDSuCp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kuLhcTkriaiXYYdKGS9yt0AX4F4.jpg",
+  "tmdbId": 278113,
+  "nota": 8.3,
+  "xtreamSeriesId": 7401,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11039583",
+          "tipo": "episodio",
+          "titulo": "Terra do Ouro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11039583",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11052673",
+          "tipo": "episodio",
+          "titulo": "Terra do Ouro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11052673",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11052674",
+          "tipo": "episodio",
+          "titulo": "Terra do Ouro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11052674",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11052675",
+          "tipo": "episodio",
+          "titulo": "Terra do Ouro S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11052675",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "골드랜드",
+  "dataLancamento": "2026-04-29"
+}

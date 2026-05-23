@@ -1,0 +1,34 @@
+{
+  "id": "mafia-digital",
+  "tipo": "filme",
+  "titulo": "Máfia Digital",
+  "ano": null,
+  "descricao": "Um jovem agente anti-lavagem de dinheiro é encarregado de investigar uma densa rede de corrupção em Nova York. Uma enorme fraude envolvendo criptomoedas, negociantes e nomes poderosos da cidade.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dgjNKd3LueeMyMBci7WwzuyKIfV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4XT591GqHTqnhjSPaxlU79CclyP.jpg",
+  "tmdbId": 567733,
+  "nota": 5.386,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787544,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779841,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Crypto",
+  "dataLancamento": "2019-04-12"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-paradoxo-cloverfield",
+  "tipo": "filme",
+  "titulo": "O Paradoxo Cloverfield",
+  "ano": null,
+  "descricao": "Em órbita sobre um planeta prestes a entrar em guerra, cientistas testam uma possível solução para a crise de energia, mas acabam em uma realidade alternativa.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/czhHYlMncgKh3zPZfvVIEAQyAqb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2cnUCcNmmj79hGmimvWlUo5P2K8.jpg",
+  "tmdbId": 384521,
+  "nota": 5.632,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788343,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781178,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Cloverfield Paradox",
+  "dataLancamento": "2018-02-04"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a-substancia",
+  "tipo": "filme",
+  "titulo": "A Substância",
+  "ano": null,
+  "descricao": "Uma estrela em declínio descobre uma substância misteriosa que lhe permite criar uma versão mais jovem e perfeita de si mesma. No entanto, o que parece ser uma solução milagrosa para recuperar sua glória logo se transforma em um pesadelo perturbador quando as consequências desta decisão começam a se manifestar de formas sombrias e irreversíveis.",
+  "generos": [
+    "OSCAR"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
+  "tmdbId": 933260,
+  "nota": 7.134,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778837,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10778840,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778836,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567055,
+  "tituloOriginal": "The Substance",
+  "dataLancamento": "2024-09-07"
+}

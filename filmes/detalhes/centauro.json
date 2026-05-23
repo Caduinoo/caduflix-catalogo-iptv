@@ -1,0 +1,34 @@
+{
+  "id": "centauro",
+  "tipo": "filme",
+  "titulo": "Centauro",
+  "ano": null,
+  "descricao": "Para pagar a dívida da mãe de seu filho, um piloto de moto passa a transportar drogas para um cartel, arriscando suas chances no esporte e a própria vida.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uMYROfsn2lm1P8wzOsq3c6TuRxF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/v7hdWmLh6VLgZQgkbHDxAa17M47.jpg",
+  "tmdbId": 852592,
+  "nota": 6.12,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784884,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769480,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Centauro",
+  "dataLancamento": "2022-06-15"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "possessoes",
+  "tipo": "filme",
+  "titulo": "Possessões",
+  "ano": null,
+  "descricao": "Três histórias são entrelaçadas por espíritos malignos. Em Veneno, dois amantes planejam acabar com de um marido adúltero e violento, para ficarem com sua fortuna. Em Obsessão, um casal de noivos é surpreendido pelo espírito de uma mulher a quem o noivo fez mal no passado. Em O portal, uma jovem vai morar sozinha e se debate entre o medo de estar ficando louca e a crescente certeza de que o seu apartamento é um portal do mal, que abriga força demoníaca que quer a sua alma.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/slJbdhqeGL2MM8P3mJ5rvw5nBPo.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2bHhK7CLrdB8VBQtldrru0ET8Lh.jpg",
+  "tmdbId": 743091,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789120,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781312,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Possessões",
+  "dataLancamento": "2018-12-18"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "escandalo-bem-britanico",
+  "tipo": "serie",
+  "titulo": "Escândalo Bem Britânico",
+  "ano": null,
+  "descricao": "A segunda temporada se concentra em um escândalo sexual de 1963 envolvendo Margaret Campbell, a duquesa de Argyll. Durante o divórcio de seu segundo marido, ele capturou imagens de Campbell realizando um ato sexual com um homem desconhecido e ela ficou conhecida como \"A Dirty Duchess\".",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2U8TEauIfAI3KQ1dTnHfzy0U2xU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oratSFbxhVq4uGps5bAZvSqUuRH.jpg",
+  "tmdbId": 139064,
+  "nota": 6.7,
+  "xtreamSeriesId": 258,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10798107",
+          "tipo": "episodio",
+          "titulo": "Escandalo Bem Britanico S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10798107",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7I6CKYo4f6sUIwJk88DnK7ss2Ka.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798108",
+          "tipo": "episodio",
+          "titulo": "Escandalo Bem Britanico S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10798108",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7I6CKYo4f6sUIwJk88DnK7ss2Ka.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798109",
+          "tipo": "episodio",
+          "titulo": "Escandalo Bem Britanico S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10798109",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7I6CKYo4f6sUIwJk88DnK7ss2Ka.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "A Very British Scandal",
+  "dataLancamento": "2021-12-26"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "hoops",
+  "tipo": "serie",
+  "titulo": "Hoops",
+  "ano": null,
+  "descricao": "Um treinador de basquete mal-humorado faz de tudo para colocar seu time na linha e chegar às divisões principais. Não vai ser fácil virar esse jogo!",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/JxeU54yourLJMU9VhADcgnX3ko.jpg",
+  "tmdbId": 106238,
+  "nota": 6.808,
+  "xtreamSeriesId": 4617,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10910606",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10910606",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910607",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10910607",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910608",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10910608",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910609",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10910609",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910610",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10910610",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910611",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10910611",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910612",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10910612",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910613",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10910613",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910614",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10910614",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910615",
+          "tipo": "episodio",
+          "titulo": "Hoops S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10910615",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3umUQ5DcZe7mSZGImCAStl2FRbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "Hoops",
+  "dataLancamento": "2020-08-21"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "the-trip",
+  "tipo": "filme",
+  "titulo": "The Trip",
+  "ano": null,
+  "descricao": "Decididos a pôr um fim no casamento assassinando um ao outro, um casal se dirige a uma cabana remota, mas logo precisam enfrentar uma ameaça ainda maior.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/coGs91wC3XGIguuy1SUdoWkXOVf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/miWYR5GcGlJ2E4tYO4Um9NT2tcS.jpg",
+  "tmdbId": 760747,
+  "nota": 6.702,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790305,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770792,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "I onde dager",
+  "dataLancamento": "2021-07-30"
+}

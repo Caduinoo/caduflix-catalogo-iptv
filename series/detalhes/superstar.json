@@ -1,0 +1,99 @@
+{
+  "id": "superstar",
+  "tipo": "serie",
+  "titulo": "Love Live! Superstar!!",
+  "ano": null,
+  "descricao": "O novo Colégio Feminino Yuigaoka de Tóquio não tem história, veteranos ou qualquer reputação. As primeiras alunas estão começando do zero! Um time de cinco garotas lideradas por Kanon Shibuya descobrem o Ídolo Escolar, e suas esperanças de fazerem algo com a música começam a crescer. Elas começam um “Projeto Ídolo Escolar” do zero e com infinito potencial. É hora de Love Live deslanchar!",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4KoXFWudJb389qH0EoAdRq8xtvs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4RNJAAVpU2bzDVumQMvR1W7jYxW.jpg",
+  "tmdbId": 106055,
+  "nota": 8.106,
+  "xtreamSeriesId": 5308,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10924798",
+          "tipo": "episodio",
+          "titulo": "Superstar S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10924798",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xTDy9hlQQPJrI1LtCfEiC3NJRgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924799",
+          "tipo": "episodio",
+          "titulo": "Superstar S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10924799",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xTDy9hlQQPJrI1LtCfEiC3NJRgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924800",
+          "tipo": "episodio",
+          "titulo": "Superstar S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10924800",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xTDy9hlQQPJrI1LtCfEiC3NJRgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924801",
+          "tipo": "episodio",
+          "titulo": "Superstar S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10924801",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xTDy9hlQQPJrI1LtCfEiC3NJRgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924802",
+          "tipo": "episodio",
+          "titulo": "Superstar S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10924802",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xTDy9hlQQPJrI1LtCfEiC3NJRgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924803",
+          "tipo": "episodio",
+          "titulo": "Superstar S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10924803",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xTDy9hlQQPJrI1LtCfEiC3NJRgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "ラブライブ！スーパースター!!",
+  "dataLancamento": "2021-07-11"
+}

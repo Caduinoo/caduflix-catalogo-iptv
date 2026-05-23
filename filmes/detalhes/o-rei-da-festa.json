@@ -1,0 +1,34 @@
+{
+  "id": "o-rei-da-festa",
+  "tipo": "filme",
+  "titulo": "O Rei da Festa",
+  "ano": null,
+  "descricao": "Durante uma crise emocional, um homem escolhe viver a vida de seu irmão gêmeo que acreditava estar morto. Após essa experiência, sua identidade será completamente transformada.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/58wdFd013l6bRjpViTv5PYy2EQ4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/49Pr5ZEswm62bZ2BC8PwmdJPZrv.jpg",
+  "tmdbId": 574249,
+  "nota": 4.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788431,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776276,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "El rey de la fiesta",
+  "dataLancamento": "2021-08-21"
+}

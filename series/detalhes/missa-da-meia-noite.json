@@ -1,0 +1,111 @@
+{
+  "id": "missa-da-meia-noite",
+  "tipo": "serie",
+  "titulo": "Missa da Meia-Noite",
+  "ano": null,
+  "descricao": "A chegada de um jovem sacerdote carismático traz milagres, mistérios e um fervor religioso renovado a uma cidade moribunda e desesperada por fé.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rka8ibtD6HayiEJmb6rns47lyAL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/YauN3gyvgqktYhze4gXPWuoZBY.jpg",
+  "tmdbId": 97400,
+  "nota": 7.5,
+  "xtreamSeriesId": 4816,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10914944",
+          "tipo": "episodio",
+          "titulo": "Missa da Meia-Noite S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10914944",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rka8ibtD6HayiEJmb6rns47lyAL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914945",
+          "tipo": "episodio",
+          "titulo": "Missa da Meia-Noite S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10914945",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rka8ibtD6HayiEJmb6rns47lyAL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914946",
+          "tipo": "episodio",
+          "titulo": "Missa da Meia-Noite S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10914946",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rka8ibtD6HayiEJmb6rns47lyAL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914947",
+          "tipo": "episodio",
+          "titulo": "Missa da Meia-Noite S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10914947",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rka8ibtD6HayiEJmb6rns47lyAL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914948",
+          "tipo": "episodio",
+          "titulo": "Missa da Meia-Noite S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10914948",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rka8ibtD6HayiEJmb6rns47lyAL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914949",
+          "tipo": "episodio",
+          "titulo": "Missa da Meia-Noite S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10914949",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rka8ibtD6HayiEJmb6rns47lyAL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914950",
+          "tipo": "episodio",
+          "titulo": "Missa da Meia-Noite S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10914950",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rka8ibtD6HayiEJmb6rns47lyAL.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Midnight Mass",
+  "dataLancamento": "2021-09-24"
+}

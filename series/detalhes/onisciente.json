@@ -1,0 +1,99 @@
+{
+  "id": "onisciente",
+  "tipo": "serie",
+  "titulo": "Onisciente",
+  "ano": null,
+  "descricao": "Numa cidade onde os cidadãos são monitorados 24 horas por dia, uma mulher precisa enganar seu drone de vigilância para investigar um assassinato.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2JyTw2q9ytOcBp1OajmoIhW2xw5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xtEFoiRbd4n4UZH5r8rjbZrBt8n.jpg",
+  "tmdbId": 98510,
+  "nota": 6.5,
+  "xtreamSeriesId": 5026,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10918526",
+          "tipo": "episodio",
+          "titulo": "Onisciente S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10918526",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uajx43GJ7ACUIBDVgceGaKBd4tE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10918527",
+          "tipo": "episodio",
+          "titulo": "Onisciente S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10918527",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uajx43GJ7ACUIBDVgceGaKBd4tE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10918528",
+          "tipo": "episodio",
+          "titulo": "Onisciente S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10918528",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uajx43GJ7ACUIBDVgceGaKBd4tE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10918529",
+          "tipo": "episodio",
+          "titulo": "Onisciente S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10918529",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uajx43GJ7ACUIBDVgceGaKBd4tE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10918530",
+          "tipo": "episodio",
+          "titulo": "Onisciente S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10918530",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uajx43GJ7ACUIBDVgceGaKBd4tE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10918531",
+          "tipo": "episodio",
+          "titulo": "Onisciente S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10918531",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uajx43GJ7ACUIBDVgceGaKBd4tE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Onisciente",
+  "dataLancamento": "2020-01-29"
+}

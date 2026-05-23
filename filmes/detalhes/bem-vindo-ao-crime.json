@@ -1,0 +1,34 @@
+{
+  "id": "bem-vindo-ao-crime",
+  "tipo": "filme",
+  "titulo": "Bem-Vindo ao Crime",
+  "ano": null,
+  "descricao": "Ruben desejava levar uma vida simples e tranquila. Mas para salvar a vida de seu irmão, ele entra para uma organização criminosa e descobre um mundo dominado pela violência.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qvjYnvt5bd6j8FeqwEbftLTosvA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sEtmRPF2yLmiruvfT5OWJ4hzz50.jpg",
+  "tmdbId": 828481,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784584,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780505,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Des hommes de paille",
+  "dataLancamento": "2020-03-09"
+}

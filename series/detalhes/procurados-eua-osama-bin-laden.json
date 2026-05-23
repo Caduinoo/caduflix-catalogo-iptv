@@ -1,0 +1,63 @@
+{
+  "id": "procurados-eua-osama-bin-laden",
+  "tipo": "serie",
+  "titulo": "Procurados - EUA: Osama Bin Laden",
+  "ano": null,
+  "descricao": "Com imagens raras e entrevistas com informantes da CIA, este documentário eletrizante acompanha a caçada épica a Osama bin Laden.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/q5gtdbMqMIPUv0NLaTAmEK0m7F3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/caWsWNJBOogpYoz9vBiHDvnduy0.jpg",
+  "tmdbId": 283367,
+  "nota": 7.521,
+  "xtreamSeriesId": 5108,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920713",
+          "tipo": "episodio",
+          "titulo": "Procurados EUA Osama Bin Laden S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920713",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/q5gtdbMqMIPUv0NLaTAmEK0m7F3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920714",
+          "tipo": "episodio",
+          "titulo": "Procurados EUA Osama Bin Laden S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920714",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/q5gtdbMqMIPUv0NLaTAmEK0m7F3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920715",
+          "tipo": "episodio",
+          "titulo": "Procurados EUA Osama Bin Laden S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920715",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/q5gtdbMqMIPUv0NLaTAmEK0m7F3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "American Manhunt: Osama bin Laden",
+  "dataLancamento": "2025-05-14"
+}

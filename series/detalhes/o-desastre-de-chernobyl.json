@@ -1,0 +1,63 @@
+{
+  "id": "o-desastre-de-chernobyl",
+  "tipo": "serie",
+  "titulo": "O Desastre de Chernobyl",
+  "ano": null,
+  "descricao": "Veja um relato definitivo da cronologia do desastre de Chernobyl, e entrevistas com especialistas.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oAgLqwBjxKoG5KzEvThd0Lre910.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3W8OwrffCh5xXWUoHQRETJ3ohgp.jpg",
+  "tmdbId": 203450,
+  "nota": 6.8,
+  "xtreamSeriesId": 6183,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10983736",
+          "tipo": "episodio",
+          "titulo": "O Desastre de Chernobyl S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10983736",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oAgLqwBjxKoG5KzEvThd0Lre910.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10983737",
+          "tipo": "episodio",
+          "titulo": "O Desastre de Chernobyl S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10983737",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oAgLqwBjxKoG5KzEvThd0Lre910.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10983738",
+          "tipo": "episodio",
+          "titulo": "O Desastre de Chernobyl S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10983738",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oAgLqwBjxKoG5KzEvThd0Lre910.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "The Chernobyl Disaster",
+  "dataLancamento": "2022-05-24"
+}

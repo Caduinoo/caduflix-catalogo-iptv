@@ -1,0 +1,63 @@
+{
+  "id": "elite-historias-breves-phillipe-caye-felipe",
+  "tipo": "serie",
+  "titulo": "Elite Histórias Breves: Phillipe Caye Felipe",
+  "ano": null,
+  "descricao": "Com a ajuda de Felipe, Cayetana estava pronta para superar o ex. Até ele decidir reaparecer na vida dela.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ueMwQboDdXmCup8VDkNZwB8WFfH.jpg",
+  "tmdbId": 137569,
+  "nota": 6.7,
+  "xtreamSeriesId": 4455,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907204",
+          "tipo": "episodio",
+          "titulo": "Elite Histórias Breves Phillipe Caye Felipe S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907204",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907205",
+          "tipo": "episodio",
+          "titulo": "Elite Histórias Breves Phillipe Caye Felipe S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907205",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907206",
+          "tipo": "episodio",
+          "titulo": "Elite Histórias Breves Phillipe Caye Felipe S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907206",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e78XV5PL5pnN8ezgoUjPGnhXyGO.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Élite Historias Breves: Phillipe Caye Felipe",
+  "dataLancamento": "2021-12-15"
+}

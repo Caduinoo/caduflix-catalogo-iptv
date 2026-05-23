@@ -1,0 +1,111 @@
+{
+  "id": "chefe-da-casa",
+  "tipo": "serie",
+  "titulo": "O Chefe da Casa",
+  "ano": null,
+  "descricao": "Um pai descobre que a parentalidade é mais difícil do que ele pensou depois que sua esposa voltou ao trabalho e ele foi embora em casa para cuidar das crianças.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pBTbV9x3JiPWfWsr87LEQaBM61V.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hxeevnOc0TL1QGpmWnWhTRGUXwC.jpg",
+  "tmdbId": 67156,
+  "nota": 6.8,
+  "xtreamSeriesId": 4269,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904622",
+          "tipo": "episodio",
+          "titulo": "Chefe da Casa S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904622",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pBTbV9x3JiPWfWsr87LEQaBM61V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904623",
+          "tipo": "episodio",
+          "titulo": "Chefe da Casa S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904623",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pBTbV9x3JiPWfWsr87LEQaBM61V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904624",
+          "tipo": "episodio",
+          "titulo": "Chefe da Casa S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904624",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pBTbV9x3JiPWfWsr87LEQaBM61V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904625",
+          "tipo": "episodio",
+          "titulo": "Chefe da Casa S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904625",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pBTbV9x3JiPWfWsr87LEQaBM61V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904626",
+          "tipo": "episodio",
+          "titulo": "Chefe da Casa S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10904626",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pBTbV9x3JiPWfWsr87LEQaBM61V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904627",
+          "tipo": "episodio",
+          "titulo": "Chefe da Casa S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10904627",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pBTbV9x3JiPWfWsr87LEQaBM61V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904628",
+          "tipo": "episodio",
+          "titulo": "Chefe da Casa S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10904628",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pBTbV9x3JiPWfWsr87LEQaBM61V.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Man with a Plan",
+  "dataLancamento": "2016-10-24"
+}

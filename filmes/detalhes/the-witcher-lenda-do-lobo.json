@@ -1,0 +1,34 @@
+{
+  "id": "the-witcher-lenda-do-lobo",
+  "tipo": "filme",
+  "titulo": "The Witcher: Lenda do Lobo",
+  "ano": null,
+  "descricao": "Ele escapou da pobreza para caçar monstros por dinheiro e glória, mas quando surge uma nova ameaça, Vesemir precisa enfrentar os demônios do passado.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sFYEg4GIM8v29kmvOt4AsDFTdgW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/orGlr1vHTgbDkGJPwuBjd8ncVjQ.jpg",
+  "tmdbId": 666243,
+  "nota": 7.429,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790320,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770794,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "The Witcher: Nightmare of the Wolf",
+  "dataLancamento": "2021-08-22"
+}

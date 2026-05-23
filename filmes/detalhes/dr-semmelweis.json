@@ -1,0 +1,34 @@
+{
+  "id": "dr-semmelweis",
+  "tipo": "filme",
+  "titulo": "Dr. Semmelweis",
+  "ano": null,
+  "descricao": "Em 1847, uma misteriosa epidemia assola uma maternidade em Viena. Na tentativa de acabar com a febre puerperal, o médico Ignác Semmelweis decide contrariar todas as teorias tradicionais da época.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ea105uIesnD56ajaPsRDVTm3Fmm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2tD6lbeSHx0sYDsu0BoS2d1qrbZ.jpg",
+  "tmdbId": 1016683,
+  "nota": 7.783,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785581,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775283,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Semmelweis",
+  "dataLancamento": "2023-11-30"
+}

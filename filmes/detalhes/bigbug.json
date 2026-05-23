@@ -1,0 +1,34 @@
+{
+  "id": "bigbug",
+  "tipo": "filme",
+  "titulo": "Bigbug",
+  "ano": null,
+  "descricao": "Em 2045, a IA cuida de quase tudo, até na casa da nostálgica Alice. Então quando os robôs se rebelam, os androides dela trancam as portas para protegê-la.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/afOW9clWoB4iWMtMG7XZWQpgS7o.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uQUquwEvPuCg0ACRxU5NiCGgJLN.jpg",
+  "tmdbId": 665828,
+  "nota": 5.276,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784613,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050437,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1779198817,
+  "tituloOriginal": "Bigbug",
+  "dataLancamento": "2022-02-11"
+}

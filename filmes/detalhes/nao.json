@@ -1,0 +1,42 @@
+{
+  "id": "nao",
+  "tipo": "filme",
+  "titulo": "Meninos Não Choram",
+  "ano": null,
+  "descricao": "A história da vida de Brandon Teena, um jovem homem trans. Ele começa um caso de amor com uma mãe solteira da zona rural de Nebraska e sofre trágicas consequências como resultado da descoberta de sua transexualidade.",
+  "generos": [
+    "LEGENDADOS",
+    "4K",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5XtvUwIM1juiNvCsdZZXrKdAE5b.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yV1s91RyHJIMIJ7KeyHsWJ0ayUv.jpg",
+  "tmdbId": 226,
+  "nota": 7.414,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787809,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782664,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049553,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Boys Don't Cry",
+  "dataLancamento": "1999-09-02"
+}

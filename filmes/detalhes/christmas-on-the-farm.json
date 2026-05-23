@@ -1,0 +1,34 @@
+{
+  "id": "christmas-on-the-farm",
+  "tipo": "filme",
+  "titulo": "Natal na Fazenda",
+  "ano": null,
+  "descricao": "Uma socialite de Nova York, que esconde sua identidade para publicar um livro, precisa voltar para a fazenda de sua falecida mãe quando sua editora e o filho desejam visitá-la.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/c8FgK92umNLI4KU2WcXoyt8oyrH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gkAozXk0UXhsKWLP3Umyi9UOXGA.jpg",
+  "tmdbId": 899235,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784927,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049542,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Christmas on the Farm",
+  "dataLancamento": "2021-12-01"
+}

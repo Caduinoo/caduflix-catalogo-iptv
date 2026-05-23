@@ -1,0 +1,34 @@
+{
+  "id": "uma-proposta-natalina",
+  "tipo": "filme",
+  "titulo": "Uma Proposta Natalina",
+  "ano": null,
+  "descricao": "Após uma chef de cozinha se passar por namorada de um advogado, eles terão que trabalhar juntos e provar que ele é o candidato ideal para assumir a empresa da família.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gPttcRkH6hnw8TXsLorHIcGj3Mc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6eUC9PgcJ8Wzb5Puj3UMu7uxnM4.jpg",
+  "tmdbId": 890757,
+  "nota": 6.569,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790840,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778824,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "A Christmas Proposal",
+  "dataLancamento": "2021-12-12"
+}

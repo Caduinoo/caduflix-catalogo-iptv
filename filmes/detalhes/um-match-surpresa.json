@@ -1,0 +1,42 @@
+{
+  "id": "um-match-surpresa",
+  "tipo": "filme",
+  "titulo": "Um Match Surpresa",
+  "ano": null,
+  "descricao": "Uma jornalista sem sorte no amor atravessa o país atrás de um rapaz que conheceu em um aplicativo de paquera. Mas ela logo vai descobrir que foi enganada.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3VoTb0s7nbCeotnDU27hBk9Olt9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pa0Mq5rGm2QnzdpFmugTu4Mghf.jpg",
+  "tmdbId": 734265,
+  "nota": 6.922,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790641,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774052,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783063,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Love Hard",
+  "dataLancamento": "2021-11-05"
+}

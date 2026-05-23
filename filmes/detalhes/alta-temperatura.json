@@ -1,0 +1,34 @@
+{
+  "id": "alta-temperatura",
+  "tipo": "filme",
+  "titulo": "Alta Temperatura",
+  "ano": null,
+  "descricao": "A vida de seis pessoas corre perigo quando um professor aposentado tranca todos em uma sauna a vapor. Ele ameaça aumentar a temperatura do local, se sua teoria sobre o aquecimento global não for publicada na primeira página do jornal.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tEZKz8x1fZjphsC8RjWMQJCv7vG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1z25GGl5ontXQwltr9fNdAow3j.jpg",
+  "tmdbId": 20047,
+  "nota": 4.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784043,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774248,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Steam Experiment",
+  "dataLancamento": "2009-05-01"
+}

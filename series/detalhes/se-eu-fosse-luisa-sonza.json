@@ -1,0 +1,63 @@
+{
+  "id": "se-eu-fosse-luisa-sonza",
+  "tipo": "serie",
+  "titulo": "Se eu fosse Luísa Sonza",
+  "ano": null,
+  "descricao": "Nesta série documental, a cantora pop mais polêmica do Brasil fala sobre a vida amorosa, carreira, controvérsias e a criação de um novo álbum.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uQPWq2D9GrsjMONgtdQKtlKAVqb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pAi087u9NtJUPGgGpUljUTQsJDP.jpg",
+  "tmdbId": 234255,
+  "nota": 7.2,
+  "xtreamSeriesId": 5212,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10922429",
+          "tipo": "episodio",
+          "titulo": "Se eu fosse Luisa Sonza S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10922429",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uQPWq2D9GrsjMONgtdQKtlKAVqb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922430",
+          "tipo": "episodio",
+          "titulo": "Se eu fosse Luisa Sonza S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10922430",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uQPWq2D9GrsjMONgtdQKtlKAVqb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922431",
+          "tipo": "episodio",
+          "titulo": "Se eu fosse Luisa Sonza S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10922431",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uQPWq2D9GrsjMONgtdQKtlKAVqb.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Se eu fosse Luísa Sonza",
+  "dataLancamento": "2023-12-13"
+}

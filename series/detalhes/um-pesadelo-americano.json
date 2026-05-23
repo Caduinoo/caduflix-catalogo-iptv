@@ -1,0 +1,63 @@
+{
+  "id": "um-pesadelo-americano",
+  "tipo": "serie",
+  "titulo": "Um Pesadelo Americano",
+  "ano": null,
+  "descricao": "Nesta série sobre um crime real de 2015, um casal é acusado de forjar uma invasão à própria residência e um sequestro após o reaparecimento da vítima.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mjQjE6Zyz219uNQxKEMAJa85uBF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tlD0m7SiX6Cep5gQEr9JnFyvG38.jpg",
+  "tmdbId": 242845,
+  "nota": 7.4,
+  "xtreamSeriesId": 5417,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927134",
+          "tipo": "episodio",
+          "titulo": "Um Pesadelo Americano S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927134",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mjQjE6Zyz219uNQxKEMAJa85uBF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927135",
+          "tipo": "episodio",
+          "titulo": "Um Pesadelo Americano S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927135",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mjQjE6Zyz219uNQxKEMAJa85uBF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927136",
+          "tipo": "episodio",
+          "titulo": "Um Pesadelo Americano S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927136",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mjQjE6Zyz219uNQxKEMAJa85uBF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "American Nightmare",
+  "dataLancamento": "2024-01-17"
+}

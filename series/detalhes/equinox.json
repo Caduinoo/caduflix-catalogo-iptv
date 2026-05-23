@@ -1,0 +1,99 @@
+{
+  "id": "equinox",
+  "tipo": "serie",
+  "titulo": "Equinox",
+  "ano": null,
+  "descricao": "Vinte anos depois de ter visto um ônibus desaparecer sem deixar vestígios, Astrid reconhece uma das vítimas e resolve investigar o caso.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bnU3Rz3nR844WZNOyrCk8W52DUs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1IO3hNWCeGStVuCopf6bJnazWyz.jpg",
+  "tmdbId": 113600,
+  "nota": 7.1,
+  "xtreamSeriesId": 4462,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907278",
+          "tipo": "episodio",
+          "titulo": "Equinox S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907278",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mFkpezZSQzAphYo23945YPgGTWD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907279",
+          "tipo": "episodio",
+          "titulo": "Equinox S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907279",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mFkpezZSQzAphYo23945YPgGTWD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907280",
+          "tipo": "episodio",
+          "titulo": "Equinox S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907280",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mFkpezZSQzAphYo23945YPgGTWD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907281",
+          "tipo": "episodio",
+          "titulo": "Equinox S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907281",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mFkpezZSQzAphYo23945YPgGTWD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907282",
+          "tipo": "episodio",
+          "titulo": "Equinox S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907282",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mFkpezZSQzAphYo23945YPgGTWD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907283",
+          "tipo": "episodio",
+          "titulo": "Equinox S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907283",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mFkpezZSQzAphYo23945YPgGTWD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Equinox",
+  "dataLancamento": "2020-12-30"
+}

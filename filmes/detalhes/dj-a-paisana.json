@@ -1,0 +1,42 @@
+{
+  "id": "dj-a-paisana",
+  "tipo": "filme",
+  "titulo": "DJ à Paisana",
+  "ano": null,
+  "descricao": "Recrutado pela polícia para ajudar a desmantelar uma gangue ligada ao seu rival, um DJ em decadência vê nisto uma chance de voltar ao topo em grande estilo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gspluUUTwGMT33rR6YietqRIjok.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
+  "tmdbId": 1265623,
+  "nota": 4.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785516,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772618,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782287,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Banger",
+  "dataLancamento": "2025-04-01"
+}

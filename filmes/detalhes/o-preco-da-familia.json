@@ -1,0 +1,34 @@
+{
+  "id": "o-preco-da-familia",
+  "tipo": "filme",
+  "titulo": "O Preço da Família",
+  "ano": null,
+  "descricao": "Triste por não receber a visita dos filhos, um casal cria um esquema elaborado para juntar a família no Natal.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/LajfxwKDkZlbKacfLvrzLMIocQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nLRKNsG9GpeIs5mSS0Lq0r82i1o.jpg",
+  "tmdbId": 1000938,
+  "nota": 6.423,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788382,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773450,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Natale a tutti i costi",
+  "dataLancamento": "2022-12-19"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "lenda-maldita",
+  "tipo": "filme",
+  "titulo": "Lenda Maldita",
+  "ano": null,
+  "descricao": "Na fronteira entre os EUA e o México, uma vez a cada 20 anos, há dias que os moradores chamam de atemporalidade.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5KHs3UCf68eWTg6fP5AM6N6E7q5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4Q77dBEhx7TWCCVW6G8LavlTD3E.jpg",
+  "tmdbId": 799878,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786930,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780884,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "The Nameless Days",
+  "dataLancamento": "2022-04-01"
+}

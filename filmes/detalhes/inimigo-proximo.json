@@ -1,0 +1,34 @@
+{
+  "id": "inimigo-proximo",
+  "tipo": "filme",
+  "titulo": "Inimigo Próximo",
+  "ano": null,
+  "descricao": "Uma mulher com um passado duvidoso deve proteger seu filho quando um homem traz problemas para sua pousada isolada.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jsHmaM6LFXvPGF1MsUHwxwreoaa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qkHnOaWFSs7sOkraKeU1gY0DSFi.jpg",
+  "tmdbId": 560412,
+  "nota": 5.775,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786587,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779780,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Hospitality",
+  "dataLancamento": "2018-12-07"
+}

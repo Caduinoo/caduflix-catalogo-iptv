@@ -1,0 +1,99 @@
+{
+  "id": "patagonia-extraordinaria",
+  "tipo": "serie",
+  "titulo": "Patagônia Extraordinária",
+  "ano": null,
+  "descricao": "Explorando as regiões mais incríveis do planeta, esta série celebra a diversidade de paisagens, a exuberância da vida selvagem e as histórias humanas fascinantes que se espalham pela imensidão da Patagônia.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/h8yIgB8I18DJzXqhTpnW8luxJTE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gHPH6fnJADqTSvjV0dZrW8uspZe.jpg",
+  "tmdbId": 156053,
+  "nota": 8,
+  "xtreamSeriesId": 1558,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10832028",
+          "tipo": "episodio",
+          "titulo": "Patagônia Extraordinária S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10832028",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUurppLHbv0f568L7K2ulCzDeJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832029",
+          "tipo": "episodio",
+          "titulo": "Patagônia Extraordinária S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10832029",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUurppLHbv0f568L7K2ulCzDeJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832030",
+          "tipo": "episodio",
+          "titulo": "Patagônia Extraordinária S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10832030",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUurppLHbv0f568L7K2ulCzDeJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832031",
+          "tipo": "episodio",
+          "titulo": "Patagônia Extraordinária S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10832031",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUurppLHbv0f568L7K2ulCzDeJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832032",
+          "tipo": "episodio",
+          "titulo": "Patagônia Extraordinária S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10832032",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUurppLHbv0f568L7K2ulCzDeJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832033",
+          "tipo": "episodio",
+          "titulo": "Patagônia Extraordinária S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10832033",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUurppLHbv0f568L7K2ulCzDeJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Patagonia: Life on the Edge of the World",
+  "dataLancamento": "2022-07-10"
+}

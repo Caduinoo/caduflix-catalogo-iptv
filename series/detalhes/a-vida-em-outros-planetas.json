@@ -1,0 +1,75 @@
+{
+  "id": "a-vida-em-outros-planetas",
+  "tipo": "serie",
+  "titulo": "A Vida em Outros Planetas",
+  "ano": null,
+  "descricao": "Aplicando as leis da vida na Terra ao resto da galáxia, esta série combina fatos científicos e ficção para imaginar vida alienígena em outros planetas.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5AVjRzDx0nEPpSCQDu5eknnddhU.jpg",
+  "tmdbId": 113178,
+  "nota": 6.8,
+  "xtreamSeriesId": 4022,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10900262",
+          "tipo": "episodio",
+          "titulo": "A Vida em Outros Planetas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10900262",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900263",
+          "tipo": "episodio",
+          "titulo": "A Vida em Outros Planetas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10900263",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900264",
+          "tipo": "episodio",
+          "titulo": "A Vida em Outros Planetas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10900264",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900265",
+          "tipo": "episodio",
+          "titulo": "A Vida em Outros Planetas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10900265",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sZWK6P5sb4KZSSiIT5X4XJHqmHo.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Alien Worlds",
+  "dataLancamento": "2020-12-02"
+}

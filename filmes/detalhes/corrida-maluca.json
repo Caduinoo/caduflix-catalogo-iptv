@@ -1,0 +1,34 @@
+{
+  "id": "corrida-maluca",
+  "tipo": "filme",
+  "titulo": "A Corrida Maluca",
+  "ano": null,
+  "descricao": "Tentando impedir a realização de uma corrida ilegal de carros pelas estradas, xerife provoca confusão entre os competidores - que não raramente usam a trapaça para manter-se na frente.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/47d6AwOlCAdgn5ssVRVF56OROLv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/x06BOvPMjJTvnteGDgxvVMRdYLy.jpg",
+  "tmdbId": 12236,
+  "nota": 4.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785137,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771229,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Speed Zone",
+  "dataLancamento": "1989-04-21"
+}

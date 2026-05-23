@@ -1,0 +1,34 @@
+{
+  "id": "o-golpe",
+  "tipo": "filme",
+  "titulo": "O Golpe",
+  "ano": null,
+  "descricao": "O golpe conta a história de Paulo, que em débito com um perigoso agiota, arquiteta um golpe para obter dinheiro.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4FpHgYQDYQkMH7I14BFoC88qIWN.jpg",
+  "banner": null,
+  "tmdbId": 483110,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788128,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774370,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "O Golpe",
+  "dataLancamento": "2014-01-01"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "tremembe",
+  "tipo": "serie",
+  "titulo": "Tremembé",
+  "ano": null,
+  "descricao": "A chegada de Suzane Von Richthofen abala a ordem em Tremembé e inicia uma disputa com Elize Matsunaga, enquanto Jatobá, Nardoni, Roger, Daniel e Cristian Cravinhos, entre outros criminosos, desafiam o sistema, em meio a conflitos internos e externos.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cskW9fqGHqExkXWJBMbz066ZcZo.jpg",
+  "tmdbId": 279013,
+  "nota": 7.6,
+  "xtreamSeriesId": 726,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10809728",
+          "tipo": "episodio",
+          "titulo": "Tremembe S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10809728",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10809729",
+          "tipo": "episodio",
+          "titulo": "Tremembe S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10809729",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10809730",
+          "tipo": "episodio",
+          "titulo": "Tremembe S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10809730",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10809731",
+          "tipo": "episodio",
+          "titulo": "Tremembe S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10809731",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10809732",
+          "tipo": "episodio",
+          "titulo": "Tremembe S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10809732",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Tremembé",
+  "dataLancamento": "2025-10-31"
+}

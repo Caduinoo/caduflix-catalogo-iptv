@@ -1,0 +1,99 @@
+{
+  "id": "o-cafetao",
+  "tipo": "serie",
+  "titulo": "O Cafetão",
+  "ano": null,
+  "descricao": "Inspirado em fatos reais, o épico gangster fala da ascensão da Gangue Nutella, o mais famoso cartel de prostituição no lendário Reeperbahn de Hamburgo durante os anos 1980. O cartel fora do comum transforma o distrito da luz vermelha em um lugar glamouroso, mas também o início da luta pelo poder com os cafetões tradicionais.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3HySiXJGVFlvbznj610sNyqTK4R.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/geJZ0jAwNmr1VTEZE58YnfujOIn.jpg",
+  "tmdbId": 221483,
+  "nota": 5.7,
+  "xtreamSeriesId": 477,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10802483",
+          "tipo": "episodio",
+          "titulo": "O Cafetão S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10802483",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3HySiXJGVFlvbznj610sNyqTK4R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802484",
+          "tipo": "episodio",
+          "titulo": "O Cafetão S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10802484",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3HySiXJGVFlvbznj610sNyqTK4R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802485",
+          "tipo": "episodio",
+          "titulo": "O Cafetão S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10802485",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3HySiXJGVFlvbznj610sNyqTK4R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802486",
+          "tipo": "episodio",
+          "titulo": "O Cafetão S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10802486",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3HySiXJGVFlvbznj610sNyqTK4R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802487",
+          "tipo": "episodio",
+          "titulo": "O Cafetão S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10802487",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3HySiXJGVFlvbznj610sNyqTK4R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802488",
+          "tipo": "episodio",
+          "titulo": "O Cafetão S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10802488",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3HySiXJGVFlvbznj610sNyqTK4R.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Luden - Könige der Reeperbahn",
+  "dataLancamento": "2023-03-03"
+}

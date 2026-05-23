@@ -1,0 +1,34 @@
+{
+  "id": "gospel",
+  "tipo": "filme",
+  "titulo": "Gospel",
+  "ano": null,
+  "descricao": "Um grupo de colombianos de diferentes origens sociais começou a trabalhar em um coral gospel para um cantor proeminente.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yXYnB3tNLaCg8YXJounvhybk0SH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7qIKiMD5jyt0p8eUPc9gltwMPrd.jpg",
+  "tmdbId": 1069561,
+  "nota": 8.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786261,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772852,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Góspel",
+  "dataLancamento": "2022-12-25"
+}

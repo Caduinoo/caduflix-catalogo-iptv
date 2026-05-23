@@ -1,0 +1,63 @@
+{
+  "id": "irmas-de-cela-new-orleans",
+  "tipo": "serie",
+  "titulo": "Irmãs de Cela: New Orleans",
+  "ano": null,
+  "descricao": "Neste reality corajoso, rixas, flertes e confidências marcam o cotidiano das detentas no Centro de Justiça Orleans em Nova Orleans.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pA7urHEBVDSJR7Cn7bANRbhwly7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1vZNvInXpz6leDv1qQ5enFbgZ5O.jpg",
+  "tmdbId": 134678,
+  "nota": 5.6,
+  "xtreamSeriesId": 4658,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911578",
+          "tipo": "episodio",
+          "titulo": "Irmãs de Cela New Orleans S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911578",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pA7urHEBVDSJR7Cn7bANRbhwly7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911579",
+          "tipo": "episodio",
+          "titulo": "Irmãs de Cela New Orleans S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911579",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pA7urHEBVDSJR7Cn7bANRbhwly7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911580",
+          "tipo": "episodio",
+          "titulo": "Irmãs de Cela New Orleans S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911580",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pA7urHEBVDSJR7Cn7bANRbhwly7.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Jailbirds New Orleans",
+  "dataLancamento": "2021-09-24"
+}

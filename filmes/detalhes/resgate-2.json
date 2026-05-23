@@ -1,0 +1,42 @@
+{
+  "id": "resgate-2",
+  "tipo": "filme",
+  "titulo": "Resgate 2",
+  "ano": null,
+  "descricao": "Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+  "tmdbId": 697843,
+  "nota": 7.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789430,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770617,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782898,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Extraction 2",
+  "dataLancamento": "2023-06-09"
+}

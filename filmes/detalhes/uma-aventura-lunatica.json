@@ -1,0 +1,34 @@
+{
+  "id": "uma-aventura-lunatica",
+  "tipo": "filme",
+  "titulo": "Uma Aventura Lunática",
+  "ano": null,
+  "descricao": "A fim de salvar sua irmã Anne desaparecida das garras do sinistro Homem Lua, Peter tem que embarcar em uma fantástica jornada para a lua. Logo ele percebe que a história maluca de Anne de falar sobre June Bug Zoomzeman, os incríveis Espíritos da Natureza e o Palácio da Fada da Noite, são mais do que apenas um sonho!",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tB7lTA1JyMj1KoUBkTbwNbfzBgt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ubty43lOcYeeWMnWxszdNsrzf1z.jpg",
+  "tmdbId": 809717,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790740,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771887,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Peterchens Mondfahrt",
+  "dataLancamento": "2021-06-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "na-sinfonia-do-coracao",
+  "tipo": "filme",
+  "titulo": "Na Sinfonia do Coração",
+  "ano": null,
+  "descricao": "Um músico nômade vai tocar num casamento que dá bem errado e acaba se apaixonando pela noiva. Ela se desentende com a família, e agora ele precisa salvá-la.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cmnU2u5WJjl8R6Q0JX2eBN7RpGY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/45zyokriFFgS2GpkBeLQiiLpqvI.jpg",
+  "tmdbId": 1001692,
+  "nota": 6.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787573,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779237,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Gönül",
+  "dataLancamento": "2022-08-10"
+}

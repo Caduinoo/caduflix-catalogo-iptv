@@ -1,0 +1,75 @@
+{
+  "id": "olhos-que-condenam",
+  "tipo": "serie",
+  "titulo": "Olhos que Condenam",
+  "ano": null,
+  "descricao": "Cinco adolescentes do Harlem vivem um pesadelo depois de serem injustamente acusados de um ataque brutal no Central Park.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nkJtmjDsRdIzRKNctsMX33W55uJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5IIg0PhE764qVuKICgmSAE0Jotx.jpg",
+  "tmdbId": 81355,
+  "nota": 8.2,
+  "xtreamSeriesId": 5016,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10917488",
+          "tipo": "episodio",
+          "titulo": "Olhos que Condenam S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10917488",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nkJtmjDsRdIzRKNctsMX33W55uJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917489",
+          "tipo": "episodio",
+          "titulo": "Olhos que Condenam S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10917489",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nkJtmjDsRdIzRKNctsMX33W55uJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917490",
+          "tipo": "episodio",
+          "titulo": "Olhos que Condenam S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10917490",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nkJtmjDsRdIzRKNctsMX33W55uJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917491",
+          "tipo": "episodio",
+          "titulo": "Olhos que Condenam S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10917491",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nkJtmjDsRdIzRKNctsMX33W55uJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "When They See Us",
+  "dataLancamento": "2019-05-31"
+}

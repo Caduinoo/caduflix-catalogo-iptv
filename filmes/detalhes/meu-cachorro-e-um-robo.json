@@ -1,0 +1,34 @@
+{
+  "id": "meu-cachorro-e-um-robo",
+  "tipo": "filme",
+  "titulo": "Meu Cachorro é um Robô",
+  "ano": null,
+  "descricao": "Depois que um acidente faz com que o Robô Cachorro perca sua memória, ele é levado para uma nova família. Uma equipe se prepara para começar uma busca e encontrar o cão robô.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ds6Pqh14d8cxMUdveOEUIgngZof.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7A91r0urC7OaGTpp8lsLWEVQJHm.jpg",
+  "tmdbId": 447429,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787288,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771971,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Robo-Dog: Airborne",
+  "dataLancamento": "2017-05-04"
+}

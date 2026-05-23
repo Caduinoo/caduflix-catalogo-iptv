@@ -1,0 +1,99 @@
+{
+  "id": "quem-e-o-assassino",
+  "tipo": "serie",
+  "titulo": "Quem é o assassino?",
+  "ano": null,
+  "descricao": "Programa inspirado no assassinato não solucionado do apresentador de TV mexicano Paco Stanley em 1999. Através do ponto de vista das seis pessoas mais próximas a ele, a história é revelada nos bastidores onde a fama, a traição e o excesso apontam para diferentes suspeitos.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5TzG5vmLiAZSmbSD31ttR97UiP8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nwQvYqnyHU9y677mq6YkYCO4A2s.jpg",
+  "tmdbId": 252146,
+  "nota": 7.6,
+  "xtreamSeriesId": 579,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10805582",
+          "tipo": "episodio",
+          "titulo": "Quem e o assassino S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10805582",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5TzG5vmLiAZSmbSD31ttR97UiP8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805583",
+          "tipo": "episodio",
+          "titulo": "Quem e o assassino S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10805583",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5TzG5vmLiAZSmbSD31ttR97UiP8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805584",
+          "tipo": "episodio",
+          "titulo": "Quem e o assassino S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10805584",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5TzG5vmLiAZSmbSD31ttR97UiP8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805585",
+          "tipo": "episodio",
+          "titulo": "Quem e o assassino S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10805585",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5TzG5vmLiAZSmbSD31ttR97UiP8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805586",
+          "tipo": "episodio",
+          "titulo": "Quem e o assassino S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10805586",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5TzG5vmLiAZSmbSD31ttR97UiP8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805587",
+          "tipo": "episodio",
+          "titulo": "Quem e o assassino S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10805587",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5TzG5vmLiAZSmbSD31ttR97UiP8.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "¿Quién lo mató?",
+  "dataLancamento": "2024-05-24"
+}

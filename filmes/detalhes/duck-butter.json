@@ -1,0 +1,34 @@
+{
+  "id": "duck-butter",
+  "tipo": "filme",
+  "titulo": "Duck Butter",
+  "ano": null,
+  "descricao": "Insatisfeitas com a desonestidade que veem nas relações, duas mulheres fazem um pacto para passarem 24 horas juntas e fazerem sexo toda hora na esperança de achar uma nova maneira de criar intimidade.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uhO5WFmf17ckCKwy6l3k9tt0z9z.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AeBPmquDuiMgmYdrFzJ8zWrmRR3.jpg",
+  "tmdbId": 499319,
+  "nota": 5.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785610,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775291,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Duck Butter",
+  "dataLancamento": "2018-04-27"
+}

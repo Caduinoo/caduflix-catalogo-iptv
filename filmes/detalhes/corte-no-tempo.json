@@ -1,0 +1,42 @@
+{
+  "id": "corte-no-tempo",
+  "tipo": "filme",
+  "titulo": "Corte no Tempo",
+  "ano": null,
+  "descricao": "Uma adolescente viaja no tempo e vai parar no ano de 2003, dias antes de sua irmã ser assassinada. Será que ela vai mudar o passado ou destruir o futuro?",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zzS5c2MoVRFnHLoDDCvkMKU7Rxc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qYvOcinXcnebhmCxYeivurh91T1.jpg",
+  "tmdbId": 827931,
+  "nota": 5.659,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785140,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780594,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782229,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Time Cut",
+  "dataLancamento": "2024-10-29"
+}

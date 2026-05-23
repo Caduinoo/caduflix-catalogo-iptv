@@ -1,0 +1,34 @@
+{
+  "id": "em-todas-as-partes",
+  "tipo": "filme",
+  "titulo": "Em Todas as Partes",
+  "ano": null,
+  "descricao": "Há mais de uma década separados, um casal de irmãos decide tentar uma reaproximação e realizar um sonho de infância: uma viagem de moto pelo México.",
+  "generos": [
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5yQoSQi2ktX2Myjl3vLAvJzOKYy.jpg",
+  "tmdbId": 1078862,
+  "nota": 6.7,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772700,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782322,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "A Todas Partes",
+  "dataLancamento": "2023-02-14"
+}

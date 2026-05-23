@@ -1,0 +1,34 @@
+{
+  "id": "os-800",
+  "tipo": "filme",
+  "titulo": "Os 800",
+  "ano": null,
+  "descricao": "Durante a Batalha de Xangai em 1937, quando um grupo de soldados chineses lutaram para defender o armazém de Sihang, ondas de forças japonesas avançavam, cercando oitocentos soldados chineses.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mx0PP392PYCZ4x0xNryO5ry637X.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/IRN1JuNwr1VKp88Dscgja2uR8H.jpg",
+  "tmdbId": 508935,
+  "nota": 7.013,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788745,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778055,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "八佰",
+  "dataLancamento": "2020-08-14"
+}

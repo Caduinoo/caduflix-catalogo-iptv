@@ -1,0 +1,34 @@
+{
+  "id": "reality",
+  "tipo": "filme",
+  "titulo": "Reality",
+  "ano": null,
+  "descricao": "Augusta, Geórgia, Estados Unidos, 3 de junho de 2017. Depois de fazer alguns recados, Reality Winner volta para casa, onde é abordada por dois homens.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rTEYxSDo9aJTTbM0zuMMLgzJcUJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7CSILt4l54Kxsk0DzQTYPq9WojO.jpg",
+  "tmdbId": 985617,
+  "nota": 6.419,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789360,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776616,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Reality",
+  "dataLancamento": "2023-06-02"
+}

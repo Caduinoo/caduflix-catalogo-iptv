@@ -1,0 +1,63 @@
+{
+  "id": "danca-no-gelo-rumo-ao-ouro",
+  "tipo": "serie",
+  "titulo": "Dança no Gelo: Rumo ao Ouro",
+  "ano": null,
+  "descricao": "Conheça o intenso mundo da patinação artística, em que os melhores casais dançam pelo ouro e pela glória na preparação para os Jogos Olímpicos de Inverno de 2026.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7oBYd2DIzxW1wtLa2pPl8FF9TPI.jpg",
+  "tmdbId": 312046,
+  "nota": 8.5,
+  "xtreamSeriesId": 7011,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11015701",
+          "tipo": "episodio",
+          "titulo": "Danca no Gelo Rumo ao Ouro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11015701",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015702",
+          "tipo": "episodio",
+          "titulo": "Danca no Gelo Rumo ao Ouro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11015702",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015703",
+          "tipo": "episodio",
+          "titulo": "Danca no Gelo Rumo ao Ouro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11015703",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Glitter & Gold: Ice Dancing",
+  "dataLancamento": "2026-02-01"
+}

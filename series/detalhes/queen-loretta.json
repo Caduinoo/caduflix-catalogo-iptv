@@ -1,0 +1,75 @@
+{
+  "id": "queen-loretta",
+  "tipo": "serie",
+  "titulo": "Queen Loretta",
+  "ano": null,
+  "descricao": "Após passar décadas longe, um renomado alfaiate e drag queen de Paris volta à sua cidade natal na Polônia para se reconciliar com a filha.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z3vW0qTMK48BJNzDBi7aQhJxqg3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4yYSqtMaBxezsoVilqphkVsz7Xg.jpg",
+  "tmdbId": 130950,
+  "nota": 5.3,
+  "xtreamSeriesId": 5136,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920996",
+          "tipo": "episodio",
+          "titulo": "Queen Loretta S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920996",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3vW0qTMK48BJNzDBi7aQhJxqg3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920997",
+          "tipo": "episodio",
+          "titulo": "Queen Loretta S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920997",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3vW0qTMK48BJNzDBi7aQhJxqg3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920998",
+          "tipo": "episodio",
+          "titulo": "Queen Loretta S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920998",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3vW0qTMK48BJNzDBi7aQhJxqg3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920999",
+          "tipo": "episodio",
+          "titulo": "Queen Loretta S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920999",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3vW0qTMK48BJNzDBi7aQhJxqg3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Królowa",
+  "dataLancamento": "2022-06-23"
+}

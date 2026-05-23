@@ -1,0 +1,34 @@
+{
+  "id": "mulher",
+  "tipo": "filme",
+  "titulo": "Mulher Exótica",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5FyEqAihmhGBiOWqLOWMvxE0vq2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xTyjYMJOFcGzv0bWiQJlBaKm9fW.jpg",
+  "tmdbId": 46563,
+  "nota": 6.139,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787508,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777832,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Saratoga Trunk",
+  "dataLancamento": "1945-11-21"
+}

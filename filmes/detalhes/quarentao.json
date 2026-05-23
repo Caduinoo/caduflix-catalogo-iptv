@@ -1,0 +1,34 @@
+{
+  "id": "quarentao",
+  "tipo": "filme",
+  "titulo": "Quarentão",
+  "ano": null,
+  "descricao": "Depois de uma amarga descoberta, um chef se junta ao melhor amigo em uma competição gastronômica em Cancún para despertar sua fome de viver.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rndkeNvpvz6D8nmcFEYJxxW8lRr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5Sf7DsYQpD0dkEAVN5D8ebII3ni.jpg",
+  "tmdbId": 949270,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789254,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781366,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Cuarentones",
+  "dataLancamento": "2022-03-10"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "uma-foto-antes-de-morrer",
+  "tipo": "filme",
+  "titulo": "Uma Foto Antes de Morrer",
+  "ano": null,
+  "descricao": "Na Rússia rural, um grupo de amigos se envolve em uma colisão com um veículo. Em busca de ajuda, eles acham uma cabana onde encontram uma foto representando seu acidente.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tFV3QPG9NBjJChRWdBJWgtiTFLZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8Pa0Ls6AeaEPoc59aHp8iSu9IuT.jpg",
+  "tmdbId": 506600,
+  "nota": 5.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790773,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781566,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Фото на память",
+  "dataLancamento": "2018-06-14"
+}

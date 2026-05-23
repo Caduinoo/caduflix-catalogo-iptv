@@ -1,0 +1,42 @@
+{
+  "id": "sayen",
+  "tipo": "filme",
+  "titulo": "Sayen",
+  "ano": null,
+  "descricao": "Nas florestas do sul do Chile, Sayen, uma jovem mapuche, sai em busca dos mercenários que assassinaram sua avó. Usando seu treinamento, ela consegue sobreviver e virar o jogo contra esses intrusos. Ela deve escolher entre ir embora ou proteger não só sua gente, mas também outros grupos nativos, da tenebrosa empresa que ameaça suas terras e seus meios de subsistência.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8QMWSEeotCy7dhB8EAZgCuNaQtb.jpg",
+  "tmdbId": 850871,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789596,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780056,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10791675,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Sayen",
+  "dataLancamento": "2023-03-03"
+}

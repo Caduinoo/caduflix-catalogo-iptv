@@ -1,0 +1,42 @@
+{
+  "id": "patos",
+  "tipo": "filme",
+  "titulo": "Patos!",
+  "ano": null,
+  "descricao": "A família Mallard está um pouco refém da rotina. Enquanto Mack, o pai, se contenta em manter sua família segura nos arredores de um lago da Nova Inglaterra para sempre, Pam, a mãe, está ansiosa para agitar as coisas e mostrar a seus filhos – o adolescente Dax e a patinha Gwen – o mundo inteiro. Quando uma família de patos migratórios aterrissa em seu lago com histórias emocionantes de lugares distantes, Pam convence Mack a embarcar em uma viagem em família, via Nova York, para a Jamaica tropical.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wXWnUhdnSuADRp9w7aAZNHx682v.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gklkxY0veMajdCiGe6ggsh07VG2.jpg",
+  "tmdbId": 940551,
+  "nota": 7.352,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788948,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771636,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782831,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Migration",
+  "dataLancamento": "2023-12-06"
+}

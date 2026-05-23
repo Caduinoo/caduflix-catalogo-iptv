@@ -1,0 +1,123 @@
+{
+  "id": "amazing-grace",
+  "tipo": "serie",
+  "titulo": "Amazing Grace",
+  "ano": null,
+  "descricao": "A série centra-se na parteira Grace e seus colegas apaixonados em um centro de parto não convencional ligado a um grande hospital da cidade. Uma feroz defensora de suas futuras mães grávidas, o duvidoso equilíbrio entre trabalho e vida pessoal de Grace está prestes a ficar ainda mais caótico quando uma recém-chegada ao centro de parto muda sua vida para sempre.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8iIZ62QGjKmOS7lHOHoM4Mmd77p.jpg",
+  "tmdbId": 119925,
+  "nota": 6.7,
+  "xtreamSeriesId": 1048,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817347",
+          "tipo": "episodio",
+          "titulo": "Amazing Grace S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817347",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817348",
+          "tipo": "episodio",
+          "titulo": "Amazing Grace S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817348",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817349",
+          "tipo": "episodio",
+          "titulo": "Amazing Grace S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817349",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817350",
+          "tipo": "episodio",
+          "titulo": "Amazing Grace S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10817350",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817351",
+          "tipo": "episodio",
+          "titulo": "Amazing Grace S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10817351",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817352",
+          "tipo": "episodio",
+          "titulo": "Amazing Grace S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10817352",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817353",
+          "tipo": "episodio",
+          "titulo": "Amazing Grace S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10817353",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817354",
+          "tipo": "episodio",
+          "titulo": "Amazing Grace S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10817354",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oBvdu6mTvvVZaLZCvNzvHb9iW6W.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Amazing Grace",
+  "dataLancamento": "2021-03-03"
+}

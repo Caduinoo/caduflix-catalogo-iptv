@@ -1,0 +1,123 @@
+{
+  "id": "barra-bravas",
+  "tipo": "serie",
+  "titulo": "Barra Bravas",
+  "ano": null,
+  "descricao": "Uma mulher determinada tenta livrar um time de futebol argentino dos crimes violentos e da corrupção que cercam sua torcida fanática.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eYrPeNV0W3zKfyZB9Ml9DQy7RPq.jpg",
+  "tmdbId": 99633,
+  "nota": 7,
+  "xtreamSeriesId": 118,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10794522",
+          "tipo": "episodio",
+          "titulo": "Barra Bravas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10794522",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794523",
+          "tipo": "episodio",
+          "titulo": "Barra Bravas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10794523",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794524",
+          "tipo": "episodio",
+          "titulo": "Barra Bravas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10794524",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794525",
+          "tipo": "episodio",
+          "titulo": "Barra Bravas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10794525",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794526",
+          "tipo": "episodio",
+          "titulo": "Barra Bravas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10794526",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794527",
+          "tipo": "episodio",
+          "titulo": "Barra Bravas S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10794527",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794528",
+          "tipo": "episodio",
+          "titulo": "Barra Bravas S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10794528",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794529",
+          "tipo": "episodio",
+          "titulo": "Barra Bravas S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10794529",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Puerta 7",
+  "dataLancamento": "2020-02-21"
+}

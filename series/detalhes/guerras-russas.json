@@ -1,0 +1,61 @@
+{
+  "id": "guerras-russas",
+  "tipo": "serie",
+  "titulo": "Guerras Russas",
+  "ano": null,
+  "descricao": "A invasão de Hitler à União Soviética foi o maior choque de exércitos que o mundo já viu, destinada a ser uma guerra de aniquilação total, a máquina militar blitzkrieg... mas os alemães logo descobrem que enfrentariam defesas soviéticas assassinas. Esta série revela a estratégia ardilosa, tecnologia militar e megaestruturas defensivas implantadas nessa devastadora guerra de brutalidade entre gigantes.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEMECTNrfB2SrI72dSNXF3x05bF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1bYqStSKfW06v5bTwfQSZfzelDJ.jpg",
+  "tmdbId": null,
+  "nota": 1,
+  "xtreamSeriesId": 1455,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10829963",
+          "tipo": "episodio",
+          "titulo": "Guerras Russas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10829963",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aEMECTNrfB2SrI72dSNXF3x05bF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829964",
+          "tipo": "episodio",
+          "titulo": "Guerras Russas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10829964",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aEMECTNrfB2SrI72dSNXF3x05bF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829965",
+          "tipo": "episodio",
+          "titulo": "Guerras Russas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10829965",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aEMECTNrfB2SrI72dSNXF3x05bF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3
+}

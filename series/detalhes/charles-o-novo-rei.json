@@ -1,0 +1,51 @@
+{
+  "id": "charles-o-novo-rei",
+  "tipo": "serie",
+  "titulo": "Charles: O Novo Rei",
+  "ano": null,
+  "descricao": "Este especial nos apresenta o novo monarca britânico. Após o longo reinado de Elizabeth II, seu filho, Charles, se torna o rei Charles III. Por meio de arquivos reais e entrevistas reveladoras, examinaremos sua vida e personalidade para descobrir que tipo de rei ele será. Conseguirá igualar-se a sua mãe?",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aoNtpaBQoAUlvPpuwTrU1jzzINr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lM2Eo4qblzUYc31nxIee12C7Irb.jpg",
+  "tmdbId": 213490,
+  "nota": 7,
+  "xtreamSeriesId": 1370,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10827876",
+          "tipo": "episodio",
+          "titulo": "Charles O Novo Rei S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10827876",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aoNtpaBQoAUlvPpuwTrU1jzzINr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827877",
+          "tipo": "episodio",
+          "titulo": "Charles O Novo Rei S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10827877",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aoNtpaBQoAUlvPpuwTrU1jzzINr.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Charles: Our New King",
+  "dataLancamento": "2022-10-29"
+}

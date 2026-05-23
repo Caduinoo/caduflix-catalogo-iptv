@@ -1,0 +1,87 @@
+{
+  "id": "mestres-do-universo-a-revolucao",
+  "tipo": "serie",
+  "titulo": "Mestres do Universo: A Revolução",
+  "ano": null,
+  "descricao": "He-Man e seus amigos enfrentam as forças sombrias de Esqueleto em uma batalha épica pelo coração de Eternia.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gJd7leBA9VvRefWLYuVFHSBPVoW.jpg",
+  "tmdbId": 234721,
+  "nota": 7.8,
+  "xtreamSeriesId": 4805,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10914817",
+          "tipo": "episodio",
+          "titulo": "Mestres do Universo A Revolucao S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10914817",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914818",
+          "tipo": "episodio",
+          "titulo": "Mestres do Universo A Revolucao S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10914818",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914819",
+          "tipo": "episodio",
+          "titulo": "Mestres do Universo A Revolucao S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10914819",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914820",
+          "tipo": "episodio",
+          "titulo": "Mestres do Universo A Revolucao S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10914820",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914821",
+          "tipo": "episodio",
+          "titulo": "Mestres do Universo A Revolucao S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10914821",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Masters of the Universe: Revolution",
+  "dataLancamento": "2024-01-25"
+}

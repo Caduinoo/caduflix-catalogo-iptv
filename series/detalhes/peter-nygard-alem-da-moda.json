@@ -1,0 +1,72 @@
+{
+  "id": "peter-nygard-alem-da-moda",
+  "tipo": "serie",
+  "titulo": "Peter Nygard Alem da Moda",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 1569,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10832124",
+          "tipo": "episodio",
+          "titulo": "Peter Nygard Alem da Moda S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10832124",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wOQubb0tRD3ohoaYnCIRzRIGiUH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832125",
+          "tipo": "episodio",
+          "titulo": "Peter Nygard Alem da Moda S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10832125",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wOQubb0tRD3ohoaYnCIRzRIGiUH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832126",
+          "tipo": "episodio",
+          "titulo": "Peter Nygard Alem da Moda S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10832126",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wOQubb0tRD3ohoaYnCIRzRIGiUH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832127",
+          "tipo": "episodio",
+          "titulo": "Peter Nygard Alem da Moda S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10832127",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wOQubb0tRD3ohoaYnCIRzRIGiUH.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4
+}

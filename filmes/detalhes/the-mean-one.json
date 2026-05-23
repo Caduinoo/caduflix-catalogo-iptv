@@ -1,0 +1,34 @@
+{
+  "id": "the-mean-one",
+  "tipo": "filme",
+  "titulo": "O Malvado: Horror no Natal",
+  "ano": null,
+  "descricao": "Em uma pacata cidade montanhosa os pais de Cindy são assassinados e seu Natal é roubado por uma figura verde sedenta por sangue e em um traje vermelho de Papai Noel.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wiwHTiPdMAH9A0ZTKjz9Hh5faC3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lzhoqccJ8b8qjRyT0fNbqKOCTLa.jpg",
+  "tmdbId": 1033052,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790233,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781516,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "The Mean One",
+  "dataLancamento": "2022-12-09"
+}

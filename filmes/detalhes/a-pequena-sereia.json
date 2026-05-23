@@ -1,0 +1,42 @@
+{
+  "id": "a-pequena-sereia",
+  "tipo": "filme",
+  "titulo": "A Pequena Sereia",
+  "ano": null,
+  "descricao": "Ariel é a filha caçula do Rei Tritão, comandante dos sete mares, que está insatisfeita com sua vida. Ela deseja caminhar entre os humanos para conhecê-los melhor, mas sempre é proibida por seu pai, que considera os humanos como sendo \"bárbaros comedores de peixe\". Até que ela se apaixona por um jovem príncipe e, no intuito de conhecê-lo, resolve firmar um pacto com Úrsula, a bruxa do reino, que faz com que ela ganhe pernas e se torne uma verdadeira humana. Porém, Úrsula também tem seus planos e eles incluem a conquista do reino de Tritão.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5SLa56lfNinhVgqpMIHvsOKG775.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg",
+  "tmdbId": 10144,
+  "nota": 7.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783718,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771035,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781987,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Little Mermaid",
+  "dataLancamento": "1989-11-17"
+}

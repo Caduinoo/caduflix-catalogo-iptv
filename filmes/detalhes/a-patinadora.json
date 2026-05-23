@@ -1,0 +1,34 @@
+{
+  "id": "a-patinadora",
+  "tipo": "filme",
+  "titulo": "A Patinadora",
+  "ano": null,
+  "descricao": "Uma jovem patinadora é encontrada desacordada em uma rodovia da Finlândia. Apesar de ter um futuro brilhante pela frente, ela descobrirá que não é possível fugir de seu passado.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/82aAFlpqfnsxCkignoyyshIgtfB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/33rJpN5LJEaOd5yHZsZZIlpC99u.jpg",
+  "tmdbId": 659711,
+  "nota": 3.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783712,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779556,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Free Skate",
+  "dataLancamento": "2022-10-21"
+}

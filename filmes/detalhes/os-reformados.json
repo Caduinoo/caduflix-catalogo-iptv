@@ -1,0 +1,34 @@
+{
+  "id": "os-reformados",
+  "tipo": "filme",
+  "titulo": "Os Reformados",
+  "ano": null,
+  "descricao": "Um menino encontra um soldado nazista morto em uma cidade da Romênia e os alemães querem culpá-lo. Por medo, as autoridades locais forçam um homem a se declarar culpado, sem imaginar as consequências.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5sh6DdGkp6qLfNkN5CmocsuPyYR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pqjrBtIHyzRlzypAGAcPkrULUSo.jpg",
+  "tmdbId": 248401,
+  "nota": 5.188,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788830,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776423,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "A Farewell to Fools",
+  "dataLancamento": "2013-03-15"
+}

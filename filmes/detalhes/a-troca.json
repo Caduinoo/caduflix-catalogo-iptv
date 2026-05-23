@@ -1,0 +1,34 @@
+{
+  "id": "a-troca",
+  "tipo": "filme",
+  "titulo": "A Troca",
+  "ano": null,
+  "descricao": "Los Angeles, março de 1928. Christine Collins, uma mãe solteira, se despede de Walter, seu filho de 9 anos, e parte rumo ao trabalho. Ao retornar descobre que Walter desapareceu, o que faz com que inicie uma busca exaustiva. Cinco meses depois a polícia traz uma criança, dizendo ser Walter. Atordoada pela emoção da situação, além da presença de policiais e jornalistas que desejam tirar proveito da repercussão do caso, Christine aceita a criança. Porém, no íntimo, ela sabe que ele não é Walter e, com isso, pressiona as autoridades para que continuem as buscas por ele.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/feBAF48a6hmOr3KMlrxwGzlHCbK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yWs9QUP2kamsnfdV4cloxLM5RUw.jpg",
+  "tmdbId": 3580,
+  "nota": 7.579,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783822,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774235,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Changeling",
+  "dataLancamento": "2008-10-24"
+}

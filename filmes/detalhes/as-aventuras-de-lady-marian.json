@@ -1,0 +1,34 @@
+{
+  "id": "as-aventuras-de-lady-marian",
+  "tipo": "filme",
+  "titulo": "As Aventuras de Lady Marian",
+  "ano": null,
+  "descricao": "Após três anos se escondendo, Lady Marian descobre que o Rei Ricardo Coração de Leão está morto e que o seu amante, Robin Hood, acaba de retornar da guerra.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/i07xYX8ZZmBqnYzB84xiRyKXWGG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xg4BiG7tV6nl8VG9nsSdh3jype.jpg",
+  "tmdbId": 893334,
+  "nota": 4.63,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049665,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11041372,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "The Adventures of Maid Marian",
+  "dataLancamento": "2022-05-09"
+}

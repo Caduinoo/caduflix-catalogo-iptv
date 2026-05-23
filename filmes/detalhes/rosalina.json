@@ -1,0 +1,42 @@
+{
+  "id": "rosalina",
+  "tipo": "filme",
+  "titulo": "Rosalina",
+  "ano": null,
+  "descricao": "Uma nova e cômica reviravolta na clássica história de amor de Shakespeare. \"Romeu e Julieta\", contada da perspectiva da prima de Julieta, Rosalina, que também é o recente interesse amoroso de Romeu. Com o coração partido quando Romeu conhece Julieta e começa a persegui-la, Rosaline planeja frustrar o famoso romance e reconquistar seu namorado.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/Ad51mrs3azZMzHE6cLrCv9uSztP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/s4ZEtO5Lo444WJ5lBVyYARAq08.jpg",
+  "tmdbId": 826769,
+  "nota": 7.107,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789518,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773761,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782919,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Rosaline",
+  "dataLancamento": "2022-10-11"
+}

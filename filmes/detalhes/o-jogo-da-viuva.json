@@ -1,0 +1,41 @@
+{
+  "id": "o-jogo-da-viuva",
+  "tipo": "filme",
+  "titulo": "O Jogo da Viúva",
+  "ano": null,
+  "descricao": "Um homem é encontrado morto, e a investigação acaba com a fachada de perfeição da viúva, expondo uma vida dupla neste suspense baseado em uma história real.",
+  "generos": [
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/txiHphuGlemWdD9Lv4FfkJU4uS9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pOR4Aye28KLZ5Jogu8zc3yiqBpT.jpg",
+  "tmdbId": 1397832,
+  "nota": 6.221,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779902,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11034921,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779905,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1775734163,
+  "tituloOriginal": "La viuda negra",
+  "dataLancamento": "2025-05-30"
+}

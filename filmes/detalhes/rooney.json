@@ -1,0 +1,26 @@
+{
+  "id": "rooney",
+  "tipo": "filme",
+  "titulo": "Rooney",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mfnjttqCZOKKuEZ2z5zZqoSb0vR.jpg",
+  "banner": null,
+  "tmdbId": 233559,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789521,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Rooney",
+  "dataLancamento": "1958-03-14"
+}

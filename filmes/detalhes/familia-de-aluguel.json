@@ -1,0 +1,42 @@
+{
+  "id": "familia-de-aluguel",
+  "tipo": "filme",
+  "titulo": "Família de Aluguel",
+  "ano": null,
+  "descricao": "Um ator americano em Tóquio consegue um emprego incomum: trabalhar para uma agência japonesa de \"parentes de aluguel\". No contato com os clientes ele cria laços genuínos e moralmente complexos que borram as linhas entre a performance e a realidade.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6OLrvwkdkQ3vzEzhNR7g24HYbeg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/euoXeFAOt9o7yAWA9zGZk7DdZWZ.jpg",
+  "tmdbId": 1208348,
+  "nota": 7.737,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791551,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791527,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10791591,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Rental Family",
+  "dataLancamento": "2025-11-20"
+}

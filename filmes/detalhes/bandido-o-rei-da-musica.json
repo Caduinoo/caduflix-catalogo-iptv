@@ -1,0 +1,34 @@
+{
+  "id": "bandido-o-rei-da-musica",
+  "tipo": "filme",
+  "titulo": "Bandido: O Rei da Música",
+  "ano": null,
+  "descricao": "Roberto Benítez, conhecido artisticamente como Bandido, é um cantor de música popular argentina que entra em crise quando atinge a meia-idade e vê sua carreira estagnada. Quando ele vira vítima de um crime, alguns vizinhos o ajudam, entre eles Rubén, um velho amigo que o acompanhou em seus primeiros anos de carreira. Com a companhia do amigo, Bandido enfrenta seus fantasmas e descobre uma nova oportunidade de reencontrar em si mesmo e na música a sua verdadeira paixão.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/g2mWlq4UcgwNjEPUb8B11UsQk4I.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cXbUY3GTTpFU9qc7dmRZltALxM3.jpg",
+  "tmdbId": 804778,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784513,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774959,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Bandido",
+  "dataLancamento": "2021-03-18"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "mesacast-bbb",
+  "tipo": "serie",
+  "titulo": "Mesacast BBB",
+  "ano": null,
+  "descricao": "Mesacast BBB vai ao ar todos os dias, a partir de 19h30, para falar sobre as dinâmicas do BBB 24, entrevistar ex-participantes, receber influenciadores, estrelas e fãs de BBB para um papo sobre o que está rolando no reality.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eVzAubhL1NEbG1VmaorZ9PkmAAG.jpg",
+  "tmdbId": 243178,
+  "nota": null,
+  "xtreamSeriesId": 3101,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10873641",
+          "tipo": "episodio",
+          "titulo": "Mesacast BBB S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10873641",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873642",
+          "tipo": "episodio",
+          "titulo": "Mesacast BBB S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10873642",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873643",
+          "tipo": "episodio",
+          "titulo": "Mesacast BBB S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10873643",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873644",
+          "tipo": "episodio",
+          "titulo": "Mesacast BBB S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10873644",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873645",
+          "tipo": "episodio",
+          "titulo": "Mesacast BBB S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10873645",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873646",
+          "tipo": "episodio",
+          "titulo": "Mesacast BBB S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10873646",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873647",
+          "tipo": "episodio",
+          "titulo": "Mesacast BBB S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10873647",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873648",
+          "tipo": "episodio",
+          "titulo": "Mesacast BBB S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10873648",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873649",
+          "tipo": "episodio",
+          "titulo": "Mesacast BBB S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10873649",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g4LwGOOwpEUK45ncxa48F2BdyjF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 9,
+  "tituloOriginal": "Mesacast BBB",
+  "dataLancamento": "2024-01-08"
+}

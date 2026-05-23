@@ -1,0 +1,99 @@
+{
+  "id": "dance-100",
+  "tipo": "serie",
+  "titulo": "Dance 100",
+  "ano": null,
+  "descricao": "Para ganhar 100 mil dólares, oito profissionais devem criar coreografias cada vez mais complexas para um grupo de dançarinos de elite — que também são o júri.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hD3F4iXS2w8vfkcqSsuvcUJ1m1h.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bG1Erks81G06DQX0zWv7O0ohhp5.jpg",
+  "tmdbId": 220650,
+  "nota": 6,
+  "xtreamSeriesId": 4351,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10905520",
+          "tipo": "episodio",
+          "titulo": "Dance 100 S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10905520",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hD3F4iXS2w8vfkcqSsuvcUJ1m1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905521",
+          "tipo": "episodio",
+          "titulo": "Dance 100 S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10905521",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hD3F4iXS2w8vfkcqSsuvcUJ1m1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905522",
+          "tipo": "episodio",
+          "titulo": "Dance 100 S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10905522",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hD3F4iXS2w8vfkcqSsuvcUJ1m1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905523",
+          "tipo": "episodio",
+          "titulo": "Dance 100 S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10905523",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hD3F4iXS2w8vfkcqSsuvcUJ1m1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905524",
+          "tipo": "episodio",
+          "titulo": "Dance 100 S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10905524",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hD3F4iXS2w8vfkcqSsuvcUJ1m1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905525",
+          "tipo": "episodio",
+          "titulo": "Dance 100 S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10905525",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hD3F4iXS2w8vfkcqSsuvcUJ1m1h.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Dance 100",
+  "dataLancamento": "2023-03-17"
+}

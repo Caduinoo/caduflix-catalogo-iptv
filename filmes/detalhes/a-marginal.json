@@ -1,0 +1,34 @@
+{
+  "id": "a-marginal",
+  "tipo": "filme",
+  "titulo": "A Marginal",
+  "ano": null,
+  "descricao": "Michèle, uma mulher que vive no aeroporto de Orly, cruza-se regularmente com o jovem Théo. Um dia, ela faz uma descoberta inesperada que a leva a convencer Théo a levá-la no seu carro sem licença até Lisboa para encontrar o seu filho. Embarcam então em uma viagem comovente, cheia de armadilhas, pelas estradas rurais.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xSVRiLvaEGo6Wxsi52YtKMMx3vM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zmgdVjsaNXEuH4ozC2XPynME3lp.jpg",
+  "tmdbId": 996637,
+  "nota": 6.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783618,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772123,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "La Marginale",
+  "dataLancamento": "2023-05-03"
+}

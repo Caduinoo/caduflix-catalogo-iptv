@@ -1,0 +1,34 @@
+{
+  "id": "aquaman",
+  "tipo": "filme",
+  "titulo": "Aquaman",
+  "ano": null,
+  "descricao": "A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wbo0CYG6SOFxFkoe9BiqvivLggN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+  "tmdbId": 297802,
+  "nota": 6.867,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769287,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782071,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Aquaman",
+  "dataLancamento": "2018-12-07"
+}

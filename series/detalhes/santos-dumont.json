@@ -1,0 +1,87 @@
+{
+  "id": "santos-dumont",
+  "tipo": "serie",
+  "titulo": "Santos Dumont",
+  "ano": null,
+  "descricao": "A história do visionário criador que deu ao antigo sonho de voar forma e realidade. A vida, a ambição, a consagração e a melancolia de um gênio da mecânica com alma de poeta: Santos Dumont.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4yVtl6XcxT2kaFel8YP8o0l0yf2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/l3W9KjW2e0HzrbbVULqAb3OV2Pq.jpg",
+  "tmdbId": 94449,
+  "nota": 7.3,
+  "xtreamSeriesId": 3821,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10895625",
+          "tipo": "episodio",
+          "titulo": "Santos Dumont S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10895625",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4yVtl6XcxT2kaFel8YP8o0l0yf2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895626",
+          "tipo": "episodio",
+          "titulo": "Santos Dumont S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10895626",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4yVtl6XcxT2kaFel8YP8o0l0yf2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895627",
+          "tipo": "episodio",
+          "titulo": "Santos Dumont S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10895627",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4yVtl6XcxT2kaFel8YP8o0l0yf2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895628",
+          "tipo": "episodio",
+          "titulo": "Santos Dumont S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10895628",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4yVtl6XcxT2kaFel8YP8o0l0yf2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895629",
+          "tipo": "episodio",
+          "titulo": "Santos Dumont S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10895629",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4yVtl6XcxT2kaFel8YP8o0l0yf2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Santos Dumont",
+  "dataLancamento": "2019-11-10"
+}

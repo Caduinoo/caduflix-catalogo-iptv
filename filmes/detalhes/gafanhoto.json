@@ -1,0 +1,42 @@
+{
+  "id": "gafanhoto",
+  "tipo": "filme",
+  "titulo": "Gafanhoto",
+  "ano": null,
+  "descricao": "Zhong-Han trabalha em um restaurante durante o dia e convive com criminosos durante a noite. Mas a mudança de direção do restaurante resulta em uma inesperada reação em cadeia que obrigará Zhong-Han a enfrentar a corrupção de seu país.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sRZOq9IGIPe2m1OmLCz5UgP867p.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4WVCVCgT4sNlnYChlTBo39VyAI9.jpg",
+  "tmdbId": 1131460,
+  "nota": 6.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038960,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038942,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050001,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "蟲",
+  "dataLancamento": "2025-07-30"
+}

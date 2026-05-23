@@ -1,0 +1,34 @@
+{
+  "id": "esquadrao-implacavel",
+  "tipo": "filme",
+  "titulo": "Esquadrão Implacável",
+  "ano": null,
+  "descricao": "Um detetive durão que faz parte de uma unidade de elite da cidade de Nova York está tentando descobrir quem matou seu parceiro, mas descobre um plano para sequestrar mafiosos por dinheiro.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vx88yJs9rIGYT6jJuZadi9aDJDX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Am1TyZKV2ayIwGM76rB5CAw36Gj.jpg",
+  "tmdbId": 32080,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785830,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781635,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "The Seven-Ups",
+  "dataLancamento": "1973-12-14"
+}

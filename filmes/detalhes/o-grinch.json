@@ -1,0 +1,42 @@
+{
+  "id": "o-grinch",
+  "tipo": "filme",
+  "titulo": "O Grinch",
+  "ano": null,
+  "descricao": "O Grinch é um ser verde que não suporta o Natal e, todo ano, precisa impedir que os habitantes da cidade vizinha de Quemlândia comemorem a data. Decidido a acabar com a festa, ele resolve invadir os lares dos vizinhos e roubar tudo o que está relacionado ao Natal.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hGnQmQARgtXtoesIGAsmmTbMKfH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+  "tmdbId": 360920,
+  "nota": 6.867,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788145,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771536,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782712,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Grinch",
+  "dataLancamento": "2018-11-08"
+}

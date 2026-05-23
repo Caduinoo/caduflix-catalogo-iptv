@@ -1,0 +1,75 @@
+{
+  "id": "restaurantes-no-fim-do-mundo",
+  "tipo": "serie",
+  "titulo": "Restaurantes no Fim do Mundo",
+  "ano": null,
+  "descricao": "Kristen Kish aprende com chefes que superam os grandes desafios necessários para servir pratos memoráveis nos lugares mais remotos da Terra.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eISdT1PO9GwFk1SwbHGi1b2rNyp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5gqWfhlIF0KWRtCuOU2EBGl7t4j.jpg",
+  "tmdbId": 202139,
+  "nota": 9.5,
+  "xtreamSeriesId": 2024,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10846300",
+          "tipo": "episodio",
+          "titulo": "Restaurantes no Fim do Mundo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10846300",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eISdT1PO9GwFk1SwbHGi1b2rNyp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846301",
+          "tipo": "episodio",
+          "titulo": "Restaurantes no Fim do Mundo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10846301",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eISdT1PO9GwFk1SwbHGi1b2rNyp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846302",
+          "tipo": "episodio",
+          "titulo": "Restaurantes no Fim do Mundo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10846302",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eISdT1PO9GwFk1SwbHGi1b2rNyp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846303",
+          "tipo": "episodio",
+          "titulo": "Restaurantes no Fim do Mundo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10846303",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eISdT1PO9GwFk1SwbHGi1b2rNyp.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Restaurants at the End of the World",
+  "dataLancamento": "2023-03-21"
+}

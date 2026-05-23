@@ -1,0 +1,51 @@
+{
+  "id": "neanderthal-apocalypse",
+  "tipo": "serie",
+  "titulo": "Neanderthal Apocalypse",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/s3xywgN1Svgb7vF9upfeC9kOMFA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/v0Vx0OO89nLx7m5OHwudtUsvvR8.jpg",
+  "tmdbId": 220178,
+  "nota": 8,
+  "xtreamSeriesId": 4861,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915442",
+          "tipo": "episodio",
+          "titulo": "Neanderthal Apocalypse S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915442",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/s3xywgN1Svgb7vF9upfeC9kOMFA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915443",
+          "tipo": "episodio",
+          "titulo": "Neanderthal Apocalypse S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915443",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/s3xywgN1Svgb7vF9upfeC9kOMFA.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Neanderthal Apocalypse",
+  "dataLancamento": "2015-09-18"
+}

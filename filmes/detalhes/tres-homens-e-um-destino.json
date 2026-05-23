@@ -1,0 +1,34 @@
+{
+  "id": "tres-homens-e-um-destino",
+  "tipo": "filme",
+  "titulo": "Três Homens e um Destino",
+  "ano": null,
+  "descricao": "Com a intenção de aplicar sua própria forma brutal de justiça, dois homens comuns sequestram um criminoso que cometeu um crime horrível muitos anos antes.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/t5xdKR8qMznzl3YTDxGkSyn6pEE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/svCqnYthFAtw3kE7BKzdLqWRYz0.jpg",
+  "tmdbId": 1032660,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790476,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049641,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "The Cost",
+  "dataLancamento": "2023-05-10"
+}

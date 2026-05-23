@@ -1,0 +1,34 @@
+{
+  "id": "um-espetaculo-de-natal",
+  "tipo": "filme",
+  "titulo": "Um Espetáculo de Natal",
+  "ano": null,
+  "descricao": "Uma aspirante a estrela da Broadway concorda em se apresentar em um show de Natal. Mas será que ela está pronta para aceitar o convite do amor?",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vPxmGhwZr3xgSZNW3frw1yAkBcD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Aq5pvd4AFVtD9HMYtrRLz9Fb3oK.jpg",
+  "tmdbId": 1022685,
+  "nota": 5.774,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790589,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778794,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "I'm Glad It's Christmas",
+  "dataLancamento": "2022-11-26"
+}

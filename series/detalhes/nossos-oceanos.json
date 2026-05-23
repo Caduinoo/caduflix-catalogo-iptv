@@ -1,0 +1,87 @@
+{
+  "id": "nossos-oceanos",
+  "tipo": "serie",
+  "titulo": "Nossos Oceanos",
+  "ano": null,
+  "descricao": "Descubra as histórias abaixo da superfície oceânica nesta série documental espetacular sobre a natureza, que explora cada um dos cinco oceanos da Terra.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/u9XGxJld5xzObHhpVqdQaBMazcw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/79uppyAh8ZvQrm5DSdRsi9gQj9V.jpg",
+  "tmdbId": 213611,
+  "nota": 7.4,
+  "xtreamSeriesId": 4887,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915723",
+          "tipo": "episodio",
+          "titulo": "Nossos Oceanos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915723",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u9XGxJld5xzObHhpVqdQaBMazcw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915724",
+          "tipo": "episodio",
+          "titulo": "Nossos Oceanos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915724",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u9XGxJld5xzObHhpVqdQaBMazcw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915725",
+          "tipo": "episodio",
+          "titulo": "Nossos Oceanos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915725",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u9XGxJld5xzObHhpVqdQaBMazcw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915726",
+          "tipo": "episodio",
+          "titulo": "Nossos Oceanos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10915726",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u9XGxJld5xzObHhpVqdQaBMazcw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915727",
+          "tipo": "episodio",
+          "titulo": "Nossos Oceanos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10915727",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u9XGxJld5xzObHhpVqdQaBMazcw.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Our Oceans",
+  "dataLancamento": "2024-11-20"
+}

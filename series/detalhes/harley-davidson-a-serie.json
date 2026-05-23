@@ -1,0 +1,63 @@
+{
+  "id": "harley-davidson-a-serie",
+  "tipo": "serie",
+  "titulo": "Harley-Davidson: A Série",
+  "ano": null,
+  "descricao": "O nascimento da popular marca de motocicletas do Milwaukee.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oGO6qvzxkDw7azTTbu7Qlucnjwe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hclcqDY2ZZv3B0k8ZPoRRqyacNE.jpg",
+  "tmdbId": 67673,
+  "nota": 7.819,
+  "xtreamSeriesId": 7028,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11015993",
+          "tipo": "episodio",
+          "titulo": "Harley Davidson A Serie S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11015993",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGO6qvzxkDw7azTTbu7Qlucnjwe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015994",
+          "tipo": "episodio",
+          "titulo": "Harley Davidson A Serie S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11015994",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGO6qvzxkDw7azTTbu7Qlucnjwe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015995",
+          "tipo": "episodio",
+          "titulo": "Harley Davidson A Serie S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11015995",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGO6qvzxkDw7azTTbu7Qlucnjwe.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Harley and the Davidsons",
+  "dataLancamento": "2016-09-05"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "querida",
+  "tipo": "filme",
+  "titulo": "Minha Querida Senhorita",
+  "ano": null,
+  "descricao": "Uma jovem de família tradicional descobre que é intersexo, dando início a uma jornada de autodescoberta, identidade de gênero e encontrando o amor em lugares inesperados.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gKJpNEcYCC6clmlfuAshJ5QiV24.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg",
+  "tmdbId": 1239198,
+  "nota": 6.25,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789304,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780025,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782883,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050076,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Mi querida señorita",
+  "dataLancamento": "2026-04-17"
+}

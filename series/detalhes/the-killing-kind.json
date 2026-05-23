@@ -1,0 +1,99 @@
+{
+  "id": "the-killing-kind",
+  "tipo": "serie",
+  "titulo": "The Killing Kind",
+  "ano": null,
+  "descricao": "Depois que sua amiga é morta, a advogada Ingrid Lewis suspeita que era o alvo, e um ex-cliente diz que só ele pode protegê-la.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5imNWXMYXmBZBc34BqPE3lkoIl9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sEKwdnrnO3I1DE98zYG7HLA2wEI.jpg",
+  "tmdbId": 231340,
+  "nota": 6.3,
+  "xtreamSeriesId": 7374,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11039036",
+          "tipo": "episodio",
+          "titulo": "The Killing Kind S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11039036",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5imNWXMYXmBZBc34BqPE3lkoIl9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039037",
+          "tipo": "episodio",
+          "titulo": "The Killing Kind S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11039037",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5imNWXMYXmBZBc34BqPE3lkoIl9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039038",
+          "tipo": "episodio",
+          "titulo": "The Killing Kind S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11039038",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5imNWXMYXmBZBc34BqPE3lkoIl9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039039",
+          "tipo": "episodio",
+          "titulo": "The Killing Kind S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11039039",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5imNWXMYXmBZBc34BqPE3lkoIl9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039040",
+          "tipo": "episodio",
+          "titulo": "The Killing Kind S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11039040",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5imNWXMYXmBZBc34BqPE3lkoIl9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039041",
+          "tipo": "episodio",
+          "titulo": "The Killing Kind S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11039041",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5imNWXMYXmBZBc34BqPE3lkoIl9.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Killing Kind",
+  "dataLancamento": "2023-09-07"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "camaleoes",
+  "tipo": "filme",
+  "titulo": "Camaleões",
+  "ano": null,
+  "descricao": "Um detetive da Nova Inglaterra trabalha para solucionar o assassinato de um corretor de imóveis e, como resultado do caso, passa por uma reflexão sobre si mesmo.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2FKm87VF8VKkIFJtRoPsWiux4sr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nrp2khEM6JWFqqNLeub1J6Qafe0.jpg",
+  "tmdbId": 866463,
+  "nota": 6.668,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784774,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779642,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782169,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Reptile",
+  "dataLancamento": "2023-09-29"
+}

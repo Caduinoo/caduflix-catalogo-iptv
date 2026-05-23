@@ -1,0 +1,39 @@
+{
+  "id": "repolho-sua-vida",
+  "tipo": "serie",
+  "titulo": "Repolho Sua Vida",
+  "ano": null,
+  "descricao": "Um drama rural sobre cura, que narra as histórias de famílias urbanas que foram realocadas à força da cidade para Yeon-ri, uma área limpa e fresca, em busca da verdadeira felicidade na natureza.",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9PtLB2E5noBuRgT0oZ1lyiSYlrj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/VD0J0SAwBQ6XhB662atAz2hSGS.jpg",
+  "tmdbId": 311650,
+  "nota": 8,
+  "xtreamSeriesId": 7198,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11033198",
+          "tipo": "episodio",
+          "titulo": "Repolho Sua Vida (2026) [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11033198",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9PtLB2E5noBuRgT0oZ1lyiSYlrj.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "심우면 연리리",
+  "dataLancamento": "2026-03-26"
+}

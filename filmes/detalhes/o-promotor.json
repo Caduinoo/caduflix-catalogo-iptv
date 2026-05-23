@@ -1,0 +1,34 @@
+{
+  "id": "o-promotor",
+  "tipo": "filme",
+  "titulo": "O Promotor",
+  "ano": null,
+  "descricao": "Um jovem pobre é injustamente acusado de tráfico de drogas após ser enganado. Um ex-promotor investiga o caso e descobre o esquema de uma equipe de advogados corruptos.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/frthFwTTZlUZqGTjm46na3nMcAn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4frrYwamVG0eXhdMTy3cpNNcCBp.jpg",
+  "tmdbId": 1128650,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788402,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049501,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "誤判",
+  "dataLancamento": "2024-12-08"
+}

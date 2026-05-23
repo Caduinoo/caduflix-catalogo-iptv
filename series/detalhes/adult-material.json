@@ -1,0 +1,75 @@
+{
+  "id": "adult-material",
+  "tipo": "serie",
+  "titulo": "Adult Material",
+  "ano": null,
+  "descricao": "A vida de uma mulher que trabalha na indústria cinematográfica adulta se estende de seu início decadente a uma empresa de grande sucesso.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/niPoxn9jPgB322BvujD7ZdlfOJd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uEvj4C4dtHJqYoRRy0U9fPZlthP.jpg",
+  "tmdbId": 100444,
+  "nota": 6.462,
+  "xtreamSeriesId": 5781,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10971183",
+          "tipo": "episodio",
+          "titulo": "Adult Material S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10971183",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/niPoxn9jPgB322BvujD7ZdlfOJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971184",
+          "tipo": "episodio",
+          "titulo": "Adult Material S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10971184",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/niPoxn9jPgB322BvujD7ZdlfOJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971185",
+          "tipo": "episodio",
+          "titulo": "Adult Material S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10971185",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/niPoxn9jPgB322BvujD7ZdlfOJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971186",
+          "tipo": "episodio",
+          "titulo": "Adult Material S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10971186",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/niPoxn9jPgB322BvujD7ZdlfOJd.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Adult Material",
+  "dataLancamento": "2020-10-05"
+}

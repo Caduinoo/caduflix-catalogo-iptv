@@ -1,0 +1,123 @@
+{
+  "id": "cashero",
+  "tipo": "serie",
+  "titulo": "Cashero",
+  "ano": null,
+  "descricao": "Um homem comum herda superpoderes e passa a ser perseguido por vilões que pretendem roubá-los. O problema é que esses poderes custam caro.",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+  "tmdbId": 238458,
+  "nota": 7.344,
+  "xtreamSeriesId": 2284,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10852593",
+          "tipo": "episodio",
+          "titulo": "Cashero S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10852593",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852594",
+          "tipo": "episodio",
+          "titulo": "Cashero S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10852594",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852595",
+          "tipo": "episodio",
+          "titulo": "Cashero S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10852595",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852596",
+          "tipo": "episodio",
+          "titulo": "Cashero S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10852596",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852597",
+          "tipo": "episodio",
+          "titulo": "Cashero S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10852597",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852598",
+          "tipo": "episodio",
+          "titulo": "Cashero S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10852598",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852599",
+          "tipo": "episodio",
+          "titulo": "Cashero S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10852599",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10852600",
+          "tipo": "episodio",
+          "titulo": "Cashero S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10852600",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "캐셔로",
+  "dataLancamento": "2025-12-26"
+}

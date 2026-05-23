@@ -1,0 +1,63 @@
+{
+  "id": "glee-o-preco-da-fama",
+  "tipo": "serie",
+  "titulo": "Glee: O Preço da Fama",
+  "ano": null,
+  "descricao": "Elenco e equipe técnica de \"Glee\" revelam verdades surpreendentes sobre os bastidores da série e também comentam as tragédias que se abateram sobre algumas das principais estrelas do programa.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m1tb0fmCxStxGtPskQg4R2eAtki.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zZEsD2jRHq10eS0LS0NJqBe3Fz1.jpg",
+  "tmdbId": 218502,
+  "nota": 5.9,
+  "xtreamSeriesId": 1445,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10829853",
+          "tipo": "episodio",
+          "titulo": "Glee O Preço da Fama S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10829853",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m1tb0fmCxStxGtPskQg4R2eAtki.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829854",
+          "tipo": "episodio",
+          "titulo": "Glee O Preço da Fama S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10829854",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m1tb0fmCxStxGtPskQg4R2eAtki.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829855",
+          "tipo": "episodio",
+          "titulo": "Glee O Preço da Fama S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10829855",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m1tb0fmCxStxGtPskQg4R2eAtki.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "The Price of Glee",
+  "dataLancamento": "2023-01-16"
+}

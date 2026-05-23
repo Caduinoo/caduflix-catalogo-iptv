@@ -1,0 +1,99 @@
+{
+  "id": "coyote",
+  "tipo": "serie",
+  "titulo": "Coyote",
+  "ano": null,
+  "descricao": "Após trabalhar durante anos na fronteira dos Estados Unidos com o México, o americano Ben Clemens passa a cooperar com as pessoas que sempre tentou manter distante do seu país.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dzAwoFc87V2zku5FqYoijKfCOvh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4J713WSLvfKFp7ZiZQopB7vXtNN.jpg",
+  "tmdbId": 90702,
+  "nota": 7.785,
+  "xtreamSeriesId": 5907,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10975311",
+          "tipo": "episodio",
+          "titulo": "Coyote S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10975311",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dzAwoFc87V2zku5FqYoijKfCOvh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10975312",
+          "tipo": "episodio",
+          "titulo": "Coyote S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10975312",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dzAwoFc87V2zku5FqYoijKfCOvh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10975313",
+          "tipo": "episodio",
+          "titulo": "Coyote S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10975313",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dzAwoFc87V2zku5FqYoijKfCOvh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10975314",
+          "tipo": "episodio",
+          "titulo": "Coyote S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10975314",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dzAwoFc87V2zku5FqYoijKfCOvh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10975315",
+          "tipo": "episodio",
+          "titulo": "Coyote S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10975315",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dzAwoFc87V2zku5FqYoijKfCOvh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10975316",
+          "tipo": "episodio",
+          "titulo": "Coyote S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10975316",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dzAwoFc87V2zku5FqYoijKfCOvh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Coyote",
+  "dataLancamento": "2021-01-07"
+}

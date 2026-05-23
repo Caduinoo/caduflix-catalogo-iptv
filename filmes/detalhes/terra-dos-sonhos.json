@@ -1,0 +1,34 @@
+{
+  "id": "terra-dos-sonhos",
+  "tipo": "filme",
+  "titulo": "Terra dos Sonhos",
+  "ano": null,
+  "descricao": "Uma destemida jovem órfã embarca em uma jornada pela terra dos sonhos para encontrar uma pérola mágica e realizar seu maior desejo.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6tAYyCxF0T5oUIH95zMBC3X3W5T.jpg",
+  "tmdbId": 668461,
+  "nota": 7.284,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790063,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781763,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Slumberland",
+  "dataLancamento": "2022-11-18"
+}

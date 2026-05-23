@@ -1,0 +1,34 @@
+{
+  "id": "o-bom-doutor",
+  "tipo": "filme",
+  "titulo": "O Bom Doutor",
+  "ano": null,
+  "descricao": "Na véspera de Natal, Serge é o único médico de emergência disponível. Atingido por uma dor nas costas incapacitante, ele recebe ajuda de um entregador de pizza que precisará entrar no lugar do médico.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/b6AJO7VKq0c63zjyS1nFJXIcfZw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/70zanWt7TxBCZJCdMYhCMFDdGQr.jpg",
+  "tmdbId": 613349,
+  "nota": 6.544,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787891,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773318,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Docteur ?",
+  "dataLancamento": "2019-12-11"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "machete",
+  "tipo": "filme",
+  "titulo": "Machete",
+  "ano": null,
+  "descricao": "Machete (Danny Trejo) é um ex agente federal mexicano e foi contratado por um homem misterioso (Jeff Fahey) para assassinar um importante político americano. Mas ele também se tornou alvo de outro matador e agora o que parecia ser uma simples e rentável missão, transformou-se num sanguinária trama de conspiração contra o povo mexicano. Machete não vai deixar por menos, quer vingança e para isso conta com seu velho amigo \"O Padre\" (Cheech Marin).",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4nDgg0DgIuNk1FpyI7jHJyB9Rd8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wbjoD8BN5W9VusuLJYdd7tWUxqh.jpg",
+  "tmdbId": 23631,
+  "nota": 6.342,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787062,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770035,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Machete",
+  "dataLancamento": "2010-09-01"
+}

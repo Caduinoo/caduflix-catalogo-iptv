@@ -1,0 +1,34 @@
+{
+  "id": "numero-24",
+  "tipo": "filme",
+  "titulo": "Número 24",
+  "ano": null,
+  "descricao": "Às vésperas da Segunda Guerra Mundial, a determinação de um jovem norueguês em resistir aos nazistas muda o rumo de sua vida (e de seu país).",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jB096esffwNRFO65QcNTAPAfIX0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4bgcL1wAGHgNKqXMmVn4N4TW3S1.jpg",
+  "tmdbId": 1222248,
+  "nota": 7.145,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787813,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778033,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Nr. 24",
+  "dataLancamento": "2024-10-30"
+}

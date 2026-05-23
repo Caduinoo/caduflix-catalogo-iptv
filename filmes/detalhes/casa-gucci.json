@@ -1,0 +1,42 @@
+{
+  "id": "casa-gucci",
+  "tipo": "filme",
+  "titulo": "Casa Gucci",
+  "ano": null,
+  "descricao": "A verdadeira história de como Patrizia Reggiani planejou matar o marido Maurizio Gucci, neto do renomado estilista Guccio Gucci.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dAPdK3L2STpHo4DFKwtL2gdo89L.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jdLsmpqmP1wTdFUPtmxMnYgoifT.jpg",
+  "tmdbId": 644495,
+  "nota": 6.565,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784825,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775055,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782182,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "House of Gucci",
+  "dataLancamento": "2021-11-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "dois-nilos",
+  "tipo": "filme",
+  "titulo": "Dois Nilos",
+  "ano": null,
+  "descricao": "Um passeio pelas memórias do cineasta brasileiro Afranio Vital. Entre sonhos e escombros, uma vida de cinema não acaba assim.",
+  "generos": [
+    "NACIONAIS",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mLufrbc31bVPe2iDb1L92aWAFGM.jpg",
+  "banner": null,
+  "tmdbId": 1363606,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11035637,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049991,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Dois Nilos",
+  "dataLancamento": "2024-12-06"
+}

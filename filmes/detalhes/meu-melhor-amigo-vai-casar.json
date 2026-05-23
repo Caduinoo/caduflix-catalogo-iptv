@@ -1,0 +1,34 @@
+{
+  "id": "meu-melhor-amigo-vai-casar",
+  "tipo": "filme",
+  "titulo": "Meu Melhor Amigo Vai Casar",
+  "ano": null,
+  "descricao": "Quando Julia recebe uma ligação de seu melhor amigo, Manuel informa que ele vai se casar em quatro dias, ela percebe que está apaixonada por ele e fará qualquer coisa para impedir o casamento.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4WuxbxcQzL7AXY4aSeFoyRA4sb2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cEBixhdpivXI2Br6PerpL7xUby4.jpg",
+  "tmdbId": 555801,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787295,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773143,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "La boda de mi mejor amigo",
+  "dataLancamento": "2019-02-14"
+}

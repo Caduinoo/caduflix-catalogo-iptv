@@ -1,0 +1,34 @@
+{
+  "id": "doce-lar",
+  "tipo": "filme",
+  "titulo": "Doce Lar",
+  "ano": null,
+  "descricao": "Decidida a fugir de Jake, seu marido, Melanie deixa o Alabama e passa a viver secretamente em Nova York. Lá ela conhece Andrew, filho da atual prefeita Kate Hennings, com quem começa a namorar. Tudo corre bem na vida de Melanie, até que Andrew decide pedi-la em casamento. Ela aceita o pedido, mas precisa retornar ao Alabama o mais rápido possível para conseguir o divórcio com seu atual marido. Mas ao voltar Melanie precisará mais uma vez confrontar seu passado, do qual buscava tanto fugir.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gH9GG6BPYzwhqyKqg5YagynO2n8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xE0ouu4yVA4fBojdHg2UkfvRxY4.jpg",
+  "tmdbId": 11529,
+  "nota": 6.417,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785534,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772631,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Sweet Home Alabama",
+  "dataLancamento": "2002-09-26"
+}

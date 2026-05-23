@@ -1,0 +1,34 @@
+{
+  "id": "fresh-hell",
+  "tipo": "filme",
+  "titulo": "Terror Virtual",
+  "ano": null,
+  "descricao": "Alguns amigos que perderam o contato durante a pandemia decidem fazer uma chamada de vídeo para colocar a conversa em dia. Mas o encontro virtual toma um rumo inesperado quando uma pessoa desconhecida assume o lugar de um dos participantes.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pVRzCS3ylEsaQpE14tgG7vpIkGl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xoSnauACoBDUAZlrjeSXkSYxJWm.jpg",
+  "tmdbId": 873973,
+  "nota": 4.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11022560,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11022574,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1774125612,
+  "tituloOriginal": "Fresh Hell",
+  "dataLancamento": "2021-09-11"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "me-salva-dessa",
+  "tipo": "serie",
+  "titulo": "Me Salva Dessa!",
+  "ano": null,
+  "descricao": "Dr. Ruby Rose revela o fascinante mundo da medicina de emergência em todo o Texas, como médicos e equipe de apoio tratam uma grande variedade de pacientes que sofrem de lesões excruciantes, infecções com risco de vida e doenças incomuns.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ugPzLIRCbdhonyyZPjDER169u4P.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bVnLsbNjR6RExWoK3eiCBJ7VSwU.jpg",
+  "tmdbId": 155468,
+  "nota": 7.833,
+  "xtreamSeriesId": 3660,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10891636",
+          "tipo": "episodio",
+          "titulo": "Me Salva Dessa S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10891636",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ugPzLIRCbdhonyyZPjDER169u4P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10891637",
+          "tipo": "episodio",
+          "titulo": "Me Salva Dessa S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10891637",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ugPzLIRCbdhonyyZPjDER169u4P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10891638",
+          "tipo": "episodio",
+          "titulo": "Me Salva Dessa S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10891638",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ugPzLIRCbdhonyyZPjDER169u4P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10891639",
+          "tipo": "episodio",
+          "titulo": "Me Salva Dessa S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10891639",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ugPzLIRCbdhonyyZPjDER169u4P.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "This Came Out of Me",
+  "dataLancamento": "2022-01-02"
+}

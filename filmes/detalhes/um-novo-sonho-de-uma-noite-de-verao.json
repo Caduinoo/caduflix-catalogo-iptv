@@ -1,0 +1,34 @@
+{
+  "id": "um-novo-sonho-de-uma-noite-de-verao",
+  "tipo": "filme",
+  "titulo": "Um Novo Sonho de Uma Noite de Verão",
+  "ano": null,
+  "descricao": "Nesta releitura moderna da obra de William Shakespeare, dois jovens amantes fogem de sua cidade natal que vive sob um regime opressor. Em sua busca por liberdade, eles provam que o amor pode transformar tudo.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xDAfKYF7YRHLPXiUEirqXnmpm1Q.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3iXeMSXiNZxVYxSVvVeGuPR7qBL.jpg",
+  "tmdbId": 617006,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790691,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779451,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "A Midsummer Night's Dream",
+  "dataLancamento": "2022-12-23"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "decameron",
+  "tipo": "serie",
+  "titulo": "Decameron",
+  "ano": null,
+  "descricao": "Para fugir da peste bubônica que assola a Itália, um grupo de nobres se hospeda em uma mansão com seus servos. Mas essa escapada luxuosa acaba virando um caos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7jxX4EQLeGMQb8SA4YgiaUowz8n.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8hbXSjV5JvSjuSnOF2TBOAJEu5m.jpg",
+  "tmdbId": 250162,
+  "nota": 5.95,
+  "xtreamSeriesId": 4372,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10905961",
+          "tipo": "episodio",
+          "titulo": "Decameron S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10905961",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9Qdg8cBcHNaG6JlqhsSgAcqvQdU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905962",
+          "tipo": "episodio",
+          "titulo": "Decameron S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10905962",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9Qdg8cBcHNaG6JlqhsSgAcqvQdU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905963",
+          "tipo": "episodio",
+          "titulo": "Decameron S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10905963",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9Qdg8cBcHNaG6JlqhsSgAcqvQdU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905964",
+          "tipo": "episodio",
+          "titulo": "Decameron S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10905964",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9Qdg8cBcHNaG6JlqhsSgAcqvQdU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905965",
+          "tipo": "episodio",
+          "titulo": "Decameron S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10905965",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9Qdg8cBcHNaG6JlqhsSgAcqvQdU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905966",
+          "tipo": "episodio",
+          "titulo": "Decameron S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10905966",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9Qdg8cBcHNaG6JlqhsSgAcqvQdU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905967",
+          "tipo": "episodio",
+          "titulo": "Decameron S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10905967",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9Qdg8cBcHNaG6JlqhsSgAcqvQdU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905968",
+          "tipo": "episodio",
+          "titulo": "Decameron S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10905968",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9Qdg8cBcHNaG6JlqhsSgAcqvQdU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The Decameron",
+  "dataLancamento": "2024-07-25"
+}

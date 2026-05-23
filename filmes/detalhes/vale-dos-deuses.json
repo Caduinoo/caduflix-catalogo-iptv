@@ -1,0 +1,34 @@
+{
+  "id": "vale-dos-deuses",
+  "tipo": "filme",
+  "titulo": "Vale dos Deuses",
+  "ano": null,
+  "descricao": "John escreve a biografia do homem mais rico do planeta, sujeito que deseja minerar terras sagradas para obter material atômico. Mas, essa ganância encontrará um oponente à altura nas forças despertadas dos ancestrais.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1tWsrjwd8XmjpPEXMlhdTH4ZgdA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dThAjrzpodn7ECrmuVWgRjIdAXO.jpg",
+  "tmdbId": 331044,
+  "nota": 5.266,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790930,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777069,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Valley of the Gods",
+  "dataLancamento": "2020-09-17"
+}

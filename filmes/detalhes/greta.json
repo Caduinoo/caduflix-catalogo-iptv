@@ -1,0 +1,34 @@
+{
+  "id": "greta",
+  "tipo": "filme",
+  "titulo": "Obsessão",
+  "ano": null,
+  "descricao": "Frances (Chloë Grace Moretz) é uma jovem mulher cuja mãe acabou de falecer. Acabando de se mudar para Manhattan e cheia de problemas com o pai, ela forma uma amizade improvável com Greta (Isabelle Huppert), uma viúva bem mais velha que ela. Porém, conforme as duas se tornam melhores amigas, as atenções da viúva se mostram muito mais sinistras do que ela imaginava.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vnqzWNawJqHctllEXw6iEGd42rL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/n67gpLtNFXqpGkM2ZdQoPLjTnI.jpg",
+  "tmdbId": 471506,
+  "nota": 6.555,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786281,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775534,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Greta",
+  "dataLancamento": "2019-02-28"
+}

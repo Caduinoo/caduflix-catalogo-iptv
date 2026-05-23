@@ -1,0 +1,34 @@
+{
+  "id": "papai-bate-um-bolao",
+  "tipo": "filme",
+  "titulo": "Papai Bate um Bolão",
+  "ano": null,
+  "descricao": "Quando Phil Weston aceita ser treinador do time de futebol de seu filho, isso o coloca contra seu pai, o competitivo treinador do outro time.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dxnNBSI3jrvkgH7MeMTWZTli6tH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ryWBhLFJGaebx5G2AM872Q3MX3.jpg",
+  "tmdbId": 9981,
+  "nota": 5.81,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11036344,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11036318,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1776685818,
+  "tituloOriginal": "Kicking & Screaming",
+  "dataLancamento": "2005-05-13"
+}

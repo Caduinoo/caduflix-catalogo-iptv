@@ -1,0 +1,39 @@
+{
+  "id": "cia",
+  "tipo": "serie",
+  "titulo": "CIA",
+  "ano": null,
+  "descricao": "A série segue uma parceria entre um agente do FBI e um agente da CIA que trabalham juntos em uma força-tarefa clandestina para prevenir o terrorismo doméstico em Nova York.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5lyGqz3YiqpKNgS78xiZ4ImpB8w.jpg",
+  "tmdbId": 289560,
+  "nota": 8.3,
+  "xtreamSeriesId": 7581,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11052983",
+          "tipo": "episodio",
+          "titulo": "CIA S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11052983",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+          "duracao": null,
+          "descricao": "A série segue uma parceria entre um agente do FBI e um agente da CIA que trabalham juntos em uma força-tarefa clandestina para prevenir o terrorismo doméstico em Nova York."
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "CIA",
+  "dataLancamento": "2026-02-23"
+}

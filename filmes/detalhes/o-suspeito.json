@@ -1,0 +1,34 @@
+{
+  "id": "o-suspeito",
+  "tipo": "filme",
+  "titulo": "O Suspeito",
+  "ano": null,
+  "descricao": "Isabella está à espera do marido que está retornando aos Estados Unidos após uma conferência, mas, antes de desembarcar, Anwar El-Ibrahimi é retido por autoridades do governo e ninguém o encontra. Corrine Whitman, que investiga a morte de cidadãos americanos em um atentado terrorista, desconfia que ele esteja envolvido com um grupo perigoso no Egito, seu país natal. Anwar é levado para fora dos Estados Unidos, onde passa a ser torturado com o objetivo de revelar as informações que sabe.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jCmXyCwjQAO585gKgHNCbgXiZxb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hVgbeqLYbbrT23pryiR0Oz009CM.jpg",
+  "tmdbId": 5125,
+  "nota": 6.421,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788535,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779940,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Rendition",
+  "dataLancamento": "2007-09-07"
+}

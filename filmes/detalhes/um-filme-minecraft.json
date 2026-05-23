@@ -1,0 +1,42 @@
+{
+  "id": "um-filme-minecraft",
+  "tipo": "filme",
+  "titulo": "Um Filme Minecraft",
+  "ano": null,
+  "descricao": "Quatro desajustados são subitamente puxados por um portal misterioso ao Mundo Superior: um paraíso bizarro e cúbico que vive na base da imaginação. Para voltar para casa, eles embarcam em uma jornada mágica com um artesão experiente e inusitado, Steve. Juntos, sua aventura desafiará todos os cinco a serem ousados e se reconectarem com as qualidades que tornam cada um deles singularmente criativo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/a227F8PnXDABR1JJTuasmJmxEhf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+  "tmdbId": 950387,
+  "nota": 6.262,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790601,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774031,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783057,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "A Minecraft Movie",
+  "dataLancamento": "2025-03-31"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "identidade",
+  "tipo": "filme",
+  "titulo": "Identidade",
+  "ano": null,
+  "descricao": "Uma violenta tempestade faz com que um grupo de pessoas busque abrigo em um motel desolado, gerenciado por um jovem bastante nervoso. De início todos se sentem aliviados por encontrarem um lugar para ficar em meio à tempestade, mas logo entram em pânico ao perceber que, um a um, todos estão sendo assassinados em nome de um misterioso segredo que une a presença de todos naquele lugar.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nnRUp7GRtLY188akcwBAnQzByXd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bjKTwVrzX2cflxRhvAlqvOdloTG.jpg",
+  "tmdbId": 2832,
+  "nota": 7.185,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786503,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775598,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Identity",
+  "dataLancamento": "2003-04-25"
+}

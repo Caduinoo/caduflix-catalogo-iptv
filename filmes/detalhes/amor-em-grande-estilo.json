@@ -1,0 +1,34 @@
+{
+  "id": "amor-em-grande-estilo",
+  "tipo": "filme",
+  "titulo": "Amor Em Grande Estilo",
+  "ano": null,
+  "descricao": "Ella trabalha como costureira freelancer em uma revista de moda de alto perfil, e conhece o belo e charmoso Derek, que está prestes a assumir o negócio de revistas de seu pai.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5gXKzzbIEast05swrejhQu4J5rz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aqzLTnllq30v17hTK7EeJ3FDQNH.jpg",
+  "tmdbId": 994052,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784134,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772250,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Romance in Style",
+  "dataLancamento": "2022-08-13"
+}

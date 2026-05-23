@@ -1,0 +1,99 @@
+{
+  "id": "o-grifo",
+  "tipo": "serie",
+  "titulo": "O Grifo",
+  "ano": null,
+  "descricao": "O Grifo é criatura sombria poderosa de outro mundo e uma ameaça para Mark e tudo o que ele ama. Mark deve aceitar o difícil legado de sua família e lutar para salvar nosso mundo das garras do Grifo.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yzDz44EvpoM83yTqOSURRaXKuab.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nwSDpjQQI4lHe6Y5iz3CLW6r8GW.jpg",
+  "tmdbId": 221871,
+  "nota": 6.737,
+  "xtreamSeriesId": 496,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10802791",
+          "tipo": "episodio",
+          "titulo": "O Grifo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10802791",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yzDz44EvpoM83yTqOSURRaXKuab.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802792",
+          "tipo": "episodio",
+          "titulo": "O Grifo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10802792",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yzDz44EvpoM83yTqOSURRaXKuab.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802793",
+          "tipo": "episodio",
+          "titulo": "O Grifo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10802793",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yzDz44EvpoM83yTqOSURRaXKuab.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802794",
+          "tipo": "episodio",
+          "titulo": "O Grifo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10802794",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yzDz44EvpoM83yTqOSURRaXKuab.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802795",
+          "tipo": "episodio",
+          "titulo": "O Grifo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10802795",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yzDz44EvpoM83yTqOSURRaXKuab.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802796",
+          "tipo": "episodio",
+          "titulo": "O Grifo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10802796",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yzDz44EvpoM83yTqOSURRaXKuab.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Der Greif",
+  "dataLancamento": "2023-05-26"
+}

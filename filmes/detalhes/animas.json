@@ -1,0 +1,34 @@
+{
+  "id": "animas",
+  "tipo": "filme",
+  "titulo": "Ánimas",
+  "ano": null,
+  "descricao": "As estranhas visões de uma adolescente se tornam cada vez mais frequentes e aterradoras quando um amigo arruma uma namorada e o pai agressivo dele tem uma morte suspeita.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2pOIMOAsi2zPAWzf0sy2Zk9BSTp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qsHpl73uTdlMcpwROZrXlniQXjP.jpg",
+  "tmdbId": 484436,
+  "nota": 4.93,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040959,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11041341,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778525530,
+  "tituloOriginal": "Ánimas",
+  "dataLancamento": "2018-10-05"
+}

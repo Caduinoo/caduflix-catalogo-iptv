@@ -1,0 +1,123 @@
+{
+  "id": "tres-vidas",
+  "tipo": "serie",
+  "titulo": "Três Vidas",
+  "ano": null,
+  "descricao": "Ao descobrir que tem duas irmãs gêmeas idênticas, uma detetive embarca em uma perigosa missão em busca da verdade sobre o passado.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jlbIkIkiNCvfGt8b9Vq5xiX2nvK.jpg",
+  "tmdbId": 216811,
+  "nota": 7.593,
+  "xtreamSeriesId": 5389,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10926794",
+          "tipo": "episodio",
+          "titulo": "Três Vidas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10926794",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926795",
+          "tipo": "episodio",
+          "titulo": "Três Vidas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10926795",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926796",
+          "tipo": "episodio",
+          "titulo": "Três Vidas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10926796",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926797",
+          "tipo": "episodio",
+          "titulo": "Três Vidas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10926797",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926798",
+          "tipo": "episodio",
+          "titulo": "Três Vidas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10926798",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926799",
+          "tipo": "episodio",
+          "titulo": "Três Vidas S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10926799",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926800",
+          "tipo": "episodio",
+          "titulo": "Três Vidas S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10926800",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926801",
+          "tipo": "episodio",
+          "titulo": "Três Vidas S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10926801",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sOmbXUwfUY0Ea3rc2ox751roViS.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Tríada",
+  "dataLancamento": "2023-02-22"
+}

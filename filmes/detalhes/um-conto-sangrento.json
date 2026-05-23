@@ -1,0 +1,34 @@
+{
+  "id": "um-conto-sangrento",
+  "tipo": "filme",
+  "titulo": "Um Conto Sangrento",
+  "ano": null,
+  "descricao": "Olivia, uma escritora de romances de vampiros em dificuldades, está passando o Natal sozinha em um chalé em uma área remota. Um dia, um morcego ferido entra pela janela e se transforma em um belo vampiro chamado Luke. Apaixonada pela criatura, Olivia o alimenta com sangue animal e o esconde em sua garagem para protegê-lo de um caçador. Mas qualquer chance de romance logo é frustrada quando uma gangue de vampiros invade sua casa em busca de seu amigo desaparecido.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/od8nP58YAXbqV3NEf6nlOZddF59.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AuGLK3pnhFZ55F3HWWcko9mqUsp.jpg",
+  "tmdbId": 774454,
+  "nota": 5.957,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790566,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781544,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Red Snow",
+  "dataLancamento": "2021-04-14"
+}

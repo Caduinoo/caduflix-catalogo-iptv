@@ -1,0 +1,99 @@
+{
+  "id": "sweetpea",
+  "tipo": "serie",
+  "titulo": "Sweetpea",
+  "ano": null,
+  "descricao": "Sweetpea é a história bombástica de Rhiannon Lewis, uma moça tímida e invisível que é levada ao extremo quando seu pai morre e sua agressora dos tempos de escola volta para a cidade.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+  "tmdbId": 218347,
+  "nota": 7.486,
+  "xtreamSeriesId": 7023,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11015844",
+          "tipo": "episodio",
+          "titulo": "Sweetpea S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11015844",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015845",
+          "tipo": "episodio",
+          "titulo": "Sweetpea S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11015845",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015846",
+          "tipo": "episodio",
+          "titulo": "Sweetpea S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11015846",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015847",
+          "tipo": "episodio",
+          "titulo": "Sweetpea S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11015847",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015848",
+          "tipo": "episodio",
+          "titulo": "Sweetpea S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11015848",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015849",
+          "tipo": "episodio",
+          "titulo": "Sweetpea S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11015849",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Sweetpea",
+  "dataLancamento": "2024-10-10"
+}

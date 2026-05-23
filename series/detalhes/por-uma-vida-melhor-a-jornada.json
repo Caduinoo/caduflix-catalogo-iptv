@@ -1,0 +1,63 @@
+{
+  "id": "por-uma-vida-melhor-a-jornada",
+  "tipo": "serie",
+  "titulo": "Por Uma Vida Melhor: A Jornada",
+  "ano": null,
+  "descricao": "Disfarçada de prostituta na Nigéria, uma jornalista faz de tudo para expor um esquema de tráfico humano e luta pela sobrevivência tentando chegar à Europa.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pERgU9nXbfHt70EokBVaT8pWKC1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aUYu32Iy32kw7qnsdVSjenYAm6i.jpg",
+  "tmdbId": 257206,
+  "nota": 6.2,
+  "xtreamSeriesId": 5106,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920704",
+          "tipo": "episodio",
+          "titulo": "Por Uma Vida Melhor A Jornada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920704",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pERgU9nXbfHt70EokBVaT8pWKC1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920705",
+          "tipo": "episodio",
+          "titulo": "Por Uma Vida Melhor A Jornada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920705",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pERgU9nXbfHt70EokBVaT8pWKC1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920706",
+          "tipo": "episodio",
+          "titulo": "Por Uma Vida Melhor A Jornada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920706",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pERgU9nXbfHt70EokBVaT8pWKC1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Òlòtūré: The Journey",
+  "dataLancamento": "2024-06-28"
+}

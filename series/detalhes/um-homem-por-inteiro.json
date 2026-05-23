@@ -1,0 +1,99 @@
+{
+  "id": "um-homem-por-inteiro",
+  "tipo": "serie",
+  "titulo": "Um Homem por Inteiro",
+  "ano": null,
+  "descricao": "Enfrentando adversários implacáveis e uma falência repentina, um magnata do mercado imobiliário de Atlanta faz de tudo para voltar ao topo quando seu império desmorona.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mrcPspBpQB4xo6w351ZDoZv8y8Y.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kyXWvG24MurOMed9ij2KrcgWOkG.jpg",
+  "tmdbId": 225120,
+  "nota": 6.322,
+  "xtreamSeriesId": 5415,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927122",
+          "tipo": "episodio",
+          "titulo": "Um Homem por Inteiro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927122",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mrcPspBpQB4xo6w351ZDoZv8y8Y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927123",
+          "tipo": "episodio",
+          "titulo": "Um Homem por Inteiro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927123",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mrcPspBpQB4xo6w351ZDoZv8y8Y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927124",
+          "tipo": "episodio",
+          "titulo": "Um Homem por Inteiro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927124",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mrcPspBpQB4xo6w351ZDoZv8y8Y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927125",
+          "tipo": "episodio",
+          "titulo": "Um Homem por Inteiro S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927125",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mrcPspBpQB4xo6w351ZDoZv8y8Y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927126",
+          "tipo": "episodio",
+          "titulo": "Um Homem por Inteiro S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10927126",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mrcPspBpQB4xo6w351ZDoZv8y8Y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927127",
+          "tipo": "episodio",
+          "titulo": "Um Homem por Inteiro S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10927127",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mrcPspBpQB4xo6w351ZDoZv8y8Y.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "A Man in Full",
+  "dataLancamento": "2024-05-02"
+}

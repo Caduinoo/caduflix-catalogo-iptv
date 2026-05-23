@@ -1,0 +1,34 @@
+{
+  "id": "meu-novo-brinquedo",
+  "tipo": "filme",
+  "titulo": "Meu Novo Brinquedo",
+  "ano": null,
+  "descricao": "Sami vive feliz em uma propriedade suburbana, entre seus amigos, vizinhos e sua esposa Alice. Para o aniversário do filho, o homem mais rico da França abre a loja de departamentos que lhe pertence. Alexandre escolhe Sami, o vigia noturno, como seu novo brinquedo...",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9qcmGvWKqdlpUmbRUaeyOyfkwA5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/diO9O2aKKHijX8Xxh8eJqjHd7VU.jpg",
+  "tmdbId": 865498,
+  "nota": 5.949,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787305,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773147,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Le Nouveau Jouet",
+  "dataLancamento": "2022-10-19"
+}

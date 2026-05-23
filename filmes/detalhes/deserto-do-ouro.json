@@ -1,0 +1,34 @@
+{
+  "id": "deserto-do-ouro",
+  "tipo": "filme",
+  "titulo": "Deserto do Ouro",
+  "ano": null,
+  "descricao": "Dois estranhos que estão viajando em um deserto e se surpreendem ao encontrar uma grande pepita de ouro. Eles pensam em uma estratégia para explorar e dividir a recompensa do tesouro encontrado. Enquanto um vai procurar equipamentos para dar continuidade no plano, o outro fica responsável por proteger o local e ambos lidam com diversos desafios nessa aventura.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m33nZp0j2AbNxL6A8IDIb5KVDg9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5Ou7l7iA3Ud2DzCmwU3OgqU8jIx.jpg",
+  "tmdbId": 760926,
+  "nota": 6.194,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785419,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779701,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Gold",
+  "dataLancamento": "2022-01-13"
+}

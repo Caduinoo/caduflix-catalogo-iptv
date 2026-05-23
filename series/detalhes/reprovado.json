@@ -1,0 +1,123 @@
+{
+  "id": "reprovado",
+  "tipo": "serie",
+  "titulo": "Reprovado",
+  "ano": null,
+  "descricao": "Eddy é um vigarista e gênio da matemática que trabalha disfarçado como professor para evitar a cadeia. Agora, ele tem uma missão: encontrar um grande criminoso.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iBdJnzYk4jiOJqPytCBDuWayvCK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/caabnbe4QJ5ZvJipH4cssFkbzwc.jpg",
+  "tmdbId": 287978,
+  "nota": 6.9,
+  "xtreamSeriesId": 7379,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11039073",
+          "tipo": "episodio",
+          "titulo": "Reprovado S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11039073",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iBdJnzYk4jiOJqPytCBDuWayvCK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039074",
+          "tipo": "episodio",
+          "titulo": "Reprovado S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11039074",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iBdJnzYk4jiOJqPytCBDuWayvCK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039075",
+          "tipo": "episodio",
+          "titulo": "Reprovado S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11039075",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iBdJnzYk4jiOJqPytCBDuWayvCK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039076",
+          "tipo": "episodio",
+          "titulo": "Reprovado S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11039076",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iBdJnzYk4jiOJqPytCBDuWayvCK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039077",
+          "tipo": "episodio",
+          "titulo": "Reprovado S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11039077",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iBdJnzYk4jiOJqPytCBDuWayvCK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039078",
+          "tipo": "episodio",
+          "titulo": "Reprovado S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11039078",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iBdJnzYk4jiOJqPytCBDuWayvCK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039079",
+          "tipo": "episodio",
+          "titulo": "Reprovado S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11039079",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iBdJnzYk4jiOJqPytCBDuWayvCK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039080",
+          "tipo": "episodio",
+          "titulo": "Reprovado S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11039080",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iBdJnzYk4jiOJqPytCBDuWayvCK.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Recalé",
+  "dataLancamento": "2026-04-23"
+}

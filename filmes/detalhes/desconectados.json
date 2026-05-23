@@ -1,0 +1,34 @@
+{
+  "id": "desconectados",
+  "tipo": "filme",
+  "titulo": "Os Desconectados",
+  "ano": null,
+  "descricao": "Este drama mostra várias histórias pessoais, tendo em comum os efeitos perversos do uso excessivo de tecnologia, Internet e telefones celulares. A vida de um casal entra em perigo quando sua vida privada é exposta online, um viúvo e antigo policial descobre que seu filho humilha um garoto da escola pela Internet, um advogado obcecado por seu telefone não consegue se comunicar com a própria família, e uma jornalista vê sua vida se transformar quando ela pesquisa a história de um adolescente que faz atuações eróticas pela webcam.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3ANjE8hHrLHDmhRFD6PJXa9aECt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/e47cvCgbZogOyKXSenT9aqCDhe8.jpg",
+  "tmdbId": 127517,
+  "nota": 7.068,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785404,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772577,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Disconnect",
+  "dataLancamento": "2013-04-12"
+}

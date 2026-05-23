@@ -1,0 +1,34 @@
+{
+  "id": "capitao-fantastico",
+  "tipo": "filme",
+  "titulo": "Capitão Fantástico",
+  "ano": null,
+  "descricao": "Ben é o pai de seis crianças pequenas, que decide fugir da civilização e criar os filhos nas florestas selvagens do Pacífico Norte. Ele passa os seus dias dando lições às crianças, ensinando-os a praticar esportes e a combater inimigos. Um dia, no entanto, Ben é forçado a deixar o local e retornar à vida na cidade. Começa o aprendizado do pai, que deve se acostumar à vida moderna.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/t4UH0AJql4paQMq4Dlg1gk2tqhk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d84M69u6Q202dm6EvhVxbiqrK9f.jpg",
+  "tmdbId": 334533,
+  "nota": 7.889,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784806,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772422,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Captain Fantastic",
+  "dataLancamento": "2016-07-08"
+}

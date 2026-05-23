@@ -1,0 +1,34 @@
+{
+  "id": "space-jam-um-novo-legado",
+  "tipo": "filme",
+  "titulo": "Space Jam: Um Novo Legado",
+  "ano": null,
+  "descricao": "O superastro do basquete LeBron James se junta à gangue Looney Tunes para derrotar o Goon Squad e salvar seu filho.",
+  "generos": [
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/itN4fscYy1hIQy5lSdv44SddsoG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8s4h9friP6Ci3adRGahHARVd76E.jpg",
+  "tmdbId": 379686,
+  "nota": 6.641,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771802,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782971,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Space Jam: A New Legacy",
+  "dataLancamento": "2021-07-08"
+}

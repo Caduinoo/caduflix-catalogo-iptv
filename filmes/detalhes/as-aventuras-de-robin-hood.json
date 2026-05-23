@@ -1,0 +1,34 @@
+{
+  "id": "as-aventuras-de-robin-hood",
+  "tipo": "filme",
+  "titulo": "As Aventuras de Robin Hood",
+  "ano": null,
+  "descricao": "No século XII, quando o rei da Inglaterra Ricardo Coração-de-Leão é sequestrado na Áustria ao retornar das Cruzadas, o príncipe John tenta usurpar o trono, favorecendo os normandos invasores em detrimento dos saxões. Contra esta situação, o nobre Robin Hood organiza nas florestas de Sherwood um bando de salteadores e rebeldes. Enquanto ataca os normandos e rouba dos ricos para dar aos pobres, Robin se apaixona por Marian, protegida do rei Ricardo, que o príncipe quer casar com o arrogante Sir Guy.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gLA1BStjXNkoSPPPtwobE9xdY73.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
+  "tmdbId": 10907,
+  "nota": 7.48,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784301,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772291,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "The Adventures of Robin Hood",
+  "dataLancamento": "1938-05-13"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "champion",
+  "tipo": "serie",
+  "titulo": "Champion",
+  "ano": null,
+  "descricao": "A rivalidade entre irmãos nunca pareceu tão épica. O eletrizante drama sobre família e fama de Candice Carty-Williams, com trilha sonora original dos maiores nomes da música negra britânica.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bwkr5TtDp82XsBvGwo5wntzj8dw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3mI5WeLmj2AAEw7Op3LOkej70oX.jpg",
+  "tmdbId": 229854,
+  "nota": 6.8,
+  "xtreamSeriesId": 4262,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904552",
+          "tipo": "episodio",
+          "titulo": "Champion S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904552",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bwkr5TtDp82XsBvGwo5wntzj8dw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904553",
+          "tipo": "episodio",
+          "titulo": "Champion S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904553",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bwkr5TtDp82XsBvGwo5wntzj8dw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904554",
+          "tipo": "episodio",
+          "titulo": "Champion S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904554",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bwkr5TtDp82XsBvGwo5wntzj8dw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904555",
+          "tipo": "episodio",
+          "titulo": "Champion S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904555",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bwkr5TtDp82XsBvGwo5wntzj8dw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904556",
+          "tipo": "episodio",
+          "titulo": "Champion S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10904556",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bwkr5TtDp82XsBvGwo5wntzj8dw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904557",
+          "tipo": "episodio",
+          "titulo": "Champion S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10904557",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bwkr5TtDp82XsBvGwo5wntzj8dw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904558",
+          "tipo": "episodio",
+          "titulo": "Champion S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10904558",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bwkr5TtDp82XsBvGwo5wntzj8dw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904559",
+          "tipo": "episodio",
+          "titulo": "Champion S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10904559",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bwkr5TtDp82XsBvGwo5wntzj8dw.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Champion",
+  "dataLancamento": "2023-07-01"
+}

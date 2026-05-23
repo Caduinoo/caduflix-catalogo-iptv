@@ -1,0 +1,34 @@
+{
+  "id": "feliz-ano-nosso",
+  "tipo": "filme",
+  "titulo": "Feliz Ano Nosso",
+  "ano": null,
+  "descricao": "A caminho de uma festa de Ano-Novo, dois estranhos ficam presos em um elevador e acabam criando uma conexão inesperada.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qw4R9WRAmf4QkzU4XjkyBbZtGZh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zSjUvBjJ5u5PdPkVDa0UEye9Zd9.jpg",
+  "tmdbId": 1057648,
+  "nota": 4.62,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785977,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772785,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Happy Nous Year",
+  "dataLancamento": "2022-12-28"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "amor-moderno-toquio",
+  "tipo": "serie",
+  "titulo": "Amor Moderno Tóquio",
+  "ano": null,
+  "descricao": "A série original da Amazon, \"Amor Moderno\", baseada em uma coluna de mesmo nome do New York Times, tem sido distribuída desde 2019. Agora ela volta repaginada e se passa em Tóquio como \"Amor Moderno Tóquio\". É uma antologia que conta com uma equipe de importantes diretores e atores, mostrando várias formas de \"amor\", como o amor quase esquecido, o de mães e filhos e o que ultrapassa as fronteiras.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w62ni22NtGUcsSUHxdUssN3Bo4x.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/64CM7fzFOhEJtTBqJLA45QYSyqb.jpg",
+  "tmdbId": 208596,
+  "nota": 6.8,
+  "xtreamSeriesId": 78,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10793420",
+          "tipo": "episodio",
+          "titulo": "Amor Moderno Tóquio S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10793420",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w62ni22NtGUcsSUHxdUssN3Bo4x.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793421",
+          "tipo": "episodio",
+          "titulo": "Amor Moderno Tóquio S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10793421",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w62ni22NtGUcsSUHxdUssN3Bo4x.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793422",
+          "tipo": "episodio",
+          "titulo": "Amor Moderno Tóquio S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10793422",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w62ni22NtGUcsSUHxdUssN3Bo4x.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793423",
+          "tipo": "episodio",
+          "titulo": "Amor Moderno Tóquio S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10793423",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w62ni22NtGUcsSUHxdUssN3Bo4x.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793424",
+          "tipo": "episodio",
+          "titulo": "Amor Moderno Tóquio S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10793424",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w62ni22NtGUcsSUHxdUssN3Bo4x.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793425",
+          "tipo": "episodio",
+          "titulo": "Amor Moderno Tóquio S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10793425",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w62ni22NtGUcsSUHxdUssN3Bo4x.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793426",
+          "tipo": "episodio",
+          "titulo": "Amor Moderno Tóquio S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10793426",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w62ni22NtGUcsSUHxdUssN3Bo4x.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "モダンラブ・東京～さまざまな愛の形～",
+  "dataLancamento": "2022-10-21"
+}

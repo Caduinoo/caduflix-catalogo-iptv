@@ -1,0 +1,51 @@
+{
+  "id": "gold-land",
+  "tipo": "serie",
+  "titulo": "Terra do Ouro",
+  "ano": null,
+  "descricao": "Heeju acidentalmente se depara com uma fortuna em barras de ouro de contrabandistas. Em meio a um caos de ganância e traição, ela é consumida pelo desejo de ficar com tudo e trava uma batalha desesperada para ficar com o tesouro só para si.",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/stWNLnCpp6IrzApfvEvn2IDSuCp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kuLhcTkriaiXYYdKGS9yt0AX4F4.jpg",
+  "tmdbId": 278113,
+  "nota": 8.3,
+  "xtreamSeriesId": 7414,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11039834",
+          "tipo": "episodio",
+          "titulo": "Gold Land (2026) [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11039834",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/stWNLnCpp6IrzApfvEvn2IDSuCp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039835",
+          "tipo": "episodio",
+          "titulo": "Gold Land (2026) [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11039835",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/stWNLnCpp6IrzApfvEvn2IDSuCp.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "골드랜드",
+  "dataLancamento": "2026-04-29"
+}

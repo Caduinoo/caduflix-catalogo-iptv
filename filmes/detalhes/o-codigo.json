@@ -1,0 +1,34 @@
+{
+  "id": "o-codigo",
+  "tipo": "filme",
+  "titulo": "O Código Tarantino",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jmNUeJI9k1I7hpaTNP7EzQn92aw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9wL5sdVg35MpRQsgmPjRUAtGJuZ.jpg",
+  "tmdbId": 183766,
+  "nota": 7.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11035621,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770235,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1776246173,
+  "tituloOriginal": "O Código Tarantino",
+  "dataLancamento": "2006-01-04"
+}

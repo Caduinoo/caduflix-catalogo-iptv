@@ -1,0 +1,34 @@
+{
+  "id": "o-maquinista",
+  "tipo": "filme",
+  "titulo": "O Maquinista",
+  "ano": null,
+  "descricao": "Leo é um maquinista de metrô que testemunha a morte de seu próprio filho. Ele começa uma investigação para desvendar as circunstâncias deste trágico acidente e acaba descobrindo que o seu filho estava envolvido em um grande assalto.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4LCurXEiyONpk4X5EwCysOgcxT0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/78csWH58gawkVPCCImyfI4PYXuI.jpg",
+  "tmdbId": 925459,
+  "nota": 6.037,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788249,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776175,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Entre la vie et la mort",
+  "dataLancamento": "2022-06-29"
+}

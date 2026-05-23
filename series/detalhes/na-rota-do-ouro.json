@@ -1,0 +1,99 @@
+{
+  "id": "na-rota-do-ouro",
+  "tipo": "serie",
+  "titulo": "Na Rota do Ouro",
+  "ano": null,
+  "descricao": "Em uma Itália do século 19 dominada por bandidos, Filomena abandona uma vida confortável e sem graça para liderar uma caça ao tesouro cheia de perigos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AeFsl182FQw3dFcqxnWdpSfsI9P.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pRwfVHGtM1dh1IGzMbGJv3qirVN.jpg",
+  "tmdbId": 235779,
+  "nota": 6.7,
+  "xtreamSeriesId": 4840,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915201",
+          "tipo": "episodio",
+          "titulo": "Na Rota do Ouro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915201",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AeFsl182FQw3dFcqxnWdpSfsI9P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915202",
+          "tipo": "episodio",
+          "titulo": "Na Rota do Ouro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915202",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AeFsl182FQw3dFcqxnWdpSfsI9P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915203",
+          "tipo": "episodio",
+          "titulo": "Na Rota do Ouro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915203",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AeFsl182FQw3dFcqxnWdpSfsI9P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915204",
+          "tipo": "episodio",
+          "titulo": "Na Rota do Ouro S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10915204",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AeFsl182FQw3dFcqxnWdpSfsI9P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915205",
+          "tipo": "episodio",
+          "titulo": "Na Rota do Ouro S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10915205",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AeFsl182FQw3dFcqxnWdpSfsI9P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915206",
+          "tipo": "episodio",
+          "titulo": "Na Rota do Ouro S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10915206",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AeFsl182FQw3dFcqxnWdpSfsI9P.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Briganti",
+  "dataLancamento": "2024-04-23"
+}

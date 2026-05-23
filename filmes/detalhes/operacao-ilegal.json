@@ -1,0 +1,34 @@
+{
+  "id": "operacao-ilegal",
+  "tipo": "filme",
+  "titulo": "Operação Ilegal",
+  "ano": null,
+  "descricao": "Madri, Espanha. Durante um procedimento de despejo, Dani, um policial, faz uma descoberta chocante.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/njq4gvZefe4eiKSUMO2oewbJSXL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/avteWnUr5XfFYVT2dMS8ZmPtuYR.jpg",
+  "tmdbId": 1090868,
+  "nota": 5.326,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788708,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776381,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Asedio",
+  "dataLancamento": "2023-05-05"
+}

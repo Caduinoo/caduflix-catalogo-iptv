@@ -1,0 +1,34 @@
+{
+  "id": "frank-e-penelope",
+  "tipo": "filme",
+  "titulo": "Frank & Penelope",
+  "ano": null,
+  "descricao": "Um conto de amor e violência, um homem com seus conflitos emocionais, encontra sua salvadora e alma gêmea, Penelope, dançando sedutoramente em um clube de strip em ruínas.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5NpXoAi3nEQkEgLO09nmotPfyNa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eyiSLRh44SKKWIJ6bxWq8z1sscB.jpg",
+  "tmdbId": 899294,
+  "nota": 7.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786082,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779746,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Frank and Penelope",
+  "dataLancamento": "2022-06-03"
+}

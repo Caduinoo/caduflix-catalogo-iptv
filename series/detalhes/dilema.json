@@ -1,0 +1,147 @@
+{
+  "id": "dilema",
+  "tipo": "serie",
+  "titulo": "Dilema",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/u1bu08YpYdvR8C3WLFz4TjsE0Dt.jpg",
+  "tmdbId": 258640,
+  "nota": null,
+  "xtreamSeriesId": 4403,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906289",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906289",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906290",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906290",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906291",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906291",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906292",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906292",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906293",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10906293",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906294",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10906294",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906295",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10906295",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906296",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10906296",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906297",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10906297",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906298",
+          "tipo": "episodio",
+          "titulo": "Dilema S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10906298",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rlH5cg2BbBXEBCdDwxzPRN6A0Wa.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "Dilema",
+  "dataLancamento": "2024-07-07"
+}

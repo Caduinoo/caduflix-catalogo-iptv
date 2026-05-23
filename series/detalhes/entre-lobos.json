@@ -1,0 +1,63 @@
+{
+  "id": "entre-lobos",
+  "tipo": "serie",
+  "titulo": "Entre Lobos",
+  "ano": null,
+  "descricao": "A segurança pública do Brasil está em frangalhos. O prejuízo é imenso, contabilizado em milhões de dólares e milhares de vidas perdidas para sempre” Documentário Brasil Paralelo 2022.",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kXnLyY8ggBsfPyvoSb54fCpvZbm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mY8w5geIRKkYDqGlcGrAcgr8oQp.jpg",
+  "tmdbId": 204966,
+  "nota": null,
+  "xtreamSeriesId": 1037,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817209",
+          "tipo": "episodio",
+          "titulo": "Entre Lobos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817209",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kXnLyY8ggBsfPyvoSb54fCpvZbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817210",
+          "tipo": "episodio",
+          "titulo": "Entre Lobos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817210",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kXnLyY8ggBsfPyvoSb54fCpvZbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817211",
+          "tipo": "episodio",
+          "titulo": "Entre Lobos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817211",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kXnLyY8ggBsfPyvoSb54fCpvZbm.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Entre Lobos",
+  "dataLancamento": "2022-06-20"
+}

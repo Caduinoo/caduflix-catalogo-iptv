@@ -1,0 +1,34 @@
+{
+  "id": "acampamento-de-teatro",
+  "tipo": "filme",
+  "titulo": "Acampamento de Teatro",
+  "ano": null,
+  "descricao": "Rebecca-Diane e Amos Klobuchar são melhores amigos de longa data e instrutores de teatro em um acampamento decadente no norte do estado de Nova York. Quando um empresário sem noção chega para administrar (mal) a propriedade, os amigos e o gerente de produção se unem com a equipe e aos alunos para encenar uma obra-prima e manter o acampamento de verão funcionando.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/j0vEroDi8SepB3lXQGrrWQVRTSm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7AMacCnRnyMc6PCYhajaySqO8pL.jpg",
+  "tmdbId": 986054,
+  "nota": 6.502,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783928,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772186,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Theater Camp",
+  "dataLancamento": "2023-07-13"
+}

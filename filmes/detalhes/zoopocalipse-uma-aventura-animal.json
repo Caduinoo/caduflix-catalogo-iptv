@@ -1,0 +1,34 @@
+{
+  "id": "zoopocalipse-uma-aventura-animal",
+  "tipo": "filme",
+  "titulo": "Zoopocalipse - Uma Aventura Animal",
+  "ano": null,
+  "descricao": "Quando um meteoro cai no zoológico, ele transforma alguns dos animais em zumbis coloridos. Para salvar seus amigos, a jovem loba Gracie se une ao ranzinza leão-da-montanha Dan. Juntos, eles contam com a ajuda de um grupo para lá de especial: Xavier, o lêmure fã de cinema, Frida, a capivara confiante, Ash, o avestruz cheio de estilo, e Felix, um macaquinho atrapalhado. Agora, essa turma improvável precisa encontrar um jeito de salvar o zoológico e os outros animais.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3LebEv3p6sOA9HyLGlEISYagoPF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ArgBQPDD7sbhOdzfYPeIvEQMgDP.jpg",
+  "tmdbId": 1205229,
+  "nota": 6.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791210,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11020311,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773592029,
+  "tituloOriginal": "Night of the Zoopocalypse",
+  "dataLancamento": "2025-01-23"
+}

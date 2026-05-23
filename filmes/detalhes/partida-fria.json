@@ -1,0 +1,34 @@
+{
+  "id": "partida-fria",
+  "tipo": "filme",
+  "titulo": "Partida Fria",
+  "ano": null,
+  "descricao": "Durante a crise dos mísseis de Cuba em 1962, um gênio da matemática é enviado para jogar xadrez com soviéticos em um jogo mortal de espionagem.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zfJNpzgmgfxXfr5QEfh6zNdEMAM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3UHkAGbm8H8hbgIUuxyMHOHHLuY.jpg",
+  "tmdbId": 585759,
+  "nota": 6.179,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788935,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776466,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Ukryta gra",
+  "dataLancamento": "2019-11-08"
+}

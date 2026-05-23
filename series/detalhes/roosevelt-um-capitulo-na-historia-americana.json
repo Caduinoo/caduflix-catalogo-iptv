@@ -1,0 +1,63 @@
+{
+  "id": "roosevelt-um-capitulo-na-historia-americana",
+  "tipo": "serie",
+  "titulo": "Roosevelt: Um Capítulo na História Americana",
+  "ano": null,
+  "descricao": "Roosevelt: Um Capítulo na História Americana detalha os anos de formação de Franklin Roosevelt, seu casamento com Eleanor Roosevelt, o início de sua carreira política, a luta contra a pólio – que o paralisou da cintura para baixo ,  e como ele utilizou sua batalha contra a inabilidade física para se conectar e ajudar a população a enfrentar a profundidade da Depressão. Sua história de resiliência e visão inclui ainda sua parceria com o primeiro-ministro do Reino Unido Winston Churchill, que o ajudou em sua habilidade durante a Segunda Guerra.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kO3dSj4pdzwNYLsIDnTIVjc4tvl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xfZHD5oU6sIUNfPOukoTLUmaaWv.jpg",
+  "tmdbId": 227274,
+  "nota": 6.8,
+  "xtreamSeriesId": 1582,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10832491",
+          "tipo": "episodio",
+          "titulo": "Roosevelt Um Capitulo na Historia Americana S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10832491",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kO3dSj4pdzwNYLsIDnTIVjc4tvl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832492",
+          "tipo": "episodio",
+          "titulo": "Roosevelt Um Capitulo na Historia Americana S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10832492",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kO3dSj4pdzwNYLsIDnTIVjc4tvl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832493",
+          "tipo": "episodio",
+          "titulo": "Roosevelt Um Capitulo na Historia Americana S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10832493",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kO3dSj4pdzwNYLsIDnTIVjc4tvl.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "FDR",
+  "dataLancamento": "2023-05-29"
+}

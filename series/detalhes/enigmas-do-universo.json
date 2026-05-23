@@ -1,0 +1,99 @@
+{
+  "id": "enigmas-do-universo",
+  "tipo": "serie",
+  "titulo": "Enigmas do Universo",
+  "ano": null,
+  "descricao": "Esta impressionante série documental conta a incrível história do universo ao longo de bilhões de anos e sua relação direta com a vida na Terra.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/a2nqf5uvfEDdGmO0Z6J57w1duGm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
+  "tmdbId": 213608,
+  "nota": 7.891,
+  "xtreamSeriesId": 4463,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907284",
+          "tipo": "episodio",
+          "titulo": "Enigmas do Universo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907284",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/a2nqf5uvfEDdGmO0Z6J57w1duGm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907285",
+          "tipo": "episodio",
+          "titulo": "Enigmas do Universo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907285",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/a2nqf5uvfEDdGmO0Z6J57w1duGm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907286",
+          "tipo": "episodio",
+          "titulo": "Enigmas do Universo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907286",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/a2nqf5uvfEDdGmO0Z6J57w1duGm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907287",
+          "tipo": "episodio",
+          "titulo": "Enigmas do Universo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907287",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/a2nqf5uvfEDdGmO0Z6J57w1duGm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907288",
+          "tipo": "episodio",
+          "titulo": "Enigmas do Universo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907288",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/a2nqf5uvfEDdGmO0Z6J57w1duGm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907289",
+          "tipo": "episodio",
+          "titulo": "Enigmas do Universo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907289",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/a2nqf5uvfEDdGmO0Z6J57w1duGm.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Our Universe",
+  "dataLancamento": "2022-11-22"
+}

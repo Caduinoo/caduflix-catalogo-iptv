@@ -1,0 +1,99 @@
+{
+  "id": "aguas-do-norte",
+  "tipo": "serie",
+  "titulo": "Águas do Norte",
+  "ano": null,
+  "descricao": "Patrick Sumner é um ex-cirurgião das Forças Armadas. Esperando fugir dos traumas seu passado, ele vai a uma expedição no Ártico. Porém, descobre novos horrores que não imaginava.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8IC1q0lHFwi5m8VtChLzIfmpaZH.jpg",
+  "tmdbId": 86941,
+  "nota": 7.361,
+  "xtreamSeriesId": 1020,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10816955",
+          "tipo": "episodio",
+          "titulo": "Águas do Norte S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10816955",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816956",
+          "tipo": "episodio",
+          "titulo": "Águas do Norte S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10816956",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816957",
+          "tipo": "episodio",
+          "titulo": "Águas do Norte S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10816957",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816958",
+          "tipo": "episodio",
+          "titulo": "Águas do Norte S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10816958",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816959",
+          "tipo": "episodio",
+          "titulo": "Águas do Norte S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10816959",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816960",
+          "tipo": "episodio",
+          "titulo": "Águas do Norte S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10816960",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The North Water",
+  "dataLancamento": "2021-07-14"
+}

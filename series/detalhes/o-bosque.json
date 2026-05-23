@@ -1,0 +1,99 @@
+{
+  "id": "o-bosque",
+  "tipo": "serie",
+  "titulo": "O Bosque",
+  "ano": null,
+  "descricao": "Uma garota desaparece na floresta próxima a um vilarejo na França. Durante a busca, a polícia e uma professora descobrem uma teia de segredos inquietantes.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zkBJMXgZiQyHNa5qxwCvurWTKao.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8cV3WrozXarNPavckTcqUBE1ter.jpg",
+  "tmdbId": 71967,
+  "nota": 6.873,
+  "xtreamSeriesId": 4906,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915925",
+          "tipo": "episodio",
+          "titulo": "O Bosque S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915925",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zkBJMXgZiQyHNa5qxwCvurWTKao.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915926",
+          "tipo": "episodio",
+          "titulo": "O Bosque S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915926",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zkBJMXgZiQyHNa5qxwCvurWTKao.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915927",
+          "tipo": "episodio",
+          "titulo": "O Bosque S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915927",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zkBJMXgZiQyHNa5qxwCvurWTKao.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915928",
+          "tipo": "episodio",
+          "titulo": "O Bosque S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10915928",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zkBJMXgZiQyHNa5qxwCvurWTKao.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915929",
+          "tipo": "episodio",
+          "titulo": "O Bosque S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10915929",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zkBJMXgZiQyHNa5qxwCvurWTKao.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915930",
+          "tipo": "episodio",
+          "titulo": "O Bosque S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10915930",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zkBJMXgZiQyHNa5qxwCvurWTKao.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "La Forêt",
+  "dataLancamento": "2017-05-30"
+}

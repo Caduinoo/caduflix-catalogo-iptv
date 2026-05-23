@@ -1,0 +1,63 @@
+{
+  "id": "nova-york-contra-a-mafia",
+  "tipo": "serie",
+  "titulo": "Nova York Contra a Máfia",
+  "ano": null,
+  "descricao": "Cinco famílias mafiosas controlavam Nova York com mão de ferro nos anos 1970 e 80. Até que um grupo de agentes federais tentou o que parecia impossível: acabar com elas.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5vDGvg369Ti63TnYzjfsaryieSm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2fLr6ndbfh5IYF0LLnRlFhb1PYV.jpg",
+  "tmdbId": 105489,
+  "nota": 6.754,
+  "xtreamSeriesId": 4881,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915683",
+          "tipo": "episodio",
+          "titulo": "Nova York Contra a Máfia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915683",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5vDGvg369Ti63TnYzjfsaryieSm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915684",
+          "tipo": "episodio",
+          "titulo": "Nova York Contra a Máfia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915684",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5vDGvg369Ti63TnYzjfsaryieSm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915685",
+          "tipo": "episodio",
+          "titulo": "Nova York Contra a Máfia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915685",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5vDGvg369Ti63TnYzjfsaryieSm.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Fear City: New York vs The Mafia",
+  "dataLancamento": "2020-07-22"
+}

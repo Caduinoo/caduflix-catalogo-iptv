@@ -1,0 +1,34 @@
+{
+  "id": "fazendo-meu-filme",
+  "tipo": "filme",
+  "titulo": "Fazendo Meu Filme",
+  "ano": null,
+  "descricao": "Tudo muda na vida de Estefânia (ou melhor, Fani!) quando ela é aprovada em 1º lugar para um intercâmbio internacional. Agora ela precisa decidir se fica no Brasil e continua com sua rotina ou se aventura em outro país e fica longe do seu crush Léo.",
+  "generos": [
+    "LEGENDADOS",
+    "NACIONAIS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/x57IrM7mxk8iAmvDYWUqhZCkEFm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sxAnefbue6hNYZejvLEjViDWgiP.jpg",
+  "tmdbId": 943397,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785959,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778308,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Fazendo Meu Filme",
+  "dataLancamento": "2024-02-14"
+}

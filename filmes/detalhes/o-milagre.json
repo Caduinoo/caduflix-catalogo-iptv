@@ -1,0 +1,34 @@
+{
+  "id": "o-milagre",
+  "tipo": "filme",
+  "titulo": "O Milagre",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sdSadKB4xfEnGfTUWZLeh0durue.jpg",
+  "banner": null,
+  "tmdbId": 727490,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788281,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779914,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "O Milagre",
+  "dataLancamento": "1978-01-01"
+}

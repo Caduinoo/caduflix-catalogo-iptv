@@ -1,0 +1,99 @@
+{
+  "id": "aventura-em-matilha",
+  "tipo": "serie",
+  "titulo": "Aventura em Matilha",
+  "ano": null,
+  "descricao": "Equipes de humanos e cães embarcam em um desafio selvagem de dez dias, testando os limites de suas habilidades de sobrevivência e a força de seu vínculo. A equipe que demonstrar mais trabalho em equipe, coragem e engenhosidade é declarada vencedora.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AvWkgDVag36ihiIOweW8kGhcaMd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/w0BC8eEXLvb25U3vZ1IKc3j708z.jpg",
+  "tmdbId": 153665,
+  "nota": 6.3,
+  "xtreamSeriesId": 1700,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10835583",
+          "tipo": "episodio",
+          "titulo": "Aventura em Matilha S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10835583",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AvWkgDVag36ihiIOweW8kGhcaMd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835584",
+          "tipo": "episodio",
+          "titulo": "Aventura em Matilha S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10835584",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AvWkgDVag36ihiIOweW8kGhcaMd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835585",
+          "tipo": "episodio",
+          "titulo": "Aventura em Matilha S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10835585",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AvWkgDVag36ihiIOweW8kGhcaMd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835586",
+          "tipo": "episodio",
+          "titulo": "Aventura em Matilha S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10835586",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AvWkgDVag36ihiIOweW8kGhcaMd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835587",
+          "tipo": "episodio",
+          "titulo": "Aventura em Matilha S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10835587",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AvWkgDVag36ihiIOweW8kGhcaMd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835588",
+          "tipo": "episodio",
+          "titulo": "Aventura em Matilha S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10835588",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AvWkgDVag36ihiIOweW8kGhcaMd.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Called to the Wild",
+  "dataLancamento": "2021-12-07"
+}

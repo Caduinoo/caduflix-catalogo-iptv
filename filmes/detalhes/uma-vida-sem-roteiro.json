@@ -1,0 +1,32 @@
+{
+  "id": "uma-vida-sem-roteiro",
+  "tipo": "filme",
+  "titulo": "Uma Vida Sem Roteiro",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hq66KxEPZD15ycbKowB8YBp6e4A.jpg",
+  "banner": null,
+  "tmdbId": null,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790869,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779474,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070
+}

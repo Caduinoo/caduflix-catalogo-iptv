@@ -1,0 +1,63 @@
+{
+  "id": "lewis-e-tolkien",
+  "tipo": "serie",
+  "titulo": "Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien",
+  "ano": null,
+  "descricao": "Em meio à aparente paz que reina no mundo de hoje, há uma guerra silenciosa acontecendo. Uma guerra sem violência, sangue ou explosões, que busca corromper a sociedade apenas com palavras e imagens.\n\nPropagandas, filmes, séries, livros e músicas são os instrumentos que certos filósofos escolheram para essa guerra cultural que já dura mais de 100 anos — e está muito longe de acabar.\n\nPorém, Chesterton, o bem-humorado apóstolo do senso comum, C. S. Lewis, o criador das Crônicas de Nárnia e J.R. R. Tolkien, o fundador da Terra Média nunca se omitiram para defender uma sociedade saudável, baseada nas virtudes e na dignidade humana.",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bPsyyI6Ia5aJhs5p8KMDYpIiupz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3AhTFErlXu1BMVAXhNO5coUWs4z.jpg",
+  "tmdbId": 211792,
+  "nota": 5.5,
+  "xtreamSeriesId": 1043,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817239",
+          "tipo": "episodio",
+          "titulo": "Lewis e Tolkien S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bPsyyI6Ia5aJhs5p8KMDYpIiupz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817240",
+          "tipo": "episodio",
+          "titulo": "Lewis e Tolkien S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817240",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bPsyyI6Ia5aJhs5p8KMDYpIiupz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817241",
+          "tipo": "episodio",
+          "titulo": "Lewis e Tolkien S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817241",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bPsyyI6Ia5aJhs5p8KMDYpIiupz.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien",
+  "dataLancamento": "2022-08-25"
+}

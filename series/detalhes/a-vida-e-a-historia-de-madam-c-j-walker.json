@@ -1,0 +1,75 @@
+{
+  "id": "a-vida-e-a-historia-de-madam-c-j-walker",
+  "tipo": "serie",
+  "titulo": "A Vida e a História de Madam C.J. Walker",
+  "ano": null,
+  "descricao": "Uma afro-americana que venceu a pobreza, construiu um império de produtos de beleza e se tornou a primeira milionária pelo próprio esforço. Baseado em uma história real.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5CvqTjqEfOXoxlX8b6f0jUjWuEC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8Wm4H0SmCSa0EEohkoIslDz9Uw9.jpg",
+  "tmdbId": 97539,
+  "nota": 7.4,
+  "xtreamSeriesId": 2851,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10863904",
+          "tipo": "episodio",
+          "titulo": "A Vida e a História de Madam C.J. Walker S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10863904",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5CvqTjqEfOXoxlX8b6f0jUjWuEC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863905",
+          "tipo": "episodio",
+          "titulo": "A Vida e a História de Madam C.J. Walker S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10863905",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5CvqTjqEfOXoxlX8b6f0jUjWuEC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863906",
+          "tipo": "episodio",
+          "titulo": "A Vida e a História de Madam C.J. Walker S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10863906",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5CvqTjqEfOXoxlX8b6f0jUjWuEC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863907",
+          "tipo": "episodio",
+          "titulo": "A Vida e a História de Madam C.J. Walker S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10863907",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5CvqTjqEfOXoxlX8b6f0jUjWuEC.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Self Made: Inspired by the Life of Madam C.J. Walker",
+  "dataLancamento": "2020-03-20"
+}

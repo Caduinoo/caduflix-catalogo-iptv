@@ -1,0 +1,34 @@
+{
+  "id": "um-romance-perfeito",
+  "tipo": "filme",
+  "titulo": "Um Romance Perfeito",
+  "ano": null,
+  "descricao": "Riley é uma diretora artística que procura uma maneira de impedir que o teatro em que trabalha seja vendido.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8sFlJzuVXsva7z154JN9eLWBUfH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mruN4hH2Oat2upw8UzDbzUQqacd.jpg",
+  "tmdbId": 910816,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790711,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779456,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "A Show-Stopping Christmas",
+  "dataLancamento": "2022-11-20"
+}

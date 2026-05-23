@@ -1,0 +1,34 @@
+{
+  "id": "o-beco-da-morte",
+  "tipo": "filme",
+  "titulo": "O Beco da Morte",
+  "ano": null,
+  "descricao": "Em 1892, o Dalton Gang decidiu se tornar o bandido mais famoso da América. Esse sonho se tornaria um pesadelo.",
+  "generos": [
+    "LEGENDADOS",
+    "FAROESTE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nFDtZ9B8sGJtoUWi6CquziyA5Qg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/G56AzECyTDp63sE7CbJ6AEBKhF.jpg",
+  "tmdbId": 851925,
+  "nota": 5.208,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787884,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777580,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Death Alley",
+  "dataLancamento": "2021-03-11"
+}

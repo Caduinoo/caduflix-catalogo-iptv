@@ -1,0 +1,34 @@
+{
+  "id": "efeito-espacial",
+  "tipo": "filme",
+  "titulo": "Efeito Espacial",
+  "ano": null,
+  "descricao": "As vidas mudam para os membros de uma família irlandesa após a queda de um meteoro em seu quintal. As crianças acreditam que ele foi enviado a elas por seus pais mortos, mas o governo leva a pedra embora e a envia para a universidade local.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yiKOfMwKlPsF3e3uYvr8RxlK8Fc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cebCix6DDKn30u2zv0r39bjuq6h.jpg",
+  "tmdbId": 60312,
+  "nota": 4.875,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785644,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775307,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Pete's Meteor",
+  "dataLancamento": "2002-12-31"
+}

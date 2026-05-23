@@ -1,0 +1,34 @@
+{
+  "id": "querido-evan-hansen",
+  "tipo": "filme",
+  "titulo": "Querido Evan Hansen",
+  "ano": null,
+  "descricao": "Querido Evan Hansen é uma história que gira ao redor de Evan Hansen, jovem ansioso e com dificuldades de se conectar com os outros, que acaba envolvido numa mentira sobre um colega de classe que cometeu suicídio, se aproximando da família do falecido.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/k9qmy5f60QNx8x2RVt4ChdZ5aY7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/anl65DJYFyp2m0lXaFvlCrSOT8E.jpg",
+  "tmdbId": 567690,
+  "nota": 6.256,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789310,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776595,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Dear Evan Hansen",
+  "dataLancamento": "2021-09-24"
+}

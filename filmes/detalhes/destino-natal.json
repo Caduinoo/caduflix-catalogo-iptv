@@ -1,0 +1,34 @@
+{
+  "id": "destino-natal",
+  "tipo": "filme",
+  "titulo": "Destino: Natal",
+  "ano": null,
+  "descricao": "Emma quer passar bem longe das comemorações natalinas, mas sem querer ela pega um voo errado com destino a uma cidade chamada Saint John, conhecida por adorar comemorar o Natal.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xF3IGXQHlnMUH4aoZYghtqRb8xd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oxibVIaCOHlF47NBmrPBLwmzi2K.jpg",
+  "tmdbId": 1003487,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785433,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781714,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Single and Ready to Jingle",
+  "dataLancamento": "2022-11-27"
+}

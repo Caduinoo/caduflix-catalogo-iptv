@@ -1,0 +1,42 @@
+{
+  "id": "o-contador-2",
+  "tipo": "filme",
+  "titulo": "O Contador 2",
+  "ano": null,
+  "descricao": "Quando um conhecido é assassinado, deixando para trás uma mensagem enigmática, Christian Wolff se sente compelido a resolver o caso. Percebendo que medidas extremas são necessárias, Wolff recruta seu irmão distante e altamente letal, Brax, e os dois descobrem uma conspiração mortal, tornando-se alvos de uma rede de assassinos.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qVpB7Y2tX9pbMzQW016qSWQ7OD5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+  "tmdbId": 870028,
+  "nota": 7.069,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787958,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774362,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782689,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Accountant²",
+  "dataLancamento": "2025-04-23"
+}

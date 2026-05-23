@@ -1,0 +1,99 @@
+{
+  "id": "cidade-de-sombras",
+  "tipo": "serie",
+  "titulo": "Cidade de Sombras",
+  "ano": null,
+  "descricao": "Quando Barcelona desperta com um corpo em chamas pendurado em um dos edifícios mais famosos de Gaudí, um detetive desacreditado volta à ativa para pegar o assassino.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/662flFfrMwW41D8vKLvcTlAoH06.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jKyYbESbbsDuEF0G2a9Kg5zuttG.jpg",
+  "tmdbId": 277752,
+  "nota": 6.621,
+  "xtreamSeriesId": 4271,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904633",
+          "tipo": "episodio",
+          "titulo": "Cidade de Sombras S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904633",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/662flFfrMwW41D8vKLvcTlAoH06.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904634",
+          "tipo": "episodio",
+          "titulo": "Cidade de Sombras S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904634",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/662flFfrMwW41D8vKLvcTlAoH06.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904635",
+          "tipo": "episodio",
+          "titulo": "Cidade de Sombras S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904635",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/662flFfrMwW41D8vKLvcTlAoH06.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904636",
+          "tipo": "episodio",
+          "titulo": "Cidade de Sombras S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904636",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/662flFfrMwW41D8vKLvcTlAoH06.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904637",
+          "tipo": "episodio",
+          "titulo": "Cidade de Sombras S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10904637",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/662flFfrMwW41D8vKLvcTlAoH06.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904638",
+          "tipo": "episodio",
+          "titulo": "Cidade de Sombras S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10904638",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/662flFfrMwW41D8vKLvcTlAoH06.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Ciudad de sombras",
+  "dataLancamento": "2025-12-12"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "amina",
+  "tipo": "filme",
+  "titulo": "Amina",
+  "ano": null,
+  "descricao": "No século XVI, em Zazzau, atual Zaria, na Nigéria, Amina usa suas habilidades e táticas militares para defender o reino da família. Baseado em uma história real.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4EJSMQOM1bZPHvzqAQe87suBxdf.jpg",
+  "tmdbId": 885110,
+  "nota": 6.438,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784097,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774826,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Amina",
+  "dataLancamento": "2021-11-04"
+}

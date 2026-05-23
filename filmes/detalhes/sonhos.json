@@ -1,0 +1,34 @@
+{
+  "id": "sonhos",
+  "tipo": "filme",
+  "titulo": "Nos Seus Sonhos",
+  "ano": null,
+  "descricao": "Um casal de irmãos viaja pela paisagem absurda dos próprios sonhos para pedir ao Sandman que realize seu desejo de uma família perfeita.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zHPgL2f9nZaYUkOXZNsV1Nq9Tt1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
+  "tmdbId": 1117857,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789855,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049637,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "In Your Dreams",
+  "dataLancamento": "2025-11-07"
+}

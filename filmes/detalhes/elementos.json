@@ -1,0 +1,42 @@
+{
+  "id": "elementos",
+  "tipo": "filme",
+  "titulo": "Elementos",
+  "ano": null,
+  "descricao": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tsfaRkZfUl5Ve9GMV8oY0UuLH52.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+  "tmdbId": 976573,
+  "nota": 7.577,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785677,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771285,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782316,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Elemental",
+  "dataLancamento": "2023-06-14"
+}

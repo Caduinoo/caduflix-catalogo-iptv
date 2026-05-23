@@ -1,0 +1,34 @@
+{
+  "id": "natal-em-springdale",
+  "tipo": "filme",
+  "titulo": "Natal em Springdale",
+  "ano": null,
+  "descricao": "A turnê promocional de um livro leva a autora para a cidade natal do homem que a inspirou a escrevê-lo, mas que também feriu seus sentimentos.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5B4sXI6lKjCAvr200EOSr6HDBDI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/As0eyHzF4dGhSBsVHAX8nLZxzCe.jpg",
+  "tmdbId": 555277,
+  "nota": 6.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787629,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778709,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Small Town Christmas",
+  "dataLancamento": "2018-12-22"
+}

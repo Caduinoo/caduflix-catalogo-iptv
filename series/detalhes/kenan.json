@@ -1,0 +1,147 @@
+{
+  "id": "kenan",
+  "tipo": "serie",
+  "titulo": "Kenan e Kel",
+  "ano": null,
+  "descricao": "Acompanhe as aventuras de amigos adolescentes sonhadores que estão sempre tramando coisas. Kenan trabalha numa mercearia e tenta ficar rico. Kel, que adora refrigerante de laranja, sempre acompanha o amigo e acaba estragando tudo.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aAHC2D9XaLcFtJ5cWPf1BYARuJn.jpg",
+  "tmdbId": 1835,
+  "nota": 8.1,
+  "xtreamSeriesId": 884,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10814045",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10814045",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814046",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10814046",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814047",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10814047",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814048",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10814048",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814049",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10814049",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814050",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10814050",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814051",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10814051",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814052",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10814052",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814053",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10814053",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814054",
+          "tipo": "episodio",
+          "titulo": "Kenan S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10814054",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6aQRh17CO64vLMYpGw7nXO2l7MA.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "Kenan & Kel",
+  "dataLancamento": "1996-08-17"
+}

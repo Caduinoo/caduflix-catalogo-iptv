@@ -1,0 +1,34 @@
+{
+  "id": "saida-a-francesa",
+  "tipo": "filme",
+  "titulo": "Saída à Francesa",
+  "ano": null,
+  "descricao": "Frances (Michelle Pfeiffer) é uma socialite viúva sem dinheiro de Manhattan cujo marido morreu há quase duas décadas. Com sua herança, ela ganha o último de seus bens e resolve viver...",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jSqnvS5kz0BmJOT4VWaCV20KeDY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4mDvrSNZuEc4OrbJdXnEJO8LLmO.jpg",
+  "tmdbId": 599960,
+  "nota": 5.649,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789604,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773778,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "French Exit",
+  "dataLancamento": "2021-02-12"
+}

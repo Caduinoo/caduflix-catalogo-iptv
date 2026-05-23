@@ -1,0 +1,123 @@
+{
+  "id": "the-kids-in-the-hall",
+  "tipo": "serie",
+  "titulo": "The Kids in the Hall",
+  "ano": null,
+  "descricao": "Uma nova temporada empolgante traz um novo lote de personagens divertidos e favoritos já amados, com esquetes que dão um soco satírico, misturados com a comédia ousada e destemida da qual os Kids são sinônimos.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cy5WLoE5QvyWAqOpaAytq70Xyvp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/17F9HPRAMQp91oKqa1PnTHcnLtz.jpg",
+  "tmdbId": 199918,
+  "nota": 6.5,
+  "xtreamSeriesId": 688,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10808454",
+          "tipo": "episodio",
+          "titulo": "The Kids in the Hall S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10808454",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808455",
+          "tipo": "episodio",
+          "titulo": "The Kids in the Hall S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10808455",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808456",
+          "tipo": "episodio",
+          "titulo": "The Kids in the Hall S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10808456",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808457",
+          "tipo": "episodio",
+          "titulo": "The Kids in the Hall S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10808457",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808458",
+          "tipo": "episodio",
+          "titulo": "The Kids in the Hall S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10808458",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808459",
+          "tipo": "episodio",
+          "titulo": "The Kids in the Hall S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10808459",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808460",
+          "tipo": "episodio",
+          "titulo": "The Kids in the Hall S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10808460",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808461",
+          "tipo": "episodio",
+          "titulo": "The Kids in the Hall S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10808461",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The Kids in the Hall",
+  "dataLancamento": "2022-05-12"
+}

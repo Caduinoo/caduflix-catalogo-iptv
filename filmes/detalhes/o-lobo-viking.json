@@ -1,0 +1,34 @@
+{
+  "id": "o-lobo-viking",
+  "tipo": "filme",
+  "titulo": "O Lobo Viking",
+  "ano": null,
+  "descricao": "Uma adolescente que acabou de se mudar para uma cidadezinha testemunha um assassinato brutal. Depois disso, ela começa a ter visões e desejos bizarros.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gWfa1uahpIXlNkv7AMEvQt4VMde.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d0YSRmp819pMRnKLfGMgAQchpnR.jpg",
+  "tmdbId": 788752,
+  "nota": 5.808,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788234,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781134,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Vikingulven",
+  "dataLancamento": "2022-11-18"
+}

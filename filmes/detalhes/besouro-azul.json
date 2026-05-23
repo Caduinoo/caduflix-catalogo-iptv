@@ -1,0 +1,42 @@
+{
+  "id": "besouro-azul",
+  "tipo": "filme",
+  "titulo": "Besouro Azul",
+  "ano": null,
+  "descricao": "Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kedGlsobpMXsKKHXhogp7gPSqG7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3H9NA1KWEQN0ItL3Wl3SFZYP6yV.jpg",
+  "tmdbId": 565770,
+  "nota": 6.638,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784600,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777707,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782136,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Blue Beetle",
+  "dataLancamento": "2023-08-16"
+}

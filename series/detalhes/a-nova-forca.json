@@ -1,0 +1,99 @@
+{
+  "id": "a-nova-forca",
+  "tipo": "serie",
+  "titulo": "A Nova Força",
+  "ano": null,
+  "descricao": "Na Suécia dos anos 1950, um distrito policial enfrenta a falta de pessoal com uma experiência ousada: receber sua primeira equipe feminina. Inspirada em fatos reais.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jWUcTfpLo1nVBqBrbzZYP1hTMqf.jpg",
+  "tmdbId": 271128,
+  "nota": 5.932,
+  "xtreamSeriesId": 3998,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10899899",
+          "tipo": "episodio",
+          "titulo": "A Nova Forca S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10899899",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899900",
+          "tipo": "episodio",
+          "titulo": "A Nova Forca S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10899900",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899901",
+          "tipo": "episodio",
+          "titulo": "A Nova Forca S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10899901",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899902",
+          "tipo": "episodio",
+          "titulo": "A Nova Forca S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10899902",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899903",
+          "tipo": "episodio",
+          "titulo": "A Nova Forca S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10899903",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899904",
+          "tipo": "episodio",
+          "titulo": "A Nova Forca S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10899904",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mdkwgNB9NnDzt0l7gD3NkhCHo8b.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Skiftet",
+  "dataLancamento": "2025-10-03"
+}

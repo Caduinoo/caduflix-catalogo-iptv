@@ -1,0 +1,99 @@
+{
+  "id": "imperio-da-dor",
+  "tipo": "serie",
+  "titulo": "Império da Dor",
+  "ano": null,
+  "descricao": "Este drama sobre as causas e consequências da epidemia de opioides nos Estados Unidos, acompanha culpados, vítimas e uma investigadora em busca da verdade.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eYw5XHXS4rPgZOSGGjRM5wJ8U8t.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gXs6po9ARYYDhYhj3eD34afd5kW.jpg",
+  "tmdbId": 158083,
+  "nota": 7.204,
+  "xtreamSeriesId": 4632,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911065",
+          "tipo": "episodio",
+          "titulo": "Império da Dor S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911065",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eYw5XHXS4rPgZOSGGjRM5wJ8U8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911066",
+          "tipo": "episodio",
+          "titulo": "Império da Dor S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911066",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eYw5XHXS4rPgZOSGGjRM5wJ8U8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911067",
+          "tipo": "episodio",
+          "titulo": "Império da Dor S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911067",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eYw5XHXS4rPgZOSGGjRM5wJ8U8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911068",
+          "tipo": "episodio",
+          "titulo": "Império da Dor S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10911068",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eYw5XHXS4rPgZOSGGjRM5wJ8U8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911069",
+          "tipo": "episodio",
+          "titulo": "Império da Dor S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10911069",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eYw5XHXS4rPgZOSGGjRM5wJ8U8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911070",
+          "tipo": "episodio",
+          "titulo": "Império da Dor S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10911070",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eYw5XHXS4rPgZOSGGjRM5wJ8U8t.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Painkiller",
+  "dataLancamento": "2023-08-10"
+}

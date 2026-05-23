@@ -1,0 +1,34 @@
+{
+  "id": "nas-areias-de-ibiza",
+  "tipo": "filme",
+  "titulo": "Nas Areias de Ibiza",
+  "ano": null,
+  "descricao": "Três jovens decidem passar o verão de 2020 em Ibiza, onde cada um buscará uma maneira de superar o passado, se redescobrir e tentar seguir adiante.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2eNommA60rHFMk7WW6TkJJZECfB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/53tBBYgAQRdHxA8V3XQ05utXrdK.jpg",
+  "tmdbId": 1076156,
+  "nota": 4.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787601,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779241,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "La corriente",
+  "dataLancamento": "2023-06-16"
+}

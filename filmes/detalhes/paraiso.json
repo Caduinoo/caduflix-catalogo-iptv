@@ -1,0 +1,42 @@
+{
+  "id": "paraiso",
+  "tipo": "filme",
+  "titulo": "Sem Tetas Não Há Paraíso",
+  "ano": null,
+  "descricao": "A adaptação cinematográfica da popular telenovela sobre uma jovem obcecada por implantes mamários.",
+  "generos": [
+    "LEGENDADOS",
+    "4K",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cwBwJTjuiiysOiXmkmGx4YAGT37.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mEXcEYJf71nN7H6bGRrYuBFz8hb.jpg",
+  "tmdbId": 107748,
+  "nota": 7.321,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788926,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782827,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049653,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Sin tetas no hay paraíso",
+  "dataLancamento": "2010-07-23"
+}

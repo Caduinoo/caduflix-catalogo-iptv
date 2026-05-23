@@ -1,0 +1,34 @@
+{
+  "id": "experiencia-alpha",
+  "tipo": "filme",
+  "titulo": "Experiência Alpha",
+  "ano": null,
+  "descricao": "A rotina de uma família comum é ameaçada com a compra de um robô chamado Alpha, um tipo de assistente pessoal que executa as tarefas da casa. Ao ser considerada apenas como um eletrodoméstico, a criatura desenvolve vontades e intenções extremamente perigosas e letais, que colocam a vida de todos em risco.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/h80c7Bs2XfmeO2zHrH5lCWNd6d8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6Hw9TxmY0PV93VB2CCQFFqqRFI4.jpg",
+  "tmdbId": 679548,
+  "nota": 5.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785900,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777768,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "The Alpha Test",
+  "dataLancamento": "2021-02-04"
+}

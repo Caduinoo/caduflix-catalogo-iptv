@@ -1,0 +1,34 @@
+{
+  "id": "algo-azul",
+  "tipo": "filme",
+  "titulo": "Algo Azul",
+  "ano": null,
+  "descricao": "O sonho de se casar de Ana logo se tornará realidade, mas, antes, ela terá que fugir da polícia com um vestido de casamento de uma estrela internacional, enquanto tem o seu coração abalado pelo ex.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zRUsslzgohSMwjJFBMZasUC0jlb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qzAtY95KvgiF3a2rIs5fJh2JOG8.jpg",
+  "tmdbId": 838104,
+  "nota": 3.333,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784014,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772212,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Algo Azul",
+  "dataLancamento": "2021-06-05"
+}

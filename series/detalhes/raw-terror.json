@@ -1,0 +1,99 @@
+{
+  "id": "raw-terror",
+  "tipo": "serie",
+  "titulo": "Marcas do Terror",
+  "ano": null,
+  "descricao": "Conheça histórias de pessoas devastadas pelo assassinato de um ente querido. O impacto deixado naqueles que ficaram para trás por meio de depoimentos íntimos e pessoais.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/luAMx7V27gbIGFlWRB7c0kp5hEW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qQs0u8veG5mr750bbvFzfm3JNa8.jpg",
+  "tmdbId": 101885,
+  "nota": 8.3,
+  "xtreamSeriesId": 3803,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10895348",
+          "tipo": "episodio",
+          "titulo": "Raw Terror S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10895348",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/luAMx7V27gbIGFlWRB7c0kp5hEW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895349",
+          "tipo": "episodio",
+          "titulo": "Raw Terror S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10895349",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/luAMx7V27gbIGFlWRB7c0kp5hEW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895350",
+          "tipo": "episodio",
+          "titulo": "Raw Terror S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10895350",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/luAMx7V27gbIGFlWRB7c0kp5hEW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895351",
+          "tipo": "episodio",
+          "titulo": "Raw Terror S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10895351",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/luAMx7V27gbIGFlWRB7c0kp5hEW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895352",
+          "tipo": "episodio",
+          "titulo": "Raw Terror S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10895352",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/luAMx7V27gbIGFlWRB7c0kp5hEW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895353",
+          "tipo": "episodio",
+          "titulo": "Raw Terror S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10895353",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/luAMx7V27gbIGFlWRB7c0kp5hEW.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Raw Terror",
+  "dataLancamento": "2020-04-12"
+}

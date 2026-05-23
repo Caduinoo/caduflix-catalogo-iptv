@@ -12,5 +12,273 @@
     "nota": null,
     "tmdbId": null,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/20-dias-em-mauripol.json"
+  },
+  {
+    "id": "a-substancia",
+    "tipo": "filme",
+    "titulo": "A Substância",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
+    "generos": [
+      "OSCAR"
+    ],
+    "nota": 7.134,
+    "tmdbId": 933260,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-substancia.json"
+  },
+  {
+    "id": "a-ultima-loja-de-consertos",
+    "tipo": "filme",
+    "titulo": "A Última Loja de Consertos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uzNuDQvgCEUEDTeH2x65ixHNIRk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kYi7zjmPeetxYPXYbErxwUSK757.jpg",
+    "generos": [
+      "OSCAR"
+    ],
+    "nota": 7.443,
+    "tmdbId": 1171861,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ultima-loja-de-consertos.json"
+  },
+  {
+    "id": "a-unica-mulher-na-orquestra",
+    "tipo": "filme",
+    "titulo": "A Única Mulher na Orquestra",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/swEozMPfk1sbIiSsw1JjIsY79E6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n9xkjl1feNcfdtANFFVvaJ5yDqO.jpg",
+    "generos": [
+      "OSCAR"
+    ],
+    "nota": 6.623,
+    "tmdbId": 1195310,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-unica-mulher-na-orquestra.json"
+  },
+  {
+    "id": "a-verdadeira-dor",
+    "tipo": "filme",
+    "titulo": "A Verdadeira Dor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/57trFzPPZsmroyBNNg7QZsD21JL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fViElUGfdoZjtnVxvSpJX8TwxY6.jpg",
+    "generos": [
+      "OSCAR"
+    ],
+    "nota": 6.783,
+    "tmdbId": 1013850,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-verdadeira-dor.json"
+  },
+  {
+    "id": "ainda-estou-aqui",
+    "tipo": "filme",
+    "titulo": "Ainda Estou Aqui",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zNAw7jK8bwCK56rIW676pdgkwhd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j9uruwRe9qM8RnP758dF7ISB8Bj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "OSCAR"
+    ],
+    "nota": 7.901,
+    "tmdbId": 1000837,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ainda-estou-aqui.json"
+  },
+  {
+    "id": "anatomia-de-uma-queda",
+    "tipo": "filme",
+    "titulo": "Anatomia de uma Queda",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lDVl2jf6VB8ODl1olZ6FLvOV1gX.jpg",
+    "generos": [
+      "SUSPENSE | TERROR | THRILLER",
+      "OSCAR"
+    ],
+    "nota": 7.52,
+    "tmdbId": 915935,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/anatomia-de-uma-queda.json"
+  },
+  {
+    "id": "anora",
+    "tipo": "filme",
+    "titulo": "Anora",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xmFdNzbUiT5XmH6rbIVGYDQHGeo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
+    "generos": [
+      "OSCAR"
+    ],
+    "nota": 7.069,
+    "tmdbId": 1064213,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/anora.json"
+  },
+  {
+    "id": "conclave",
+    "tipo": "filme",
+    "titulo": "Conclave",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xS5SK7EVPCmsFAOT48rCsJesmkP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eZzNdjNDvaSoyywy9ICg2UmFwul.jpg",
+    "generos": [
+      "DRAMA",
+      "OSCAR"
+    ],
+    "nota": 7.192,
+    "tmdbId": 974576,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/conclave.json"
+  },
+  {
+    "id": "duna-parte-dois",
+    "tipo": "filme",
+    "titulo": "Duna: Parte Dois",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8LJJjLjAzAwXS40S5mx79PJ2jSs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "OSCAR"
+    ],
+    "nota": 8.128,
+    "tmdbId": 693134,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/duna-parte-dois.json"
+  },
+  {
+    "id": "emilia-perez",
+    "tipo": "filme",
+    "titulo": "Emilia Pérez",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8ZOvbX3gCZZatUfaIZFFSAdiboW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/u2eA9pqi1q3DvevT7RuDuJHxxBT.jpg",
+    "generos": [
+      "OSCAR",
+      "DRAMA",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.451,
+    "tmdbId": 974950,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/emilia-perez.json"
+  },
+  {
+    "id": "flow",
+    "tipo": "filme",
+    "titulo": "Flow",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o16J2ezv2rITe0ubuQOBen1L2Hk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "OSCAR"
+    ],
+    "nota": 8.088,
+    "tmdbId": 823219,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flow.json"
+  },
+  {
+    "id": "in-the-shadow-of-the-cypress",
+    "tipo": "filme",
+    "titulo": "In the Shadow of the Cypress",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6bGtVeI61ZLT7s1C278r7l1O4Lq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/p6p1e6giWEi1X8r6eG1rBjN3HP5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "OSCAR"
+    ],
+    "nota": 6.578,
+    "tmdbId": 1156619,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/in-the-shadow-of-the-cypress.json"
+  },
+  {
+    "id": "o-brutalista",
+    "tipo": "filme",
+    "titulo": "O Brutalista",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/52iVP3AtNtpjFiBxlOYCUPXhr47.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+    "generos": [
+      "OSCAR",
+      "4K"
+    ],
+    "nota": 6.955,
+    "tmdbId": 549509,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-brutalista.json"
+  },
+  {
+    "id": "os-rejeitados",
+    "tipo": "filme",
+    "titulo": "Os Rejeitados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/A99WMiz0ASpH9coOFrxSEuwTWx0.jpg",
+    "generos": [
+      "COMÉDIA",
+      "4K",
+      "OSCAR"
+    ],
+    "nota": 7.644,
+    "tmdbId": 840430,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/os-rejeitados.json"
+  },
+  {
+    "id": "pobres-criaturas",
+    "tipo": "filme",
+    "titulo": "Pobres Criaturas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iOdcXYSVzBgmBJzNIlIMOZ6fz0F.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "OSCAR",
+      "4K"
+    ],
+    "nota": 7.6,
+    "tmdbId": 792307,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/pobres-criaturas.json"
+  },
+  {
+    "id": "sem-chao",
+    "tipo": "filme",
+    "titulo": "Sem Chão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sIV6UO2M7QQtDiYNw88yKG3S36z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bBleQSVXH97a0G2oF9MDAYCOlLG.jpg",
+    "generos": [
+      "OSCAR"
+    ],
+    "nota": 7.949,
+    "tmdbId": 1232493,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-chao.json"
+  },
+  {
+    "id": "wicked",
+    "tipo": "filme",
+    "titulo": "Wicked",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uVlUu174iiKhsUGqnOSy46eIIMU.jpg",
+    "generos": [
+      "AVENTURA | FICÇÃO | FANTASIA",
+      "OSCAR"
+    ],
+    "nota": 6.912,
+    "tmdbId": 402431,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/wicked.json"
+  },
+  {
+    "id": "zona-de-interesse",
+    "tipo": "filme",
+    "titulo": "Zona de Interesse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iQoyDhBjHwo1HTR0DuTzR8o1CqI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pnTSOKcYnvdpQNQElAtJM1rWOxH.jpg",
+    "generos": [
+      "AÇÃO | CRIME | GUERRA",
+      "4K",
+      "OSCAR"
+    ],
+    "nota": 7,
+    "tmdbId": 467244,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zona-de-interesse.json"
   }
 ]

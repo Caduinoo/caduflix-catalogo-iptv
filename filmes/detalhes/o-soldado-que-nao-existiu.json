@@ -1,0 +1,34 @@
+{
+  "id": "o-soldado-que-nao-existiu",
+  "tipo": "filme",
+  "titulo": "O Soldado que Não Existiu",
+  "ano": null,
+  "descricao": "Dois agentes britânicos criam uma estratégia bizarra para enganar os nazistas e alterar o curso da Segunda Guerra Mundial.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hJXW2GUJhNzpuftOp5yx1E6puEw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oZtoyj3rhOST8FUtIXUqblIYmCv.jpg",
+  "tmdbId": 661231,
+  "nota": 6.514,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788520,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778047,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Operation Mincemeat",
+  "dataLancamento": "2022-04-01"
+}

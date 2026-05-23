@@ -1,0 +1,34 @@
+{
+  "id": "teresa-de-avila",
+  "tipo": "filme",
+  "titulo": "Teresa de Ávila",
+  "ano": null,
+  "descricao": "Teresa de Ávila recebe a visita de um inquisidor que acredita que os ensinamentos da freira não estão alinhados com a doutrina católica. Para provar sua inocência, ela apenas poderá contar com suas palavras.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nyiJAvicwuYcPEt3vnwX98u2GFs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tYuh8KI85sjoaFTZAqwbI73kqTo.jpg",
+  "tmdbId": 710157,
+  "nota": 7.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790056,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049639,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Teresa",
+  "dataLancamento": "2023-11-24"
+}

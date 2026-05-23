@@ -1,0 +1,48 @@
+{
+  "id": "segredos-sordidos-dean-corll-e-john-wayne-gacy",
+  "tipo": "serie",
+  "titulo": "Segredos Sordidos Dean Corll e John Wayne Gacy",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 1599,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10832979",
+          "tipo": "episodio",
+          "titulo": "Segredos Sordidos Dean Corll e John Wayne Gacy S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10832979",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cwaMHkbIb82f2bQDZeNl2IxCfdw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832980",
+          "tipo": "episodio",
+          "titulo": "Segredos Sordidos Dean Corll e John Wayne Gacy S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10832980",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cwaMHkbIb82f2bQDZeNl2IxCfdw.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2
+}

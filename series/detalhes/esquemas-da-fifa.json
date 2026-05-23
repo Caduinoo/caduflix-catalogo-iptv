@@ -1,0 +1,75 @@
+{
+  "id": "esquemas-da-fifa",
+  "tipo": "serie",
+  "titulo": "Esquemas da FIFA",
+  "ano": null,
+  "descricao": "Das disputas de poder à política internacional: esta minissérie documental revela a controversa história da FIFA e o que é preciso para sediar uma Copa do Mundo.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ajJl0eZfZCxeWiPoudfu4PgCAO4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/no1PSE0IZXsHaDSqX4l3U1tdRyX.jpg",
+  "tmdbId": 213193,
+  "nota": 7.1,
+  "xtreamSeriesId": 4475,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907372",
+          "tipo": "episodio",
+          "titulo": "Esquemas da FIFA S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907372",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ajJl0eZfZCxeWiPoudfu4PgCAO4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907373",
+          "tipo": "episodio",
+          "titulo": "Esquemas da FIFA S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907373",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ajJl0eZfZCxeWiPoudfu4PgCAO4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907374",
+          "tipo": "episodio",
+          "titulo": "Esquemas da FIFA S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907374",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ajJl0eZfZCxeWiPoudfu4PgCAO4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907375",
+          "tipo": "episodio",
+          "titulo": "Esquemas da FIFA S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907375",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ajJl0eZfZCxeWiPoudfu4PgCAO4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "FIFA Uncovered",
+  "dataLancamento": "2022-11-09"
+}

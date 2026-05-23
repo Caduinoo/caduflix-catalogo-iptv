@@ -1,0 +1,34 @@
+{
+  "id": "projeto-florida",
+  "tipo": "filme",
+  "titulo": "Projeto Flórida",
+  "ano": null,
+  "descricao": "Durante as férias de verão, um grupo de crianças, liderado por uma menina de apenas seis anos, mas muito precoce, vive diversas aventuras em um mundo que se abre cheio de possibilidades e maravilhas.. Enquanto isso, os seus pais e os adultos ao seu redor passam por uma jornada completamente distinta, em tempos difíceis.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3NoSjGM6OCcN5tUCo3RjZ1Y47pZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lO5c0zG8s1dBPHcRparpNlNGWU9.jpg",
+  "tmdbId": 394117,
+  "nota": 7.432,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791847,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791801,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "The Florida Project",
+  "dataLancamento": "2017-10-06"
+}

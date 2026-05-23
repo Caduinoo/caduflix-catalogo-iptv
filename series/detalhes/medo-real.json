@@ -1,0 +1,87 @@
+{
+  "id": "medo-real",
+  "tipo": "serie",
+  "titulo": "Medo Real",
+  "ano": null,
+  "descricao": "Com reconstituições imersivas e entrevistas recentes, esta série assustadora mostra encontros paranormais do ponto de vista de quem os viveu.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/esUXYldupoSUrQ6GcL1brCJX13b.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oS4ZzG1c4xZtZRrJipNqXs1b17Z.jpg",
+  "tmdbId": 300999,
+  "nota": 6.19,
+  "xtreamSeriesId": 4796,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10914747",
+          "tipo": "episodio",
+          "titulo": "Medo Real S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10914747",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/esUXYldupoSUrQ6GcL1brCJX13b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914748",
+          "tipo": "episodio",
+          "titulo": "Medo Real S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10914748",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/esUXYldupoSUrQ6GcL1brCJX13b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914749",
+          "tipo": "episodio",
+          "titulo": "Medo Real S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10914749",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/esUXYldupoSUrQ6GcL1brCJX13b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914750",
+          "tipo": "episodio",
+          "titulo": "Medo Real S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10914750",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/esUXYldupoSUrQ6GcL1brCJX13b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914751",
+          "tipo": "episodio",
+          "titulo": "Medo Real S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10914751",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/esUXYldupoSUrQ6GcL1brCJX13b.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "True Haunting",
+  "dataLancamento": "2025-10-07"
+}

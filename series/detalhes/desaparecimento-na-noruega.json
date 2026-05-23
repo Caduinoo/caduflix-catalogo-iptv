@@ -1,0 +1,87 @@
+{
+  "id": "desaparecimento-na-noruega",
+  "tipo": "serie",
+  "titulo": "Desaparecimento na Noruega",
+  "ano": null,
+  "descricao": "Em busca da verdade sobre o desaparecimento da esposa de um bilionário, a polícia norueguesa enfrenta a imprensa e muitas informações falsas. Baseada em fatos reais.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7cSXOYpQZOjLMRlKa1VvsrLUjkS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/srK2IcGEskUuHtMkPgVZJR1OVXy.jpg",
+  "tmdbId": 236787,
+  "nota": 5.688,
+  "xtreamSeriesId": 4387,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906128",
+          "tipo": "episodio",
+          "titulo": "Desaparecimento na Noruega S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906128",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7cSXOYpQZOjLMRlKa1VvsrLUjkS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906129",
+          "tipo": "episodio",
+          "titulo": "Desaparecimento na Noruega S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906129",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7cSXOYpQZOjLMRlKa1VvsrLUjkS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906130",
+          "tipo": "episodio",
+          "titulo": "Desaparecimento na Noruega S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906130",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7cSXOYpQZOjLMRlKa1VvsrLUjkS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906131",
+          "tipo": "episodio",
+          "titulo": "Desaparecimento na Noruega S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906131",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7cSXOYpQZOjLMRlKa1VvsrLUjkS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906132",
+          "tipo": "episodio",
+          "titulo": "Desaparecimento na Noruega S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10906132",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7cSXOYpQZOjLMRlKa1VvsrLUjkS.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Forsvinningen - Lørenskog 31. oktober 2018",
+  "dataLancamento": "2022-09-14"
+}

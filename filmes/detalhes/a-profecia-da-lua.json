@@ -1,0 +1,34 @@
+{
+  "id": "a-profecia-da-lua",
+  "tipo": "filme",
+  "titulo": "A Profecia da Lua",
+  "ano": null,
+  "descricao": "Denis é um mestiço em um mundo habitado por emers, humanos e outras espécies. Quando uma guerra entre povos começa, ele deverá buscar a escolhida que irá unir todos.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yimYUuMnZakjHPq80IkVPaBeM1p.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8uQl72tYwALUYe1RCMEl8hM5D8R.jpg",
+  "tmdbId": 634088,
+  "nota": 2.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783745,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777195,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Самая большая луна",
+  "dataLancamento": "2024-07-04"
+}

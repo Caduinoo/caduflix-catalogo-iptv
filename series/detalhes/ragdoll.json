@@ -1,0 +1,99 @@
+{
+  "id": "ragdoll",
+  "tipo": "serie",
+  "titulo": "Ragdoll",
+  "ano": null,
+  "descricao": "Com 6 episódios para seu primeiro ano, o drama vai acompanhar um grupo de detetives que perseguem um serial killer batizado de Assassino Ragdoll. Na trama, 6 pessoas foram assassinadas e tiverem seus membros cortados em diversas partes para formar um grotesco boneco apelidado de Ragdoll.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4SuKe17gSnxResXsbOwL77SpNT5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mjCvaw35z42yYVtKUA75NKWHUYr.jpg",
+  "tmdbId": 135156,
+  "nota": 5.978,
+  "xtreamSeriesId": 951,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10815423",
+          "tipo": "episodio",
+          "titulo": "Ragdoll S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10815423",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4SuKe17gSnxResXsbOwL77SpNT5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815424",
+          "tipo": "episodio",
+          "titulo": "Ragdoll S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10815424",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4SuKe17gSnxResXsbOwL77SpNT5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815425",
+          "tipo": "episodio",
+          "titulo": "Ragdoll S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10815425",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4SuKe17gSnxResXsbOwL77SpNT5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815426",
+          "tipo": "episodio",
+          "titulo": "Ragdoll S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10815426",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4SuKe17gSnxResXsbOwL77SpNT5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815427",
+          "tipo": "episodio",
+          "titulo": "Ragdoll S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10815427",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4SuKe17gSnxResXsbOwL77SpNT5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815428",
+          "tipo": "episodio",
+          "titulo": "Ragdoll S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10815428",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4SuKe17gSnxResXsbOwL77SpNT5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Ragdoll",
+  "dataLancamento": "2021-11-11"
+}

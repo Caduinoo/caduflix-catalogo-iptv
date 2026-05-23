@@ -1,0 +1,34 @@
+{
+  "id": "pressao-maxima",
+  "tipo": "filme",
+  "titulo": "Pressão Máxima",
+  "ano": null,
+  "descricao": "Um cientista de renome assalta um banco e faz reféns, dando início a um tenso impasse policial. À medida que a negociação se desenrola, verdades chocantes sobre o seu passado vêm à tona, revelando os seus verdadeiros motivos.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gPFXYJ2kgqLiGQttKnQXTxhAzF7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wGBdHmzTgB7dl6VIZAvC2Gv0Bf2.jpg",
+  "tmdbId": 1181578,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789158,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780009,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Cesta do tmy",
+  "dataLancamento": "2023-09-22"
+}

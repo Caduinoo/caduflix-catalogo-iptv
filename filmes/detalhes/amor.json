@@ -1,0 +1,49 @@
+{
+  "id": "amor",
+  "tipo": "filme",
+  "titulo": "Um Amor de Mentiras",
+  "ano": null,
+  "descricao": "Polina, uma estudante do ensino médio, é salva do bullying em sua nova escola e faz um acordo com o principal valentão, Bars: ele deve fingir ser seu namorado e protegê-la, e ela deve fazer tudo o que ele mandar. Durante esse jogo, o casal desenvolve sentimentos verdadeiros, mas sua família e colegas de classe têm motivos para separá-los.",
+  "generos": [
+    "LEGENDADOS",
+    "4K",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hXNn25hE2SH2kHMPVOLjqDISSxf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
+  "tmdbId": 1523145,
+  "nota": 6.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784109,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782043,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772263,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049538,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Твоё сердце будет разбито",
+  "dataLancamento": "2026-03-26"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-clube-do-tesouro",
+  "tipo": "filme",
+  "titulo": "O Clube do Tesouro",
+  "ano": null,
+  "descricao": "Leah, uma curiosa garota de 12 anos, recruta seus colegas de escola Marshy e Tessa para caçar o mítico tesouro de sua cidade, mas eles logo descobrem que a lenda esconde segredos muito mais complexos do que imaginavam.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/shKztvANU0Lqo1WB4QU6wT0cuft.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/34gFNJQ5zT2rqH7iPbIN7Yp8oz7.jpg",
+  "tmdbId": 1352582,
+  "nota": 4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787947,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771973,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Treasure Trackers",
+  "dataLancamento": "2024-10-01"
+}

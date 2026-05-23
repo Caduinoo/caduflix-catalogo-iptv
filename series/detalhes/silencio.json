@@ -1,0 +1,99 @@
+{
+  "id": "silencio",
+  "tipo": "serie",
+  "titulo": "Silêncio",
+  "ano": null,
+  "descricao": "Sergio matou os pais há seis anos e, desde então, nunca mais falou uma palavra. Para descobrir o que aconteceu, uma psiquiatra decide fazer uma investigação intensa.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zG3Y2DlZJbZJUnmQAFpMRYemxiB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eZRsz5UechsmsWFgZf13lCDLNwd.jpg",
+  "tmdbId": 221291,
+  "nota": 6.232,
+  "xtreamSeriesId": 5255,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10923278",
+          "tipo": "episodio",
+          "titulo": "Silêncio S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10923278",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wBoBSFVTqFuxS94E2mpe7FAAZGA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923279",
+          "tipo": "episodio",
+          "titulo": "Silêncio S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10923279",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wBoBSFVTqFuxS94E2mpe7FAAZGA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923280",
+          "tipo": "episodio",
+          "titulo": "Silêncio S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10923280",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wBoBSFVTqFuxS94E2mpe7FAAZGA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923281",
+          "tipo": "episodio",
+          "titulo": "Silêncio S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10923281",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wBoBSFVTqFuxS94E2mpe7FAAZGA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923282",
+          "tipo": "episodio",
+          "titulo": "Silêncio S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10923282",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wBoBSFVTqFuxS94E2mpe7FAAZGA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923283",
+          "tipo": "episodio",
+          "titulo": "Silêncio S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10923283",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wBoBSFVTqFuxS94E2mpe7FAAZGA.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "El silencio",
+  "dataLancamento": "2023-05-19"
+}

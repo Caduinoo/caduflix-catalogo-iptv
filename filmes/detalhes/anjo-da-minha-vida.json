@@ -1,0 +1,34 @@
+{
+  "id": "anjo-da-minha-vida",
+  "tipo": "filme",
+  "titulo": "Anjo da Minha Vida",
+  "ano": null,
+  "descricao": "Ángel é um jovem com uma deficiência cognitiva que treina para ser um grande atleta, para vencer corridas e para conquistar o amor de seu pai José Santos, uma glória esportiva que, desde o momento de seu nascimento, ao saber de sua condição, o rejeita. Graças ao apoio de seu avô e ao amor incondicional de sua mãe, a vida de Ángel e sua relação com sua família tomam um rumo inesperado.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/i9FINZQYODQRKKHagLdzsLdS7go.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tdPOD75DnyOdYcj5ARxA7Gqivzv.jpg",
+  "tmdbId": 854937,
+  "nota": 4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784191,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774850,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Ángel de mi vida",
+  "dataLancamento": "2021-07-15"
+}

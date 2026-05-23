@@ -1,0 +1,50 @@
+{
+  "id": "anemona",
+  "tipo": "filme",
+  "titulo": "Anêmona",
+  "ano": null,
+  "descricao": "Os laços familiares entre pais, filhos e irmãos são explorados à medida que relacionamentos complexos se desenrolam por meio de jornadas pessoais e conflitos geracionais.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8niHlyUkkQ3UQd1kmJP3fFDtvdn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4nExMuYsypZasoX8ri3t0lYLfAF.jpg",
+  "tmdbId": 1364608,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034259,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034257,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11034453,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049958,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Anemone",
+  "dataLancamento": "2025-10-02"
+}

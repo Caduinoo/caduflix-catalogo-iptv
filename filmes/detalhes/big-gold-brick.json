@@ -1,0 +1,34 @@
+{
+  "id": "big-gold-brick",
+  "tipo": "filme",
+  "titulo": "O Livro de Floyd",
+  "ano": null,
+  "descricao": "Após um acidente, Samuel é convidado para escrever a biografia de Floyd Deveraux. Inserido no dia a dia da família do homem, ele percebe que sua tarefa não será simples.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/y8QcfGNfOJeAgOMJSwKYI8PMhu5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5nOVWQD2sRNxYtYX9LBai7VGeRi.jpg",
+  "tmdbId": 624798,
+  "nota": 4.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784608,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772368,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Big Gold Brick",
+  "dataLancamento": "2022-02-25"
+}

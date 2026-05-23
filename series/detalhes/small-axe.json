@@ -1,0 +1,87 @@
+{
+  "id": "small-axe",
+  "tipo": "serie",
+  "titulo": "Small Axe",
+  "ano": null,
+  "descricao": "Cinco histórias retratam as tensões raciais no Reino Unido entre os anos de 1960 e 1980 e abordam situações que vão desde a luta por direitos até a violência policial contra negros.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qAafv0Ao1y8C2dLux9BBg6nVuc1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6gdg8V2vWvYNTMTaSTEFUOr995Z.jpg",
+  "tmdbId": 90705,
+  "nota": 6.857,
+  "xtreamSeriesId": 6330,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10988264",
+          "tipo": "episodio",
+          "titulo": "Small Axe S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10988264",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hI9SLdaMK3tENQTNYnyCCsIx0Wi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988265",
+          "tipo": "episodio",
+          "titulo": "Small Axe S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10988265",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hI9SLdaMK3tENQTNYnyCCsIx0Wi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988266",
+          "tipo": "episodio",
+          "titulo": "Small Axe S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10988266",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hI9SLdaMK3tENQTNYnyCCsIx0Wi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988267",
+          "tipo": "episodio",
+          "titulo": "Small Axe S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10988267",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hI9SLdaMK3tENQTNYnyCCsIx0Wi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988268",
+          "tipo": "episodio",
+          "titulo": "Small Axe S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10988268",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hI9SLdaMK3tENQTNYnyCCsIx0Wi.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Small Axe",
+  "dataLancamento": "2020-11-15"
+}

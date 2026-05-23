@@ -1,0 +1,99 @@
+{
+  "id": "detox",
+  "tipo": "serie",
+  "titulo": "Detox",
+  "ano": null,
+  "descricao": "Depois de perceber que têm uma relação tóxica com a internet, as amigas Léa e Manon tomam uma decisão difícil: abolir todos os aparelhos por 30 dias.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4NRYv6n2v5pSyZxgPkZoM4ISF40.jpg",
+  "tmdbId": 207470,
+  "nota": 6.443,
+  "xtreamSeriesId": 4404,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906299",
+          "tipo": "episodio",
+          "titulo": "Detox S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906299",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906300",
+          "tipo": "episodio",
+          "titulo": "Detox S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906300",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906301",
+          "tipo": "episodio",
+          "titulo": "Detox S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906301",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906302",
+          "tipo": "episodio",
+          "titulo": "Detox S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906302",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906303",
+          "tipo": "episodio",
+          "titulo": "Detox S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10906303",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906304",
+          "tipo": "episodio",
+          "titulo": "Detox S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10906304",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Détox",
+  "dataLancamento": "2022-09-01"
+}

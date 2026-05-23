@@ -1,0 +1,34 @@
+{
+  "id": "meu-porto-seguro",
+  "tipo": "filme",
+  "titulo": "Meu Porto Seguro",
+  "ano": null,
+  "descricao": "Diagnosticada com uma doença terminal, uma mãe solo encontra um solteirão simpático enquanto busca garantir o futuro de seu filho de seis anos.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vd6LL6ZmkoPLhXHJkcjA01WltmQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mbxPR3VtGXIRIX5jEUfulJd9A0J.jpg",
+  "tmdbId": 946726,
+  "nota": 6.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787310,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775860,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Sen Yaşamaya Bak",
+  "dataLancamento": "2022-03-21"
+}

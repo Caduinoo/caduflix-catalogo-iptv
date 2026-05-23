@@ -1,0 +1,42 @@
+{
+  "id": "nao-olhe-para-cima",
+  "tipo": "filme",
+  "titulo": "Não Olhe para Cima",
+  "ano": null,
+  "descricao": "Dois astrônomos descobrem um cometa mortal vindo em direção à Terra e partem em um tour midiático para alertar a humanidade. Só que ninguém parece dar muita bola.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xMJvffWIaW9MtlY9aIXKViUNeIO.jpg",
+  "tmdbId": 646380,
+  "nota": 7.065,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787794,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773297,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782661,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Don't Look Up",
+  "dataLancamento": "2021-12-08"
+}

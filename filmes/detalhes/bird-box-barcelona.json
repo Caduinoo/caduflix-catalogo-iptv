@@ -1,0 +1,34 @@
+{
+  "id": "bird-box-barcelona",
+  "tipo": "filme",
+  "titulo": "Bird Box Barcelona",
+  "ano": null,
+  "descricao": "A humanidade é dizimada por uma força misteriosa e uma ameaça sinistra domina o mundo. Um filme ambientado em Barcelona que expande a história do sucesso \"Bird Box\".",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7tu0bQi8Tw2BrOB5vFyUjVtWma0.jpg",
+  "tmdbId": 805320,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784620,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779629,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Bird Box Barcelona",
+  "dataLancamento": "2023-07-14"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "uma-aventura-ate-a-lua",
+  "tipo": "filme",
+  "titulo": "Uma Aventura Até a Lua",
+  "ano": null,
+  "descricao": "Em Sidney, na Austrália, a pequena Monday ao acaso conhece o adolescente fugitivo Tyler, em uma estação de trem.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/c4ItBxwjSUoI4Qny0ygVjO7wH33.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5zMbZhHL3bhjGJpxDSexyEMmQjl.jpg",
+  "tmdbId": 748994,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790737,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777008,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Moon Rock for Monday",
+  "dataLancamento": "2021-05-06"
+}

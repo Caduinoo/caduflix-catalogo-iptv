@@ -1,0 +1,123 @@
+{
+  "id": "irracional",
+  "tipo": "serie",
+  "titulo": "Irracional",
+  "ano": null,
+  "descricao": "Após encontrar um corpo na floresta de Poconos, um comentarista de TV é acusado de assassinar um conhecido supremacista branco.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5PnsAwc8a7RSzX4ffp4Y4TDoLHS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5J9cs2mtbL0ic4qmf3r3TuUttOD.jpg",
+  "tmdbId": 220056,
+  "nota": 6.366,
+  "xtreamSeriesId": 4662,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911601",
+          "tipo": "episodio",
+          "titulo": "Irracional S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911601",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWeFeaUvM3WZPxRoIyggfoiosFP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911602",
+          "tipo": "episodio",
+          "titulo": "Irracional S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911602",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWeFeaUvM3WZPxRoIyggfoiosFP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911603",
+          "tipo": "episodio",
+          "titulo": "Irracional S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911603",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWeFeaUvM3WZPxRoIyggfoiosFP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911604",
+          "tipo": "episodio",
+          "titulo": "Irracional S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10911604",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWeFeaUvM3WZPxRoIyggfoiosFP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911605",
+          "tipo": "episodio",
+          "titulo": "Irracional S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10911605",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWeFeaUvM3WZPxRoIyggfoiosFP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911606",
+          "tipo": "episodio",
+          "titulo": "Irracional S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10911606",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWeFeaUvM3WZPxRoIyggfoiosFP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911607",
+          "tipo": "episodio",
+          "titulo": "Irracional S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10911607",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWeFeaUvM3WZPxRoIyggfoiosFP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911608",
+          "tipo": "episodio",
+          "titulo": "Irracional S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10911608",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWeFeaUvM3WZPxRoIyggfoiosFP.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The Madness",
+  "dataLancamento": "2024-11-28"
+}

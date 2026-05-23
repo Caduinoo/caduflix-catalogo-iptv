@@ -1,0 +1,61 @@
+{
+  "id": "retrospectiva-edicao-s01-2021",
+  "tipo": "serie",
+  "titulo": "Retrospectiva Edição S01",
+  "ano": 2021,
+  "descricao": "Uma série em três episódios resume o ano em que o avanço da vacinação contra a Covid permitiu que a vida começasse a voltar ao normal.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/utfvHUoyudhB3QavKvcIvtsA2Y8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2AT09S01THXLeSh9Mgv4qDFHfLH.jpg",
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 3223,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10878278",
+          "tipo": "episodio",
+          "titulo": "Retrospectiva 2021 Edição S01 S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10878278",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/utfvHUoyudhB3QavKvcIvtsA2Y8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10878279",
+          "tipo": "episodio",
+          "titulo": "Retrospectiva 2021 Edição S01 S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10878279",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/utfvHUoyudhB3QavKvcIvtsA2Y8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10878280",
+          "tipo": "episodio",
+          "titulo": "Retrospectiva 2021 Edição S01 S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10878280",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/utfvHUoyudhB3QavKvcIvtsA2Y8.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3
+}

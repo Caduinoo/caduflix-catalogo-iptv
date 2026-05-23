@@ -1,0 +1,34 @@
+{
+  "id": "encontrando-um-proposito",
+  "tipo": "filme",
+  "titulo": "Encontrando um Propósito",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4wsRzZIwgKGZwrY38ut2wrkKkjc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lXjzQrCl5Zy5h6Wb8gGi0y0Teqd.jpg",
+  "tmdbId": 943049,
+  "nota": 10,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785727,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775341,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Cross Purposes",
+  "dataLancamento": "2021-01-01"
+}

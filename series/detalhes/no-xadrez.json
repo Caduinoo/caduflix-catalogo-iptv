@@ -1,0 +1,99 @@
+{
+  "id": "no-xadrez",
+  "tipo": "serie",
+  "titulo": "No Xadrez",
+  "ano": null,
+  "descricao": "Laura Willis planejava eventos. Agora, ela é diretora de um presídio feminino e retrata o melhor e o pior da vida atrás das grades nesta comédia mordaz.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lUS4bVNj4Mqp3kdSgKYYepoMyBT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/15BUIWAivdFZhhGu6oLLscy755f.jpg",
+  "tmdbId": 156407,
+  "nota": 5.2,
+  "xtreamSeriesId": 4870,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915508",
+          "tipo": "episodio",
+          "titulo": "No Xadrez S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915508",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lUS4bVNj4Mqp3kdSgKYYepoMyBT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915509",
+          "tipo": "episodio",
+          "titulo": "No Xadrez S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915509",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lUS4bVNj4Mqp3kdSgKYYepoMyBT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915510",
+          "tipo": "episodio",
+          "titulo": "No Xadrez S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915510",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lUS4bVNj4Mqp3kdSgKYYepoMyBT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915511",
+          "tipo": "episodio",
+          "titulo": "No Xadrez S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10915511",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lUS4bVNj4Mqp3kdSgKYYepoMyBT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915512",
+          "tipo": "episodio",
+          "titulo": "No Xadrez S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10915512",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lUS4bVNj4Mqp3kdSgKYYepoMyBT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915513",
+          "tipo": "episodio",
+          "titulo": "No Xadrez S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10915513",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lUS4bVNj4Mqp3kdSgKYYepoMyBT.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Hard Cell",
+  "dataLancamento": "2022-04-12"
+}

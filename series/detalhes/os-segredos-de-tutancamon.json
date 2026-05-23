@@ -1,0 +1,63 @@
+{
+  "id": "os-segredos-de-tutancamon",
+  "tipo": "serie",
+  "titulo": "Os Segredos de Tutancâmon",
+  "ano": null,
+  "descricao": "Descubra a história de um jovem rei e líder poderoso o suficiente para restabelecer um Egito falido no centro do mundo antigo.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eFeB2aaLvuzOmryzI9mnVeYvlym.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8RZxX7Urzkq1pKHHeC2HWKEtU2I.jpg",
+  "tmdbId": 80225,
+  "nota": 6.9,
+  "xtreamSeriesId": 1980,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10844497",
+          "tipo": "episodio",
+          "titulo": "Os Segredos de Tutancamon S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10844497",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eFeB2aaLvuzOmryzI9mnVeYvlym.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844498",
+          "tipo": "episodio",
+          "titulo": "Os Segredos de Tutancamon S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10844498",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eFeB2aaLvuzOmryzI9mnVeYvlym.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844499",
+          "tipo": "episodio",
+          "titulo": "Os Segredos de Tutancamon S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10844499",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eFeB2aaLvuzOmryzI9mnVeYvlym.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Tut's Treasures: Hidden Secrets",
+  "dataLancamento": "2018-03-24"
+}

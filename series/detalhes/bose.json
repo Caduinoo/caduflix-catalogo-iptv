@@ -1,0 +1,99 @@
+{
+  "id": "bose",
+  "tipo": "serie",
+  "titulo": "Bosé",
+  "ano": null,
+  "descricao": "Bosé retratará a vida incrível de um artista com uma personalidade única e muito reconhecível. A série de seis episódios será uma obra de arte inédita por si só, transportando os espectadores para diferentes partes da carreira do cantor e compositor que começou no final dos anos 1970, revelando as histórias por trás da inspiração, composição e gravação de alguns de seus trabalhos mais emblemáticos e como esse sucesso impactou sua vida pessoal.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dvZdLjhdlDyDB6XI9K4PkKqBFdR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mCAuv84Di3VloylQvJZKF2FTnbI.jpg",
+  "tmdbId": 212464,
+  "nota": 5.6,
+  "xtreamSeriesId": 6499,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10993515",
+          "tipo": "episodio",
+          "titulo": "Bosé S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10993515",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dvZdLjhdlDyDB6XI9K4PkKqBFdR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10993516",
+          "tipo": "episodio",
+          "titulo": "Bosé S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10993516",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dvZdLjhdlDyDB6XI9K4PkKqBFdR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10993517",
+          "tipo": "episodio",
+          "titulo": "Bosé S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10993517",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dvZdLjhdlDyDB6XI9K4PkKqBFdR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10993518",
+          "tipo": "episodio",
+          "titulo": "Bosé S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10993518",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dvZdLjhdlDyDB6XI9K4PkKqBFdR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10993519",
+          "tipo": "episodio",
+          "titulo": "Bosé S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10993519",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dvZdLjhdlDyDB6XI9K4PkKqBFdR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10993520",
+          "tipo": "episodio",
+          "titulo": "Bosé S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10993520",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dvZdLjhdlDyDB6XI9K4PkKqBFdR.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Bosé",
+  "dataLancamento": "2022-11-03"
+}

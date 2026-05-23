@@ -1,0 +1,33 @@
+{
+  "id": "escola-da-mafia",
+  "tipo": "filme",
+  "titulo": "Escola da Máfia",
+  "ano": null,
+  "descricao": "Três filhos de chefões da máfia são sequestrados pelos pais e mandados à Sicília em treinamento.",
+  "generos": [
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jP9dumQHczoFU2OSUVtKF4DsDrp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ocDrqhUI9poXMvv5MSdiU8ZWZz1.jpg",
+  "tmdbId": 751862,
+  "nota": 5.1,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772734,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772735,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567048,
+  "tituloOriginal": "School Of Mafia",
+  "dataLancamento": "2021-06-24"
+}

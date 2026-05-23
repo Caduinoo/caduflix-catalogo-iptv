@@ -1,0 +1,34 @@
+{
+  "id": "uma-aventura-selvagem",
+  "tipo": "filme",
+  "titulo": "Uma Aventura Selvagem",
+  "ano": null,
+  "descricao": "Versão baixo orçamento da Asylum (para Jungle Cruise da Disney) onde irmãos aventureiros são atacados por animais da selva amazônica, enquanto procuram seu pai desaparecido. Lutando contra um ataque implacável, eles logo começam a perceber que algo muito mais sinistro está acontecendo.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/CAvSvhitAVDl5EZ3AeqPEoiMCS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9fWW38bLEdofv77bUPLIu8zLN6.jpg",
+  "tmdbId": 844636,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790743,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770882,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Jungle Run",
+  "dataLancamento": "2021-06-24"
+}

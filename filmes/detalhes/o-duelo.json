@@ -1,0 +1,42 @@
+{
+  "id": "o-duelo",
+  "tipo": "filme",
+  "titulo": "O Duelo",
+  "ano": null,
+  "descricao": "As aventuras do Comandante Vasco Moscoso de Aragão, capitão de longo curso.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oGlk16RRd5ulZe31t3sYQhnNto6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2F9XI655A0LYIkV2rWm17t2M5RA.jpg",
+  "tmdbId": 264736,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788042,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773361,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782698,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "O Duelo",
+  "dataLancamento": "2014-08-21"
+}

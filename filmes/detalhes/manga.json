@@ -1,0 +1,34 @@
+{
+  "id": "manga",
+  "tipo": "filme",
+  "titulo": "Manga",
+  "ano": null,
+  "descricao": "Uma hoteleira ambiciosa vai a Málaga com a filha. Lá, elas encontram tudo o que precisavam na plantação de manga com que tanto sonhavam.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/s9lDFwMqxIlJHD7ovZ9wUw0twwK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg",
+  "tmdbId": 1426792,
+  "nota": 6.433,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787123,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049767,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Mango",
+  "dataLancamento": "2025-11-06"
+}

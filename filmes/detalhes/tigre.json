@@ -1,0 +1,26 @@
+{
+  "id": "tigre",
+  "tipo": "filme",
+  "titulo": "El Tigre de Santa Julia",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wV9iDhGabHKrONzVebKjpz9OXqR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/A99yUFzD5g0Rq8KgAFPWZH7bKvJ.jpg",
+  "tmdbId": 73524,
+  "nota": 6.894,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790351,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "El Tigre de Santa Julia",
+  "dataLancamento": "2002-09-27"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-cinema-mal-assombrado",
+  "tipo": "filme",
+  "titulo": "O Cinema Mal-Assombrado",
+  "ano": null,
+  "descricao": "Um grupo de cineastas amadores decide ir até uma sala de cinema para investigar um filme supostamente amaldiçoado e gravar tudo para seu canal no YouTube, mas eles acabam desaparecendo misteriosamente.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w95CUULjwNxsErXQz4wRzThAHBS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oNnQYx5v3GBbpeGAr4uILPK2e9t.jpg",
+  "tmdbId": 1062985,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787939,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049830,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842361,
+  "tituloOriginal": "Wayang Puaka",
+  "dataLancamento": "2023-11-02"
+}

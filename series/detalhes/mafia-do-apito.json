@@ -1,0 +1,63 @@
+{
+  "id": "mafia-do-apito",
+  "tipo": "serie",
+  "titulo": "A Máfia do Apito",
+  "ano": null,
+  "descricao": "A Máfia do Apito expõe o maior escândalo do futebol brasileiro em ritmo explosivo, com escutas reais, depoimentos inéditos e estética de cinema noir!",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tGmLzbFasZMrwRhxWyvtIjpbeOy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3mi0Lxbb0CXovA6xjd1AOhGn7Z1.jpg",
+  "tmdbId": 300109,
+  "nota": null,
+  "xtreamSeriesId": 3095,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10873476",
+          "tipo": "episodio",
+          "titulo": "Mafia do Apito S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10873476",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tGmLzbFasZMrwRhxWyvtIjpbeOy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873477",
+          "tipo": "episodio",
+          "titulo": "Mafia do Apito S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10873477",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tGmLzbFasZMrwRhxWyvtIjpbeOy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873478",
+          "tipo": "episodio",
+          "titulo": "Mafia do Apito S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10873478",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tGmLzbFasZMrwRhxWyvtIjpbeOy.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "A Máfia do Apito",
+  "dataLancamento": "2025-09-05"
+}

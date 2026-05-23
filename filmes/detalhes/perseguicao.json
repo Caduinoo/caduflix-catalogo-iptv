@@ -1,0 +1,42 @@
+{
+  "id": "perseguicao",
+  "tipo": "filme",
+  "titulo": "Perseguição",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1yl5ebR0w9R9Gh8ls1YIfK6plov.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oKjOxoNyHImRr0lAr5pY2K8ga5M.jpg",
+  "tmdbId": 1402151,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789008,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770518,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782844,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Perseguição",
+  "dataLancamento": "2024-12-10"
+}

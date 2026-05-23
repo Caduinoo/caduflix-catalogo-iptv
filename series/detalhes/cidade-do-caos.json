@@ -1,0 +1,99 @@
+{
+  "id": "cidade-do-caos",
+  "tipo": "serie",
+  "titulo": "Cidade do Caos",
+  "ano": null,
+  "descricao": "Um grupo de mulheres tenta escapar das garras de um criminoso, mas a corrupção e as relações familiares deixam esse sonho de liberdade cada vez mais distante.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jfQvIZEQ9qbFgboOtynOpzr06Of.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6qDujYplO8CFrjtgUdqDesidxV.jpg",
+  "tmdbId": 217460,
+  "nota": 8.4,
+  "xtreamSeriesId": 4285,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904755",
+          "tipo": "episodio",
+          "titulo": "Cidade do Caos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904755",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jfQvIZEQ9qbFgboOtynOpzr06Of.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904756",
+          "tipo": "episodio",
+          "titulo": "Cidade do Caos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904756",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jfQvIZEQ9qbFgboOtynOpzr06Of.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904757",
+          "tipo": "episodio",
+          "titulo": "Cidade do Caos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904757",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jfQvIZEQ9qbFgboOtynOpzr06Of.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904758",
+          "tipo": "episodio",
+          "titulo": "Cidade do Caos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904758",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jfQvIZEQ9qbFgboOtynOpzr06Of.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904759",
+          "tipo": "episodio",
+          "titulo": "Cidade do Caos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10904759",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jfQvIZEQ9qbFgboOtynOpzr06Of.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904760",
+          "tipo": "episodio",
+          "titulo": "Cidade do Caos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10904760",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jfQvIZEQ9qbFgboOtynOpzr06Of.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Shanty Town",
+  "dataLancamento": "2023-01-20"
+}

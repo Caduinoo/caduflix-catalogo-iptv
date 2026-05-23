@@ -1,0 +1,99 @@
+{
+  "id": "the-disappearance",
+  "tipo": "serie",
+  "titulo": "The Disappearance",
+  "ano": null,
+  "descricao": "Na sequência do desaparecimento de Anthony Sullivan em seu 10º aniversário, a família fraturada se junta para resolver o mistério que desenraizou suas vidas.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wDw0ItLofAmLoMUYxVyhdK4lI0p.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9hK4uy9jdf6Wfw5J9qAtroi7iEL.jpg",
+  "tmdbId": 72744,
+  "nota": 7.2,
+  "xtreamSeriesId": 6631,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11000615",
+          "tipo": "episodio",
+          "titulo": "The Disappearance S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11000615",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wDw0ItLofAmLoMUYxVyhdK4lI0p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000616",
+          "tipo": "episodio",
+          "titulo": "The Disappearance S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11000616",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wDw0ItLofAmLoMUYxVyhdK4lI0p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000617",
+          "tipo": "episodio",
+          "titulo": "The Disappearance S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11000617",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wDw0ItLofAmLoMUYxVyhdK4lI0p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000618",
+          "tipo": "episodio",
+          "titulo": "The Disappearance S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11000618",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wDw0ItLofAmLoMUYxVyhdK4lI0p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000619",
+          "tipo": "episodio",
+          "titulo": "The Disappearance S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11000619",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wDw0ItLofAmLoMUYxVyhdK4lI0p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000620",
+          "tipo": "episodio",
+          "titulo": "The Disappearance S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11000620",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wDw0ItLofAmLoMUYxVyhdK4lI0p.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Disappearance",
+  "dataLancamento": "2017-10-01"
+}

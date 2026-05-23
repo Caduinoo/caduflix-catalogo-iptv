@@ -1,0 +1,34 @@
+{
+  "id": "gloria",
+  "tipo": "filme",
+  "titulo": "Glória",
+  "ano": null,
+  "descricao": "Quando a família de um menino é morta pela máfia, sua rude vizinha Gloria se torna sua guardiã relutante. Em posse de um livro que os gângsteres querem, a dupla sai correndo em Nova York.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mrYZInXp0JEoZYXs0Z108l2jN0C.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qp62VOSpS3Y81Ui7rSREaDYiNSt.jpg",
+  "tmdbId": 10889,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786234,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775517,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Gloria",
+  "dataLancamento": "1980-10-01"
+}

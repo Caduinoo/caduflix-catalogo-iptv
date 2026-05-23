@@ -1,0 +1,123 @@
+{
+  "id": "exception",
+  "tipo": "serie",
+  "titulo": "exception",
+  "ano": null,
+  "descricao": "Em um futuro distante, a humanidade foi forçada a deixar a Terra. Uma nave com uma equipe de especialistas impressa em 3D é enviada para colonizar um novo planeta.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4sMLQ0EdAthgggrg8Rvy1drd4jn.jpg",
+  "tmdbId": 127325,
+  "nota": 6.962,
+  "xtreamSeriesId": 4487,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907534",
+          "tipo": "episodio",
+          "titulo": "Exception S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907534",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907535",
+          "tipo": "episodio",
+          "titulo": "Exception S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907535",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907536",
+          "tipo": "episodio",
+          "titulo": "Exception S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907536",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907537",
+          "tipo": "episodio",
+          "titulo": "Exception S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907537",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907538",
+          "tipo": "episodio",
+          "titulo": "Exception S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907538",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907539",
+          "tipo": "episodio",
+          "titulo": "Exception S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907539",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907540",
+          "tipo": "episodio",
+          "titulo": "Exception S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10907540",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907541",
+          "tipo": "episodio",
+          "titulo": "Exception S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10907541",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "exception",
+  "dataLancamento": "2022-10-13"
+}

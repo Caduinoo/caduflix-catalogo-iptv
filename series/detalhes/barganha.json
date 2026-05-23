@@ -1,0 +1,99 @@
+{
+  "id": "barganha",
+  "tipo": "serie",
+  "titulo": "Barganha",
+  "ano": null,
+  "descricao": "Um grupo de estranhos se reúne em um motel remoto com segundas intenções – buscando barganhar.  Depois que um terremoto inesperado os prende dentro do prédio.  Sem ninguém em quem confiar, eles precisam encontrar uma maneira de sobreviver.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hbNqMzxlsAHOVIBiw2ztRDK7Ofv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ieHg9WQKBGiNQGFLWmvaSfzHu8r.jpg",
+  "tmdbId": 158811,
+  "nota": 7.025,
+  "xtreamSeriesId": 110,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10794367",
+          "tipo": "episodio",
+          "titulo": "Barganha S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10794367",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hbNqMzxlsAHOVIBiw2ztRDK7Ofv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794368",
+          "tipo": "episodio",
+          "titulo": "Barganha S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10794368",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hbNqMzxlsAHOVIBiw2ztRDK7Ofv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794369",
+          "tipo": "episodio",
+          "titulo": "Barganha S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10794369",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hbNqMzxlsAHOVIBiw2ztRDK7Ofv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794370",
+          "tipo": "episodio",
+          "titulo": "Barganha S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10794370",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hbNqMzxlsAHOVIBiw2ztRDK7Ofv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794371",
+          "tipo": "episodio",
+          "titulo": "Barganha S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10794371",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hbNqMzxlsAHOVIBiw2ztRDK7Ofv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794372",
+          "tipo": "episodio",
+          "titulo": "Barganha S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10794372",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hbNqMzxlsAHOVIBiw2ztRDK7Ofv.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "몸값",
+  "dataLancamento": "2022-10-28"
+}

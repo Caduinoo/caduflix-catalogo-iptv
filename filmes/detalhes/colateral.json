@@ -1,0 +1,34 @@
+{
+  "id": "colateral",
+  "tipo": "filme",
+  "titulo": "Colateral",
+  "ano": null,
+  "descricao": "O taxista Max Durocher está trabalhando em uma noite aparentemente tranquila de Los Angeles, até que pega como passageiro Vincent, que lhe oferece uma quantia considerável de dinheiro em troca de fazer várias paradas no caminho. Mas o que começa como uma noite rotineira logo se transforma em uma noite desesperadora quando Max percebe que as paradas de Vincent não são simples formalidades. Assim, Max se torna refém de um assassino contratado tão calmo quanto implacável. Dessa forma, ele deverá encontrar uma maneira de impedir as mortes e sobreviver.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pxDj257Cyfc4JHykUFAhIVIU0eW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lEfZFNs5hr1Pgn4vpb7X31J927x.jpg",
+  "tmdbId": 1538,
+  "nota": 7.244,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784991,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769505,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Collateral",
+  "dataLancamento": "2004-08-04"
+}

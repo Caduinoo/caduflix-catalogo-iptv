@@ -1,0 +1,42 @@
+{
+  "id": "pedido-irlandes",
+  "tipo": "filme",
+  "titulo": "Pedido Irlandês",
+  "ano": null,
+  "descricao": "O homem dos sonhos de Maddie e a melhor amiga dela estão prestes a se casar. Mas tudo muda magicamente quando ela deseja o amor verdadeiro a uma antiga pedra na Irlanda.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qmTxQvHnsLpiZQiIZu2hsmZSqR8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kYtxAK6zamj1tN9i2yUuPMiRa2M.jpg",
+  "tmdbId": 1019420,
+  "nota": 6.14,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788961,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779322,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782835,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Irish Wish",
+  "dataLancamento": "2024-03-14"
+}

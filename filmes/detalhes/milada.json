@@ -1,0 +1,34 @@
+{
+  "id": "milada",
+  "tipo": "filme",
+  "titulo": "Milada",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1od2o3tUM8ug3ZjT7zEQ6x7oGUq.jpg",
+  "banner": null,
+  "tmdbId": 1230630,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791553,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791530,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Milada",
+  "dataLancamento": "2023-11-19"
+}

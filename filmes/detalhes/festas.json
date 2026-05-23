@@ -1,0 +1,34 @@
+{
+  "id": "festas",
+  "tipo": "filme",
+  "titulo": "Festas Nicolinas 2012",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXuSnbuS215XeFnOkAdWMrADfDX.jpg",
+  "banner": null,
+  "tmdbId": 181272,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785990,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775431,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Festas Nicolinas 2012",
+  "dataLancamento": "2013-03-28"
+}

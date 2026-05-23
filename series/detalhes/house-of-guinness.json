@@ -1,0 +1,123 @@
+{
+  "id": "house-of-guinness",
+  "tipo": "serie",
+  "titulo": "House of Guinness",
+  "ano": null,
+  "descricao": "Dublin, 1868. O patriarca da família Guinness está morto e seus quatro filhos têm o futuro da cervejaria nas mãos. Mas cada um esconde segredos sombrios.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ffht0pt6FR4vDpNkp0zxyVL1sBX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1ELIdCCzB1afeO0KQh2lvUaOxjd.jpg",
+  "tmdbId": 250988,
+  "nota": 7.578,
+  "xtreamSeriesId": 4608,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10910382",
+          "tipo": "episodio",
+          "titulo": "House of Guinness S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10910382",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910383",
+          "tipo": "episodio",
+          "titulo": "House of Guinness S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10910383",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910384",
+          "tipo": "episodio",
+          "titulo": "House of Guinness S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10910384",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910385",
+          "tipo": "episodio",
+          "titulo": "House of Guinness S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10910385",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910386",
+          "tipo": "episodio",
+          "titulo": "House of Guinness S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10910386",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910387",
+          "tipo": "episodio",
+          "titulo": "House of Guinness S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10910387",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910388",
+          "tipo": "episodio",
+          "titulo": "House of Guinness S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10910388",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910389",
+          "tipo": "episodio",
+          "titulo": "House of Guinness S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10910389",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "House of Guinness",
+  "dataLancamento": "2025-09-25"
+}

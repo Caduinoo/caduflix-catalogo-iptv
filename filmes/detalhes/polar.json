@@ -1,0 +1,34 @@
+{
+  "id": "polar",
+  "tipo": "filme",
+  "titulo": "Polar",
+  "ano": null,
+  "descricao": "Um assassino prestes a se aposentar precisa adiar a boa vida quando seu chefe ganancioso envia um bando de matadores jovens e cruéis para exterminá-lo.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2btxGF270fxOeNJInRNnFtZGkAA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lSCKo6QGJ88Gn3espNnvL87CinA.jpg",
+  "tmdbId": 483906,
+  "nota": 6.377,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770541,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782861,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Polar",
+  "dataLancamento": "2019-01-25"
+}

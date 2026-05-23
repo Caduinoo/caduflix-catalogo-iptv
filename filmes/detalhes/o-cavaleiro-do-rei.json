@@ -1,0 +1,34 @@
+{
+  "id": "o-cavaleiro-do-rei",
+  "tipo": "filme",
+  "titulo": "O Cavaleiro do Rei",
+  "ano": null,
+  "descricao": "Com a morte do rei, um cavaleiro obedece a tradição e se sacrifica para servir seu governante no além. Só que uma súbita tragédia acontece.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9AjIDqNC37ML6fPidheFBYG2xVF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nFNy6p3M5vms2PiOR4plNIkFemV.jpg",
+  "tmdbId": 1005774,
+  "nota": 6.182,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787927,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776041,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Elesin Oba: The King's Horseman",
+  "dataLancamento": "2022-09-10"
+}

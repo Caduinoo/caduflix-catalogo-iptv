@@ -1,0 +1,42 @@
+{
+  "id": "um-chamado-natalino",
+  "tipo": "filme",
+  "titulo": "Um Chamado Natalino",
+  "ano": null,
+  "descricao": "Eddie Garrick é um homem de bom coração que deixou de acreditar na maravilha do Natal. Enquanto ele passa um tempo com sua filha Charlotte, de nove anos, na noite de Natal, ele faz amizade com um homem misterioso de terno vermelho chamado Nick.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cLqDHsjImc96QSsyLTx8mr9CL6k.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hF5GdZpBeE5VCkIjXNfZD5Hvua9.jpg",
+  "tmdbId": 1001884,
+  "nota": 6.065,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790557,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777495,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783050,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Dashing Through the Snow",
+  "dataLancamento": "2023-11-16"
+}

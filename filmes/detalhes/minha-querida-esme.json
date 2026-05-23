@@ -1,0 +1,34 @@
+{
+  "id": "minha-querida-esme",
+  "tipo": "filme",
+  "titulo": "Minha Querida Esme",
+  "ano": null,
+  "descricao": "Quando Esme começa a apresentar sintomas de uma terrível doença de família, sua mãe decide levá-la até a casa abandonada de seus avós na esperança de se reconectar com seu passado.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ehTjdJSSnEeHkyTozLQ92vlgb7h.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uQHYjTm8DOmUDnEnxPurPCw7gsl.jpg",
+  "tmdbId": 923994,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787367,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780946,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Esme, My Love",
+  "dataLancamento": "2023-06-02"
+}

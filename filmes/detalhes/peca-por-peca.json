@@ -1,0 +1,34 @@
+{
+  "id": "peca-por-peca",
+  "tipo": "filme",
+  "titulo": "Peça Por Peça",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lTPxVxU7MrVVg7Ph6ndCjarme8S.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xtjpozwtZZ6Ei41U806KPuigU99.jpg",
+  "tmdbId": 1239733,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789036,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771657,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Peça Por Peça",
+  "dataLancamento": "2023-06-05"
+}

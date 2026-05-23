@@ -1,0 +1,63 @@
+{
+  "id": "cirurgiao-do-mal",
+  "tipo": "serie",
+  "titulo": "Cirurgião do Mal",
+  "ano": null,
+  "descricao": "O Dr. Paolo Macchiarini é famoso no mundo todo por seus transplantes de traqueia com infusão de células-tronco. Só tem um problema: os pacientes sempre acabam morrendo.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aKye2DBV6BdECaKLoKR2pHfWAiV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pYHJkAWYh9c9RhGCdZKI1eikBto.jpg",
+  "tmdbId": 238959,
+  "nota": 7.5,
+  "xtreamSeriesId": 4282,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904739",
+          "tipo": "episodio",
+          "titulo": "Cirurgiao do Mal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904739",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aKye2DBV6BdECaKLoKR2pHfWAiV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904740",
+          "tipo": "episodio",
+          "titulo": "Cirurgiao do Mal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904740",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aKye2DBV6BdECaKLoKR2pHfWAiV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904741",
+          "tipo": "episodio",
+          "titulo": "Cirurgiao do Mal S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904741",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aKye2DBV6BdECaKLoKR2pHfWAiV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Bad Surgeon: Love Under the Knife",
+  "dataLancamento": "2023-11-29"
+}

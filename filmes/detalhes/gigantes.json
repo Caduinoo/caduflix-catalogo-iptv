@@ -1,0 +1,34 @@
+{
+  "id": "gigantes",
+  "tipo": "filme",
+  "titulo": "Gigantes de Aço",
+  "ano": null,
+  "descricao": "Em um futuro próximo, as máquinas substituem os seres humanos no ringue. As lutas de boxe, nesse contexto, acontecem entre robôs de alta tecnologia e Charlie, um ex-lutador frustrado, não consegue se adaptar a isso. Quando tudo parece perdido, ele se une ao filho para construir um competidor imbatível.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pp74uUjwQTknGPqNrerj4FvU0ce.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+  "tmdbId": 39254,
+  "nota": 7.081,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786212,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771327,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Real Steel",
+  "dataLancamento": "2011-09-28"
+}

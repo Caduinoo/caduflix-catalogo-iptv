@@ -1,0 +1,34 @@
+{
+  "id": "tom-e-jerry-o-filme",
+  "tipo": "filme",
+  "titulo": "Tom e Jerry: O Filme",
+  "ano": null,
+  "descricao": "Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/69USXLJEXcgMzlhZi7bmaCORxHn.jpg",
+  "tmdbId": 587807,
+  "nota": 6.7,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770810,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783021,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Tom & Jerry",
+  "dataLancamento": "2021-02-10"
+}

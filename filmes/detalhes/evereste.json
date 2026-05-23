@@ -1,0 +1,34 @@
+{
+  "id": "evereste",
+  "tipo": "filme",
+  "titulo": "Evereste",
+  "ano": null,
+  "descricao": "Inspirado nos incríveis acontecimentos em torno da montanha mais alta do mundo, Evereste documenta a inspiradora jornada de dois diferentes grupos de expedição que são desafiados além de seus limites quando são acometidos por uma das maiores avalanches já registradas. Com a coragem testada por um dos fenômenos mais severos do planeta, os escaladores terão de enfrentar obstáculos quase impossíveis em busca de sobrevivência.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2PkYTktwBeaB7xbBatMJmAY67lD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/P7d3lyBaYbAXVor6iB2avLvc4K.jpg",
+  "tmdbId": 253412,
+  "nota": 6.828,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785884,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775407,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Everest",
+  "dataLancamento": "2015-09-10"
+}

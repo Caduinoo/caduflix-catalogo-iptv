@@ -1,0 +1,109 @@
+{
+  "id": "franquias",
+  "tipo": "serie",
+  "titulo": "Franquias",
+  "ano": null,
+  "descricao": "Nesta comédia da HBO, a equipe de uma saga de filmes de super-heróis pouco apreciada luta por um lugar no mundo selvagem do cinema.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JqfBDYBWAsZ0DyZ4yxciih1JKD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5bkxQ4fXDMhfF8CAToNxmz0gC7O.jpg",
+  "tmdbId": null,
+  "nota": 6,
+  "xtreamSeriesId": 5998,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10978234",
+          "tipo": "episodio",
+          "titulo": "Franquias S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10978234",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2JqfBDYBWAsZ0DyZ4yxciih1JKD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978235",
+          "tipo": "episodio",
+          "titulo": "Franquias S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10978235",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2JqfBDYBWAsZ0DyZ4yxciih1JKD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978236",
+          "tipo": "episodio",
+          "titulo": "Franquias S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10978236",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2JqfBDYBWAsZ0DyZ4yxciih1JKD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978237",
+          "tipo": "episodio",
+          "titulo": "Franquias S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10978237",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2JqfBDYBWAsZ0DyZ4yxciih1JKD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978238",
+          "tipo": "episodio",
+          "titulo": "Franquias S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10978238",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2JqfBDYBWAsZ0DyZ4yxciih1JKD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978239",
+          "tipo": "episodio",
+          "titulo": "Franquias S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10978239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2JqfBDYBWAsZ0DyZ4yxciih1JKD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978240",
+          "tipo": "episodio",
+          "titulo": "Franquias S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10978240",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2JqfBDYBWAsZ0DyZ4yxciih1JKD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7
+}

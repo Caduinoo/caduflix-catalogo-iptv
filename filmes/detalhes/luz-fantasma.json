@@ -1,0 +1,42 @@
+{
+  "id": "luz-fantasma",
+  "tipo": "filme",
+  "titulo": "Luz Fantasma",
+  "ano": null,
+  "descricao": "Quando um operário da construção civil se junta inesperadamente à produção local de Romeu e Julieta, ao lado da sua filha adolescente de quem está afastado, o drama em palco começa a espelhar a sua própria vida.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tFUY5AkdWeyKh5uIzeyLp6lBSZw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3VWKIfL8gEHxpsxf3zprxd57h0v.jpg",
+  "tmdbId": 1214469,
+  "nota": 7.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033365,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049549,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050022,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Ghostlight",
+  "dataLancamento": "2024-06-14"
+}

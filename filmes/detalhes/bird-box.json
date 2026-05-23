@@ -1,0 +1,26 @@
+{
+  "id": "bird-box",
+  "tipo": "filme",
+  "titulo": "Bird Box",
+  "ano": null,
+  "descricao": "Uma misteriosa presença dizima grande parte da sociedade. Cinco anos depois, uma sobrevivente e seus dois filhos saem em busca de um abrigo seguro.",
+  "generos": [
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fiqsYTrNpo9MNuWHu7Bb9Tjrv2V.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+  "tmdbId": 405774,
+  "nota": 6.825,
+  "opcoes": [
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782138,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Bird Box",
+  "dataLancamento": "2018-12-13"
+}

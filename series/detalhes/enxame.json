@@ -1,0 +1,111 @@
+{
+  "id": "enxame",
+  "tipo": "serie",
+  "titulo": "Enxame",
+  "ano": null,
+  "descricao": "Assassinato. Sexo. Música. Essa não é uma obra de ficção.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5V1yvvLR7n5XqrDO26Wkr5d5228.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Abp35Z4fHCufCvYXURyfnKeaOON.jpg",
+  "tmdbId": 220116,
+  "nota": 6.563,
+  "xtreamSeriesId": 257,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10798100",
+          "tipo": "episodio",
+          "titulo": "Enxame S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10798100",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UsVnBRDQdYwa9sK49mSqI1vCm2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798101",
+          "tipo": "episodio",
+          "titulo": "Enxame S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10798101",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UsVnBRDQdYwa9sK49mSqI1vCm2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798102",
+          "tipo": "episodio",
+          "titulo": "Enxame S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10798102",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UsVnBRDQdYwa9sK49mSqI1vCm2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798103",
+          "tipo": "episodio",
+          "titulo": "Enxame S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10798103",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UsVnBRDQdYwa9sK49mSqI1vCm2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798104",
+          "tipo": "episodio",
+          "titulo": "Enxame S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10798104",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UsVnBRDQdYwa9sK49mSqI1vCm2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798105",
+          "tipo": "episodio",
+          "titulo": "Enxame S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10798105",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UsVnBRDQdYwa9sK49mSqI1vCm2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798106",
+          "tipo": "episodio",
+          "titulo": "Enxame S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10798106",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UsVnBRDQdYwa9sK49mSqI1vCm2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Swarm",
+  "dataLancamento": "2023-03-16"
+}

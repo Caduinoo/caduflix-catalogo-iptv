@@ -1,0 +1,87 @@
+{
+  "id": "canto-ao-tempo",
+  "tipo": "serie",
+  "titulo": "Canto ao Tempo",
+  "ano": null,
+  "descricao": "Cinco artistas baianas revisitam suas carreiras e dão depoimentos sobre suas trajetórias. Juntas elas vão estar em cena nesta série para fazer um Canto ao Tempo.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/f0oOT88cZmRhymy2djcDQpr3qeu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/50PHwYjzCpZHBZ3F5GsP7ah5YEx.jpg",
+  "tmdbId": 220989,
+  "nota": null,
+  "xtreamSeriesId": 2916,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10865405",
+          "tipo": "episodio",
+          "titulo": "Canto ao Tempo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10865405",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/f0oOT88cZmRhymy2djcDQpr3qeu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865406",
+          "tipo": "episodio",
+          "titulo": "Canto ao Tempo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10865406",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/f0oOT88cZmRhymy2djcDQpr3qeu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865407",
+          "tipo": "episodio",
+          "titulo": "Canto ao Tempo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10865407",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/f0oOT88cZmRhymy2djcDQpr3qeu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865408",
+          "tipo": "episodio",
+          "titulo": "Canto ao Tempo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10865408",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/f0oOT88cZmRhymy2djcDQpr3qeu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865409",
+          "tipo": "episodio",
+          "titulo": "Canto ao Tempo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10865409",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/f0oOT88cZmRhymy2djcDQpr3qeu.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Canto ao Tempo",
+  "dataLancamento": "2023-02-20"
+}

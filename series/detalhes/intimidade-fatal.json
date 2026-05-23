@@ -1,0 +1,99 @@
+{
+  "id": "intimidade-fatal",
+  "tipo": "serie",
+  "titulo": "Intimidade Fatal",
+  "ano": null,
+  "descricao": "Esta série combina imagens originais de cenas de crimes com vídeos amadores gravados pelas famílias, criando um registro íntimo e emocionalmente potente.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/90BQembHf9oFyUlrfHnpZm7plJn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ml1R0UlCotYhTabEZXt9k6OzUVE.jpg",
+  "tmdbId": 99150,
+  "nota": 9.2,
+  "xtreamSeriesId": 1464,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10830026",
+          "tipo": "episodio",
+          "titulo": "Intimidade Fatal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10830026",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/90BQembHf9oFyUlrfHnpZm7plJn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830027",
+          "tipo": "episodio",
+          "titulo": "Intimidade Fatal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10830027",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/90BQembHf9oFyUlrfHnpZm7plJn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830028",
+          "tipo": "episodio",
+          "titulo": "Intimidade Fatal S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10830028",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/90BQembHf9oFyUlrfHnpZm7plJn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830029",
+          "tipo": "episodio",
+          "titulo": "Intimidade Fatal S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10830029",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/90BQembHf9oFyUlrfHnpZm7plJn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830030",
+          "tipo": "episodio",
+          "titulo": "Intimidade Fatal S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10830030",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/90BQembHf9oFyUlrfHnpZm7plJn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830031",
+          "tipo": "episodio",
+          "titulo": "Intimidade Fatal S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10830031",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/90BQembHf9oFyUlrfHnpZm7plJn.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Murder Comes Home",
+  "dataLancamento": "2020-01-28"
+}

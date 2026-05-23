@@ -1,0 +1,99 @@
+{
+  "id": "iwaju",
+  "tipo": "serie",
+  "titulo": "Iwájú",
+  "ano": null,
+  "descricao": "Dois amigos, em uma Nigéria futurística, descobrem os segredos e perigos de seus mundos.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ezr554ZzSDDKU3CnxQjf38779H6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cGbnK0qMvIhf9m5ZT29GTIAQhtE.jpg",
+  "tmdbId": 114481,
+  "nota": 6.779,
+  "xtreamSeriesId": 1868,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10841356",
+          "tipo": "episodio",
+          "titulo": "Iwaju S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10841356",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ezr554ZzSDDKU3CnxQjf38779H6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841357",
+          "tipo": "episodio",
+          "titulo": "Iwaju S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10841357",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ezr554ZzSDDKU3CnxQjf38779H6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841358",
+          "tipo": "episodio",
+          "titulo": "Iwaju S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10841358",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ezr554ZzSDDKU3CnxQjf38779H6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841359",
+          "tipo": "episodio",
+          "titulo": "Iwaju S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10841359",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ezr554ZzSDDKU3CnxQjf38779H6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841360",
+          "tipo": "episodio",
+          "titulo": "Iwaju S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10841360",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ezr554ZzSDDKU3CnxQjf38779H6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841361",
+          "tipo": "episodio",
+          "titulo": "Iwaju S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10841361",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ezr554ZzSDDKU3CnxQjf38779H6.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Iwájú",
+  "dataLancamento": "2024-02-28"
+}

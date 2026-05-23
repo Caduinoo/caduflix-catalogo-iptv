@@ -1,0 +1,123 @@
+{
+  "id": "a-volta-ao-mundo-em-80-dias",
+  "tipo": "serie",
+  "titulo": "A Volta ao Mundo em 80 Dias",
+  "ano": null,
+  "descricao": "O cavalheiro aventureiro Phileas Fogg parte numa busca para viajar à volta do mundo e regressar a casa no prazo de 80 dias.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/naZrH2DhxgN7zeswmPybktGZ8nb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pnBWjG1e47at67IPmAhzt8cWVuT.jpg",
+  "tmdbId": 96228,
+  "nota": 7.301,
+  "xtreamSeriesId": 2854,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10863922",
+          "tipo": "episodio",
+          "titulo": "A Volta ao Mundo em 80 Dias S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10863922",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/naZrH2DhxgN7zeswmPybktGZ8nb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863923",
+          "tipo": "episodio",
+          "titulo": "A Volta ao Mundo em 80 Dias S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10863923",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/naZrH2DhxgN7zeswmPybktGZ8nb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863924",
+          "tipo": "episodio",
+          "titulo": "A Volta ao Mundo em 80 Dias S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10863924",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/naZrH2DhxgN7zeswmPybktGZ8nb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863925",
+          "tipo": "episodio",
+          "titulo": "A Volta ao Mundo em 80 Dias S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10863925",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/naZrH2DhxgN7zeswmPybktGZ8nb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863926",
+          "tipo": "episodio",
+          "titulo": "A Volta ao Mundo em 80 Dias S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10863926",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/naZrH2DhxgN7zeswmPybktGZ8nb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863927",
+          "tipo": "episodio",
+          "titulo": "A Volta ao Mundo em 80 Dias S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10863927",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/naZrH2DhxgN7zeswmPybktGZ8nb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863928",
+          "tipo": "episodio",
+          "titulo": "A Volta ao Mundo em 80 Dias S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10863928",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/naZrH2DhxgN7zeswmPybktGZ8nb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863929",
+          "tipo": "episodio",
+          "titulo": "A Volta ao Mundo em 80 Dias S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10863929",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/naZrH2DhxgN7zeswmPybktGZ8nb.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Around the World in 80 Days",
+  "dataLancamento": "2021-12-05"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-sorte-grande",
+  "tipo": "filme",
+  "titulo": "A Sorte Grande",
+  "ano": null,
+  "descricao": "A história de Leslie, uma mulher alcoólatra que se tornou uma celebridade quando ganhou $ 190.000 na loteria local, mas acabou esbanjando os ganhos com drogas e álcool.  Atualmente, Leslie vive na miséria, mas após ser expulsa de um motel, ela decide se reunir com seu filho de vinte anos. Mas a mulher não consegue cumprir sua promessa.  Quando sua vida chega ao fundo do poço, a presença de um estranho a fará reavaliar as coisas e tentar reconstruir sua vida.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/e2DiRIkVUURXD40JxcrO1D1i8Og.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7SGsNmrdb6hLQujKpvuBUrkKmcv.jpg",
+  "tmdbId": 823147,
+  "nota": 7.019,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783801,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774706,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "To Leslie",
+  "dataLancamento": "2022-10-07"
+}

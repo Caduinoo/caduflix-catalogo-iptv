@@ -1,0 +1,34 @@
+{
+  "id": "caminhos-para-olympia",
+  "tipo": "filme",
+  "titulo": "Caminhos para Olympia",
+  "ano": null,
+  "descricao": "Três jovens atletas enfrentam a opressão cultural, a intolerância e a pobreza, enquanto vão atrás de um sonho em comum: competir nos Jogos Olímpicos.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qt3c4ksHR4e1TWnzJ9WPjymeYtO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tIfRpPyVDJURVbAETz3IIqn4nNu.jpg",
+  "tmdbId": 485240,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784782,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775035,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Roads to Olympia",
+  "dataLancamento": "2019-07-20"
+}

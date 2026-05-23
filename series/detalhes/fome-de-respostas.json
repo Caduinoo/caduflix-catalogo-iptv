@@ -1,0 +1,75 @@
+{
+  "id": "fome-de-respostas",
+  "tipo": "serie",
+  "titulo": "Fome de Respostas",
+  "ano": null,
+  "descricao": "A premiada escritora, autora de livros de culinária e dona de restaurantes Caroline Randall Williams viaja pelos Estados Unidos para revelar histórias fascinantes e pouco conhecidas sobre a cultura afro-americana e seu impacto na culinária do país.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cBY9G9ZPgNTl33HzP2ngPpy2EvF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sAEar8H5ekcT7eFRzro0UCOacws.jpg",
+  "tmdbId": 204357,
+  "nota": null,
+  "xtreamSeriesId": 1442,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10829800",
+          "tipo": "episodio",
+          "titulo": "Fome de Respostas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10829800",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cBY9G9ZPgNTl33HzP2ngPpy2EvF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829801",
+          "tipo": "episodio",
+          "titulo": "Fome de Respostas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10829801",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cBY9G9ZPgNTl33HzP2ngPpy2EvF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829802",
+          "tipo": "episodio",
+          "titulo": "Fome de Respostas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10829802",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cBY9G9ZPgNTl33HzP2ngPpy2EvF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829803",
+          "tipo": "episodio",
+          "titulo": "Fome de Respostas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10829803",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cBY9G9ZPgNTl33HzP2ngPpy2EvF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Hungry For Answers",
+  "dataLancamento": "2022-06-08"
+}

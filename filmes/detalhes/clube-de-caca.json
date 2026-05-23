@@ -1,0 +1,34 @@
+{
+  "id": "clube-de-caca",
+  "tipo": "filme",
+  "titulo": "Clube de Caça",
+  "ano": null,
+  "descricao": "Algumas mulheres são atraídas por um grupo de homens para participar de uma caçada em troca de dinheiro.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/c9Ak5gjXWt5QDCt0V4GlL8EhU18.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4CjNJ1zi89Z9ZNgjTiKJSv8CRDz.jpg",
+  "tmdbId": 1064178,
+  "nota": 4.102,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784969,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769500,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Hunt Club",
+  "dataLancamento": "2023-04-06"
+}

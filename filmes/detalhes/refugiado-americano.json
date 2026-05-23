@@ -1,0 +1,34 @@
+{
+  "id": "refugiado-americano",
+  "tipo": "filme",
+  "titulo": "Refugiado Americano",
+  "ano": null,
+  "descricao": "A história de uma família buscando abrigo no bunker de um vizinho enquanto a economia americana está em colapso e a nação sob lei marcial. Lá eles descobrem que o perigo dentro é potencialmente maior do que o perigo lá fora.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8gw4RbfOf7CxouXM0A4P9FxXiOe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fXJQwKzEqezjt3ARXVZP0J1PWXY.jpg",
+  "tmdbId": 827315,
+  "nota": 5.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789390,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781377,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "American Refugee",
+  "dataLancamento": "2021-12-10"
+}

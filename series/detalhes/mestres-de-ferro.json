@@ -1,0 +1,99 @@
+{
+  "id": "mestres-de-ferro",
+  "tipo": "serie",
+  "titulo": "Mestres de Ferro",
+  "ano": null,
+  "descricao": "Nesta competição, mestres da arte em metal derretem, cortam e soldam peças incríveis em aço temperado. Quem será que vai levar o prêmio de 50 mil dólares?",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gZWZxoeTYWEweD2nzUHs75axdLO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/acDAJE0AUD4rgeHDfl0IPuAj0dc.jpg",
+  "tmdbId": 130969,
+  "nota": 5.8,
+  "xtreamSeriesId": 4804,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10914811",
+          "tipo": "episodio",
+          "titulo": "Mestres de Ferro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10914811",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gZWZxoeTYWEweD2nzUHs75axdLO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914812",
+          "tipo": "episodio",
+          "titulo": "Mestres de Ferro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10914812",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gZWZxoeTYWEweD2nzUHs75axdLO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914813",
+          "tipo": "episodio",
+          "titulo": "Mestres de Ferro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10914813",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gZWZxoeTYWEweD2nzUHs75axdLO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914814",
+          "tipo": "episodio",
+          "titulo": "Mestres de Ferro S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10914814",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gZWZxoeTYWEweD2nzUHs75axdLO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914815",
+          "tipo": "episodio",
+          "titulo": "Mestres de Ferro S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10914815",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gZWZxoeTYWEweD2nzUHs75axdLO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914816",
+          "tipo": "episodio",
+          "titulo": "Mestres de Ferro S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10914816",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gZWZxoeTYWEweD2nzUHs75axdLO.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Metal Shop Masters",
+  "dataLancamento": "2021-09-10"
+}

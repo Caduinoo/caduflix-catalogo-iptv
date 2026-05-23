@@ -1,0 +1,99 @@
+{
+  "id": "diario-de-um-confinado",
+  "tipo": "serie",
+  "titulo": "Diário de um Confinado",
+  "ano": null,
+  "descricao": "Ficar em casa virou forma de sobrevivência em tempos de pandemia e os dias parecem se repetir. Agora, Murilo tenta não enlouquecer tocando a vida de dentro de casa.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/r43MlYCteQkXGkhFL7xw5YiFdd7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Aug6AOomQH9IdqBE7h4SdSvzav4.jpg",
+  "tmdbId": 107509,
+  "nota": 6.5,
+  "xtreamSeriesId": 5937,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10976091",
+          "tipo": "episodio",
+          "titulo": "Diario de Um Confinado S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10976091",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r43MlYCteQkXGkhFL7xw5YiFdd7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976092",
+          "tipo": "episodio",
+          "titulo": "Diario de Um Confinado S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10976092",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r43MlYCteQkXGkhFL7xw5YiFdd7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976093",
+          "tipo": "episodio",
+          "titulo": "Diario de Um Confinado S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10976093",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r43MlYCteQkXGkhFL7xw5YiFdd7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976094",
+          "tipo": "episodio",
+          "titulo": "Diario de Um Confinado S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10976094",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r43MlYCteQkXGkhFL7xw5YiFdd7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976095",
+          "tipo": "episodio",
+          "titulo": "Diario de Um Confinado S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10976095",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r43MlYCteQkXGkhFL7xw5YiFdd7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976096",
+          "tipo": "episodio",
+          "titulo": "Diario de Um Confinado S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10976096",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r43MlYCteQkXGkhFL7xw5YiFdd7.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Diário de um Confinado",
+  "dataLancamento": "2020-06-26"
+}

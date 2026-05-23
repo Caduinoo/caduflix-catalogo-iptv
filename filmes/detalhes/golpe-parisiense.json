@@ -1,0 +1,34 @@
+{
+  "id": "golpe-parisiense",
+  "tipo": "filme",
+  "titulo": "Golpe Parisiense",
+  "ano": null,
+  "descricao": "Mia é uma jovem manicure que acabou de ficar grávida e precisa encontrar um novo lugar para morar. Para conseguir algum dinheiro, ela começa a oferecer às suas clientes entradas para festas frequentas por celebridades.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xofLK5N15pMfyoWKUZrPG5yPuEl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/19bYg01zv3IYhUE5a2BdXxgDtR8.jpg",
+  "tmdbId": 958502,
+  "nota": 5.18,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786254,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049612,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Rue des dames",
+  "dataLancamento": "2023-12-13"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "amor-a-primeira-vista",
+  "tipo": "filme",
+  "titulo": "Amor à Primeira Vista",
+  "ano": null,
+  "descricao": "Em um voo para Londres, dois estranhos sentem uma conexão, mas logo se perdem no aeroporto. O reencontro parece impossível, só que o amor desafia todas as probabilidades.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3a13ifmIiOsgKoQpOpDfsWCx4Qh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gz1Lr0WcKJ1eg7mfN0AfAPXbI7h.jpg",
+  "tmdbId": 353577,
+  "nota": 7.216,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784161,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779052,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Love at First Sight",
+  "dataLancamento": "2023-09-15"
+}

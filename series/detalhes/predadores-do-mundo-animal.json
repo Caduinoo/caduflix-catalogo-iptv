@@ -1,0 +1,87 @@
+{
+  "id": "predadores-do-mundo-animal",
+  "tipo": "serie",
+  "titulo": "Predadores do Mundo Animal",
+  "ano": null,
+  "descricao": "Descubra como os guepardos, ursos polares e outros predadores entre os mais fortes do planeta enfrentam as adversidades para sobreviver.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sYSdQUrfqb6BFBO7MR5YNg1Detp.jpg",
+  "tmdbId": 215344,
+  "nota": 8.3,
+  "xtreamSeriesId": 5102,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920682",
+          "tipo": "episodio",
+          "titulo": "Predadores do Mundo Animal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920682",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920683",
+          "tipo": "episodio",
+          "titulo": "Predadores do Mundo Animal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920683",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920684",
+          "tipo": "episodio",
+          "titulo": "Predadores do Mundo Animal S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920684",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920685",
+          "tipo": "episodio",
+          "titulo": "Predadores do Mundo Animal S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920685",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920686",
+          "tipo": "episodio",
+          "titulo": "Predadores do Mundo Animal S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10920686",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Predators",
+  "dataLancamento": "2022-12-11"
+}

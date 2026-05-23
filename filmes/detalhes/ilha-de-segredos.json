@@ -1,0 +1,34 @@
+{
+  "id": "ilha-de-segredos",
+  "tipo": "filme",
+  "titulo": "Ilha de Segredos",
+  "ano": null,
+  "descricao": "Uma ilha aparentemente pacífica guarda segredos que colocam um órfão em perigo depois que ele se aproxima da nova e misteriosa professora de alemão.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gSlsO58fqD6iLK8qhPy2viDXD4h.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5VydHjmbPiXAfJ2RJWFCjNdLS85.jpg",
+  "tmdbId": 847981,
+  "nota": 5.882,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786518,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769858,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Schwarze Insel",
+  "dataLancamento": "2021-08-17"
+}

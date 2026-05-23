@@ -1,0 +1,123 @@
+{
+  "id": "wellmania",
+  "tipo": "serie",
+  "titulo": "Wellmania",
+  "ano": null,
+  "descricao": "Liv sempre aproveitou a vida sem pensar no amanhã. Até que um problema de saúde a leva a uma jornada de bem-estar. Ela está determinada a melhorar. Não importa o preço.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/c3F9aMUSwQovZkpEBynxBxN3keo.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uUYd4Fl8J1ZwHda0A4V3QTKbWVu.jpg",
+  "tmdbId": 195841,
+  "nota": 6.5,
+  "xtreamSeriesId": 5462,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927966",
+          "tipo": "episodio",
+          "titulo": "Wellmania S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927966",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c3F9aMUSwQovZkpEBynxBxN3keo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927967",
+          "tipo": "episodio",
+          "titulo": "Wellmania S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927967",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c3F9aMUSwQovZkpEBynxBxN3keo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927968",
+          "tipo": "episodio",
+          "titulo": "Wellmania S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927968",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c3F9aMUSwQovZkpEBynxBxN3keo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927969",
+          "tipo": "episodio",
+          "titulo": "Wellmania S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927969",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c3F9aMUSwQovZkpEBynxBxN3keo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927970",
+          "tipo": "episodio",
+          "titulo": "Wellmania S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10927970",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c3F9aMUSwQovZkpEBynxBxN3keo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927971",
+          "tipo": "episodio",
+          "titulo": "Wellmania S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10927971",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c3F9aMUSwQovZkpEBynxBxN3keo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927972",
+          "tipo": "episodio",
+          "titulo": "Wellmania S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10927972",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c3F9aMUSwQovZkpEBynxBxN3keo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927973",
+          "tipo": "episodio",
+          "titulo": "Wellmania S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10927973",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c3F9aMUSwQovZkpEBynxBxN3keo.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Wellmania",
+  "dataLancamento": "2023-03-29"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "the-one",
+  "tipo": "serie",
+  "titulo": "The One Show",
+  "ano": null,
+  "descricao": "Uma pesquisadora ajuda a descobrir como encontrar o par ideal com base no DNA e cria um novo serviço de relacionamentos que vai dar o que falar.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7QpzCej3Lwrsnx5A8FePYsUCIzf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/69TLqW1BeyP3bAPf18GpGqjTb00.jpg",
+  "tmdbId": 1514,
+  "nota": 4.4,
+  "xtreamSeriesId": 5352,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10926174",
+          "tipo": "episodio",
+          "titulo": "The One S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10926174",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/klL9vBIRdEeSLtjhn83pCNcVguZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926175",
+          "tipo": "episodio",
+          "titulo": "The One S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10926175",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/klL9vBIRdEeSLtjhn83pCNcVguZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926176",
+          "tipo": "episodio",
+          "titulo": "The One S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10926176",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/klL9vBIRdEeSLtjhn83pCNcVguZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926177",
+          "tipo": "episodio",
+          "titulo": "The One S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10926177",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/klL9vBIRdEeSLtjhn83pCNcVguZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926178",
+          "tipo": "episodio",
+          "titulo": "The One S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10926178",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/klL9vBIRdEeSLtjhn83pCNcVguZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926179",
+          "tipo": "episodio",
+          "titulo": "The One S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10926179",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/klL9vBIRdEeSLtjhn83pCNcVguZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926180",
+          "tipo": "episodio",
+          "titulo": "The One S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10926180",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/klL9vBIRdEeSLtjhn83pCNcVguZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926181",
+          "tipo": "episodio",
+          "titulo": "The One S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10926181",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/klL9vBIRdEeSLtjhn83pCNcVguZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The One Show",
+  "dataLancamento": "2006-08-14"
+}

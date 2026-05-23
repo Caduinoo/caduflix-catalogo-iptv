@@ -1,0 +1,34 @@
+{
+  "id": "farol-da-ilusao",
+  "tipo": "filme",
+  "titulo": "Farol da Ilusão",
+  "ano": null,
+  "descricao": "Presa em uma ilha deserta, uma família enfrenta uma luta cruel pela sobrevivência. Mas o passado volta para assombrá-los, provocando momentos chocantes.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6ZPlnGO4jWvBtIoG9hRlqyfg8g8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jyiS3eQFQzSNlY4TRIIkTSyI1ce.jpg",
+  "tmdbId": 1185719,
+  "nota": 5.479,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785949,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779739,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "من وراء الموج",
+  "dataLancamento": "2024-12-07"
+}

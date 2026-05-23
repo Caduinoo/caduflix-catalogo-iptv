@@ -1,0 +1,63 @@
+{
+  "id": "o-terremoto-do-everest",
+  "tipo": "serie",
+  "titulo": "O Terremoto do Everest",
+  "ano": null,
+  "descricao": "Depois de um terremoto terrível no Nepal, moradores e turistas unem forças para enfrentar a destruição nesta série documental emocionante.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kbzqDGgPKynwboxgP2tvARN11Gs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qFlZhNvxOkK7KaNA6swUCVRLmbD.jpg",
+  "tmdbId": 208952,
+  "nota": 7.441,
+  "xtreamSeriesId": 5000,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10917200",
+          "tipo": "episodio",
+          "titulo": "O Terremoto do Everest S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10917200",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kbzqDGgPKynwboxgP2tvARN11Gs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917201",
+          "tipo": "episodio",
+          "titulo": "O Terremoto do Everest S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10917201",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kbzqDGgPKynwboxgP2tvARN11Gs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917202",
+          "tipo": "episodio",
+          "titulo": "O Terremoto do Everest S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10917202",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kbzqDGgPKynwboxgP2tvARN11Gs.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Aftershock: Everest and the Nepal Earthquake",
+  "dataLancamento": "2022-09-14"
+}

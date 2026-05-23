@@ -1,0 +1,34 @@
+{
+  "id": "presidentes",
+  "tipo": "filme",
+  "titulo": "Presidentes",
+  "ano": null,
+  "descricao": "O ex-presidente Nicolas deveria estar aproveitando a vida tranquila da aposentadoria. No entanto, ele tem outros planos. Na mira de outra chance, Nicolas tenta convencer outro presidente aposentado, e seu ex-pior adversário, a concorrer contra ele novamente.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xv4GFI0DD13CY8sVw8OPDSJDCIs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6bpomQ8dfKnqB9b49Z4EWF3vHvA.jpg",
+  "tmdbId": 741124,
+  "nota": 5.313,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789153,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773669,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Présidents",
+  "dataLancamento": "2021-06-30"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "jogo-comprado",
+  "tipo": "serie",
+  "titulo": "Jogo Comprado",
+  "ano": null,
+  "descricao": "Crimes verídicos e esportes se cruzam em uma série documental sobre controvérsias e escândalos mundiais, com testemunhos em primeira mão dos envolvidos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lst1t3sln5F7p2MsYwFevVNDOJV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qly4kClsaokKWiZYkSeWPZlw7Z.jpg",
+  "tmdbId": 133358,
+  "nota": 6.768,
+  "xtreamSeriesId": 4683,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10912273",
+          "tipo": "episodio",
+          "titulo": "Jogo Comprado S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10912273",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lst1t3sln5F7p2MsYwFevVNDOJV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10912274",
+          "tipo": "episodio",
+          "titulo": "Jogo Comprado S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10912274",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lst1t3sln5F7p2MsYwFevVNDOJV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10912275",
+          "tipo": "episodio",
+          "titulo": "Jogo Comprado S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10912275",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lst1t3sln5F7p2MsYwFevVNDOJV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10912276",
+          "tipo": "episodio",
+          "titulo": "Jogo Comprado S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10912276",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lst1t3sln5F7p2MsYwFevVNDOJV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10912277",
+          "tipo": "episodio",
+          "titulo": "Jogo Comprado S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10912277",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lst1t3sln5F7p2MsYwFevVNDOJV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10912278",
+          "tipo": "episodio",
+          "titulo": "Jogo Comprado S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10912278",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lst1t3sln5F7p2MsYwFevVNDOJV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Bad Sport",
+  "dataLancamento": "2021-10-06"
+}

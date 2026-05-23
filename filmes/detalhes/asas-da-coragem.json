@@ -1,0 +1,34 @@
+{
+  "id": "asas-da-coragem",
+  "tipo": "filme",
+  "titulo": "Asas da Coragem",
+  "ano": null,
+  "descricao": "Um pequeno grupo tenta provar que pode oferecer um serviço confiável de correio aéreo pelos Andes.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/a5hJ7DMyWj9XF0NPdopTzA9RNDh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/26cC4TayVw21cUuwSp1rbDsix3l.jpg",
+  "tmdbId": 78802,
+  "nota": 6.729,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784364,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779071,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Wings of Courage",
+  "dataLancamento": "1995-06-16"
+}

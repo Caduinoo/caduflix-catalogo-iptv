@@ -1,0 +1,42 @@
+{
+  "id": "peter-pan-e-wendy",
+  "tipo": "filme",
+  "titulo": "Peter Pan & Wendy",
+  "ano": null,
+  "descricao": "Wendy Darling, uma jovem que não quer ir para o colégio interno, conhece Peter Pan, um menino que se recusa a crescer. Com seus irmãos e uma fada, Tinker Bell, ela viaja com Peter para o mundo mágico da Terra do Nunca. Lá, ela encontra o pirata perverso, Capitão Gancho, e embarca em uma aventura emocionante que vai mudar sua vida para sempre.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8HfjrSxfTVKmjNh8cJjbu5eXzcX.jpg",
+  "tmdbId": 420808,
+  "nota": 5.429,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789029,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777446,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782843,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Peter Pan & Wendy",
+  "dataLancamento": "2023-04-20"
+}

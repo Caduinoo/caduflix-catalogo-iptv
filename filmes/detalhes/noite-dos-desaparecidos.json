@@ -1,0 +1,34 @@
+{
+  "id": "noite-dos-desaparecidos",
+  "tipo": "filme",
+  "titulo": "Noite dos Desaparecidos",
+  "ano": null,
+  "descricao": "Uma misteriosa xerife de uma pequena cidade recebe a visita de uma mulher misteriosa que conta histórias bizarras envolvendo pessoas desaparecidas. Ela pode ser uma notória assassina em série.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xbzvbWvazE8j6s88nt7kozGwPHA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bDtXzxS0XUcq6yT0NxvbX63RH2a.jpg",
+  "tmdbId": 1066376,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787726,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780991,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Night of the Missing",
+  "dataLancamento": "2023-11-30"
+}

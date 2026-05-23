@@ -1,0 +1,42 @@
+{
+  "id": "jj-e",
+  "tipo": "filme",
+  "titulo": "JJ+E",
+  "ano": null,
+  "descricao": "Elisabeth e John-John vivem na mesma cidade, mas em mundos completamente diferentes. Será que essa paixão vai conseguir romper as barreiras sociais e culturais?",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tY2giXB3tUUhUPPjMi8zElHpQxY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/solT9gv8u4dZYPFvV43BU2VHehx.jpg",
+  "tmdbId": 726916,
+  "nota": 5.815,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786692,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779193,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782475,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Vinterviken",
+  "dataLancamento": "2021-09-08"
+}

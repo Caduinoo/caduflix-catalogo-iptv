@@ -1,0 +1,34 @@
+{
+  "id": "o-cheiro-do-ouro",
+  "tipo": "filme",
+  "titulo": "O Cheiro do Ouro",
+  "ano": null,
+  "descricao": "Determinado a mudar a situação ingrata que enfrenta no trabalho, um homem planeja contrabandear perfumes de luxo bem debaixo do nariz dos donos da empresa.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ouzdmcuQAdoNKVrzl85XpxXuQ8g.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zgsxJpxiVaGpUFXKr6zujPWQvou.jpg",
+  "tmdbId": 1140056,
+  "nota": 6.143,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787937,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773331,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Cash",
+  "dataLancamento": "2023-07-06"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "a-menina-e-o-porquinho",
+  "tipo": "serie",
+  "titulo": "A Menina e o Porquinho",
+  "ano": null,
+  "descricao": "Um porquinho chamado Wilbur faz amizade com uma aranha do celeiro chamada Charlotte. Quando Wilbur descobre que está sendo criado para o abate, Charlotte escreve mensagens elogiando-o em sua teia para convencer o fazendeiro a deixá-lo viver.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/n39McSQ1mlhjitNS7ojebUY3SRu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/a8beHMNvA2rpcpdujVvtzOR9ZPU.jpg",
+  "tmdbId": 205192,
+  "nota": 6.6,
+  "xtreamSeriesId": 30,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10792702",
+          "tipo": "episodio",
+          "titulo": "A Menina e o Porquinho S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10792702",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n39McSQ1mlhjitNS7ojebUY3SRu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792703",
+          "tipo": "episodio",
+          "titulo": "A Menina e o Porquinho S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10792703",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n39McSQ1mlhjitNS7ojebUY3SRu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792704",
+          "tipo": "episodio",
+          "titulo": "A Menina e o Porquinho S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10792704",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n39McSQ1mlhjitNS7ojebUY3SRu.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "E.B. White's Charlotte's Web",
+  "dataLancamento": "2025-10-02"
+}

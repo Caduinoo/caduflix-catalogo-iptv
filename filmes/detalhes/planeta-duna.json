@@ -1,0 +1,34 @@
+{
+  "id": "planeta-duna",
+  "tipo": "filme",
+  "titulo": "Planeta Duna",
+  "ano": null,
+  "descricao": "Uma missão para resgatar uma base isolada em um planeta deserto torna-se mortal quando a tripulação se vê caçada vermes da areia gigantes.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7MRtUoNmVvwE5NNOFo5YdRTPIx3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3BBwgGaZmM8KqEdCqovoTwLQHBY.jpg",
+  "tmdbId": 881460,
+  "nota": 5.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789070,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781299,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Planet Dune",
+  "dataLancamento": "2021-10-29"
+}

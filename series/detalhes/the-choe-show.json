@@ -1,0 +1,75 @@
+{
+  "id": "the-choe-show",
+  "tipo": "serie",
+  "titulo": "The Choe Show",
+  "ano": null,
+  "descricao": "O artista internacional renomado David Choe transforma sua visão do mundo excêntrica, compassiva e perturbadora em uma lente para o público provar sentir empatia por outras pessoas. Através da arte e brincadeira, David Choe leva seus convidados em uma jornada emocional.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/imn7l8Y8sXXZba2w1G4tB9AwoLh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rcKC8BbA5stDMgaDCUERZNh59of.jpg",
+  "tmdbId": 127393,
+  "nota": 5.2,
+  "xtreamSeriesId": 996,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10816382",
+          "tipo": "episodio",
+          "titulo": "The Choe Show S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10816382",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/imn7l8Y8sXXZba2w1G4tB9AwoLh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816383",
+          "tipo": "episodio",
+          "titulo": "The Choe Show S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10816383",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/imn7l8Y8sXXZba2w1G4tB9AwoLh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816384",
+          "tipo": "episodio",
+          "titulo": "The Choe Show S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10816384",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/imn7l8Y8sXXZba2w1G4tB9AwoLh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816385",
+          "tipo": "episodio",
+          "titulo": "The Choe Show S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10816385",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/imn7l8Y8sXXZba2w1G4tB9AwoLh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "The Choe Show",
+  "dataLancamento": "2021-06-25"
+}

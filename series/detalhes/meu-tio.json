@@ -1,0 +1,99 @@
+{
+  "id": "meu-tio",
+  "tipo": "serie",
+  "titulo": "Meu Tio",
+  "ano": null,
+  "descricao": "Um músico amador sem maturidade emocional nega-se a cuidar do seu pequeno sobrinho. Apesar de Andy resistir, outras emoções começam a surgir. Porém, isso poderia ser uma mudança positiva para Andy; ele poderia melhorar, tornar-se uma pessoa mais completa.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zTzKhiyo9p1aHBl8PGSCfGL4vrY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5hXn70jlkIunjk8qddY26m9ieUn.jpg",
+  "tmdbId": 195623,
+  "nota": 7.5,
+  "xtreamSeriesId": 418,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10801234",
+          "tipo": "episodio",
+          "titulo": "Meu Tio S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10801234",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zTzKhiyo9p1aHBl8PGSCfGL4vrY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10801235",
+          "tipo": "episodio",
+          "titulo": "Meu Tio S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10801235",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zTzKhiyo9p1aHBl8PGSCfGL4vrY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10801236",
+          "tipo": "episodio",
+          "titulo": "Meu Tio S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10801236",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zTzKhiyo9p1aHBl8PGSCfGL4vrY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10801237",
+          "tipo": "episodio",
+          "titulo": "Meu Tio S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10801237",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zTzKhiyo9p1aHBl8PGSCfGL4vrY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10801238",
+          "tipo": "episodio",
+          "titulo": "Meu Tio S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10801238",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zTzKhiyo9p1aHBl8PGSCfGL4vrY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10801239",
+          "tipo": "episodio",
+          "titulo": "Meu Tio S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10801239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zTzKhiyo9p1aHBl8PGSCfGL4vrY.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Mi tío",
+  "dataLancamento": "2022-03-25"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-noite-antes-do-natal",
+  "tipo": "filme",
+  "titulo": "A Noite Antes do Natal",
+  "ano": null,
+  "descricao": "Uma ex-atriz assume a direção de uma peça de Natal que investiga a verdadeira autoria de um famoso poema natalino.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/r8pITK3uJdfBgQGiHNwiLpBcB7R.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7sXnIzZ256XwAicYw5js2KCHG4k.jpg",
+  "tmdbId": 1028547,
+  "nota": 6.157,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783677,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778647,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "'Twas the Night Before Christmas",
+  "dataLancamento": "2022-12-17"
+}

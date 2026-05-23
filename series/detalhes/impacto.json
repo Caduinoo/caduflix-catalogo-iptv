@@ -1,0 +1,39 @@
+{
+  "id": "impacto",
+  "tipo": "serie",
+  "titulo": "Impacto",
+  "ano": null,
+  "descricao": "Um grupo de cientistas descobre que um meteorito gigante se aproxima da Terra e que sua aproximação irá causar uma série de destruições.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mabPj6jZuTEbdhPtPPJFNrrGlw5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qfR4wMsqkBUu4LLtiQvtqAgL7zQ.jpg",
+  "tmdbId": 31756,
+  "nota": 5.917,
+  "xtreamSeriesId": 6050,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10979361",
+          "tipo": "episodio",
+          "titulo": "Impacto S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10979361",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mabPj6jZuTEbdhPtPPJFNrrGlw5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "Impact",
+  "dataLancamento": "2009-02-14"
+}

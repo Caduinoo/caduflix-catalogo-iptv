@@ -1,0 +1,34 @@
+{
+  "id": "segredos-entre-amigos",
+  "tipo": "filme",
+  "titulo": "Segredos Entre Amigos",
+  "ano": null,
+  "descricao": "Após anos sem se verem, um grupo de amigos se reúne para celebrarem juntos o Dia de Nossa Senhora do Carmo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9T6T6fc5STsosZdaue8gBz8C2RW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AaWHE65QmrB17yQuavPnWJA9TIW.jpg",
+  "tmdbId": 943001,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789643,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773789,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Nosaltres no ens matarem amb pistoles",
+  "dataLancamento": "2022-06-17"
+}

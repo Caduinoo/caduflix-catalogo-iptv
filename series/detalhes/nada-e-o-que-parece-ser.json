@@ -1,0 +1,99 @@
+{
+  "id": "nada-e-o-que-parece-ser",
+  "tipo": "serie",
+  "titulo": "Nada é o que Parece Ser",
+  "ano": null,
+  "descricao": "O mundo de uma jovem de 17 anos vira de pernas para o ar depois que ela e os amigos descobrem a verdade perturbadora sobre sua pacata cidade dinamarquesa.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3onGscw9QpSe3YsqQDU5HJwAIEv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3xQ3m09VfF4aGrQEFjdQzulf64K.jpg",
+  "tmdbId": 51001,
+  "nota": 6.04,
+  "xtreamSeriesId": 4846,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915279",
+          "tipo": "episodio",
+          "titulo": "Nada é o que Parece Ser S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915279",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3onGscw9QpSe3YsqQDU5HJwAIEv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915280",
+          "tipo": "episodio",
+          "titulo": "Nada é o que Parece Ser S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915280",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3onGscw9QpSe3YsqQDU5HJwAIEv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915281",
+          "tipo": "episodio",
+          "titulo": "Nada é o que Parece Ser S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915281",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3onGscw9QpSe3YsqQDU5HJwAIEv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915282",
+          "tipo": "episodio",
+          "titulo": "Nada é o que Parece Ser S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10915282",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3onGscw9QpSe3YsqQDU5HJwAIEv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915283",
+          "tipo": "episodio",
+          "titulo": "Nada é o que Parece Ser S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10915283",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3onGscw9QpSe3YsqQDU5HJwAIEv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915284",
+          "tipo": "episodio",
+          "titulo": "Nada é o que Parece Ser S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10915284",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3onGscw9QpSe3YsqQDU5HJwAIEv.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Chosen",
+  "dataLancamento": "2022-01-27"
+}

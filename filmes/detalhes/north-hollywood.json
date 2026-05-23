@@ -1,0 +1,34 @@
+{
+  "id": "north-hollywood",
+  "tipo": "filme",
+  "titulo": "North Hollywood",
+  "ano": null,
+  "descricao": "Produzido por Pharrell Williams. Acabando a escola, um jovem precisa decidir entre o sonho de tornar-se skatista profissional ou ir para faculdade como seu pai deseja.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5P4I4mDbwV9sFXqf32n70SdFiPl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yAk1PpHMG6BY6ABlpWAXPyKZDmy.jpg",
+  "tmdbId": 681355,
+  "nota": 5.304,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787738,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775969,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "North Hollywood",
+  "dataLancamento": "2021-03-26"
+}

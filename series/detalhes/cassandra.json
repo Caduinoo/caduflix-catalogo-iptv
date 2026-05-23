@@ -1,0 +1,99 @@
+{
+  "id": "cassandra",
+  "tipo": "serie",
+  "titulo": "Cassandra",
+  "ano": null,
+  "descricao": "Uma família se muda para uma casa inteligente antiga e descobre que ela é controlada por uma assistente virtual que faz de tudo para mantê-los lá.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4GAmr9BWRfVjZ3GAntm7yjVf82i.jpg",
+  "tmdbId": 248982,
+  "nota": 7.104,
+  "xtreamSeriesId": 4253,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904353",
+          "tipo": "episodio",
+          "titulo": "Cassandra S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904353",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904354",
+          "tipo": "episodio",
+          "titulo": "Cassandra S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904354",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904355",
+          "tipo": "episodio",
+          "titulo": "Cassandra S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904355",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904356",
+          "tipo": "episodio",
+          "titulo": "Cassandra S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904356",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904357",
+          "tipo": "episodio",
+          "titulo": "Cassandra S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10904357",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904358",
+          "tipo": "episodio",
+          "titulo": "Cassandra S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10904358",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Cassandra",
+  "dataLancamento": "2025-02-06"
+}

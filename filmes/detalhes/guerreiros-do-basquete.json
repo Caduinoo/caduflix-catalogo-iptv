@@ -1,0 +1,34 @@
+{
+  "id": "guerreiros-do-basquete",
+  "tipo": "filme",
+  "titulo": "Guerreiros do Basquete",
+  "ano": null,
+  "descricao": "Depois de perder seu astro, um time de basquete juvenil composto por nativos norte-americanos precisa se unir para manter vivo o sonho de vencer o campeonato.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rzN1OLd05lZqr3gqCz8EAEYE7SO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gPok6BQpPvPHqcvga60Lq40UwGl.jpg",
+  "tmdbId": 858414,
+  "nota": 6.42,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786309,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775543,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Rez Ball",
+  "dataLancamento": "2024-09-08"
+}

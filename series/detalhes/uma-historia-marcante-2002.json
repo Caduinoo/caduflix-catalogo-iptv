@@ -1,0 +1,61 @@
+{
+  "id": "uma-historia-marcante-2002",
+  "tipo": "serie",
+  "titulo": "Uma Historia Marcante",
+  "ano": 2002,
+  "descricao": "A série documental relembra o histórico título do Santos Futebol Clube no Campeonato Brasileiro de 2002 com entrevistas com os principais envolvidos na conquista e imagens marcantes da campanha do Peixe.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQIYwcD3ZPbH4CwHarHJ1BdAfMJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8taFzXzAX28tPYsEvP568n83UX8.jpg",
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 2822,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10862507",
+          "tipo": "episodio",
+          "titulo": "2002 Uma Historia Marcante S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10862507",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rQIYwcD3ZPbH4CwHarHJ1BdAfMJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862508",
+          "tipo": "episodio",
+          "titulo": "2002 Uma Historia Marcante S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10862508",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rQIYwcD3ZPbH4CwHarHJ1BdAfMJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862509",
+          "tipo": "episodio",
+          "titulo": "2002 Uma Historia Marcante S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10862509",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rQIYwcD3ZPbH4CwHarHJ1BdAfMJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3
+}

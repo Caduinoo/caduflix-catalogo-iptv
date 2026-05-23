@@ -1,0 +1,26 @@
+{
+  "id": "first-shift",
+  "tipo": "filme",
+  "titulo": "Dose Dupla",
+  "ano": null,
+  "descricao": "Acompanha um agente da polícia de Nova Iorque e a sua parceira novata, Angela, num dia difícil em que vivem o trabalho perigoso e rotineiro de ser agente na cidade.",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gvWk6HFzZxULDuG8BI16RvbJ3g8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xRr7mnOJ39bZtCRmVefrm3sBxX4.jpg",
+  "tmdbId": 1090007,
+  "nota": 5.579,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786021,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "First Shift",
+  "dataLancamento": "2024-08-30"
+}

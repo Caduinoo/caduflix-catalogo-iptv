@@ -1,0 +1,75 @@
+{
+  "id": "os-quatro-da-candelaria",
+  "tipo": "serie",
+  "titulo": "Os Quatro da Candelária",
+  "ano": null,
+  "descricao": "Enquanto tentam sobreviver nas ruas, quatro amigos buscam apoio uns nos outros e sonham com um futuro melhor. Até que uma tragédia acontece.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6VTWJnoWFFSOF8EdP9PvhShNj6N.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sz1di6yDbcXA7gme1fGl3499NnX.jpg",
+  "tmdbId": 272730,
+  "nota": 6.5,
+  "xtreamSeriesId": 5055,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10919246",
+          "tipo": "episodio",
+          "titulo": "Os Quatro da Candelaria S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10919246",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6VTWJnoWFFSOF8EdP9PvhShNj6N.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919247",
+          "tipo": "episodio",
+          "titulo": "Os Quatro da Candelaria S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10919247",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6VTWJnoWFFSOF8EdP9PvhShNj6N.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919248",
+          "tipo": "episodio",
+          "titulo": "Os Quatro da Candelaria S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10919248",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6VTWJnoWFFSOF8EdP9PvhShNj6N.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919249",
+          "tipo": "episodio",
+          "titulo": "Os Quatro da Candelaria S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10919249",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6VTWJnoWFFSOF8EdP9PvhShNj6N.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Os Quatro da Candelária",
+  "dataLancamento": "2024-10-30"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ama-me",
+  "tipo": "filme",
+  "titulo": "No me ama",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2Y2DDjZFtoOVr4xWCo1k44SeIDd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cC1HM4HEjHbSIDv6Ul36Nwxamz8.jpg",
+  "tmdbId": 344151,
+  "nota": 8.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784058,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774808,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "No me ama",
+  "dataLancamento": "2010-12-10"
+}

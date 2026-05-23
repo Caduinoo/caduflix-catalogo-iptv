@@ -1,0 +1,75 @@
+{
+  "id": "beckham-salve-nosso-time",
+  "tipo": "serie",
+  "titulo": "Beckham: Salve Nosso Time",
+  "ano": null,
+  "descricao": "David Beckham está voltando para casa. Ao longo de uma temporada, David se junta ao time Westward Boys, um time da Echo Premier League, a liga em que começou sua carreira. O Westward não venceu nenhum jogo da temporada e a ameaça de rebaixamento é grande. David tem uma tarefa difícil pela frente.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9VAWvuIMBXbBTu2m7oGP9ujvrdc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bxtN2d7dYEYj59gllOcTQhvdLUm.jpg",
+  "tmdbId": 204667,
+  "nota": 6.9,
+  "xtreamSeriesId": 1702,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10835597",
+          "tipo": "episodio",
+          "titulo": "Beckham Salve Nosso Time S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10835597",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9VAWvuIMBXbBTu2m7oGP9ujvrdc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835598",
+          "tipo": "episodio",
+          "titulo": "Beckham Salve Nosso Time S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10835598",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9VAWvuIMBXbBTu2m7oGP9ujvrdc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835599",
+          "tipo": "episodio",
+          "titulo": "Beckham Salve Nosso Time S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10835599",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9VAWvuIMBXbBTu2m7oGP9ujvrdc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835600",
+          "tipo": "episodio",
+          "titulo": "Beckham Salve Nosso Time S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10835600",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9VAWvuIMBXbBTu2m7oGP9ujvrdc.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Save Our Squad with David Beckham",
+  "dataLancamento": "2022-11-09"
+}

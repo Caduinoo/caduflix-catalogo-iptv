@@ -1,0 +1,42 @@
+{
+  "id": "smurfs",
+  "tipo": "filme",
+  "titulo": "Smurfs",
+  "ano": null,
+  "descricao": "Quando o Papai Smurf é misteriosamente levado pelos feiticeiros do mal, Razamel e Gargamel, Smurfette lidera os Smurfs em uma missão no mundo real para salvá-lo. Com a ajuda de novos amigos, os Smurfs precisam descobrir o que define seu destino para salvar o universo.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cUCvHtgwa0qtOmFqVlG6sWFc9sJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
+  "tmdbId": 936108,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789795,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771782,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782951,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Smurfs",
+  "dataLancamento": "2025-06-30"
+}

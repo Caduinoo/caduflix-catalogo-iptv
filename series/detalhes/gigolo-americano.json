@@ -1,0 +1,123 @@
+{
+  "id": "gigolo-americano",
+  "tipo": "serie",
+  "titulo": "Gigolô Americano",
+  "ano": null,
+  "descricao": "Libertado após quinze anos de prisão por um assassinato que não cometeu, o ex-gigolô Julian Kaye enfrenta o desafio de se reerguer enquanto o detetive que o colocou atrás das grades tenta desvendar o mistério que o levou à prisão.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6r9GIhaf20cG8ndJp9jdtxsBTuX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yYPFzdQdRzeidwl3llxFFOKyNwe.jpg",
+  "tmdbId": 127585,
+  "nota": 6.818,
+  "xtreamSeriesId": 6545,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10995775",
+          "tipo": "episodio",
+          "titulo": "Gigolô Americano S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10995775",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6r9GIhaf20cG8ndJp9jdtxsBTuX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995776",
+          "tipo": "episodio",
+          "titulo": "Gigolô Americano S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10995776",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6r9GIhaf20cG8ndJp9jdtxsBTuX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995777",
+          "tipo": "episodio",
+          "titulo": "Gigolô Americano S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10995777",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6r9GIhaf20cG8ndJp9jdtxsBTuX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995778",
+          "tipo": "episodio",
+          "titulo": "Gigolô Americano S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10995778",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6r9GIhaf20cG8ndJp9jdtxsBTuX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995779",
+          "tipo": "episodio",
+          "titulo": "Gigolô Americano S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10995779",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6r9GIhaf20cG8ndJp9jdtxsBTuX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995780",
+          "tipo": "episodio",
+          "titulo": "Gigolô Americano S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10995780",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6r9GIhaf20cG8ndJp9jdtxsBTuX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995781",
+          "tipo": "episodio",
+          "titulo": "Gigolô Americano S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10995781",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6r9GIhaf20cG8ndJp9jdtxsBTuX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995782",
+          "tipo": "episodio",
+          "titulo": "Gigolô Americano S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10995782",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6r9GIhaf20cG8ndJp9jdtxsBTuX.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "American Gigolo",
+  "dataLancamento": "2022-09-11"
+}

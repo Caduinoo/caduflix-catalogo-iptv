@@ -1,0 +1,34 @@
+{
+  "id": "borrego",
+  "tipo": "filme",
+  "titulo": "Borrego: Saia do Caminho",
+  "ano": null,
+  "descricao": "Borrego segue uma jovem botânica que se muda para uma pequena cidade no deserto para estudar uma espécie de planta invasora. Ela deve lutar por sua sobrevivência quando é sequestrada por uma mula de drogas inexperiente após seu avião ultraleve cair no deserto.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iNSa1kwVsOsfAHwopMLM7PnrDhU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nGpSo9gDtHOM9lpFCqOD3rjbhd9.jpg",
+  "tmdbId": 728366,
+  "nota": 5.948,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784691,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779635,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Borrego",
+  "dataLancamento": "2022-01-14"
+}

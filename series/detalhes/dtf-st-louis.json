@@ -1,0 +1,111 @@
+{
+  "id": "dtf-st-louis",
+  "tipo": "serie",
+  "titulo": "DTF St. Louis",
+  "ano": null,
+  "descricao": "David Harbour e Jason Bateman estrelam esta minissérie de humor ácido, em que dois amigos em plena crise de meia-idade se envolvem em um inesperado triângulo amoroso que termina com a morte de um deles.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8mO4cYZI1X8sanR4u6f07FiQ8dC.jpg",
+  "tmdbId": 206828,
+  "nota": 6.607,
+  "xtreamSeriesId": 7081,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016611",
+          "tipo": "episodio",
+          "titulo": "DTF St Louis S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016611",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016612",
+          "tipo": "episodio",
+          "titulo": "DTF St Louis S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016612",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039800",
+          "tipo": "episodio",
+          "titulo": "DTF St Louis - S01E03 - O Ambicioso",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11039800",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w1280/nLtrw2JciYcyqTkLK7F7JQXyc7N.jpg",
+          "duracao": "00:48:20",
+          "descricao": "A detetive Plumb suspeita que Carol esteja escondendo detalhes-chave sobre o caso. Depois, Clark revela mais sobre sua amizade com Floyd."
+        },
+        {
+          "id": "ep-11032054",
+          "tipo": "episodio",
+          "titulo": "DTF St Louis S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11032054",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11033722",
+          "tipo": "episodio",
+          "titulo": "DTF St Louis S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11033722",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+          "duracao": "00:46:57",
+          "descricao": ""
+        },
+        {
+          "id": "ep-11034823",
+          "tipo": "episodio",
+          "titulo": "DTF St Louis S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11034823",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+          "duracao": "00:48:46",
+          "descricao": ""
+        },
+        {
+          "id": "ep-11035662",
+          "tipo": "episodio",
+          "titulo": "DTF St Louis S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11035662",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+          "duracao": "00:55:52",
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "DTF St. Louis",
+  "dataLancamento": "2026-03-01"
+}

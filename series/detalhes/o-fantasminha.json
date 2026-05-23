@@ -1,0 +1,63 @@
+{
+  "id": "o-fantasminha",
+  "tipo": "serie",
+  "titulo": "Pluft, o Fantasminha",
+  "ano": null,
+  "descricao": "A história do rapto de Maribel pelo malvado Pirata da Perna de Pau. Escondida no sótão de uma velha casa, ela conhece uma família de fantasmas e faz amizade com Pluft, um fantasminha que tem medo de gente.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgWknDZhuLNB6S28CcPZA77vLz2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iRWPSGIDb03XN7ftx6qqLJ6Ite9.jpg",
+  "tmdbId": 228269,
+  "nota": null,
+  "xtreamSeriesId": 3142,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10875379",
+          "tipo": "episodio",
+          "titulo": "o Fantasminha S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10875379",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mgWknDZhuLNB6S28CcPZA77vLz2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875380",
+          "tipo": "episodio",
+          "titulo": "o Fantasminha S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10875380",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mgWknDZhuLNB6S28CcPZA77vLz2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875381",
+          "tipo": "episodio",
+          "titulo": "o Fantasminha S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10875381",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mgWknDZhuLNB6S28CcPZA77vLz2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Pluft, o Fantasminha",
+  "dataLancamento": "1975-04-01"
+}

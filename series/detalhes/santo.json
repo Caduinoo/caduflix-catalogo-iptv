@@ -1,0 +1,99 @@
+{
+  "id": "santo",
+  "tipo": "serie",
+  "titulo": "Santo Bugito",
+  "ano": null,
+  "descricao": "Dois policiais em diferentes continentes se unem em uma perseguição desenfreada para capturar um traficante de drogas internacional, cujo rosto ninguém conhece.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/luwuvm9xO6R4QaWuhVNEamUmBci.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/twybTlqm4v7JKjkxktZqmffGT8k.jpg",
+  "tmdbId": 10024,
+  "nota": 7,
+  "xtreamSeriesId": 5202,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10922148",
+          "tipo": "episodio",
+          "titulo": "Santo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10922148",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVMyt9nXneQwqTAKNjQ500OslSn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922149",
+          "tipo": "episodio",
+          "titulo": "Santo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10922149",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVMyt9nXneQwqTAKNjQ500OslSn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922150",
+          "tipo": "episodio",
+          "titulo": "Santo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10922150",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVMyt9nXneQwqTAKNjQ500OslSn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922151",
+          "tipo": "episodio",
+          "titulo": "Santo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10922151",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVMyt9nXneQwqTAKNjQ500OslSn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922152",
+          "tipo": "episodio",
+          "titulo": "Santo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10922152",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVMyt9nXneQwqTAKNjQ500OslSn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922153",
+          "tipo": "episodio",
+          "titulo": "Santo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10922153",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVMyt9nXneQwqTAKNjQ500OslSn.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Santo Bugito",
+  "dataLancamento": "1995-01-01"
+}

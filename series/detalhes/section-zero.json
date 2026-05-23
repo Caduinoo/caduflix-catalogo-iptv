@@ -1,0 +1,111 @@
+{
+  "id": "section-zero",
+  "tipo": "serie",
+  "titulo": "Section Zéro",
+  "ano": null,
+  "descricao": "No futuro, as empresas multinacionais são líderes na Europa. Uma das mais poderosas, a Prometheus, quer garantir o domínio, substituindo a força policial por sua milícia privada, o Esquadrão Negro.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oGXfKyYzh7IZO6bS5LIifQ0Sa0P.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vVUOqIY51E5bfqlW5Mt1uutFZs1.jpg",
+  "tmdbId": 66147,
+  "nota": 6.3,
+  "xtreamSeriesId": 609,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10806348",
+          "tipo": "episodio",
+          "titulo": "Section Zero S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10806348",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGXfKyYzh7IZO6bS5LIifQ0Sa0P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806349",
+          "tipo": "episodio",
+          "titulo": "Section Zero S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10806349",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGXfKyYzh7IZO6bS5LIifQ0Sa0P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806350",
+          "tipo": "episodio",
+          "titulo": "Section Zero S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10806350",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGXfKyYzh7IZO6bS5LIifQ0Sa0P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806351",
+          "tipo": "episodio",
+          "titulo": "Section Zero S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10806351",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGXfKyYzh7IZO6bS5LIifQ0Sa0P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806352",
+          "tipo": "episodio",
+          "titulo": "Section Zero S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10806352",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGXfKyYzh7IZO6bS5LIifQ0Sa0P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806353",
+          "tipo": "episodio",
+          "titulo": "Section Zero S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10806353",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGXfKyYzh7IZO6bS5LIifQ0Sa0P.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806354",
+          "tipo": "episodio",
+          "titulo": "Section Zero S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10806354",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oGXfKyYzh7IZO6bS5LIifQ0Sa0P.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Section Zéro",
+  "dataLancamento": "2016-04-04"
+}

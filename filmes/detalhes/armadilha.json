@@ -1,0 +1,42 @@
+{
+  "id": "armadilha",
+  "tipo": "filme",
+  "titulo": "Armadilha",
+  "ano": null,
+  "descricao": "Um pai e sua filha adolescente assistem a um badalado show de música pop, quando percebem que estão no epicentro de um evento sombrio e sinistro.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fskXjlVKppUtAgbfqt4wIsNkCaI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dCgrFY6uTqhEpyhe8MzP1oExyLt.jpg",
+  "tmdbId": 1032823,
+  "nota": 6.236,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784279,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779064,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782074,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Trap",
+  "dataLancamento": "2024-07-31"
+}

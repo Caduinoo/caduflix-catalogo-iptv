@@ -1,0 +1,34 @@
+{
+  "id": "presente-amaldicoado",
+  "tipo": "filme",
+  "titulo": "Presente Amaldiçoado",
+  "ano": null,
+  "descricao": "Eva era dançarina, mas devido a um acidente ficou paraplégica. Para seu aniversário, Sophie dá a ela um estranho calendário do Advento. Ele vem com algumas regras simples, que é melhor não serem quebradas.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/23uSJrE1MlFgFBhLZGqBPRLpGPp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sxmazOtNWi6IiZ1QqG0wkliHzgA.jpg",
+  "tmdbId": 762079,
+  "nota": 6.688,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789150,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781329,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Le Calendrier",
+  "dataLancamento": "2021-12-01"
+}

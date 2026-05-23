@@ -1,0 +1,123 @@
+{
+  "id": "o-circo-da-paixao",
+  "tipo": "serie",
+  "titulo": "O Circo da Paixão",
+  "ano": null,
+  "descricao": "Ambientado na Espanha dos anos 1980, este filme narra a tumultuosa história de amor entre a estrela de cinema Bárbara Rey e o artista de circo Ángel Cristo.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7mjLn1o3UfNOSJ5vM6cfwzYFFVF.jpg",
+  "tmdbId": 209725,
+  "nota": 6.1,
+  "xtreamSeriesId": 4916,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10916073",
+          "tipo": "episodio",
+          "titulo": "O Circo da Paixao S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10916073",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916074",
+          "tipo": "episodio",
+          "titulo": "O Circo da Paixao S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10916074",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916075",
+          "tipo": "episodio",
+          "titulo": "O Circo da Paixao S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10916075",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916076",
+          "tipo": "episodio",
+          "titulo": "O Circo da Paixao S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10916076",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916077",
+          "tipo": "episodio",
+          "titulo": "O Circo da Paixao S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10916077",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916078",
+          "tipo": "episodio",
+          "titulo": "O Circo da Paixao S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10916078",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916079",
+          "tipo": "episodio",
+          "titulo": "O Circo da Paixao S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10916079",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916080",
+          "tipo": "episodio",
+          "titulo": "O Circo da Paixao S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10916080",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Cristo y Rey",
+  "dataLancamento": "2023-01-15"
+}

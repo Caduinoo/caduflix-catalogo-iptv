@@ -1,0 +1,42 @@
+{
+  "id": "cigarros-mortais",
+  "tipo": "filme",
+  "titulo": "Cigarros Mortais",
+  "ano": null,
+  "descricao": "Jasmin Flores consegue um novo emprego vendendo cigarros em Nova York. Mas o que ela não sabe é que esses cigarros foram adulterados e dão início a uma onda de caos e morte pelas ruas da cidade.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vFO43OAqQLP1ojSLZzQUpB01GGD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4H664RIR8EJy8qpjtMRGzXOyVDX.jpg",
+  "tmdbId": 1314912,
+  "nota": 4.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038956,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038986,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049973,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "The Cigarette",
+  "dataLancamento": "2024-07-09"
+}

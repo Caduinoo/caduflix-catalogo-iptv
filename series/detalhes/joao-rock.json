@@ -1,0 +1,108 @@
+{
+  "id": "joao-rock",
+  "tipo": "serie",
+  "titulo": "Joao Rock",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 6075,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10980049",
+          "tipo": "episodio",
+          "titulo": "Joao Rock S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10980049",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rHfBpekt1kF4KQz1ymYi1wkFQpN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10980050",
+          "tipo": "episodio",
+          "titulo": "Joao Rock S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10980050",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rHfBpekt1kF4KQz1ymYi1wkFQpN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10980051",
+          "tipo": "episodio",
+          "titulo": "Joao Rock S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10980051",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rHfBpekt1kF4KQz1ymYi1wkFQpN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10980052",
+          "tipo": "episodio",
+          "titulo": "Joao Rock S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10980052",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rHfBpekt1kF4KQz1ymYi1wkFQpN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10980053",
+          "tipo": "episodio",
+          "titulo": "Joao Rock S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10980053",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rHfBpekt1kF4KQz1ymYi1wkFQpN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10980054",
+          "tipo": "episodio",
+          "titulo": "Joao Rock S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10980054",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rHfBpekt1kF4KQz1ymYi1wkFQpN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10980055",
+          "tipo": "episodio",
+          "titulo": "Joao Rock S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10980055",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rHfBpekt1kF4KQz1ymYi1wkFQpN.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7
+}

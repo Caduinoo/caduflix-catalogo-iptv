@@ -1,0 +1,34 @@
+{
+  "id": "dead-kids",
+  "tipo": "filme",
+  "titulo": "Dead Kids",
+  "ano": null,
+  "descricao": "Um grupo de estudantes conspiram para sequestrar um colega de classe, pedindo dinheiro em resgate.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tIBEsnzhz5NE1KTzwyvJlFIGEhg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/912nxaCkl5aAMoZMOtPGy3LPC2W.jpg",
+  "tmdbId": 625248,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785318,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769585,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Dead Kids",
+  "dataLancamento": "2019-11-17"
+}

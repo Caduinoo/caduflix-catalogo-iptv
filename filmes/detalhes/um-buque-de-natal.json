@@ -1,0 +1,34 @@
+{
+  "id": "um-buque-de-natal",
+  "tipo": "filme",
+  "titulo": "Um Buquê de Natal",
+  "ano": null,
+  "descricao": "Às vésperas do Natal, uma mulher que planeja casamentos em Nova York precisa viajar em busca de uma flor para conseguir uma promoção. Mesmo desesperada, ela conhece Matt, que acaba mexendo com suas prioridades.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/14YhALby42jtkumLFcr6payQvko.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1kcXrF7ozXM9N5TssTpAbCZfBQ.jpg",
+  "tmdbId": 737763,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790552,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778789,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Jingle Bell Bride",
+  "dataLancamento": "2020-10-24"
+}

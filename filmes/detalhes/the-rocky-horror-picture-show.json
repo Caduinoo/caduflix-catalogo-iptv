@@ -1,0 +1,34 @@
+{
+  "id": "the-rocky-horror-picture-show",
+  "tipo": "filme",
+  "titulo": "The Rocky Horror Picture Show",
+  "ano": null,
+  "descricao": "Um casal de noivos se vê obrigado, em virtude de um problema com o carro, a irem a um estranho castelo pedirem auxílio, sem saberem que ele é habitado por alienígenas de um outro planeta e que o anfitrião, exatamente naquela noite, vai ver uma criatura criada por ele apenas para lhe dar prazer.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kamLDqtDJWCSqyPATb3b2kVIXeh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
+  "tmdbId": 36685,
+  "nota": 7.442,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790272,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773935,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "The Rocky Horror Picture Show",
+  "dataLancamento": "1975-08-14"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "nuremberg",
+  "tipo": "filme",
+  "titulo": "Nuremberg",
+  "ano": null,
+  "descricao": "Um psiquiatra dos Estados Unidos é designado para examinar 22 oficiais nazistas que aguardam julgamento por crimes de guerra. À medida que ele se aproxima de um de seus pacientes e tenta desvendar a essência do mal, ele se vê envolvido em uma jornada sem volta.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/saPapyxafNZxIPqYa2xm4QkaxpE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
+  "tmdbId": 1214931,
+  "nota": 7.526,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787774,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11036322,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050039,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Nuremberg",
+  "dataLancamento": "2025-11-06"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "b-o",
+  "tipo": "serie",
+  "titulo": "B.O.",
+  "ano": null,
+  "descricao": "Depois de assumir a função de delegado em um novo distrito, o tímido Suzano precisa provar seu valor para a equipe.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mWoDkCl7mbaOw8mlxOwydLNOpPP.jpg",
+  "tmdbId": 232644,
+  "nota": 7.7,
+  "xtreamSeriesId": 4132,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901986",
+          "tipo": "episodio",
+          "titulo": "B.O S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901986",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901987",
+          "tipo": "episodio",
+          "titulo": "B.O S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901987",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901988",
+          "tipo": "episodio",
+          "titulo": "B.O S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901988",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901989",
+          "tipo": "episodio",
+          "titulo": "B.O S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10901989",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901990",
+          "tipo": "episodio",
+          "titulo": "B.O S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10901990",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901991",
+          "tipo": "episodio",
+          "titulo": "B.O S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10901991",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901992",
+          "tipo": "episodio",
+          "titulo": "B.O S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10901992",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901993",
+          "tipo": "episodio",
+          "titulo": "B.O S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10901993",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "B.O.",
+  "dataLancamento": "2023-09-06"
+}

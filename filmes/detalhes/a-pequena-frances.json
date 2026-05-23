@@ -1,0 +1,34 @@
+{
+  "id": "a-pequena-frances",
+  "tipo": "filme",
+  "titulo": "A Pequena Frances",
+  "ano": null,
+  "descricao": "No início do verão, Bridget faz um aborto no momento em que consegue um emprego muito necessário na rica cidade de Evanston, Illinois - como babá de uma criança de seis anos.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wcuJNKllpXBSY5bBwdLPQhlYahu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aGZLVp1O4SWOGxJ0HeWc3vHQ5Mg.jpg",
+  "tmdbId": 576005,
+  "nota": 6.561,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783711,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772147,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Saint Frances",
+  "dataLancamento": "2020-02-28"
+}

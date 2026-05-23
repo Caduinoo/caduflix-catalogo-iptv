@@ -1,0 +1,34 @@
+{
+  "id": "starbeam-aventura-de-ano-novo",
+  "tipo": "filme",
+  "titulo": "StarBeam - Aventura de Ano-Novo",
+  "ano": null,
+  "descricao": "Os maiores vilões de Summersette unem forças no ano-novo para enfrentar Zoey e a equipe Beam. Agora, a prima descolada Zara precisa salvar o dia!",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mKsXvzNdMJ6MhqNsO45zLdnyncS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eNPdTKx6XBbhkrlue7uNNHp4boz.jpg",
+  "tmdbId": 915866,
+  "nota": 6.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789916,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771808,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "StarBeam: Beaming in the New Year",
+  "dataLancamento": "2021-12-14"
+}

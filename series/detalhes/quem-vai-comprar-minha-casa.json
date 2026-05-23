@@ -1,0 +1,99 @@
+{
+  "id": "quem-vai-comprar-minha-casa",
+  "tipo": "serie",
+  "titulo": "Quem Vai Comprar Minha Casa?",
+  "ano": null,
+  "descricao": "Pessoas de todos os cantos dos Estados Unidos tentam vender suas casas para quatro investidores imobiliários de renome. O objetivo? Fechar ali mesmo um bom acordo.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dR1km3vzmCdhM1kvZ1VCYCJEdJQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iiMWVbVox1PgHxpXEREqLBU9m30.jpg",
+  "tmdbId": 207512,
+  "nota": 7.1,
+  "xtreamSeriesId": 5131,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920895",
+          "tipo": "episodio",
+          "titulo": "Quem Vai Comprar Minha Casa S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920895",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dR1km3vzmCdhM1kvZ1VCYCJEdJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920896",
+          "tipo": "episodio",
+          "titulo": "Quem Vai Comprar Minha Casa S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920896",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dR1km3vzmCdhM1kvZ1VCYCJEdJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920897",
+          "tipo": "episodio",
+          "titulo": "Quem Vai Comprar Minha Casa S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920897",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dR1km3vzmCdhM1kvZ1VCYCJEdJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920898",
+          "tipo": "episodio",
+          "titulo": "Quem Vai Comprar Minha Casa S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920898",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dR1km3vzmCdhM1kvZ1VCYCJEdJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920899",
+          "tipo": "episodio",
+          "titulo": "Quem Vai Comprar Minha Casa S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10920899",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dR1km3vzmCdhM1kvZ1VCYCJEdJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920900",
+          "tipo": "episodio",
+          "titulo": "Quem Vai Comprar Minha Casa S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10920900",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dR1km3vzmCdhM1kvZ1VCYCJEdJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Buy My House",
+  "dataLancamento": "2022-09-02"
+}

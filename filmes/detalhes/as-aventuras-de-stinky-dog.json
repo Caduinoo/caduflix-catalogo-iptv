@@ -1,0 +1,34 @@
+{
+  "id": "as-aventuras-de-stinky-dog",
+  "tipo": "filme",
+  "titulo": "As aventuras de stinky dog",
+  "ano": null,
+  "descricao": "Era uma vez, um cão parisiense ingênuo e apaixonado chamado Stinky Dog. Com Flatycat, seu fiel companheiro de rua, Stinky Dog caminha pelas ruas de Paris com o vento em seu focinho. Não importa os desastres que cause, Stinky Dog sempre cai com as patas no chão.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bToyfmalpcAd5jZFnv8XcWu644L.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tPOUuA42rUtMkokBLHgnWcAKUny.jpg",
+  "tmdbId": 700066,
+  "nota": 6.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784304,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771092,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Chien Pourri, la vie à Paris",
+  "dataLancamento": "2020-10-07"
+}

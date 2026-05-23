@@ -1,0 +1,96 @@
+{
+  "id": "launchpad",
+  "tipo": "serie",
+  "titulo": "Launchpad",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 1887,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10841846",
+          "tipo": "episodio",
+          "titulo": "Launchpad S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10841846",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4rx8iiH86SCRkOFA68LcHzM1jCV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841847",
+          "tipo": "episodio",
+          "titulo": "Launchpad S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10841847",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4rx8iiH86SCRkOFA68LcHzM1jCV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841848",
+          "tipo": "episodio",
+          "titulo": "Launchpad S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10841848",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4rx8iiH86SCRkOFA68LcHzM1jCV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841849",
+          "tipo": "episodio",
+          "titulo": "Launchpad S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10841849",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4rx8iiH86SCRkOFA68LcHzM1jCV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841850",
+          "tipo": "episodio",
+          "titulo": "Launchpad S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10841850",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4rx8iiH86SCRkOFA68LcHzM1jCV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841851",
+          "tipo": "episodio",
+          "titulo": "Launchpad S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10841851",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4rx8iiH86SCRkOFA68LcHzM1jCV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6
+}

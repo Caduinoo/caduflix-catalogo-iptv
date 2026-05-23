@@ -1,0 +1,26 @@
+{
+  "id": "pickings",
+  "tipo": "filme",
+  "titulo": "Pickings",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/s8NQvpJMOM1iC8hiFwvR5hywxO9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/n9x2kDfHjj3wNP1d2NQZqBJUMO1.jpg",
+  "tmdbId": 457312,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789041,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Pickings",
+  "dataLancamento": "2018-03-02"
+}

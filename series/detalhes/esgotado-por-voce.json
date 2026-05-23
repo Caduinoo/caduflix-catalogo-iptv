@@ -1,0 +1,60 @@
+{
+  "id": "esgotado-por-voce",
+  "tipo": "serie",
+  "titulo": "Esgotado por Voce",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 7377,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11039062",
+          "tipo": "episodio",
+          "titulo": "Esgotado por Voce S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11039062",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7675HJ3YRvJidLnVMcxR61KhyRF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039404",
+          "tipo": "episodio",
+          "titulo": "Esgotado por Voce S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11039404",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7675HJ3YRvJidLnVMcxR61KhyRF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11041628",
+          "tipo": "episodio",
+          "titulo": "Esgotado por Voce S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11041628",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7675HJ3YRvJidLnVMcxR61KhyRF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3
+}

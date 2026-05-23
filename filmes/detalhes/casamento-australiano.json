@@ -1,0 +1,34 @@
+{
+  "id": "casamento-australiano",
+  "tipo": "filme",
+  "titulo": "Casamento Australiano",
+  "ano": null,
+  "descricao": "Lauren e Ned estão noivos, estão apaixonados e têm apenas dez dias para encontrar a mãe de Lauren, que sumiu em algum lugar no remoto extremo norte da Austrália, reunir os pais e realizar o casamento dos sonhos.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5LWuB9sNBqcz8z4U13AMxYpeNTw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/k9YH7KLY9TfaiB5vL4QAIG2cSkR.jpg",
+  "tmdbId": 499573,
+  "nota": 5.837,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784828,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772435,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Top End Wedding",
+  "dataLancamento": "2019-05-02"
+}

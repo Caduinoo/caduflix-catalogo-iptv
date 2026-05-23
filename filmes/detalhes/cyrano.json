@@ -1,0 +1,34 @@
+{
+  "id": "cyrano",
+  "tipo": "filme",
+  "titulo": "Cyrano",
+  "ano": null,
+  "descricao": "Um homem à frente de seu tempo, Cyrano de Bergerac (Peter Dinklage) deslumbra seja com jogos de palavras ferozes em um combate verbal ou com uma esgrima brilhante em um duelo. Mas, convencido de que sua aparência o torna indigno do amor de uma amiga devotada, a luminosa Roxanne (Haley Bennett), Cyrano ainda não declarou seus sentimentos por ela - e Roxanne se apaixonou, à primeira vista, por Christian (Kelvin Harrison, Jr.).",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cfDQh8STZvzXtyr1iyb4cXzkLju.jpg",
+  "tmdbId": 730047,
+  "nota": 6.336,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785215,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775179,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Cyrano",
+  "dataLancamento": "2021-12-17"
+}

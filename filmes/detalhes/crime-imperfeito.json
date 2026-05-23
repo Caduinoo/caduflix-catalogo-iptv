@@ -1,0 +1,34 @@
+{
+  "id": "crime-imperfeito",
+  "tipo": "filme",
+  "titulo": "Crime Imperfeito",
+  "ano": null,
+  "descricao": "Baseado em um crime real. Um simples roubo se torna um assassinato quando um casal de usuários de drogas em busca de uma nova vida decide roubar uma mansão. Tudo sai do controle quando descobrem que a casa não está vazia como imaginavam.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fdaGFN94V9VSfmP0AzFcRN1Sqly.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bN8IsRxmRbltneliMi7UuYAdHk.jpg",
+  "tmdbId": 917300,
+  "nota": 4.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785172,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779674,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "The Surprise Visit",
+  "dataLancamento": "2022-01-14"
+}

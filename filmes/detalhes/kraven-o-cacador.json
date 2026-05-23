@@ -1,0 +1,42 @@
+{
+  "id": "kraven-o-cacador",
+  "tipo": "filme",
+  "titulo": "Kraven: O Caçador",
+  "ano": null,
+  "descricao": "Sergei Kravinoff é um grande caçador, que toma um soro mágico que lhe dá habilidades sobre-humanas e uma vida mais longa.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
+  "tmdbId": 539972,
+  "nota": 6.438,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786843,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769981,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782507,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Kraven the Hunter",
+  "dataLancamento": "2024-12-11"
+}

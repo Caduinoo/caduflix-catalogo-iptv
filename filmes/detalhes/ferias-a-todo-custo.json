@@ -1,0 +1,34 @@
+{
+  "id": "ferias-a-todo-custo",
+  "tipo": "filme",
+  "titulo": "Férias a Todo Custo",
+  "ano": null,
+  "descricao": "Sem dinheiro, mas querendo levar sua família nas primeiras férias em anos, Frederic faz um acordo com seu amigo Jean-Luc, diretor de um resort de luxo no sul da França: um dia de trabalho por um dia grátis de folga no hotel.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/v781B5tXTizzKtzXcbmibGgWIDg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/glqz6rba1I5ERyb1OFmeGRFhufK.jpg",
+  "tmdbId": 965548,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786147,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772821,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Des vacances à tout prix",
+  "dataLancamento": "2020-05-01"
+}

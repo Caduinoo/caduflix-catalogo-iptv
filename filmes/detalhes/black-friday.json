@@ -1,0 +1,34 @@
+{
+  "id": "black-friday",
+  "tipo": "filme",
+  "titulo": "Black Friday",
+  "ano": null,
+  "descricao": "Um grupo de empregados de uma loja de brinquedos deve proteger-se mutuamente de uma horda de compradores infectados por parasitas.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vf9Ex4EwSPlwbva4ZJdljsQQOML.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pinPGZW5r9SOFNlSLugpdLwvdyD.jpg",
+  "tmdbId": 765869,
+  "nota": 4.977,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784629,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780510,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Black Friday",
+  "dataLancamento": "2021-11-19"
+}

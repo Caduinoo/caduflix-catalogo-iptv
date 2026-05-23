@@ -1,0 +1,34 @@
+{
+  "id": "vitoria",
+  "tipo": "filme",
+  "titulo": "Ana e Vitória",
+  "ano": null,
+  "descricao": "Ana e Vitória se conhecem em uma festa e decidem cantar juntas. São descobertas por um empresário carioca e chegam ao estrelato, recebendo um disco de platina. Ana está em busca do amor de sua vida e Vitória em busca de um amor livre e sem amarras. Será que conseguirão viver um grande amor?",
+  "generos": [
+    "LEGENDADOS",
+    "NACIONAIS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mp9lN79uTCiq2fQQLilzdCRWAlN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mO9tRNnniq6EQdMZpFqzcVkWvSA.jpg",
+  "tmdbId": 531122,
+  "nota": 7.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791053,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778630,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Ana e Vitória",
+  "dataLancamento": "2018-08-02"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "bebidas-apostas-e-sexo",
+  "tipo": "serie",
+  "titulo": "Bebidas, Apostas e Sexo",
+  "ano": null,
+  "descricao": "As surpreendentes histórias de origem das indústrias do álcool, sexo e tabaco nos Estados Unidos.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nbnyX6jc6a4j07tPjyKVuFVIbs1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/a4DhFIsFHNZjgY8hOwJtxKnduNr.jpg",
+  "tmdbId": 202405,
+  "nota": 7.5,
+  "xtreamSeriesId": 5830,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10972612",
+          "tipo": "episodio",
+          "titulo": "Bebidas Apostas e Sexo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10972612",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nbnyX6jc6a4j07tPjyKVuFVIbs1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972613",
+          "tipo": "episodio",
+          "titulo": "Bebidas Apostas e Sexo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10972613",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nbnyX6jc6a4j07tPjyKVuFVIbs1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972614",
+          "tipo": "episodio",
+          "titulo": "Bebidas Apostas e Sexo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10972614",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nbnyX6jc6a4j07tPjyKVuFVIbs1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "The Booze, Bets and Sex That Built America",
+  "dataLancamento": "2022-06-12"
+}

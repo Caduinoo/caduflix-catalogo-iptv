@@ -1,0 +1,75 @@
+{
+  "id": "banksters",
+  "tipo": "serie",
+  "titulo": "Banksters",
+  "ano": null,
+  "descricao": "Quando o jovem Yusuf é preso por uma série de assaltos a bancos, sua irmã tenta devolver o dinheiro e descobrir quem o traiu.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wQeq62HAOLCjza4M5ztFsDQbPYA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gvINiAkXh2s9TpYm05KmAGga6HW.jpg",
+  "tmdbId": 312073,
+  "nota": 6,
+  "xtreamSeriesId": 7056,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016300",
+          "tipo": "episodio",
+          "titulo": "Banksters S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016300",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m6wWJFDOHGTDfwucvFGpE1OfcYm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016301",
+          "tipo": "episodio",
+          "titulo": "Banksters S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016301",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m6wWJFDOHGTDfwucvFGpE1OfcYm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11022616",
+          "tipo": "episodio",
+          "titulo": "Banksters S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11022616",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m6wWJFDOHGTDfwucvFGpE1OfcYm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11033717",
+          "tipo": "episodio",
+          "titulo": "Banksters S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11033717",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m6wWJFDOHGTDfwucvFGpE1OfcYm.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Banksters",
+  "dataLancamento": "2026-02-20"
+}

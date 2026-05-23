@@ -1,0 +1,63 @@
+{
+  "id": "conversando-com-um-serial-killer-o-palhaco-assassino",
+  "tipo": "serie",
+  "titulo": "Conversando com um serial killer: o Palhaço Assassino",
+  "ano": null,
+  "descricao": "Ele circulava entre os poderosos, mas se aproveitava dos vulneráveis. Por trás da aparência alegre, havia toda a podridão de um sádico serial killer.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vRhDeXlivrQX2ZYjEmj8x1uADg2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yy2c2onYk9niBwUx9uZGYOUZTXV.jpg",
+  "tmdbId": 197248,
+  "nota": 7.421,
+  "xtreamSeriesId": 4326,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10905183",
+          "tipo": "episodio",
+          "titulo": "Conversando com um Serial Killer O Palhaço Assassino S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10905183",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vRhDeXlivrQX2ZYjEmj8x1uADg2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905184",
+          "tipo": "episodio",
+          "titulo": "Conversando com um Serial Killer O Palhaço Assassino S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10905184",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vRhDeXlivrQX2ZYjEmj8x1uADg2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905185",
+          "tipo": "episodio",
+          "titulo": "Conversando com um Serial Killer O Palhaço Assassino S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10905185",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vRhDeXlivrQX2ZYjEmj8x1uADg2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Conversations with a Killer: The John Wayne Gacy Tapes",
+  "dataLancamento": "2022-04-20"
+}

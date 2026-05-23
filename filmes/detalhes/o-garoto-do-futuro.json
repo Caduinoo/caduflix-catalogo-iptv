@@ -1,0 +1,34 @@
+{
+  "id": "o-garoto-do-futuro",
+  "tipo": "filme",
+  "titulo": "O Garoto do Futuro",
+  "ano": null,
+  "descricao": "Comédia fantasiosa que traz Michael J. Fox como o adolescente que vem de uma família de lobisomem. Primeiro, ele esconde o segredo de todos, mas depois torna-se o garoto mais popular da escola.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3XByXLTKeS9d26mzoMpGujIXbch.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d1RYJQcljAlSOwTizaGS3oWnPEk.jpg",
+  "tmdbId": 11824,
+  "nota": 6.211,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788123,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781866,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Teen Wolf",
+  "dataLancamento": "1985-08-23"
+}

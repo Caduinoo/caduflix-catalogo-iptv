@@ -1,0 +1,34 @@
+{
+  "id": "um-mundo-selvagem",
+  "tipo": "filme",
+  "titulo": "Um Mundo Selvagem",
+  "ano": null,
+  "descricao": "Um jovem garoto em um mundo pós-apocalíptico faz amizade com uma mãe enlutada que está rastreando o paradeiro de sua filha. A jornada os leva cara a cara com um déspota que mantém sua filha em cativeiro.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ptRyey5UVzK9LMYEPDapnI9lvkK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dAikF3XoiyE3Z7fhzjbFsGp2UmN.jpg",
+  "tmdbId": 680295,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790654,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776986,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "A Feral World",
+  "dataLancamento": "2020-09-22"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "reis-do-crime",
+  "tipo": "serie",
+  "titulo": "Reis do Crime",
+  "ano": null,
+  "descricao": "As trajetórias de alguns dos nomes mais famosos do mundo do crime, e um olhar sobre como eles começaram como bandidos desconhecidos e se transformaram em reis do crime mundialmente notórios.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gxEdHGBqaM3kL35AmEAhbfwaE6n.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2nME9zkq24SGwbb6yJmkV2bNJk.jpg",
+  "tmdbId": 78307,
+  "nota": 8,
+  "xtreamSeriesId": 1576,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10832306",
+          "tipo": "episodio",
+          "titulo": "Reis do Crime S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10832306",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gxEdHGBqaM3kL35AmEAhbfwaE6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832307",
+          "tipo": "episodio",
+          "titulo": "Reis do Crime S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10832307",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gxEdHGBqaM3kL35AmEAhbfwaE6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832308",
+          "tipo": "episodio",
+          "titulo": "Reis do Crime S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10832308",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gxEdHGBqaM3kL35AmEAhbfwaE6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832309",
+          "tipo": "episodio",
+          "titulo": "Reis do Crime S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10832309",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gxEdHGBqaM3kL35AmEAhbfwaE6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Kingpin",
+  "dataLancamento": "2018-03-11"
+}

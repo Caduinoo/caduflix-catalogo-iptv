@@ -1,0 +1,34 @@
+{
+  "id": "acerto-de-contas",
+  "tipo": "filme",
+  "titulo": "Acerto de Contas",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6v8BlKa0WrseBzgCflROxF3QNHi.jpg",
+  "banner": null,
+  "tmdbId": 688373,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783934,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774769,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Acerto de Contas",
+  "dataLancamento": "2007-10-24"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "circulo-fechado",
+  "tipo": "serie",
+  "titulo": "Círculo Fechado",
+  "ano": null,
+  "descricao": "Uma investigação sobre um sequestro frustrado revela segredos de longa data que conectam vários personagens e culturas na cidade de Nova York dos dias atuais.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rIkBQg9c15lw6ydUFUotHqH7BI0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/llFxXeCS1iqU4MPTpY3spBijIRr.jpg",
+  "tmdbId": 132016,
+  "nota": 6.481,
+  "xtreamSeriesId": 3501,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10887236",
+          "tipo": "episodio",
+          "titulo": "Círculo Fechado S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10887236",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rIkBQg9c15lw6ydUFUotHqH7BI0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887237",
+          "tipo": "episodio",
+          "titulo": "Círculo Fechado S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10887237",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rIkBQg9c15lw6ydUFUotHqH7BI0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887238",
+          "tipo": "episodio",
+          "titulo": "Círculo Fechado S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10887238",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rIkBQg9c15lw6ydUFUotHqH7BI0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887239",
+          "tipo": "episodio",
+          "titulo": "Círculo Fechado S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10887239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rIkBQg9c15lw6ydUFUotHqH7BI0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887240",
+          "tipo": "episodio",
+          "titulo": "Círculo Fechado S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10887240",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rIkBQg9c15lw6ydUFUotHqH7BI0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887241",
+          "tipo": "episodio",
+          "titulo": "Círculo Fechado S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10887241",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rIkBQg9c15lw6ydUFUotHqH7BI0.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Full Circle",
+  "dataLancamento": "2023-07-13"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nasce-uma-estrela",
+  "tipo": "filme",
+  "titulo": "Nasce uma Estrela",
+  "ano": null,
+  "descricao": "Um músico ajuda uma jovem cantora a encontrar fama quando a idade e o alcoolismo enviam sua própria carreira para uma espiral descendente.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oE28S11nRjK7Lnnowv43cKK4lyJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wqtaHWOEZ3rXDJ8c6ZZShulbo18.jpg",
+  "tmdbId": 332562,
+  "nota": 7.493,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040178,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775943,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782640,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782641,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778019647,
+  "tituloOriginal": "A Star Is Born",
+  "dataLancamento": "2018-10-03"
+}

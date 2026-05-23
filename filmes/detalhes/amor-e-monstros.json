@@ -1,0 +1,34 @@
+{
+  "id": "amor-e-monstros",
+  "tipo": "filme",
+  "titulo": "Amor e Monstros",
+  "ano": null,
+  "descricao": "Após o mundo ser invadido por monstros, Joel terá de se aventurar por metade do país, em meio a todo tipo de perigos, para tentar encontrar o amor da sua vida.",
+  "generos": [
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/b77MZUZQJjbmyL4CS2EyOBRUngD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lA5fOBqTOQBQ1s9lEYYPmNXoYLi.jpg",
+  "tmdbId": 590223,
+  "nota": 7.271,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772248,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782049,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Love and Monsters",
+  "dataLancamento": "2020-10-16"
+}

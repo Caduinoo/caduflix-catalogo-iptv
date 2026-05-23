@@ -1,0 +1,34 @@
+{
+  "id": "marte-precisa-de-maes",
+  "tipo": "filme",
+  "titulo": "Marte Precisa de Mães",
+  "ano": null,
+  "descricao": "Milo é um garoto de nove anos com a agenda cheia. Ele precisa assistir a filmes com monstros, ler revistas em quadrinhos e fazer outras coisas divertidas. Ele certamente não tem tempo para fazer a lição de casa ou comer legumes. O garoto está cheio de ouvir a mãe reclamando sobre essas coisas. Quando Milo está para dizer à mãe que a vida seria mais divertida sem ela, os marcianos a raptam e Milo precisa resgatá-la.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uCT6HwfN2xPvmrIT7OCxpKnNFtQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tgy1XvIKYFthvbHGSS5rBnBayBS.jpg",
+  "tmdbId": 50321,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787162,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771432,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Mars Needs Moms",
+  "dataLancamento": "2011-03-09"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mimadinhos",
+  "tipo": "filme",
+  "titulo": "Mimadinhos",
+  "ano": null,
+  "descricao": "Um bilionário finge estar falido para ensinar uma lição aos filhos. Agora eles têm que aprender a ganhar a vida.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tXPWkZ03VfFPhok3DkUlJSxWpFv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dlYnr4ZXZ8Dgj2mKqwzRbrAoulc.jpg",
+  "tmdbId": 671043,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787343,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773163,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Pourris gâtés",
+  "dataLancamento": "2021-09-15"
+}

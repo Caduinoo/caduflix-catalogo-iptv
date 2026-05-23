@@ -1,0 +1,63 @@
+{
+  "id": "fundamentos-do-prazer",
+  "tipo": "serie",
+  "titulo": "Fundamentos do Prazer",
+  "ano": null,
+  "descricao": "Sexo, alegria e ciência moderna se unem nesta série reveladora para enaltecer a complexidade do prazer feminino e destruir mitos antiquados.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kfso8oh0Syp4qHzreSGRilAnkqw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rlLuYAMZr7SQaixO5VILncx6jJr.jpg",
+  "tmdbId": 158764,
+  "nota": 6.7,
+  "xtreamSeriesId": 4530,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10908299",
+          "tipo": "episodio",
+          "titulo": "Fundamentos do Prazer S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10908299",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kfso8oh0Syp4qHzreSGRilAnkqw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908300",
+          "tipo": "episodio",
+          "titulo": "Fundamentos do Prazer S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10908300",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kfso8oh0Syp4qHzreSGRilAnkqw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908301",
+          "tipo": "episodio",
+          "titulo": "Fundamentos do Prazer S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10908301",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kfso8oh0Syp4qHzreSGRilAnkqw.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "The Principles of Pleasure",
+  "dataLancamento": "2022-03-22"
+}

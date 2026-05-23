@@ -1,0 +1,111 @@
+{
+  "id": "sou-de-virgem",
+  "tipo": "serie",
+  "titulo": "Sou de Virgem",
+  "ano": null,
+  "descricao": "A história do amadurecimento de Cootie, um jovem negro de 4 metros de altura, em Oakland, CA. Cootie cresceu escondido, mas logo vivencia as belezas e as contradições do mundo pela primeira vez. Ele faz amizades, encontra o amor, passa por situações embaraçosas e encontra seu ídolo, um super-herói da vida real chamado O Herói.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kILtUid4zAr2Pzp0RuYIneBgNfB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4qqxCA31Bj4CqimMkZxfCiYnX6r.jpg",
+  "tmdbId": 105169,
+  "nota": 6.675,
+  "xtreamSeriesId": 630,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10806866",
+          "tipo": "episodio",
+          "titulo": "Sou de Virgem S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10806866",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kILtUid4zAr2Pzp0RuYIneBgNfB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806867",
+          "tipo": "episodio",
+          "titulo": "Sou de Virgem S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10806867",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kILtUid4zAr2Pzp0RuYIneBgNfB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806868",
+          "tipo": "episodio",
+          "titulo": "Sou de Virgem S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10806868",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kILtUid4zAr2Pzp0RuYIneBgNfB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806869",
+          "tipo": "episodio",
+          "titulo": "Sou de Virgem S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10806869",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kILtUid4zAr2Pzp0RuYIneBgNfB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806870",
+          "tipo": "episodio",
+          "titulo": "Sou de Virgem S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10806870",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kILtUid4zAr2Pzp0RuYIneBgNfB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806871",
+          "tipo": "episodio",
+          "titulo": "Sou de Virgem S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10806871",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kILtUid4zAr2Pzp0RuYIneBgNfB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806872",
+          "tipo": "episodio",
+          "titulo": "Sou de Virgem S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10806872",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kILtUid4zAr2Pzp0RuYIneBgNfB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "I'm a Virgo",
+  "dataLancamento": "2023-06-22"
+}

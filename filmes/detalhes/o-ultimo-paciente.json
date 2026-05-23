@@ -1,0 +1,34 @@
+{
+  "id": "o-ultimo-paciente",
+  "tipo": "filme",
+  "titulo": "O Último Paciente",
+  "ano": null,
+  "descricao": "A intensa relação entre uma psicoterapeuta e seu perigoso novo cliente.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z2jJoyIeG6Y6PE0d9NNMHmwQfoJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7GmQKKAB3q3xkpxt1VFt2DrfviW.jpg",
+  "tmdbId": 934287,
+  "nota": 7.237,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788617,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779948,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Klienten",
+  "dataLancamento": "2022-06-20"
+}

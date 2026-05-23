@@ -1,0 +1,34 @@
+{
+  "id": "fim-de-caso",
+  "tipo": "filme",
+  "titulo": "Fim de Caso",
+  "ano": null,
+  "descricao": "Numa noite chuvosa de 1946, o novelista Maurice Bendrix encontra Henry Miles, marido de sua ex-amante Sarah. Maurice e Sarah tiveram um tórrido caso dois anos antes, até que, sem qualquer explicação, Sarah terminou o romance. O encontro com Henry reacende a obsessão de Maurice por Sarah, num misto de ciúme e desejo em reencontrá-la. Para tanto, começa uma investigação, para poder entender o porquê do rompimento do romance entre os dois.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/upiLK88nv6M03qtn6g5gyir254T.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hO1UwCPxI5tpz21hzITij3DPwFY.jpg",
+  "tmdbId": 20024,
+  "nota": 6.593,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786007,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779172,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "The End of the Affair",
+  "dataLancamento": "1999-12-03"
+}

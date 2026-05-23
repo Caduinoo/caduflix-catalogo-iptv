@@ -1,0 +1,51 @@
+{
+  "id": "o-crime-do-seculo",
+  "tipo": "serie",
+  "titulo": "O Crime do Século",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8UPZoZacI8X0GEJQtwWZfbZFBb2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d0HNUBeyVdVT7oS7A6cu3ZAX3v6.jpg",
+  "tmdbId": 15733,
+  "nota": 5,
+  "xtreamSeriesId": 6170,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10983417",
+          "tipo": "episodio",
+          "titulo": "O Crime do Século S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10983417",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8UPZoZacI8X0GEJQtwWZfbZFBb2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10983418",
+          "tipo": "episodio",
+          "titulo": "O Crime do Século S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10983418",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8UPZoZacI8X0GEJQtwWZfbZFBb2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "The Two Mrs. Grenvilles",
+  "dataLancamento": "1987-02-08"
+}

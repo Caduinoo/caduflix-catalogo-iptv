@@ -1,0 +1,42 @@
+{
+  "id": "rise",
+  "tipo": "filme",
+  "titulo": "O Último Conquistador",
+  "ano": null,
+  "descricao": "Com o colapso do Império Mongol, um guerreiro marcado pela guerra encara o próprio destino e rompe lealdades para proteger o futuro da Rota da Seda.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
+  "tmdbId": 1207162,
+  "nota": 6.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789481,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776654,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782911,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Rise of the Conqueror",
+  "dataLancamento": "2026-04-09"
+}

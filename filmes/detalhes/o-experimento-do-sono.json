@@ -1,0 +1,34 @@
+{
+  "id": "o-experimento-do-sono",
+  "tipo": "filme",
+  "titulo": "O Experimento do Sono",
+  "ano": null,
+  "descricao": "Um estudo científico sobre os efeitos da privação forçada de sono rapidamente sai do controle quando os quatro participantes começam a se voltar uns contra os outros.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lA36C7sLaV628egfXp9mK3KQzQI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1EvWkvy0aBP0L9daGKeV3NJjyfS.jpg",
+  "tmdbId": 568453,
+  "nota": 7.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791733,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791758,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "The Soviet Sleep Experiment",
+  "dataLancamento": "2019-10-18"
+}

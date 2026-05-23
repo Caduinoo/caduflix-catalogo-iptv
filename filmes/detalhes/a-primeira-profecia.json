@@ -1,0 +1,42 @@
+{
+  "id": "a-primeira-profecia",
+  "tipo": "filme",
+  "titulo": "A Primeira Profecia",
+  "ano": null,
+  "descricao": "Uma mulher começa a questionar a sua própria fé quando descobre uma terrível conspiração para provocar o nascimento do mal encarnado em Roma.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mIBG74mhGEJnBubhYLkCtvplcNr.jpg",
+  "tmdbId": 437342,
+  "nota": 6.818,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783737,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780356,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781988,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The First Omen",
+  "dataLancamento": "2024-04-03"
+}

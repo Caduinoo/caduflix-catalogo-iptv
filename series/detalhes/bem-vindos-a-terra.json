@@ -1,0 +1,99 @@
+{
+  "id": "bem-vindos-a-terra",
+  "tipo": "serie",
+  "titulo": "Bem-vindos à Terra",
+  "ano": null,
+  "descricao": "Will Smith, cuja curiosidade e admiração são positivamente infecciosas, é guiado por exploradores da National Geographic viajando para diferentes cantos do mundo para se aproximar dos espetáculos mais estranhos, incomuns, perigosos e emocionantes do planeta.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6tJMH9Qjbefj5kLoIeNcyR6Z4Ep.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/be8s04cLyXXEqjBT24YPYdDSZKB.jpg",
+  "tmdbId": 127700,
+  "nota": 7.631,
+  "xtreamSeriesId": 1715,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10836615",
+          "tipo": "episodio",
+          "titulo": "Bem-vindos à Terra S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10836615",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sw7RiKBKcaY8zpN9YzJTkTpEsNK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10836616",
+          "tipo": "episodio",
+          "titulo": "Bem-vindos à Terra S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10836616",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sw7RiKBKcaY8zpN9YzJTkTpEsNK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10836617",
+          "tipo": "episodio",
+          "titulo": "Bem-vindos à Terra S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10836617",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sw7RiKBKcaY8zpN9YzJTkTpEsNK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10836618",
+          "tipo": "episodio",
+          "titulo": "Bem-vindos à Terra S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10836618",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sw7RiKBKcaY8zpN9YzJTkTpEsNK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10836619",
+          "tipo": "episodio",
+          "titulo": "Bem-vindos à Terra S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10836619",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sw7RiKBKcaY8zpN9YzJTkTpEsNK.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10836620",
+          "tipo": "episodio",
+          "titulo": "Bem-vindos à Terra S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10836620",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sw7RiKBKcaY8zpN9YzJTkTpEsNK.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Welcome to Earth",
+  "dataLancamento": "2021-12-08"
+}

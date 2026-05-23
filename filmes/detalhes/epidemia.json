@@ -1,0 +1,34 @@
+{
+  "id": "epidemia",
+  "tipo": "filme",
+  "titulo": "Epidemia",
+  "ano": null,
+  "descricao": "Um médico do Exército e sua equipe lutam para salvar os habitantes de uma pequena cidade americana contra a propagação de um vírus mortal e contagioso trazido da África por um macaco que foi levado de forma clandestina para a Califórnia, nos Estados Unidos. O contágio é rápido e o Exército coloca a cidade sob quarentena. Mas quando um cientista do Exército tenta ajudar a população, ele é inexplicavelmente afastado do caso.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lZ3NPASzLET3tp1RnEMvakN0mic.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jwwltwI2uLpxhIUReucyLBkL8dg.jpg",
+  "tmdbId": 6950,
+  "nota": 6.566,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11032111,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775364,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1774469006,
+  "tituloOriginal": "Outbreak",
+  "dataLancamento": "1995-03-10"
+}

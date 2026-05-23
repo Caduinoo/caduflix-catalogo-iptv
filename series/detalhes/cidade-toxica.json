@@ -1,0 +1,75 @@
+{
+  "id": "cidade-toxica",
+  "tipo": "serie",
+  "titulo": "Cidade Tóxica",
+  "ano": null,
+  "descricao": "Quando dezenas de bebês nascem com defeitos congênitos na cidade de Corby, as mães embarcam em uma batalha por justiça.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uZr7TRL3iYcXldJNr8p1jyjYMOq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pp4jnkOneeb4FFcni9VUCyo18sZ.jpg",
+  "tmdbId": 232342,
+  "nota": 7.03,
+  "xtreamSeriesId": 4280,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904723",
+          "tipo": "episodio",
+          "titulo": "Cidade Toxica S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904723",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uZr7TRL3iYcXldJNr8p1jyjYMOq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904724",
+          "tipo": "episodio",
+          "titulo": "Cidade Toxica S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904724",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uZr7TRL3iYcXldJNr8p1jyjYMOq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904725",
+          "tipo": "episodio",
+          "titulo": "Cidade Toxica S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904725",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uZr7TRL3iYcXldJNr8p1jyjYMOq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904726",
+          "tipo": "episodio",
+          "titulo": "Cidade Toxica S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904726",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uZr7TRL3iYcXldJNr8p1jyjYMOq.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Toxic Town",
+  "dataLancamento": "2025-02-27"
+}

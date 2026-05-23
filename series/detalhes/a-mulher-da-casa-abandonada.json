@@ -1,0 +1,63 @@
+{
+  "id": "a-mulher-da-casa-abandonada",
+  "tipo": "serie",
+  "titulo": "A Mulher da Casa Abandonada",
+  "ano": null,
+  "descricao": "O jornalista Chico Felitti investiga uma senhora peculiar que mora em uma mansão em ruínas em um bairro nobre de São Paulo, e que foi acusada, juntamente com seu ex-marido, de agredir e manter ilegalmente uma trabalhadora doméstica brasileira nos Estados Unidos durante os anos 2000.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dpYXNGHQBsAr4GhiExDxk4LLAJD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tNtlzOYJpcJYE4Iy2QcK0pmpQS3.jpg",
+  "tmdbId": 293031,
+  "nota": 7.7,
+  "xtreamSeriesId": 46,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10792892",
+          "tipo": "episodio",
+          "titulo": "A Mulher da Casa Abandonada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10792892",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dpYXNGHQBsAr4GhiExDxk4LLAJD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792893",
+          "tipo": "episodio",
+          "titulo": "A Mulher da Casa Abandonada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10792893",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dpYXNGHQBsAr4GhiExDxk4LLAJD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10792894",
+          "tipo": "episodio",
+          "titulo": "A Mulher da Casa Abandonada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10792894",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dpYXNGHQBsAr4GhiExDxk4LLAJD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "A Mulher da Casa Abandonada",
+  "dataLancamento": "2025-08-15"
+}

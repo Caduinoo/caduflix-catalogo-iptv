@@ -1,0 +1,26 @@
+{
+  "id": "sally",
+  "tipo": "filme",
+  "titulo": "Harry & Sally: Feitos um para o Outro",
+  "ano": null,
+  "descricao": "Harry e Sally vão morar em Nova York, se veem esporadicamente e constroem uma grande amizade ao longo dos anos. Mas, aos poucos, percebem com certo temor que estão apaixonados um pelo outro.",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/BTW9p26mVqckpq3f9kYxB4RELp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/i8aIbji5vcPoHwcLBZYQSniGkAI.jpg",
+  "tmdbId": 639,
+  "nota": 7.403,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789568,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "When Harry Met Sally...",
+  "dataLancamento": "1989-07-12"
+}

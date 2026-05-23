@@ -1,0 +1,135 @@
+{
+  "id": "watchmen",
+  "tipo": "serie",
+  "titulo": "Watchmen",
+  "ano": null,
+  "descricao": "Uma visão atualizada do mundo, onde justiceiros mascarados transitam constantemente pela delicada linha que separa o bem do mal em uma sociedade que os despreza.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fh2CStc3fKFYhkKOFyUHBGksRWj.jpg",
+  "tmdbId": 79788,
+  "nota": 7.63,
+  "xtreamSeriesId": 3934,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10898820",
+          "tipo": "episodio",
+          "titulo": "Watchmen S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10898820",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10898821",
+          "tipo": "episodio",
+          "titulo": "Watchmen S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10898821",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10898822",
+          "tipo": "episodio",
+          "titulo": "Watchmen S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10898822",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10898823",
+          "tipo": "episodio",
+          "titulo": "Watchmen S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10898823",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10898824",
+          "tipo": "episodio",
+          "titulo": "Watchmen S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10898824",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10898825",
+          "tipo": "episodio",
+          "titulo": "Watchmen S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10898825",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10898826",
+          "tipo": "episodio",
+          "titulo": "Watchmen S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10898826",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10898827",
+          "tipo": "episodio",
+          "titulo": "Watchmen S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10898827",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10898828",
+          "tipo": "episodio",
+          "titulo": "Watchmen S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10898828",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 9,
+  "tituloOriginal": "Watchmen",
+  "dataLancamento": "2019-10-20"
+}

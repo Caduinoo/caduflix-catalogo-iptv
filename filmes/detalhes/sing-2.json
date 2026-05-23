@@ -1,0 +1,34 @@
+{
+  "id": "sing-2",
+  "tipo": "filme",
+  "titulo": "Sing 2",
+  "ano": null,
+  "descricao": "Buster Moon e seus amigos devem persuadir o recluso astro do rock Clay Calloway a se juntar a eles para a abertura de um novo show.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3GR2a4IGp83ekkKQLB08IcUmc2S.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+  "tmdbId": 438695,
+  "nota": 7.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789766,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773837,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Sing 2",
+  "dataLancamento": "2021-12-01"
+}

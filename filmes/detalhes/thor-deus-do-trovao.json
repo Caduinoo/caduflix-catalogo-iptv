@@ -1,0 +1,34 @@
+{
+  "id": "thor-deus-do-trovao",
+  "tipo": "filme",
+  "titulo": "Thor: Deus do Trovão",
+  "ano": null,
+  "descricao": "O tio vilão de Thor, Loki, escapou de Asgard para procurar Yggdrasil - A Árvore dos Nove Reinos. A árvore detém o poder do Universo e está escondida na Terra. Com a ajuda do deus lobo gigante Fenrir, Loki planeja destruir a árvore e replantá-la à sua imagem, dando-lhe domínio sobre tudo. Agora Thor deve seguir Loki para a Terra para travar uma batalha épica que manterá os dois mundos em equilíbrio.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/urR3KZdTIIdB8OrdVxScRkuSRo9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/stA85yFUDkUwMvKJjl96vG3xcdB.jpg",
+  "tmdbId": 990593,
+  "nota": 6.154,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790338,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770799,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Thor: God of Thunder",
+  "dataLancamento": "2022-07-08"
+}

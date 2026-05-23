@@ -1,0 +1,34 @@
+{
+  "id": "frankie",
+  "tipo": "filme",
+  "titulo": "Querido Frankie",
+  "ano": null,
+  "descricao": "Frankie não conhece seu pai porque sua mãe, Lizzie, fugiu do homem violento quando Frankie era apenas um bebê. Em vez de dizer a verdade para seu filho surdo, ela inventa uma mentira elaborada dizendo que seu pai é um marinheiro mercante no navio Accra. Ela até escreve cartas para Frankie em nome de seu pai. Mas quando o verdadeiro navio Acra atraca em sua pequena cidade escocesa, Lizzie contrata um estranho para fingir ser o pai de seu filho.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5YRDvaBWBbhTKBYYc7BoOWdW01N.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1eFyO5JIDTZxrQuVZ3NfHl0M0xU.jpg",
+  "tmdbId": 8981,
+  "nota": 7.043,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786086,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775473,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Dear Frankie",
+  "dataLancamento": "2004-05-18"
+}

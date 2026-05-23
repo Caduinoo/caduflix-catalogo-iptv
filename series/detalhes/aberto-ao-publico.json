@@ -1,0 +1,75 @@
+{
+  "id": "aberto-ao-publico",
+  "tipo": "serie",
+  "titulo": "Aberto ao Público",
+  "ano": null,
+  "descricao": "Plateia, celebridades e grandes nomes do stand-up se encontram em um show irreverente, com histórias reais e uma dose de espontaneidade que mistura sotaques, vivências e surpresas.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zEugMLsCr9F1bcYqiCN7YUhkQRv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zw86BSzNsUtrGfgNelwkVwzo8eK.jpg",
+  "tmdbId": 295437,
+  "nota": 6,
+  "xtreamSeriesId": 2850,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10863900",
+          "tipo": "episodio",
+          "titulo": "Aberto ao Publico S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10863900",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zEugMLsCr9F1bcYqiCN7YUhkQRv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863901",
+          "tipo": "episodio",
+          "titulo": "Aberto ao Publico S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10863901",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zEugMLsCr9F1bcYqiCN7YUhkQRv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863902",
+          "tipo": "episodio",
+          "titulo": "Aberto ao Publico S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10863902",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zEugMLsCr9F1bcYqiCN7YUhkQRv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863903",
+          "tipo": "episodio",
+          "titulo": "Aberto ao Publico S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10863903",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zEugMLsCr9F1bcYqiCN7YUhkQRv.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Aberto ao Público",
+  "dataLancamento": "2025-07-06"
+}

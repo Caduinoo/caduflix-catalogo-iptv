@@ -1,0 +1,34 @@
+{
+  "id": "a-salinha",
+  "tipo": "filme",
+  "titulo": "A Salinha",
+  "ano": null,
+  "descricao": "Os sonhos de cinco estranhos totalmente diferentes viajando para Porto Rico são adiados quando são aprisionados pelo  serviço de imigração na sala de revista.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mdJsCAUZ9Pce7ZTW5le775ZNUle.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f3G6ygsVRIlTLDeNrzX83X2Hgbu.jpg",
+  "tmdbId": 812630,
+  "nota": 4.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783783,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772157,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "El cuartito",
+  "dataLancamento": "2021-03-25"
+}

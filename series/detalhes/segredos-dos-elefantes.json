@@ -1,0 +1,75 @@
+{
+  "id": "segredos-dos-elefantes",
+  "tipo": "serie",
+  "titulo": "Segredos dos Elefantes",
+  "ano": null,
+  "descricao": "Conheça diferentes famílias de elefantes ao redor do mundo. Cada uma tem o seu próprio conjunto de comportamentos culturais particulares que elas adaptaram para se adequar ao ambiente em que vivem.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bccQ49tLytLMTNidM0rYXU7y0HV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zaEsVSrzHqFw3umnLHSS59fb2X2.jpg",
+  "tmdbId": 157199,
+  "nota": 8.4,
+  "xtreamSeriesId": 2040,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10846506",
+          "tipo": "episodio",
+          "titulo": "Segredos dos Elefantes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10846506",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bccQ49tLytLMTNidM0rYXU7y0HV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846507",
+          "tipo": "episodio",
+          "titulo": "Segredos dos Elefantes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10846507",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bccQ49tLytLMTNidM0rYXU7y0HV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846508",
+          "tipo": "episodio",
+          "titulo": "Segredos dos Elefantes S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10846508",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bccQ49tLytLMTNidM0rYXU7y0HV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846509",
+          "tipo": "episodio",
+          "titulo": "Segredos dos Elefantes S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10846509",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bccQ49tLytLMTNidM0rYXU7y0HV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Secrets of the Elephants",
+  "dataLancamento": "2023-04-21"
+}

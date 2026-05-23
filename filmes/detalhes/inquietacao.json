@@ -1,0 +1,34 @@
+{
+  "id": "inquietacao",
+  "tipo": "filme",
+  "titulo": "Inquietação",
+  "ano": null,
+  "descricao": "Sam sofre um acidente de carro e acorda num hospital. Ele busca uma saída ao perceber que o lugar está abandonado, mas descobre que forças do mal o prendem lá.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/j8FuUkC5doaNfmFq21HIhp0u3eJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ee7nLU6c9JPzxRIqR5qxDXEo3uh.jpg",
+  "tmdbId": 1072074,
+  "nota": 5.271,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786590,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780833,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Disquiet",
+  "dataLancamento": "2023-02-10"
+}

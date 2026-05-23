@@ -1,0 +1,34 @@
+{
+  "id": "avenida",
+  "tipo": "filme",
+  "titulo": "Avenida",
+  "ano": null,
+  "descricao": "A vida de Nolan Mack é uma eterna rotina. Trabalhando há quase 26 anos em um mesmo banco, ele e sua esposa Joy (Kathy Baker) vivem um casamento de conveniência, perfeito para que ambos não tenham que enfrentar a realidade. Mas um dia, no caminho de volta pra casa, o destino de Nolan cruza com o de um jovem problemático, Leo. A partir desse encontro, Nolan se vê rompendo os limites de sua vida e relembrando o passado, seguindo em um caminho de auto-descoberta.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hnqvf8LJKypUpnykV6MzSXeuor.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/i6ylEEnaxIRAZEqmPgXuMVUIzGI.jpg",
+  "tmdbId": 259963,
+  "nota": 5.755,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784460,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774954,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Boulevard",
+  "dataLancamento": "2014-04-20"
+}

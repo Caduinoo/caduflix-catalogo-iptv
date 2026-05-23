@@ -1,0 +1,34 @@
+{
+  "id": "fall-e-order",
+  "tipo": "filme",
+  "titulo": "Outono: Love, Fall & Order",
+  "ano": null,
+  "descricao": "Quando Claire vai para casa para salvar o Festival anual de Outono de seu pai na fazenda da família, acabam saindo faíscas um velho rival, um advogado a quem enfrenta no tribunal.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1U7k4jmMwa9nZYdSitEqV4Y7oql.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qYckYSDHjLjdINCpXimlEqhlhhz.jpg",
+  "tmdbId": 631049,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785929,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781720,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Love, Fall & Order",
+  "dataLancamento": "2019-10-12"
+}

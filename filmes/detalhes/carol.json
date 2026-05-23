@@ -1,0 +1,26 @@
+{
+  "id": "carol",
+  "tipo": "filme",
+  "titulo": "Carol",
+  "ano": null,
+  "descricao": "Therese Belivet tem um emprego entediante em uma loja de departamentos. Um dia, ela conhece Carol, uma elegante e misteriosa cliente. Rapidamente, as duas mulheres desenvolvem um vínculo amoroso que terá consequências sérias.",
+  "generos": [
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ddjhWoNkwfndMZDjtbniBINO8HN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/o0ghC4XMIMdbRBXIqSvnPrxwj3W.jpg",
+  "tmdbId": 258480,
+  "nota": 7.495,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779093,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567055,
+  "tituloOriginal": "Carol",
+  "dataLancamento": "2015-11-20"
+}

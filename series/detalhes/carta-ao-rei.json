@@ -1,0 +1,99 @@
+{
+  "id": "carta-ao-rei",
+  "tipo": "serie",
+  "titulo": "Carta ao Rei",
+  "ano": null,
+  "descricao": "Um jovem aprendiz de cavaleiro encara profecias antigas, poderes mágicos e colegas volúveis em sua épica jornada para salvar o reino.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pvLHX43Btkayypqp23fWaROILa5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wRqxtYHf3f2b340bWsNGMpitOqI.jpg",
+  "tmdbId": 99356,
+  "nota": 6.7,
+  "xtreamSeriesId": 4235,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10903981",
+          "tipo": "episodio",
+          "titulo": "Carta ao Rei S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10903981",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pvLHX43Btkayypqp23fWaROILa5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903982",
+          "tipo": "episodio",
+          "titulo": "Carta ao Rei S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10903982",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pvLHX43Btkayypqp23fWaROILa5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903983",
+          "tipo": "episodio",
+          "titulo": "Carta ao Rei S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10903983",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pvLHX43Btkayypqp23fWaROILa5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903984",
+          "tipo": "episodio",
+          "titulo": "Carta ao Rei S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10903984",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pvLHX43Btkayypqp23fWaROILa5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903985",
+          "tipo": "episodio",
+          "titulo": "Carta ao Rei S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10903985",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pvLHX43Btkayypqp23fWaROILa5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903986",
+          "tipo": "episodio",
+          "titulo": "Carta ao Rei S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10903986",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pvLHX43Btkayypqp23fWaROILa5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Letter for the King",
+  "dataLancamento": "2020-03-20"
+}

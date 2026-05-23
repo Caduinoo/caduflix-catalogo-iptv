@@ -1,0 +1,87 @@
+{
+  "id": "relembre",
+  "tipo": "serie",
+  "titulo": "Relembre",
+  "ano": null,
+  "descricao": "Entre crises familiares e problemas de memória por causa das drogas, um ex-astro do rock embarca em uma busca frenética pelo filho desaparecido.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ppHm3nlWpaxzIzbIKAWKR5Atng8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yqUmDqUZjyRBY7qeyeAyYs7NXT1.jpg",
+  "tmdbId": 230370,
+  "nota": 6.8,
+  "xtreamSeriesId": 5167,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921365",
+          "tipo": "episodio",
+          "titulo": "Relembre S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921365",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ppHm3nlWpaxzIzbIKAWKR5Atng8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921366",
+          "tipo": "episodio",
+          "titulo": "Relembre S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921366",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ppHm3nlWpaxzIzbIKAWKR5Atng8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921367",
+          "tipo": "episodio",
+          "titulo": "Relembre S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10921367",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ppHm3nlWpaxzIzbIKAWKR5Atng8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921368",
+          "tipo": "episodio",
+          "titulo": "Relembre S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921368",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ppHm3nlWpaxzIzbIKAWKR5Atng8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921369",
+          "tipo": "episodio",
+          "titulo": "Relembre S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10921369",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ppHm3nlWpaxzIzbIKAWKR5Atng8.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Informacja zwrotna",
+  "dataLancamento": "2023-11-15"
+}

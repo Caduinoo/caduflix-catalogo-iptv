@@ -1,0 +1,42 @@
+{
+  "id": "uma-linda-vida",
+  "tipo": "filme",
+  "titulo": "Uma Linda Vida",
+  "ano": null,
+  "descricao": "Um jovem pescador se transforma em uma revelação musical, mas seu passado é um obstáculo. Será que ele consegue superar seus traumas e conquistar a fama e o amor?",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oBnrrPcR6W4i58Ke9uZGWpiIl4G.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6BI1XjPNT5VYEJ4vXkdyuiKLMYt.jpg",
+  "tmdbId": 1119173,
+  "nota": 6.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790794,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777032,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783080,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "A Beautiful Life",
+  "dataLancamento": "2023-06-01"
+}

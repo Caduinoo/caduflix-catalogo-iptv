@@ -1,0 +1,34 @@
+{
+  "id": "quatro-cavaleiros-do-apocalipse",
+  "tipo": "filme",
+  "titulo": "Quatro Cavaleiros do Apocalipse",
+  "ano": null,
+  "descricao": "Uma equipe de cientistas precisa correr contra o tempo para impedir uma série de desastres ao redor do planeta, anunciando que o apocalipse está próximo.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AoB4ZIHY16GThNDObQPmOWPJTPu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/b93N6Mb08NhFhobB8KrR5GBaPP5.jpg",
+  "tmdbId": 969686,
+  "nota": 5.958,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789266,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781365,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "4 Horsemen: Apocalypse",
+  "dataLancamento": "2022-04-29"
+}

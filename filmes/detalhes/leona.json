@@ -1,0 +1,34 @@
+{
+  "id": "leona",
+  "tipo": "filme",
+  "titulo": "Leona",
+  "ano": null,
+  "descricao": "Uma jovem judia da Cidade do México se vê dividida entre sua família e seu amor proibido por um homem não-judeu.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mVPkcBOm0ZIScQVRgIBTqDzSowo.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kbiO5M5h5gAGJHaxTtggPgadpe8.jpg",
+  "tmdbId": 541187,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786929,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775722,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Leona",
+  "dataLancamento": "2018-10-22"
+}

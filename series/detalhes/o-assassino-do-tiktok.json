@@ -1,0 +1,51 @@
+{
+  "id": "o-assassino-do-tiktok",
+  "tipo": "serie",
+  "titulo": "O Assassino do TikTok",
+  "ano": null,
+  "descricao": "Este documentário segue a busca pela verdade de uma família sobre o sucedido a uma familiar de 42 anos que desapareceu em Espanha depois de conhecer um popular TikToker.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fCRePhXHX5qT4buTOOvQyO8eoai.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qTbaaF0zthCuFxFPowr7XdnJl5r.jpg",
+  "tmdbId": 313338,
+  "nota": 5.826,
+  "xtreamSeriesId": 7114,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11017046",
+          "tipo": "episodio",
+          "titulo": "O Assassino do TikTok S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11017046",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/giINp6zBiLd78VVlSHM1AUaDKf3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11017047",
+          "tipo": "episodio",
+          "titulo": "O Assassino do TikTok S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11017047",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/giINp6zBiLd78VVlSHM1AUaDKf3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "El asesino de TikTok",
+  "dataLancamento": "2026-03-06"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "tratamento-de-realeza",
+  "tipo": "filme",
+  "titulo": "Tratamento de Realeza",
+  "ano": null,
+  "descricao": "A cabeleireira Izzy jamais perderia a chance de trabalhar no casamento de um príncipe encantado. Mas um clima entre os dois coloca o amor e o dever real na balança.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/g4myCGDieVwB9YSli5iFYiHBPNm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/on1p1AdcfxmlyHhVXoycWt75D8H.jpg",
+  "tmdbId": 790142,
+  "nota": 6.65,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790426,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779416,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "The Royal Treatment",
+  "dataLancamento": "2022-01-20"
+}

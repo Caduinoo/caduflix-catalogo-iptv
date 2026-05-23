@@ -12,9 +12,160 @@
   "tmdbId": 127108,
   "nota": 4.7,
   "xtreamSeriesId": 5480,
-  "temporadas": [],
-  "totalTemporadas": 0,
-  "totalEpisodios": 0,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10928627",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10928627",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928628",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10928628",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928629",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10928629",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928630",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10928630",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928631",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10928631",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928632",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10928632",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928633",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10928633",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928634",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10928634",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928635",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10928635",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928636",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10928636",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928637",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E11",
+          "numero": 11,
+          "temporada": 1,
+          "xtreamId": "10928637",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10928638",
+          "tipo": "episodio",
+          "titulo": "À Beira do Caos S01E12",
+          "numero": 12,
+          "temporada": 1,
+          "xtreamId": "10928638",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 12,
   "tituloOriginal": "On the Verge",
   "dataLancamento": "2021-09-06"
 }

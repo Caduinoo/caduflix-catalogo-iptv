@@ -1,0 +1,34 @@
+{
+  "id": "cama-de-gato",
+  "tipo": "filme",
+  "titulo": "Cama de Gato",
+  "ano": null,
+  "descricao": "Cristiano, Francisco e Gabriel são três bons velhos amigos celebrando suas entradas na Universidade. Mas numa noite de horror, a diversão se confunde com violência.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jkKfL26bUd0H8gtdsRpt0KrLQOd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sN8dO7cbwxNnwysXBRhTwNdicRf.jpg",
+  "tmdbId": 46646,
+  "nota": 5.409,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784771,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779641,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Cama de Gato",
+  "dataLancamento": "2002-10-21"
+}

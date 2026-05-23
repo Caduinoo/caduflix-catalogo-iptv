@@ -1,0 +1,99 @@
+{
+  "id": "supervalentes",
+  "tipo": "serie",
+  "titulo": "Supervalentes",
+  "ano": null,
+  "descricao": "Uma poderosa deusa reencarnada no corpo de uma jovem precisa aprender a dominar seus poderes para vingar a morte da irmã e proteger a família.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gGV1K2Cayv9p8Qgk5re8HRQR1n9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3hqca7kBN6pxZBUDXBZSo7aDCTT.jpg",
+  "tmdbId": 209390,
+  "nota": 6.4,
+  "xtreamSeriesId": 5311,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10925069",
+          "tipo": "episodio",
+          "titulo": "Supervalentes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10925069",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gGV1K2Cayv9p8Qgk5re8HRQR1n9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925070",
+          "tipo": "episodio",
+          "titulo": "Supervalentes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10925070",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gGV1K2Cayv9p8Qgk5re8HRQR1n9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925071",
+          "tipo": "episodio",
+          "titulo": "Supervalentes S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10925071",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gGV1K2Cayv9p8Qgk5re8HRQR1n9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925072",
+          "tipo": "episodio",
+          "titulo": "Supervalentes S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10925072",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gGV1K2Cayv9p8Qgk5re8HRQR1n9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925073",
+          "tipo": "episodio",
+          "titulo": "Supervalentes S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10925073",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gGV1K2Cayv9p8Qgk5re8HRQR1n9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925074",
+          "tipo": "episodio",
+          "titulo": "Supervalentes S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10925074",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gGV1K2Cayv9p8Qgk5re8HRQR1n9.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Brave Ones",
+  "dataLancamento": "2022-09-16"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "andes-extremo",
+  "tipo": "serie",
+  "titulo": "Andes Extremo",
+  "ano": null,
+  "descricao": "Uma combinação de seis montanhas com mais de seis mil metros de altitude e um mergulho na cultura milenar que deu origem ao maior império da América pré-colombiana compõem o cenário dessa aventura.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cmDfhkMUaSiDYBYETpL2mWIFON9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8Zx3sk26IF5s5sU2oKPaxsoxoef.jpg",
+  "tmdbId": 289246,
+  "nota": null,
+  "xtreamSeriesId": 1349,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10827584",
+          "tipo": "episodio",
+          "titulo": "Andes Extremo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10827584",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cmDfhkMUaSiDYBYETpL2mWIFON9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827585",
+          "tipo": "episodio",
+          "titulo": "Andes Extremo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10827585",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cmDfhkMUaSiDYBYETpL2mWIFON9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827586",
+          "tipo": "episodio",
+          "titulo": "Andes Extremo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10827586",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cmDfhkMUaSiDYBYETpL2mWIFON9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827587",
+          "tipo": "episodio",
+          "titulo": "Andes Extremo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10827587",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cmDfhkMUaSiDYBYETpL2mWIFON9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827588",
+          "tipo": "episodio",
+          "titulo": "Andes Extremo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10827588",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cmDfhkMUaSiDYBYETpL2mWIFON9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827589",
+          "tipo": "episodio",
+          "titulo": "Andes Extremo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10827589",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cmDfhkMUaSiDYBYETpL2mWIFON9.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Andes Extremo",
+  "dataLancamento": "2023-04-06"
+}

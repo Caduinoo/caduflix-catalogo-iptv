@@ -1,0 +1,34 @@
+{
+  "id": "o-paciente-perdido",
+  "tipo": "filme",
+  "titulo": "O Paciente Perdido",
+  "ano": null,
+  "descricao": "Um jovem acorda do coma sem se lembrar da noite em que toda a família foi assassinada. Para tentar descobrir o que aconteceu, ele vai contar com a ajuda de uma psicóloga.",
+  "generos": [
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3ZSZ2wtbABFnFlFgroY3RSlNmP8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pHjSH9Fxf7gYzYBZNZJ4ZLNxk17.jpg",
+  "tmdbId": 1006917,
+  "nota": 5.883,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781750,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779926,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Le Patient",
+  "dataLancamento": "2022-11-25"
+}

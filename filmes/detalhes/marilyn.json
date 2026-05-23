@@ -1,0 +1,26 @@
+{
+  "id": "marilyn",
+  "tipo": "filme",
+  "titulo": "Marilyn",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCUokTm2rNfrcTY0mU2fF9UjjxI.jpg",
+  "banner": null,
+  "tmdbId": 1233677,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787155,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Marilyn",
+  "dataLancamento": "1972-01-01"
+}

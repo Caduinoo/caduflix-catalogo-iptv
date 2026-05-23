@@ -1,0 +1,48 @@
+{
+  "id": "historias-im-possiveis",
+  "tipo": "serie",
+  "titulo": "Histórias (Im)possíveis",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 3047,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10871319",
+          "tipo": "episodio",
+          "titulo": "Histórias (Im)possíveis S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10871319",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/69hornrvpKWIzBMCNzsVTZOggOw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10871320",
+          "tipo": "episodio",
+          "titulo": "Histórias (Im)possíveis S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10871320",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/69hornrvpKWIzBMCNzsVTZOggOw.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2
+}

@@ -1,0 +1,42 @@
+{
+  "id": "o-valente",
+  "tipo": "filme",
+  "titulo": "O Valente",
+  "ano": null,
+  "descricao": "Chase Stokes e Lana Condor estrelam este filme de guerra em que, quando um helicóptero dos EUA cai em território norte-coreano, os soldados a bordo ficam isolados e precisam fazer até o impossível para chegar vivos a casa.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3AhlvcWi2Ej3nXNAktSG5ARjWSu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wPSZXVqe84X8SINvJGiKYZhkSG1.jpg",
+  "tmdbId": 1009640,
+  "nota": 6.688,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788576,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778048,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782780,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Valiant One",
+  "dataLancamento": "2025-01-30"
+}

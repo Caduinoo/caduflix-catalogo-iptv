@@ -1,0 +1,75 @@
+{
+  "id": "isso-e-um-bolo-halloween",
+  "tipo": "serie",
+  "titulo": "Isso é um Bolo? Halloween",
+  "ano": null,
+  "descricao": "É bolo ou não? Gostosura ou travessura? Confeiteiros de talento criam bolos de Halloween hiper-realistas na edição especial deste reality de competição que é um sucesso.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ockSG8zafVMJllPGsKT3C4QyMDt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hWPLvmYb8jvkSHrlfgvw29HmwUW.jpg",
+  "tmdbId": 300594,
+  "nota": 6.556,
+  "xtreamSeriesId": 4659,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911581",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Halloween S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911581",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ockSG8zafVMJllPGsKT3C4QyMDt.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911582",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Halloween S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911582",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ockSG8zafVMJllPGsKT3C4QyMDt.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911583",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Halloween S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911583",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ockSG8zafVMJllPGsKT3C4QyMDt.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911584",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Halloween S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10911584",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ockSG8zafVMJllPGsKT3C4QyMDt.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Is It Cake? Halloween",
+  "dataLancamento": "2025-10-08"
+}

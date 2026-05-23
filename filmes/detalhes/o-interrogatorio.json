@@ -1,0 +1,34 @@
+{
+  "id": "o-interrogatorio",
+  "tipo": "filme",
+  "titulo": "O INTERROGATORIO",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4VC82a7M7zkTRREORBYuqjzRXuZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/k7YScgAWpXwLi0eqohzLiih0b8h.jpg",
+  "tmdbId": 1548684,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788195,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774377,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "O INTERROGATORIO",
+  "dataLancamento": "2025-09-26"
+}

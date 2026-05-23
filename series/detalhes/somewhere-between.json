@@ -1,0 +1,99 @@
+{
+  "id": "somewhere-between",
+  "tipo": "serie",
+  "titulo": "Somewhere Between",
+  "ano": null,
+  "descricao": "Laura Price é uma produtora de telejornal que descobre que sua filha, Serena, será morta. Ela não conhece o assassino ou suspeita de seus motivos, mas sabe exatamente quando, como e onde o crime acontecerá. Apesar de todas essas informações, a protagonista terá grande dificuldade de manter sua filha a salvo, mas o destino terrível de Serena manterá Laura no encalço do criminoso.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/seXbYwMR9fNqEYwaPPvPReZGiJQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bw9L4RbikDXdsiLrFMJ1eiZHE2z.jpg",
+  "tmdbId": 70390,
+  "nota": 6.5,
+  "xtreamSeriesId": 5276,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10923666",
+          "tipo": "episodio",
+          "titulo": "Somewhere Between S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10923666",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/seXbYwMR9fNqEYwaPPvPReZGiJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923667",
+          "tipo": "episodio",
+          "titulo": "Somewhere Between S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10923667",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/seXbYwMR9fNqEYwaPPvPReZGiJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923668",
+          "tipo": "episodio",
+          "titulo": "Somewhere Between S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10923668",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/seXbYwMR9fNqEYwaPPvPReZGiJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923669",
+          "tipo": "episodio",
+          "titulo": "Somewhere Between S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10923669",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/seXbYwMR9fNqEYwaPPvPReZGiJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923670",
+          "tipo": "episodio",
+          "titulo": "Somewhere Between S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10923670",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/seXbYwMR9fNqEYwaPPvPReZGiJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923671",
+          "tipo": "episodio",
+          "titulo": "Somewhere Between S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10923671",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/seXbYwMR9fNqEYwaPPvPReZGiJQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Somewhere Between",
+  "dataLancamento": "2017-07-24"
+}

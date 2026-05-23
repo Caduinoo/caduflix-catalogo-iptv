@@ -1,0 +1,51 @@
+{
+  "id": "bosques-da-peni-nsula-iberica-a-vida-no-limite",
+  "tipo": "serie",
+  "titulo": "Bosques da Península Ibérica: A Vida no Limite",
+  "ano": null,
+  "descricao": "Nesta série documental de dois episódios, veremos os desafios que os moradores da floresta devem enfrentar todos os dias para sobreviver. Quando as condições ambientais se tornam árduas em determinadas épocas do ano, a competição e a rivalidade os colocam à prova, um misto de adaptação e sorte decidirá quem consegue sobreviver.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/n9cKckj8HOi91DQi7Up64jterrk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xhUwY60FMOY1htR9k2Lw9C0mxac.jpg",
+  "tmdbId": 205034,
+  "nota": 10,
+  "xtreamSeriesId": 1718,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10837094",
+          "tipo": "episodio",
+          "titulo": "Bosques da Peni_nsula Iberica A Vida no Limite S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10837094",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837095",
+          "tipo": "episodio",
+          "titulo": "Bosques da Peni_nsula Iberica A Vida no Limite S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10837095",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Iberia's Woodlands: Life on the Edge",
+  "dataLancamento": "2021-06-29"
+}

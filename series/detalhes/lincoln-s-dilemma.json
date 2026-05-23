@@ -1,0 +1,75 @@
+{
+  "id": "lincoln-s-dilemma",
+  "tipo": "serie",
+  "titulo": "O Dilema de Lincoln",
+  "ano": null,
+  "descricao": "Conheça um lado de Abraham Lincoln que você nunca viu antes. Nesta série documental de quatro partes, um painel diversificado de historiadores e materiais raros oferecem um olhar diferenciado sobre o homem que foi apelidado de Grande Emancipador.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aoYswHnRSDodkLvDz0CTDZkMgLM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/18ak0ZqtirJJKXOaIs0raZqwxiA.jpg",
+  "tmdbId": 155714,
+  "nota": 6.9,
+  "xtreamSeriesId": 894,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10814217",
+          "tipo": "episodio",
+          "titulo": "Lincoln's Dilemma S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10814217",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aoYswHnRSDodkLvDz0CTDZkMgLM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814218",
+          "tipo": "episodio",
+          "titulo": "Lincoln's Dilemma S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10814218",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aoYswHnRSDodkLvDz0CTDZkMgLM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814219",
+          "tipo": "episodio",
+          "titulo": "Lincoln's Dilemma S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10814219",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aoYswHnRSDodkLvDz0CTDZkMgLM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814220",
+          "tipo": "episodio",
+          "titulo": "Lincoln's Dilemma S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10814220",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aoYswHnRSDodkLvDz0CTDZkMgLM.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Lincoln's Dilemma",
+  "dataLancamento": "2022-02-17"
+}

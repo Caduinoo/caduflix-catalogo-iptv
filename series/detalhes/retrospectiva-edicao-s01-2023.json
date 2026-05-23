@@ -1,0 +1,73 @@
+{
+  "id": "retrospectiva-edicao-s01-2023",
+  "tipo": "serie",
+  "titulo": "Retrospectiva Edicao S01",
+  "ano": 2023,
+  "descricao": "Série de quatro episódios com resumo do ano de extremos: ataques à democracia e guerras, calor recorde e tempestades, o retrocesso dos preconceitos e os avanços da ciência.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRDILzJBbOoiLfwHrvo5heAuMl4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cXsgVriXnUydgJOrKj4PSaRHev9.jpg",
+  "tmdbId": null,
+  "nota": 8,
+  "xtreamSeriesId": 3226,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10878287",
+          "tipo": "episodio",
+          "titulo": "Retrospectiva 2023 Edicao S01 S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10878287",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRDILzJBbOoiLfwHrvo5heAuMl4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10878288",
+          "tipo": "episodio",
+          "titulo": "Retrospectiva 2023 Edicao S01 S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10878288",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRDILzJBbOoiLfwHrvo5heAuMl4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10878289",
+          "tipo": "episodio",
+          "titulo": "Retrospectiva 2023 Edicao S01 S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10878289",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRDILzJBbOoiLfwHrvo5heAuMl4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10878290",
+          "tipo": "episodio",
+          "titulo": "Retrospectiva 2023 Edicao S01 S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10878290",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRDILzJBbOoiLfwHrvo5heAuMl4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4
+}

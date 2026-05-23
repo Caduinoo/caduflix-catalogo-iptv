@@ -1,0 +1,34 @@
+{
+  "id": "limpa",
+  "tipo": "filme",
+  "titulo": "Limpa",
+  "ano": null,
+  "descricao": "Uma empregada doméstica e a garota de quem ela cuida se aproximam durante um verão turbulento. Até que a diferença entre esses dois mundos tem um desfecho trágico.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oGXot1GsSocNQS0eDLdkshdgYKc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oVph5mMhp0UxVYeSpIfUfll0kcF.jpg",
+  "tmdbId": 1484640,
+  "nota": 5.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786971,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775733,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Limpia",
+  "dataLancamento": "2025-09-25"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "com-carinho",
+  "tipo": "filme",
+  "titulo": "Com Carinho",
+  "ano": null,
+  "descricao": "A pequena Miriam sempre recebe a avó, Maria, que mora em outra cidade, para comemorar o aniversário juntas. Elas nasceram no mesmo dia e a família sempre se reúne para a comemoração. No entanto, a menina não esperava que esta vez a marcaria para sempre.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jZbhsYj3n6QsrHVmb3Mncv1iCLa.jpg",
+  "banner": null,
+  "tmdbId": 1265557,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785001,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775098,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Com Carinho",
+  "dataLancamento": "2023-09-13"
+}

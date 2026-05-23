@@ -1,0 +1,75 @@
+{
+  "id": "poderm",
+  "tipo": "serie",
+  "titulo": "PoderM",
+  "ano": null,
+  "descricao": "De Carol Danvers e Wanda Maximoff às mulheres de Wakanda e as Guardiãs da Galáxia, esta série desvenda as jornadas de personagens desde seu nascimento nos quadrinhos da Marvel até o MCU e além. Gravações de bastidores, animações criativas e entrevistas emocionantes são reunidas aqui para mostrar como essas personagens e as mulheres por trás desse sucesso causam impacto em fãs ao redor do mundo inteiro.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8MLJKaCkObEaODCvmQaPVnBAGfe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gtrVTpxqhNO0mDjs6EpiqurfdZD.jpg",
+  "tmdbId": 220597,
+  "nota": 7,
+  "xtreamSeriesId": 2019,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10846265",
+          "tipo": "episodio",
+          "titulo": "PoderM S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10846265",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MLJKaCkObEaODCvmQaPVnBAGfe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846266",
+          "tipo": "episodio",
+          "titulo": "PoderM S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10846266",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MLJKaCkObEaODCvmQaPVnBAGfe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846267",
+          "tipo": "episodio",
+          "titulo": "PoderM S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10846267",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MLJKaCkObEaODCvmQaPVnBAGfe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846268",
+          "tipo": "episodio",
+          "titulo": "PoderM S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10846268",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8MLJKaCkObEaODCvmQaPVnBAGfe.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "MPower",
+  "dataLancamento": "2023-03-08"
+}

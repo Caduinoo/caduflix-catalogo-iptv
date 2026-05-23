@@ -1,0 +1,99 @@
+{
+  "id": "rei-dos-stonks",
+  "tipo": "serie",
+  "titulo": "Rei dos Stonks",
+  "ano": null,
+  "descricao": "Um ambicioso gênio das finanças está disposto a mentir e trapacear para fazer com que sua startup questionável conquiste a fama e o sucesso.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6nn5IXppH0JW4zuiqWhPZ6HQm95.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/scOjbrIaXQR9w6LPf5nbxCKzxv3.jpg",
+  "tmdbId": 204852,
+  "nota": 6.581,
+  "xtreamSeriesId": 5161,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921307",
+          "tipo": "episodio",
+          "titulo": "Rei dos Stonks S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921307",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6nn5IXppH0JW4zuiqWhPZ6HQm95.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921308",
+          "tipo": "episodio",
+          "titulo": "Rei dos Stonks S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921308",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6nn5IXppH0JW4zuiqWhPZ6HQm95.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921309",
+          "tipo": "episodio",
+          "titulo": "Rei dos Stonks S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10921309",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6nn5IXppH0JW4zuiqWhPZ6HQm95.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921310",
+          "tipo": "episodio",
+          "titulo": "Rei dos Stonks S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921310",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6nn5IXppH0JW4zuiqWhPZ6HQm95.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921311",
+          "tipo": "episodio",
+          "titulo": "Rei dos Stonks S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10921311",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6nn5IXppH0JW4zuiqWhPZ6HQm95.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921312",
+          "tipo": "episodio",
+          "titulo": "Rei dos Stonks S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10921312",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6nn5IXppH0JW4zuiqWhPZ6HQm95.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "King of Stonks",
+  "dataLancamento": "2022-07-06"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "gump-2-aventura-em-dobro",
+  "tipo": "filme",
+  "titulo": "Gump 2 - Aventura em Dobro",
+  "ano": null,
+  "descricao": "Em busca de um novo dono, o cachorro Gump é obrigado a sair de casa. Durante sua jornada, ele reencontra sua irmã e precisará usar toda sua coragem e inteligência para salvá-la de monstros terríveis.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3zjnqMQTdtJojKerQkMRDH2SOgk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/liMTxzWtJPYSNbMKlCRFzBnKQKF.jpg",
+  "tmdbId": 1155690,
+  "nota": 5.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11022234,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11022187,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1774006615,
+  "tituloOriginal": "Gump – jsme dvojka",
+  "dataLancamento": "2024-03-28"
+}

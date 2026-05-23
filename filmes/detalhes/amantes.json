@@ -1,0 +1,34 @@
+{
+  "id": "amantes",
+  "tipo": "filme",
+  "titulo": "Amantes",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/udBbB8KGAC661nTkjxqPx1MKNSH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7U2BQKbJTr3XwdtNdjhZp6TFLlk.jpg",
+  "tmdbId": 41782,
+  "nota": 6.47,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038953,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038940,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1777106772,
+  "tituloOriginal": "Amantes",
+  "dataLancamento": "1991-02-23"
+}

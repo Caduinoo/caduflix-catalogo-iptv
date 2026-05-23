@@ -1,0 +1,34 @@
+{
+  "id": "contra-o-gelo",
+  "tipo": "filme",
+  "titulo": "Contra o Gelo",
+  "ano": null,
+  "descricao": "Dois homens lutam pela sobrevivência durante uma expedição à Groenlândia em busca de um mapa perdido. Baseado em uma história real ocorrida na Dinamarca em 1909.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/Ak7vO8UJS32bOub3aWXCYl7YaQx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bnMKMhGJuvELSjRp8KpkuDsBDw2.jpg",
+  "tmdbId": 836009,
+  "nota": 6.771,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785087,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775131,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Against the Ice",
+  "dataLancamento": "2022-02-10"
+}

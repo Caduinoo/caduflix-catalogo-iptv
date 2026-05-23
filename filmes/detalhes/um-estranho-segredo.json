@@ -1,0 +1,34 @@
+{
+  "id": "um-estranho-segredo",
+  "tipo": "filme",
+  "titulo": "Um Estranho Segredo",
+  "ano": null,
+  "descricao": "Uma festa de aniversário que reúne quatro amigos em uma casa de campo. A medida que o tempo passa, segredos surgem e acontecimentos perturbadores começam a se desenrolarem ao redor deles.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ulWbxhTggVgD50xBfLYmb9mL6fY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/r3i7iTIVSSQtW7TdglUyIREWJCF.jpg",
+  "tmdbId": 811076,
+  "nota": 5.194,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790594,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781550,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Barbarians",
+  "dataLancamento": "2021-09-23"
+}

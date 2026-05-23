@@ -1,0 +1,99 @@
+{
+  "id": "herois-da-selva",
+  "tipo": "serie",
+  "titulo": "Heróis da Selva",
+  "ano": null,
+  "descricao": "Um equipa de ambientalistas e veterinários em missão para salvar animais em perigo e ajudar os indianos e a vida selvagem a coexistirem em harmonia.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7WZ0ebGqb5j4EhNe3IX7t7Ctg1g.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cfCCDlv4OmF9nnIy4ehtQhDFMy.jpg",
+  "tmdbId": 99817,
+  "nota": 6,
+  "xtreamSeriesId": 1846,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10840777",
+          "tipo": "episodio",
+          "titulo": "Heróis da Selva S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10840777",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7WZ0ebGqb5j4EhNe3IX7t7Ctg1g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10840778",
+          "tipo": "episodio",
+          "titulo": "Heróis da Selva S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10840778",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7WZ0ebGqb5j4EhNe3IX7t7Ctg1g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10840779",
+          "tipo": "episodio",
+          "titulo": "Heróis da Selva S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10840779",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7WZ0ebGqb5j4EhNe3IX7t7Ctg1g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10840780",
+          "tipo": "episodio",
+          "titulo": "Heróis da Selva S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10840780",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7WZ0ebGqb5j4EhNe3IX7t7Ctg1g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10840781",
+          "tipo": "episodio",
+          "titulo": "Heróis da Selva S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10840781",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7WZ0ebGqb5j4EhNe3IX7t7Ctg1g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10840782",
+          "tipo": "episodio",
+          "titulo": "Heróis da Selva S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10840782",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7WZ0ebGqb5j4EhNe3IX7t7Ctg1g.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Jungle Animal Rescue",
+  "dataLancamento": "2020-02-05"
+}

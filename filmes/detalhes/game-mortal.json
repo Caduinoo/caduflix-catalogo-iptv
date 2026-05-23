@@ -1,0 +1,34 @@
+{
+  "id": "game-mortal",
+  "tipo": "filme",
+  "titulo": "O Monstro da Ilha",
+  "ano": null,
+  "descricao": "Um grupo de caçadores viaja até uma misteriosa ilha para procurar por uma criatura lendária, mas descobrem que estão sendo usados como isca.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mvGem9E8avZEg33F9csGHGBT7kM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hdLsZ3dCjKt5A6xDpoo3UFgcTSm.jpg",
+  "tmdbId": 1426822,
+  "nota": 4.571,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786166,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777774,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Mortal Game",
+  "dataLancamento": "2025-02-03"
+}

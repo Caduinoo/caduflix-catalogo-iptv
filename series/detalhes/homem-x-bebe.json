@@ -1,0 +1,75 @@
+{
+  "id": "homem-x-bebe",
+  "tipo": "serie",
+  "titulo": "Homem X Bebê",
+  "ano": null,
+  "descricao": "Perto do Natal, um caseiro atrapalhado precisa tomar conta de uma cobertura chique e ainda lidar com um problema inesperado: um bebê perdido.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bpdbNhkrZCso4E08BQvk1dLlnxm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+  "tmdbId": 279601,
+  "nota": 6.852,
+  "xtreamSeriesId": 4603,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10910338",
+          "tipo": "episodio",
+          "titulo": "Homem X Bebe S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10910338",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bpdbNhkrZCso4E08BQvk1dLlnxm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910339",
+          "tipo": "episodio",
+          "titulo": "Homem X Bebe S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10910339",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bpdbNhkrZCso4E08BQvk1dLlnxm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910340",
+          "tipo": "episodio",
+          "titulo": "Homem X Bebe S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10910340",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bpdbNhkrZCso4E08BQvk1dLlnxm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910341",
+          "tipo": "episodio",
+          "titulo": "Homem X Bebe S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10910341",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bpdbNhkrZCso4E08BQvk1dLlnxm.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Man vs Baby",
+  "dataLancamento": "2025-12-11"
+}

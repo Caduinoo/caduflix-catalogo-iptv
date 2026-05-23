@@ -1,0 +1,87 @@
+{
+  "id": "todo-dia-a-mesma-noite",
+  "tipo": "serie",
+  "titulo": "Todo Dia a Mesma Noite",
+  "ano": null,
+  "descricao": "Um incêndio na boate Kiss mata 242 pessoas. Agora, os familiares das vítimas lutam por justiça.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1F810lXCtZfIC0ILrgSqjXObTz2.jpg",
+  "tmdbId": 139396,
+  "nota": 7.573,
+  "xtreamSeriesId": 5362,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10926390",
+          "tipo": "episodio",
+          "titulo": "Todo Dia a Mesma Noite S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10926390",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926391",
+          "tipo": "episodio",
+          "titulo": "Todo Dia a Mesma Noite S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10926391",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926392",
+          "tipo": "episodio",
+          "titulo": "Todo Dia a Mesma Noite S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10926392",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926393",
+          "tipo": "episodio",
+          "titulo": "Todo Dia a Mesma Noite S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10926393",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926394",
+          "tipo": "episodio",
+          "titulo": "Todo Dia a Mesma Noite S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10926394",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yoy1yhOoZYa4LPxTUV9ujn6GMq.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Todo Dia a Mesma Noite",
+  "dataLancamento": "2023-01-25"
+}

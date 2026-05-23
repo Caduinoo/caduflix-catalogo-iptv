@@ -1,0 +1,34 @@
+{
+  "id": "aventuras-de-betty",
+  "tipo": "filme",
+  "titulo": "Aventuras de Betty",
+  "ano": null,
+  "descricao": "Ambientado no parque de diversões, a pastora de ovelhas aparece no topo da roda gigante com os outros brinquedos narra os acontecimentos de sua vida entre Toy Story 2 e Toy Story 4.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gMZRPm4tcwdzfx7xu3sVzdNPVYi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dRPCsvwgB1eyoBEtoGqulNhLd5C.jpg",
+  "tmdbId": 594530,
+  "nota": 7.107,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784463,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778090,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Lamp Life",
+  "dataLancamento": "2020-01-31"
+}

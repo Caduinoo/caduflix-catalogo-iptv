@@ -1,0 +1,42 @@
+{
+  "id": "athena",
+  "tipo": "filme",
+  "titulo": "Athena",
+  "ano": null,
+  "descricao": "A morte trágica de um garoto é o estopim para um conflito no Conjunto Habitacional Athena. No centro do caos estão os irmãos mais velhos da vítima.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/66hefmZ1ZVLO1Hb57sZVGSlDAmM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gV31rejG3kVpwH5T7HG8G99eLy.jpg",
+  "tmdbId": 852046,
+  "nota": 6.593,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784412,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774934,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782100,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Athena",
+  "dataLancamento": "2022-09-09"
+}

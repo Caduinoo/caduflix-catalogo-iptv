@@ -1,0 +1,34 @@
+{
+  "id": "abc-do-amor",
+  "tipo": "filme",
+  "titulo": "ABC do Amor",
+  "ano": null,
+  "descricao": "Gabe, um aluno de sexta série, é parceiro de Rosemary na aula de karatê. Apesar de conhecê-la há muito tempo, Rosemary de repente se torna sua primeira paixão. Em casa, os pais de Gabe, Adam e Leslie, estão esperando que o divórcio seja finalizado. Gabe e Rosemary começam a namorar, mas ela está indo para um acampamento em breve, ele entra em pânico. Suas tentativas de conquistá-la não funcionam, deixando-o confuso e infeliz.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9BC3AqynC8nul1t40hLPF5ephb8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f5XOH9b9oV7yzIqhKDEXtDx0uz9.jpg",
+  "tmdbId": 16553,
+  "nota": 7.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783909,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779005,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Little Manhattan",
+  "dataLancamento": "2005-09-26"
+}

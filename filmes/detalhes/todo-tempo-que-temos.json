@@ -1,0 +1,42 @@
+{
+  "id": "todo-tempo-que-temos",
+  "tipo": "filme",
+  "titulo": "Todo Tempo Que Temos",
+  "ano": null,
+  "descricao": "As vidas de Almut, uma talentosa chef de cozinha, e Tobias, um homem recém-divorciado, mudam para sempre quando eles se conhecem. Após um encontro inusitado, eles se apaixonam e constroem o lar e a família que sempre sonharam, até que uma verdade dolorosa põe à prova essa história de amor. Decididos a enfrentar as dificuldades, Almut e Tobias embarcam numa jornada emocionante, onde vão aprender que cada minuto conta quando estamos ao lado de quem amamos.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qqOmf6702TDz8esL4oJW6uTCijT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+  "tmdbId": 1100099,
+  "nota": 7.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790373,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779413,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783020,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "We Live in Time",
+  "dataLancamento": "2024-10-10"
+}

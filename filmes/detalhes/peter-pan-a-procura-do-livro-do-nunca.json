@@ -1,0 +1,41 @@
+{
+  "id": "peter-pan-a-procura-do-livro-do-nunca",
+  "tipo": "filme",
+  "titulo": "Peter Pan: À Procura do Livro do Nunca",
+  "ano": null,
+  "descricao": "O terrível Capitão Gancho ataca mais uma vez e rouba o Livro do Nunca, um exemplar muito antigo que contém poderes mágicos, ele deseja usá-lo para despertar terríveis criaturas na Terra do Nunca e destruir Peter Pan e seus amigos. Agora, Peter precisa mais uma vez salvar seu lar, sendo que a única forma de realizar esta tarefa é cumprindo com a profecia escrita no poderoso livro.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yorpiDdIQYMzhpcwn6HRErbP3F0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/67eGUVpD2wkDjI4xhG7YyVfzdUE.jpg",
+  "tmdbId": 557181,
+  "nota": 7.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789030,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771651,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771650,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Peter Pan: The Quest for the Never Book",
+  "dataLancamento": "2018-08-23"
+}

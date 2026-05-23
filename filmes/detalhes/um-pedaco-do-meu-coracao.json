@@ -1,0 +1,34 @@
+{
+  "id": "um-pedaco-do-meu-coracao",
+  "tipo": "filme",
+  "titulo": "Um Pedaço do Meu Coração",
+  "ano": null,
+  "descricao": "Isabella é uma mulher de negócios motivada e uma verdadeira estrela no mundo financeiro. Quando ela retorna à sua pequena cidade natal para comemorar o aniversário do pai, se sente uma vencedora em comparação com seus antigos colegas de classe. Porém, sua confiança fica abalada ao descobrir que uma antiga paixão vai se casar com uma de suas amigas de infância.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w3l5BUsadsBQuodKkD9PhwjOiJf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eagUiXSwD08WJhe4xqFxi4jgG5i.jpg",
+  "tmdbId": 593059,
+  "nota": 6.154,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790697,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774059,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "En del av mitt hjärta",
+  "dataLancamento": "2019-12-25"
+}

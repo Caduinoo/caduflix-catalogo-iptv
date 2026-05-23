@@ -1,0 +1,75 @@
+{
+  "id": "pioneiros-do-velho-oeste",
+  "tipo": "serie",
+  "titulo": "Pioneiros do Velho Oeste",
+  "ano": null,
+  "descricao": "Conheça as figuras lendárias que expandiram as fronteiras dos Estados Unidos em uma época em que o país ainda estava em seu início. Aventureiros, colonos e pioneiros: mito e realidade se fundem em suas biografias.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/530nnFTf4ogdsbN8de991fBjtby.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/JqUbXvvsYT7uyxKgR48QAZW5F3.jpg",
+  "tmdbId": 78928,
+  "nota": 6.7,
+  "xtreamSeriesId": 1564,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10832067",
+          "tipo": "episodio",
+          "titulo": "Pioneiros do Velho Oeste S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10832067",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/530nnFTf4ogdsbN8de991fBjtby.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832068",
+          "tipo": "episodio",
+          "titulo": "Pioneiros do Velho Oeste S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10832068",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/530nnFTf4ogdsbN8de991fBjtby.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832069",
+          "tipo": "episodio",
+          "titulo": "Pioneiros do Velho Oeste S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10832069",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/530nnFTf4ogdsbN8de991fBjtby.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832070",
+          "tipo": "episodio",
+          "titulo": "Pioneiros do Velho Oeste S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10832070",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/530nnFTf4ogdsbN8de991fBjtby.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "The Men Who Built America: Frontiersmen",
+  "dataLancamento": "2018-03-07"
+}

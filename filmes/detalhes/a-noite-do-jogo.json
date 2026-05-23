@@ -1,0 +1,34 @@
+{
+  "id": "a-noite-do-jogo",
+  "tipo": "filme",
+  "titulo": "A Noite do Jogo",
+  "ano": null,
+  "descricao": "Max e Annie participam de um grupo de casais que organizam noites de jogos. Quando o irmão de Max, Brooks, chega, ele decide organizar uma festa com os temas assassinato e mistério. No entanto, Brooks é sequestrado de verdade, mas o grupo acredita que tudo faz parte da misteriosa brincadeira. Os seis amigos competitivos precisam resolver o caso para vencer o jogo, cujo rumo vai se tornando cada vez mais inesperado.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fWbGZt8URdS8N4AVpTRupdBXClz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
+  "tmdbId": 445571,
+  "nota": 6.845,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783678,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772137,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Game Night",
+  "dataLancamento": "2018-02-15"
+}

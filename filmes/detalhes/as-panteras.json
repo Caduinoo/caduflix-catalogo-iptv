@@ -1,0 +1,41 @@
+{
+  "id": "as-panteras",
+  "tipo": "filme",
+  "titulo": "As Panteras",
+  "ano": null,
+  "descricao": "Natalie, Dylan e Alex são chamadas para resolver um possível caso de espionagem industrial, envolvendo um revolucionário software de reconhecimento de voz, que em mãos erradas colocaria em risco a privacidade e a segurança de todo o mundo. Tudo ia bem, até que Bosley é sequestrado e a sede da agência de investigações é destruída. Agora, mais do que nunca as panteras sabem que a vida de Charlie corre perigo. Mas como proteger alguém que você não conhece?",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3ZZogKW7RFV0MjmAP6zNF19mkKF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oq3IOr7QvEmei0eXsXacqaMPqlV.jpg",
+  "tmdbId": 4327,
+  "nota": 5.853,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769309,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782080,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782081,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Charlie's Angels",
+  "dataLancamento": "2000-11-02"
+}

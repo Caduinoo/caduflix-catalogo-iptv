@@ -1,0 +1,42 @@
+{
+  "id": "as-passageiras",
+  "tipo": "filme",
+  "titulo": "As Passageiras",
+  "ano": null,
+  "descricao": "Um jovem motorista leva duas mulheres misteriosas para uma noite de festa. Com essa corrida, ele nem imagina que colocou sua vida em risco.",
+  "generos": [
+    "LEGENDADOS",
+    "4K",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3DUvDoBOiaCXKw1JX09USlfXjkM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xmqXQOGxFaUCZr9wXrD2WD2V3aT.jpg",
+  "tmdbId": 669671,
+  "nota": 6.439,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784345,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782082,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11054561,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1779264079,
+  "tituloOriginal": "Night Teeth",
+  "dataLancamento": "2021-10-20"
+}

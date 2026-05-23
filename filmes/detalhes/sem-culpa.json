@@ -1,0 +1,34 @@
+{
+  "id": "sem-culpa",
+  "tipo": "filme",
+  "titulo": "Sem Culpa",
+  "ano": null,
+  "descricao": "O mundo de um ex-bombeiro da Cidade do Cabo é abalado quando ele acorda ao lado do corpo de sua esposa, sem memória do que aconteceu e todas as evidências apontam-lhe como o assassino.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uPrMoy75cIBQSnIX947CakeZ6Nx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/z22iYas6aljc1DgpyjhhNl7BmFX.jpg",
+  "tmdbId": 854467,
+  "nota": 6.644,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789667,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770691,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Indemnity",
+  "dataLancamento": "2022-02-11"
+}

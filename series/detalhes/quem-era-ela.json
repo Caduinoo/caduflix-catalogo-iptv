@@ -1,0 +1,75 @@
+{
+  "id": "quem-era-ela",
+  "tipo": "serie",
+  "titulo": "Quem Era Ela",
+  "ano": null,
+  "descricao": "Depois de ser escolhida para morar em uma casa ultraminimalista projetada pelo enigmático arquiteto Edward Monkford, Jane começa a questionar se seu destino será o mesmo da moradora anterior.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iLCUF74vUwpOfHcWpoOuITK3boH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tvXebdBI5LTQ52brqkF15teS4W5.jpg",
+  "tmdbId": 152365,
+  "nota": 6.263,
+  "xtreamSeriesId": 3799,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10895275",
+          "tipo": "episodio",
+          "titulo": "Quem Era Ela S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10895275",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wbsG9jUs9FkYwggrJLGquuYMihF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895276",
+          "tipo": "episodio",
+          "titulo": "Quem Era Ela S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10895276",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wbsG9jUs9FkYwggrJLGquuYMihF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895277",
+          "tipo": "episodio",
+          "titulo": "Quem Era Ela S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10895277",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wbsG9jUs9FkYwggrJLGquuYMihF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10895278",
+          "tipo": "episodio",
+          "titulo": "Quem Era Ela S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10895278",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wbsG9jUs9FkYwggrJLGquuYMihF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "The Girl Before",
+  "dataLancamento": "2021-12-19"
+}

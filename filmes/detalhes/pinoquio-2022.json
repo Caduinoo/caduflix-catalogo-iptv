@@ -1,0 +1,34 @@
+{
+  "id": "pinoquio-2022",
+  "tipo": "filme",
+  "titulo": "Pinóquio",
+  "ano": 2022,
+  "descricao": "O conto do boneco de madeira em uma arrepiante aventura para virar um menino de verdade, recontado.",
+  "generos": [
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2nvHcplURnWLL2RX6SQlwM63wu3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg",
+  "tmdbId": 532639,
+  "nota": 6.291,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050305,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11050347,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1779194334,
+  "tituloOriginal": "Pinocchio",
+  "dataLancamento": "2022-09-07"
+}

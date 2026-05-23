@@ -1,0 +1,42 @@
+{
+  "id": "o-sistema",
+  "tipo": "filme",
+  "titulo": "O Sistema",
+  "ano": null,
+  "descricao": "Quando um jovem soldado (Tyrese Gibson), recém-chegado da guerra, é pego em uma apreensão de drogas, ele é recrutado pelas autoridades para se infiltrar em uma prisão notoriamente perigosa para investigar o que realmente está acontecendo nos bastidores. Quando ele descobre um ringue subterrâneo de luta de prisioneiros, o diretor o força a competir. Para ganhar sua liberdade, ele deve lutar para se manter vivo, bem como derrubar o sistema corrupto do diretor.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nP4kUNBCYBCDPBtTZEfjllu7048.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iVytJHJmbAQ5wnPCbYYAt4xZqR6.jpg",
+  "tmdbId": 1024627,
+  "nota": 7.042,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788515,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770387,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782769,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "The System",
+  "dataLancamento": "2022-10-28"
+}

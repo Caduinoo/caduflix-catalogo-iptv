@@ -1,0 +1,75 @@
+{
+  "id": "um-beijo-do-gordo",
+  "tipo": "serie",
+  "titulo": "Um Beijo do Gordo",
+  "ano": null,
+  "descricao": "Com imagens inéditas, histórias nunca contadas e um acesso único à intimidade de Jô, a série traz um passeio emocionante e hilário por seus programas de humor, peças e talk shows.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4vxYM9QKYZbaiO7EvxwIXLrOOTW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/t3QnYWpwXs3kZtDpF7YZ7qZpikA.jpg",
+  "tmdbId": 260252,
+  "nota": null,
+  "xtreamSeriesId": 3308,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10880772",
+          "tipo": "episodio",
+          "titulo": "Um Beijo do Gordo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10880772",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4vxYM9QKYZbaiO7EvxwIXLrOOTW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880773",
+          "tipo": "episodio",
+          "titulo": "Um Beijo do Gordo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10880773",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4vxYM9QKYZbaiO7EvxwIXLrOOTW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880774",
+          "tipo": "episodio",
+          "titulo": "Um Beijo do Gordo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10880774",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4vxYM9QKYZbaiO7EvxwIXLrOOTW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880775",
+          "tipo": "episodio",
+          "titulo": "Um Beijo do Gordo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10880775",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4vxYM9QKYZbaiO7EvxwIXLrOOTW.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Um Beijo do Gordo",
+  "dataLancamento": "2024-07-28"
+}

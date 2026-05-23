@@ -1,0 +1,135 @@
+{
+  "id": "wandavision",
+  "tipo": "serie",
+  "titulo": "WandaVision",
+  "ano": null,
+  "descricao": "Wanda Maximoff  e Visão, um casal de super-heróis com uma vida perfeita, que começa a suspeitar que nem tudo é o que parece.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+  "tmdbId": 85271,
+  "nota": 8.191,
+  "xtreamSeriesId": 2125,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10849123",
+          "tipo": "episodio",
+          "titulo": "WandaVision S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10849123",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849124",
+          "tipo": "episodio",
+          "titulo": "WandaVision S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10849124",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849125",
+          "tipo": "episodio",
+          "titulo": "WandaVision S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10849125",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849126",
+          "tipo": "episodio",
+          "titulo": "WandaVision S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10849126",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849127",
+          "tipo": "episodio",
+          "titulo": "WandaVision S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10849127",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849128",
+          "tipo": "episodio",
+          "titulo": "WandaVision S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10849128",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849129",
+          "tipo": "episodio",
+          "titulo": "WandaVision S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10849129",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849130",
+          "tipo": "episodio",
+          "titulo": "WandaVision S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10849130",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849131",
+          "tipo": "episodio",
+          "titulo": "WandaVision S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10849131",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 9,
+  "tituloOriginal": "WandaVision",
+  "dataLancamento": "2021-01-15"
+}

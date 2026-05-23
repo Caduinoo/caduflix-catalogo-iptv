@@ -1,0 +1,99 @@
+{
+  "id": "dragon-age-absolvicao",
+  "tipo": "serie",
+  "titulo": "Dragon Age: Absolvição",
+  "ano": null,
+  "descricao": "Um grande poder está em jogo e um grupo de rebeldes precisa se unir para roubar o artefato de um mago sinistro.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3dYjbAgynVeh0aHQAoxcw2UswqA.jpg",
+  "tmdbId": 203805,
+  "nota": 6.402,
+  "xtreamSeriesId": 4431,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906873",
+          "tipo": "episodio",
+          "titulo": "Dragon Age Absolvição S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906873",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906874",
+          "tipo": "episodio",
+          "titulo": "Dragon Age Absolvição S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906874",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906875",
+          "tipo": "episodio",
+          "titulo": "Dragon Age Absolvição S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906875",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906876",
+          "tipo": "episodio",
+          "titulo": "Dragon Age Absolvição S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906876",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906877",
+          "tipo": "episodio",
+          "titulo": "Dragon Age Absolvição S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10906877",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906878",
+          "tipo": "episodio",
+          "titulo": "Dragon Age Absolvição S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10906878",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUCKP531G5ttqKGP6QatGalW3vk.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Dragon Age: Absolution",
+  "dataLancamento": "2022-12-09"
+}

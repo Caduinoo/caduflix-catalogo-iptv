@@ -1,0 +1,42 @@
+{
+  "id": "os-rejeitados",
+  "tipo": "filme",
+  "titulo": "Os Rejeitados",
+  "ano": null,
+  "descricao": "Um professor mal-humorado de uma prestigiada escola americana é forçado a cuidar de um grupo de alunos que não tem para onde ir durante as férias de Natal. Ele acaba criando um vínculo com um dos estudantes e com a cozinheira da escola, que acaba de perder seu filho no Vietnã.",
+  "generos": [
+    "COMÉDIA",
+    "4K",
+    "OSCAR"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ek4FmIkKlH30xthKs2ANqrV7SOI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/A99WMiz0ASpH9coOFrxSEuwTWx0.jpg",
+  "tmdbId": 840430,
+  "nota": 7.644,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773563,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782817,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778833,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "The Holdovers",
+  "dataLancamento": "2023-10-27"
+}

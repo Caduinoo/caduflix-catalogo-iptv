@@ -1,0 +1,34 @@
+{
+  "id": "simbad-e-a-princesa",
+  "tipo": "filme",
+  "titulo": "Simbad e a Princesa",
+  "ano": null,
+  "descricao": "O lendário marinheiro Simbad embarca em uma viagem perigosa e cheia de aventuras até a misteriosa ilha de Colosso, com a intenção de quebrar a maldição lançada por um bruxo contra a princesa por quem está apaixonado. Para salvá-la, ele deve lutar contra inúmeros monstros míticos, como o Ciclope devorador de homens, um esqueleto empunhando um sabre, um feroz pássaro de duas cabeças chamado Roc e um dragão que atira chamas de fogo de sua boca.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/j3iZy4nbUxMgL5TrroxeUvcTowg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7SpPegB2KUrFdudZgv7Ppl8FRGH.jpg",
+  "tmdbId": 15515,
+  "nota": 6.926,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789757,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770729,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "The 7th Voyage of Sinbad",
+  "dataLancamento": "1958-12-05"
+}

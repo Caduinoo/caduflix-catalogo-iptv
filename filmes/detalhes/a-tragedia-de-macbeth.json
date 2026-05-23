@@ -1,0 +1,42 @@
+{
+  "id": "a-tragedia-de-macbeth",
+  "tipo": "filme",
+  "titulo": "A Tragédia de Macbeth",
+  "ano": null,
+  "descricao": "Três bruxas convencem Lord Macbeth de que ele se tornará o próximo rei da Escócia e sua ambiciosa esposa está disposta a tudo para ajudá-lo em seu plano de conquistar o poder.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pIKT6a3bD44a5sY4vVdP4xSPm9f.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lMjY6kMBOHhloz2Ul16fLJn8xuw.jpg",
+  "tmdbId": 591538,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783817,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774712,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10791638,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "The Tragedy of Macbeth",
+  "dataLancamento": "2021-12-05"
+}

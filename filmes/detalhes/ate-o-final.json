@@ -1,0 +1,34 @@
+{
+  "id": "ate-o-final",
+  "tipo": "filme",
+  "titulo": "Até o Final",
+  "ano": null,
+  "descricao": "Um pai resolve levar sua filha para acampar quando são surpreendidos por um apocalipse zumbi.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/e0wgAHmcB2BlNU2lShLdej01EEh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/u9ZI8sadr89Q39ytbGPJT207vpm.jpg",
+  "tmdbId": 707214,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784435,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780489,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "The Clearing",
+  "dataLancamento": "2020-06-04"
+}

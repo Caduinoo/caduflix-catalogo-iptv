@@ -1,0 +1,34 @@
+{
+  "id": "o-pequeno-tom",
+  "tipo": "filme",
+  "titulo": "O Pequeno Tom",
+  "ano": null,
+  "descricao": "Tom é um garoto de onze anos que mora com sua mãe em um trailer no meio da floresta. Os dois sempre se ajudam e parecem demonstrar um inabalável otimismo, mas a chegada de um ex-presidiário mudará a relação entre eles.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/d5MDAU6tjHGMWWU971r4v4Kjm1E.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nNqDMNqQm2LmTYey1nHRYCfZl71.jpg",
+  "tmdbId": 892511,
+  "nota": 5.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788353,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776220,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Tom",
+  "dataLancamento": "2022-05-11"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "parques-nacionais-dos-estados-unidos",
+  "tipo": "serie",
+  "titulo": "Parques Nacionais dos Estados Unidos",
+  "ano": null,
+  "descricao": "A série mostra as paisagens e vida selvagem de dez parques incrivelmente diversos e belos, alguns famosos e outros surpreendentemente desconhecidos. Cada um destes parques é uma joia natural e juntos deviam ser celebrados como um Tesouro Nacional.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bnpR0WOR3AxtwfO00bR81LrkReP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/re1SHTIIbpTrRKuhj7D1olvcYse.jpg",
+  "tmdbId": 207459,
+  "nota": 7.5,
+  "xtreamSeriesId": 2007,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10846036",
+          "tipo": "episodio",
+          "titulo": "Parques Nacionais dos Estados Unidos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10846036",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bnpR0WOR3AxtwfO00bR81LrkReP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846037",
+          "tipo": "episodio",
+          "titulo": "Parques Nacionais dos Estados Unidos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10846037",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bnpR0WOR3AxtwfO00bR81LrkReP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846038",
+          "tipo": "episodio",
+          "titulo": "Parques Nacionais dos Estados Unidos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10846038",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bnpR0WOR3AxtwfO00bR81LrkReP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846039",
+          "tipo": "episodio",
+          "titulo": "Parques Nacionais dos Estados Unidos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10846039",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bnpR0WOR3AxtwfO00bR81LrkReP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846040",
+          "tipo": "episodio",
+          "titulo": "Parques Nacionais dos Estados Unidos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10846040",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bnpR0WOR3AxtwfO00bR81LrkReP.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "America's National Parks",
+  "dataLancamento": "2022-08-29"
+}

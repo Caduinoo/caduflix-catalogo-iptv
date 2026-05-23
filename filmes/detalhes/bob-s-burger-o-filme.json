@@ -1,0 +1,34 @@
+{
+  "id": "bob-s-burger-o-filme",
+  "tipo": "filme",
+  "titulo": "Bob's Burger: O Filme",
+  "ano": null,
+  "descricao": "Um cano rompido cria um buraco em frente ao Bob's Burgers, bloqueando a entrada e arruinando os planos de um verão bem-sucedido. Enquanto Bob e Linda lutam para manter o negócio, as crianças tentam resolver um mistério que pode salvar o restaurante da família. Os perigos aumentam, e eles se ajudam, lutando para voltar para trás do balcão.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/h4NtdQn1Gm6wNLZDcCuasVPv3Oh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pTfUqVyM3mRuxvUiAvaSmdBrhdl.jpg",
+  "tmdbId": 504827,
+  "nota": 6.978,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784669,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771185,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "The Bob's Burgers Movie",
+  "dataLancamento": "2022-05-26"
+}

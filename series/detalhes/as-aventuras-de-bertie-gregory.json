@@ -1,0 +1,87 @@
+{
+  "id": "as-aventuras-de-bertie-gregory",
+  "tipo": "serie",
+  "titulo": "As Aventuras de Bertie Gregory",
+  "ano": null,
+  "descricao": "Parte vida selvagem, parte aventura. Acompanhe as viagens do jovem explorador da National Geographic, Bertie Gregory, enquanto ele percorre o mundo capturando imagens extraordinárias de animais selvagens. Com uma combinação de maestria técnica, camuflagens secretas e extrema perseverança, ele e sua equipe tentam superar desafios e perigos para chegar o mais perto possível da vida selvagem seguindo as regras dela.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nVS14l2HQqe4uL99sDLTLPQQ8cD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gLkhbFOtim8Uz98l416E7MW4Zi2.jpg",
+  "tmdbId": 157215,
+  "nota": 7.8,
+  "xtreamSeriesId": 1693,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10835396",
+          "tipo": "episodio",
+          "titulo": "As Aventuras de Bertie Gregory S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10835396",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nVS14l2HQqe4uL99sDLTLPQQ8cD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835397",
+          "tipo": "episodio",
+          "titulo": "As Aventuras de Bertie Gregory S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10835397",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nVS14l2HQqe4uL99sDLTLPQQ8cD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835398",
+          "tipo": "episodio",
+          "titulo": "As Aventuras de Bertie Gregory S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10835398",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nVS14l2HQqe4uL99sDLTLPQQ8cD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835399",
+          "tipo": "episodio",
+          "titulo": "As Aventuras de Bertie Gregory S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10835399",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nVS14l2HQqe4uL99sDLTLPQQ8cD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10835400",
+          "tipo": "episodio",
+          "titulo": "As Aventuras de Bertie Gregory S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10835400",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nVS14l2HQqe4uL99sDLTLPQQ8cD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Epic Adventures with Bertie Gregory",
+  "dataLancamento": "2022-09-08"
+}

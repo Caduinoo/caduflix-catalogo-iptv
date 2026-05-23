@@ -1,0 +1,99 @@
+{
+  "id": "esportes-pelo-mundo",
+  "tipo": "serie",
+  "titulo": "Esportes pelo Mundo",
+  "ano": null,
+  "descricao": "Narrada por Idris Elba, esta série documental explora as origens e a evolução dos esportes pelo mundo, mostrando desde rituais ancestrais até negócios bilionários.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vrabCpb0NFQnLPVgvVyqODWCnIy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nbG8LX41a5ngah5BuSKLLa8phBp.jpg",
+  "tmdbId": 211269,
+  "nota": 6.9,
+  "xtreamSeriesId": 4458,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907218",
+          "tipo": "episodio",
+          "titulo": "Esportes pelo Mundo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907218",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrabCpb0NFQnLPVgvVyqODWCnIy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907219",
+          "tipo": "episodio",
+          "titulo": "Esportes pelo Mundo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907219",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrabCpb0NFQnLPVgvVyqODWCnIy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907220",
+          "tipo": "episodio",
+          "titulo": "Esportes pelo Mundo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907220",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrabCpb0NFQnLPVgvVyqODWCnIy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907221",
+          "tipo": "episodio",
+          "titulo": "Esportes pelo Mundo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907221",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrabCpb0NFQnLPVgvVyqODWCnIy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907222",
+          "tipo": "episodio",
+          "titulo": "Esportes pelo Mundo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907222",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrabCpb0NFQnLPVgvVyqODWCnIy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907223",
+          "tipo": "episodio",
+          "titulo": "Esportes pelo Mundo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907223",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vrabCpb0NFQnLPVgvVyqODWCnIy.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Human Playground",
+  "dataLancamento": "2022-09-30"
+}

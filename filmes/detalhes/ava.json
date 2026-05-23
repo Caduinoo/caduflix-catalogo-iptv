@@ -1,0 +1,34 @@
+{
+  "id": "ava",
+  "tipo": "filme",
+  "titulo": "Ava",
+  "ano": null,
+  "descricao": "Atormentada por dúvidas, uma assassina de elite luta para proteger a si mesma e a sua família depois que uma missão dá errado.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uobkkvvKCZbTKpJCMnvuTRQt5bV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/54yOImQgj8i85u9hxxnaIQBRUuo.jpg",
+  "tmdbId": 539885,
+  "nota": 5.825,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784453,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769352,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Ava",
+  "dataLancamento": "2020-07-02"
+}

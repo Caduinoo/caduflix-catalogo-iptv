@@ -1,0 +1,34 @@
+{
+  "id": "um-conto-chines",
+  "tipo": "filme",
+  "titulo": "Um Conto Chinês",
+  "ano": null,
+  "descricao": "A história de um rabugento dono de uma casa de ferragens que, inesperadamente, se depara com o cenário de ajudar um chinês que foi jogado de um carro e não fala uma palavra em espanhol.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kWiuq0U0SKPQLYAZIc6wHUIcwrm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fqRJLbbakXAT88XTBVz0no4xavg.jpg",
+  "tmdbId": 67884,
+  "nota": 7.243,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790561,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774017,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Un cuento chino",
+  "dataLancamento": "2011-03-24"
+}

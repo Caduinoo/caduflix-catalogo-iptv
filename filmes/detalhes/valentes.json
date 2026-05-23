@@ -1,0 +1,42 @@
+{
+  "id": "valentes",
+  "tipo": "filme",
+  "titulo": "A Hora dos Valentes",
+  "ano": null,
+  "descricao": "Um psicanalista prestando serviço comunitário ajuda um agente a superar uma infidelidade. Juntos, eles enfrentam uma série de perigos e descobrem que existem segundas chances.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dXa93VNH1uF3IJyOIKyxsHooAIY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
+  "tmdbId": 1589891,
+  "nota": 7.485,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790929,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777072,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783090,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "La hora de los valientes",
+  "dataLancamento": "2025-12-18"
+}

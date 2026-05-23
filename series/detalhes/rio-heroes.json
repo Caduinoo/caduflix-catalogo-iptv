@@ -1,0 +1,87 @@
+{
+  "id": "rio-heroes",
+  "tipo": "serie",
+  "titulo": "Rio Heroes",
+  "ano": null,
+  "descricao": "Jorge Pereira (Murilo Rosa) é um lutador brasileiro de jiu-jitsu que nunca gostou de obedecer regras. Esse foi um dos motivos que o levou a criar um campeonato de vale-tudo semiclandestino, e não demorou muito para que a atividade ganhasse fama para além das fronteiras do País, conquistando público nos Estados Unidos.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6QqB9WxeV9htZTr4LQ9VThIrUNh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xNinfGS2HUcn5zGe9OwnNFQGJBj.jpg",
+  "tmdbId": 77448,
+  "nota": 8.5,
+  "xtreamSeriesId": 6301,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10987372",
+          "tipo": "episodio",
+          "titulo": "Rio Heroes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10987372",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6QqB9WxeV9htZTr4LQ9VThIrUNh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10987373",
+          "tipo": "episodio",
+          "titulo": "Rio Heroes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10987373",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6QqB9WxeV9htZTr4LQ9VThIrUNh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10987374",
+          "tipo": "episodio",
+          "titulo": "Rio Heroes S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10987374",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6QqB9WxeV9htZTr4LQ9VThIrUNh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10987375",
+          "tipo": "episodio",
+          "titulo": "Rio Heroes S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10987375",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6QqB9WxeV9htZTr4LQ9VThIrUNh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10987376",
+          "tipo": "episodio",
+          "titulo": "Rio Heroes S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10987376",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6QqB9WxeV9htZTr4LQ9VThIrUNh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Rio Heroes",
+  "dataLancamento": "2018-02-24"
+}

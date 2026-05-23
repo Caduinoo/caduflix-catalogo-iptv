@@ -1,0 +1,34 @@
+{
+  "id": "bibi",
+  "tipo": "filme",
+  "titulo": "Bibi",
+  "ano": null,
+  "descricao": "Vivian vive à beira do colapso e acredita estar sendo perseguida. Afundada em medicamentos e álcool, ela passa a confundir pesadelos e realidade e, ao tentar proteger a filha Bibi, embarca em uma jornada perturbadora.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dPtIosJaXBlBADfTqhYY2suRuhi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oFeJDUJVtXqU2697glYGQamAOo3.jpg",
+  "tmdbId": 1092806,
+  "nota": 7.222,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11022222,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11020488,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1774006615,
+  "tituloOriginal": "Bibi",
+  "dataLancamento": "2023-06-29"
+}

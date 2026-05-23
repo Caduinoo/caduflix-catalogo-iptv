@@ -1,0 +1,63 @@
+{
+  "id": "the-plot-against-america",
+  "tipo": "serie",
+  "titulo": "The Plot Against America",
+  "ano": null,
+  "descricao": "Baseada no romance homônimo de Philip Roth e contada através dos olhos de uma família judia em Nova Jersey, a série apresenta uma história alternativa arrepiante onde o antissemitismo faz parte da vida americana durante a Segunda Guerra Mundial.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rC5GUHvKxlk3WPyCh4mQ5q6HDxG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5bbXx8oopd6a6ZeG7uuxQK6JFRp.jpg",
+  "tmdbId": 83870,
+  "nota": 6.71,
+  "xtreamSeriesId": 3291,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10880503",
+          "tipo": "episodio",
+          "titulo": "The Plot Against America S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10880503",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rC5GUHvKxlk3WPyCh4mQ5q6HDxG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880504",
+          "tipo": "episodio",
+          "titulo": "The Plot Against America S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10880504",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rC5GUHvKxlk3WPyCh4mQ5q6HDxG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880505",
+          "tipo": "episodio",
+          "titulo": "The Plot Against America S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10880505",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rC5GUHvKxlk3WPyCh4mQ5q6HDxG.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "The Plot Against America",
+  "dataLancamento": "2020-03-16"
+}

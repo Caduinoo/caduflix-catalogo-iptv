@@ -1,0 +1,42 @@
+{
+  "id": "donzela",
+  "tipo": "filme",
+  "titulo": "Donzela",
+  "ano": null,
+  "descricao": "O casamento de uma jovem com um príncipe encantado se transforma em uma luta por sobrevivência quando ela é oferecida em sacrifício a um dragão que cospe fogo.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2edvwBRhOY34bFDHj0bcokZGdJg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
+  "tmdbId": 763215,
+  "nota": 6.984,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785561,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769640,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782293,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Damsel",
+  "dataLancamento": "2024-03-07"
+}

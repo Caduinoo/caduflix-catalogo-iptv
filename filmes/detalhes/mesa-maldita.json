@@ -1,0 +1,34 @@
+{
+  "id": "mesa-maldita",
+  "tipo": "filme",
+  "titulo": "Mesa Maldita",
+  "ano": null,
+  "descricao": "Jesus e Maria acabaram de ter um bebê, mas estão passando por um momento difícil em seu relacionamento. Eles decidem comprar uma mesa de centro, sem saber que esta aquisição mudará suas vidas para sempre.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wq2LfaMr486SZoBOmQiVtgr77XE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7mij6m3a2rmaj7SvQf1dPyu7mqZ.jpg",
+  "tmdbId": 1056380,
+  "nota": 6.87,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787265,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780941,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "La mesita del comedor",
+  "dataLancamento": "2023-11-30"
+}

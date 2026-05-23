@@ -12,9 +12,52 @@
   "tmdbId": 222208,
   "nota": 5.5,
   "xtreamSeriesId": 5745,
-  "temporadas": [],
-  "totalTemporadas": 0,
-  "totalEpisodios": 0,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10970215",
+          "tipo": "episodio",
+          "titulo": "A Direita no Brasil S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10970215",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hDyGKTuEd4qWl6m3MUN3V9bLYtc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10970216",
+          "tipo": "episodio",
+          "titulo": "A Direita no Brasil S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10970216",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hDyGKTuEd4qWl6m3MUN3V9bLYtc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10970217",
+          "tipo": "episodio",
+          "titulo": "A Direita no Brasil S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10970217",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hDyGKTuEd4qWl6m3MUN3V9bLYtc.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
   "tituloOriginal": "A Direita no Brasil",
   "dataLancamento": "2023-03-13"
 }

@@ -1,0 +1,34 @@
+{
+  "id": "martha",
+  "tipo": "filme",
+  "titulo": "Martha Marcy May Marlene",
+  "ano": null,
+  "descricao": "Depois de viver sob as regras de um culto abusivo, Martha foge para se reunir com sua família. Entretanto, ela volta paranoica e atormentada por alucinações, dificultando sua readaptação à sociedade.",
+  "generos": [
+    "LEGENDADOS",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nzn72ySJTZ6GSY131GypYkTF8R2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eN60BXsEWxFfgatPpYbGMVO5qdM.jpg",
+  "tmdbId": 50837,
+  "nota": 6.572,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787158,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782556,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Martha Marcy May Marlene",
+  "dataLancamento": "2011-10-21"
+}

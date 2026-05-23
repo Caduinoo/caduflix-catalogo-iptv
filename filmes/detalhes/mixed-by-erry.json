@@ -1,0 +1,34 @@
+{
+  "id": "mixed-by-erry",
+  "tipo": "filme",
+  "titulo": "Mixed by Erry",
+  "ano": null,
+  "descricao": "A ascensão e queda do império de mixtapes piratas de três irmãos de Nápoles, Itália, que trouxeram a música pop nas mãos de uma geração.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wkC1bTYLyi1psSFpUn1vSjU7yHE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jxhjb4TnIXtXHLgD9fg7erNXPCP.jpg",
+  "tmdbId": 921785,
+  "nota": 7.444,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787427,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773196,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Mixed by Erry",
+  "dataLancamento": "2023-03-02"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "el-turco",
+  "tipo": "serie",
+  "titulo": "El Turco",
+  "ano": null,
+  "descricao": "No século XVI, o soldado Balaban e a misteriosa Glória vivem um romance enquanto lutam pelos direitos do povoado de Moena na batalha épica contra os italianos do palácio de Trento.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cyfyZvzxnnqRp8UjPSIwlHv6pWe.jpg",
+  "tmdbId": 220377,
+  "nota": 7.5,
+  "xtreamSeriesId": 2993,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10869636",
+          "tipo": "episodio",
+          "titulo": "El Turco S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10869636",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869637",
+          "tipo": "episodio",
+          "titulo": "El Turco S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10869637",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869638",
+          "tipo": "episodio",
+          "titulo": "El Turco S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10869638",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869639",
+          "tipo": "episodio",
+          "titulo": "El Turco S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10869639",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869640",
+          "tipo": "episodio",
+          "titulo": "El Turco S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10869640",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869641",
+          "tipo": "episodio",
+          "titulo": "El Turco S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10869641",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "El Turco",
+  "dataLancamento": "2025-04-02"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "game-star-a-jogada-final",
+  "tipo": "filme",
+  "titulo": "Game Star: A Jogada Final",
+  "ano": null,
+  "descricao": "Um viajante espacial cai em um planeta que abriga uma prisão intergaláctica.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5zseQW3xMUQxWAFWxZgMMQNOayW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rU4foD7YdD0bZZ7EnsNTsaQeehF.jpg",
+  "tmdbId": 647781,
+  "nota": 5.019,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786172,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777773,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "The Intergalactic Adventures of Max Cloud",
+  "dataLancamento": "2020-12-18"
+}

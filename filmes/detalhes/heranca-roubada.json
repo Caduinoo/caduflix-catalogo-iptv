@@ -1,0 +1,34 @@
+{
+  "id": "heranca-roubada",
+  "tipo": "filme",
+  "titulo": "Herança Roubada",
+  "ano": null,
+  "descricao": "Neste drama emocionante inspirado em uma história real, uma jovem de uma comunidade indígena da Suécia busca vingança contra um assassino.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bZLo7tbOfbZWiSBsWz2tKWdSKmj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ptjodfJgt3CSdryZI4zP9HsAWGS.jpg",
+  "tmdbId": 1019317,
+  "nota": 6.228,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786379,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775562,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Stöld",
+  "dataLancamento": "2024-04-12"
+}

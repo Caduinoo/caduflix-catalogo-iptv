@@ -1,0 +1,63 @@
+{
+  "id": "jfk-one-day-in-america",
+  "tipo": "serie",
+  "titulo": "JFK: O Dia em que o Mundo Parou",
+  "ano": null,
+  "descricao": "No dia 22 de Novembro de 1963, o presidente dos Estados Unidos da América, John F. Kennedy, foi assassinado. No 60º aniversário da data, esta série nos leva àquele dia quase em tempo real. Em três episódios, veremos o assassinato presidencial, a enorme caçada humana, o assassinato de um policial e a morte do assassino. A série oferece de uma maneira totalmente nova perspectivas sobre os múltiplos ângulos do dia, esclarecendo pontos e atraindo a audiência em todo o mundo.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wydZ0nx2ExjT4jpbJZCx57LKHhH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dc5ADwN2cz0JZph0KFto60JzPNZ.jpg",
+  "tmdbId": 230228,
+  "nota": 7.2,
+  "xtreamSeriesId": 1860,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10841064",
+          "tipo": "episodio",
+          "titulo": "JFK One Day In America S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10841064",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wydZ0nx2ExjT4jpbJZCx57LKHhH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841065",
+          "tipo": "episodio",
+          "titulo": "JFK One Day In America S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10841065",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wydZ0nx2ExjT4jpbJZCx57LKHhH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841066",
+          "tipo": "episodio",
+          "titulo": "JFK One Day In America S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10841066",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wydZ0nx2ExjT4jpbJZCx57LKHhH.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "JFK: One Day in America",
+  "dataLancamento": "2023-11-05"
+}

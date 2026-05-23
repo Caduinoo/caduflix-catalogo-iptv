@@ -1,0 +1,111 @@
+{
+  "id": "a-mulher-no-lago",
+  "tipo": "serie",
+  "titulo": "A Mulher no Lago",
+  "ano": null,
+  "descricao": "Quando o desaparecimento de uma menina atinge a cidade de Baltimore em 1966, as vidas de duas mulheres convergem em uma rota de colisão fatal.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z7c7lJGZqxiW5aV69hzWQ11PctM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iYQlpBH9RHmoDVcvGsvNpG3Ikx5.jpg",
+  "tmdbId": 120549,
+  "nota": 6.6,
+  "xtreamSeriesId": 786,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10811354",
+          "tipo": "episodio",
+          "titulo": "A Mulher no Lago S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10811354",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z7c7lJGZqxiW5aV69hzWQ11PctM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10811355",
+          "tipo": "episodio",
+          "titulo": "A Mulher no Lago S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10811355",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z7c7lJGZqxiW5aV69hzWQ11PctM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10811356",
+          "tipo": "episodio",
+          "titulo": "A Mulher no Lago S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10811356",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z7c7lJGZqxiW5aV69hzWQ11PctM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10811357",
+          "tipo": "episodio",
+          "titulo": "A Mulher no Lago S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10811357",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z7c7lJGZqxiW5aV69hzWQ11PctM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10811358",
+          "tipo": "episodio",
+          "titulo": "A Mulher no Lago S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10811358",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z7c7lJGZqxiW5aV69hzWQ11PctM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10811359",
+          "tipo": "episodio",
+          "titulo": "A Mulher no Lago S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10811359",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z7c7lJGZqxiW5aV69hzWQ11PctM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10811360",
+          "tipo": "episodio",
+          "titulo": "A Mulher no Lago S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10811360",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z7c7lJGZqxiW5aV69hzWQ11PctM.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Lady in the Lake",
+  "dataLancamento": "2024-07-18"
+}

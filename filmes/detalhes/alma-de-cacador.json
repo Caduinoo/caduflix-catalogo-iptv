@@ -1,0 +1,34 @@
+{
+  "id": "alma-de-cacador",
+  "tipo": "filme",
+  "titulo": "Alma de Caçador",
+  "ano": null,
+  "descricao": "Um assassino aposentado volta à ativa quando descobre uma conspiração perigosa dentro do governo sul-africano.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vFcKla48r8OUTKiSMXnSwKNSTsn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wUp0bUXaveR40ikBhDgWwNTijuD.jpg",
+  "tmdbId": 1181548,
+  "nota": 5.764,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784037,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769256,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Heart of the Hunter",
+  "dataLancamento": "2024-03-28"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "pets-em-acao",
+  "tipo": "filme",
+  "titulo": "Pets em Ação!",
+  "ano": null,
+  "descricao": "Gracie e Pedro não poderiam ser mais diferentes! Ela é uma cachorrinha de raça que acredita ser a melhor de todas, enquanto ele é um gato adotado que se contenta com aventuras nas ruas e até jantar do lixo. Apesar de serem da mesma família, eles não se suportam e vivem discutindo por qualquer coisinha. Durante uma viagem em família, eles acabam se perdendo no aeroporto e, agora, Gracie e Pedro precisam superar suas diferenças e unir forças para encontrar o caminho de volta para casa e para a família que tanto amam.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/15qZcDm6v9QB8Wcx8su3KNOPKH2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AjTodtZJlQxycfRPktnUTpknblv.jpg",
+  "tmdbId": 1207830,
+  "nota": 6.898,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789035,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771655,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Gracie & Pedro: Pets to the Rescue",
+  "dataLancamento": "2024-05-01"
+}

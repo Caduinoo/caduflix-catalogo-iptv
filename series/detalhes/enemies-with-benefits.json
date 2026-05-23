@@ -1,0 +1,51 @@
+{
+  "id": "enemies-with-benefits",
+  "tipo": "serie",
+  "titulo": "ลัลล์ไม่ชอบไวน์",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fZfi91LR6vx68OhLAJKuScYAhRU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yMoYIZdf3GGqnXil0sCzIryl4do.jpg",
+  "tmdbId": 307432,
+  "nota": 10,
+  "xtreamSeriesId": 7503,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11041453",
+          "tipo": "episodio",
+          "titulo": "Enemies With Benefits (2026) [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11041453",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fZfi91LR6vx68OhLAJKuScYAhRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11041454",
+          "tipo": "episodio",
+          "titulo": "Enemies With Benefits (2026) [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11041454",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fZfi91LR6vx68OhLAJKuScYAhRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "ลัลล์ไม่ชอบไวน์",
+  "dataLancamento": "2026-05-03"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-motorista-de-aplicativo",
+  "tipo": "filme",
+  "titulo": "O Motorista de Aplicativo",
+  "ano": null,
+  "descricao": "O romance de um jovem é ameaçado quando ele se torna amigo de um motorista instável.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lfcR6c3MPoScJnzqfZCdKfNZVqB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uJN9BXZuFOqKGcuBsyUBDNUXRgJ.jpg",
+  "tmdbId": 724901,
+  "nota": 4.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788303,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781165,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Stalker",
+  "dataLancamento": "2020-08-31"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "royalteen",
+  "tipo": "filme",
+  "titulo": "Royalteen",
+  "ano": null,
+  "descricao": "Ela começou um romance inesperado com o príncipe herdeiro, mas vai ter que fazer de tudo para impedir que seu passado escandaloso (e um grande segredo) sejam revelados.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/n7ptP3khuhWHrTvFO0VCVPs6EVY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3tH9dFvqBF9HQZOtpn2RRxZVyqL.jpg",
+  "tmdbId": 996518,
+  "nota": 5.824,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789530,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779370,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Royalteen: Arvingen",
+  "dataLancamento": "2022-08-17"
+}

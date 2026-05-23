@@ -1,0 +1,34 @@
+{
+  "id": "segredos",
+  "tipo": "filme",
+  "titulo": "Segredos",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hXvBc1oHvOZtGPQiUY18vMWJBxf.jpg",
+  "banner": null,
+  "tmdbId": 719060,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789635,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780057,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Segredos",
+  "dataLancamento": "2010-01-01"
+}

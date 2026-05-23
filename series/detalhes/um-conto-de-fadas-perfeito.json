@@ -1,0 +1,87 @@
+{
+  "id": "um-conto-de-fadas-perfeito",
+  "tipo": "serie",
+  "titulo": "Um Conto de Fadas Perfeito",
+  "ano": null,
+  "descricao": "Quando foge do próprio casamento, Margot se sente perdida. Mal sabe ela que David e seu caos encantador podem ajudá-la a se reencontrar.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AuqvwOLmvkPfe9lAQmUJVXf34SM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kopWhwMvga5WbJznalmhhtvjRos.jpg",
+  "tmdbId": 226216,
+  "nota": 7.813,
+  "xtreamSeriesId": 5401,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10926941",
+          "tipo": "episodio",
+          "titulo": "Um Conto de Fadas Perfeito S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10926941",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AuqvwOLmvkPfe9lAQmUJVXf34SM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926942",
+          "tipo": "episodio",
+          "titulo": "Um Conto de Fadas Perfeito S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10926942",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AuqvwOLmvkPfe9lAQmUJVXf34SM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926943",
+          "tipo": "episodio",
+          "titulo": "Um Conto de Fadas Perfeito S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10926943",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AuqvwOLmvkPfe9lAQmUJVXf34SM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926944",
+          "tipo": "episodio",
+          "titulo": "Um Conto de Fadas Perfeito S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10926944",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AuqvwOLmvkPfe9lAQmUJVXf34SM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926945",
+          "tipo": "episodio",
+          "titulo": "Um Conto de Fadas Perfeito S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10926945",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/AuqvwOLmvkPfe9lAQmUJVXf34SM.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Un cuento perfecto",
+  "dataLancamento": "2023-07-28"
+}

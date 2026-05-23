@@ -1,0 +1,34 @@
+{
+  "id": "ultravioleta",
+  "tipo": "filme",
+  "titulo": "Ultravioleta",
+  "ano": null,
+  "descricao": "Uma mulher no meio de uma guerra civil futurística entre o governo e uma subcultura de humanos geneticamente modificados dotados de mais velocidade, força e inteligência. Na tentativa de proteger um garoto que foi jurado de morte, ela precisa se defender do governo humano.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oUjrVXrASYin8N7kJZ3gqgxIeHp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dSMWw6rNIKqtHyWEIkDa8u7Mboa.jpg",
+  "tmdbId": 9920,
+  "nota": 5.216,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790533,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777492,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Ultraviolet",
+  "dataLancamento": "2006-03-03"
+}

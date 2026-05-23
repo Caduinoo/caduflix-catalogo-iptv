@@ -1,0 +1,34 @@
+{
+  "id": "menino-malvado",
+  "tipo": "filme",
+  "titulo": "Menino Malvado",
+  "ano": null,
+  "descricao": "Peter era um garoto cruel até o dia em que o filho de um dos funcionários de sua família resolve dar-lhe uma lição. O garoto é enterrado dentro de um caixão e acaba soterrado após um forte terremoto atingir a cidade.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2ngNyfJf9yyK6GNiubrqD5QUTIf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6IMhJ8o93iNNSLRaSqIVIA1S5Y8.jpg",
+  "tmdbId": 664561,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787250,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780936,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Cruel Peter",
+  "dataLancamento": "2020-02-06"
+}

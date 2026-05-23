@@ -1,0 +1,87 @@
+{
+  "id": "brasil-raiz",
+  "tipo": "serie",
+  "titulo": "Brasil Raiz",
+  "ano": null,
+  "descricao": "Já imaginou o Rasta nadando com um boto-cor-de-rosa, dançando numa tribo indígena ou cantando com Sikêra Júnior? Já pode parar de imaginar, e ver tudo isso acontecendo na nova série original da Brasil Paralelo. Assista agora e descubra do que é feito o suco de Brasil, em cinco episódios que percorrem os quatro cantos do país, mostrando de forma hilária e singular o que é essa tal de identidade brasileira.",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dd999mGXyInZmV1S20aiozlWXzD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nACECIMNH8s3uZPspaRR6AtZXKs.jpg",
+  "tmdbId": 217965,
+  "nota": null,
+  "xtreamSeriesId": 1034,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817174",
+          "tipo": "episodio",
+          "titulo": "Brasil Raiz S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817174",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dd999mGXyInZmV1S20aiozlWXzD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817175",
+          "tipo": "episodio",
+          "titulo": "Brasil Raiz S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817175",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dd999mGXyInZmV1S20aiozlWXzD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817176",
+          "tipo": "episodio",
+          "titulo": "Brasil Raiz S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817176",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dd999mGXyInZmV1S20aiozlWXzD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817177",
+          "tipo": "episodio",
+          "titulo": "Brasil Raiz S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10817177",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dd999mGXyInZmV1S20aiozlWXzD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817178",
+          "tipo": "episodio",
+          "titulo": "Brasil Raiz S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10817178",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dd999mGXyInZmV1S20aiozlWXzD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Brasil Raiz",
+  "dataLancamento": "2023-01-06"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "love-in-the-time-of-corona",
+  "tipo": "serie",
+  "titulo": "Love in the Time of Corona",
+  "ano": null,
+  "descricao": "Um olhar divertido e esperançoso sobre a busca de amor, sexo e conexão em quatro histórias interligadas durante esse tempo de distanciamento social.",
+  "generos": [
+    "STAR+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kJ79Ha5ySFQ67yslYdtyeR7ni4J.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jGOc70lsObezZDJGIJv0a9ZCu8T.jpg",
+  "tmdbId": 106567,
+  "nota": 4.2,
+  "xtreamSeriesId": 6742,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11005475",
+          "tipo": "episodio",
+          "titulo": "Love in the Time of Corona S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11005475",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kJ79Ha5ySFQ67yslYdtyeR7ni4J.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005476",
+          "tipo": "episodio",
+          "titulo": "Love in the Time of Corona S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11005476",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kJ79Ha5ySFQ67yslYdtyeR7ni4J.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005477",
+          "tipo": "episodio",
+          "titulo": "Love in the Time of Corona S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11005477",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kJ79Ha5ySFQ67yslYdtyeR7ni4J.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005478",
+          "tipo": "episodio",
+          "titulo": "Love in the Time of Corona S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11005478",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kJ79Ha5ySFQ67yslYdtyeR7ni4J.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Love in the Time of Corona",
+  "dataLancamento": "2020-08-22"
+}

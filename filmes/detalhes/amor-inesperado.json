@@ -1,0 +1,34 @@
+{
+  "id": "amor-inesperado",
+  "tipo": "filme",
+  "titulo": "Inesperado amor",
+  "ano": null,
+  "descricao": "Durante as férias de verão, a adolescente Ana conhece Roberto, um monitor do acampamento. Quando ele a resgata de um rio, eles iniciam um romance no acampamento, mas após o término da temporada, ela se vê incapaz de contatá-lo e, ao reencontrá-lo, descobre o motivo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1wU0daMTgiZ6t6uaMLWlSIOMXU1.jpg",
+  "banner": null,
+  "tmdbId": 467371,
+  "nota": 6.714,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784152,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772256,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Inesperado amor",
+  "dataLancamento": "1999-03-18"
+}

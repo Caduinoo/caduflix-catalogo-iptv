@@ -1,0 +1,34 @@
+{
+  "id": "banha",
+  "tipo": "filme",
+  "titulo": "Banha",
+  "ano": null,
+  "descricao": "Por causa de seu peso, Butter é o alvo ideal para os valentões da escola. Decidido a pôr um fim nisso, ele põe em marcha um  plano macabro: transmitir ao vivo sua “última ceia” na véspera do Ano Novo.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aMP6sd4ilcAiVMxEYg90EslReV8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oXlo2drpXh10cOR2p3mio40siQH.jpg",
+  "tmdbId": 554285,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784515,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774960,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Butter",
+  "dataLancamento": "2022-02-25"
+}

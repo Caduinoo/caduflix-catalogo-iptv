@@ -1,0 +1,34 @@
+{
+  "id": "eden",
+  "tipo": "filme",
+  "titulo": "House on Eden",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2xVyCvnuVVRpYohPxrvwxZiH49r.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qMV1paVi1WiHkmKH5uzIBDDh4Gf.jpg",
+  "tmdbId": 1362514,
+  "nota": 4.904,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785640,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780169,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "House on Eden",
+  "dataLancamento": "2025-07-25"
+}

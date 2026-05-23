@@ -1,0 +1,34 @@
+{
+  "id": "natal-no-cine-drive-in",
+  "tipo": "filme",
+  "titulo": "Natal no Cine Drive-In",
+  "ano": null,
+  "descricao": "O plano de uma advogada para salvar um cinema histórico a tempo para o Natal se complica quando ela reencontra uma antiga paixão: o vendedor do cinema.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aoa69mYwtpoaB5KT1hRrnLNAoGM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yp9ws1rWcvpwYkV9jOHzX8H7qHf.jpg",
+  "tmdbId": 1026941,
+  "nota": 5.754,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787637,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778717,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Christmas at the Drive-In",
+  "dataLancamento": "2022-11-25"
+}

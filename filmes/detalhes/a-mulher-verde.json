@@ -1,0 +1,34 @@
+{
+  "id": "a-mulher-verde",
+  "tipo": "filme",
+  "titulo": "A Mulher Verde",
+  "ano": null,
+  "descricao": "Um escritor fracassado que acredita que está sendo traído pela sua esposa recebe a visita inesperada de uma misteriosa mulher verde.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2XxB4KLDYZXRMC6XFLCPlYxslHA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Mbwe6QUZm0yJyqkwiy9DnJ6YbK.jpg",
+  "tmdbId": 1002413,
+  "nota": 4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783661,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777672,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Green Woman",
+  "dataLancamento": "2022-08-01"
+}

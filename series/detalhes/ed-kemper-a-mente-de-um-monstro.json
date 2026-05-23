@@ -1,0 +1,63 @@
+{
+  "id": "ed-kemper-a-mente-de-um-monstro",
+  "tipo": "serie",
+  "titulo": "Ed Kemper: A Mente de um Monstro",
+  "ano": null,
+  "descricao": "Ed Kemper parece um gigante gentil que ajuda jovens. Mas por trás de seu sorriso charmoso, há um monstro pervertido. Gravações revelam as fantasias sombrias de um dos assassinos em série mais famosos dos Estados Unidos.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kC4qb2PtRwfoDAeFvidJiZxhfXr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gbF4s113mRByPqGf87KjYtb6srS.jpg",
+  "tmdbId": 157203,
+  "nota": 8,
+  "xtreamSeriesId": 1422,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10829069",
+          "tipo": "episodio",
+          "titulo": "Ed Kemper A Mente de um Monstro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10829069",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kC4qb2PtRwfoDAeFvidJiZxhfXr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829070",
+          "tipo": "episodio",
+          "titulo": "Ed Kemper A Mente de um Monstro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10829070",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kC4qb2PtRwfoDAeFvidJiZxhfXr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829071",
+          "tipo": "episodio",
+          "titulo": "Ed Kemper A Mente de um Monstro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10829071",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kC4qb2PtRwfoDAeFvidJiZxhfXr.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "The Co-Ed Killer: Mind of a Monster",
+  "dataLancamento": "2021-11-21"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "o-monstro-de-florenca",
+  "tipo": "serie",
+  "titulo": "O Monstro de Florença",
+  "ano": null,
+  "descricao": "Por anos, um serial killer aterrorizou casais na Itália. Agora, as autoridades exploram um caso de 1968 que pode ser a chave para encontrar o Monstro de Florença.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7f9wTgbnIqrmKptFTdxUSmmyXdM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nYYJBixUNZAk4lmWdE5NBUfIMuw.jpg",
+  "tmdbId": 247756,
+  "nota": 6.269,
+  "xtreamSeriesId": 4958,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10916564",
+          "tipo": "episodio",
+          "titulo": "O Monstro de Florenca S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10916564",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dJ9E4wyZ5UIt9jpc0BlXxHlZk01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916565",
+          "tipo": "episodio",
+          "titulo": "O Monstro de Florenca S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10916565",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dJ9E4wyZ5UIt9jpc0BlXxHlZk01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916566",
+          "tipo": "episodio",
+          "titulo": "O Monstro de Florenca S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10916566",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dJ9E4wyZ5UIt9jpc0BlXxHlZk01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916567",
+          "tipo": "episodio",
+          "titulo": "O Monstro de Florenca S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10916567",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dJ9E4wyZ5UIt9jpc0BlXxHlZk01.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Il Mostro",
+  "dataLancamento": "2025-10-22"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "asaf",
+  "tipo": "serie",
+  "titulo": "Asaf",
+  "ano": null,
+  "descricao": "Em meio a um processo de divórcio, um homem se envolve com o mundo do crime organizado. Agora, com a vida do filho em risco, o que será que ele vai fazer?",
+  "generos": [
+    "TURCAS | MEXICANAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5bFB9muJab5H1ikpKpAQuzlMy92.jpg",
+  "tmdbId": 274955,
+  "nota": 5.7,
+  "xtreamSeriesId": 6813,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11007715",
+          "tipo": "episodio",
+          "titulo": "Asaf S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11007715",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11007716",
+          "tipo": "episodio",
+          "titulo": "Asaf S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11007716",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11007717",
+          "tipo": "episodio",
+          "titulo": "Asaf S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11007717",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11007718",
+          "tipo": "episodio",
+          "titulo": "Asaf S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11007718",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11007719",
+          "tipo": "episodio",
+          "titulo": "Asaf S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11007719",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11007720",
+          "tipo": "episodio",
+          "titulo": "Asaf S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11007720",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Asaf",
+  "dataLancamento": "2024-11-28"
+}

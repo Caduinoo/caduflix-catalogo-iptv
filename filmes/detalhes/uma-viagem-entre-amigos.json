@@ -1,0 +1,34 @@
+{
+  "id": "uma-viagem-entre-amigos",
+  "tipo": "filme",
+  "titulo": "Uma Viagem Entre Amigos",
+  "ano": null,
+  "descricao": "Em 1989, algumas semanas antes da queda do muro de Berlim, três jovens italianos decidem visitar o Leste Europeu a procura de aventura e partem em uma jornada que mudará suas vidas para sempre.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/a1zEB3Jn5IuHj4HgYboVGBzeghA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/33TRmLYDnDr6RjJycKeoincH1PW.jpg",
+  "tmdbId": 642124,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790856,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774137,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Est - Dittatura Last Minute",
+  "dataLancamento": "2020-09-03"
+}

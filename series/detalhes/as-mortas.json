@@ -1,0 +1,99 @@
+{
+  "id": "as-mortas",
+  "tipo": "serie",
+  "titulo": "As Mortas",
+  "ano": null,
+  "descricao": "Baseada no livro de Jorge Ibargüengoitia, esta série mostra como as irmãs Baladro construíram um império de bordéis e se tornaram assassinas impiedosas no México de 1960.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/o4G78OvzehZGLYWILXusMvqNHvq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rmIQiFYnTDttJMehqkw2GEaO18Y.jpg",
+  "tmdbId": 246485,
+  "nota": 7.056,
+  "xtreamSeriesId": 4110,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901697",
+          "tipo": "episodio",
+          "titulo": "As Mortas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901697",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/o4G78OvzehZGLYWILXusMvqNHvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901698",
+          "tipo": "episodio",
+          "titulo": "As Mortas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901698",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/o4G78OvzehZGLYWILXusMvqNHvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901699",
+          "tipo": "episodio",
+          "titulo": "As Mortas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901699",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/o4G78OvzehZGLYWILXusMvqNHvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901700",
+          "tipo": "episodio",
+          "titulo": "As Mortas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10901700",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/o4G78OvzehZGLYWILXusMvqNHvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901701",
+          "tipo": "episodio",
+          "titulo": "As Mortas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10901701",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/o4G78OvzehZGLYWILXusMvqNHvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901702",
+          "tipo": "episodio",
+          "titulo": "As Mortas S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10901702",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/o4G78OvzehZGLYWILXusMvqNHvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Las muertas",
+  "dataLancamento": "2025-09-10"
+}

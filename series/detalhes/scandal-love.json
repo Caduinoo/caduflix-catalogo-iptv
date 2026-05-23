@@ -1,0 +1,51 @@
+{
+  "id": "scandal-love",
+  "tipo": "serie",
+  "titulo": "Scandal Love",
+  "ano": null,
+  "descricao": "Na indústria de ídolos altamente comercializada, a \"emoção\" é meticulosamente planejada, precisamente controlada e, em última análise, transformada em uma mercadoria para venda.\n\nScandal Love (緋聞營業中) se passa no ecossistema de grupos de ídolos femininos do Leste Asiático e centra-se em mulheres posicionadas em diferentes níveis de poder. Presas entre obrigações contratuais, escrutínio público e suas próprias emoções genuínas, elas lutam para sobreviver no estreito espaço que lhes resta. Quando os votos sinceros feitos na juventude colidem com uma realidade da qual não podem escapar, que escolhas farão?\n\nEm relacionamentos onde tudo é cuidadosamente orquestrado e rigidamente controlado, o amor verdadeiro ainda pode existir?",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hwBQuhP9ntGR7nUL5DOE1vgpwpe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4hu8o22HPPqW2cBAqI8lL0L8Wfn.jpg",
+  "tmdbId": 313732,
+  "nota": 4,
+  "xtreamSeriesId": 7301,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11035845",
+          "tipo": "episodio",
+          "titulo": "Scandal Love (2026) [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11035845",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hwBQuhP9ntGR7nUL5DOE1vgpwpe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11035846",
+          "tipo": "episodio",
+          "titulo": "Scandal Love (2026) [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11035846",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hwBQuhP9ntGR7nUL5DOE1vgpwpe.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "스캔들러브",
+  "dataLancamento": "2026-04-08"
+}

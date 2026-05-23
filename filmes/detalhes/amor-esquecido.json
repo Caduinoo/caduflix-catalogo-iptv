@@ -1,0 +1,34 @@
+{
+  "id": "amor-esquecido",
+  "tipo": "filme",
+  "titulo": "Amor Esquecido",
+  "ano": null,
+  "descricao": "Após perder a família e a memória, um ex-cirurgião tem uma oportunidade de redenção ao se reconectar com uma figura do passado.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jTv09AE0h6YL0Jav6N04knTqQN2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/j1bOCozOQOxJpk0iAQbJDS2w8OJ.jpg",
+  "tmdbId": 1081676,
+  "nota": 7.808,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784151,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774834,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Znachor",
+  "dataLancamento": "2023-09-26"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-ultimo-acordo",
+  "tipo": "filme",
+  "titulo": "O Último Acordo",
+  "ano": null,
+  "descricao": "Vincent é um traficante de maconha que possui uma última chance de realizar um grande negócio antes que a venda do produto seja completamente legalizada na Califórnia.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nLzOajCEeJVN1xGn9X2fleTtVR7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vPHKMsF14w0HOPv5FDSSuiMGjG0.jpg",
+  "tmdbId": 1042163,
+  "nota": 4.932,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788598,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774389,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "The Last Deal",
+  "dataLancamento": "2023-02-03"
+}

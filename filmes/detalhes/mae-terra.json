@@ -1,0 +1,34 @@
+{
+  "id": "mae-terra",
+  "tipo": "filme",
+  "titulo": "Mãe Terra",
+  "ano": null,
+  "descricao": "Mini documentário sobre o Instituto Terra produzido pela atriz Mariana Ximenes.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jgfLFgPjWZzxYMtkQYtiZApjjJT.jpg",
+  "banner": null,
+  "tmdbId": 555400,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787551,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775924,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Mãe Terra",
+  "dataLancamento": null
+}

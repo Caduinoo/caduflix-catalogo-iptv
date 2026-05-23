@@ -1,0 +1,75 @@
+{
+  "id": "desservico-ao-consumidor",
+  "tipo": "serie",
+  "titulo": "Desserviço ao Consumidor",
+  "ano": null,
+  "descricao": "Esta série documental mostra que a propaganda enganosa e a negligência na produção de produtos populares podem ter consequências gravíssimas.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/42njPFgW3cQcMrOpLYeA4IM2xlC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/RdTUmkhkZOD7KFaq5hqMp6KXPy.jpg",
+  "tmdbId": 95417,
+  "nota": 6.2,
+  "xtreamSeriesId": 4390,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906145",
+          "tipo": "episodio",
+          "titulo": "Desservico Ao Consumidor S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906145",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/42njPFgW3cQcMrOpLYeA4IM2xlC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906146",
+          "tipo": "episodio",
+          "titulo": "Desservico Ao Consumidor S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906146",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/42njPFgW3cQcMrOpLYeA4IM2xlC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906147",
+          "tipo": "episodio",
+          "titulo": "Desservico Ao Consumidor S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906147",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/42njPFgW3cQcMrOpLYeA4IM2xlC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906148",
+          "tipo": "episodio",
+          "titulo": "Desservico Ao Consumidor S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906148",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/42njPFgW3cQcMrOpLYeA4IM2xlC.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Broken",
+  "dataLancamento": "2019-11-27"
+}

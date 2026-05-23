@@ -1,0 +1,34 @@
+{
+  "id": "o-fantasma",
+  "tipo": "filme",
+  "titulo": "O Fantasma",
+  "ano": null,
+  "descricao": "Sergio é um homem pensativo e alienado que trabalha como coletor de lixo em Lisboa durante o dia e perambula pelas ruas da cidade à noite em busca de sexo bruto e anônimo com homens. Uma noite, ele conhece um homem que parece ser a personificação de suas fantasias atormentadas, e ele fica obcecado pelo estranho até que a solidão e o desejo não realizado o impulsionam finalmente para um estado animalesco escuro e perigoso.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/u1U7F18YkP1fy9SmIU8MWV2USBq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iL0EyyqCqKpZgsA431Bcj1YHTIK.jpg",
+  "tmdbId": 27181,
+  "nota": 6.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788096,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770281,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "O Fantasma",
+  "dataLancamento": "2000-10-20"
+}

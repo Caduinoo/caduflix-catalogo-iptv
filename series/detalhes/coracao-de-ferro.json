@@ -1,0 +1,99 @@
+{
+  "id": "coracao-de-ferro",
+  "tipo": "serie",
+  "titulo": "Coração de Ferro",
+  "ano": null,
+  "descricao": "A inventora genial Riri Williams volta a Chicago e conhece Parker Robbins, conhecido como \"O Capuz\".",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yRanvKZhy5NdF64amF0WNOAIuQu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kiOEVg5BkzLE0pWoPKecXd7wZ2Q.jpg",
+  "tmdbId": 114471,
+  "nota": 5.34,
+  "xtreamSeriesId": 1756,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10837847",
+          "tipo": "episodio",
+          "titulo": "Coracao de Ferro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10837847",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837848",
+          "tipo": "episodio",
+          "titulo": "Coracao de Ferro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10837848",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837849",
+          "tipo": "episodio",
+          "titulo": "Coracao de Ferro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10837849",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837850",
+          "tipo": "episodio",
+          "titulo": "Coracao de Ferro S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10837850",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837851",
+          "tipo": "episodio",
+          "titulo": "Coracao de Ferro S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10837851",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837852",
+          "tipo": "episodio",
+          "titulo": "Coracao de Ferro S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10837852",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yRanvKZhy5NdF64amF0WNOAIuQu.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Ironheart",
+  "dataLancamento": "2025-06-24"
+}

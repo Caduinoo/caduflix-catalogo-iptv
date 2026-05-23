@@ -1,0 +1,123 @@
+{
+  "id": "resident-evil-a-serie",
+  "tipo": "serie",
+  "titulo": "Resident Evil: A Série",
+  "ano": null,
+  "descricao": "Quase três décadas após a descoberta de um vírus mortal, um surto revela os segredos obscuros da Umbrella Corporation. Baseado na franquia de terror.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/l2Clkkh64pW0ZDyU7pYMghb51ob.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pRJ1K2c4lkQCKgclUTFWGk7JABb.jpg",
+  "tmdbId": 108296,
+  "nota": 5.562,
+  "xtreamSeriesId": 5169,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921378",
+          "tipo": "episodio",
+          "titulo": "Resident Evil A Série S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921378",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Clkkh64pW0ZDyU7pYMghb51ob.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921379",
+          "tipo": "episodio",
+          "titulo": "Resident Evil A Série S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921379",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Clkkh64pW0ZDyU7pYMghb51ob.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921380",
+          "tipo": "episodio",
+          "titulo": "Resident Evil A Série S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10921380",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Clkkh64pW0ZDyU7pYMghb51ob.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921381",
+          "tipo": "episodio",
+          "titulo": "Resident Evil A Série S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921381",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Clkkh64pW0ZDyU7pYMghb51ob.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921382",
+          "tipo": "episodio",
+          "titulo": "Resident Evil A Série S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10921382",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Clkkh64pW0ZDyU7pYMghb51ob.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921383",
+          "tipo": "episodio",
+          "titulo": "Resident Evil A Série S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10921383",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Clkkh64pW0ZDyU7pYMghb51ob.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921384",
+          "tipo": "episodio",
+          "titulo": "Resident Evil A Série S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10921384",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Clkkh64pW0ZDyU7pYMghb51ob.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921385",
+          "tipo": "episodio",
+          "titulo": "Resident Evil A Série S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10921385",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Clkkh64pW0ZDyU7pYMghb51ob.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Resident Evil",
+  "dataLancamento": "2022-07-14"
+}

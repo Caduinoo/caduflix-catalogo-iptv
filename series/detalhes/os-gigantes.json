@@ -1,0 +1,51 @@
+{
+  "id": "os-gigantes",
+  "tipo": "serie",
+  "titulo": "Os Gigantes",
+  "ano": null,
+  "descricao": "Frederico está em coma no hospital. Angustiada com o sofrimento do irmão, Paloma desliga os aparelhos que o mantêm vivo. A partir de então, inicia-se uma batalha judicial entre ela e a cunhada Veridiana, que a acusa de ter praticado eutanásia.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3grNms2qokoFaNIakTeMizAgazK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/o1hlrAZyjlojgkzxbvrgcOjZe1u.jpg",
+  "tmdbId": 227022,
+  "nota": 8,
+  "xtreamSeriesId": 3168,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10875900",
+          "tipo": "episodio",
+          "titulo": "Os Gigantes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10875900",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1iFq0sna4MGLwRBtTiWHd6rPtYi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875901",
+          "tipo": "episodio",
+          "titulo": "Os Gigantes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10875901",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1iFq0sna4MGLwRBtTiWHd6rPtYi.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Os Gigantes",
+  "dataLancamento": "1979-08-20"
+}

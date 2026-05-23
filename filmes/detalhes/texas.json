@@ -1,0 +1,42 @@
+{
+  "id": "texas",
+  "tipo": "filme",
+  "titulo": "AEW All In 2025: Texas",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wLJJ40AMEZmypeFut6AffqwMK8E.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gTFdspiXyQ4Tq3FeX4MEBxCExu2.jpg",
+  "tmdbId": 1330496,
+  "nota": 9.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790098,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774434,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782996,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "AEW All In 2025: Texas",
+  "dataLancamento": "2025-07-12"
+}

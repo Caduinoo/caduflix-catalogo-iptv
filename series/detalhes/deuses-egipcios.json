@@ -1,0 +1,63 @@
+{
+  "id": "deuses-egipcios",
+  "tipo": "serie",
+  "titulo": "Deuses Egípcios",
+  "ano": null,
+  "descricao": "Egiptólogos exploram a história do Egito e rastreiam as origens deste antigo Reino.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wyD0xL4xejiKon8HsxWWNU25jeu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cbgpOMplt3N6lE2dtsWfVOgV1R7.jpg",
+  "tmdbId": 280720,
+  "nota": 7,
+  "xtreamSeriesId": 1417,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10828910",
+          "tipo": "episodio",
+          "titulo": "Deuses Egipcios S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10828910",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wyD0xL4xejiKon8HsxWWNU25jeu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828911",
+          "tipo": "episodio",
+          "titulo": "Deuses Egipcios S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10828911",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wyD0xL4xejiKon8HsxWWNU25jeu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828912",
+          "tipo": "episodio",
+          "titulo": "Deuses Egipcios S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10828912",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wyD0xL4xejiKon8HsxWWNU25jeu.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Gods of Egypt",
+  "dataLancamento": "2023-06-14"
+}

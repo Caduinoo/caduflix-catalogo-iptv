@@ -1,0 +1,34 @@
+{
+  "id": "meus-irmaos",
+  "tipo": "filme",
+  "titulo": "Meus Irmãos Cokwes",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2ou2HVjMOCDRhbd6tjzGMBHXry.jpg",
+  "banner": null,
+  "tmdbId": 519395,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787318,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775863,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Meus Irmãos Cokwes",
+  "dataLancamento": "1991-01-01"
+}

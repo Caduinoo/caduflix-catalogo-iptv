@@ -1,0 +1,75 @@
+{
+  "id": "projeto-ovni",
+  "tipo": "serie",
+  "titulo": "Projeto OVNI",
+  "ano": null,
+  "descricao": "Um apresentador de TV arrogante e um ufólogo trabalham para descobrir as origens da suposta aparição de um OVNI, dividindo a nação em um mar de dúvidas e crenças.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4RYN5jFx6irVt4zBECyZnZv0oCS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1kDcpOzVcyqqP0UXj0kX8WIOIY7.jpg",
+  "tmdbId": 252591,
+  "nota": 6.4,
+  "xtreamSeriesId": 5121,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920809",
+          "tipo": "episodio",
+          "titulo": "Projeto OVNI S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920809",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RYN5jFx6irVt4zBECyZnZv0oCS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920810",
+          "tipo": "episodio",
+          "titulo": "Projeto OVNI S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920810",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RYN5jFx6irVt4zBECyZnZv0oCS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920811",
+          "tipo": "episodio",
+          "titulo": "Projeto OVNI S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920811",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RYN5jFx6irVt4zBECyZnZv0oCS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920812",
+          "tipo": "episodio",
+          "titulo": "Projeto OVNI S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920812",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RYN5jFx6irVt4zBECyZnZv0oCS.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Projekt UFO",
+  "dataLancamento": "2025-04-16"
+}

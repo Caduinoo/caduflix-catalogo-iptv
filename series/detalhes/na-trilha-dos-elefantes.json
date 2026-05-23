@@ -1,0 +1,63 @@
+{
+  "id": "na-trilha-dos-elefantes",
+  "tipo": "serie",
+  "titulo": "Na Trilha dos Elefantes",
+  "ano": null,
+  "descricao": "O autor e explorador Levison Wood – famoso por caminhar no Nilo, no Himalaia e na América Central – embarca em uma nova expedição: uma jornada épica de 1046 quilômetros a pé, seguindo a maior migração de elefantes do mundo.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nqm0TIcodsgpcFPkkVUCcuYbw2l.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4zBhgFJPBlDY8fEQZon1BtgRFTd.jpg",
+  "tmdbId": 104547,
+  "nota": null,
+  "xtreamSeriesId": 3706,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10892608",
+          "tipo": "episodio",
+          "titulo": "Na Trilha dos Elefantes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10892608",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nqm0TIcodsgpcFPkkVUCcuYbw2l.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892609",
+          "tipo": "episodio",
+          "titulo": "Na Trilha dos Elefantes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10892609",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nqm0TIcodsgpcFPkkVUCcuYbw2l.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892610",
+          "tipo": "episodio",
+          "titulo": "Na Trilha dos Elefantes S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10892610",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nqm0TIcodsgpcFPkkVUCcuYbw2l.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Walking with Elephants",
+  "dataLancamento": "2020-05-10"
+}

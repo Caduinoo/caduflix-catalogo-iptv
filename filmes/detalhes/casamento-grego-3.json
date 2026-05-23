@@ -1,0 +1,42 @@
+{
+  "id": "casamento-grego-3",
+  "tipo": "filme",
+  "titulo": "Casamento Grego 3",
+  "ano": null,
+  "descricao": "Os membros da família Portokalos se reúnem na Grécia para uma viagem hilária e emocionante, cheia de amor e reviravoltas.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hVmsjW1QEIJ8ixG0H6ymqBqaxEc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dEgUKwxP1DqKp1Bd9VMLebAPW4b.jpg",
+  "tmdbId": 1001811,
+  "nota": 5.886,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784831,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772439,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782186,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "My Big Fat Greek Wedding 3",
+  "dataLancamento": "2023-09-07"
+}

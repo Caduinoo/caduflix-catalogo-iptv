@@ -1,0 +1,34 @@
+{
+  "id": "o-galinho-chicken-little",
+  "tipo": "filme",
+  "titulo": "O Galinho Chicken Little",
+  "ano": null,
+  "descricao": "Chicken Little é um galo cheio de imaginação que apronta as maiores confusões. Um dia, ele provoca pânico generalizado na cidade onde vive, ao confundir a queda de uma avelã com um pedaço do céu despencando. Após a verdade vir à tona, o galinho perde todo o crédito junto aos habitantes. Porém, quando um pedaço do céu realmente cai em sua cabeça e ele identifica que se trata de um alienígena, Chicken Little precisa salvar a cidade sem fazer com que todos entrem em pânico mais uma vez.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fUCBkuNWpAIfH6yhuRzujy5Zjv0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/h5Bwxe6dTVFtAFkybkd1EAB4yUW.jpg",
+  "tmdbId": 9982,
+  "nota": 5.912,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788122,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771531,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Chicken Little",
+  "dataLancamento": "2005-11-04"
+}

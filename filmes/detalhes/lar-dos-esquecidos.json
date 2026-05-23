@@ -1,0 +1,34 @@
+{
+  "id": "lar-dos-esquecidos",
+  "tipo": "filme",
+  "titulo": "Lar dos Esquecidos",
+  "ano": null,
+  "descricao": "Uma mulher volta para sua cidade natal com os dois filhos por conta do casamento da irmã, mas a festa é interrompida por idosos com sede de sangue.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fApMyuO562IDcpxhilpeehrEJXW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/djPUo00dbry1frPzDLD5dgsmG7e.jpg",
+  "tmdbId": 999722,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786886,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780886,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Old People",
+  "dataLancamento": "2022-10-07"
+}

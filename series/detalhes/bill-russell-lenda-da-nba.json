@@ -1,0 +1,51 @@
+{
+  "id": "bill-russell-lenda-da-nba",
+  "tipo": "serie",
+  "titulo": "Bill Russell: Lenda da NBA",
+  "ano": null,
+  "descricao": "Este documentário biográfico examina o legado do campeão Bill Russell tanto na NBA quanto na luta pelos direitos civis.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xF0VXgGjivK05HNjcfV1X5ZZ76M.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sgQ2TAKFh2yRoULfAtXpEoN08A2.jpg",
+  "tmdbId": 220030,
+  "nota": 7.2,
+  "xtreamSeriesId": 4177,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10902801",
+          "tipo": "episodio",
+          "titulo": "Bill Russell Lenda da NBA S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10902801",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xF0VXgGjivK05HNjcfV1X5ZZ76M.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902802",
+          "tipo": "episodio",
+          "titulo": "Bill Russell Lenda da NBA S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10902802",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xF0VXgGjivK05HNjcfV1X5ZZ76M.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Bill Russell: Legend",
+  "dataLancamento": "2023-02-08"
+}

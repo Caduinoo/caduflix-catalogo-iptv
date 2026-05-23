@@ -1,0 +1,34 @@
+{
+  "id": "a-verdade",
+  "tipo": "filme",
+  "titulo": "A Verdade",
+  "ano": null,
+  "descricao": "Fabienne é a estrela do cinema francês. Ela decidiu contar ao mundo a história de sua vida e publicar suas memórias. Seu livro será lançado sob o título “Verdade”, mas não corresponde à realidade, segundo algumas pessoas próximas a ela. É o que diz a filha de uma atriz que mora nos Estados Unidos e trabalha como roteirista. Ela foi até a mãe com o marido e o filho e leu um livro, não encontrando nela uma única palavra verdadeira sobre si mesma. Mas a opinião da filha não afeta muito a decisão de Fabienne. A estrela é absorvida na preparação para um novo papel, no qual a imagem de sua família real é estranhamente encarnada. O amor e a ternura estão ocultos por trás das declarações ardentes e enganosas.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2VVNIjRpLWbZN2Aq15HfmC5Hkm0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tWbqCxe7efBywNGCaoKEq6lBNnR.jpg",
+  "tmdbId": 517468,
+  "nota": 6.004,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783823,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774719,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "La Vérité",
+  "dataLancamento": "2019-10-10"
+}

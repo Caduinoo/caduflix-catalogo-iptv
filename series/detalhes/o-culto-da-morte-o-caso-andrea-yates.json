@@ -1,0 +1,63 @@
+{
+  "id": "o-culto-da-morte-o-caso-andrea-yates",
+  "tipo": "serie",
+  "titulo": "O Culto da Morte: O Caso Andrea Yates",
+  "ano": null,
+  "descricao": "Uma mãe afoga seus cinco filhos, chocando o país. Este impactante documentário em três partes revela como o culto de um pregador alimenta o ato chocante de Andrea Yates.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/u6x1HC1HmhBr2fUCObDB9td9kBP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AtO53WXUldJcIfBGvaziYLa39RA.jpg",
+  "tmdbId": 309810,
+  "nota": 7.2,
+  "xtreamSeriesId": 6869,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11012856",
+          "tipo": "episodio",
+          "titulo": "O Culto da Morte O Caso Andrea Yates S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11012856",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u6x1HC1HmhBr2fUCObDB9td9kBP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11012857",
+          "tipo": "episodio",
+          "titulo": "O Culto da Morte O Caso Andrea Yates S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11012857",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u6x1HC1HmhBr2fUCObDB9td9kBP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11012858",
+          "tipo": "episodio",
+          "titulo": "O Culto da Morte O Caso Andrea Yates S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11012858",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u6x1HC1HmhBr2fUCObDB9td9kBP.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "The Cult Behind the Killer: The Andrea Yates Story",
+  "dataLancamento": "2026-01-06"
+}

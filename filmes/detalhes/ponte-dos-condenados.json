@@ -1,0 +1,34 @@
+{
+  "id": "ponte-dos-condenados",
+  "tipo": "filme",
+  "titulo": "Ponte dos Condenados",
+  "ano": null,
+  "descricao": "Um grupo de soldados recebe ordens para proteger uma ponte durante um ataque de zumbis, mas o que vive embaixo dela se mostra ainda mais perigoso.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yP6OdvuKb9gNfkndXnrva5SxaiJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ypZFuSU6ofmx6j8CXlq2E19tL8t.jpg",
+  "tmdbId": 995810,
+  "nota": 4.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789103,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781308,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Bridge of the Doomed",
+  "dataLancamento": "2022-04-30"
+}

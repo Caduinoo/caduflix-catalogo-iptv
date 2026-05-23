@@ -1,0 +1,99 @@
+{
+  "id": "agora-muppets",
+  "tipo": "serie",
+  "titulo": "Agora Muppets",
+  "ano": null,
+  "descricao": "Esta série curta e sem roteiro apresenta personagens icônicos de Muppet ao lado de celebridades convidadas em um fórum que inspira uma tolice surpreendente e uma diversão sincera.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pUG8saIHhLOakv7VOdGJndNbBEE.jpg",
+  "tmdbId": 92824,
+  "nota": 5.7,
+  "xtreamSeriesId": 1674,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10834922",
+          "tipo": "episodio",
+          "titulo": "Agora Muppets S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10834922",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834923",
+          "tipo": "episodio",
+          "titulo": "Agora Muppets S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10834923",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834924",
+          "tipo": "episodio",
+          "titulo": "Agora Muppets S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10834924",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834925",
+          "tipo": "episodio",
+          "titulo": "Agora Muppets S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10834925",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834926",
+          "tipo": "episodio",
+          "titulo": "Agora Muppets S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10834926",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834927",
+          "tipo": "episodio",
+          "titulo": "Agora Muppets S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10834927",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Muppets Now",
+  "dataLancamento": "2020-07-31"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ivy-e-bean",
+  "tipo": "filme",
+  "titulo": "Ivy e Bean",
+  "ano": null,
+  "descricao": "Ivy e Bean nunca imaginaram que seriam amigas. Bean é extrovertida, corajosa e cheia de vida. Ivy é mais quietinha, cuidadosa e observadora. Mas essas personalidades opostas são ótimos complementos para viver grandes aventuras.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/622G9bcbZWFT61ZUhPfZhhMKilq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wkDj5vVbMDgVqtLrv1FH8zQJQro.jpg",
+  "tmdbId": 862558,
+  "nota": 6.667,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786650,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781726,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Ivy + Bean",
+  "dataLancamento": "2022-09-02"
+}

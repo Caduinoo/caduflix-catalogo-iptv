@@ -1,0 +1,75 @@
+{
+  "id": "uma-morte-em-vermelho",
+  "tipo": "serie",
+  "titulo": "Uma Morte em Vermelho",
+  "ano": null,
+  "descricao": "Esta série documental investiga o misterioso assassinato do político alemão Detlev Rohwedder em 1991, em meio ao processo de reunificação da Alemanha.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xKfMOhklUhBhciznvi3BZMaHYR6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zyvJMrcobrY3YsedjoDAd5rbgZu.jpg",
+  "tmdbId": 110412,
+  "nota": 7.036,
+  "xtreamSeriesId": 5410,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927093",
+          "tipo": "episodio",
+          "titulo": "Uma Morte em Vermelho S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927093",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xKfMOhklUhBhciznvi3BZMaHYR6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927094",
+          "tipo": "episodio",
+          "titulo": "Uma Morte em Vermelho S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927094",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xKfMOhklUhBhciznvi3BZMaHYR6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927095",
+          "tipo": "episodio",
+          "titulo": "Uma Morte em Vermelho S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927095",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xKfMOhklUhBhciznvi3BZMaHYR6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927096",
+          "tipo": "episodio",
+          "titulo": "Uma Morte em Vermelho S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927096",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xKfMOhklUhBhciznvi3BZMaHYR6.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Rohwedder – Einigkeit und Mord und Freiheit",
+  "dataLancamento": "2020-09-25"
+}

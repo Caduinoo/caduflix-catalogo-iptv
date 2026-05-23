@@ -1,0 +1,147 @@
+{
+  "id": "away",
+  "tipo": "serie",
+  "titulo": "Away",
+  "ano": null,
+  "descricao": "A astronauta Emma Green comanda uma perigosa expedição rumo a Marte e deixa para trás o marido e a filha por três anos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vn0QIrNW5suBiF8BXnbp1r27guN.jpg",
+  "tmdbId": 89233,
+  "nota": 6.6,
+  "xtreamSeriesId": 4135,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10902008",
+          "tipo": "episodio",
+          "titulo": "Away S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10902008",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902009",
+          "tipo": "episodio",
+          "titulo": "Away S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10902009",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902010",
+          "tipo": "episodio",
+          "titulo": "Away S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10902010",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902011",
+          "tipo": "episodio",
+          "titulo": "Away S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10902011",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902012",
+          "tipo": "episodio",
+          "titulo": "Away S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10902012",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902013",
+          "tipo": "episodio",
+          "titulo": "Away S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10902013",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902014",
+          "tipo": "episodio",
+          "titulo": "Away S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10902014",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902015",
+          "tipo": "episodio",
+          "titulo": "Away S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10902015",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902016",
+          "tipo": "episodio",
+          "titulo": "Away S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10902016",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902017",
+          "tipo": "episodio",
+          "titulo": "Away S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10902017",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lkT776mSvQ9wZ8wkYsnpQuogp10.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "Away",
+  "dataLancamento": "2020-09-04"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "a-mais-pura-verdade",
+  "tipo": "serie",
+  "titulo": "A Mais Pura Verdade",
+  "ano": null,
+  "descricao": "Após uma noite desastrosa com o irmão, um comediante famoso vê sua vida virar de cabeça para baixo, correndo o risco de perder tudo o que conquistou.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yGpmZYJ8fb543B3tIKjzcRHgJsX.jpg",
+  "tmdbId": 134029,
+  "nota": 7.062,
+  "xtreamSeriesId": 3992,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10899856",
+          "tipo": "episodio",
+          "titulo": "A Mais Pura Verdade S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10899856",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899857",
+          "tipo": "episodio",
+          "titulo": "A Mais Pura Verdade S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10899857",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899858",
+          "tipo": "episodio",
+          "titulo": "A Mais Pura Verdade S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10899858",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899859",
+          "tipo": "episodio",
+          "titulo": "A Mais Pura Verdade S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10899859",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899860",
+          "tipo": "episodio",
+          "titulo": "A Mais Pura Verdade S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10899860",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899861",
+          "tipo": "episodio",
+          "titulo": "A Mais Pura Verdade S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10899861",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899862",
+          "tipo": "episodio",
+          "titulo": "A Mais Pura Verdade S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10899862",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "True Story",
+  "dataLancamento": "2021-11-24"
+}

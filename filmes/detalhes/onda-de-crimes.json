@@ -1,0 +1,34 @@
+{
+  "id": "onda-de-crimes",
+  "tipo": "filme",
+  "titulo": "Onda de Crimes",
+  "ano": null,
+  "descricao": "Leyre vive uma vida tranquila e confortável que termina abruptamente quando um ato de raiva de seu filho adolescente a leva a protegê-lo por qualquer meio necessário.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rpxMp4CzP1cDAPJtXyKjSiogmy2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/k7GNUAh4YjVIT1xlqKjdyT4HQLD.jpg",
+  "tmdbId": 529207,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788669,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773507,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Ola de crímenes",
+  "dataLancamento": "2018-10-04"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "dumbo",
+  "tipo": "filme",
+  "titulo": "Dumbo",
+  "ano": null,
+  "descricao": "Dumbo é um bebé elefante que nasceu com umas orelhas enormes. Um dia ele conhece Timóteo, um ratinho que mete medo à maioria dos elefantes do circo onde vive Dumbo. Ao contrário do que se podia esperar, o rato e o elefante acabam por se tornar amigos e, juntos, eles tornam-se as maiores atracções do circo. Usando suas orelhas, Dumbo faz o que nenhum outro elefante consegue: voar!",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nGvMq9dEQwYrIbZe2N9OvVMBVSL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
+  "tmdbId": 11360,
+  "nota": 6.988,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785613,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777285,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782303,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Dumbo",
+  "dataLancamento": "1941-10-31"
+}

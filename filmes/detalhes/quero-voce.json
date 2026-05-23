@@ -1,0 +1,34 @@
+{
+  "id": "quero-voce",
+  "tipo": "filme",
+  "titulo": "Quero Você",
+  "ano": null,
+  "descricao": "Lilli suspeita do noivo da irmã. Mas, quando um homem misterioso e charmoso aparece, o desejo faz com que ela perca o foco.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/y5MqC5sFLwA4FH73zpjqo0q8Ry7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xd7YqovQSLBY7dbptsz2bPgL0ym.jpg",
+  "tmdbId": 1300116,
+  "nota": 6.093,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789322,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779351,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Fall for Me",
+  "dataLancamento": "2025-08-20"
+}

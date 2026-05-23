@@ -1,0 +1,34 @@
+{
+  "id": "caofusoes",
+  "tipo": "filme",
+  "titulo": "Cãofusões",
+  "ano": null,
+  "descricao": "Um adolescente viciado em revistas em quadrinhos resolve, junto com amigos, treinar cachorro para participar de shows caninos e assim juntar dinheiro fácil para comprar as versões de luxo de suas revistas.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1Rft8KYJCCPngqHIlBbQ1NhnzNT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9Gz1nN5qRIyAzdLYSbJ9Fy4pqAz.jpg",
+  "tmdbId": 160155,
+  "nota": 5.611,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785225,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772537,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Life Is Ruff",
+  "dataLancamento": "2005-01-13"
+}

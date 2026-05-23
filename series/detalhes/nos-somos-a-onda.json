@@ -1,0 +1,99 @@
+{
+  "id": "nos-somos-a-onda",
+  "tipo": "serie",
+  "titulo": "Nós Somos a Onda",
+  "ano": null,
+  "descricao": "Um misterioso colega lidera quatro adolescentes idealistas contra uma onda crescente de fervor nacionalista, mas o movimento sai do controle.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oEiDzAiGAmShP4SadW9S5mJTBPB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AfoFTPEw16EcPyuBH4oaXMkjzNb.jpg",
+  "tmdbId": 94660,
+  "nota": 5.992,
+  "xtreamSeriesId": 7047,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016239",
+          "tipo": "episodio",
+          "titulo": "Nos Somos a Onda S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oEiDzAiGAmShP4SadW9S5mJTBPB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016240",
+          "tipo": "episodio",
+          "titulo": "Nos Somos a Onda S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016240",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oEiDzAiGAmShP4SadW9S5mJTBPB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016241",
+          "tipo": "episodio",
+          "titulo": "Nos Somos a Onda S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11016241",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oEiDzAiGAmShP4SadW9S5mJTBPB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016242",
+          "tipo": "episodio",
+          "titulo": "Nos Somos a Onda S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11016242",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oEiDzAiGAmShP4SadW9S5mJTBPB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016243",
+          "tipo": "episodio",
+          "titulo": "Nos Somos a Onda S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11016243",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oEiDzAiGAmShP4SadW9S5mJTBPB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016244",
+          "tipo": "episodio",
+          "titulo": "Nos Somos a Onda S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11016244",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oEiDzAiGAmShP4SadW9S5mJTBPB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Wir sind die Welle",
+  "dataLancamento": "2019-11-01"
+}

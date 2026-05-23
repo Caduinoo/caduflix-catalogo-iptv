@@ -1,0 +1,34 @@
+{
+  "id": "mahalia",
+  "tipo": "filme",
+  "titulo": "Mahalia",
+  "ano": null,
+  "descricao": "Criada na pobreza em Nova Orleans, Mahalia Jackson superou graves doenças infantis através da música gospel, que mais tarde a tornariam a mulher negra mais famosa dos anos 50 e 60.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dwTafeO7kAtFiUXltCstiRu7k97.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gNb7IKizNKDUS4fF8MBcJh47XBb.jpg",
+  "tmdbId": 729766,
+  "nota": 6.692,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787091,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775771,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Robin Roberts Presents: Mahalia",
+  "dataLancamento": "2021-04-03"
+}

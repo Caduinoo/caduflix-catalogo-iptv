@@ -1,0 +1,75 @@
+{
+  "id": "vidas-bandidas",
+  "tipo": "serie",
+  "titulo": "Vidas Bandidas",
+  "ano": null,
+  "descricao": "Serginho e Raimundo são parceiros no crime que trabalham para a quadrilha de Bruna assaltando turistas no Rio de Janeiro. Um assalto ambicioso que dá muito errado é o ponto de partida de muitos planos de vingança para vidas que não seguem plano nenhum.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qpbxBtMPmxFe4iVhK5eEtMjPDMc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f1Lpjbq43TIkPG9MfHQWL1FyQYL.jpg",
+  "tmdbId": 221392,
+  "nota": 8.2,
+  "xtreamSeriesId": 2121,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10849088",
+          "tipo": "episodio",
+          "titulo": "Vidas Bandidas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10849088",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpbxBtMPmxFe4iVhK5eEtMjPDMc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849089",
+          "tipo": "episodio",
+          "titulo": "Vidas Bandidas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10849089",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpbxBtMPmxFe4iVhK5eEtMjPDMc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849090",
+          "tipo": "episodio",
+          "titulo": "Vidas Bandidas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10849090",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpbxBtMPmxFe4iVhK5eEtMjPDMc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849091",
+          "tipo": "episodio",
+          "titulo": "Vidas Bandidas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10849091",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpbxBtMPmxFe4iVhK5eEtMjPDMc.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Vidas Bandidas",
+  "dataLancamento": "2024-08-21"
+}

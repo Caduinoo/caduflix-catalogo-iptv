@@ -1,0 +1,34 @@
+{
+  "id": "o-par-perfeito",
+  "tipo": "filme",
+  "titulo": "O Par Perfeito",
+  "ano": null,
+  "descricao": "Charlie é um playboy que não acredita no amor, e está tão certo disso que aceita uma aposta de seus dois melhores amigos, Rick e Victor, que dizem que se ele conseguir permanecer com uma mulher durante um mês, ele irá se apaixonar. Charlie só não esperava conhecer a bela e misteriosa Eva, com quem começa um romance. Antes convencido que o caso não duraria, ele passa a se questionar se aquele relacionamento merece durar mais de uma noite.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mtz6aSHRLF4wQKKCJQZU30r3WEt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oWiKZjVuR1UHy68sHHXVHO6Fk00.jpg",
+  "tmdbId": 378200,
+  "nota": 5.546,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788341,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779282,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Perfect Match",
+  "dataLancamento": "2016-03-11"
+}

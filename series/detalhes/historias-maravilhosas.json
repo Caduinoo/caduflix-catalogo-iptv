@@ -1,0 +1,87 @@
+{
+  "id": "historias-maravilhosas",
+  "tipo": "serie",
+  "titulo": "Histórias Maravilhosas",
+  "ano": null,
+  "descricao": "Dos produtores exceutivos visionários, Steven Spielberg e Edward Kitsis & Adam Horowitz, esta reimaginação da clássica série antológica transporta personagens cotidianos a mundos cheios de maravilha, possibilidades e imaginação.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fWqy4ApCHnRrMPkhUPII3yjJZN3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oG3Lsjw6a4mvqhsqA1KtWiaxdH3.jpg",
+  "tmdbId": 98178,
+  "nota": 7.341,
+  "xtreamSeriesId": 874,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10813718",
+          "tipo": "episodio",
+          "titulo": "Histórias Maravilhosas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10813718",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWqy4ApCHnRrMPkhUPII3yjJZN3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813719",
+          "tipo": "episodio",
+          "titulo": "Histórias Maravilhosas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10813719",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWqy4ApCHnRrMPkhUPII3yjJZN3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813720",
+          "tipo": "episodio",
+          "titulo": "Histórias Maravilhosas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10813720",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWqy4ApCHnRrMPkhUPII3yjJZN3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813721",
+          "tipo": "episodio",
+          "titulo": "Histórias Maravilhosas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10813721",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWqy4ApCHnRrMPkhUPII3yjJZN3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813722",
+          "tipo": "episodio",
+          "titulo": "Histórias Maravilhosas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10813722",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fWqy4ApCHnRrMPkhUPII3yjJZN3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Amazing Stories",
+  "dataLancamento": "2020-03-06"
+}

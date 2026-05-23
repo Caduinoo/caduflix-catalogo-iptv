@@ -1,0 +1,34 @@
+{
+  "id": "muppets-o-filme",
+  "tipo": "filme",
+  "titulo": "Muppets: O Filme",
+  "ano": null,
+  "descricao": "Saiba como foi a ascensão dos Muppets à fama e à fortuna e como tudo pode ir por água abaixo quando Caco cai nas garras do Doutor Hopper, um vilão que quer promover sua rede de fast-food.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9mq54oHD0uCUG0Rt7WI6bXAaPD7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9mbXZSLINbwNQateHLGRhtaZzZB.jpg",
+  "tmdbId": 11176,
+  "nota": 7.21,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787525,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771483,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Muppet Movie",
+  "dataLancamento": "1979-06-22"
+}

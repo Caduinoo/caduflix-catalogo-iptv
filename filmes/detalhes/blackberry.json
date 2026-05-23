@@ -1,0 +1,42 @@
+{
+  "id": "blackberry",
+  "tipo": "filme",
+  "titulo": "BlackBerry",
+  "ano": null,
+  "descricao": "A história dos empresários canadenses Mike Lazaridis (Jay Baruchel) e Jim Balsillie (Glenn Howerton), dois homens interessados em tecnologia que traçaram o plano de ascensão espetacular do primeiro smartphone do mundo, o modelo BlackBerry. No entanto, em apenas poucos anos, sua invenção enfrentou uma queda catastrófica com a chegada de outros dispositivos ao mercado.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/neV35lK7em4rIY9QIoH1cruErPA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cUHxmWfkp6se0Rt10Kr86bMCYDE.jpg",
+  "tmdbId": 1016084,
+  "nota": 7.146,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784635,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772380,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782141,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "BlackBerry",
+  "dataLancamento": "2023-02-13"
+}

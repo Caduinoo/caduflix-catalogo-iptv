@@ -1,0 +1,34 @@
+{
+  "id": "fuks-2",
+  "tipo": "filme",
+  "titulo": "Golpe de Sorte",
+  "ano": null,
+  "descricao": "Maciek pede dinheiro ao pai para sair em um encontro. O pai, conhecido por se meter em encrencas e ganhar dinheiro com isso, decide testar se o filho herdou seu espírito ousado e sua inclinação para o perigo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uKKNwx8DAashLXt4Ri3cylkHGVB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/khb8B5dXDD3tMutuduUxvCa7R1O.jpg",
+  "tmdbId": 1077328,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786125,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772816,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Fuks²",
+  "dataLancamento": "2024-01-12"
+}

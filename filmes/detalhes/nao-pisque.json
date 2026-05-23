@@ -1,0 +1,42 @@
+{
+  "id": "nao-pisque",
+  "tipo": "filme",
+  "titulo": "Não Pisque",
+  "ano": null,
+  "descricao": "Estudantes de medicina conseguem fotografar o que acontece durante um piscar de olhos, revelando um mundo aterrorizante que fará com que você tenha medo de fechar os olhos novamente.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vagg05j0CC1GgyKXF0JjAtBoCej.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4SGYJhFkAx3xUGGrXGb7gnl2NJn.jpg",
+  "tmdbId": 1352643,
+  "nota": 4.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038967,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038990,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050038,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Never Blink",
+  "dataLancamento": "2025-05-16"
+}

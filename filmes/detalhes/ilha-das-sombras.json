@@ -1,0 +1,34 @@
+{
+  "id": "ilha-das-sombras",
+  "tipo": "filme",
+  "titulo": "A Ilha das Sombras",
+  "ano": null,
+  "descricao": "David, um aspirante a meteorologista, viaja para uma ilha deserta em busca da verdade sobre a morte de seu pai. No entanto, eventos estranhos começam a assombrá-lo, fazendo-o se questionar se realmente está sozinho.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/o7ZmcfeNCnUMUQ5mWjs2Kvu4XtX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sLroTz82xOfoYyzQQ1B46hM73aO.jpg",
+  "tmdbId": 1103726,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786519,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769857,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Shadow Island",
+  "dataLancamento": "2023-04-22"
+}

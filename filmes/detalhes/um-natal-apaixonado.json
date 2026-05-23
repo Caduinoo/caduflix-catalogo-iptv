@@ -1,0 +1,34 @@
+{
+  "id": "um-natal-apaixonado",
+  "tipo": "filme",
+  "titulo": "Um Natal Apaixonado",
+  "ano": null,
+  "descricao": "Uma professora de coral visita um aluno para convencer seu pai viúvo a deixá-lo participar do Show de Natal. Porém, durante a visita, eles acabam presos na casa numa nevasca e um grande amor começa a nascer.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7T41eP3T9l1TGVU3QNOr4o6wwIa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/an81PRNlpgSOvpMzrb9QKARH12e.jpg",
+  "tmdbId": 626313,
+  "nota": 6.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790660,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778799,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "A Christmas Love Story",
+  "dataLancamento": "2019-12-07"
+}

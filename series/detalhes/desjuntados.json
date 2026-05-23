@@ -1,0 +1,111 @@
+{
+  "id": "desjuntados",
+  "tipo": "serie",
+  "titulo": "Desjuntados",
+  "ano": null,
+  "descricao": "Um casal em um relacionamento sério com o divórcio. Camila e Caco já não se suportam mais e veem seu casamento chegar ao fim, mas durante o processo de separação eles são obrigados a continuarem dividindo o mesmo teto por causa de uma dívida.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/omkz52Su5eyFOQnc8klBWRaJpT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/s28QU102KixRux8FP2W9WlwOWlK.jpg",
+  "tmdbId": 123381,
+  "nota": 5.7,
+  "xtreamSeriesId": 222,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10796953",
+          "tipo": "episodio",
+          "titulo": "Desjuntados S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10796953",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/omkz52Su5eyFOQnc8klBWRaJpT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10796954",
+          "tipo": "episodio",
+          "titulo": "Desjuntados S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10796954",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/omkz52Su5eyFOQnc8klBWRaJpT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10796955",
+          "tipo": "episodio",
+          "titulo": "Desjuntados S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10796955",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/omkz52Su5eyFOQnc8klBWRaJpT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10796956",
+          "tipo": "episodio",
+          "titulo": "Desjuntados S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10796956",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/omkz52Su5eyFOQnc8klBWRaJpT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10796957",
+          "tipo": "episodio",
+          "titulo": "Desjuntados S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10796957",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/omkz52Su5eyFOQnc8klBWRaJpT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10796958",
+          "tipo": "episodio",
+          "titulo": "Desjuntados S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10796958",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/omkz52Su5eyFOQnc8klBWRaJpT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10796959",
+          "tipo": "episodio",
+          "titulo": "Desjuntados S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10796959",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/omkz52Su5eyFOQnc8klBWRaJpT.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Desjuntados",
+  "dataLancamento": "2021-10-01"
+}

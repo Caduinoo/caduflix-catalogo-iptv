@@ -1,0 +1,34 @@
+{
+  "id": "monte-carlo",
+  "tipo": "filme",
+  "titulo": "Monte Carlo",
+  "ano": null,
+  "descricao": "Grace consegue realizar o sonho de viajar para Paris com as amigas Meg e Emma, mas o passeio revela-se um tanto decepcionante. O trio anda meio desanimado até o dia em que Grace é confundida com uma milionária inglesa chamada Cordélia e resolve assumir o papel. Muito luxo - e confusão - as espera em Monte Carlo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aD7XtR408aKDiBo4wJcO0sksvBw.jpg",
+  "tmdbId": 59860,
+  "nota": 6.793,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11035615,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11035592,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1776246173,
+  "tituloOriginal": "Monte Carlo",
+  "dataLancamento": "2011-07-01"
+}

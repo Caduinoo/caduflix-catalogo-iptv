@@ -1,0 +1,42 @@
+{
+  "id": "meu-nome-e-agneta",
+  "tipo": "filme",
+  "titulo": "Meu Nome é Agneta",
+  "ano": null,
+  "descricao": "Ansiosa por um recomeço e desempregada, Agneta aceita trabalhar como au pair na Provença, uma mudança de cenário muito bem-vinda — acompanhada de um despertar inesperado.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jFFPtC0kj3MFspj76enfKIGNxqy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/A3XP3vGg4DGDhEH75GnyyjsDDm1.jpg",
+  "tmdbId": 829487,
+  "nota": 6.933,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11039749,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11039742,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050028,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Je m'appelle Agneta",
+  "dataLancamento": "2026-04-28"
+}

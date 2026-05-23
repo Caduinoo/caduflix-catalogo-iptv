@@ -1,0 +1,34 @@
+{
+  "id": "nos",
+  "tipo": "filme",
+  "titulo": "Nós",
+  "ano": null,
+  "descricao": "Adelaide e Gabe levam a família para passar um fim de semana na praia e descansar. Eles começam a aproveitar o ensolarado local, mas a chegada de um grupo misterioso muda tudo e a família se torna refém de seres com aparências iguais às suas.",
+  "generos": [
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5ncjQfUDr0oRKnfpdAXobJFbnao.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
+  "tmdbId": 458723,
+  "nota": 6.948,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781015,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782665,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Us",
+  "dataLancamento": "2019-03-14"
+}

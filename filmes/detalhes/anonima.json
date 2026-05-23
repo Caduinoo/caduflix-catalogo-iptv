@@ -1,0 +1,42 @@
+{
+  "id": "anonima",
+  "tipo": "filme",
+  "titulo": "Com Amor, Anônima",
+  "ano": null,
+  "descricao": "Uma mensagem de texto enviada por engano se transforma em uma amizade virtual com gostinho de romance, mas o casal não se dá conta de que já se conhece na vida real.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hhFS8NlOe7yQ3sxFVEHKftCUHSq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AjfboLPgxFmUBHJzXBl2S5KS53L.jpg",
+  "tmdbId": 899405,
+  "nota": 7.532,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784220,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774866,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782061,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Anónima",
+  "dataLancamento": "2021-12-10"
+}

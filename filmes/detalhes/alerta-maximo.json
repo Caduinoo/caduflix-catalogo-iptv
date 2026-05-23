@@ -1,0 +1,42 @@
+{
+  "id": "alerta-maximo",
+  "tipo": "filme",
+  "titulo": "Alerta Máximo",
+  "ano": null,
+  "descricao": "O piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6JU2ysRVOHqav0Hs6BUv4mvvDxZ.jpg",
+  "tmdbId": 646389,
+  "nota": 6.895,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784011,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769251,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782025,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Plane",
+  "dataLancamento": "2023-01-11"
+}

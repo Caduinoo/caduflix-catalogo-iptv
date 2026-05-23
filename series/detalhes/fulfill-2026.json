@@ -1,0 +1,63 @@
+{
+  "id": "fulfill-2026",
+  "tipo": "serie",
+  "titulo": "รักเติมเต็ม",
+  "ano": 2026,
+  "descricao": "",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kwaFICOw9wyh0k6mCLurCU1pLjA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3SxEkx2au1ZeWI6ZmmsSw13nB3P.jpg",
+  "tmdbId": 308260,
+  "nota": null,
+  "xtreamSeriesId": 7556,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11052652",
+          "tipo": "episodio",
+          "titulo": "Fulfill (2026) [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11052652",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4WyuPqccFkERAMUZSK6Qhanxrm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11052653",
+          "tipo": "episodio",
+          "titulo": "Fulfill (2026) [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11052653",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11052654",
+          "tipo": "episodio",
+          "titulo": "Fulfill (2026) [L] S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11052654",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "รักเติมเต็ม",
+  "dataLancamento": "2026-04-24"
+}

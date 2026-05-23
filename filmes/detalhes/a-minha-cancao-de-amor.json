@@ -1,0 +1,34 @@
+{
+  "id": "a-minha-cancao-de-amor",
+  "tipo": "filme",
+  "titulo": "A Minha Canção de Amor",
+  "ano": null,
+  "descricao": "Jane é uma cantora que perde a vontade de viver após sofrer um acidente e ficar paraplégica. Seu filho entra em contato para convidá-la para sua primeira comunhão e Joey, seu melhor amigo, inventa uma mentira e a convence a cruzar os Estados Unidos para rever o menino.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6NinqC5LqovNjZJXDaabuT0xD8A.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jrZAbmYzGyWyzBwU10AOKeuckvX.jpg",
+  "tmdbId": 43609,
+  "nota": 6.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783641,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781660,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "My Own Love Song",
+  "dataLancamento": "2010-04-07"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "welcome-to-the-family",
+  "tipo": "serie",
+  "titulo": "Welcome to the Family",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ck4AcTIr04mT3s9GtmbLi5ejFa6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yiqLmfg6riv01dcfEJdTas2TAwK.jpg",
+  "tmdbId": 51357,
+  "nota": 5.3,
+  "xtreamSeriesId": 5460,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927952",
+          "tipo": "episodio",
+          "titulo": "Welcome to the Family S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927952",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck4AcTIr04mT3s9GtmbLi5ejFa6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927953",
+          "tipo": "episodio",
+          "titulo": "Welcome to the Family S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927953",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck4AcTIr04mT3s9GtmbLi5ejFa6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927954",
+          "tipo": "episodio",
+          "titulo": "Welcome to the Family S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927954",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck4AcTIr04mT3s9GtmbLi5ejFa6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927955",
+          "tipo": "episodio",
+          "titulo": "Welcome to the Family S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927955",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck4AcTIr04mT3s9GtmbLi5ejFa6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927956",
+          "tipo": "episodio",
+          "titulo": "Welcome to the Family S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10927956",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck4AcTIr04mT3s9GtmbLi5ejFa6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927957",
+          "tipo": "episodio",
+          "titulo": "Welcome to the Family S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10927957",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck4AcTIr04mT3s9GtmbLi5ejFa6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927958",
+          "tipo": "episodio",
+          "titulo": "Welcome to the Family S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10927958",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck4AcTIr04mT3s9GtmbLi5ejFa6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927959",
+          "tipo": "episodio",
+          "titulo": "Welcome to the Family S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10927959",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck4AcTIr04mT3s9GtmbLi5ejFa6.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Welcome to the Family",
+  "dataLancamento": "2013-10-03"
+}

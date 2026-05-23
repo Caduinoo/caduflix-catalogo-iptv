@@ -1,0 +1,111 @@
+{
+  "id": "ultimo-ato",
+  "tipo": "serie",
+  "titulo": "Último Ato",
+  "ano": null,
+  "descricao": "Um thriller de conspiração sobre um dos crimes mais conhecidos, mas menos compreendidos da história. Esta é a surpreendente história da caçada a John Wilkes Booth após o assassinato de Abraham Lincoln— enquanto o destino do país está em jogo.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aTWqVvPd0kWZcHELD3TowIr8Aqh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/x3XEQ3Wey8enS7mMjo3eUJp8Myi.jpg",
+  "tmdbId": 155533,
+  "nota": 6.776,
+  "xtreamSeriesId": 1005,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10816591",
+          "tipo": "episodio",
+          "titulo": "Ultimo Ato S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10816591",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTWqVvPd0kWZcHELD3TowIr8Aqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816592",
+          "tipo": "episodio",
+          "titulo": "Ultimo Ato S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10816592",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTWqVvPd0kWZcHELD3TowIr8Aqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816593",
+          "tipo": "episodio",
+          "titulo": "Ultimo Ato S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10816593",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTWqVvPd0kWZcHELD3TowIr8Aqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816594",
+          "tipo": "episodio",
+          "titulo": "Ultimo Ato S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10816594",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTWqVvPd0kWZcHELD3TowIr8Aqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816595",
+          "tipo": "episodio",
+          "titulo": "Ultimo Ato S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10816595",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTWqVvPd0kWZcHELD3TowIr8Aqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816596",
+          "tipo": "episodio",
+          "titulo": "Ultimo Ato S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10816596",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTWqVvPd0kWZcHELD3TowIr8Aqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816597",
+          "tipo": "episodio",
+          "titulo": "Ultimo Ato S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10816597",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTWqVvPd0kWZcHELD3TowIr8Aqh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Manhunt",
+  "dataLancamento": "2024-03-14"
+}

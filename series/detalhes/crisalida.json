@@ -1,0 +1,75 @@
+{
+  "id": "crisalida",
+  "tipo": "serie",
+  "titulo": "Crisálida",
+  "ano": null,
+  "descricao": "Crisálida é a primeira série de ficção dramática bilíngue, em Libras e português, realizada no Brasil.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/koydFyEaJBTa4gzK7VmF3MWbN0Q.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kHE6WaN0HolzW4cK7xz0is4qOTG.jpg",
+  "tmdbId": 127526,
+  "nota": 8,
+  "xtreamSeriesId": 6925,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11014079",
+          "tipo": "episodio",
+          "titulo": "Crisalida S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11014079",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kUsTIDeAfZGeXLp3DQNVUZfD5hB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11014080",
+          "tipo": "episodio",
+          "titulo": "Crisalida S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11014080",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kUsTIDeAfZGeXLp3DQNVUZfD5hB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11014081",
+          "tipo": "episodio",
+          "titulo": "Crisalida S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11014081",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kUsTIDeAfZGeXLp3DQNVUZfD5hB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11014082",
+          "tipo": "episodio",
+          "titulo": "Crisalida S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11014082",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kUsTIDeAfZGeXLp3DQNVUZfD5hB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Crisálida",
+  "dataLancamento": "2019-09-26"
+}

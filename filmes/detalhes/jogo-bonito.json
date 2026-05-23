@@ -1,0 +1,34 @@
+{
+  "id": "jogo-bonito",
+  "tipo": "filme",
+  "titulo": "Jogo Bonito",
+  "ano": null,
+  "descricao": "A caminho de Roma para a Copa do Mundo dos Sem-Teto, um jogador talentoso de um time de futebol inglês precisa deixar o passado de lado e aprender a trabalhar em equipe.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lYR7Ob8qmtwxjNzrfGaPNjvbIln.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/el8IsSzuHcwQeDgsCoEdTPgKxQ0.jpg",
+  "tmdbId": 857655,
+  "nota": 6.285,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786700,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775650,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "The Beautiful Game",
+  "dataLancamento": "2024-03-22"
+}

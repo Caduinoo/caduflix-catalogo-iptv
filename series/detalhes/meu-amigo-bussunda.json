@@ -1,0 +1,75 @@
+{
+  "id": "meu-amigo-bussunda",
+  "tipo": "serie",
+  "titulo": "Meu Amigo Bussunda",
+  "ano": null,
+  "descricao": "Cláudio Manoel, parceiro inseparável de Bussunda, ouve amigos e familiares, e lembra a história desse grande nome do humor nacional, da infância até sua morte precoce, aos 43 anos.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2dTxtR9kUMfgTdTHc3nGphG24yQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/50fNA8XeVVLghIIUGYg5ManQ42V.jpg",
+  "tmdbId": 127650,
+  "nota": 8,
+  "xtreamSeriesId": 3105,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10873710",
+          "tipo": "episodio",
+          "titulo": "Meu Amigo Bussunda S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10873710",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dTxtR9kUMfgTdTHc3nGphG24yQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873711",
+          "tipo": "episodio",
+          "titulo": "Meu Amigo Bussunda S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10873711",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dTxtR9kUMfgTdTHc3nGphG24yQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873712",
+          "tipo": "episodio",
+          "titulo": "Meu Amigo Bussunda S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10873712",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dTxtR9kUMfgTdTHc3nGphG24yQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873713",
+          "tipo": "episodio",
+          "titulo": "Meu Amigo Bussunda S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10873713",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2dTxtR9kUMfgTdTHc3nGphG24yQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Meu Amigo Bussunda",
+  "dataLancamento": "2021-06-17"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "eu-voltarei",
+  "tipo": "filme",
+  "titulo": "Eu Voltarei",
+  "ano": null,
+  "descricao": "Alejandra, uma frívola mãe divorciada de dois filhos, precisa enfrentar o súbito desaparecimento de seu irmão Salvador. O misterioso sumiço parece estar relacionado com o documentário e a investigação realizados por Salvador sobre os desastres ecológicos cometidos por uma grande mineradora canadense. Para completar, sua cunhada morre, deixando Alejandra responsável por cuidar de todos, lutar pela verdade e proteger seus entes queridos. Maya, a cadela da família, é tanto testemunha de todos os altos e baixos da família como demonstração de quanto o amor é poderoso..",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pTUmZO6ApTUaHLY75WKkR2bSx69.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jjmDyW8oqIjqTiGo1jPdAs93xMc.jpg",
+  "tmdbId": 1096215,
+  "nota": 8.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785880,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775403,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Volveré",
+  "dataLancamento": "2023-03-10"
+}

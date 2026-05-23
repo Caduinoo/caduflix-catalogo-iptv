@@ -1,0 +1,42 @@
+{
+  "id": "planeta-janet",
+  "tipo": "filme",
+  "titulo": "Planeta Janet",
+  "ano": null,
+  "descricao": "Na zona rural de Massachusetts, Lacy, de 11 anos, passa o verão de 91 em casa, encantada com sua própria imaginação e com a atenção de sua mãe, Janet. Com o passar dos meses, três visitantes entram em sua órbita, todos cativados por Janet.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4n539sFGFBjv4RlIR6dHJ8d2M7P.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fuv2TxJb1retWu3XMwsVJqm8ylr.jpg",
+  "tmdbId": 1037035,
+  "nota": 6.043,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789071,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776505,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782854,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Janet Planet",
+  "dataLancamento": "2024-06-21"
+}

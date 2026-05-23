@@ -1,0 +1,111 @@
+{
+  "id": "transatlantico",
+  "tipo": "serie",
+  "titulo": "Transatlântico",
+  "ano": null,
+  "descricao": "Durante a Segunda Guerra, dois americanos e seus aliados montam uma operação em Marselha para ajudar refugiados, artistas e escritores a fugir da Europa.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cfAikf2oculqqanLUFv76Yw3PEg.jpg",
+  "tmdbId": 195359,
+  "nota": 6.375,
+  "xtreamSeriesId": 5385,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10926685",
+          "tipo": "episodio",
+          "titulo": "Transatlântico S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10926685",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926686",
+          "tipo": "episodio",
+          "titulo": "Transatlântico S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10926686",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926687",
+          "tipo": "episodio",
+          "titulo": "Transatlântico S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10926687",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926688",
+          "tipo": "episodio",
+          "titulo": "Transatlântico S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10926688",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926689",
+          "tipo": "episodio",
+          "titulo": "Transatlântico S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10926689",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926690",
+          "tipo": "episodio",
+          "titulo": "Transatlântico S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10926690",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926691",
+          "tipo": "episodio",
+          "titulo": "Transatlântico S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10926691",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iWJMIgpnKUkSMWoTzXJvM1l4pRi.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Transatlantic",
+  "dataLancamento": "2023-04-07"
+}

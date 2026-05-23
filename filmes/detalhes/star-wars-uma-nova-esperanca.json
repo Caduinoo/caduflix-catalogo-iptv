@@ -1,0 +1,26 @@
+{
+  "id": "star-wars-uma-nova-esperanca",
+  "tipo": "filme",
+  "titulo": "Guerra nas Estrelas",
+  "ano": null,
+  "descricao": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.",
+  "generos": [
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
+  "tmdbId": 11,
+  "nota": 8.2,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777481,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567054,
+  "tituloOriginal": "Star Wars",
+  "dataLancamento": "1977-05-25"
+}

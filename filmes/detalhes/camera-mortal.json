@@ -1,0 +1,34 @@
+{
+  "id": "camera-mortal",
+  "tipo": "filme",
+  "titulo": "Câmera Mortal",
+  "ano": null,
+  "descricao": "Três estudantes universitários que fazem um filme de terror se vêm presos em seu pior pesadelo. Sua única esperança de sobrevivência são dois detectives que encontram a câmera que deixaram para trás.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hLyIHHf1nHXi831BOJUgT1uSlcy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dKPfLOqwI3SxPKqhdPDhOjsrYPT.jpg",
+  "tmdbId": 759426,
+  "nota": 4.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785216,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780609,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Stoker Hills",
+  "dataLancamento": "2022-01-14"
+}

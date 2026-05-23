@@ -1,0 +1,34 @@
+{
+  "id": "baby-ruby",
+  "tipo": "filme",
+  "titulo": "Baby Ruby",
+  "ano": null,
+  "descricao": "O mundo rigidamente roteirizado de uma vlogger e influenciadora se desenrola como depressão pós-parto, falta de apoio daqueles em sua órbita e aparente hostilidade de seu bebê.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xsQyj1RWeKYafKaDRDfA3x5IVcZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/c4CMeW8B2l0tA3ar5xtjWhALecS.jpg",
+  "tmdbId": 1008374,
+  "nota": 5.197,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784483,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780492,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Baby Ruby",
+  "dataLancamento": "2023-02-03"
+}

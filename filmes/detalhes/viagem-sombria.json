@@ -1,0 +1,34 @@
+{
+  "id": "viagem-sombria",
+  "tipo": "filme",
+  "titulo": "Viagem Sombria",
+  "ano": null,
+  "descricao": "A jovem Rhona lidera um grupo de amigos em busca de uma cabana há tempo perdida nas montanhas, quando uma tragédia se abate sobre eles e uma má decisão leva a suspeitas, traição e assassinato.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wOCMbAK7icsr8XrPLJGVbeCkfUg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ueDifYqjQjHddEWCNmb4fXRYHbx.jpg",
+  "tmdbId": 1127175,
+  "nota": 5.857,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790978,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781602,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Mercy Falls",
+  "dataLancamento": "2023-09-01"
+}

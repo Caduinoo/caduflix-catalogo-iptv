@@ -1,0 +1,34 @@
+{
+  "id": "o-nono-passageiro",
+  "tipo": "filme",
+  "titulo": "O Nono Passageiro",
+  "ano": null,
+  "descricao": "Um grupo de oito estudantes se divertem a bordo de um luxuoso iate, até que um misterioso passageiro aparece para acabar com a festa.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wGoC9zZZQQqKcY90Dmf0FayhLDb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/glIn4qIoKI41uh1UcTI80izs8MO.jpg",
+  "tmdbId": 434520,
+  "nota": 4.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788327,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781169,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Ninth Passenger",
+  "dataLancamento": "2018-07-18"
+}

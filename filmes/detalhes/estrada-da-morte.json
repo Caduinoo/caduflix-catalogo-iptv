@@ -1,0 +1,34 @@
+{
+  "id": "estrada-da-morte",
+  "tipo": "filme",
+  "titulo": "Rota 666: A Estrada da Morte",
+  "ano": null,
+  "descricao": "Uma testemunha federal foge e uma equipe de agentes do governo a localiza, mas quando eles pegam um atalho na viagem de volta, são atacados por zumbis.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mrTWXADgmrvPmXsC7PX7V7yAIEh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fnDwHw8drCBGoJNUoS5dLHKXRlq.jpg",
+  "tmdbId": 55547,
+  "nota": 5.03,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785845,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780692,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Route 666",
+  "dataLancamento": "2001-10-30"
+}

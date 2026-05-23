@@ -1,0 +1,99 @@
+{
+  "id": "wolf",
+  "tipo": "serie",
+  "titulo": "Lobo Adolescente",
+  "ano": null,
+  "descricao": "Após ser mordido por um animal, Scott vira lobisomem e é o cara adorado por todas na escola. Só que ele também ganha novos problemas.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5uYycnlGq10C5htiOinRprRnijn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1F2RnXLc0fmRt7iWfBK4mNVsjno.jpg",
+  "tmdbId": 34524,
+  "nota": 8.45,
+  "xtreamSeriesId": 767,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10810622",
+          "tipo": "episodio",
+          "titulo": "Wolf S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10810622",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wQB5bOHhzoWhTIR0KlndLUdxHkp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10810623",
+          "tipo": "episodio",
+          "titulo": "Wolf S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10810623",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wQB5bOHhzoWhTIR0KlndLUdxHkp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10810624",
+          "tipo": "episodio",
+          "titulo": "Wolf S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10810624",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wQB5bOHhzoWhTIR0KlndLUdxHkp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10810625",
+          "tipo": "episodio",
+          "titulo": "Wolf S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10810625",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wQB5bOHhzoWhTIR0KlndLUdxHkp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10810626",
+          "tipo": "episodio",
+          "titulo": "Wolf S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10810626",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wQB5bOHhzoWhTIR0KlndLUdxHkp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10810627",
+          "tipo": "episodio",
+          "titulo": "Wolf S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10810627",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wQB5bOHhzoWhTIR0KlndLUdxHkp.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Teen Wolf",
+  "dataLancamento": "2011-06-05"
+}

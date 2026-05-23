@@ -1,0 +1,34 @@
+{
+  "id": "inimigo-invisivel",
+  "tipo": "filme",
+  "titulo": "Inimigo Invisível",
+  "ano": null,
+  "descricao": "Quatro soldados americanos na 2ª Guerra Mundial, depois de testemunhar o cruel assassinato de um civil inocente nas mãos de seu sargento de pelotão, são enviados em uma missão de reconhecimento/suicídio liderada por um partidário local.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/znmFGF41VKALJIQx0coyjBXNWYm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mkyW1cHIKmw3Qdj3Xfw40p3JTVo.jpg",
+  "tmdbId": 717042,
+  "nota": 4.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786585,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769884,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Recon",
+  "dataLancamento": "2019-10-25"
+}

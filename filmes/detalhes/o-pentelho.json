@@ -1,0 +1,34 @@
+{
+  "id": "o-pentelho",
+  "tipo": "filme",
+  "titulo": "O Pentelho",
+  "ano": null,
+  "descricao": "Quem já não deu uma caixinha para conseguir aquele favor? Todo mundo, não é mesmo? E Steven Kovacs não iria fugir desta regra, quando o instalador de televisão a cabo veio até seu novo apartamento ligar o serviço de recepção de canais. Para Steven, bastava dar uma gorjeta de 50 pratas e conseguir todos os canais de filmes grátis! Mas o instalador da TV a cabo não é como os outros. Ele não quer os cinquenta dólares: ele quer um amigo... e não aceitará um não como resposta. E Steven está prestes a descobrir que televisão a cabo de graça não existe.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xqbr4oTS9ANuzSwhnCxocUda6eO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nj0rIFyjZ0GUOQYnGM8YyGR3CmS.jpg",
+  "tmdbId": 9894,
+  "nota": 5.997,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788349,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781867,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Cable Guy",
+  "dataLancamento": "1996-06-10"
+}

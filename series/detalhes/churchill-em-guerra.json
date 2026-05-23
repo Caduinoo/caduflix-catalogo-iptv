@@ -1,0 +1,75 @@
+{
+  "id": "churchill-em-guerra",
+  "tipo": "serie",
+  "titulo": "Churchill em Guerra",
+  "ano": null,
+  "descricao": "Esta série documental examina o papel fundamental de Winston Churchill na Segunda Guerra Mundial e mostra os motivos pelos quais ele foi o líder ideal naquele momento.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8SqZXGrNWg5nvAYrq0przLqBvVU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/p7yp9P2K2XHqJO1ZglXJUU1mSWb.jpg",
+  "tmdbId": 275571,
+  "nota": 7.586,
+  "xtreamSeriesId": 4276,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904693",
+          "tipo": "episodio",
+          "titulo": "Churchill em Guerra S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904693",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8SqZXGrNWg5nvAYrq0przLqBvVU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904694",
+          "tipo": "episodio",
+          "titulo": "Churchill em Guerra S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904694",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8SqZXGrNWg5nvAYrq0przLqBvVU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904695",
+          "tipo": "episodio",
+          "titulo": "Churchill em Guerra S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904695",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8SqZXGrNWg5nvAYrq0przLqBvVU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904696",
+          "tipo": "episodio",
+          "titulo": "Churchill em Guerra S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904696",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8SqZXGrNWg5nvAYrq0przLqBvVU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Churchill at War",
+  "dataLancamento": "2024-12-04"
+}

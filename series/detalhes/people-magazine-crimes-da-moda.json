@@ -1,0 +1,99 @@
+{
+  "id": "people-magazine-crimes-da-moda",
+  "tipo": "serie",
+  "titulo": "People Magazine: Crimes da Moda",
+  "ano": null,
+  "descricao": "Esta série relata casos de crimes reais ocorridos no mundo da moda. Cada episódio acompanha a jornada das vítimas até o topo, entre estilistas e modelos, e os eventos que levaram a seu destino trágico.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7HmjF2EV9LGm530fP0WcQ1vtd3f.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rA6jzbwqxCMdsu56uDXeNZdgEuz.jpg",
+  "tmdbId": 125842,
+  "nota": 7.3,
+  "xtreamSeriesId": 3768,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10894587",
+          "tipo": "episodio",
+          "titulo": "People Magazine Crimes da Moda S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10894587",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7HmjF2EV9LGm530fP0WcQ1vtd3f.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894588",
+          "tipo": "episodio",
+          "titulo": "People Magazine Crimes da Moda S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10894588",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7HmjF2EV9LGm530fP0WcQ1vtd3f.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894589",
+          "tipo": "episodio",
+          "titulo": "People Magazine Crimes da Moda S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10894589",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7HmjF2EV9LGm530fP0WcQ1vtd3f.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894590",
+          "tipo": "episodio",
+          "titulo": "People Magazine Crimes da Moda S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10894590",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7HmjF2EV9LGm530fP0WcQ1vtd3f.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894591",
+          "tipo": "episodio",
+          "titulo": "People Magazine Crimes da Moda S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10894591",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7HmjF2EV9LGm530fP0WcQ1vtd3f.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894592",
+          "tipo": "episodio",
+          "titulo": "People Magazine Crimes da Moda S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10894592",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7HmjF2EV9LGm530fP0WcQ1vtd3f.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "People Magazine Investigates: Crimes of Fashion",
+  "dataLancamento": "2018-07-16"
+}

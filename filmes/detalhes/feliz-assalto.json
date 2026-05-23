@@ -1,0 +1,42 @@
+{
+  "id": "feliz-assalto",
+  "tipo": "filme",
+  "titulo": "Feliz Assalto!",
+  "ano": null,
+  "descricao": "Dois trabalhadores sem grana se unem para assaltar uma loja de departamentos de Londres em plena véspera de Natal. Mais fácil roubar o coração um do outro no caminho.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/d8DZAkIp3ibfZrDHDGKfkdMbiNn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/x8gV0MUZVWkikNZElaBk13vW5f4.jpg",
+  "tmdbId": 1218762,
+  "nota": 6.05,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785979,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11020346,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782359,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773664178,
+  "tituloOriginal": "Jingle Bell Heist",
+  "dataLancamento": "2025-11-25"
+}

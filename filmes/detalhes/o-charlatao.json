@@ -1,0 +1,34 @@
+{
+  "id": "o-charlatao",
+  "tipo": "filme",
+  "titulo": "O Charlatão",
+  "ano": null,
+  "descricao": "Durante os anos 50, quando a antiga Tchecoslováquia estava mergulhada no totalitarismo, a surpreendente história de um homem com o suposto dom de curar levaria a um julgamento histórico.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/TynGL7FRlss32Q8wfASB1bRawH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ff3rki8peLVBqO5CHgAVHhIZztp.jpg",
+  "tmdbId": 501738,
+  "nota": 6.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787938,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776046,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Šarlatán",
+  "dataLancamento": "2020-08-20"
+}

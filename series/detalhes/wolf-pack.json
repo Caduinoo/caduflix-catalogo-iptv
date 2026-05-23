@@ -1,0 +1,123 @@
+{
+  "id": "wolf-pack",
+  "tipo": "serie",
+  "titulo": "Wolf Pack",
+  "ano": null,
+  "descricao": "Quatro vidas de adolescentes são mudadas para sempre quando um incêndio florestal na Califórnia desperta um lobismo terrível e um vínculo entre eles",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jvoRuN9yzMFaMRv8FuZKiKczE4E.jpg",
+  "tmdbId": 134865,
+  "nota": 7.703,
+  "xtreamSeriesId": 6654,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11001234",
+          "tipo": "episodio",
+          "titulo": "Wolf Pack S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11001234",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11001235",
+          "tipo": "episodio",
+          "titulo": "Wolf Pack S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11001235",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11001236",
+          "tipo": "episodio",
+          "titulo": "Wolf Pack S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11001236",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11001237",
+          "tipo": "episodio",
+          "titulo": "Wolf Pack S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11001237",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11001238",
+          "tipo": "episodio",
+          "titulo": "Wolf Pack S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11001238",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11001239",
+          "tipo": "episodio",
+          "titulo": "Wolf Pack S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11001239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11001240",
+          "tipo": "episodio",
+          "titulo": "Wolf Pack S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11001240",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11001241",
+          "tipo": "episodio",
+          "titulo": "Wolf Pack S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11001241",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Wolf Pack",
+  "dataLancamento": "2023-01-26"
+}

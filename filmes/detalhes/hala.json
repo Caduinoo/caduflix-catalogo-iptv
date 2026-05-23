@@ -1,0 +1,41 @@
+{
+  "id": "hala",
+  "tipo": "filme",
+  "titulo": "Hala",
+  "ano": null,
+  "descricao": "Hala é uma adolescente de 17 anos que tenta conciliar seus desejos com as obrigações familiares, culturais e religiosas. Durante o amadurecimento, a jovem entra em conflito ao lidar com um segredo que ameaça separar sua família.",
+  "generos": [
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oMC0S5kpUq5AFIf4e5bZSEVRB7u.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/afFHOWMMMCji7T3mhZJdL77N0Gh.jpg",
+  "tmdbId": 535308,
+  "nota": 6.28,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775549,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782413,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782414,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Hala",
+  "dataLancamento": "2019-11-22"
+}

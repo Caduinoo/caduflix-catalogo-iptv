@@ -1,0 +1,42 @@
+{
+  "id": "sick",
+  "tipo": "filme",
+  "titulo": "Isolamento Mortal",
+  "ano": null,
+  "descricao": "Durante a pandemia do Covid-19, as amigas Parker e Miri se isolam na casa do lago da família de uma delas e aparentemente tudo parecia tranquilo. Quando uma batida violenta na porta começa a assustá-las, a estadia das amigas acaba se tornando uma sequência de horror e luta pela sobrevivência",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tDXYFCA3EAvYiZLAgvTYBHKZ1YG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ve3RLbCSuUKA02OZJ5F0fMmXVMn.jpg",
+  "tmdbId": 829410,
+  "nota": 6.152,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789745,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781453,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782942,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Sick",
+  "dataLancamento": "2022-09-11"
+}

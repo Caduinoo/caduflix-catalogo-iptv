@@ -1,0 +1,75 @@
+{
+  "id": "money-id-a-identidade-do-dinheiro",
+  "tipo": "serie",
+  "titulo": "Money ID - A Identidade do Dinheiro",
+  "ano": null,
+  "descricao": "Muhammad Yunus, Yuval Noah Harari e outros especialistas debatem o futuro do dinheiro.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dgCqZzwdVIshW4x02vhDRkZCjIm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/JKXuahcTFh0TgfuH0ktPnXdpqx.jpg",
+  "tmdbId": 261708,
+  "nota": null,
+  "xtreamSeriesId": 1515,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10831050",
+          "tipo": "episodio",
+          "titulo": "Money ID A Identidade do Dinheiro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10831050",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dgCqZzwdVIshW4x02vhDRkZCjIm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10831051",
+          "tipo": "episodio",
+          "titulo": "Money ID A Identidade do Dinheiro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10831051",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dgCqZzwdVIshW4x02vhDRkZCjIm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10831052",
+          "tipo": "episodio",
+          "titulo": "Money ID A Identidade do Dinheiro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10831052",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dgCqZzwdVIshW4x02vhDRkZCjIm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10831053",
+          "tipo": "episodio",
+          "titulo": "Money ID A Identidade do Dinheiro S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10831053",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dgCqZzwdVIshW4x02vhDRkZCjIm.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Money ID",
+  "dataLancamento": "2021-04-26"
+}

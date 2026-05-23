@@ -1,0 +1,75 @@
+{
+  "id": "untold-entre-o-campo-e-o-crime",
+  "tipo": "serie",
+  "titulo": "Untold: Entre o Campo e o Crime",
+  "ano": null,
+  "descricao": "Esta série documental mostra como o implacável técnico Urban Meyer transformou o Florida Gators em uma máquina de vitórias no futebol americano.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/44gAtsq2gVOMJOVFcPXRcsyzKRq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9QzZFb01s1NVn2QCvh2rcZRrRbD.jpg",
+  "tmdbId": 231297,
+  "nota": 7,
+  "xtreamSeriesId": 5425,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927203",
+          "tipo": "episodio",
+          "titulo": "Untold Entre o Campo e o Crime S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927203",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/44gAtsq2gVOMJOVFcPXRcsyzKRq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927204",
+          "tipo": "episodio",
+          "titulo": "Untold Entre o Campo e o Crime S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927204",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/44gAtsq2gVOMJOVFcPXRcsyzKRq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927205",
+          "tipo": "episodio",
+          "titulo": "Untold Entre o Campo e o Crime S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927205",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/44gAtsq2gVOMJOVFcPXRcsyzKRq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927206",
+          "tipo": "episodio",
+          "titulo": "Untold Entre o Campo e o Crime S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927206",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/44gAtsq2gVOMJOVFcPXRcsyzKRq.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Untold: Swamp Kings",
+  "dataLancamento": "2023-08-22"
+}

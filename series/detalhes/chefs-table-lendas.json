@@ -1,0 +1,75 @@
+{
+  "id": "chefs-table-lendas",
+  "tipo": "serie",
+  "titulo": "Chef's Table: Lendas",
+  "ano": null,
+  "descricao": "Esta série indicada ao Emmy® celebra quatro gigantes da culinária: Jamie Oliver, José Andrés, Alice Waters e Thomas Keller, que mudaram o jeito de o mundo se alimentar.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bCzhHCqjOKqG8Sh4XsKQ6UVw4YZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jFLqy7S9NzM0ROWcqOPVPobqKwD.jpg",
+  "tmdbId": 273212,
+  "nota": 7.2,
+  "xtreamSeriesId": 4268,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904618",
+          "tipo": "episodio",
+          "titulo": "Chefs Table Lendas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904618",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bCzhHCqjOKqG8Sh4XsKQ6UVw4YZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904619",
+          "tipo": "episodio",
+          "titulo": "Chefs Table Lendas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904619",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bCzhHCqjOKqG8Sh4XsKQ6UVw4YZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904620",
+          "tipo": "episodio",
+          "titulo": "Chefs Table Lendas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904620",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bCzhHCqjOKqG8Sh4XsKQ6UVw4YZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904621",
+          "tipo": "episodio",
+          "titulo": "Chefs Table Lendas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904621",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bCzhHCqjOKqG8Sh4XsKQ6UVw4YZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Chef's Table: Legends",
+  "dataLancamento": "2025-04-28"
+}

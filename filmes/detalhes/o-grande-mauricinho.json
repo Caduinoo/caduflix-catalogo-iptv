@@ -1,0 +1,34 @@
+{
+  "id": "o-grande-mauricinho",
+  "tipo": "filme",
+  "titulo": "O Grande Mauricinho",
+  "ano": null,
+  "descricao": "Esta história segue Maurice, um pateta gato malandro, que tem o golpe perfeito para ganhar dinheiro. Ele encontra um garoto de aparência burra que toca flauta e tem sua própria horda de ratos, que são estranhamente alfabetizados.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/70aVSo3fuZ94jyQ3rT64afEf8lV.jpg",
+  "tmdbId": 676710,
+  "nota": 6.669,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788142,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771532,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Amazing Maurice",
+  "dataLancamento": "2022-12-16"
+}

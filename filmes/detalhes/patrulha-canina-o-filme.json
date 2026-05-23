@@ -1,0 +1,34 @@
+{
+  "id": "patrulha-canina-o-filme",
+  "tipo": "filme",
+  "titulo": "Patrulha Canina: O Filme",
+  "ano": null,
+  "descricao": "O longa acompanha um grupo de cães falantes que utilizam equipamentos especializados para investigar e resolver crimes, evitando desastres na pequena cidade onde moram.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cl3JWmv9HbSx43TDsYyUkABKV3M.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
+  "tmdbId": 675445,
+  "nota": 7.33,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788951,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771641,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "PAW Patrol: The Movie",
+  "dataLancamento": "2021-08-09"
+}

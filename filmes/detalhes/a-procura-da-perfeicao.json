@@ -1,0 +1,34 @@
+{
+  "id": "a-procura-da-perfeicao",
+  "tipo": "filme",
+  "titulo": "À Procura da Perfeição",
+  "ano": null,
+  "descricao": "Jennifer Rogiers é uma talentosa pianista que conviveu com um terrível segredo durante toda sua vida. Quando ela tem a chance de competir em uma famosa competição de música, memórias de sua infância traumática vêm à tona.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sNfqSx8A50NjCAETegsv0YvZEp7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3xo1TDWQXL3AYpuDeruQ6UsR5Jv.jpg",
+  "tmdbId": 1000569,
+  "nota": 6.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791220,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777145,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "The Chapel",
+  "dataLancamento": "2023-02-08"
+}

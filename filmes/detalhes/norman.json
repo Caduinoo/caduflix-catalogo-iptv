@@ -1,0 +1,26 @@
+{
+  "id": "norman",
+  "tipo": "filme",
+  "titulo": "Norman",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2uN5YbewCGghe6htT6cjyrtuORm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/epbiXapnWDfEj8SFHB7ev61ncQo.jpg",
+  "tmdbId": 50590,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787733,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Norman",
+  "dataLancamento": "2010-06-11"
+}

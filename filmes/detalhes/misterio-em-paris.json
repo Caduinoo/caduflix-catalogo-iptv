@@ -1,0 +1,42 @@
+{
+  "id": "misterio-em-paris",
+  "tipo": "filme",
+  "titulo": "Mistério em Paris",
+  "ano": null,
+  "descricao": "Depois de abrir uma agência de investigação, Nick e Audrey Spitz finalmente conseguem um caso importante: um amigo bilionário é sequestrado no dia de seu casamento.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pf1dQDb55mJ13KQMEYa4O0fni64.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg",
+  "tmdbId": 638974,
+  "nota": 6.368,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787420,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773191,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782605,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Murder Mystery 2",
+  "dataLancamento": "2023-03-28"
+}

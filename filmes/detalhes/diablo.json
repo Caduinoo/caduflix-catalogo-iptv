@@ -1,0 +1,34 @@
+{
+  "id": "diablo",
+  "tipo": "filme",
+  "titulo": "Diablo: Caçada Mortal",
+  "ano": null,
+  "descricao": "Depois de ser libertada da prisão, Kris Chaney sequestra Elisa, filha de um gângster, iniciando uma caçada por seu pai e pelo assassino El Corvo. Kris deve fugir de ambos para cumprir uma promessa oculta e revelar a verdade a Elisa.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7F14PGXPEZCJ1Fj0wC1EtzVemkD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5AB4EfS39K7aQYtUim0CFfKBU6r.jpg",
+  "tmdbId": 1127110,
+  "nota": 7.321,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785467,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769618,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Diablo",
+  "dataLancamento": "2025-06-13"
+}

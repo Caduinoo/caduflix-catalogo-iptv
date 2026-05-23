@@ -1,0 +1,34 @@
+{
+  "id": "invisiveis",
+  "tipo": "filme",
+  "titulo": "Invisíveis",
+  "ano": null,
+  "descricao": "Três mulheres de meia idade muito diferentes umas das outras se reúnem todas as quintas-feiras para um passeio matinal onde compartilham seus  medos e preocupações com a honestidade brutal reservada apenas às velhas amizades.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gX6JfIPPv1HPmsgSNykUR7pWLKb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8fcQVOwAEOxw8bWlAWtFhFJky40.jpg",
+  "tmdbId": 650625,
+  "nota": 6.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786630,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775632,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Invisibles",
+  "dataLancamento": "2020-03-06"
+}

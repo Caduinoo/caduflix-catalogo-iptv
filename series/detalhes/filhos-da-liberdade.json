@@ -1,0 +1,63 @@
+{
+  "id": "filhos-da-liberdade",
+  "tipo": "serie",
+  "titulo": "Filhos da Liberdade",
+  "ano": null,
+  "descricao": "Enquanto a América do norte era dominada por britânicos, seis jovens chamados, Sam Adams (Ben Barnes), Benedict Arnold, John Adams (Henry Thomas), Patrick Henry, John Hancock (Rafe Spall) e Paul Revere (Michael Raymond-James). Os mesmos cansados do domínio e exploração de outra nação, pensavam no que fazer com suas jovens vidas, e em um protesto que por fim soou como revolta e traição, foram aprisionados tanto fisicamente quando emocionalmente, e puderam ver com profundidade que sua nação não poderia mais viver refém dos impostos e humilhações dos britânicos. E assim entre reuniões secretas e treinamentos, viraram os “Filhos da Liberdade”. Lutaram, enfrentaram a morte de perto a fim de libertar seu sofrido povo.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yb2n2Uply0YMhAmbUmrOoN3vZ8l.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fRgKV8aTcEL211FSi7qVhEsTfgL.jpg",
+  "tmdbId": 61729,
+  "nota": 6.9,
+  "xtreamSeriesId": 1448,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10829909",
+          "tipo": "episodio",
+          "titulo": "Filhos da Liberdade S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10829909",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yb2n2Uply0YMhAmbUmrOoN3vZ8l.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829910",
+          "tipo": "episodio",
+          "titulo": "Filhos da Liberdade S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10829910",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yb2n2Uply0YMhAmbUmrOoN3vZ8l.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829911",
+          "tipo": "episodio",
+          "titulo": "Filhos da Liberdade S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10829911",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yb2n2Uply0YMhAmbUmrOoN3vZ8l.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Sons of Liberty",
+  "dataLancamento": "2015-01-25"
+}

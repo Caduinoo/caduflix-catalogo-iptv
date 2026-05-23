@@ -1,0 +1,99 @@
+{
+  "id": "vida-dos-suricatos",
+  "tipo": "serie",
+  "titulo": "Vida dos Suricatos",
+  "ano": null,
+  "descricao": "Esta é a história de uma família de suricatos muito especiais. Resgatados do comércio clandestino de animais silvestres, eles serão devolvidos à sua verdadeira casa, o Kalahari.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2NT8iWVeKurHTk2opo2kUQOv6jJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lKUoKlimuBt3ODLTo9gxZ9ddWsX.jpg",
+  "tmdbId": 125179,
+  "nota": 8,
+  "xtreamSeriesId": 6443,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10991463",
+          "tipo": "episodio",
+          "titulo": "Vida dos Suricatos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10991463",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2NT8iWVeKurHTk2opo2kUQOv6jJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10991464",
+          "tipo": "episodio",
+          "titulo": "Vida dos Suricatos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10991464",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2NT8iWVeKurHTk2opo2kUQOv6jJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10991465",
+          "tipo": "episodio",
+          "titulo": "Vida dos Suricatos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10991465",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2NT8iWVeKurHTk2opo2kUQOv6jJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10991466",
+          "tipo": "episodio",
+          "titulo": "Vida dos Suricatos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10991466",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2NT8iWVeKurHTk2opo2kUQOv6jJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10991467",
+          "tipo": "episodio",
+          "titulo": "Vida dos Suricatos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10991467",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2NT8iWVeKurHTk2opo2kUQOv6jJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10991468",
+          "tipo": "episodio",
+          "titulo": "Vida dos Suricatos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10991468",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2NT8iWVeKurHTk2opo2kUQOv6jJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Meet The Meerkats",
+  "dataLancamento": "2021-05-08"
+}

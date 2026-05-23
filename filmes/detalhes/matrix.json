@@ -1,0 +1,26 @@
+{
+  "id": "matrix",
+  "tipo": "filme",
+  "titulo": "Matrix",
+  "ano": null,
+  "descricao": "O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade. Thomas conhece os misteriosos Morpheus e Trinity e descobre que é vítima de um sistema inteligente e artificial chamado Matrix, que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+  "tmdbId": 603,
+  "nota": 8.245,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770066,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567044,
+  "tituloOriginal": "The Matrix",
+  "dataLancamento": "1999-03-31"
+}

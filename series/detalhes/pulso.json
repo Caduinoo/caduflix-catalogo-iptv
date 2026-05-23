@@ -1,0 +1,147 @@
+{
+  "id": "pulso",
+  "tipo": "serie",
+  "titulo": "Pulso",
+  "ano": null,
+  "descricao": "Um grupo de residentes do pronto-socorro precisa enfrentar crises médicas e dramas pessoais em meio a uma acusação que vai dividir a equipe de um hospital de Miami.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pfEqosKFlJUvYgrO0XiJAiCzMFy.jpg",
+  "tmdbId": 247784,
+  "nota": 7.605,
+  "xtreamSeriesId": 5124,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920825",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920825",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920826",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920826",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920827",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920827",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920828",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920828",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920829",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10920829",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920830",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10920830",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920831",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10920831",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920832",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10920832",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920833",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10920833",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920834",
+          "tipo": "episodio",
+          "titulo": "Pulso S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10920834",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/taScdlgSDJ2jyITFJ0W4hjA0anc.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "PULSE",
+  "dataLancamento": "2025-04-03"
+}

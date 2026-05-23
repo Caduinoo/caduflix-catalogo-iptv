@@ -1,0 +1,63 @@
+{
+  "id": "ratinho-sem-filtro",
+  "tipo": "serie",
+  "titulo": "Ratinho, Sem Filtro",
+  "ano": null,
+  "descricao": "Ele é um dos apresentadores mais espontâneos e polêmicos da TV brasileira. Mas, como o moleque franzino que parecia mais um ratinho se tornou o comunicador e empresário Carlos Massa? Descubra agora!",
+  "generos": [
+    "SBT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zz3ZdGwNzWTsXJW36belZiURURQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yPMQG7cJBx20CjK7audwtyYo1Zt.jpg",
+  "tmdbId": 300689,
+  "nota": null,
+  "xtreamSeriesId": 6667,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11001591",
+          "tipo": "episodio",
+          "titulo": "Ratinho Sem Filtro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11001591",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zz3ZdGwNzWTsXJW36belZiURURQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11001592",
+          "tipo": "episodio",
+          "titulo": "Ratinho Sem Filtro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11001592",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zz3ZdGwNzWTsXJW36belZiURURQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11001593",
+          "tipo": "episodio",
+          "titulo": "Ratinho Sem Filtro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11001593",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zz3ZdGwNzWTsXJW36belZiURURQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Ratinho, Sem Filtro",
+  "dataLancamento": "2025-09-09"
+}

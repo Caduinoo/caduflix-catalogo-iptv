@@ -1,0 +1,42 @@
+{
+  "id": "os-novatos",
+  "tipo": "filme",
+  "titulo": "Os Novatos",
+  "ano": null,
+  "descricao": "A maior festa do ano vai acontecer bem na primeira semana do ensino médio. Será que quatro adolescentes conseguem aguentar uma noite de caos e excessos?",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8Ldu4ClHISHGz1SKzyClw6Yzzuk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1XmbgjIpqpdnSBaEzN0YaaaZObd.jpg",
+  "tmdbId": 1008953,
+  "nota": 6.228,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788808,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773548,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782808,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Incoming",
+  "dataLancamento": "2024-08-22"
+}

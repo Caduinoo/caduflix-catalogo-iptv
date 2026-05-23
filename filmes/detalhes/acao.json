@@ -1,0 +1,34 @@
+{
+  "id": "acao",
+  "tipo": "filme",
+  "titulo": "Luz, Anima, Ação",
+  "ano": null,
+  "descricao": "Documentário longa-metragem coproduzido pelo Canal Brasil, que resgata a fabulosa trajetória da animação brasileira desde o pioneiro “O Kaiser” ao boom produtivo que expande fronteiras!",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1zgwv9FgKFrBPS7nCE5TdtrW79T.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nOkTL3rqOLTSUwQnM1epTYSdJjb.jpg",
+  "tmdbId": 341529,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784475,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769356,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Luz, Anima, Ação",
+  "dataLancamento": "2013-09-01"
+}

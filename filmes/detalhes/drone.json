@@ -1,0 +1,34 @@
+{
+  "id": "drone",
+  "tipo": "filme",
+  "titulo": "Drone",
+  "ano": null,
+  "descricao": "No longa temos Neil (Bean), um operador de drones de alto nível que passa dias em missões secretas para, em seguida, voltar para sua casa no subúrbio, onde ninguém da família desconfia do que ele faz. Porém, sua vida pacata de pai e marido entra em risco quando sua identidade é exposta e ele recebe ameaças de morte. Um empresário paquistanês acredita que Neil é o responsável pela morte de sua esposa e seu filho e tentará vingá-las.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9G3Y9Agy4OXg2LdjzxmgH5a5kfI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nyvclBVmlgQtfjv1beY0hZL0eh5.jpg",
+  "tmdbId": 452068,
+  "nota": 5.334,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785597,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779714,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Drone",
+  "dataLancamento": "2017-05-26"
+}

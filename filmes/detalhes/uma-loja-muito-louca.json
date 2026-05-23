@@ -1,0 +1,34 @@
+{
+  "id": "uma-loja-muito-louca",
+  "tipo": "filme",
+  "titulo": "Império dos Discos, Uma Loja Muito Louca",
+  "ano": null,
+  "descricao": "Os empregados da pequena loja de discos Empire Records querem ajudar o proprietário a manter seu negócio, e precisam de mais do que dinheiro para evitar que ela seja comprada por uma grande cadeia de lojas.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qpebzQN7BLVxrzBVE6zJje4BDZJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8ohWBqEn3Zh9ro0JulFKPfk0XDE.jpg",
+  "tmdbId": 13531,
+  "nota": 6.663,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790800,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774114,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Empire Records",
+  "dataLancamento": "1995-09-22"
+}

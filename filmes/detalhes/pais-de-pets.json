@@ -1,0 +1,42 @@
+{
+  "id": "pais-de-pets",
+  "tipo": "filme",
+  "titulo": "Pais de Pets",
+  "ano": null,
+  "descricao": "Depois de um primeiro encontro desastroso, Nicole e Max prometem perder os números um do outro até descobrirem que seus cachorros são um casal amoroso com filhotes a caminho.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rSjaizM0hpUYt9Fa5HrGBnrm597.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pzvnnpJmCtSZMw44WYVEqldhn17.jpg",
+  "tmdbId": 1143319,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788888,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779310,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782822,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Puppy Love",
+  "dataLancamento": "2023-08-22"
+}

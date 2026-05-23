@@ -1,0 +1,34 @@
+{
+  "id": "isca",
+  "tipo": "filme",
+  "titulo": "Isca",
+  "ano": null,
+  "descricao": "Acompanha um grupo de cinco amigas que precisam lutar por suas vidas em águas abertas depois que um casamento dos sonhos se transforma em um pesadelo.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lpDbjUc6RawYC4UJj1YAn9OW802.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2XCmJWRZIQtHzikNsW29l9oy5Fb.jpg",
+  "tmdbId": 804616,
+  "nota": 5.592,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786645,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780844,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Something in the Water",
+  "dataLancamento": "2024-03-22"
+}

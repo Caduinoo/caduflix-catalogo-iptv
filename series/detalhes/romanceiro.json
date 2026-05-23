@@ -1,0 +1,99 @@
+{
+  "id": "romanceiro",
+  "tipo": "serie",
+  "titulo": "Romanceiro",
+  "ano": null,
+  "descricao": "Jordán e Cornelia são duas crianças indefesas que, na calada da noite, tentam escapar das pessoas enfurecidas que os acusam de assassinato. Apavorados e temendo por suas vidas, eles cuidarão um do outro e farão tudo o que for possível para não serem pegos por dois policiais violentos: Teodoro e Sorroche. Na fuga, eles também tentarão evitar os perigos sobrenaturais que encontram pelo caminho.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6U0yAl7QCxesaTzd8IL4fmLzkzB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/h7qKBKfzpfAGJfimWSNw77L1VoQ.jpg",
+  "tmdbId": 225287,
+  "nota": 5.5,
+  "xtreamSeriesId": 591,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10805913",
+          "tipo": "episodio",
+          "titulo": "Romanceiro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10805913",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6U0yAl7QCxesaTzd8IL4fmLzkzB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805914",
+          "tipo": "episodio",
+          "titulo": "Romanceiro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10805914",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6U0yAl7QCxesaTzd8IL4fmLzkzB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805915",
+          "tipo": "episodio",
+          "titulo": "Romanceiro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10805915",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6U0yAl7QCxesaTzd8IL4fmLzkzB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805916",
+          "tipo": "episodio",
+          "titulo": "Romanceiro S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10805916",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6U0yAl7QCxesaTzd8IL4fmLzkzB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805917",
+          "tipo": "episodio",
+          "titulo": "Romanceiro S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10805917",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6U0yAl7QCxesaTzd8IL4fmLzkzB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805918",
+          "tipo": "episodio",
+          "titulo": "Romanceiro S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10805918",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6U0yAl7QCxesaTzd8IL4fmLzkzB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Romancero",
+  "dataLancamento": "2023-11-03"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "june-e-john",
+  "tipo": "filme",
+  "titulo": "June e John",
+  "ano": null,
+  "descricao": "Fascinado por uma mulher enigmática que rouba sua atenção, um homem comum cuja vida é marcada pela monotonia se vê imerso em um romance intenso que o arrasta para uma jornada imprevisível.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oyE8n2HZkTFNfbV2tWdsYMhRYPa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oXWTWJ1KHwE6BWFdiGcBcfvfypE.jpg",
+  "tmdbId": 1216571,
+  "nota": 5.975,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786761,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779201,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "June and John",
+  "dataLancamento": "2025-04-17"
+}

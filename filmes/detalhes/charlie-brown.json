@@ -1,0 +1,49 @@
+{
+  "id": "charlie-brown",
+  "tipo": "filme",
+  "titulo": "O Natal do Charlie Brown",
+  "ano": null,
+  "descricao": "Quando Charlie Brown reclama sobre o sentido materialista que as pessoas dão ao Natal, Lucy sugere que ele se torne o diretor de uma peça teatral. Charlie Brown aceita, mas o que deveria ser uma lição, acaba se tornando uma experiência frustrante. Agora, ele deverá pedir a ajuda de Linus para aprender o verdadeiro sentido do Natal.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ft7y7pAhyHT0GoA5d4CDI33J8Zl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ucWnzjWWWd6CmRal8J3tWz6m1A7.jpg",
+  "tmdbId": 13187,
+  "nota": 7.678,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784897,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771209,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782195,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771210,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "A Charlie Brown Christmas",
+  "dataLancamento": "1965-12-09"
+}

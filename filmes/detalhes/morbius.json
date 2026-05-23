@@ -1,0 +1,42 @@
+{
+  "id": "morbius",
+  "tipo": "filme",
+  "titulo": "Morbius",
+  "ano": null,
+  "descricao": "Gravemente doente com um raro distúrbio sanguíneo e determinado a salvar outros sofrendo o mesmo destino, o Dr. Morbius tenta uma aposta desesperada. O que primeiramente parece ser um sucesso radical, libera uma escuridão dentro dele e transforma esse médico em um caçador.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jzWT0zd8U77fqWg5WgUfYaMzSFz.jpg",
+  "tmdbId": 526896,
+  "nota": 5.911,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787464,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770126,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782613,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Morbius",
+  "dataLancamento": "2022-03-30"
+}

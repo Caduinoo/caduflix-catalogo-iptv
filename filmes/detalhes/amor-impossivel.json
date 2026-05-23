@@ -1,0 +1,34 @@
+{
+  "id": "amor-impossivel",
+  "tipo": "filme",
+  "titulo": "Amor Impossível",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/o8eszmlPw9Evl33aIjOPEyUFY6C.jpg",
+  "banner": null,
+  "tmdbId": 336681,
+  "nota": 5.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784149,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779043,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Amor Impossível",
+  "dataLancamento": "2015-12-24"
+}

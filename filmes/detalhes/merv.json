@@ -1,0 +1,42 @@
+{
+  "id": "merv",
+  "tipo": "filme",
+  "titulo": "Merv",
+  "ano": null,
+  "descricao": "Quando seu amado cachorro Merv perde o ânimo depois da separação deles, Anna e Russ são forçados ao acordo coparental mais estranho do mundo. Na esperança de reanimar Merv, Russ o leva para a Flórida para uma viagem, quando Anna aparece de repente. Merv recupera lentamente o ânimo, e parece que reparar o coração partido do cachorro deles pode resultar em acender fagulhas próprias.",
+  "generos": [
+    "LEGENDADOS",
+    "4K",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nfGlYjINEcGtxV46viW4olwHHSz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3MphYnIcLOqy5oVkDTZUiaGfPtN.jpg",
+  "tmdbId": 1255775,
+  "nota": 5.848,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787266,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782574,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049550,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Merv",
+  "dataLancamento": "2025-12-09"
+}

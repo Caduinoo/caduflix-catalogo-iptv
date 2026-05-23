@@ -1,0 +1,51 @@
+{
+  "id": "ben-hur",
+  "tipo": "serie",
+  "titulo": "Ben-Hur",
+  "ano": null,
+  "descricao": "A história de um homem injustamente condenado que luta pela sua sobrevivência e para manter sua identidade. Ele retorna à terra natal em busca de vingança, mas encontra a redenção.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ejsJlDNpZDAKJN1ERa0zrz6MRHA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jlY6Fh3O1pU9UwIwTlcOJeLIkIB.jpg",
+  "tmdbId": 40360,
+  "nota": 6.3,
+  "xtreamSeriesId": 126,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10794663",
+          "tipo": "episodio",
+          "titulo": "Ben Hur S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10794663",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ejsJlDNpZDAKJN1ERa0zrz6MRHA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794664",
+          "tipo": "episodio",
+          "titulo": "Ben Hur S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10794664",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ejsJlDNpZDAKJN1ERa0zrz6MRHA.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Ben Hur",
+  "dataLancamento": "2010-04-04"
+}

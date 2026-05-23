@@ -1,0 +1,34 @@
+{
+  "id": "uma-manha-de-cada-vez",
+  "tipo": "filme",
+  "titulo": "Uma Manhã de Cada Vez",
+  "ano": null,
+  "descricao": "O casal Alice e Mark acabou de perder o filho pequeno após um acidente. Durante cinco dias, no auge do período de luto, os dois se separam, e vivem as suas dores de maneiras muito distintas. Eles precisarão passar pela tristeza, pela culpa e pelo arrependimento até ganharem novamente a esperança na vida, e a confiança um no outro.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w3MmV6NwSe84J4gXXj8tvtz0DgQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fNRO5EnsuTlez9J6KwgWzpbXA1f.jpg",
+  "tmdbId": 214317,
+  "nota": 4.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790802,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777039,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Morning",
+  "dataLancamento": "2013-09-27"
+}

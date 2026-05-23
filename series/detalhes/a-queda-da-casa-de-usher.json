@@ -1,0 +1,123 @@
+{
+  "id": "a-queda-da-casa-de-usher",
+  "tipo": "serie",
+  "titulo": "A Queda da Casa de Usher",
+  "ano": null,
+  "descricao": "Para proteger a fortuna e o futuro, um casal de irmãos constrói uma dinastia familiar que começa a ruir quando cada um dos herdeiros morre misteriosamente.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4qDlkEAKFb4pgIUbeJMLyHX2Xym.jpg",
+  "tmdbId": 157065,
+  "nota": 7.568,
+  "xtreamSeriesId": 4002,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10899988",
+          "tipo": "episodio",
+          "titulo": "A Queda da Casa de Usher S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10899988",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899989",
+          "tipo": "episodio",
+          "titulo": "A Queda da Casa de Usher S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10899989",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899990",
+          "tipo": "episodio",
+          "titulo": "A Queda da Casa de Usher S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10899990",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899991",
+          "tipo": "episodio",
+          "titulo": "A Queda da Casa de Usher S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10899991",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899992",
+          "tipo": "episodio",
+          "titulo": "A Queda da Casa de Usher S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10899992",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899993",
+          "tipo": "episodio",
+          "titulo": "A Queda da Casa de Usher S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10899993",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899994",
+          "tipo": "episodio",
+          "titulo": "A Queda da Casa de Usher S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10899994",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10899995",
+          "tipo": "episodio",
+          "titulo": "A Queda da Casa de Usher S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10899995",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The Fall of the House of Usher",
+  "dataLancamento": "2023-10-12"
+}

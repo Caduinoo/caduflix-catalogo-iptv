@@ -1,0 +1,99 @@
+{
+  "id": "coyotes",
+  "tipo": "serie",
+  "titulo": "Coiotes",
+  "ano": null,
+  "descricao": "Uma patrulha de reconhecimento se depara com diamantes durante um acampamento. Dividido entre devolvê-los, compartilhá-los ou mantê-los, cada membro questiona sua própria moralidade. Enquanto isso, há um perigo para as vespas: aqueles que as perderam estão dispostos a fazer qualquer coisa para encontrá-las.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vpwfI3LRoWIQuoY9BlzT8DPWrT4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hgtn8n55ds83qYNUgcP6NJ4roKm.jpg",
+  "tmdbId": 125676,
+  "nota": 6.2,
+  "xtreamSeriesId": 4333,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10905246",
+          "tipo": "episodio",
+          "titulo": "Coyotes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10905246",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vpwfI3LRoWIQuoY9BlzT8DPWrT4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905247",
+          "tipo": "episodio",
+          "titulo": "Coyotes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10905247",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vpwfI3LRoWIQuoY9BlzT8DPWrT4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905248",
+          "tipo": "episodio",
+          "titulo": "Coyotes S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10905248",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vpwfI3LRoWIQuoY9BlzT8DPWrT4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905249",
+          "tipo": "episodio",
+          "titulo": "Coyotes S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10905249",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vpwfI3LRoWIQuoY9BlzT8DPWrT4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905250",
+          "tipo": "episodio",
+          "titulo": "Coyotes S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10905250",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vpwfI3LRoWIQuoY9BlzT8DPWrT4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905251",
+          "tipo": "episodio",
+          "titulo": "Coyotes S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10905251",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vpwfI3LRoWIQuoY9BlzT8DPWrT4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Coyotes",
+  "dataLancamento": "2021-05-16"
+}

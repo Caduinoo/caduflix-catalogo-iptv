@@ -1,0 +1,75 @@
+{
+  "id": "marvel-zombies",
+  "tipo": "serie",
+  "titulo": "Marvel Zumbis",
+  "ano": null,
+  "descricao": "Depois que os Vingadores foram dominados por uma praga zumbi, um grupo desesperado de sobreviventes descobre a chave para acabar com os mortos-vivos superpoderosos, percorrendo uma paisagem distópica e arriscando a vida e os membros para salvarem seu mundo.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aTgFMz0CSVCDCgq0e93X0oNT2Dp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+  "tmdbId": 138505,
+  "nota": 7.239,
+  "xtreamSeriesId": 1908,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10842455",
+          "tipo": "episodio",
+          "titulo": "Marvel Zombies S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10842455",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTgFMz0CSVCDCgq0e93X0oNT2Dp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10842456",
+          "tipo": "episodio",
+          "titulo": "Marvel Zombies S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10842456",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTgFMz0CSVCDCgq0e93X0oNT2Dp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10842457",
+          "tipo": "episodio",
+          "titulo": "Marvel Zombies S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10842457",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTgFMz0CSVCDCgq0e93X0oNT2Dp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10842458",
+          "tipo": "episodio",
+          "titulo": "Marvel Zombies S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10842458",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aTgFMz0CSVCDCgq0e93X0oNT2Dp.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Marvel Zombies",
+  "dataLancamento": "2025-09-24"
+}

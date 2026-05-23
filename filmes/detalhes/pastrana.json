@@ -1,0 +1,33 @@
+{
+  "id": "pastrana",
+  "tipo": "filme",
+  "titulo": "Pastrana",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8M9jp42g9qIWtDKmDBzIIR1qDSw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lB1ALxPsYUR9MexwseelqelsZRa.jpg",
+  "tmdbId": 1222924,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049859,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050065,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Pastrana",
+  "dataLancamento": "2024-04-01"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "bem-vindos-a-australia",
+  "tipo": "serie",
+  "titulo": "Bem-Vindos à Austrália",
+  "ano": null,
+  "descricao": "Lady Sarah Ashley cruza o mundo para confrontar o marido e vender um bem incomum.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aUGfSkKDmldCnmOjlesgkqP2uGO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/it34RMnArwzl38hoAtgXfCkkqpX.jpg",
+  "tmdbId": 204999,
+  "nota": 6.865,
+  "xtreamSeriesId": 1717,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10837088",
+          "tipo": "episodio",
+          "titulo": "Bem Vindos a Australia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10837088",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aUGfSkKDmldCnmOjlesgkqP2uGO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837089",
+          "tipo": "episodio",
+          "titulo": "Bem Vindos a Australia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10837089",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aUGfSkKDmldCnmOjlesgkqP2uGO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837090",
+          "tipo": "episodio",
+          "titulo": "Bem Vindos a Australia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10837090",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aUGfSkKDmldCnmOjlesgkqP2uGO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837091",
+          "tipo": "episodio",
+          "titulo": "Bem Vindos a Australia S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10837091",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aUGfSkKDmldCnmOjlesgkqP2uGO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837092",
+          "tipo": "episodio",
+          "titulo": "Bem Vindos a Australia S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10837092",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aUGfSkKDmldCnmOjlesgkqP2uGO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837093",
+          "tipo": "episodio",
+          "titulo": "Bem Vindos a Australia S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10837093",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aUGfSkKDmldCnmOjlesgkqP2uGO.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Faraway Downs",
+  "dataLancamento": "2023-11-26"
+}

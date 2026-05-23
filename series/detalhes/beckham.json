@@ -1,0 +1,75 @@
+{
+  "id": "beckham",
+  "tipo": "serie",
+  "titulo": "Beckham",
+  "ano": null,
+  "descricao": "Com imagens inéditas, esta série documental acompanha a carreira meteórica de David Beckham, da origem humilde ao estrelato no futebol.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mEUKVATefTsRP1CMeKp9fVyivo9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/36eerFUTAkS2VRXzD2DfqemFGsk.jpg",
+  "tmdbId": 235345,
+  "nota": 8.03,
+  "xtreamSeriesId": 4162,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10902442",
+          "tipo": "episodio",
+          "titulo": "Beckham S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10902442",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/y9d3trMAczZWFqYvGSW6V695vf3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902443",
+          "tipo": "episodio",
+          "titulo": "Beckham S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10902443",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/y9d3trMAczZWFqYvGSW6V695vf3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902444",
+          "tipo": "episodio",
+          "titulo": "Beckham S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10902444",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/y9d3trMAczZWFqYvGSW6V695vf3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902445",
+          "tipo": "episodio",
+          "titulo": "Beckham S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10902445",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/y9d3trMAczZWFqYvGSW6V695vf3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Beckham",
+  "dataLancamento": "2023-10-04"
+}

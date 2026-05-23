@@ -1,0 +1,34 @@
+{
+  "id": "mas-pouco",
+  "tipo": "filme",
+  "titulo": "Natal, mas Pouco",
+  "ano": null,
+  "descricao": "Uma viagem para a praia vira uma loucura depois que Servando e Alicia, a obstinada tia de Alma, começam a competir para controlar o Natal.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dQemuRJRsksRbA7ivPVqRBm3Ou4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3vkpM0Ao1CXpwFiXsSSm1CgDfn.jpg",
+  "tmdbId": 882098,
+  "nota": 7.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787170,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778682,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Una Navidad no tan padre",
+  "dataLancamento": "2021-12-21"
+}

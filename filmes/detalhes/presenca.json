@@ -1,0 +1,42 @@
+{
+  "id": "presenca",
+  "tipo": "filme",
+  "titulo": "POV: Presença Oculta",
+  "ano": null,
+  "descricao": "O que começou como uma chamada de rotina vira um pesadelo quando dois policiais se envolvem em um acidente fatal. Bryce, desesperado para proteger seu emprego e sua família, convence seu parceiro a destruir todos os registros para esconder a verdade. Mas conforme a madrugada avança, eles percebem que as câmeras não eram as únicas testemunhas e que algo sobrenatural acompanhava cada movimento deles naquela noite.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fC4GSEiDu2ONAOjT3VhKdAOR2UI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
+  "tmdbId": 1510745,
+  "nota": 5.454,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789152,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781333,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782868,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Bodycam",
+  "dataLancamento": "2026-03-12"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "aguas-negras",
+  "tipo": "filme",
+  "titulo": "Aguas Negras",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jxXnzONNMOXcmcO60z7ZqdtrmXZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/q6jSOiNORwYCdBWt2adYOdN1pN0.jpg",
+  "tmdbId": 784533,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791224,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770977,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Aguas Negras",
+  "dataLancamento": "2021-01-01"
+}

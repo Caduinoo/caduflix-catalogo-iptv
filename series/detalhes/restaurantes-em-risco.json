@@ -1,0 +1,99 @@
+{
+  "id": "restaurantes-em-risco",
+  "tipo": "serie",
+  "titulo": "Restaurantes em Risco",
+  "ano": null,
+  "descricao": "Três especialistas em culinária e design viajam pelo mundo transformando restaurantes decadentes em lugares dignos da cultura local e das paisagens maravilhosas ao redor.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/20I6eNGgJdag3h9oR8s7nC5vYJB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2t4Me9EWKly7SssAeqh0h6lAIGm.jpg",
+  "tmdbId": 99864,
+  "nota": 5.8,
+  "xtreamSeriesId": 5172,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921398",
+          "tipo": "episodio",
+          "titulo": "Restaurantes em Risco S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921398",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/20I6eNGgJdag3h9oR8s7nC5vYJB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921399",
+          "tipo": "episodio",
+          "titulo": "Restaurantes em Risco S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921399",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/20I6eNGgJdag3h9oR8s7nC5vYJB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921400",
+          "tipo": "episodio",
+          "titulo": "Restaurantes em Risco S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10921400",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/20I6eNGgJdag3h9oR8s7nC5vYJB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921401",
+          "tipo": "episodio",
+          "titulo": "Restaurantes em Risco S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921401",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/20I6eNGgJdag3h9oR8s7nC5vYJB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921402",
+          "tipo": "episodio",
+          "titulo": "Restaurantes em Risco S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10921402",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/20I6eNGgJdag3h9oR8s7nC5vYJB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921403",
+          "tipo": "episodio",
+          "titulo": "Restaurantes em Risco S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10921403",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/20I6eNGgJdag3h9oR8s7nC5vYJB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Restaurants on the Edge",
+  "dataLancamento": "2020-02-28"
+}

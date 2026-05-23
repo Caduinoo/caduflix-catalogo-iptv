@@ -1,0 +1,51 @@
+{
+  "id": "jerry-springer-brigas-camera-acao",
+  "tipo": "serie",
+  "titulo": "Jerry Springer: Brigas, Câmera, Ação",
+  "ano": null,
+  "descricao": "Esta série documental chocante mostra os bastidores do talk show mais polêmico dos EUA, expondo seus maiores escândalos na frente e por trás das câmeras.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yuqohMB3z4dxl0OYeAdsOsYeQt4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Dn1900cQXd1Bzc0FUweQEeV3Lm.jpg",
+  "tmdbId": 276292,
+  "nota": 6.7,
+  "xtreamSeriesId": 4673,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911750",
+          "tipo": "episodio",
+          "titulo": "Jerry Springer Brigas Camera Acao S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911750",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yuqohMB3z4dxl0OYeAdsOsYeQt4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911751",
+          "tipo": "episodio",
+          "titulo": "Jerry Springer Brigas Camera Acao S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911751",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yuqohMB3z4dxl0OYeAdsOsYeQt4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Jerry Springer: Fights, Camera, Action",
+  "dataLancamento": "2025-01-07"
+}

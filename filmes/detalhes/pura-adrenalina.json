@@ -1,0 +1,34 @@
+{
+  "id": "pura-adrenalina",
+  "tipo": "filme",
+  "titulo": "Pura Adrenalina",
+  "ano": null,
+  "descricao": "Vincent, um policial, e seu parceiro Manuel roubam uma grande quantidade de cocaína de José Marciano, um criminoso implacável que busca vingança rapidamente, colocando em risco a vida, a carreira e a família de Vincent.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3GXbgT87Al0itOzqaRM6bkCAVHe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xOdeUl9RO1VmetM7uRrudcqSOWv.jpg",
+  "tmdbId": 79070,
+  "nota": 5.908,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789217,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773692,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Nuit blanche",
+  "dataLancamento": "2011-11-16"
+}

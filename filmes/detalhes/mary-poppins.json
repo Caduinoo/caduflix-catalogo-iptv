@@ -1,0 +1,34 @@
+{
+  "id": "mary-poppins",
+  "tipo": "filme",
+  "titulo": "Mary Poppins",
+  "ano": null,
+  "descricao": "Na Londres de 1910, o banqueiro Mr. Banks, um homem frio que trata com rigidez Jane e Michael, seus filhos sapecas, não consegue contratar uma babá, pois elas desistem facilmente do emprego. Em uma noite, enquanto redige com sua esposa um anúncio de jornal procurando uma babá, sua filha Jane aparece com uma carta mostrando como seria uma babá perfeita. Esta carta acaba chegando nas mãos de Mary Poppins, que é tudo aquilo que está descrito na carta. Mary Poppins possui poderes mágicos e, com seu amigo faz-tudo Bert, transforma a vida daquela família, com muita música, magia e diversão.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pHyWpWn2pRIfhS3Arcn4SKtKKW4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uS9QP9WfHMjNW65BYdY4nL80SRP.jpg",
+  "tmdbId": 433,
+  "nota": 7.543,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787163,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781664,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Mary Poppins",
+  "dataLancamento": "1964-12-17"
+}

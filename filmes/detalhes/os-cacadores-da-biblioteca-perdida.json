@@ -1,0 +1,34 @@
+{
+  "id": "os-cacadores-da-biblioteca-perdida",
+  "tipo": "filme",
+  "titulo": "Os Caçadores da Biblioteca Perdida",
+  "ano": null,
+  "descricao": "Durante a construção do metrô da Rússia, um grupo de trabalhadores descobre um antigo artefato que comprova a existência da biblioteca de Ivan, o Terrível. Tal objeto permaneceu esquecido por muitos anos até cair nas mãos do jovem Ilya, que começa uma busca por toda a Rússia para encontrar a lendária biblioteca.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4FoTNWvKIbr0wnq5hPEogYNBg2e.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/e3BodMSt25yP2GkPqJh4wmxTVNs.jpg",
+  "tmdbId": 732684,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788761,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770463,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Либерея: Охотники за сокровищами",
+  "dataLancamento": "2022-10-27"
+}

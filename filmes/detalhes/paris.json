@@ -1,0 +1,34 @@
+{
+  "id": "paris",
+  "tipo": "filme",
+  "titulo": "Paris, Texas",
+  "ano": null,
+  "descricao": "Um homem sai do deserto sem lembranças de sua vida passada e é apenas com a ajuda de seu irmão que ele percebe que abandonou sua esposa e seu filho quatro anos antes.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m9LAmYN699kB7zfDmtx2Nk4gYn9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
+  "tmdbId": 655,
+  "nota": 8.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788932,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773603,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Paris, Texas",
+  "dataLancamento": "1984-07-16"
+}

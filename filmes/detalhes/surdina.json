@@ -1,0 +1,34 @@
+{
+  "id": "surdina",
+  "tipo": "filme",
+  "titulo": "Surdina",
+  "ano": null,
+  "descricao": "Em um ambiente rural, um velho é informado de que sua falecida esposa foi vista no mercado. Rancoroso e triste, ele escolhe se esconder do resto do mundo. No entanto, seus amigos insistem que ele não deve ouvir boatos. Dizem que ele deveria tentar se recuperar e, quem sabe, até casar novamente. É uma história sobre a delicadeza da velhice, do que ainda resta para sonhar e amar quando você chega nesta fase da vida e o corpo enfraquece. Acontece num Portugal antigo e escondido que ainda existe apesar dos nossos esforços de modernização.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vGW35zb72ZokV9iWtckvc2LVEUq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8qu1EC54Hi3m6ITGD8LilSzLEdV.jpg",
+  "tmdbId": 637645,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789977,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773877,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Surdina",
+  "dataLancamento": "2020-07-09"
+}

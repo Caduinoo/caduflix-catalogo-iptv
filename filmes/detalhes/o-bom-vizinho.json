@@ -1,0 +1,34 @@
+{
+  "id": "o-bom-vizinho",
+  "tipo": "filme",
+  "titulo": "O Bom Vizinho",
+  "ano": null,
+  "descricao": "Dois vizinhos vivem uma noite de pesadelo quando atropelam uma mulher em um acidente e precisam lidar juntos com as consequências. O problema é que um quer confessar o crime e outro quer esconder a todo custo.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6JwlTcz1p4giA5wMZcgUNH40sLC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AnmfRV7X0kwEn96pg0lAVopV8YK.jpg",
+  "tmdbId": 893086,
+  "nota": 6.546,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787895,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779872,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Good Neighbor",
+  "dataLancamento": "2022-06-17"
+}

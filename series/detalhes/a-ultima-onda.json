@@ -1,0 +1,99 @@
+{
+  "id": "a-ultima-onda",
+  "tipo": "serie",
+  "titulo": "A Última Onda",
+  "ano": null,
+  "descricao": "Uma cidade costeira é abalada pelo encontro de uma nuvem sinistra e uma onda gigante durante uma competição de surfe, resultando em fenômenos difíceis de explicar.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4OO7jdAp8n95nIRd8S4JU700mHV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hIN4Xpq1kcEjdlkLkhEcXouKcpL.jpg",
+  "tmdbId": 87776,
+  "nota": 6.133,
+  "xtreamSeriesId": 5771,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10970929",
+          "tipo": "episodio",
+          "titulo": "A Última Onda S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10970929",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4OO7jdAp8n95nIRd8S4JU700mHV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10970930",
+          "tipo": "episodio",
+          "titulo": "A Última Onda S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10970930",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4OO7jdAp8n95nIRd8S4JU700mHV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10970931",
+          "tipo": "episodio",
+          "titulo": "A Última Onda S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10970931",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4OO7jdAp8n95nIRd8S4JU700mHV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10970932",
+          "tipo": "episodio",
+          "titulo": "A Última Onda S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10970932",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4OO7jdAp8n95nIRd8S4JU700mHV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10970933",
+          "tipo": "episodio",
+          "titulo": "A Última Onda S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10970933",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4OO7jdAp8n95nIRd8S4JU700mHV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10970934",
+          "tipo": "episodio",
+          "titulo": "A Última Onda S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10970934",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4OO7jdAp8n95nIRd8S4JU700mHV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "La Dernière Vague",
+  "dataLancamento": "2019-10-21"
+}

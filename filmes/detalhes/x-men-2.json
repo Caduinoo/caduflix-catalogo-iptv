@@ -1,0 +1,34 @@
+{
+  "id": "x-men-2",
+  "tipo": "filme",
+  "titulo": "X-Men 2",
+  "ano": null,
+  "descricao": "Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pwQo1ehiPBqAbiVqD6rfNM8GCFE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7TYITrR804tLITNur3b8VLCK6tw.jpg",
+  "tmdbId": 36658,
+  "nota": 7.036,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770957,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783129,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "X2",
+  "dataLancamento": "2003-04-27"
+}

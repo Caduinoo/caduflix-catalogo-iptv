@@ -1,0 +1,34 @@
+{
+  "id": "questao-de-sobrevivencia",
+  "tipo": "filme",
+  "titulo": "Questão de Sobrevivência",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/weaF990jmJw6VIAlxKyxvH7bAJP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qIDtJMztPm92k5vGUF0zK3519KD.jpg",
+  "tmdbId": 100110,
+  "nota": 5.438,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033169,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033183,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1774731101,
+  "tituloOriginal": "Survival Quest",
+  "dataLancamento": "1989-06-01"
+}

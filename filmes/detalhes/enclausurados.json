@@ -1,0 +1,34 @@
+{
+  "id": "enclausurados",
+  "tipo": "filme",
+  "titulo": "Enclausurados",
+  "ano": null,
+  "descricao": "Kema e Max se veem presos em um apartamento, sem meios de sair ou se comunicar com o mundo exterior. À medida que tentam escapar, eles enfrentam desafios aterrorizantes e enigmáticos, transformando o confinamento em um pesadelo.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ouBQfMvTf3pv6hwdYqB2OSuH7d.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/r2LAogTbhcqeLMztBz66R0t3N9a.jpg",
+  "tmdbId": 1178074,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785724,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780663,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Взаперти",
+  "dataLancamento": "2023-09-14"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "vida-selvagem",
+  "tipo": "filme",
+  "titulo": "Vida Selvagem",
+  "ano": null,
+  "descricao": "Aos 14 anos de idade, Joe (Ed Oxenbould) começa a perceber que sua família está desmoronando. O pai, Jerry (Jake Gyllenhaal), acaba de perder o emprego, mas não quer que a esposa trabalhe. A mãe, Jeanette (Carey Mulligan), não pretende ficar de braços cruzados diante da crise e começa a ganhar sua autonomia. Quando Jerry decide ficar muitos meses fora de casa, num trabalho temporário apagando incêndios pela região, Jeanette decide que é hora de refazer a sua vida. Mas para Joe, a única coisa que importa é ver os pais reunidos novamente.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z5w5hM3tg9VzXaOOdR7m5cWayEn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nrzKvKLEOYWFEi3iWefST8EKgga.jpg",
+  "tmdbId": 417812,
+  "nota": 6.627,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790998,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777091,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Wildlife",
+  "dataLancamento": "2018-09-23"
+}

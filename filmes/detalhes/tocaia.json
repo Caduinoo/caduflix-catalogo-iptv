@@ -1,0 +1,34 @@
+{
+  "id": "tocaia",
+  "tipo": "filme",
+  "titulo": "Tocaia",
+  "ano": null,
+  "descricao": "Chris e Bill são dois colegas da polícia. Chris, o mais veterano, é solteiro e amante da farra. Bill, mais novo, é casado e com filho, sendo mais calmo e metódico. Os dois são convocados para uma missão: vigiar Maria, a namorada de um perigoso foragido. Mas tudo se complica quando Chris se envolve com Maria.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ix3v2xrKg1ZXYdcd7ybhI001dsz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/t6cgMy0nJXEBuCFxjerZiHbBJiy.jpg",
+  "tmdbId": 10859,
+  "nota": 6.477,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790368,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781855,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Stakeout",
+  "dataLancamento": "1987-08-05"
+}

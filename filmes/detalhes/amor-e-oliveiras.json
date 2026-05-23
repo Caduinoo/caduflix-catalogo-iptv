@@ -1,0 +1,34 @@
+{
+  "id": "amor-e-oliveiras",
+  "tipo": "filme",
+  "titulo": "Amor e Oliveiras",
+  "ano": null,
+  "descricao": "As famílias Cabella e Brandini são inimigas de longa data no ramo do azeite. Com uma nova competição prestes a acontecer, Nicole e Jake lutam para defender o legado dos seus avós. No entanto, eles acabam descobrindo que têm muito mais em comum do que imaginam.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/o7xjGW9kFvrd4RybRgpPLelqDr8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gc3W2PQHElqwi4Hr0emvsQDvu09.jpg",
+  "tmdbId": 627456,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784110,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779023,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Love Under the Olive Tree",
+  "dataLancamento": "2020-06-20"
+}

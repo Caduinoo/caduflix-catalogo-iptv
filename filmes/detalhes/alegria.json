@@ -1,0 +1,34 @@
+{
+  "id": "alegria",
+  "tipo": "filme",
+  "titulo": "Alegria",
+  "ano": null,
+  "descricao": "Alegria é uma mãe solo que acaba de retornar à sua cidade natal para o casamento de sua sobrinha. Mas não será muito fácil conviver com sua família ortodoxa e se adaptar aos costumes judaicos que ela sempre rejeitou.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eOmQjaPx1Jc1X68x9yaPp9ABTOJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fqdvVgCWcPSpW3bvpdlRQJF6S1a.jpg",
+  "tmdbId": 809366,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784002,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774788,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Alegría",
+  "dataLancamento": "2021-12-10"
+}

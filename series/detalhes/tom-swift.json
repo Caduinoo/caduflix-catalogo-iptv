@@ -1,0 +1,147 @@
+{
+  "id": "tom-swift",
+  "tipo": "serie",
+  "titulo": "Tom Swift",
+  "ano": null,
+  "descricao": "Tom é um inventor bilionário que é lançado em um mundo de conspiração de ficção científica e fenômenos inexplicáveis após o chocante desaparecimento de seu pai.",
+  "generos": [
+    "STAR+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xERG8q6BiofxS0OL7IkjattC7Qc.jpg",
+  "tmdbId": 132380,
+  "nota": 4,
+  "xtreamSeriesId": 6782,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11006286",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11006286",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006287",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11006287",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006288",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11006288",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006289",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11006289",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006290",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11006290",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006291",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11006291",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006292",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11006292",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006293",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11006293",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006294",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "11006294",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006295",
+          "tipo": "episodio",
+          "titulo": "Tom Swift S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "11006295",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "Tom Swift",
+  "dataLancamento": "2022-05-31"
+}

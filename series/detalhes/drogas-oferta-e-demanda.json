@@ -1,0 +1,99 @@
+{
+  "id": "drogas-oferta-e-demanda",
+  "tipo": "serie",
+  "titulo": "Drogas: Oferta e Demanda",
+  "ano": null,
+  "descricao": "Uma ex-agente da CIA investiga o dinheiro por trás de seis substâncias ilícitas para entender a origem e o verdadeiro impacto do tráfico de drogas.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/blyObONhcnleib1xqcwS9uvAfIM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/54f4FsZ4248sCrvzQnw6XXTFWWY.jpg",
+  "tmdbId": 105305,
+  "nota": 6.947,
+  "xtreamSeriesId": 5964,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10976964",
+          "tipo": "episodio",
+          "titulo": "Drogas Oferta e Demanda S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10976964",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/blyObONhcnleib1xqcwS9uvAfIM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976965",
+          "tipo": "episodio",
+          "titulo": "Drogas Oferta e Demanda S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10976965",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/blyObONhcnleib1xqcwS9uvAfIM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976966",
+          "tipo": "episodio",
+          "titulo": "Drogas Oferta e Demanda S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10976966",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/blyObONhcnleib1xqcwS9uvAfIM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976967",
+          "tipo": "episodio",
+          "titulo": "Drogas Oferta e Demanda S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10976967",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/blyObONhcnleib1xqcwS9uvAfIM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976968",
+          "tipo": "episodio",
+          "titulo": "Drogas Oferta e Demanda S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10976968",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/blyObONhcnleib1xqcwS9uvAfIM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976969",
+          "tipo": "episodio",
+          "titulo": "Drogas Oferta e Demanda S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10976969",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/blyObONhcnleib1xqcwS9uvAfIM.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Business of Drugs",
+  "dataLancamento": "2020-07-14"
+}

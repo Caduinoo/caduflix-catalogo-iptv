@@ -1,0 +1,87 @@
+{
+  "id": "gil-na-california",
+  "tipo": "serie",
+  "titulo": "Gil na Califórnia",
+  "ano": null,
+  "descricao": "A trajetória de Gil do Vigor, como é mais conhecido, desde as dificuldades da sua infância no Recife até a mudança para os Estados Unidos, onde ele cursa atualmente o doutorado.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mWUo21drlb6Jwb7Ika0KFsQYp1V.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xFBMHs6Am2wnoIA1SclHXexhH8D.jpg",
+  "tmdbId": 139575,
+  "nota": 8,
+  "xtreamSeriesId": 3030,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10871077",
+          "tipo": "episodio",
+          "titulo": "Gil na Califórnia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10871077",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mWUo21drlb6Jwb7Ika0KFsQYp1V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10871078",
+          "tipo": "episodio",
+          "titulo": "Gil na Califórnia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10871078",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mWUo21drlb6Jwb7Ika0KFsQYp1V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10871079",
+          "tipo": "episodio",
+          "titulo": "Gil na Califórnia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10871079",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mWUo21drlb6Jwb7Ika0KFsQYp1V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10871080",
+          "tipo": "episodio",
+          "titulo": "Gil na Califórnia S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10871080",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mWUo21drlb6Jwb7Ika0KFsQYp1V.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10871081",
+          "tipo": "episodio",
+          "titulo": "Gil na Califórnia S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10871081",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mWUo21drlb6Jwb7Ika0KFsQYp1V.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Gil na Califórnia",
+  "dataLancamento": "2021-12-09"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "felicidade-e",
+  "tipo": "filme",
+  "titulo": "Felicidade É...",
+  "ano": null,
+  "descricao": "Quatro diretores contam histórias relacionadas ao conceito de felicidade.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lJkaYFCVDE1Ex63zeRExuEaZuZ6.jpg",
+  "banner": null,
+  "tmdbId": 507917,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785975,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775428,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Felicidade É...",
+  "dataLancamento": "1995-09-15"
+}

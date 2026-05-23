@@ -1,0 +1,34 @@
+{
+  "id": "risco-duplo",
+  "tipo": "filme",
+  "titulo": "Risco Duplo",
+  "ano": null,
+  "descricao": "Após cair em uma armadilha e cumprir pena pelo suposto assassinato de seu marido, Libby decide acabar com ele de uma vez por todas.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kMQ5f02fUrhdSp4eKlX9e62wGpz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fk4NXhazfRKtQaVEV9IPeM7OIVH.jpg",
+  "tmdbId": 10398,
+  "nota": 6.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11022246,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780048,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1774006615,
+  "tituloOriginal": "Double Jeopardy",
+  "dataLancamento": "1999-09-24"
+}

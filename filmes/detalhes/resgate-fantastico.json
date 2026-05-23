@@ -1,0 +1,34 @@
+{
+  "id": "resgate-fantastico",
+  "tipo": "filme",
+  "titulo": "Resgate Fantástico",
+  "ano": null,
+  "descricao": "A operação de resgate dos passageiros e tripulantes de um avião sequestrado por palestinos. Com a velada simpatia do ditador africano Idi Amin Dada, os terroristas permanecem em Uganda, exigindo a libertação de 53 palestinos presos pelos israelenses em troca dos reféns. Baseado em fatos reais.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/44FCGQqrv32S9LrEKPeVmTKkW7X.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kY5mlTwRs9bnI0WiwsGot2LMaoE.jpg",
+  "tmdbId": 31690,
+  "nota": 6.063,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789435,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780040,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Raid on Entebbe",
+  "dataLancamento": "1976-12-26"
+}

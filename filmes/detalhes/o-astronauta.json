@@ -1,0 +1,42 @@
+{
+  "id": "o-astronauta",
+  "tipo": "filme",
+  "titulo": "O Astronauta",
+  "ano": null,
+  "descricao": "Há seis meses em uma missão solitária, um astronauta analisa os problemas do seu casamento com a ajuda de uma criatura misteriosa que se esconde em sua nave.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eESjSke7I1UtVs875my9F6xeKk9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9ZFNRs58TTnvf3utagd0uSJluXa.jpg",
+  "tmdbId": 636706,
+  "nota": 6.707,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787865,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777842,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782677,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Spaceman",
+  "dataLancamento": "2024-02-23"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "quiz-lady",
+  "tipo": "filme",
+  "titulo": "Quiz Lady",
+  "ano": null,
+  "descricao": "Anne é uma moça brilhante, mas que vive estressada e é obcecada por programas de jogos na TV. Jenny, a irmã dela, mora longe e leva uma vida que é um desastre. Agora, as duas precisam se unir para pagar uma dívida de jogo da mãe delas. Quando o amado cachorro de Anne é sequestrado, elas partem numa aventura e cruzam o país para conseguir o dinheiro da única maneira que sabem: transformando Anne em campeã do programa de jogos da TV.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2kkz5jZwKkwYxV8sw6EGMyHjSzO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1jKBfRyeyJvBkJSKvNQ4nhIzTSx.jpg",
+  "tmdbId": 787781,
+  "nota": 6.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789319,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773738,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782887,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Quiz Lady",
+  "dataLancamento": "2023-09-09"
+}

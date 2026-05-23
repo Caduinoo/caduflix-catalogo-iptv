@@ -1,0 +1,117 @@
+{
+  "id": "isso-e-um-bolo-vamos-celebrar",
+  "tipo": "serie",
+  "titulo": "Isso é um Bolo? Vamos Celebrar!",
+  "ano": null,
+  "descricao": "Pasteleiros das temporadas passadas regressam para prepararem réplicas deliciosas de patins no gelo, quebra-nozes e muito mais, nesta versão natalícia do célebre concurso.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ju9NH1YIJvi07qw8HEAvAr9Y5Tz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/961OPA1TxyLY3KA5i846K19F0wF.jpg",
+  "tmdbId": 275144,
+  "nota": 7.321,
+  "xtreamSeriesId": 4664,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911615",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Vamos Celebrar S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911615",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ju9NH1YIJvi07qw8HEAvAr9Y5Tz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911616",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Vamos Celebrar S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911616",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ju9NH1YIJvi07qw8HEAvAr9Y5Tz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911617",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Vamos Celebrar S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911617",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ju9NH1YIJvi07qw8HEAvAr9Y5Tz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911618",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Vamos Celebrar S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10911618",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ju9NH1YIJvi07qw8HEAvAr9Y5Tz.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "nome": "Temporada 2",
+      "episodios": [
+        {
+          "id": "ep-10911619",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Vamos Celebrar S02E01",
+          "numero": 1,
+          "temporada": 2,
+          "xtreamId": "10911619",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ju9NH1YIJvi07qw8HEAvAr9Y5Tz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911620",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Vamos Celebrar S02E02",
+          "numero": 2,
+          "temporada": 2,
+          "xtreamId": "10911620",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ju9NH1YIJvi07qw8HEAvAr9Y5Tz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911621",
+          "tipo": "episodio",
+          "titulo": "Isso e um Bolo Vamos Celebrar S02E03",
+          "numero": 3,
+          "temporada": 2,
+          "xtreamId": "10911621",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ju9NH1YIJvi07qw8HEAvAr9Y5Tz.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 2,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Is It Cake? Holiday",
+  "dataLancamento": "2024-11-28"
+}

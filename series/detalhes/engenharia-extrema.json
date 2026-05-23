@@ -1,0 +1,99 @@
+{
+  "id": "engenharia-extrema",
+  "tipo": "serie",
+  "titulo": "Engenharia Extrema",
+  "ano": null,
+  "descricao": "Uma olhada em algumas das maiores máquinas do mundo.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qtlpTqjjlQmscJaYYcZA3jaGRsg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8pgoudwuARkSjgJzHMSU9JSwHXv.jpg",
+  "tmdbId": 157261,
+  "nota": 4,
+  "xtreamSeriesId": 1805,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10839337",
+          "tipo": "episodio",
+          "titulo": "Engenharia Extrema S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10839337",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qtlpTqjjlQmscJaYYcZA3jaGRsg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839338",
+          "tipo": "episodio",
+          "titulo": "Engenharia Extrema S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10839338",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qtlpTqjjlQmscJaYYcZA3jaGRsg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839339",
+          "tipo": "episodio",
+          "titulo": "Engenharia Extrema S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10839339",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qtlpTqjjlQmscJaYYcZA3jaGRsg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839340",
+          "tipo": "episodio",
+          "titulo": "Engenharia Extrema S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10839340",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qtlpTqjjlQmscJaYYcZA3jaGRsg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839341",
+          "tipo": "episodio",
+          "titulo": "Engenharia Extrema S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10839341",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qtlpTqjjlQmscJaYYcZA3jaGRsg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839342",
+          "tipo": "episodio",
+          "titulo": "Engenharia Extrema S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10839342",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qtlpTqjjlQmscJaYYcZA3jaGRsg.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Colossal Machines",
+  "dataLancamento": "2022-01-03"
+}

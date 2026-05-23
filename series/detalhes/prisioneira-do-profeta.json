@@ -1,0 +1,63 @@
+{
+  "id": "prisioneira-do-profeta",
+  "tipo": "serie",
+  "titulo": "Prisioneira do Profeta",
+  "ano": null,
+  "descricao": "Briell, a 65ª esposa do profeta Warren Jeffs, detalha seu tempo vivendo – e sobrevivendo – na Igreja FLDS. De ser presa a testemunhar o abuso de jovens noivas, a história de Briell expõe os segredos mais sombrios do culto polígamo.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rpmItTMVspQEauce5RM444wx2RI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aMCh6aLJ6V7raByKYquPT7Gh1n9.jpg",
+  "tmdbId": 219451,
+  "nota": 6.8,
+  "xtreamSeriesId": 1563,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10832064",
+          "tipo": "episodio",
+          "titulo": "Prisioneira do Profeta S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10832064",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rpmItTMVspQEauce5RM444wx2RI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832065",
+          "tipo": "episodio",
+          "titulo": "Prisioneira do Profeta S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10832065",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rpmItTMVspQEauce5RM444wx2RI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10832066",
+          "tipo": "episodio",
+          "titulo": "Prisioneira do Profeta S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10832066",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rpmItTMVspQEauce5RM444wx2RI.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Prisoner of the Prophet",
+  "dataLancamento": "2023-01-30"
+}

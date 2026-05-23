@@ -1,0 +1,63 @@
+{
+  "id": "shakespeare-ascensao-de-um-genio",
+  "tipo": "serie",
+  "titulo": "Shakespeare: Ascensão de um Gênio",
+  "ano": null,
+  "descricao": "Como um jovem, nascido em uma cidade pacata sob as garras de ferro de uma epidemia, se torna o dramaturgo mais famoso que já existiu. Explora como o gênio criativo de Shakespeare foi nutrido por um mundo perigoso e emocionante.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4QlcjHdqr96ssDRXzwqzXpfqEKl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/98lIzUgXQha9dTCOTsVaJ9lLMVY.jpg",
+  "tmdbId": 239133,
+  "nota": 5.3,
+  "xtreamSeriesId": 6333,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10988294",
+          "tipo": "episodio",
+          "titulo": "Shakespeare Ascensao de um Genio S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10988294",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4QlcjHdqr96ssDRXzwqzXpfqEKl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988295",
+          "tipo": "episodio",
+          "titulo": "Shakespeare Ascensao de um Genio S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10988295",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4QlcjHdqr96ssDRXzwqzXpfqEKl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988296",
+          "tipo": "episodio",
+          "titulo": "Shakespeare Ascensao de um Genio S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10988296",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4QlcjHdqr96ssDRXzwqzXpfqEKl.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Shakespeare: Rise of a Genius",
+  "dataLancamento": "2023-11-08"
+}

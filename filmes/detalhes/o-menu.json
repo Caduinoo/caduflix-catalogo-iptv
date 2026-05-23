@@ -1,0 +1,42 @@
+{
+  "id": "o-menu",
+  "tipo": "filme",
+  "titulo": "O Menu",
+  "ano": null,
+  "descricao": "Um casal viaja para uma ilha costeira para comer em um restaurante exclusivo onde o chef preparou um cardápio farto, com algumas surpresas chocantes.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rxNelQvAjOmNGUUHRujmsHiPEIh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
+  "tmdbId": 593643,
+  "nota": 7.174,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788276,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779913,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782736,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Menu",
+  "dataLancamento": "2022-11-17"
+}

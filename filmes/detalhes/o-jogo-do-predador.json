@@ -1,0 +1,42 @@
+{
+  "id": "o-jogo-do-predador",
+  "tipo": "filme",
+  "titulo": "O Jogo do Predador",
+  "ano": null,
+  "descricao": "Uma mulher em luto embarca sozinha em uma aventura pela natureza selvagem da Austrália, mas acaba se envolvendo em um jogo cruel de gato e rato com um assassino.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mBcYPIubRBPTnTwWdj8OuEC1NHJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
+  "tmdbId": 1318447,
+  "nota": 6.668,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038968,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038932,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050045,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Apex",
+  "dataLancamento": "2026-04-24"
+}

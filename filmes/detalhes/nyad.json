@@ -1,0 +1,34 @@
+{
+  "id": "nyad",
+  "tipo": "filme",
+  "titulo": "NYAD",
+  "ano": null,
+  "descricao": "Aos 60 anos, a atleta Diana Nyad se prepara para realizar o sonho da sua vida: nadar de Cuba até a Flórida, uma travessia em águas abertas de mais de 160 km.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5CPbuhVfnUAbEyuf3LJ5bKiRvx4.jpg",
+  "tmdbId": 895549,
+  "nota": 7.075,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787777,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775985,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "NYAD",
+  "dataLancamento": "2023-10-18"
+}

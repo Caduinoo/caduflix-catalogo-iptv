@@ -1,0 +1,135 @@
+{
+  "id": "little-voice",
+  "tipo": "serie",
+  "titulo": "Little Voice",
+  "ano": null,
+  "descricao": "Bess King é uma artista talentosa que luta pelos seus sonhos enquanto lida com rejeições, dramas românticos e familiares. Com música original de Sara Bareilles, esta é uma história sobre encontrar a sua própria voz e ter coragem de usá-la.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fQjMeNFbMH6EjwBCeUPqKYcKci.jpg",
+  "tmdbId": 103783,
+  "nota": 7.345,
+  "xtreamSeriesId": 897,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10814236",
+          "tipo": "episodio",
+          "titulo": "Little Voice S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10814236",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814237",
+          "tipo": "episodio",
+          "titulo": "Little Voice S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10814237",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814238",
+          "tipo": "episodio",
+          "titulo": "Little Voice S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10814238",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814239",
+          "tipo": "episodio",
+          "titulo": "Little Voice S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10814239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814240",
+          "tipo": "episodio",
+          "titulo": "Little Voice S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10814240",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814241",
+          "tipo": "episodio",
+          "titulo": "Little Voice S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10814241",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814242",
+          "tipo": "episodio",
+          "titulo": "Little Voice S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10814242",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814243",
+          "tipo": "episodio",
+          "titulo": "Little Voice S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10814243",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814244",
+          "tipo": "episodio",
+          "titulo": "Little Voice S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10814244",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 9,
+  "tituloOriginal": "Little Voice",
+  "dataLancamento": "2020-07-10"
+}

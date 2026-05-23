@@ -1,0 +1,34 @@
+{
+  "id": "o-rei-da-escocia",
+  "tipo": "filme",
+  "titulo": "O Rei da Escócia",
+  "ano": null,
+  "descricao": "Robert the Bruce é coroado rei da Escócia livre. Mas os ingleses estão determinados a recuperar seu território perdido. Batalha após batalha, Robert é derrotado e a nobreza lhe dá as costas. Entretanto, ele retorna para conquistar o que é seu.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8KtPzJ1g9AighZMSkEzTMlte8tg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5H498rDX5OCMnaXFEU3cWRQTWL3.jpg",
+  "tmdbId": 532812,
+  "nota": 5.522,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788430,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776274,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Robert the Bruce",
+  "dataLancamento": "2019-06-28"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "disco-inferno",
+  "tipo": "filme",
+  "titulo": "Disco Inferno",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fPnaTA6LeYMJZAUTk4IBCVoBpL8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bVdBEx5d00RaKAyeEko8XstFLDB.jpg",
+  "tmdbId": 365022,
+  "nota": 8.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785501,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780641,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Disco Inferno",
+  "dataLancamento": "2015-08-31"
+}

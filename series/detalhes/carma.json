@@ -1,0 +1,99 @@
+{
+  "id": "carma",
+  "tipo": "serie",
+  "titulo": "Carma",
+  "ano": null,
+  "descricao": "Um acidente fatídico conecta a vida de seis pessoas em uma história eletrizante sobre crime e carma, obrigando cada uma delas a enfrentar as próprias sombras.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tdJhm2csXLPZk7MLxb4GeJCbguj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/66X23qG4RPk7XPDQCFFHHCage3M.jpg",
+  "tmdbId": 233686,
+  "nota": 7.406,
+  "xtreamSeriesId": 4228,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10903584",
+          "tipo": "episodio",
+          "titulo": "Carma S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10903584",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tdJhm2csXLPZk7MLxb4GeJCbguj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903585",
+          "tipo": "episodio",
+          "titulo": "Carma S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10903585",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tdJhm2csXLPZk7MLxb4GeJCbguj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903586",
+          "tipo": "episodio",
+          "titulo": "Carma S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10903586",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tdJhm2csXLPZk7MLxb4GeJCbguj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903587",
+          "tipo": "episodio",
+          "titulo": "Carma S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10903587",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tdJhm2csXLPZk7MLxb4GeJCbguj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903588",
+          "tipo": "episodio",
+          "titulo": "Carma S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10903588",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tdJhm2csXLPZk7MLxb4GeJCbguj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903589",
+          "tipo": "episodio",
+          "titulo": "Carma S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10903589",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tdJhm2csXLPZk7MLxb4GeJCbguj.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "악연",
+  "dataLancamento": "2025-04-04"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "the-house",
+  "tipo": "filme",
+  "titulo": "The House on Haunted Grounds",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/750RNSHr25GQcCr2Ws8iSGrHJA9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/r9aYDDP7tHpwCvQbOxcfhZFBT63.jpg",
+  "tmdbId": 1610418,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791750,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791693,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "The House on Haunted Grounds",
+  "dataLancamento": "2026-01-09"
+}

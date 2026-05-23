@@ -1,0 +1,34 @@
+{
+  "id": "vista-perigosa",
+  "tipo": "filme",
+  "titulo": "Vista Perigosa",
+  "ano": null,
+  "descricao": "Um homem que encobre um crime presume que um vizinho intrometido pode ter visto o que ele fez. Ele vira a vida do vizinho de cabeça para baixo para manter seu segredo. Mas há mais motivos para isso?",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qu7eRGjz6Uu2UdUZzqpkk6TRyy8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jDjv3SdkwyKwgYxEiiyC05asxXD.jpg",
+  "tmdbId": 691417,
+  "nota": 3.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791046,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777108,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "The Penthouse",
+  "dataLancamento": "2021-04-13"
+}

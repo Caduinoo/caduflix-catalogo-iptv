@@ -1,0 +1,87 @@
+{
+  "id": "lego-pixar-bricktoons",
+  "tipo": "serie",
+  "titulo": "LEGO Pixar: BrickToons",
+  "ano": null,
+  "descricao": "Junte-se a alguns de seus personagens preferidos da Pixar em aventuras no mundo LEGO! Cada uma das 5 histórias BrickToon trazem rostos e lugares familiares com humor e surpresas LEGO. Cante com Miguel e sua família na Terra dos Mortos, ajude Merida e seus irmãos trigêmeos em uma situação maluca, faça uma excursão épica com Nemo, Marlin e Dory, veja a família Pêra tentar salvar sua vizinhança do Síndrome e junte-se a Mate enquanto ele prepara o Relâmpago McQueen para sua próxima grande corrida!",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yFswYZNprs9CgzkhaqPpBQuwGya.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rLo82L6uMCw5wSaI7sl61n2ECkF.jpg",
+  "tmdbId": 262153,
+  "nota": 5.667,
+  "xtreamSeriesId": 1882,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10841795",
+          "tipo": "episodio",
+          "titulo": "LEGO Pixar BrickToons S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10841795",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yFswYZNprs9CgzkhaqPpBQuwGya.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841796",
+          "tipo": "episodio",
+          "titulo": "LEGO Pixar BrickToons S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10841796",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yFswYZNprs9CgzkhaqPpBQuwGya.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841797",
+          "tipo": "episodio",
+          "titulo": "LEGO Pixar BrickToons S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10841797",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yFswYZNprs9CgzkhaqPpBQuwGya.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841798",
+          "tipo": "episodio",
+          "titulo": "LEGO Pixar BrickToons S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10841798",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yFswYZNprs9CgzkhaqPpBQuwGya.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841799",
+          "tipo": "episodio",
+          "titulo": "LEGO Pixar BrickToons S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10841799",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yFswYZNprs9CgzkhaqPpBQuwGya.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "LEGO Pixar: BrickToons",
+  "dataLancamento": "2024-09-04"
+}

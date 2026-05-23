@@ -1,0 +1,99 @@
+{
+  "id": "black-bird",
+  "tipo": "serie",
+  "titulo": "Black Bird",
+  "ano": null,
+  "descricao": "Quando Jimmy Keene começa a cumprir uma sentença de 10 anos de prisão, ele recebe uma oferta incrível: se ele conseguir obter uma confissão do suspeito de assassinato Larry Hall, Jimmy será libertado. Completar esta missão torna-se o desafio de sua vida.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qu312pwM61NPTr7nexvovCClDNP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/o2C222QdW4dmoyd2dgPlnCcI3cW.jpg",
+  "tmdbId": 155537,
+  "nota": 8.064,
+  "xtreamSeriesId": 818,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10812323",
+          "tipo": "episodio",
+          "titulo": "Black Bird S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10812323",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qu312pwM61NPTr7nexvovCClDNP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812324",
+          "tipo": "episodio",
+          "titulo": "Black Bird S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10812324",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qu312pwM61NPTr7nexvovCClDNP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812325",
+          "tipo": "episodio",
+          "titulo": "Black Bird S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10812325",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qu312pwM61NPTr7nexvovCClDNP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812326",
+          "tipo": "episodio",
+          "titulo": "Black Bird S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10812326",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qu312pwM61NPTr7nexvovCClDNP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812327",
+          "tipo": "episodio",
+          "titulo": "Black Bird S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10812327",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qu312pwM61NPTr7nexvovCClDNP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812328",
+          "tipo": "episodio",
+          "titulo": "Black Bird S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10812328",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qu312pwM61NPTr7nexvovCClDNP.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Black Bird",
+  "dataLancamento": "2022-07-07"
+}

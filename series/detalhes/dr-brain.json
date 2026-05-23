@@ -1,0 +1,100 @@
+{
+  "id": "dr-brain",
+  "tipo": "serie",
+  "titulo": "Dr. Brain",
+  "ano": null,
+  "descricao": "Sewon, um brilhante cientista com um cérebro único, sofre uma terrível tragédia pessoal. Desesperado para descobrir o que aconteceu com sua família, ele realiza “sincronizações cerebrais” com os mortos para acessar suas memórias em busca de pistas.",
+  "generos": [
+    "APPLE+",
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nxfyXDghW2SbQbwRen6uh12OzXV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/87IhSzFxzvZIFmLOzfl4HJPe4p2.jpg",
+  "tmdbId": 119955,
+  "nota": 7.231,
+  "xtreamSeriesId": 841,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10812877",
+          "tipo": "episodio",
+          "titulo": "Dr. Brain S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10812877",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nxfyXDghW2SbQbwRen6uh12OzXV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812878",
+          "tipo": "episodio",
+          "titulo": "Dr. Brain S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10812878",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nxfyXDghW2SbQbwRen6uh12OzXV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812879",
+          "tipo": "episodio",
+          "titulo": "Dr. Brain S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10812879",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nxfyXDghW2SbQbwRen6uh12OzXV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812880",
+          "tipo": "episodio",
+          "titulo": "Dr. Brain S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10812880",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nxfyXDghW2SbQbwRen6uh12OzXV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812881",
+          "tipo": "episodio",
+          "titulo": "Dr. Brain S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10812881",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nxfyXDghW2SbQbwRen6uh12OzXV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10812882",
+          "tipo": "episodio",
+          "titulo": "Dr. Brain S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10812882",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nxfyXDghW2SbQbwRen6uh12OzXV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Dr.브레인",
+  "dataLancamento": "2021-11-04"
+}

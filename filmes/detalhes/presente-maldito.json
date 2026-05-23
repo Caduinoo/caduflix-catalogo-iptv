@@ -1,0 +1,34 @@
+{
+  "id": "presente-maldito",
+  "tipo": "filme",
+  "titulo": "Presente Maldito",
+  "ano": null,
+  "descricao": "Polly recebe uma caixa misteriosa e uma regra: deve colocar dentro algo de que precisa, algo que odeia e algo que ama. Se ela não obedecer, a caixa destruirá tudo e todos que ela conhece.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mPXAjDpPmqt4I6xaKridg0zZ5mR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+  "tmdbId": 1251717,
+  "nota": 5.978,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789151,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781331,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Vicious",
+  "dataLancamento": "2025-08-06"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "queen-of-the-universe",
+  "tipo": "serie",
+  "titulo": "Queen of the Universe",
+  "ano": null,
+  "descricao": "Espere saltos altos, oitavas altas e muito drama que vai bagunçar sua peruca quando começar a busca para encontrar a superestrela global drag de canto.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qaXjnxkmYAKjkZSNJJIpfCQxnhp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/j3du8kOzn5NakXR8T8qAiNGNS1U.jpg",
+  "tmdbId": 130048,
+  "nota": 4.2,
+  "xtreamSeriesId": 6604,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10999278",
+          "tipo": "episodio",
+          "titulo": "Queen of the Universe S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10999278",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qaXjnxkmYAKjkZSNJJIpfCQxnhp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999279",
+          "tipo": "episodio",
+          "titulo": "Queen of the Universe S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10999279",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qaXjnxkmYAKjkZSNJJIpfCQxnhp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999280",
+          "tipo": "episodio",
+          "titulo": "Queen of the Universe S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10999280",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qaXjnxkmYAKjkZSNJJIpfCQxnhp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999281",
+          "tipo": "episodio",
+          "titulo": "Queen of the Universe S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10999281",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qaXjnxkmYAKjkZSNJJIpfCQxnhp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999282",
+          "tipo": "episodio",
+          "titulo": "Queen of the Universe S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10999282",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qaXjnxkmYAKjkZSNJJIpfCQxnhp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999283",
+          "tipo": "episodio",
+          "titulo": "Queen of the Universe S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10999283",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qaXjnxkmYAKjkZSNJJIpfCQxnhp.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Queen of the Universe",
+  "dataLancamento": "2021-12-02"
+}

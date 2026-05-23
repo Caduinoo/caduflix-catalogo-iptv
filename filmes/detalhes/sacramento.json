@@ -1,0 +1,34 @@
+{
+  "id": "sacramento",
+  "tipo": "filme",
+  "titulo": "Sacramento",
+  "ano": null,
+  "descricao": "Dois amigos, Rickey e Glenn, se separaram ao longo da vida. Mas com algumas mentirinhas, Rickey convence Glenn a ir em uma viagem de carro improvisada de Los Angeles para Sacramento para espalhar as cinzas de seu pai. Enquanto Glenn já se acostumou com a rotina do dia a dia, Rickey continua imaturo e espera que essa aventura vá revigorar a amizade deles.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hVhDtbVs6PIxvIbAKL5zom4BnkO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3b7SPOd4JppF39Nri6MuvqjmMPw.jpg",
+  "tmdbId": 842931,
+  "nota": 6.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789562,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773771,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Sacramento",
+  "dataLancamento": "2025-04-11"
+}

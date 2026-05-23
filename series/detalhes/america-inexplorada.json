@@ -1,0 +1,87 @@
+{
+  "id": "america-inexplorada",
+  "tipo": "serie",
+  "titulo": "América Inexplorada",
+  "ano": null,
+  "descricao": "O aclamado fotógrafo Ian Shive embarca em uma viagem até alguns dos cantos mais remotos do planeta, para revelar detalhes das reservas naturais americanas e dos parques nacionais menos conhecidos.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pVIzlTaHFblnwWniNAOiatrCbo1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ujf14KoqF8rZAYIX2aQMIEZmbKC.jpg",
+  "tmdbId": 122021,
+  "nota": null,
+  "xtreamSeriesId": 5802,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10971615",
+          "tipo": "episodio",
+          "titulo": "América Inexplorada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10971615",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pVIzlTaHFblnwWniNAOiatrCbo1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971616",
+          "tipo": "episodio",
+          "titulo": "América Inexplorada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10971616",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pVIzlTaHFblnwWniNAOiatrCbo1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971617",
+          "tipo": "episodio",
+          "titulo": "América Inexplorada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10971617",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pVIzlTaHFblnwWniNAOiatrCbo1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971618",
+          "tipo": "episodio",
+          "titulo": "América Inexplorada S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10971618",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pVIzlTaHFblnwWniNAOiatrCbo1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971619",
+          "tipo": "episodio",
+          "titulo": "América Inexplorada S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10971619",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pVIzlTaHFblnwWniNAOiatrCbo1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "The Last Unknown",
+  "dataLancamento": "2021-03-18"
+}

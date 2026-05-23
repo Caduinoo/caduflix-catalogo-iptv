@@ -1,0 +1,42 @@
+{
+  "id": "jurassic-world-recomeco",
+  "tipo": "filme",
+  "titulo": "Jurassic World: Recomeço",
+  "ano": null,
+  "descricao": "Cinco anos após os eventos de Jurassic World: Domínio, a ecologia do planeta se mostrou inóspita para os dinossauros, com os poucos sobreviventes vivendo isolados nas regiões equatoriais. Zora Bennett é contratada para liderar uma equipe de especialistas cujo objetivo é obter o material genético das três maiores criaturas, cujo DNA contém a chave para a criação de um medicamento que trará grandes benefícios à humanidade. Mas a operação se cruzará com uma família cujo barco virou, e todos acabarão em uma ilha proibida, ocupada por dinossauros de inúmeras espécies, onde terão que fazer o impossível para sobreviver.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zuEC2i3I2P7QIcLoUJNBwqRYO4S.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+  "tmdbId": 1234821,
+  "nota": 6.266,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786768,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777805,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782496,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Jurassic World Rebirth",
+  "dataLancamento": "2025-07-01"
+}

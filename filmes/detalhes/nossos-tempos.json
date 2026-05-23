@@ -1,0 +1,34 @@
+{
+  "id": "nossos-tempos",
+  "tipo": "filme",
+  "titulo": "Nossos Tempos",
+  "ano": null,
+  "descricao": "O casal de físicos Nora e Héctor viajam de 1966 para 2025. Nora se dá muito bem, mas o marido não se adapta. Será que a relação vai sobreviver aos novos tempos?",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/h54YFhj280h2PRFW4Up1sSrfaEc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dD14o9KJDbmuJ80z4vKdVnQ0zks.jpg",
+  "tmdbId": 1426680,
+  "nota": 6.627,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787758,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779251,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Nuestros tiempos",
+  "dataLancamento": "2025-06-09"
+}

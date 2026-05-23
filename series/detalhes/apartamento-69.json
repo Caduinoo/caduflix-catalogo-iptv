@@ -1,0 +1,99 @@
+{
+  "id": "apartamento-69",
+  "tipo": "serie",
+  "titulo": "Apartamento 6/9",
+  "ano": null,
+  "descricao": "Depois de perder o emprego, uma mulher encontra um misterioso pacote na porta do apartamento. E a vida dela muda para pior.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mmCXluylhf9qJLW9oAvvs40opnk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3FglVhFuPWwzVWH7sQZKzVcvE0E.jpg",
+  "tmdbId": 231380,
+  "nota": 5.7,
+  "xtreamSeriesId": 4083,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901106",
+          "tipo": "episodio",
+          "titulo": "Apartamento 69 S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901106",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mmCXluylhf9qJLW9oAvvs40opnk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901107",
+          "tipo": "episodio",
+          "titulo": "Apartamento 69 S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901107",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mmCXluylhf9qJLW9oAvvs40opnk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901108",
+          "tipo": "episodio",
+          "titulo": "Apartamento 69 S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901108",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mmCXluylhf9qJLW9oAvvs40opnk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901109",
+          "tipo": "episodio",
+          "titulo": "Apartamento 69 S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10901109",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mmCXluylhf9qJLW9oAvvs40opnk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901110",
+          "tipo": "episodio",
+          "titulo": "Apartamento 69 S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10901110",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mmCXluylhf9qJLW9oAvvs40opnk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901111",
+          "tipo": "episodio",
+          "titulo": "Apartamento 69 S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10901111",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mmCXluylhf9qJLW9oAvvs40opnk.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "เรื่องตลก 69 เดอะซีรีส์",
+  "dataLancamento": "2023-09-06"
+}

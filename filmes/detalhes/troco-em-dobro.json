@@ -1,0 +1,34 @@
+{
+  "id": "troco-em-dobro",
+  "tipo": "filme",
+  "titulo": "Troco em Dobro",
+  "ano": null,
+  "descricao": "Spenser, um antigo detective da polícia mais conhecido por criar problemas do que por os resolver, acaba de sair da prisão e prepara-se para deixar Boston. Mas antes é convencido a ajudar o seu velho treinador de boxe a preparar Hawk, um amador com muito potencial.",
+  "generos": [
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9kUoCeyFAfYZKrGI27gSsnnsHN0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ftODZXaXpWtV5XFD8gS9n9KwLDr.jpg",
+  "tmdbId": 581600,
+  "nota": 6.513,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776920,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783036,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Spenser Confidential",
+  "dataLancamento": "2020-03-06"
+}

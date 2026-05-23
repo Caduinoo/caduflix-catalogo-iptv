@@ -1,0 +1,147 @@
+{
+  "id": "a-teia",
+  "tipo": "serie",
+  "titulo": "A Teia",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uUz5OvIuiDrKxwRPD5x4DzQZmZY.jpg",
+  "tmdbId": 87526,
+  "nota": 7,
+  "xtreamSeriesId": 2843,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10863664",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10863664",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863665",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10863665",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863666",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10863666",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863667",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10863667",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863668",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10863668",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863669",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10863669",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863670",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10863670",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863671",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10863671",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863672",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10863672",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863673",
+          "tipo": "episodio",
+          "titulo": "A Teia S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10863673",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "A Teia",
+  "dataLancamento": "2018-11-19"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-homem-agua",
+  "tipo": "filme",
+  "titulo": "O Homem Água",
+  "ano": null,
+  "descricao": "Um menino sai em uma missão para salvar sua mãe doente, procurando por uma figura mítica que dizem ter poderes de cura mágicos.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/s7hsfb9fiEaLO5cLqVxjUhowosP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ppxlOnywKKpAtUiWWvIE6pgDzGs.jpg",
+  "tmdbId": 346687,
+  "nota": 6.095,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788181,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776138,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Water Man",
+  "dataLancamento": "2020-09-13"
+}

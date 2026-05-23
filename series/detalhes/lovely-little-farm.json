@@ -1,0 +1,111 @@
+{
+  "id": "lovely-little-farm",
+  "tipo": "serie",
+  "titulo": "A Adorável Fazendinha",
+  "ano": null,
+  "descricao": "Aninhada em campos de lavanda, existe uma adorável fazendinha onde as irmãs Jill e Jacky cuidam e amam todos os seus animais, inclusive os falantes. Ser uma jovem fazendeira não é fácil, mas cada dia traz aventura e uma chance de crescer.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ft4FCipTavS6cWAuTvHskf2Uwit.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yYoRGfBZCSBeN8FO2Dj7fSoy2pA.jpg",
+  "tmdbId": 201710,
+  "nota": 7,
+  "xtreamSeriesId": 895,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10814221",
+          "tipo": "episodio",
+          "titulo": "Lovely Little Farm S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10814221",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ft4FCipTavS6cWAuTvHskf2Uwit.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814222",
+          "tipo": "episodio",
+          "titulo": "Lovely Little Farm S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10814222",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ft4FCipTavS6cWAuTvHskf2Uwit.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814223",
+          "tipo": "episodio",
+          "titulo": "Lovely Little Farm S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10814223",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ft4FCipTavS6cWAuTvHskf2Uwit.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814224",
+          "tipo": "episodio",
+          "titulo": "Lovely Little Farm S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10814224",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ft4FCipTavS6cWAuTvHskf2Uwit.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814225",
+          "tipo": "episodio",
+          "titulo": "Lovely Little Farm S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10814225",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ft4FCipTavS6cWAuTvHskf2Uwit.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814226",
+          "tipo": "episodio",
+          "titulo": "Lovely Little Farm S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10814226",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ft4FCipTavS6cWAuTvHskf2Uwit.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814227",
+          "tipo": "episodio",
+          "titulo": "Lovely Little Farm S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10814227",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ft4FCipTavS6cWAuTvHskf2Uwit.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Lovely Little Farm",
+  "dataLancamento": "2022-06-10"
+}

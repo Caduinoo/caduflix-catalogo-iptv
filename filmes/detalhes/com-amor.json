@@ -1,0 +1,50 @@
+{
+  "id": "com-amor",
+  "tipo": "filme",
+  "titulo": "Da Toscana, com Amor",
+  "ano": null,
+  "descricao": "Baseado no best-seller de Felicia Kingsley, Elisa (34) e Michele (32) são muito diferentes. Ela é uma mãe jovem, solteira, dedicada ao trabalho. Ele é um consultor financeiro, bem-sucedido, tanto nos negócios quanto no amor. Tudo o que têm em comum são os verões que passaram ​​em Belvedere quando crianças. Elisa ainda mora lá, mas Michele se mudou para Milão. Mas o destino os une mais uma vez.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/d2aVcAMi5tZPLPBc7ZSVQ0rN2cr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
+  "tmdbId": 1317448,
+  "nota": 6.746,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040938,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040928,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11041285,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049974,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Non è un paese per single",
+  "dataLancamento": "2026-05-08"
+}

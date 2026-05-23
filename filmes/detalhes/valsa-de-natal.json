@@ -1,0 +1,34 @@
+{
+  "id": "valsa-de-natal",
+  "tipo": "filme",
+  "titulo": "Valsa de Natal",
+  "ano": null,
+  "descricao": "Uma mulher, abandonada por seu noivo um mês antes de seu casamento dos sonhos durante o Natal, decide fazer uma série de aulas de dança que foram destinadas à sua dança de casamento.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/q7j7D50cNqYe0dILye3ASAIOMel.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5xlPkbp46bmtnS26bAwzuNjmob6.jpg",
+  "tmdbId": 733032,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790938,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778826,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Christmas Waltz",
+  "dataLancamento": "2020-11-28"
+}

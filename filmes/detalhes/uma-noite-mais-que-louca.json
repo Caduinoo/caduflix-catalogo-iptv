@@ -1,0 +1,34 @@
+{
+  "id": "uma-noite-mais-que-louca",
+  "tipo": "filme",
+  "titulo": "Uma Noite Mais que Louca",
+  "ano": null,
+  "descricao": "Matt Franklin é um jovem brilhante formado pelo MIT, conceituado curso universitário norte-americano. Ele ignora completamente o materialismo e decide trilhar um caminho inverso daquele que poderia render altos salários. Matt arruma um emprego em uma locadora de filmes, mas muda de ideia quando sua paixão do colégio, Tori, entra na loja e o convida para uma festa de fim de verão. Com a ajuda de sua irmã gêmea e seu melhor amigo, Matt cria um plano para mudar o curso da sua vida.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qce9RlBlEE1eIop95p1dI8Xj2v9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/enxf96h8wGxqnByfVg3ZlsPTu7Z.jpg",
+  "tmdbId": 50725,
+  "nota": 5.97,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790817,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774122,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Take Me Home Tonight",
+  "dataLancamento": "2011-03-04"
+}

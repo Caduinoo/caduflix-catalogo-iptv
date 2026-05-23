@@ -1,0 +1,99 @@
+{
+  "id": "pop",
+  "tipo": "serie",
+  "titulo": "This Is Pop",
+  "ano": null,
+  "descricao": "Conheça as histórias por trás das suas músicas pop favoritas nesta série documental que mostra o papel dos festivais, do Auto-Tune, das boy bands e muito mais.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uVG8QtrKspTYGCJRKqFUa4Vyfgs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hw6CdkZ0NOdnkFv6cJHHRI6qt3y.jpg",
+  "tmdbId": 125972,
+  "nota": 5.9,
+  "xtreamSeriesId": 1871,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10841428",
+          "tipo": "episodio",
+          "titulo": "L Pop S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10841428",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFTbJLOCVUs5Z67FLz5aamqDH8G.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841429",
+          "tipo": "episodio",
+          "titulo": "L Pop S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10841429",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFTbJLOCVUs5Z67FLz5aamqDH8G.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841430",
+          "tipo": "episodio",
+          "titulo": "L Pop S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10841430",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFTbJLOCVUs5Z67FLz5aamqDH8G.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841431",
+          "tipo": "episodio",
+          "titulo": "L Pop S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10841431",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFTbJLOCVUs5Z67FLz5aamqDH8G.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841432",
+          "tipo": "episodio",
+          "titulo": "L Pop S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10841432",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFTbJLOCVUs5Z67FLz5aamqDH8G.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841433",
+          "tipo": "episodio",
+          "titulo": "L Pop S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10841433",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFTbJLOCVUs5Z67FLz5aamqDH8G.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "This Is Pop",
+  "dataLancamento": "2021-03-06"
+}

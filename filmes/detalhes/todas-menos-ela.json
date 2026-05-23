@@ -1,0 +1,42 @@
+{
+  "id": "todas-menos-ela",
+  "tipo": "filme",
+  "titulo": "Todas Menos Ela",
+  "ano": null,
+  "descricao": "Um grupo de amigos encontra o pretexto perfeito para se livrar da noiva insuportável de um deles quando descobrem que a mulher não é o que parece.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zurkLIcckuQYMNaGZeh6O3rEDJj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/y6x9qFx42kSjmpyxRlnWJejjCEt.jpg",
+  "tmdbId": 1178069,
+  "nota": 6.983,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790372,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773947,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783018,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Todas Menos Tú",
+  "dataLancamento": "2024-02-14"
+}

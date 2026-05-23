@@ -1,0 +1,34 @@
+{
+  "id": "conexao-macabra",
+  "tipo": "filme",
+  "titulo": "Conexão Macabra",
+  "ano": null,
+  "descricao": "A convite de uma empresa, quatro jovens participam de um \"experimento social\", no qual são colocados para interagir entre si. Conforme a interação acontece, eventos bizarros passam a ocorrer.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/laCWGx1yIsQPejNpsfmdA3aQbHC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3X43JVVoRGINl20ipuQEPn0oIKi.jpg",
+  "tmdbId": 799534,
+  "nota": 1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791895,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791901,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Conexão Macabra",
+  "dataLancamento": "2021-03-13"
+}

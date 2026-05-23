@@ -1,0 +1,99 @@
+{
+  "id": "high-score",
+  "tipo": "serie",
+  "titulo": "HIGH SCORE",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5NYXyNKU9GyyTCsY7qIPSeeW0FH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/seMabE6MOM4ADBFFsKELLVkzCqC.jpg",
+  "tmdbId": 79033,
+  "nota": 6,
+  "xtreamSeriesId": 4595,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10909992",
+          "tipo": "episodio",
+          "titulo": "High Score S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10909992",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5NYXyNKU9GyyTCsY7qIPSeeW0FH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909993",
+          "tipo": "episodio",
+          "titulo": "High Score S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10909993",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5NYXyNKU9GyyTCsY7qIPSeeW0FH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909994",
+          "tipo": "episodio",
+          "titulo": "High Score S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10909994",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5NYXyNKU9GyyTCsY7qIPSeeW0FH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909995",
+          "tipo": "episodio",
+          "titulo": "High Score S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10909995",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5NYXyNKU9GyyTCsY7qIPSeeW0FH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909996",
+          "tipo": "episodio",
+          "titulo": "High Score S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10909996",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5NYXyNKU9GyyTCsY7qIPSeeW0FH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909997",
+          "tipo": "episodio",
+          "titulo": "High Score S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10909997",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5NYXyNKU9GyyTCsY7qIPSeeW0FH.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "HIGH SCORE",
+  "dataLancamento": "2011-11-28"
+}

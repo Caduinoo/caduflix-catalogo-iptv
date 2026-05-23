@@ -1,0 +1,75 @@
+{
+  "id": "ufo",
+  "tipo": "serie",
+  "titulo": "UFO",
+  "ano": null,
+  "descricao": "No futuro de 1980, a terra é atacada por uma raça alienígena que está coletando órgãos humanos para prolongar a vida de sua própria espécie ameaçada. Para proteger o planeta, uma organização militar secreta chamada shado se utiliza de veículos armados no ar, na água e na terra, assim como também uma base na lua e um satélite que detecta a presença de ovnis.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yJMF2BlJ3M7rXRQQpv91WInBtXO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pYcSxml94LU0Emgc69o3CCcTq5Q.jpg",
+  "tmdbId": 2560,
+  "nota": 7.732,
+  "xtreamSeriesId": 6425,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10990922",
+          "tipo": "episodio",
+          "titulo": "UFO S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10990922",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qLzmlKTGxgaRA4kkQIKY2JawKa0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10990923",
+          "tipo": "episodio",
+          "titulo": "UFO S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10990923",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qLzmlKTGxgaRA4kkQIKY2JawKa0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10990924",
+          "tipo": "episodio",
+          "titulo": "UFO S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10990924",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qLzmlKTGxgaRA4kkQIKY2JawKa0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10990925",
+          "tipo": "episodio",
+          "titulo": "UFO S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10990925",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qLzmlKTGxgaRA4kkQIKY2JawKa0.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "UFO",
+  "dataLancamento": "1970-09-16"
+}

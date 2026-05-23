@@ -1,0 +1,42 @@
+{
+  "id": "uma-familia-extraordinaria",
+  "tipo": "filme",
+  "titulo": "Uma Família Extraordinária",
+  "ano": null,
+  "descricao": "A história de Bea Johnson desde o seu nascimento até a formatura enquanto ela navega pela vida com pais que possuem deficiência intelectual e uma família extensa que não consegue chegar a um acordo sobre a melhor maneira de ajuda-la.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xcmLl584q80csyGwH0q65nDg1cA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/c4FyrpbvhSwYWtQqWC4Gjmdmle1.jpg",
+  "tmdbId": 915523,
+  "nota": 7.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790768,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774105,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783073,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Wildflower",
+  "dataLancamento": "2023-03-17"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "necroterio",
+  "tipo": "filme",
+  "titulo": "Necrotério",
+  "ano": null,
+  "descricao": "O segurança de um hospital fica preso no necrotério durante o turno da noite e descobre que não está tão sozinho quanto pensava.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qCrzGz42Ng7imbtZjuF7INBIbwN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oxf21X09H08IAElEOOr9cjeevj.jpg",
+  "tmdbId": 625814,
+  "nota": 6.802,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787660,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780978,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Morgue",
+  "dataLancamento": "2019-08-22"
+}

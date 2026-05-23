@@ -1,0 +1,99 @@
+{
+  "id": "a-prova-de-risco",
+  "tipo": "serie",
+  "titulo": "À Prova de Risco",
+  "ano": null,
+  "descricao": "Tim Kennedy explora as habilidades necessárias para se tornar um piloto de testes.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/c9uCCyOgFEvqgbbsaf2UHwm53I.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pQEuIjq4I4qOQFPBhx0r8O5jt0c.jpg",
+  "tmdbId": 81464,
+  "nota": 7,
+  "xtreamSeriesId": 1628,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10833857",
+          "tipo": "episodio",
+          "titulo": "À Prova de Risco S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10833857",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c9uCCyOgFEvqgbbsaf2UHwm53I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833858",
+          "tipo": "episodio",
+          "titulo": "À Prova de Risco S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10833858",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c9uCCyOgFEvqgbbsaf2UHwm53I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833859",
+          "tipo": "episodio",
+          "titulo": "À Prova de Risco S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10833859",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c9uCCyOgFEvqgbbsaf2UHwm53I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833860",
+          "tipo": "episodio",
+          "titulo": "À Prova de Risco S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10833860",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c9uCCyOgFEvqgbbsaf2UHwm53I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833861",
+          "tipo": "episodio",
+          "titulo": "À Prova de Risco S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10833861",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c9uCCyOgFEvqgbbsaf2UHwm53I.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833862",
+          "tipo": "episodio",
+          "titulo": "À Prova de Risco S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10833862",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/c9uCCyOgFEvqgbbsaf2UHwm53I.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Hard to Kill",
+  "dataLancamento": "2018-07-31"
+}

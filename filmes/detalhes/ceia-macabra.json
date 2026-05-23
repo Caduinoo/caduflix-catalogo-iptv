@@ -1,0 +1,34 @@
+{
+  "id": "ceia-macabra",
+  "tipo": "filme",
+  "titulo": "Ceia Macabra",
+  "ano": null,
+  "descricao": "Um casal vai a um jantar frequentado por membros da alta sociedade com costumes bastante exóticos. Com o passar da noite, segredos horripilantes são desvendados e um banho de sangue começa.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/irQGfw7AD3j9EuFUrsRbmpJnQLT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wSlseKhsG5VrL8zRvZG8ckqtsuA.jpg",
+  "tmdbId": 686003,
+  "nota": 4.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784876,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780556,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "The Dinner Party",
+  "dataLancamento": "2020-05-29"
+}

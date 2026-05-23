@@ -1,0 +1,34 @@
+{
+  "id": "a-ouvinte",
+  "tipo": "filme",
+  "titulo": "A Ouvinte",
+  "ano": null,
+  "descricao": "Acompanha uma voluntária da central de ajuda que faz parte do pequeno exército que atende ao telefone todas as noites, recebendo ligações de todos os tipos de pessoas que se sentem sozinhas, desamparadas.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dnkZEcD7VuCHoqhkaAuAGrXhpAd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6tCLkR2I9ZK4gjc3bgHUcY8UbQ5.jpg",
+  "tmdbId": 914243,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791488,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791486,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "The Listener",
+  "dataLancamento": "2024-03-29"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "por-inteiro",
+  "tipo": "filme",
+  "titulo": "Por Inteiro",
+  "ano": null,
+  "descricao": "Laura e Simon são melhores amigos desde a faculdade. Ao longo dos anos, eles notaram que seu vínculo é mais do que platônico. Será que eles podem—e devem—arriscar tudo para explorar um amor de já tanto tempo?",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/16ndbEL3c0y5tW953EzqxY0cgvb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yGsEsHlc81Q1i9Z3yoVv394PrlG.jpg",
+  "tmdbId": 1319965,
+  "nota": 6.301,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789107,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779331,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "All of You",
+  "dataLancamento": "2025-09-26"
+}

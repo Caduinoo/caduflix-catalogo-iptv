@@ -1,0 +1,75 @@
+{
+  "id": "chimp-crazy",
+  "tipo": "serie",
+  "titulo": "Chimp Crazy",
+  "ano": null,
+  "descricao": "Série documental da HBO que investiga o mundo secreto do negócio de chimpanzés em cativeiro e as histórias daqueles que os amam.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mHLfiuZtwjOQG4548HfTDYGZlUG.jpg",
+  "tmdbId": 259271,
+  "nota": 7.167,
+  "xtreamSeriesId": 3481,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10886937",
+          "tipo": "episodio",
+          "titulo": "Chimp Crazy S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10886937",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10886938",
+          "tipo": "episodio",
+          "titulo": "Chimp Crazy S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10886938",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10886939",
+          "tipo": "episodio",
+          "titulo": "Chimp Crazy S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10886939",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10886940",
+          "tipo": "episodio",
+          "titulo": "Chimp Crazy S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10886940",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Chimp Crazy",
+  "dataLancamento": "2024-08-18"
+}

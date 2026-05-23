@@ -1,0 +1,34 @@
+{
+  "id": "desconhecida",
+  "tipo": "filme",
+  "titulo": "Amazônia Desconhecida",
+  "ano": null,
+  "descricao": "A Amazônia é um dos lugares mais famosos do mundo e curiosamente um dos menos conhecidos. O documentário se propõe uma difícil missão: buscar as verdades existentes, entendendo alguns mitos e levando ao público um retrato atual da maior floresta tropical do planeta.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tqwyRO4gGEcHS4CUNyGwa14QkGL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5wzoOTrxBkTpv5uK3OQ2xX0Imll.jpg",
+  "tmdbId": 328278,
+  "nota": 7.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785405,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775224,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Amazônia Desconhecida",
+  "dataLancamento": "2013-10-18"
+}

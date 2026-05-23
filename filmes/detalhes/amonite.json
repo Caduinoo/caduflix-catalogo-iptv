@@ -1,0 +1,34 @@
+{
+  "id": "amonite",
+  "tipo": "filme",
+  "titulo": "Amonite",
+  "ano": null,
+  "descricao": "Ammonite se passa em 1840 e é a história da caçadora de fósseis Mary Anning (Kate Winslet), que trabalha sozinha para uma companhia. Com seus dias de fama ficados para trás, ela agora procura por fósseis comuns para vender para turistas, com intuito de sustentar a si mesma e a sua mãe doente. Quando um homem rico lhe oferece um trabalho, Mary passa a criar laços com sua esposa, obrigando as duas mulheres a determinar a verdadeira natureza de seu relacionamento.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ik7M9H9Gza8jqunbfmkfI2PoZHy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/23wCZgZ3mDtATocmy1lXNLM7pyx.jpg",
+  "tmdbId": 568467,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784105,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779020,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Ammonite",
+  "dataLancamento": "2020-11-13"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "ted-a-serie",
+  "tipo": "serie",
+  "titulo": "Ted - A Série",
+  "ano": null,
+  "descricao": "Depois que sua fama passa, o ursinho boca-suja Ted é obrigado a ir para a escola com seu melhor amigo adolescente, John. Juntos eles experimentam os altos e baixos da juventude.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xaiKpxuf9YGuTsqpdK5HSbD8M8f.jpg",
+  "tmdbId": 201834,
+  "nota": 8,
+  "xtreamSeriesId": 3276,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10880085",
+          "tipo": "episodio",
+          "titulo": "Ted A Serie S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10880085",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880086",
+          "tipo": "episodio",
+          "titulo": "Ted A Serie S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10880086",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880087",
+          "tipo": "episodio",
+          "titulo": "Ted A Serie S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10880087",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880088",
+          "tipo": "episodio",
+          "titulo": "Ted A Serie S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10880088",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880089",
+          "tipo": "episodio",
+          "titulo": "Ted A Serie S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10880089",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880090",
+          "tipo": "episodio",
+          "titulo": "Ted A Serie S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10880090",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880091",
+          "tipo": "episodio",
+          "titulo": "Ted A Serie S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10880091",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10880092",
+          "tipo": "episodio",
+          "titulo": "Ted A Serie S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10880092",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iGanbz4wM5EyDpSZ0FK3TEsInEb.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "ted",
+  "dataLancamento": "2024-01-11"
+}

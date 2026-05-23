@@ -1,0 +1,34 @@
+{
+  "id": "experimento-arco-iris",
+  "tipo": "filme",
+  "titulo": "O Experimento Arco-íris",
+  "ano": null,
+  "descricao": "Um acidente causado por um experimento de química deixa um aluno gravemente ferido. Enquanto luta pela vida, o fantasma da vítima percorre os corredores da escola, apresentando diferentes perspectivas sobre o que realmente aconteceu.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/696BYAsnS49P8RFeCfqWJd9IjC0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7vTrjQnY3sAiV8IHCIcffpHyyHS.jpg",
+  "tmdbId": 488548,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785895,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775411,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "The Rainbow Experiment",
+  "dataLancamento": "2018-01-20"
+}

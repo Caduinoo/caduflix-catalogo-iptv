@@ -1,0 +1,39 @@
+{
+  "id": "gone",
+  "tipo": "serie",
+  "titulo": "Desaparecidos",
+  "ano": null,
+  "descricao": "A sobrevivente de um caso de sequestro de crianças altamente divulgado se une a um agente do FBI responsável por seu resgate para resolver pessoas desaparecidas e casos de sequestro.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oN3HhdwOVtA38RlaMPVy4btLDtF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ul8Y9F7NGeImg9avbiFM9U8pfMA.jpg",
+  "tmdbId": 76284,
+  "nota": 7.162,
+  "xtreamSeriesId": 6021,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10978661",
+          "tipo": "episodio",
+          "titulo": "Gone S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10978661",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oN3HhdwOVtA38RlaMPVy4btLDtF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "Gone",
+  "dataLancamento": "2018-01-23"
+}

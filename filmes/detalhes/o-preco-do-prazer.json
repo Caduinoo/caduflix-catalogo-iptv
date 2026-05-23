@@ -1,0 +1,34 @@
+{
+  "id": "o-preco-do-prazer",
+  "tipo": "filme",
+  "titulo": "O Preço do Prazer",
+  "ano": null,
+  "descricao": "Qual o seu preço? Uma jovem bela e ambiciosa sonha com uma vida de luxo e se torna uma acompanhante VIP no mundo árabe. Mas logo esse mundo inacessível revelará seu lado mais sombrio e perigoso.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uvnvE2lwwcFH4Smc4ilz194EdoD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9eA8jtC0efg3BGnUmhEthETbVFp.jpg",
+  "tmdbId": 881764,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788394,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779932,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Dziewczyny z Dubaju",
+  "dataLancamento": "2021-11-26"
+}

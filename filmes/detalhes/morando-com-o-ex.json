@@ -1,0 +1,34 @@
+{
+  "id": "morando-com-o-ex",
+  "tipo": "filme",
+  "titulo": "Morando Com o Ex",
+  "ano": null,
+  "descricao": "Nick e Leah são um casal de namorados prestes a terminarem o relacionamento, mas o início da pandemia os obriga a continuarem morando juntos. Eles agora vão tentar seguir em frente, mas sem poder sair de casa.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9rKQrU9vNnYUaQPXHGjAFjespVV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vqTg79vHiGRv8q5O3eKdR2KSGp1.jpg",
+  "tmdbId": 807927,
+  "nota": 6.286,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787461,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773202,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The End of Us",
+  "dataLancamento": "2021-12-03"
+}

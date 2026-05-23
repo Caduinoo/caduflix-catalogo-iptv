@@ -1,0 +1,26 @@
+{
+  "id": "one-day-at-disney",
+  "tipo": "filme",
+  "titulo": "Um Dia na Disney",
+  "ano": null,
+  "descricao": "Descubra as histórias pessoais inspiradoras das pessoas por trás da magia duradoura da Disney.",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2It1Fw5IF9jQOTdrhx0Em1eKGJY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/A8NQOYBIueFqy41bUud3I6FWLz2.jpg",
+  "tmdbId": 655571,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788682,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "One Day at Disney",
+  "dataLancamento": "2019-12-03"
+}

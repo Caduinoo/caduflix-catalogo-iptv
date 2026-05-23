@@ -1,0 +1,34 @@
+{
+  "id": "modo-aviao",
+  "tipo": "filme",
+  "titulo": "Modo Avião",
+  "ano": null,
+  "descricao": "Uma jovem influenciadora digital bate o Mustang de colecionador do avô ao tirar uma selfie e é enviada para a fazenda dele para tentar consertar o carro, mas com um detalhe crucial: ela não pode usar o celular…",
+  "generos": [
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hDZBhyl83F07syVhQ0q21NBZSCC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rNRjYQSorwbzPrlQrfwd1PCwclT.jpg",
+  "tmdbId": 652483,
+  "nota": 6.23,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773195,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782609,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Modo Avião",
+  "dataLancamento": "2020-01-23"
+}

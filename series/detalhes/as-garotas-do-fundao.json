@@ -1,0 +1,99 @@
+{
+  "id": "as-garotas-do-fundao",
+  "tipo": "serie",
+  "titulo": "As Garotas do Fundão",
+  "ano": null,
+  "descricao": "Amigas desde os tempos de escola, cinco mulheres viajam juntas todos os anos. Mas, desta vez, uma delas acaba de receber um diagnóstico difícil.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z3izFIJH6PgTa21fonBhK35HgFU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9sM4r9bciR6f6rO5jmmiAVJkK7t.jpg",
+  "tmdbId": 207704,
+  "nota": 7.6,
+  "xtreamSeriesId": 4101,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901481",
+          "tipo": "episodio",
+          "titulo": "As Garotas do Fundão S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901481",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3izFIJH6PgTa21fonBhK35HgFU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901482",
+          "tipo": "episodio",
+          "titulo": "As Garotas do Fundão S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901482",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3izFIJH6PgTa21fonBhK35HgFU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901483",
+          "tipo": "episodio",
+          "titulo": "As Garotas do Fundão S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901483",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3izFIJH6PgTa21fonBhK35HgFU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901484",
+          "tipo": "episodio",
+          "titulo": "As Garotas do Fundão S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10901484",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3izFIJH6PgTa21fonBhK35HgFU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901485",
+          "tipo": "episodio",
+          "titulo": "As Garotas do Fundão S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10901485",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3izFIJH6PgTa21fonBhK35HgFU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901486",
+          "tipo": "episodio",
+          "titulo": "As Garotas do Fundão S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10901486",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z3izFIJH6PgTa21fonBhK35HgFU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Las de la última fila",
+  "dataLancamento": "2022-09-23"
+}

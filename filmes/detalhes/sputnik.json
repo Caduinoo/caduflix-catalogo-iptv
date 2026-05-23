@@ -1,0 +1,26 @@
+{
+  "id": "sputnik",
+  "tipo": "filme",
+  "titulo": "Sputnik",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hgt69PQ30L3IcafnBMXtNnHSRVy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/o7RsEvncfaF0z88TkkIoEIxwm3Z.jpg",
+  "tmdbId": 259358,
+  "nota": 6.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789901,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Sputnik",
+  "dataLancamento": "2013-10-24"
+}

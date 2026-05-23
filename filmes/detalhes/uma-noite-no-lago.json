@@ -1,0 +1,34 @@
+{
+  "id": "uma-noite-no-lago",
+  "tipo": "filme",
+  "titulo": "Uma Noite no Lago",
+  "ano": null,
+  "descricao": "Faye é uma viajante solitária que passa seu tempo pescando e observando estrelas em um acampamento na zona rural do Colorado enquanto espera por Lito, um personagem do passado que está vivendo sua própria aventura nômade pelo oeste selvagem.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pSFvdBN4LeGkCAxMEuwIadIJsaz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/j7ynqTmnEZuqNXc0WqKvL7YNOSp.jpg",
+  "tmdbId": 913851,
+  "nota": 6.667,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790820,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779466,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "A Love Song",
+  "dataLancamento": "2022-07-29"
+}

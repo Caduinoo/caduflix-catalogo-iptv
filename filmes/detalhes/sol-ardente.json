@@ -1,0 +1,34 @@
+{
+  "id": "sol-ardente",
+  "tipo": "filme",
+  "titulo": "Sol Ardente",
+  "ano": null,
+  "descricao": "Um resort à beira-mar é assolado por uma onda de calor escaldante. Não há água suficiente e a tensão aumenta. Durante a ausência de uma família abastada, um jovem é designado para proteger a sua mansão de possíveis saqueadores.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dsbZthMU8Fxn2hkI4cAoB0vZco3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6HouHhflWhOd3O5liLFjHD25ipC.jpg",
+  "tmdbId": 336226,
+  "nota": 4.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789839,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780075,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Blind Sun",
+  "dataLancamento": "2016-04-20"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "mars-express",
+  "tipo": "filme",
+  "titulo": "Mars Express",
+  "ano": null,
+  "descricao": "Uma detetive particular obstinada e um androide, réplica de seu parceiro morto, encaram uma perigosa missão em Marte. Seu objetivo? Encontrar uma jovem hacker, detentora de um segredo obscuro sobre os robôs, antes que seus perseguidores a capturem.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/JEPbbxkFtRASU1WzeQGRvKqjuO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yIOw17XdfsoCaydtrkzlZBCcHk6.jpg",
+  "tmdbId": 586810,
+  "nota": 7.461,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787159,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771431,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782555,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Mars Express",
+  "dataLancamento": "2023-11-22"
+}

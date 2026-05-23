@@ -1,0 +1,34 @@
+{
+  "id": "jogo-de-assassinato",
+  "tipo": "filme",
+  "titulo": "Jogo de Assassinato",
+  "ano": null,
+  "descricao": "Um conto moderno e de humor negro de ganância, romance e inocência perdida em uma sociedade alienada e enlouquecida pelo consumidor que funciona como uma crítica dura da sociedade hoje sem se levar muito a sério.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zHBnfCzPJq4cQtXzsIxMGeRz3od.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3EO8O7t9BI1PiKSGpN1RzEmQdhJ.jpg",
+  "tmdbId": 812666,
+  "nota": 3.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786702,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779787,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "This Game's Called Murder",
+  "dataLancamento": "2021-12-03"
+}

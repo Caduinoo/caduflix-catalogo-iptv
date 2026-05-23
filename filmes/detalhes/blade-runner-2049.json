@@ -1,0 +1,32 @@
+{
+  "id": "blade-runner-2049",
+  "tipo": "filme",
+  "titulo": "Blade Runner",
+  "ano": 2049,
+  "descricao": "",
+  "generos": [
+    "4K",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
+  "banner": null,
+  "tmdbId": null,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782143,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050297,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1779191942
+}

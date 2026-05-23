@@ -1,0 +1,51 @@
+{
+  "id": "os-homens-que-venderam-a-copa-do-mundo",
+  "tipo": "serie",
+  "titulo": "Os Homens que Venderam a Copa do Mundo",
+  "ano": null,
+  "descricao": "A concessão da Copa do Mundo a um país está infestada de suborno, corrupção, política global, acordos de bastidores e ganância. Tudo veio à tona quando a Copa do Mundo de 2022 foi concedida ao Catar.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iWvPpwaXNdXwTfq9PruTrl3eY9h.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sVqc7abJJg8cGnCg8i12uMYpETM.jpg",
+  "tmdbId": 136855,
+  "nota": 5.4,
+  "xtreamSeriesId": 3753,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10894272",
+          "tipo": "episodio",
+          "titulo": "Os Homens que Venderam a Copa do Mundo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10894272",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iWvPpwaXNdXwTfq9PruTrl3eY9h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894273",
+          "tipo": "episodio",
+          "titulo": "Os Homens que Venderam a Copa do Mundo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10894273",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iWvPpwaXNdXwTfq9PruTrl3eY9h.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "The Men Who Sold The World Cup",
+  "dataLancamento": "2021-10-21"
+}

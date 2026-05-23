@@ -1,0 +1,34 @@
+{
+  "id": "natal-em-londres",
+  "tipo": "filme",
+  "titulo": "Natal em Londres",
+  "ano": null,
+  "descricao": "David encara uma jornada pela cidade de Londres em busca do presente de Natal perfeito. Ele contrata Anji para ajudá-lo, mas inesperadamente encontra algo ainda mais valioso.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3EVgNgf4tpBq8Fg3oyRmjTL1ny7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iG58Wk7WHnaFvSAgkeBMrPyPTPz.jpg",
+  "tmdbId": 974213,
+  "nota": 6.612,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787627,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778706,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Jolly Good Christmas",
+  "dataLancamento": "2022-10-29"
+}

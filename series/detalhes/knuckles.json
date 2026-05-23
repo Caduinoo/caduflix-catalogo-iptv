@@ -1,0 +1,99 @@
+{
+  "id": "knuckles",
+  "tipo": "serie",
+  "titulo": "Knuckles",
+  "ano": null,
+  "descricao": "Knuckles embarca em uma jornada hilária e cheia de ação de autodescoberta ao concordar em treinar Wade como seu protegido e ensiná-lo os caminhos do guerreiro equidna.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qpcy8hs1ksd5QT85fAC4Le4v6zk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aMpNvgWjPimLldhKgwtCt5NjLen.jpg",
+  "tmdbId": 158300,
+  "nota": 7.298,
+  "xtreamSeriesId": 6565,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10997011",
+          "tipo": "episodio",
+          "titulo": "Knuckles S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10997011",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpcy8hs1ksd5QT85fAC4Le4v6zk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10997012",
+          "tipo": "episodio",
+          "titulo": "Knuckles S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10997012",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpcy8hs1ksd5QT85fAC4Le4v6zk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10997013",
+          "tipo": "episodio",
+          "titulo": "Knuckles S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10997013",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpcy8hs1ksd5QT85fAC4Le4v6zk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10997014",
+          "tipo": "episodio",
+          "titulo": "Knuckles S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10997014",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpcy8hs1ksd5QT85fAC4Le4v6zk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10997015",
+          "tipo": "episodio",
+          "titulo": "Knuckles S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10997015",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpcy8hs1ksd5QT85fAC4Le4v6zk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10997016",
+          "tipo": "episodio",
+          "titulo": "Knuckles S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10997016",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qpcy8hs1ksd5QT85fAC4Le4v6zk.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Knuckles",
+  "dataLancamento": "2024-04-26"
+}

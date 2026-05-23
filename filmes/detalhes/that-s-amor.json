@@ -1,0 +1,34 @@
+{
+  "id": "that-s-amor",
+  "tipo": "filme",
+  "titulo": "That's Amor",
+  "ano": null,
+  "descricao": "Após ficar desempregada e solteira no mesmo dia, Sofia começa do zero e conhece um chef espanhol encantador que pode ser o ingrediente que faltava.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iyYibVfi8q0zwsX1evl7mxTZJp1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eW5UazRUpGL2lv0GNG17Cpd37li.jpg",
+  "tmdbId": 1005835,
+  "nota": 5.116,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790097,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779409,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "That's Amor",
+  "dataLancamento": "2022-08-25"
+}

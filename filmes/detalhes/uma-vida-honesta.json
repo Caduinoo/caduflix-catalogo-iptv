@@ -1,0 +1,34 @@
+{
+  "id": "uma-vida-honesta",
+  "tipo": "filme",
+  "titulo": "Uma Vida Honesta",
+  "ano": null,
+  "descricao": "Um estudante de Direito em busca de inspiração entra em uma gangue de anarquistas e se envolve numa rede criminosa, mas passa a ser usado por eles.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iiKy4p6Mcd0Qs3WD3VrR3INOWHr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9anJSe71q4nwUI1GcbM1LCxMAAd.jpg",
+  "tmdbId": 1187436,
+  "nota": 5.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790866,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777064,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Ett ärligt liv",
+  "dataLancamento": "2025-07-30"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "uma-viagem-para-grecia",
+  "tipo": "filme",
+  "titulo": "Uma Viagem para Grécia",
+  "ano": null,
+  "descricao": "Dois amigos comediantes embarcam para Grécia seguindo os passos de Odisseu. Aproveitando as paisagens e delicias do mediterrâneo, a dupla diverte com seu humor diabolicamente ácido.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nF9NdEf3e3mFAjBD3dHCbbdCIA7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4melAXMgacNtfRhmH3K5XRSpq1u.jpg",
+  "tmdbId": 611179,
+  "nota": 6.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790863,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774140,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "The Trip to Greece",
+  "dataLancamento": "2020-07-02"
+}

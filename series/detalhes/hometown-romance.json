@@ -1,0 +1,39 @@
+{
+  "id": "hometown-romance",
+  "tipo": "serie",
+  "titulo": "คุณแฟนบ้านนอก",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8LVRD8PUsUb4CJ561hOEy0xCRKg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sVY7OOR0JU3jd22cEjfItIGMiJG.jpg",
+  "tmdbId": 312583,
+  "nota": 6,
+  "xtreamSeriesId": 7233,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11034322",
+          "tipo": "episodio",
+          "titulo": "Hometown Romance (2026) [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11034322",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8LVRD8PUsUb4CJ561hOEy0xCRKg.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "คุณแฟนบ้านนอก",
+  "dataLancamento": "2026-04-03"
+}

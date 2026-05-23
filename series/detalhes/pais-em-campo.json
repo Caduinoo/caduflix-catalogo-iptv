@@ -1,0 +1,99 @@
+{
+  "id": "pais-em-campo",
+  "tipo": "serie",
+  "titulo": "Pais em Campo",
+  "ano": null,
+  "descricao": "Sem vergonha nenhuma de se meter nas carreiras de futebol amador dos filhos, estes pais e mães têm uma ideia bem estranha de espírito de equipe.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pmGteaQ3EjEHW8cdShQm3VHpPL2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f7RaZEBSJQRx5ijJMQlCShNkRrA.jpg",
+  "tmdbId": 261009,
+  "nota": 5.8,
+  "xtreamSeriesId": 5064,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10919522",
+          "tipo": "episodio",
+          "titulo": "Pais em Campo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10919522",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmGteaQ3EjEHW8cdShQm3VHpPL2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919523",
+          "tipo": "episodio",
+          "titulo": "Pais em Campo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10919523",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmGteaQ3EjEHW8cdShQm3VHpPL2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919524",
+          "tipo": "episodio",
+          "titulo": "Pais em Campo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10919524",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmGteaQ3EjEHW8cdShQm3VHpPL2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919525",
+          "tipo": "episodio",
+          "titulo": "Pais em Campo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10919525",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmGteaQ3EjEHW8cdShQm3VHpPL2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919526",
+          "tipo": "episodio",
+          "titulo": "Pais em Campo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10919526",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmGteaQ3EjEHW8cdShQm3VHpPL2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919527",
+          "tipo": "episodio",
+          "titulo": "Pais em Campo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10919527",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmGteaQ3EjEHW8cdShQm3VHpPL2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Voetbalouders",
+  "dataLancamento": "2025-05-16"
+}

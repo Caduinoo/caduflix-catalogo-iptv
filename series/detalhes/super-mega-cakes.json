@@ -1,0 +1,99 @@
+{
+  "id": "super-mega-cakes",
+  "tipo": "serie",
+  "titulo": "Superbolos - A Competição",
+  "ano": null,
+  "descricao": "O mestre confeiteiro Duff Goldman enfrenta seis equipes dos melhores confeiteiros do mundo — todos ao mesmo tempo, ao longo de quatro dias cheios de ação. A equipe vencedora de cada batalha ganha US$ 10.000 e uma chance de ganhar o grande prêmio, mais US$ 40.000.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9z4xl2OxiijNNC5Jp9kEO3uoElR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jl3AB12iZ61wJT0XYZjWCtDWycq.jpg",
+  "tmdbId": 294034,
+  "nota": 8.5,
+  "xtreamSeriesId": 659,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10807832",
+          "tipo": "episodio",
+          "titulo": "Super Mega Cakes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10807832",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9z4xl2OxiijNNC5Jp9kEO3uoElR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807833",
+          "tipo": "episodio",
+          "titulo": "Super Mega Cakes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10807833",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9z4xl2OxiijNNC5Jp9kEO3uoElR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807834",
+          "tipo": "episodio",
+          "titulo": "Super Mega Cakes S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10807834",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9z4xl2OxiijNNC5Jp9kEO3uoElR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807835",
+          "tipo": "episodio",
+          "titulo": "Super Mega Cakes S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10807835",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9z4xl2OxiijNNC5Jp9kEO3uoElR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807836",
+          "tipo": "episodio",
+          "titulo": "Super Mega Cakes S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10807836",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9z4xl2OxiijNNC5Jp9kEO3uoElR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807837",
+          "tipo": "episodio",
+          "titulo": "Super Mega Cakes S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10807837",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9z4xl2OxiijNNC5Jp9kEO3uoElR.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Super Mega Cakes",
+  "dataLancamento": "2025-06-16"
+}

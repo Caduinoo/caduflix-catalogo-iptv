@@ -1,0 +1,99 @@
+{
+  "id": "quilos-mortais-mexico",
+  "tipo": "serie",
+  "titulo": "Quilos Mortais México",
+  "ano": null,
+  "descricao": "A luta de indivíduos com obesidade extrema que devem ser submetidos a uma cirurgia para salvar suas vidas.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uTipSJ8Yu520LJ0swXUw38KN5Uk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9BIrZrkPdnfQtgHA1l1LmvXSygD.jpg",
+  "tmdbId": 255590,
+  "nota": null,
+  "xtreamSeriesId": 571,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10805492",
+          "tipo": "episodio",
+          "titulo": "Quilos Mortais Mexico S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10805492",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yZRcAk2RvR3f6rCq1N9rbWxjxYq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805493",
+          "tipo": "episodio",
+          "titulo": "Quilos Mortais Mexico S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10805493",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yZRcAk2RvR3f6rCq1N9rbWxjxYq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805494",
+          "tipo": "episodio",
+          "titulo": "Quilos Mortais Mexico S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10805494",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yZRcAk2RvR3f6rCq1N9rbWxjxYq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805495",
+          "tipo": "episodio",
+          "titulo": "Quilos Mortais Mexico S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10805495",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yZRcAk2RvR3f6rCq1N9rbWxjxYq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805496",
+          "tipo": "episodio",
+          "titulo": "Quilos Mortais Mexico S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10805496",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yZRcAk2RvR3f6rCq1N9rbWxjxYq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805497",
+          "tipo": "episodio",
+          "titulo": "Quilos Mortais Mexico S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10805497",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yZRcAk2RvR3f6rCq1N9rbWxjxYq.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "My 600-lb Life Mexico",
+  "dataLancamento": "2024-05-27"
+}

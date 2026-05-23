@@ -1,0 +1,34 @@
+{
+  "id": "uma-quedinha-de-natal",
+  "tipo": "filme",
+  "titulo": "Uma Quedinha de Natal",
+  "ano": null,
+  "descricao": "Depois de perder a memória em um acidente de esqui, uma herdeira mimada acaba sob os cuidados de um desafortunado viúvo e sua filha durante as festas de fim de ano.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/p9wwj23RF3Nqjj0EzxsDx0s2aV7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iVtpnbPE91vmi3LmcOXycEblwPA.jpg",
+  "tmdbId": 833097,
+  "nota": 6.219,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790842,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778825,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Falling for Christmas",
+  "dataLancamento": "2022-11-10"
+}

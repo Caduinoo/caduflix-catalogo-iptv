@@ -1,0 +1,99 @@
+{
+  "id": "nightsleeper",
+  "tipo": "serie",
+  "titulo": "Nightsleeper",
+  "ano": null,
+  "descricao": "Localizada em um trem que vai de Glasgow para Londres, uma agência governamental intervém em eventos recorrentes a bordo. Dois desconhecidos trabalham juntos para salvar passageiros enquanto o trem avança em direção ao desastre.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5mKnTUZQ74nLvj1D8Ms2F42V8q2.jpg",
+  "tmdbId": 225221,
+  "nota": 6.721,
+  "xtreamSeriesId": 469,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10802416",
+          "tipo": "episodio",
+          "titulo": "Nightsleeper S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10802416",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802417",
+          "tipo": "episodio",
+          "titulo": "Nightsleeper S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10802417",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802418",
+          "tipo": "episodio",
+          "titulo": "Nightsleeper S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10802418",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802419",
+          "tipo": "episodio",
+          "titulo": "Nightsleeper S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10802419",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802420",
+          "tipo": "episodio",
+          "titulo": "Nightsleeper S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10802420",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802421",
+          "tipo": "episodio",
+          "titulo": "Nightsleeper S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10802421",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Nightsleeper",
+  "dataLancamento": "2024-09-15"
+}

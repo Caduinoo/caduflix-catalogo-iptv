@@ -1,0 +1,63 @@
+{
+  "id": "um-novo-corpo-uma-nova-vida",
+  "tipo": "serie",
+  "titulo": "Um Novo Corpo, Uma Nova Vida",
+  "ano": null,
+  "descricao": "A anaplastologista Allison Vest cria próteses incríveis e de aparência natural para pessoas que perderam membros ou têm deformidades. Atendendo casos extremos e peculiares, Allison funde medicina e talento artístico para ajudar seus pacientes.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7jZioIW9WgJ5r2rsyS398UYUCtk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2q1bpeKCioHNLUteqooTXR5c30d.jpg",
+  "tmdbId": 196238,
+  "nota": 6.3,
+  "xtreamSeriesId": 733,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10809975",
+          "tipo": "episodio",
+          "titulo": "Um Novo Corpo Uma Nova Vida S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10809975",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7jZioIW9WgJ5r2rsyS398UYUCtk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10809976",
+          "tipo": "episodio",
+          "titulo": "Um Novo Corpo Uma Nova Vida S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10809976",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7jZioIW9WgJ5r2rsyS398UYUCtk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10809977",
+          "tipo": "episodio",
+          "titulo": "Um Novo Corpo Uma Nova Vida S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10809977",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7jZioIW9WgJ5r2rsyS398UYUCtk.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Body Parts",
+  "dataLancamento": "2022-04-06"
+}

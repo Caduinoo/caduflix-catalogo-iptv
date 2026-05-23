@@ -1,0 +1,42 @@
+{
+  "id": "clouds",
+  "tipo": "filme",
+  "titulo": "Clouds",
+  "ano": null,
+  "descricao": "O jovem músico Zach Sobiech descobre que tem apenas alguns meses de vida devido a um câncer terminal. Com pouco tempo, corre atrás de seu sonho e grava um álbum, sem saber que logo será um fenômeno da Internet. Assim, a música dá um novo significado à vida de Zach e o ajuda a encontrar a maneira perfeita de se despedir... com uma música que será ouvida no mundo todo.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/euWiWsHhPeSGFsIO5ArzCkGeskG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/L7DIiAdP8DnNqOh7454ZrTYspR.jpg",
+  "tmdbId": 630566,
+  "nota": 8.241,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784965,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769499,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782204,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Clouds",
+  "dataLancamento": "2020-10-09"
+}

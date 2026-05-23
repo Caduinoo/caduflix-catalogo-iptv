@@ -1,0 +1,42 @@
+{
+  "id": "dupla-perigosa",
+  "tipo": "filme",
+  "titulo": "Dupla Perigosa",
+  "ano": null,
+  "descricao": "Dois meios-irmãos que não se falavam há muito, Jonny e James, se reencontram após a morte misteriosa do pai deles. Ao buscarem a verdade, desvendam segredos de uma conspiração que pode destruir a família.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+  "tmdbId": 1168190,
+  "nota": 6.943,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785620,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781853,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782305,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "The Wrecking Crew",
+  "dataLancamento": "2026-01-28"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "o-quiosque",
+  "tipo": "filme",
+  "titulo": "O Quiosque",
+  "ano": null,
+  "descricao": "Nebraska City, ano de 1991, dois melhores amigos têm a chance de correr sempre perto da barraca de lanches perto da piscina, que mais tarde vai se tornar o cenário perfeito para transgressão, diversão, descoberta pessoal e romance.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eZExVc4fuAFSdh2VsHI1pN4Izqp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/UxPjfVl50OGlJ6Ww8DXEDFzx7g.jpg",
+  "tmdbId": 1037113,
+  "nota": 7.146,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788422,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773463,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782756,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Snack Shack",
+  "dataLancamento": "2024-03-15"
+}

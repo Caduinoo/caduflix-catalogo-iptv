@@ -1,0 +1,34 @@
+{
+  "id": "caranguejo-negro",
+  "tipo": "filme",
+  "titulo": "Caranguejo Negro",
+  "ano": null,
+  "descricao": "Para acabar com uma guerra apocalíptica e salvar a filha, uma militar embarca em uma missão desesperada: atravessar o mar congelado levando uma carga ultrassecreta.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sw644BbNIxSGRqjwAC50uskDBHg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dls6cXimFZwM5Ts3Ft7Ox5C7jfY.jpg",
+  "tmdbId": 760868,
+  "nota": 6.209,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784813,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769448,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Svart krabba",
+  "dataLancamento": "2022-03-18"
+}

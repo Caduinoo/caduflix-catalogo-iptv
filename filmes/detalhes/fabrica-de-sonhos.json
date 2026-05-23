@@ -1,0 +1,34 @@
+{
+  "id": "fabrica-de-sonhos",
+  "tipo": "filme",
+  "titulo": "A Fábrica de Sonhos",
+  "ano": null,
+  "descricao": "Uma jovem do interior ganha um concurso para acompanhar um dia de gravação de uma novela. Ao entrar nos bastidores, ela se depara com o mundo mágico da televisão e acaba vivendo experiências que podem mudar seu destino.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aVGLabhepdMrJbpeJvz5nFfvTkg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/u9yQGODAPwEkFPyhE4qKDoQu8QR.jpg",
+  "tmdbId": 1423491,
+  "nota": 8.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786141,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772819,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "A Fábrica de Sonhos",
+  "dataLancamento": "2025-04-25"
+}

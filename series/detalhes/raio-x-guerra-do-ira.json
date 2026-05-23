@@ -1,0 +1,51 @@
+{
+  "id": "raio-x-guerra-do-ira",
+  "tipo": "serie",
+  "titulo": "Raio-X: Guerra do Irã",
+  "ano": null,
+  "descricao": "A guerra no Irã está no noticiário todo dia, mas o que levou até ela? O Raio-X: Guerra do Irã reconstrói 2.500 anos de história para responder essa pergunta.",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eqJNAIKCfUurDMSb9ku3vwjam1y.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jAIMcX5ISFQWB5UsJIVugRbX8HC.jpg",
+  "tmdbId": 318215,
+  "nota": 8,
+  "xtreamSeriesId": 7209,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11033743",
+          "tipo": "episodio",
+          "titulo": "Raio X Guerra do Ira S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11033743",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eqJNAIKCfUurDMSb9ku3vwjam1y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11033744",
+          "tipo": "episodio",
+          "titulo": "Raio X Guerra do Ira S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11033744",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eqJNAIKCfUurDMSb9ku3vwjam1y.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Raio-X: Guerra do Irã",
+  "dataLancamento": "2026-03-10"
+}

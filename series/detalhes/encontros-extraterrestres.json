@@ -1,0 +1,75 @@
+{
+  "id": "encontros-extraterrestres",
+  "tipo": "serie",
+  "titulo": "Encontros Extraterrestres",
+  "ano": null,
+  "descricao": "Esta série documental investiga misteriosas aparições de OVNIs nos últimos 50 anos, com testemunhos, entrevistas com especialistas e novas evidências.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nZB7xjP3njvAQg1FbzzXUsRUAod.jpg",
+  "tmdbId": 232811,
+  "nota": 7,
+  "xtreamSeriesId": 4450,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907181",
+          "tipo": "episodio",
+          "titulo": "Encontros Extraterrestres S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907181",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907182",
+          "tipo": "episodio",
+          "titulo": "Encontros Extraterrestres S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907182",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907183",
+          "tipo": "episodio",
+          "titulo": "Encontros Extraterrestres S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907183",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907184",
+          "tipo": "episodio",
+          "titulo": "Encontros Extraterrestres S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907184",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Encounters",
+  "dataLancamento": "2023-09-27"
+}

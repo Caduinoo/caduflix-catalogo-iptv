@@ -1,0 +1,34 @@
+{
+  "id": "moving-on",
+  "tipo": "filme",
+  "titulo": "Seguindo em Frente",
+  "ano": null,
+  "descricao": "Duas amigas de longa data se reencontram em um funeral e decidem se vingar do viúvo que as prejudicou décadas antes.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9jJtoqsYXQgkPDpC41Fo36Sjahi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1PnifX2JyvzmrUO5CCd0GXHjkyw.jpg",
+  "tmdbId": 953365,
+  "nota": 5.818,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787497,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773209,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Moving On",
+  "dataLancamento": "2023-03-17"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a-tripulacao",
+  "tipo": "filme",
+  "titulo": "A Tripulação",
+  "ano": null,
+  "descricao": "Três aeromoças comuns de Mumbai embarcam em uma jornada em busca de seus sonhos, mas se vêem envolvidas em infortúnios inesperados.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yjcIAhigmejC5Idl0854uXD8Mki.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fAMUZbFs9tDqOCzqaa7tTEoqQwG.jpg",
+  "tmdbId": 1045931,
+  "nota": 6.692,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783819,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772163,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781998,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Crew",
+  "dataLancamento": "2024-03-29"
+}

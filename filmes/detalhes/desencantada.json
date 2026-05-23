@@ -1,0 +1,34 @@
+{
+  "id": "desencantada",
+  "tipo": "filme",
+  "titulo": "Desencantada",
+  "ano": null,
+  "descricao": "Quinze anos se passaram desde que Giselle e Robert se casaram, mas Giselle está desiludida com a vida na cidade. Frustrada por não encontrar seu final \"felizes para sempre\", ela recorre à magia de Andalásia e transforma, sem querer, toda a cidade num verdadeiro conto de fadas, colocando a felicidade de sua família em risco. Agora Giselle corre contra o tempo para desfazer o feitiço e descobrir o que realmente significa ter um final feliz, para ela e sua família.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mchDEPh1fkID8nq8IONAGQeiPJg.jpg",
+  "tmdbId": 338958,
+  "nota": 6.681,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785416,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772582,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Disenchanted",
+  "dataLancamento": "2022-11-18"
+}

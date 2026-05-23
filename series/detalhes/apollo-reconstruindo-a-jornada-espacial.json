@@ -1,0 +1,51 @@
+{
+  "id": "apollo-reconstruindo-a-jornada-espacial",
+  "tipo": "serie",
+  "titulo": "Apollo: Reconstruindo a Jornada Espacial",
+  "ano": null,
+  "descricao": "Este documentário narra a aventura épica detalhando a jornada dos homens (e ocasionalmente mulheres) que foram parte ou auxiliaram na missão Apollo.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xh6UPa6lVTmTA6d3mDyP4cw7qh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/e31v0f27FNtxfrGC7pzEnVTfiI9.jpg",
+  "tmdbId": 91850,
+  "nota": 6.857,
+  "xtreamSeriesId": 89,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10793630",
+          "tipo": "episodio",
+          "titulo": "Apollo Reconstruindo A Jornada Espacial S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10793630",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xh6UPa6lVTmTA6d3mDyP4cw7qh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793631",
+          "tipo": "episodio",
+          "titulo": "Apollo Reconstruindo A Jornada Espacial S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10793631",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xh6UPa6lVTmTA6d3mDyP4cw7qh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Apollo: Back to the Moon",
+  "dataLancamento": "2019-07-01"
+}

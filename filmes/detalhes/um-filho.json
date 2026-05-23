@@ -1,0 +1,34 @@
+{
+  "id": "um-filho",
+  "tipo": "filme",
+  "titulo": "Um Filho",
+  "ano": null,
+  "descricao": "A vida ocupada de Peter com sua nova parceira e seu bebê recém-nascido é agitada quando sua ex-esposa Kate surge com o filho adolescente dos dois: um jovem problemático, fechado e furioso, sendo expulso de escola em escola nos últimos meses.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/diSCVAovDgGGk5QJzmU0rPXoPRB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5iMLD2KE0JQcPchegqSpKstU4CT.jpg",
+  "tmdbId": 806368,
+  "nota": 6.74,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790600,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776957,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "The Son",
+  "dataLancamento": "2022-11-10"
+}

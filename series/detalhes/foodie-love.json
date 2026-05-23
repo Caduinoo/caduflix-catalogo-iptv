@@ -1,0 +1,123 @@
+{
+  "id": "foodie-love",
+  "tipo": "serie",
+  "titulo": "Foodie Love",
+  "ano": null,
+  "descricao": "A série acompanha a história de um casal que se conhece em um aplicativo de namoro que conecta foodies, amantes da boa gastronomia. Eles embarcam em uma jornada gastronômica e se aproximam entre um prato e outro. Mas, apesar da paixão que compartilham pela comida, o casal ainda carrega dúvidas e cicatrizes de relacionamentos anteriores, o que pode impedir que eles provem o amor verdadeiro.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8BuG8Pm6j7OuNibLkjlBAUr3lnA.jpg",
+  "tmdbId": 88365,
+  "nota": 6.757,
+  "xtreamSeriesId": 3544,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10888211",
+          "tipo": "episodio",
+          "titulo": "Foodie Love S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10888211",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888212",
+          "tipo": "episodio",
+          "titulo": "Foodie Love S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10888212",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888213",
+          "tipo": "episodio",
+          "titulo": "Foodie Love S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10888213",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888214",
+          "tipo": "episodio",
+          "titulo": "Foodie Love S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10888214",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888215",
+          "tipo": "episodio",
+          "titulo": "Foodie Love S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10888215",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888216",
+          "tipo": "episodio",
+          "titulo": "Foodie Love S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10888216",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888217",
+          "tipo": "episodio",
+          "titulo": "Foodie Love S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10888217",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888218",
+          "tipo": "episodio",
+          "titulo": "Foodie Love S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10888218",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eJkekj427HeYuUYPU90wRhbWB01.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Foodie Love",
+  "dataLancamento": "2019-12-04"
+}

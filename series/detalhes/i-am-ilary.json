@@ -1,0 +1,87 @@
+{
+  "id": "i-am-ilary",
+  "tipo": "serie",
+  "titulo": "Ilary",
+  "ano": null,
+  "descricao": "Esta série documental acompanha a apresentadora de TV Ilary Blasi em sua vida após o divórcio, equilibrando autodescoberta, oportunidades profissionais e um novo amor.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rdVB1EbRMoWpoBxgENWyMZpeZBe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sgQkJ87OwNqBIOXIhOgzZSoZQfL.jpg",
+  "tmdbId": 278701,
+  "nota": 6,
+  "xtreamSeriesId": 4626,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911004",
+          "tipo": "episodio",
+          "titulo": "I Am Ilary S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911004",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rdVB1EbRMoWpoBxgENWyMZpeZBe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911005",
+          "tipo": "episodio",
+          "titulo": "I Am Ilary S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911005",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rdVB1EbRMoWpoBxgENWyMZpeZBe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911006",
+          "tipo": "episodio",
+          "titulo": "I Am Ilary S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911006",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rdVB1EbRMoWpoBxgENWyMZpeZBe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911007",
+          "tipo": "episodio",
+          "titulo": "I Am Ilary S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10911007",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rdVB1EbRMoWpoBxgENWyMZpeZBe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911008",
+          "tipo": "episodio",
+          "titulo": "I Am Ilary S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10911008",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rdVB1EbRMoWpoBxgENWyMZpeZBe.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Ilary",
+  "dataLancamento": "2025-01-09"
+}

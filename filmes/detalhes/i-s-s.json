@@ -1,0 +1,34 @@
+{
+  "id": "i-s-s",
+  "tipo": "filme",
+  "titulo": "Estação Espacial Internacional",
+  "ano": null,
+  "descricao": "Num futuro próximo, as tensões crescem a bordo da Estação Espacial Internacional quando um conflito eclode na Terra. Revoltados, os astronautas americanos e russos recebem a ordem: assumir o controle da estação por qualquer meio possível.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/waPIGHZprxLNMehxZRd7nFb9o1B.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uNVm7P02IDiYsi9lul0aJ0lROBL.jpg",
+  "tmdbId": 790462,
+  "nota": 5.775,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786499,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777794,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "I.S.S.",
+  "dataLancamento": "2024-01-19"
+}

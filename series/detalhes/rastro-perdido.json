@@ -1,0 +1,39 @@
+{
+  "id": "rastro-perdido",
+  "tipo": "serie",
+  "titulo": "Rastro Perdido",
+  "ano": null,
+  "descricao": "Em 1898, Print Ritter (Duvall) e seu alienado sobrinho Tom Harte (Haden Church) se tornam, a contragosto, os guardiões de cinco garotas chinesas que foram violentadas e abandonadas. As tentativas de Ritter e Harte de cuidar das garotas se complica por causa da responsabilidade de entregar um rebanho de cavalos enquanto evitam que um grupo de rivais sequestrem as garotas.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8xAuh1KvxT9vHkJNwQIzyroMCqY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9PlnIwjzTPMsQQQtcvdovbVyJzU.jpg",
+  "tmdbId": 20056,
+  "nota": 6.9,
+  "xtreamSeriesId": 6287,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10987192",
+          "tipo": "episodio",
+          "titulo": "Rastro Perdido S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10987192",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8xAuh1KvxT9vHkJNwQIzyroMCqY.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "Broken Trail",
+  "dataLancamento": "2006-06-25"
+}

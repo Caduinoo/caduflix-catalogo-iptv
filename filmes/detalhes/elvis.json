@@ -1,0 +1,42 @@
+{
+  "id": "elvis",
+  "tipo": "filme",
+  "titulo": "Elvis",
+  "ano": null,
+  "descricao": "Desde sua ascensão ao estrelato, o ícone do rock Elvis Presley mantém um relacionamento complicado com seu enigmático empresário, Tom Parker, por mais de 20 anos.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xyS0NgcQ2pbGWcwvSSu3xKEBhoO.jpg",
+  "tmdbId": 614934,
+  "nota": 7.461,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785685,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775318,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782317,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Elvis",
+  "dataLancamento": "2022-06-22"
+}

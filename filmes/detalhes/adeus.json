@@ -1,0 +1,34 @@
+{
+  "id": "adeus",
+  "tipo": "filme",
+  "titulo": "Adeus, Minha Concubina",
+  "ano": null,
+  "descricao": "Em 1924, dois meninos se conhecem em uma escola de formação em ópera em Pequim. A amizade que surge entre eles durará quase 70 anos e resistirá a alguns dos momentos mais conturbados da história da China.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gsCvaK3jYniSCBJKxKu8Qwr3jf2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg",
+  "tmdbId": 10997,
+  "nota": 7.896,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783954,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769230,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "霸王别姬",
+  "dataLancamento": "1993-01-01"
+}

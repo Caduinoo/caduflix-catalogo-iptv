@@ -1,0 +1,34 @@
+{
+  "id": "infestacao",
+  "tipo": "filme",
+  "titulo": "Infestação",
+  "ano": null,
+  "descricao": "Moradores de um prédio de apartamentos francês em ruínas lutam contra um exército de aranhas mortais e que se reproduzem rapidamente.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/d9m0t6ffEwERhWfwKHKMojMtTsv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/k0ucFBBgSDTXYU8fVHXJyjAuIIe.jpg",
+  "tmdbId": 1063879,
+  "nota": 6.563,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786566,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780830,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Vermines",
+  "dataLancamento": "2023-12-27"
+}

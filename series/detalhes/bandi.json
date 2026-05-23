@@ -1,0 +1,123 @@
+{
+  "id": "bandi",
+  "tipo": "serie",
+  "titulo": "Bandi",
+  "ano": null,
+  "descricao": "Após a morte da mãe, um grupo de irmãos órfãos na Martinica luta para sobreviver, e alguns recorrem ao crime para evitar a separação da família.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zRPfRuLq1eCyEvlsKhl1k96lRw9.jpg",
+  "tmdbId": 269161,
+  "nota": 7.28,
+  "xtreamSeriesId": 7286,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11035480",
+          "tipo": "episodio",
+          "titulo": "Bandi S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11035480",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11035481",
+          "tipo": "episodio",
+          "titulo": "Bandi S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11035481",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11035482",
+          "tipo": "episodio",
+          "titulo": "Bandi S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11035482",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11035483",
+          "tipo": "episodio",
+          "titulo": "Bandi S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11035483",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11035484",
+          "tipo": "episodio",
+          "titulo": "Bandi S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11035484",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11035485",
+          "tipo": "episodio",
+          "titulo": "Bandi S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11035485",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11035486",
+          "tipo": "episodio",
+          "titulo": "Bandi S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11035486",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11035487",
+          "tipo": "episodio",
+          "titulo": "Bandi S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11035487",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Bandi",
+  "dataLancamento": "2026-04-09"
+}

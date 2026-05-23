@@ -1,0 +1,26 @@
+{
+  "id": "pepe",
+  "tipo": "filme",
+  "titulo": "Pepe",
+  "ano": null,
+  "descricao": "Pepe é um jovem que trabalha em uma fazenda mexicana e gosta de um cavalo. Um dia, seu patrão vende o animal a um ator famoso e Pepe viaja para Hollywood para estar perto de seu amigo. Lá, conhece muitas estrelas de cinema.",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/arRzNskTTaIoLTv9yNz5OUktodP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kBDQja5cwHYVba8MfJOAtdwNo7e.jpg",
+  "tmdbId": 82792,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788978,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Pepe",
+  "dataLancamento": "1960-12-21"
+}

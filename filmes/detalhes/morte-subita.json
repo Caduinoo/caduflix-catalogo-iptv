@@ -1,0 +1,33 @@
+{
+  "id": "morte-subita",
+  "tipo": "filme",
+  "titulo": "Morte Súbita",
+  "ano": null,
+  "descricao": "O inspetor de incêndios Darren McCord vai a um jogo de hóquei com seus dois filhos. No jogo, o vice-presidente dos EUA é vítima de terroristas comandados pelo ex-agente da CIA Joshua Foss, que idealizou um esquema para fazê-lo de refém e exigir dinheiro. Além disso, existem bombas escondidas no estádio prontas para serem detonadas no final do jogo. Darren descobre o plano e, usando suas habilidades marciais, precisa lidar com as bombas, com os terroristas, com o sequestro da filha e com o tempo.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vBu3ggozN5xJjUzrkYgAVoI7LLI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wPSHboBNEInknw4VnCWOD2D8qc2.jpg",
+  "tmdbId": 9091,
+  "nota": 6.03,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770132,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11036310,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1776685818,
+  "tituloOriginal": "Sudden Death",
+  "dataLancamento": "1995-10-27"
+}

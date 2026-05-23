@@ -1,0 +1,34 @@
+{
+  "id": "crypto-boy",
+  "tipo": "filme",
+  "titulo": "Crypto Boy",
+  "ano": null,
+  "descricao": "Após um conflito com o pai, um jovem se ilude com as promessas audaciosas de liberdade financeira feitas por um empresário do mundo das criptomoedas.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6QOukjAgAm9L1WNiOjqJzlg5luU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wn8Jgn9nzyaINM3oIsBlpt8UuHr.jpg",
+  "tmdbId": 1181538,
+  "nota": 6.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785194,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775173,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Crypto Boy",
+  "dataLancamento": "2023-10-19"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "o-consultor",
+  "tipo": "serie",
+  "titulo": "O Consultor",
+  "ano": null,
+  "descricao": "Após uma tragédia inimaginável na CompWare, um estúdio de jogos localizado no centro de Los Angeles, um misterioso consultor, Regus Patoff, chega à cidade e assume o comando.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aljOqXXt0TVCoOoaAS4SmmjmrGC.jpg",
+  "tmdbId": 139099,
+  "nota": 6.789,
+  "xtreamSeriesId": 471,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10802428",
+          "tipo": "episodio",
+          "titulo": "O Consultor S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10802428",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802429",
+          "tipo": "episodio",
+          "titulo": "O Consultor S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10802429",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802430",
+          "tipo": "episodio",
+          "titulo": "O Consultor S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10802430",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802431",
+          "tipo": "episodio",
+          "titulo": "O Consultor S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10802431",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802432",
+          "tipo": "episodio",
+          "titulo": "O Consultor S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10802432",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802433",
+          "tipo": "episodio",
+          "titulo": "O Consultor S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10802433",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802434",
+          "tipo": "episodio",
+          "titulo": "O Consultor S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10802434",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802435",
+          "tipo": "episodio",
+          "titulo": "O Consultor S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10802435",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7qnOKOsbor6mckK1jxBSbHCXu6Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The Consultant",
+  "dataLancamento": "2023-02-23"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-diario-de-noel",
+  "tipo": "filme",
+  "titulo": "O Diário de Noel",
+  "ano": null,
+  "descricao": "O autor best-seller Jacob volta pra sua antiga casa pra pegar sua herança e encontra um diário que pode guardar segredos seus e de Rachel, uma bela jovem misteriosa.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8v7nSSNmd5sfLj2MPshfBjJVtwn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kP5k4gA6yJiQCeN5FNcGwRtGDuq.jpg",
+  "tmdbId": 736918,
+  "nota": 6.297,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788030,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779272,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Noel Diary",
+  "dataLancamento": "2022-11-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-corte",
+  "tipo": "filme",
+  "titulo": "O Corte",
+  "ano": null,
+  "descricao": "Bruno Davert (José Garcia) é um executivo francês, que perde seu emprego. Dois anos depois ele continua desempregado, o que o leva ao desespero. Decidido a recuperar o antigo cargo, ele decide matar seu atual ocupante e todos os candidatos da empresa em que trabalhava com potencial para ocupá-lo.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pVQejupZ3aGNvPxZ4o6tdQVeyor.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8aMGsqLtJ9wfGkFRvGJSm4kUDGU.jpg",
+  "tmdbId": 34186,
+  "nota": 6.913,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033373,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033902,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1775158445,
+  "tituloOriginal": "Le Couperet",
+  "dataLancamento": "2005-03-02"
+}

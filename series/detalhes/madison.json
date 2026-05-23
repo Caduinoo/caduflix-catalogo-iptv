@@ -1,0 +1,99 @@
+{
+  "id": "madison",
+  "tipo": "serie",
+  "titulo": "Madison",
+  "ano": null,
+  "descricao": "Os Clyburn deixam suas vidas em Nova Iorque e vão até Montana numa busca por conexão humana. Depois que um evento inesperado destrói seu mundo, eles descobrem que às vezes se destruir é o único caminho para encontrar uma forma de continuar.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8Cjb0L0rOFjxhdiLaNcvtzwgqyk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
+  "tmdbId": 225891,
+  "nota": 8.097,
+  "xtreamSeriesId": 7172,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11022174",
+          "tipo": "episodio",
+          "titulo": "Madison S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11022174",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mylzk6FWDFATjcqCwGlDaTTLG2A.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11022175",
+          "tipo": "episodio",
+          "titulo": "Madison S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11022175",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mylzk6FWDFATjcqCwGlDaTTLG2A.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11022176",
+          "tipo": "episodio",
+          "titulo": "Madison S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11022176",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mylzk6FWDFATjcqCwGlDaTTLG2A.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11022634",
+          "tipo": "episodio",
+          "titulo": "Madison S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11022634",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mylzk6FWDFATjcqCwGlDaTTLG2A.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11022635",
+          "tipo": "episodio",
+          "titulo": "Madison S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11022635",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mylzk6FWDFATjcqCwGlDaTTLG2A.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11022636",
+          "tipo": "episodio",
+          "titulo": "Madison S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11022636",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mylzk6FWDFATjcqCwGlDaTTLG2A.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Madison",
+  "dataLancamento": "2026-03-14"
+}

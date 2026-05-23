@@ -1,0 +1,42 @@
+{
+  "id": "o-jogo-do-assassino",
+  "tipo": "filme",
+  "titulo": "O Jogo do Assassino",
+  "ano": null,
+  "descricao": "Um matador de elite é diagnosticado com uma doença terminal e terá que enfrentar um exército de outros assassinos para reconquistar o amor de sua vida antes que seja tarde demais.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zGLQmrmIB56kMZPnzqReIOBay1B.jpg",
+  "tmdbId": 507241,
+  "nota": 6.417,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788210,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770321,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782721,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Killer's Game",
+  "dataLancamento": "2024-09-12"
+}

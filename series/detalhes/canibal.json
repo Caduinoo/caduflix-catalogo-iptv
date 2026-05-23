@@ -1,0 +1,111 @@
+{
+  "id": "canibal",
+  "tipo": "serie",
+  "titulo": "Canibal",
+  "ano": null,
+  "descricao": "Depois de causar um certo incidente, o policial Daigo Agawa leva sua esposa e filha para morar na vila Kuge, um lugar remoto nas montanhas. Parece o lugar perfeito para a filha se recuperar de um trauma, apesar do misterioso desaparecimento do oficial que prestava serviço por lá. Um dia, o corpo de uma idosa é encontrado na montanha. A família Goto diz que ela foi atacada por um urso, mas Daigo percebe uma marca de mordida humana nela. Logo fica claro que nem tudo é o que parece nessa vila.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/s5g8IfNYI0IbMBrWmp2IiTxbWL7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oilobjVpXlSaDDj67raoNqdHrfB.jpg",
+  "tmdbId": 210213,
+  "nota": 7.66,
+  "xtreamSeriesId": 1723,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10837160",
+          "tipo": "episodio",
+          "titulo": "Canibal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10837160",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837161",
+          "tipo": "episodio",
+          "titulo": "Canibal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10837161",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837162",
+          "tipo": "episodio",
+          "titulo": "Canibal S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10837162",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837163",
+          "tipo": "episodio",
+          "titulo": "Canibal S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10837163",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837164",
+          "tipo": "episodio",
+          "titulo": "Canibal S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10837164",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837165",
+          "tipo": "episodio",
+          "titulo": "Canibal S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10837165",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837166",
+          "tipo": "episodio",
+          "titulo": "Canibal S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10837166",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "ガンニバル",
+  "dataLancamento": "2022-12-28"
+}

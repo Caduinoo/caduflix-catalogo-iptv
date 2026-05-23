@@ -1,0 +1,34 @@
+{
+  "id": "acertando-o-tom",
+  "tipo": "filme",
+  "titulo": "Acertando o Tom",
+  "ano": null,
+  "descricao": "Sam é uma jovem que sonha em viver de música, mas quando é forçada a se mudar e a entrar num coro gospel, ela precisa lidar com novos desafios, como ajudar seus companheiros a ganhar uma competição.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lnXediBDyUs4zsLRVO4btaclitD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/i3GJte6Bf5sbEEVTpQQytAg8ZBE.jpg",
+  "tmdbId": 551806,
+  "nota": 7.182,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783936,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772195,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Praise This",
+  "dataLancamento": "2023-04-07"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "hotel-costiera",
+  "tipo": "serie",
+  "titulo": "Hotel Costiera",
+  "ano": null,
+  "descricao": "Itália, Costa Amalfitana. Neste cenário de beleza, Daniel De Luca, um ex-fuzileiro com um passado misterioso, trabalha como solucionador de problemas no Hotel Villa Costiera. Mas, enquanto resolve os problemas dos clientes ricos do hotel, Daniel está também no encalço de Alice, uma rapariga desaparecida que se meteu em grandes sarilhos.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xmFV4Rc10kFTInBUsYVjyendz1s.jpg",
+  "tmdbId": 247662,
+  "nota": 7.069,
+  "xtreamSeriesId": 330,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10799452",
+          "tipo": "episodio",
+          "titulo": "Hotel Costiera S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10799452",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799453",
+          "tipo": "episodio",
+          "titulo": "Hotel Costiera S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10799453",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799454",
+          "tipo": "episodio",
+          "titulo": "Hotel Costiera S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10799454",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799455",
+          "tipo": "episodio",
+          "titulo": "Hotel Costiera S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10799455",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799456",
+          "tipo": "episodio",
+          "titulo": "Hotel Costiera S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10799456",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799457",
+          "tipo": "episodio",
+          "titulo": "Hotel Costiera S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10799457",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Hotel Costiera",
+  "dataLancamento": "2025-09-24"
+}

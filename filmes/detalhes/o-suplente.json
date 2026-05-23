@@ -1,0 +1,34 @@
+{
+  "id": "o-suplente",
+  "tipo": "filme",
+  "titulo": "O Suplente",
+  "ano": null,
+  "descricao": "O Suplente segue a história de Lucio (Juan Minujín), um professor de letras na prestigiada Universidade de Buenos Aires. A vida acadêmica, porém, não o motiva mais: ele quer levar seus conhecimentos onde possa fazer a diferença, para ensinar literatura em um bairro da periferia de uma área marginal dos subúrbios de Buenos Aires. Lúcio deve usar toda a sua engenhosidade para levar as aulas adiante e, ao mesmo tempo, ultrapassar todos os tipos de limites morais e preconceitos sociais para tentar salvar Dylan, seu aluno favorito, que é perseguido por uma quadrilha de traficantes em busca de vingança.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uOoPOjz93DbZzMAcm2g8xa1WxK6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kCHImXJGEzD3ACuiNSRHsfKg6T0.jpg",
+  "tmdbId": 886755,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788534,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776326,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "El suplente",
+  "dataLancamento": "2022-10-20"
+}

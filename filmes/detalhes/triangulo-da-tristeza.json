@@ -1,0 +1,42 @@
+{
+  "id": "triangulo-da-tristeza",
+  "tipo": "filme",
+  "titulo": "Triângulo da Tristeza",
+  "ano": null,
+  "descricao": "Um cruzeiro para os super-ricos afunda, deixando os sobreviventes, incluindo um casal de celebridades, presos em uma ilha.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg",
+  "tmdbId": 497828,
+  "nota": 7.012,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790450,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773968,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783037,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Triangle of Sadness",
+  "dataLancamento": "2022-09-18"
+}

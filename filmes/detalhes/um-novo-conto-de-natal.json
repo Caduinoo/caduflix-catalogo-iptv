@@ -1,0 +1,34 @@
+{
+  "id": "um-novo-conto-de-natal",
+  "tipo": "filme",
+  "titulo": "Um Novo Conto de Natal",
+  "ano": null,
+  "descricao": "Uma empreendedora rica e descaradamente franca se tornou uma mulher bem-sucedida, mas não um ser humano melhor. Na véspera do Natal, seus passado, presente e futuro estão prestes a colidir drasticamente.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6ffAnG1WGjeImcq7N6dN0PsErjq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tA5gJmhIl7slq3rFtQjZtamL9HE.jpg",
+  "tmdbId": 1048771,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790689,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778814,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Christmas Carole",
+  "dataLancamento": "2022-12-23"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "minha-familia-de-natal",
+  "tipo": "filme",
+  "titulo": "Minha Família de Natal",
+  "ano": null,
+  "descricao": "A história é sobre a jornalista Campbell, que tem a oportunidade de conhecer seu pai biológico pela primeira vez sem que ele saiba. No final, Campbell precisa decidir se vai revelar a verdade, uma decisão que mudará o Natal para sempre.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kdSxd78qJDHp0CxXOK5wrO9MwW9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fZSRQcr4AcNg0jlcUptY7JvQSFX.jpg",
+  "tmdbId": 1028558,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787358,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778685,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "My Southern Family Christmas",
+  "dataLancamento": "2022-11-24"
+}

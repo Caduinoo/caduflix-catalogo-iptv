@@ -1,0 +1,99 @@
+{
+  "id": "o-crush-perfeito",
+  "tipo": "serie",
+  "titulo": "O Crush Perfeito",
+  "ano": null,
+  "descricao": "Seis solteiros vão a cinco encontros às cegas em points badalados de São Paulo. Quem será que vai querer se ver de novo?",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uPKhQIvm3jkCALqW9BSNTszaBn1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/smgme0ekP0skI5xxZI0drpwmEPC.jpg",
+  "tmdbId": 105846,
+  "nota": 4,
+  "xtreamSeriesId": 4924,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10916214",
+          "tipo": "episodio",
+          "titulo": "O Crush Perfeito S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10916214",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uPKhQIvm3jkCALqW9BSNTszaBn1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916215",
+          "tipo": "episodio",
+          "titulo": "O Crush Perfeito S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10916215",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uPKhQIvm3jkCALqW9BSNTszaBn1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916216",
+          "tipo": "episodio",
+          "titulo": "O Crush Perfeito S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10916216",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uPKhQIvm3jkCALqW9BSNTszaBn1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916217",
+          "tipo": "episodio",
+          "titulo": "O Crush Perfeito S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10916217",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uPKhQIvm3jkCALqW9BSNTszaBn1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916218",
+          "tipo": "episodio",
+          "titulo": "O Crush Perfeito S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10916218",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uPKhQIvm3jkCALqW9BSNTszaBn1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916219",
+          "tipo": "episodio",
+          "titulo": "O Crush Perfeito S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10916219",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uPKhQIvm3jkCALqW9BSNTszaBn1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "O Crush Perfeito",
+  "dataLancamento": "2020-07-10"
+}

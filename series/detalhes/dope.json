@@ -1,0 +1,75 @@
+{
+  "id": "dope",
+  "tipo": "serie",
+  "titulo": "Ladrões de Drogas",
+  "ano": null,
+  "descricao": "Dois amigos de longa data da Filadélfia se disfarçam de policiais para roubar traficantes. Um esquema perfeito até que abordam o lugar errado e se tornam alvos de uma organização do narcotráfico.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lQuT7R5MTeNHKm7jeyihABMS9Pe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qbUeqIQAn1cy01OuSctGmatVJCC.jpg",
+  "tmdbId": 209876,
+  "nota": 6.508,
+  "xtreamSeriesId": 7093,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016771",
+          "tipo": "episodio",
+          "titulo": "Dope S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016771",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016772",
+          "tipo": "episodio",
+          "titulo": "Dope S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016772",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016773",
+          "tipo": "episodio",
+          "titulo": "Dope S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11016773",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016774",
+          "tipo": "episodio",
+          "titulo": "Dope S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11016774",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lsqqr89sCIrmOhJceEHTCgPmKJ4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Dope Thief",
+  "dataLancamento": "2025-03-13"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "um-crime-argentino",
+  "tipo": "filme",
+  "titulo": "Um Crime Argentino",
+  "ano": null,
+  "descricao": "Rosário nos anos 80. O desaparecimento de um homem durante a ditadura militar. Dois jovens do tribunal devem fazer todo o possível para resolver o caso enquanto enfrentam a corrupção policial e vários perigos que colocam suas vidas em risco.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6wbDGd8VkQQGb3m9sMxEpZ0w4sw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aMBCjbwCw51ino91kmS7VbmxbAl.jpg",
+  "tmdbId": 941959,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790568,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780116,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783051,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Un crimen argentino",
+  "dataLancamento": "2022-08-25"
+}

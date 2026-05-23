@@ -1,0 +1,34 @@
+{
+  "id": "sombras-sinistras",
+  "tipo": "filme",
+  "titulo": "Sombras Sinistras",
+  "ano": null,
+  "descricao": "Uma mulher que sofre de amnésia reconstrói os acontecimentos que levaram ao suicídio de seu pai, depois é assombrada por fantasmas de crianças que ela suspeita terem sido mortas por ele.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kPL5m3KgUa7VmZwvmiVE9D7BtDg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xHd6rARprd4woZinkziIntiTSZD.jpg",
+  "tmdbId": 854188,
+  "nota": 6.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789848,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781472,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "The Kindred",
+  "dataLancamento": "2021-12-28"
+}

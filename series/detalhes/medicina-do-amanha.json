@@ -1,0 +1,63 @@
+{
+  "id": "medicina-do-amanha",
+  "tipo": "serie",
+  "titulo": "Medicina do Amanhã",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pQC6ZCFepqFM5j9JhLlm9W2izbZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bdZgInwMoeP76nRdUnTPQWVs73Q.jpg",
+  "tmdbId": 71780,
+  "nota": 10,
+  "xtreamSeriesId": 900,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10814271",
+          "tipo": "episodio",
+          "titulo": "Medicina do Amanhã S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10814271",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pQC6ZCFepqFM5j9JhLlm9W2izbZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814272",
+          "tipo": "episodio",
+          "titulo": "Medicina do Amanhã S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10814272",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pQC6ZCFepqFM5j9JhLlm9W2izbZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10814273",
+          "tipo": "episodio",
+          "titulo": "Medicina do Amanhã S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10814273",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pQC6ZCFepqFM5j9JhLlm9W2izbZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "First in Human",
+  "dataLancamento": "2017-08-10"
+}

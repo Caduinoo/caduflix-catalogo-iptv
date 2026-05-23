@@ -1,0 +1,34 @@
+{
+  "id": "um-dia-para-sempre",
+  "tipo": "filme",
+  "titulo": "Para Sempre e Um Dia",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mZeIhR5f4YxaX0RexGv5OIZx1nK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lfnG7RBUPtCsgEcIWldj7AY5dQu.jpg",
+  "tmdbId": 43509,
+  "nota": 7.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790583,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774028,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Forever and a Day",
+  "dataLancamento": "1943-01-21"
+}

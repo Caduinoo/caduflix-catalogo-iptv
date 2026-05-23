@@ -1,0 +1,99 @@
+{
+  "id": "despedacado",
+  "tipo": "serie",
+  "titulo": "Despedaçado",
+  "ano": null,
+  "descricao": "O padre Michael Kerrigan é um padre católico moderno e ousado. Enquanto enfrenta seus próprios fantasmas, ele ajuda sua pequena comunidade no norte da Inglaterra, muito afetada pela crise econômica.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/h4Z2gdoQj0yLVvFsxAJsbIREGEA.jpg",
+  "tmdbId": 71705,
+  "nota": 6.9,
+  "xtreamSeriesId": 5940,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10976199",
+          "tipo": "episodio",
+          "titulo": "Despedacado S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10976199",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976200",
+          "tipo": "episodio",
+          "titulo": "Despedacado S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10976200",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976201",
+          "tipo": "episodio",
+          "titulo": "Despedacado S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10976201",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976202",
+          "tipo": "episodio",
+          "titulo": "Despedacado S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10976202",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976203",
+          "tipo": "episodio",
+          "titulo": "Despedacado S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10976203",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10976204",
+          "tipo": "episodio",
+          "titulo": "Despedacado S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10976204",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Broken",
+  "dataLancamento": "2017-05-30"
+}

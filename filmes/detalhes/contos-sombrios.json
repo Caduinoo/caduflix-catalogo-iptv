@@ -1,0 +1,34 @@
+{
+  "id": "contos-sombrios",
+  "tipo": "filme",
+  "titulo": "Contos Sombrios",
+  "ano": null,
+  "descricao": "Durante uma viagem para o Havaí, três estudantes decidem participar de um jogo para ver quem consegue contar a melhor história de terror. Os estudantes contam três histórias diferentes sobre fantasmas japoneses, mas conforme o jogo avança, as coisas começam a ficar cada vez mais sinistras.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2hXLV4PMgu8blPtvGEDlIVumwul.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jbi07ZoYmgTzMlUWesyTYsTQQRI.jpg",
+  "tmdbId": 762161,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785083,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780588,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Story Game",
+  "dataLancamento": "2022-11-05"
+}

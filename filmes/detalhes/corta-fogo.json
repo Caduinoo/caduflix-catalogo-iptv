@@ -1,0 +1,34 @@
+{
+  "id": "corta-fogo",
+  "tipo": "filme",
+  "titulo": "Corta-fogo",
+  "ano": null,
+  "descricao": "A pequena Lide desaparece na floresta enquanto a família se prepara para deixar a casa. Agora, sua mãe precisa encontrá-la antes do incêndio que se aproxima.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6V0FLzciqJh7d1Y4zXyyqLAKnTs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+  "tmdbId": 1428862,
+  "nota": 6.317,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791603,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791617,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Cortafuego",
+  "dataLancamento": "2026-02-19"
+}

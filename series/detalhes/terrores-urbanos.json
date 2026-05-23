@@ -1,0 +1,87 @@
+{
+  "id": "terrores-urbanos",
+  "tipo": "serie",
+  "titulo": "Terrores Urbanos",
+  "ano": null,
+  "descricao": "Terrores Urbanos é uma série da Record TV onde cinco lendas urbanas, de diferentes regiões do país, são contadas de maneira nunca antes vista.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rJ7ZAO4SPU2RtUfjuY1ihRsOxvO.jpg",
+  "tmdbId": 85442,
+  "nota": 9.2,
+  "xtreamSeriesId": 6370,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10989252",
+          "tipo": "episodio",
+          "titulo": "Terrores Urbanos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10989252",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989253",
+          "tipo": "episodio",
+          "titulo": "Terrores Urbanos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10989253",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989254",
+          "tipo": "episodio",
+          "titulo": "Terrores Urbanos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10989254",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989255",
+          "tipo": "episodio",
+          "titulo": "Terrores Urbanos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10989255",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989256",
+          "tipo": "episodio",
+          "titulo": "Terrores Urbanos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10989256",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Terrores Urbanos",
+  "dataLancamento": "2018-10-11"
+}

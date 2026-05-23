@@ -1,0 +1,99 @@
+{
+  "id": "borboletas-negras",
+  "tipo": "serie",
+  "titulo": "Borboletas Negras",
+  "ano": null,
+  "descricao": "Um romancista com um bloqueio criativo aceita escrever as memórias de um homem à beira da morte, mas logo acaba fazendo parte do sangrento passado dessa estranha figura.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5oFXra5i4raGvokfSX7nlpoZlvq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jH6GxkrfKxAf6vnX2EOdf364rEe.jpg",
+  "tmdbId": 208691,
+  "nota": 6.862,
+  "xtreamSeriesId": 4205,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10903322",
+          "tipo": "episodio",
+          "titulo": "Borboletas Negras S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10903322",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5oFXra5i4raGvokfSX7nlpoZlvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903323",
+          "tipo": "episodio",
+          "titulo": "Borboletas Negras S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10903323",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5oFXra5i4raGvokfSX7nlpoZlvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903324",
+          "tipo": "episodio",
+          "titulo": "Borboletas Negras S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10903324",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5oFXra5i4raGvokfSX7nlpoZlvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903325",
+          "tipo": "episodio",
+          "titulo": "Borboletas Negras S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10903325",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5oFXra5i4raGvokfSX7nlpoZlvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903326",
+          "tipo": "episodio",
+          "titulo": "Borboletas Negras S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10903326",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5oFXra5i4raGvokfSX7nlpoZlvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903327",
+          "tipo": "episodio",
+          "titulo": "Borboletas Negras S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10903327",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5oFXra5i4raGvokfSX7nlpoZlvq.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Les Papillons noirs",
+  "dataLancamento": "2022-09-22"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "historias-de-animais",
+  "tipo": "serie",
+  "titulo": "Histórias de Animais",
+  "ano": null,
+  "descricao": "O biólogo e cinegrafista João Paulo Krajewski viajará para filmar os animais mais incríveis da terra, para compreender a verdadeira essência da vida. Com a ajuda de cientistas, João Paulo fará uma jornada pelo mundo natural sob o olhar de um historiador.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/elqgCyu8bPtXDrPt3dIcChVDwFE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ogR5Xqmbi8DeqvE21C8skky7RMX.jpg",
+  "tmdbId": 250893,
+  "nota": 10,
+  "xtreamSeriesId": 3582,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10889390",
+          "tipo": "episodio",
+          "titulo": "Historias de Animais S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10889390",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/elqgCyu8bPtXDrPt3dIcChVDwFE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889391",
+          "tipo": "episodio",
+          "titulo": "Historias de Animais S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10889391",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/elqgCyu8bPtXDrPt3dIcChVDwFE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889392",
+          "tipo": "episodio",
+          "titulo": "Historias de Animais S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10889392",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/elqgCyu8bPtXDrPt3dIcChVDwFE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889393",
+          "tipo": "episodio",
+          "titulo": "Historias de Animais S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10889393",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/elqgCyu8bPtXDrPt3dIcChVDwFE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889394",
+          "tipo": "episodio",
+          "titulo": "Historias de Animais S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10889394",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/elqgCyu8bPtXDrPt3dIcChVDwFE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Histórias de Animais",
+  "dataLancamento": "2023-07-02"
+}

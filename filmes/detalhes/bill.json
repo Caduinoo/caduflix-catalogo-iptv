@@ -1,0 +1,34 @@
+{
+  "id": "bill",
+  "tipo": "filme",
+  "titulo": "Kill Bill: Volume 1",
+  "ano": null,
+  "descricao": "A ex-assassina conhecida apenas como \"A Noiva\" acorda de um coma de quatro anos decidida a se vingar de Bill, seu ex-amante e chefe, que tentou matá-la no dia do casamento. Ela está motivada a acertar as contas com cada uma das pessoas envolvidas com a perda da filha, da festa de casamento e dos quatro anos da sua vida. Na jornada, \"A Noiva\" é submetida a dores físicas agoniantes ao enfrentar a inescrupulosa gangue de Bill, o Esquadrão Assassino de Víboras Mortais.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6VDrtm6rLEW4hByVA45V0Gpime0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+  "tmdbId": 24,
+  "nota": 7.972,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784611,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772375,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Kill Bill: Vol. 1",
+  "dataLancamento": "2003-10-10"
+}

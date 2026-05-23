@@ -1,0 +1,75 @@
+{
+  "id": "um-lar-na-natureza",
+  "tipo": "serie",
+  "titulo": "Casa na Natureza",
+  "ano": null,
+  "descricao": "Vendo o impacto positivo da natureza sobre o filho com transtorno genético, Jim e Tori Baird procuram estabelecer uma vida ao ar livre para a família.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ulhDiOx1NQOgp9voatqflKKKgmY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/q3hAsycLp8ndUgL35ufsVDyVCCQ.jpg",
+  "tmdbId": 225453,
+  "nota": null,
+  "xtreamSeriesId": 2103,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10848322",
+          "tipo": "episodio",
+          "titulo": "Um Lar na Natureza S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10848322",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ulhDiOx1NQOgp9voatqflKKKgmY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10848323",
+          "tipo": "episodio",
+          "titulo": "Um Lar na Natureza S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10848323",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ulhDiOx1NQOgp9voatqflKKKgmY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10848324",
+          "tipo": "episodio",
+          "titulo": "Um Lar na Natureza S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10848324",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ulhDiOx1NQOgp9voatqflKKKgmY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10848325",
+          "tipo": "episodio",
+          "titulo": "Um Lar na Natureza S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10848325",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ulhDiOx1NQOgp9voatqflKKKgmY.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Home in the Wild",
+  "dataLancamento": "2023-05-02"
+}

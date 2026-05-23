@@ -1,0 +1,34 @@
+{
+  "id": "original-gangster",
+  "tipo": "filme",
+  "titulo": "Original Gangster",
+  "ano": null,
+  "descricao": "As crônicas estóicas de Castor, órfão quando criança, forçado a sobreviver na selva e sua jornada colorida pelo submundo do crime de Londres.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dNnmaGIjy5PyfjpRMx0opPEsMaP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uzTilAtx7ShPSvzG7SujpnimDL4.jpg",
+  "tmdbId": 778844,
+  "nota": 5.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788735,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774392,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Original Gangster",
+  "dataLancamento": "2020-12-01"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "supercaes",
+  "tipo": "serie",
+  "titulo": "Supercães",
+  "ano": null,
+  "descricao": "Quatro super-heróis caninos fazem de tudo para ajudar seus novos amigos e uma alienígena nesta aventura cósmica fofinha!",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/t4qNuB3DWDSJ3RtwfLAutZM58RI.jpg",
+  "tmdbId": 194682,
+  "nota": 8.5,
+  "xtreamSeriesId": 5304,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10924329",
+          "tipo": "episodio",
+          "titulo": "Supercães S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10924329",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924330",
+          "tipo": "episodio",
+          "titulo": "Supercães S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10924330",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924331",
+          "tipo": "episodio",
+          "titulo": "Supercães S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10924331",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924332",
+          "tipo": "episodio",
+          "titulo": "Supercães S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10924332",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924333",
+          "tipo": "episodio",
+          "titulo": "Supercães S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10924333",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924334",
+          "tipo": "episodio",
+          "titulo": "Supercães S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10924334",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924335",
+          "tipo": "episodio",
+          "titulo": "Supercães S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10924335",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924336",
+          "tipo": "episodio",
+          "titulo": "Supercães S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10924336",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10924337",
+          "tipo": "episodio",
+          "titulo": "Supercães S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10924337",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3NDvmYN9992V0x870tnaFA6JhC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 9,
+  "tituloOriginal": "Super PupZ",
+  "dataLancamento": "2022-03-31"
+}

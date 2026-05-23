@@ -1,0 +1,42 @@
+{
+  "id": "il-legionario",
+  "tipo": "filme",
+  "titulo": "Il legionario",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7aQCZNCt6XxQvGl4wzX0BJyhjLW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9EC2h6vT9P5RX8grIfIclFjWfWX.jpg",
+  "tmdbId": 475878,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033360,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049494,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050010,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Il legionario",
+  "dataLancamento": "2017-09-01"
+}

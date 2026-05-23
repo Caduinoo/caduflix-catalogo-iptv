@@ -1,0 +1,34 @@
+{
+  "id": "vampiros-de-john-carpenter",
+  "tipo": "filme",
+  "titulo": "Vampiros de John Carpenter",
+  "ano": null,
+  "descricao": "Uma equipe de caçadores de vampiros declara guerra contra os seguidores de um vampiro mestre que quer o segredo para os vampiros poderem andar à luz do dia.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wB4C9JFgI7YHlxeI5QM9GrpTbTf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uzlGbsQkpK6C3ZiqRqKw9CwK0Do.jpg",
+  "tmdbId": 9945,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790942,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770897,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Vampires",
+  "dataLancamento": "1998-10-30"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "batalha-bilionaria-o-caso-google-earth",
+  "tipo": "serie",
+  "titulo": "Batalha Bilionária: O Caso Google Earth",
+  "ano": null,
+  "descricao": "Na Berlim dos anos 90, um artista e um hacker inventam uma nova maneira de enxergar o mundo. Anos depois, eles se reúnem para processar o Google por quebra de patente.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vI6LRqzv3hqehyuOEpl7glQUqJS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ddFwgyFvaiN5VvUhX0CJBOhlADQ.jpg",
+  "tmdbId": 133357,
+  "nota": 7.894,
+  "xtreamSeriesId": 4154,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10902332",
+          "tipo": "episodio",
+          "titulo": "Batalha Bilionária O Caso Google Earth S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10902332",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vI6LRqzv3hqehyuOEpl7glQUqJS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902333",
+          "tipo": "episodio",
+          "titulo": "Batalha Bilionária O Caso Google Earth S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10902333",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vI6LRqzv3hqehyuOEpl7glQUqJS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902334",
+          "tipo": "episodio",
+          "titulo": "Batalha Bilionária O Caso Google Earth S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10902334",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vI6LRqzv3hqehyuOEpl7glQUqJS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902335",
+          "tipo": "episodio",
+          "titulo": "Batalha Bilionária O Caso Google Earth S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10902335",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vI6LRqzv3hqehyuOEpl7glQUqJS.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "The Billion Dollar Code",
+  "dataLancamento": "2021-10-07"
+}

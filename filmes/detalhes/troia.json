@@ -1,0 +1,34 @@
+{
+  "id": "troia",
+  "tipo": "filme",
+  "titulo": "Tróia",
+  "ano": null,
+  "descricao": "Quando Páris, o príncipe de Troia, se apaixona por Helena, rainha de Esparta, o rei inicia uma guerra de anos entre os dois reinos. Para vencer, Esparta conta com Aquiles, um guerreiro lendário que comanda um exército próprio.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iKp2NxUkqPVSPN2FdXUn9gxj4Nn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d3z8MH9OvTOOSxy5QwAG0cS6GKU.jpg",
+  "tmdbId": 652,
+  "nota": 7.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790482,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770847,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Troy",
+  "dataLancamento": "2004-05-13"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "lego-ninjago-legends-monstrosity",
+  "tipo": "serie",
+  "titulo": "LEGO Ninjago: Legends",
+  "ano": null,
+  "descricao": "Kai, o Ninja do Fogo, está perdido em uma Terra de Monstros, onde deverá enfrentar criaturas bizarras e cruéis se quiser voltar para casa.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eGD6OcnxvGs0vG8XxWnAUWy7AWu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/axULqhAqhpDDzlAmSo8NXzkxMNC.jpg",
+  "tmdbId": 291424,
+  "nota": 8.6,
+  "xtreamSeriesId": 380,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10800534",
+          "tipo": "episodio",
+          "titulo": "LEGO Ninjago Legends Monstrosity S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10800534",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eGD6OcnxvGs0vG8XxWnAUWy7AWu.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "LEGO Ninjago: Legends",
+  "dataLancamento": "2025-06-15"
+}

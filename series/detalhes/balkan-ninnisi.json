@@ -1,0 +1,39 @@
+{
+  "id": "balkan-ninnisi",
+  "tipo": "serie",
+  "titulo": "Balkan Ninnisi",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "TURCAS | MEXICANAS²"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oFejAL8PC3VitVPmCxYC2PeOvhi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bW1xvx0xy6FdIY37OzfRBV418UU.jpg",
+  "tmdbId": 204553,
+  "nota": 8.3,
+  "xtreamSeriesId": 7517,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11041732",
+          "tipo": "episodio",
+          "titulo": "Balkan Ninnisi [L] - S01E01 - Episódio 1",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11041732",
+          "container": "mp4",
+          "capa": null,
+          "duracao": "02:44:17",
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "Balkan Ninnisi",
+  "dataLancamento": "2022-06-21"
+}

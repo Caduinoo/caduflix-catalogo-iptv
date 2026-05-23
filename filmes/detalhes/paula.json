@@ -1,0 +1,26 @@
+{
+  "id": "paula",
+  "tipo": "filme",
+  "titulo": "Paula",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NACIONAIS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ULCSvtHwwoK9K7QL3rH114xnwE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wCJtXwGl43rjHQBYvEfD7DsJgN5.jpg",
+  "tmdbId": 241673,
+  "nota": 8.25,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791390,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Paula",
+  "dataLancamento": "1952-05-15"
+}

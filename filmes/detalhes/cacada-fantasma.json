@@ -1,0 +1,34 @@
+{
+  "id": "cacada-fantasma",
+  "tipo": "filme",
+  "titulo": "Caçada Fantasma",
+  "ano": null,
+  "descricao": "Um grupo de caçadores de fantasmas encara um desafio que os levará ao limite: uma transmissão ao vivo de 24 horas direto de um alojamento assombrado. O objetivo? Provar a veracidade das lendas do local e desvendar seus segredos sombrios.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zrpS6V3628FjZtVETRIGhmJ1UbC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/juhNBu3B3B4ijVimeiUlAHFlooA.jpg",
+  "tmdbId": 1070535,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784855,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780551,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Canceled",
+  "dataLancamento": "2023-08-25"
+}

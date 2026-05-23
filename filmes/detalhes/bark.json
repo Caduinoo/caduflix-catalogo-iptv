@@ -1,0 +1,34 @@
+{
+  "id": "bark",
+  "tipo": "filme",
+  "titulo": "Comer, Rezar, Ladrar",
+  "ano": null,
+  "descricao": "Cinco tutores procuram a ajuda de um adestrador lendário nas montanhas para lidar com seus cães arteiros. Mas talvez não sejam os pets que precisam de treinamento.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zzjhOgtbXePGcKuacjeDmy5t4RH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
+  "tmdbId": 1635276,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784526,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049595,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Eat Pray Bark",
+  "dataLancamento": "2026-04-01"
+}

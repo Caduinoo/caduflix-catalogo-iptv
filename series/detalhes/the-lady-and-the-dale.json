@@ -1,0 +1,75 @@
+{
+  "id": "the-lady-and-the-dale",
+  "tipo": "serie",
+  "titulo": "The Lady and the Dale",
+  "ano": null,
+  "descricao": "Elizabeth Carmichael, uma golpista imprudente, ganha destaque quando lança um veículo de três rodas com baixo consumo de combustível durante a crise do gás dos anos 1970. Enquanto ela conquista as principais montadoras e investidores, uma teia de mistério se desdobra sobre a tecnologia do carro e o surpreendente passado de Carmichael.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/crMJcKrkrVLPhWU69AgxMB8LFtY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kJxEwsQSWbEUHGqFiyUiaNJhMBM.jpg",
+  "tmdbId": 116111,
+  "nota": 6.7,
+  "xtreamSeriesId": 3866,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10896678",
+          "tipo": "episodio",
+          "titulo": "The Lady and the Dale S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10896678",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/crMJcKrkrVLPhWU69AgxMB8LFtY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10896679",
+          "tipo": "episodio",
+          "titulo": "The Lady and the Dale S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10896679",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/crMJcKrkrVLPhWU69AgxMB8LFtY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10896680",
+          "tipo": "episodio",
+          "titulo": "The Lady and the Dale S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10896680",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/crMJcKrkrVLPhWU69AgxMB8LFtY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10896681",
+          "tipo": "episodio",
+          "titulo": "The Lady and the Dale S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10896681",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/crMJcKrkrVLPhWU69AgxMB8LFtY.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "The Lady and the Dale",
+  "dataLancamento": "2021-01-31"
+}

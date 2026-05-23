@@ -1,0 +1,34 @@
+{
+  "id": "les-gazelles",
+  "tipo": "filme",
+  "titulo": "Les Gazelles",
+  "ano": null,
+  "descricao": "Marie e Eric, juntos desde a faculdade, compram seu primeiro apartamento quando Marie o abandona abruptamente para explorar a liberdade. Diante do estigma da vida de solteira, ela encontra força e alegria em novas amizades.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qqlzbmw32y9d3nxv9sU7sbd1315.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9dpR03pXR4EvoViBZ4OVIkiU0g8.jpg",
+  "tmdbId": 223946,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786935,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772987,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Les Gazelles",
+  "dataLancamento": "2014-03-26"
+}

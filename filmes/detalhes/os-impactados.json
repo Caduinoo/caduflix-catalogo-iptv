@@ -1,0 +1,34 @@
+{
+  "id": "os-impactados",
+  "tipo": "filme",
+  "titulo": "Os Impactados",
+  "ano": null,
+  "descricao": "Após ser atingida por um raio, uma mulher traumatizada entra em um grupo de apoio e embarca em uma jornada que promete dor e prazer.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vgLAFXclHdFQKoHqZTUbmuTvYnJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/evWP2wyjDaemPfXlbfvYw36Lr47.jpg",
+  "tmdbId": 1078805,
+  "nota": 6.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788788,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776410,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Los impactados",
+  "dataLancamento": "2023-09-28"
+}

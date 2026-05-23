@@ -1,0 +1,34 @@
+{
+  "id": "camponeses",
+  "tipo": "filme",
+  "titulo": "Camponeses",
+  "ano": null,
+  "descricao": "Século XIX. Jagna, uma jovem de família humilde, está determinada a forjar seu próprio destino no pequeno vilarejo polonês onde vive.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mBURxgfJOpK8Sy9WS1KIM5gDCzi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6U6F2OnHTLs1Pxk8ZVDCRbd3a76.jpg",
+  "tmdbId": 734002,
+  "nota": 7.527,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784791,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775041,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Chłopi",
+  "dataLancamento": "2023-10-13"
+}

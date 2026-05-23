@@ -1,0 +1,42 @@
+{
+  "id": "lobisomem",
+  "tipo": "filme",
+  "titulo": "Lobisomem",
+  "ano": null,
+  "descricao": "Um homem deve proteger a si mesmo e sua família quando eles são perseguidos, aterrorizados e assombrados por um lobisomem mortal à noite durante a lua cheia. Mas conforme a noite avança, o homem começa a se comportar de forma estranha.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/39K7AlzU4zzIxOHEI9sdl0BTixy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg",
+  "tmdbId": 710295,
+  "nota": 6.184,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786989,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780893,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782533,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Wolf Man",
+  "dataLancamento": "2025-01-15"
+}

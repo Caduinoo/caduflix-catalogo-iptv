@@ -1,0 +1,34 @@
+{
+  "id": "tio-frank",
+  "tipo": "filme",
+  "titulo": "Tio Frank",
+  "ano": null,
+  "descricao": "Em 1973, quando Frank Bledsoe e Beth, sua sobrinha de 18 anos, fazem uma viagem de carro de Manhattan a Creekville, na Carolina do Sul, para ir ao funeral do patriarca da família, eles são inesperadamente acompanhados por Walid, o amor de Frank.",
+  "generos": [
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m9I86XRiuRdZnc4tcgsA8UArpnN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bfnUoHV9IPDGmxQmGAEOKIBNIWM.jpg",
+  "tmdbId": 634544,
+  "nota": 7.296,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776887,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783015,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Uncle Frank",
+  "dataLancamento": "2020-11-25"
+}

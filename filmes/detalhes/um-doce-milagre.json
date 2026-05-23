@@ -1,0 +1,34 @@
+{
+  "id": "um-doce-milagre",
+  "tipo": "filme",
+  "titulo": "Um Doce Milagre",
+  "ano": null,
+  "descricao": "Um homem e um velho amigo do Ensino Médio tentam vender o negócio de seu tio - uma padaria mexicana famosa pelos biscoitos de gengibre mágicos que realizam desejos.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wrjJcDEMCi9pPYTx0CsQCPgglTo.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/u1polky3KHT3DhSMHYoypZa8p3I.jpg",
+  "tmdbId": 874244,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790590,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049743,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Gingerbread Miracle",
+  "dataLancamento": "2021-11-05"
+}

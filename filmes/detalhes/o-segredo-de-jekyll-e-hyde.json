@@ -1,0 +1,34 @@
+{
+  "id": "o-segredo-de-jekyll-e-hyde",
+  "tipo": "filme",
+  "titulo": "O Segredo de Jekyll & Hyde",
+  "ano": null,
+  "descricao": "Quando o seu amigo próximo, Dr. Henry Jekyll, é acusado de um homicídio horrível, o advogado Gabriel Utterson lança a sua própria investigação, apenas para descobrir um segredo mais chocante do que ele poderia ter imaginado.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ftHF12rFYlniimU0BqAbDzLxFbJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gfmfr94tYSCD6e0C9BgCzaSGaXg.jpg",
+  "tmdbId": 894844,
+  "nota": 5.308,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788477,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781203,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Jekyll and Hyde",
+  "dataLancamento": "2021-12-27"
+}

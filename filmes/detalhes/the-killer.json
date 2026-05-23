@@ -1,0 +1,42 @@
+{
+  "id": "the-killer",
+  "tipo": "filme",
+  "titulo": "O Assassino",
+  "ano": null,
+  "descricao": "Depois de um erro desastroso, um assassino enfrenta quem o contratou e a si mesmo em uma caçada internacional por vingança. Mas ele jura que nada disso é pessoal.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mkEQgdQcvmxSYvY4bMhabxLjjXY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f9Atch0jlzcOT9RbF8UccqfNOpd.jpg",
+  "tmdbId": 800158,
+  "nota": 6.583,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790207,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770782,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783003,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "The Killer",
+  "dataLancamento": "2023-10-25"
+}

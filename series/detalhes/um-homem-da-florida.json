@@ -1,0 +1,111 @@
+{
+  "id": "um-homem-da-florida",
+  "tipo": "serie",
+  "titulo": "Um Homem da Flórida",
+  "ano": null,
+  "descricao": "Um ex-policial vai até a Flórida para um trabalho suspeito e acaba se envolvendo em uma odisseia alucinante, que pode ter consequências mortais.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6cf1bTalmc4d2c7nEZmdQFfMPvn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/z2CwqBhXDjxGAc9VfHswQxiXGrE.jpg",
+  "tmdbId": 123856,
+  "nota": 6.539,
+  "xtreamSeriesId": 5412,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927105",
+          "tipo": "episodio",
+          "titulo": "Um Homem da Flórida S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927105",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6cf1bTalmc4d2c7nEZmdQFfMPvn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927106",
+          "tipo": "episodio",
+          "titulo": "Um Homem da Flórida S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927106",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6cf1bTalmc4d2c7nEZmdQFfMPvn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927107",
+          "tipo": "episodio",
+          "titulo": "Um Homem da Flórida S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927107",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6cf1bTalmc4d2c7nEZmdQFfMPvn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927108",
+          "tipo": "episodio",
+          "titulo": "Um Homem da Flórida S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927108",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6cf1bTalmc4d2c7nEZmdQFfMPvn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927109",
+          "tipo": "episodio",
+          "titulo": "Um Homem da Flórida S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10927109",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6cf1bTalmc4d2c7nEZmdQFfMPvn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927110",
+          "tipo": "episodio",
+          "titulo": "Um Homem da Flórida S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10927110",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6cf1bTalmc4d2c7nEZmdQFfMPvn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927111",
+          "tipo": "episodio",
+          "titulo": "Um Homem da Flórida S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10927111",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6cf1bTalmc4d2c7nEZmdQFfMPvn.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Florida Man",
+  "dataLancamento": "2023-04-13"
+}

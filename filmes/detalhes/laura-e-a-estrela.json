@@ -1,0 +1,34 @@
+{
+  "id": "laura-e-a-estrela",
+  "tipo": "filme",
+  "titulo": "Laura e a Estrela",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3bB2cZWSuoUfK3jK74myRxayuSz.jpg",
+  "banner": null,
+  "tmdbId": 690767,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786896,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771380,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Laura e a Estrela",
+  "dataLancamento": "2006-10-05"
+}

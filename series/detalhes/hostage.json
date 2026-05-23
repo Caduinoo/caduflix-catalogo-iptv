@@ -1,0 +1,87 @@
+{
+  "id": "hostage",
+  "tipo": "serie",
+  "titulo": "Refém",
+  "ano": null,
+  "descricao": "O marido da primeira-ministra do Reino Unido é sequestrado, e a presidente da França começa a receber ameaças. Agora, as duas precisam tomar uma decisão impossível",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/v8DFvODBDkqD4L6vH9YxrNXxIX3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mPsf0GVm115YOrNn0EyLnqPRpcv.jpg",
+  "tmdbId": 248937,
+  "nota": 6.732,
+  "xtreamSeriesId": 4611,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10910415",
+          "tipo": "episodio",
+          "titulo": "Hostage S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10910415",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/v8DFvODBDkqD4L6vH9YxrNXxIX3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910416",
+          "tipo": "episodio",
+          "titulo": "Hostage S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10910416",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/v8DFvODBDkqD4L6vH9YxrNXxIX3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910417",
+          "tipo": "episodio",
+          "titulo": "Hostage S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10910417",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/v8DFvODBDkqD4L6vH9YxrNXxIX3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910418",
+          "tipo": "episodio",
+          "titulo": "Hostage S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10910418",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/v8DFvODBDkqD4L6vH9YxrNXxIX3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910419",
+          "tipo": "episodio",
+          "titulo": "Hostage S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10910419",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/v8DFvODBDkqD4L6vH9YxrNXxIX3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Hostage",
+  "dataLancamento": "2025-08-21"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "sem-limites-com-chris-hemsworth",
+  "tipo": "serie",
+  "titulo": "Sem Limites com Chris Hemsworth",
+  "ano": null,
+  "descricao": "Chris embarca em uma missão para descobrir como viver melhor por mais tempo. Com a ajuda de cientistas renomados, ele põe sua mente e seu corpo à prova em seis desafios épicos.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/atuFkl8IQC0iKkXTYD3aUh2kxrr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/haT0eJc96HWhixqNyjdUmBwVzDm.jpg",
+  "tmdbId": 115996,
+  "nota": 8.108,
+  "xtreamSeriesId": 2041,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10846510",
+          "tipo": "episodio",
+          "titulo": "Sem Limites com Chris Hemsworth S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10846510",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/atuFkl8IQC0iKkXTYD3aUh2kxrr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846511",
+          "tipo": "episodio",
+          "titulo": "Sem Limites com Chris Hemsworth S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10846511",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/atuFkl8IQC0iKkXTYD3aUh2kxrr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846512",
+          "tipo": "episodio",
+          "titulo": "Sem Limites com Chris Hemsworth S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10846512",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/atuFkl8IQC0iKkXTYD3aUh2kxrr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846513",
+          "tipo": "episodio",
+          "titulo": "Sem Limites com Chris Hemsworth S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10846513",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/atuFkl8IQC0iKkXTYD3aUh2kxrr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846514",
+          "tipo": "episodio",
+          "titulo": "Sem Limites com Chris Hemsworth S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10846514",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/atuFkl8IQC0iKkXTYD3aUh2kxrr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846515",
+          "tipo": "episodio",
+          "titulo": "Sem Limites com Chris Hemsworth S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10846515",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/atuFkl8IQC0iKkXTYD3aUh2kxrr.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Limitless with Chris Hemsworth",
+  "dataLancamento": "2022-11-16"
+}

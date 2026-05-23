@@ -1,0 +1,123 @@
+{
+  "id": "taboo",
+  "tipo": "serie",
+  "titulo": "Taboo",
+  "ano": null,
+  "descricao": "James Keziah Delaney volta para casa na Londres de 1814 após 10 anos na África para herdar o que resta do império de seu pai e reconstruir sua vida. Porém, legado de seu pai é um cálice envenenado com inimigos em cada canto que ele deve navegar.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gder6NtVlBIpenWWMOwpbQK05Uc.jpg",
+  "tmdbId": 65708,
+  "nota": 7.9,
+  "xtreamSeriesId": 987,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10816215",
+          "tipo": "episodio",
+          "titulo": "Taboo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10816215",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d7yvLU4f2hEByAXI7QgkPnvlMOT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816216",
+          "tipo": "episodio",
+          "titulo": "Taboo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10816216",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d7yvLU4f2hEByAXI7QgkPnvlMOT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816217",
+          "tipo": "episodio",
+          "titulo": "Taboo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10816217",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d7yvLU4f2hEByAXI7QgkPnvlMOT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816218",
+          "tipo": "episodio",
+          "titulo": "Taboo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10816218",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d7yvLU4f2hEByAXI7QgkPnvlMOT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816219",
+          "tipo": "episodio",
+          "titulo": "Taboo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10816219",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d7yvLU4f2hEByAXI7QgkPnvlMOT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816220",
+          "tipo": "episodio",
+          "titulo": "Taboo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10816220",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d7yvLU4f2hEByAXI7QgkPnvlMOT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816221",
+          "tipo": "episodio",
+          "titulo": "Taboo S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10816221",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d7yvLU4f2hEByAXI7QgkPnvlMOT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816222",
+          "tipo": "episodio",
+          "titulo": "Taboo S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10816222",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d7yvLU4f2hEByAXI7QgkPnvlMOT.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Taboo",
+  "dataLancamento": "2017-01-07"
+}

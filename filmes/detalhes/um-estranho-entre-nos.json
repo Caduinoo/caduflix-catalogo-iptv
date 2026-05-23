@@ -1,0 +1,34 @@
+{
+  "id": "um-estranho-entre-nos",
+  "tipo": "filme",
+  "titulo": "Um Estranho Entre Nós",
+  "ano": null,
+  "descricao": "Elodie e Laetitia são duas mulheres profundamente apaixonadas, que sonham em ter uma criança, mas enfrentam sérios problemas financeiros e acreditam que um novo colega de quarto é a solução de seus problemas.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dWj8Wef74QjRouV9OFhtmGCmqDw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tJlhqb1IHKwJkpEjurNjcMmGsH1.jpg",
+  "tmdbId": 828373,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790593,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776956,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Entre nous",
+  "dataLancamento": "2023-07-12"
+}

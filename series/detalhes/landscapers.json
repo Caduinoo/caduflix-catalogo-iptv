@@ -1,0 +1,75 @@
+{
+  "id": "landscapers",
+  "tipo": "serie",
+  "titulo": "Landscapers",
+  "ano": null,
+  "descricao": "Um casal aparentemente comum que se torna o foco de uma investigação quando dois corpos são descobertos no quintal de uma casa.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gdtEDSv1j6HXRHheQfUYCiJk7G5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lJKPrgD8NPK7Jgcr6PrkUEp60ka.jpg",
+  "tmdbId": 113987,
+  "nota": 6.8,
+  "xtreamSeriesId": 3623,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10890689",
+          "tipo": "episodio",
+          "titulo": "Landscapers S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10890689",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gdtEDSv1j6HXRHheQfUYCiJk7G5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10890690",
+          "tipo": "episodio",
+          "titulo": "Landscapers S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10890690",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gdtEDSv1j6HXRHheQfUYCiJk7G5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10890691",
+          "tipo": "episodio",
+          "titulo": "Landscapers S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10890691",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gdtEDSv1j6HXRHheQfUYCiJk7G5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10890692",
+          "tipo": "episodio",
+          "titulo": "Landscapers S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10890692",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gdtEDSv1j6HXRHheQfUYCiJk7G5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Landscapers",
+  "dataLancamento": "2021-12-06"
+}

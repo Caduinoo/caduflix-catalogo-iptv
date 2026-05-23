@@ -1,0 +1,34 @@
+{
+  "id": "tudo-por-jojo",
+  "tipo": "filme",
+  "titulo": "Tudo por Jojo",
+  "ano": null,
+  "descricao": "Paula faz de tudo para sabotar o casamento de Jojo depois que a amiga se apaixona e deixa para trás as loucas aventuras que as duas viviam em Berlim.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bwNP1sdvzpnoslaXqzSzxbCrL8d.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/30QbBWReegQoWYmq0Gzg0lTjiP6.jpg",
+  "tmdbId": 968572,
+  "nota": 4.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790497,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773988,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Für Jojo",
+  "dataLancamento": "2022-07-10"
+}

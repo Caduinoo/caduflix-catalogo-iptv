@@ -1,0 +1,63 @@
+{
+  "id": "planeta-tubarao",
+  "tipo": "serie",
+  "titulo": "Planeta Tubarão",
+  "ano": null,
+  "descricao": "Mergulhe no deslumbrante mundo subaquático dos tubarões e examine o que torna esses predadores tão bem-sucedidos e mortais. Conheça uma fascinante variedade de espécies de tubarões, incluindo um que brilha no escuro e outro que vive por até 400 anos.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dFPBg3orqxUnt40aB2g3Dsnx04r.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mkaMpPRyOXNufWMWozZ3IaSjava.jpg",
+  "tmdbId": 204210,
+  "nota": 8.5,
+  "xtreamSeriesId": 564,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10805395",
+          "tipo": "episodio",
+          "titulo": "Planeta Tubarao S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10805395",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dFPBg3orqxUnt40aB2g3Dsnx04r.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805396",
+          "tipo": "episodio",
+          "titulo": "Planeta Tubarao S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10805396",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dFPBg3orqxUnt40aB2g3Dsnx04r.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805397",
+          "tipo": "episodio",
+          "titulo": "Planeta Tubarao S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10805397",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dFPBg3orqxUnt40aB2g3Dsnx04r.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Planet Shark",
+  "dataLancamento": "2022-07-17"
+}

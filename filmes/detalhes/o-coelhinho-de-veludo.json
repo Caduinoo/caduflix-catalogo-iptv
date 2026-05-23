@@ -1,0 +1,42 @@
+{
+  "id": "o-coelhinho-de-veludo",
+  "tipo": "filme",
+  "titulo": "O Coelhinho de Veludo",
+  "ano": null,
+  "descricao": "Quando o menino de sete anos, William, ganha um novo brinquedo favorito de Natal, ele descobre um amigo para toda a vida e encontra um mundo de magia.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nR0yGzpfJItaIGhYsBFZgv9wgiV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pTIny6C5BQYuvHJXmmxuociYcMw.jpg",
+  "tmdbId": 1186957,
+  "nota": 6.947,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787948,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771509,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782687,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Velveteen Rabbit",
+  "dataLancamento": "2023-11-21"
+}

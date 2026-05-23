@@ -1,0 +1,34 @@
+{
+  "id": "entre-rosas",
+  "tipo": "filme",
+  "titulo": "Entre Rosas",
+  "ano": null,
+  "descricao": "Eve Vernet foi a maior criadora de rosas. Hoje, está à beira da falência, prestes a ser comprada por um poderoso concorrente. Véra, sua fiel secretária, acha que encontrou uma solução ao contratar três presidiários que tentam se reinserir na sociedade, mas que não tem nenhum conhecimento de jardinagem. Enquanto quase tudo os separa, eles embarcam juntos em uma aventura singular para salvar a pequena fazenda.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w9nP4DisTtdynffsRAzXdXyvsCo.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qykwO2eb5lpbPyv5oQPkc932lN.jpg",
+  "tmdbId": 716920,
+  "nota": 6.565,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785787,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772726,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "La Fine Fleur",
+  "dataLancamento": "2021-06-30"
+}

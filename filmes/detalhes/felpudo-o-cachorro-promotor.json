@@ -1,0 +1,34 @@
+{
+  "id": "felpudo-o-cachorro-promotor",
+  "tipo": "filme",
+  "titulo": "Felpudo - O  Cachorro Promotor",
+  "ano": null,
+  "descricao": "Um advogado faz uma importante descoberta que poderia afetar suas chances de ser eleito para o cargo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hIMYGxGKhjrtGdEU7XXpq8UGQoJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/msEC7qhaFwNf5WVqdb36Aehwsdy.jpg",
+  "tmdbId": 15943,
+  "nota": 5.78,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785982,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772798,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "The Shaggy D.A.",
+  "dataLancamento": "1976-12-17"
+}

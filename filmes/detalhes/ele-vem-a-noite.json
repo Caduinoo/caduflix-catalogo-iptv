@@ -1,0 +1,34 @@
+{
+  "id": "ele-vem-a-noite",
+  "tipo": "filme",
+  "titulo": "Ele Vem à Noite",
+  "ano": null,
+  "descricao": "Uma jovem que tenta restaurar um moinho abandonado numa área remota descobre que o local abriga uma criatura perigosa.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2ocm4qhruZrDODyAPWQmJa3lXsL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jL5cqnLOs9UmNp7h6VrL0WNTZ9y.jpg",
+  "tmdbId": 805298,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785675,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779718,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Im Nachtlicht",
+  "dataLancamento": "2022-04-07"
+}

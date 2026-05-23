@@ -1,0 +1,34 @@
+{
+  "id": "um-domingo-qualquer",
+  "tipo": "filme",
+  "titulo": "Um Domingo Qualquer",
+  "ano": null,
+  "descricao": "Um íntimo olhar sobre os bastidores do futebol americano, passando desde os jogadores até os treinadores, a mídia e os donos de times, que controlam o jogo como um grande negócio que lucra milhões de dólares todo ano.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iXOt14U0DU7Fe87WdiAXzzACJW5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lqASDYSyYMgC1gYY7VHqK9Tnv0I.jpg",
+  "tmdbId": 9563,
+  "nota": 6.825,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790587,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776962,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Any Given Sunday",
+  "dataLancamento": "1999-12-22"
+}

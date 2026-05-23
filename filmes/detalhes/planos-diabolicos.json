@@ -1,0 +1,34 @@
+{
+  "id": "planos-diabolicos",
+  "tipo": "filme",
+  "titulo": "Planos Diabólicos",
+  "ano": null,
+  "descricao": "Miriam, Derek, Ian e Jenny são alunos do ensino médio muito acima da média, seguindo as regras sempre. Ótimas notas, bons nos esportes, muitas atividades e - quando o curso permite - cometem assassinatos elaborados.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/p52n7VdIhB7TlPDBL9FEBZ6cjc3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4ATMHvq7islHTcbvYKbOIMQeP7n.jpg",
+  "tmdbId": 401313,
+  "nota": 5.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789078,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781301,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Extracurricular",
+  "dataLancamento": "2020-01-17"
+}

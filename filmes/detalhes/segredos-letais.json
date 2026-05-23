@@ -1,0 +1,34 @@
+{
+  "id": "segredos-letais",
+  "tipo": "filme",
+  "titulo": "Segredos Letais",
+  "ano": null,
+  "descricao": "Uma jovem governanta revela os segredos obscuros de uma família rica com um passado misterioso.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uGInwj2OmMsh5vn0wmH8ADnIHua.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3uzS3EYfWSCorDZeOtWknEo5X7a.jpg",
+  "tmdbId": 1063509,
+  "nota": 5.182,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789644,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049795,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842361,
+  "tituloOriginal": "The Housekeeper",
+  "dataLancamento": "2023-08-09"
+}

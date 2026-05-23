@@ -1,0 +1,34 @@
+{
+  "id": "minha-fera",
+  "tipo": "filme",
+  "titulo": "Minha Fera",
+  "ano": null,
+  "descricao": "Depois que sua vida desmorona, a atriz Laura Franco, de fala mansa, reencontra sua voz quando conhece um monstro aterrorizante, mas estranhamente encantador, que vive em seu armário.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z7U1sWDi4ymLvRgyrxKYLfhEI5D.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uiEgyO6bFsNRt4CGd8VJwXcBnmD.jpg",
+  "tmdbId": 1098378,
+  "nota": 6.519,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787360,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780944,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Your Monster",
+  "dataLancamento": "2024-10-25"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "o-assassino-confesso",
+  "tipo": "serie",
+  "titulo": "O Assassino Confesso",
+  "ano": null,
+  "descricao": "Henry Lee Lucas ficou famoso depois de confessar centenas de assassinatos. Esta série documental mostra a verdade e suas terríveis consequências.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bn4OmnMLpPAFBLAd7cpsKxLhe9Z.jpg",
+  "tmdbId": 95986,
+  "nota": 7.175,
+  "xtreamSeriesId": 4897,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915844",
+          "tipo": "episodio",
+          "titulo": "O Assassino Confesso S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915844",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915845",
+          "tipo": "episodio",
+          "titulo": "O Assassino Confesso S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915845",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915846",
+          "tipo": "episodio",
+          "titulo": "O Assassino Confesso S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915846",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915847",
+          "tipo": "episodio",
+          "titulo": "O Assassino Confesso S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10915847",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915848",
+          "tipo": "episodio",
+          "titulo": "O Assassino Confesso S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10915848",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "The Confession Killer",
+  "dataLancamento": "2019-12-06"
+}

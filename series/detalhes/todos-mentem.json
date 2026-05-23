@@ -1,0 +1,99 @@
+{
+  "id": "todos-mentem",
+  "tipo": "serie",
+  "titulo": "Todos Mentem",
+  "ano": null,
+  "descricao": "A divulgação de um vídeo de sexo e o aparecimento de um corpo sem vida chacoalham a tranquilidade da vida de uma vila na costa da Catalunha.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/A46oE1NLnEZO3tNS0KUswDVfwso.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dfPDlU4G1QJ9ZzgwfZl60e1azVr.jpg",
+  "tmdbId": 124902,
+  "nota": 5.8,
+  "xtreamSeriesId": 3884,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10897126",
+          "tipo": "episodio",
+          "titulo": "Todos Mentem S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10897126",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/A46oE1NLnEZO3tNS0KUswDVfwso.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10897127",
+          "tipo": "episodio",
+          "titulo": "Todos Mentem S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10897127",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/A46oE1NLnEZO3tNS0KUswDVfwso.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10897128",
+          "tipo": "episodio",
+          "titulo": "Todos Mentem S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10897128",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/A46oE1NLnEZO3tNS0KUswDVfwso.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10897129",
+          "tipo": "episodio",
+          "titulo": "Todos Mentem S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10897129",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/A46oE1NLnEZO3tNS0KUswDVfwso.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10897130",
+          "tipo": "episodio",
+          "titulo": "Todos Mentem S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10897130",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/A46oE1NLnEZO3tNS0KUswDVfwso.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10897131",
+          "tipo": "episodio",
+          "titulo": "Todos Mentem S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10897131",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/A46oE1NLnEZO3tNS0KUswDVfwso.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Todos mienten",
+  "dataLancamento": "2022-01-28"
+}

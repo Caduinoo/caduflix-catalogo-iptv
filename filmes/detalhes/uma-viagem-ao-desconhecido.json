@@ -1,0 +1,34 @@
+{
+  "id": "uma-viagem-ao-desconhecido",
+  "tipo": "filme",
+  "titulo": "Uma Viagem ao Desconhecido",
+  "ano": null,
+  "descricao": "Tana é uma jovem nativa americana que está passando por um processo de luto após a morte de sua avó. Ela recebe um convite para o casamento de seu primo e embarca em uma viagem pelo interior dos Estados Unidos.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yA1ltwVBSgOpNqmldtcqmVknR2I.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eeqkC7tgfkY3vgaSoqCBLNasqEe.jpg",
+  "tmdbId": 934606,
+  "nota": 6.481,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790855,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777061,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "The Unknown Country",
+  "dataLancamento": "2023-07-28"
+}

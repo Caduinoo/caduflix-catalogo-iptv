@@ -1,0 +1,51 @@
+{
+  "id": "gladiadores-da-natureza",
+  "tipo": "serie",
+  "titulo": "Gladiadores da Natureza",
+  "ano": null,
+  "descricao": "Armados com armas naturais, astúcia e táticas impressionantes, os gladiadores da natureza estão prontos para a batalha. Alguns lutam por território, outros por comida ou por um parceiro, mas todos têm o mesmo objetivo: sobreviver.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/d9Wo51aTdlnzuiaOBvULhRVxuV9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sOeiP3Ohn6BU9KMqmskyVGjAuQ8.jpg",
+  "tmdbId": 260644,
+  "nota": 6.5,
+  "xtreamSeriesId": 6967,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11015012",
+          "tipo": "episodio",
+          "titulo": "Gladiadores da Natureza S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11015012",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d9Wo51aTdlnzuiaOBvULhRVxuV9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015013",
+          "tipo": "episodio",
+          "titulo": "Gladiadores da Natureza S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11015013",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d9Wo51aTdlnzuiaOBvULhRVxuV9.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Gladiators",
+  "dataLancamento": "2024-08-04"
+}

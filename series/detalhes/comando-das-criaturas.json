@@ -1,0 +1,111 @@
+{
+  "id": "comando-das-criaturas",
+  "tipo": "serie",
+  "titulo": "Comando das Criaturas",
+  "ano": null,
+  "descricao": "Acompanha uma equipe secreta de monstros encarcerados, recrutados para missões consideradas perigosas demais para humanos.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8my6Pj4DdR4CrJtDxFtG6upNzvM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/y8T8BhptuHFPR0hCGcUSMyUfUfm.jpg",
+  "tmdbId": 219543,
+  "nota": 7.765,
+  "xtreamSeriesId": 3487,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10886973",
+          "tipo": "episodio",
+          "titulo": "Comando das Criaturas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10886973",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nYbPnKSyvtPngtX5JCUpaeNU1i5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10886974",
+          "tipo": "episodio",
+          "titulo": "Comando das Criaturas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10886974",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nYbPnKSyvtPngtX5JCUpaeNU1i5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10886975",
+          "tipo": "episodio",
+          "titulo": "Comando das Criaturas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10886975",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nYbPnKSyvtPngtX5JCUpaeNU1i5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10886976",
+          "tipo": "episodio",
+          "titulo": "Comando das Criaturas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10886976",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nYbPnKSyvtPngtX5JCUpaeNU1i5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10886977",
+          "tipo": "episodio",
+          "titulo": "Comando das Criaturas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10886977",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nYbPnKSyvtPngtX5JCUpaeNU1i5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10886978",
+          "tipo": "episodio",
+          "titulo": "Comando das Criaturas S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10886978",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nYbPnKSyvtPngtX5JCUpaeNU1i5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10886979",
+          "tipo": "episodio",
+          "titulo": "Comando das Criaturas S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10886979",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nYbPnKSyvtPngtX5JCUpaeNU1i5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Creature Commandos",
+  "dataLancamento": "2024-12-05"
+}

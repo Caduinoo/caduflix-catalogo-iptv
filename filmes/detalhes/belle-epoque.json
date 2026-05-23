@@ -1,0 +1,34 @@
+{
+  "id": "belle-epoque",
+  "tipo": "filme",
+  "titulo": "Belle Époque",
+  "ano": null,
+  "descricao": "Victor, um sexagenário desiludido, vê sua vida virada de cabeça para baixo no dia em que Antoine, um empreendedor brilhante, oferece a ele um novo tipo de atração: misturando artifícios teatrais e reconstrução histórica, essa empresa oferece a seus clientes a chance de voltar à era de sua escolha. Victor então escolheu reviver a semana mais memorável de sua vida: aquela em que, 40 anos antes, ele conheceu o grande amor.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/755DyZqQ7ODj3jvLy5CeUjkbJ4K.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sfoaAbgEQlQI8dBFJsiIdXiLI7x.jpg",
+  "tmdbId": 595975,
+  "nota": 7.365,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040163,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040133,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778019647,
+  "tituloOriginal": "La Belle Époque",
+  "dataLancamento": "2019-11-06"
+}

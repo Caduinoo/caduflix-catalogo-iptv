@@ -1,0 +1,34 @@
+{
+  "id": "deslumbrado",
+  "tipo": "filme",
+  "titulo": "Deslumbrado",
+  "ano": null,
+  "descricao": "Bem quando consegue um papel importante, um famoso ator perde misteriosamente a capacidade de atuar. É o início de uma jornada de autoconhecimento.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/its1Oa9uZvVgEsxgWPnJjxy8519.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kMGZK18hxu8y2HeNRvF94pkdefq.jpg",
+  "tmdbId": 1407862,
+  "nota": 6.688,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785426,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049601,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Lupa Daratan",
+  "dataLancamento": "2025-12-02"
+}

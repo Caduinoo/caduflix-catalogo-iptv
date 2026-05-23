@@ -1,0 +1,123 @@
+{
+  "id": "feito-com-amor",
+  "tipo": "serie",
+  "titulo": "Feito com Amor",
+  "ano": null,
+  "descricao": "Para salvar a empresa da família, o ambicioso chef Luka precisa se unir ao recém-chegado Dennis quando ele se junta ao restaurante de sua mãe. O único problema? Ela o odeia.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/z68ao4YHKNsDHhyW9sRiSCSpjwI.jpg",
+  "tmdbId": 315595,
+  "nota": 7.7,
+  "xtreamSeriesId": 7332,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11036696",
+          "tipo": "episodio",
+          "titulo": "Feito com Amor S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11036696",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11036697",
+          "tipo": "episodio",
+          "titulo": "Feito com Amor S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11036697",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11036698",
+          "tipo": "episodio",
+          "titulo": "Feito com Amor S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11036698",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11036699",
+          "tipo": "episodio",
+          "titulo": "Feito com Amor S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11036699",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11036700",
+          "tipo": "episodio",
+          "titulo": "Feito com Amor S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11036700",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11036701",
+          "tipo": "episodio",
+          "titulo": "Feito com Amor S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11036701",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11036702",
+          "tipo": "episodio",
+          "titulo": "Feito com Amor S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11036702",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11036703",
+          "tipo": "episodio",
+          "titulo": "Feito com Amor S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11036703",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1QQ9hf1Bu3wjA6FGLrjDsVnfYjz.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Luka, Makan, Cinta",
+  "dataLancamento": "2026-04-15"
+}

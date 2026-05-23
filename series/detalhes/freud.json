@@ -1,0 +1,122 @@
+{
+  "id": "freud",
+  "tipo": "serie",
+  "titulo": "Freud",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/74YUDyj091GVcKsq3N4EoRSDIP9.jpg",
+  "tmdbId": 77385,
+  "nota": 5,
+  "xtreamSeriesId": 4520,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10908158",
+          "tipo": "episodio",
+          "titulo": "Freud S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10908158",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/74YUDyj091GVcKsq3N4EoRSDIP9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908159",
+          "tipo": "episodio",
+          "titulo": "Freud S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10908159",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/74YUDyj091GVcKsq3N4EoRSDIP9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908160",
+          "tipo": "episodio",
+          "titulo": "Freud S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10908160",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/74YUDyj091GVcKsq3N4EoRSDIP9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908161",
+          "tipo": "episodio",
+          "titulo": "Freud S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10908161",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/74YUDyj091GVcKsq3N4EoRSDIP9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908162",
+          "tipo": "episodio",
+          "titulo": "Freud S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10908162",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/74YUDyj091GVcKsq3N4EoRSDIP9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908163",
+          "tipo": "episodio",
+          "titulo": "Freud S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10908163",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/74YUDyj091GVcKsq3N4EoRSDIP9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908164",
+          "tipo": "episodio",
+          "titulo": "Freud S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10908164",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/74YUDyj091GVcKsq3N4EoRSDIP9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908165",
+          "tipo": "episodio",
+          "titulo": "Freud S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10908165",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/74YUDyj091GVcKsq3N4EoRSDIP9.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Freud",
+  "dataLancamento": "1984-09-14"
+}

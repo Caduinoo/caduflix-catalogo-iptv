@@ -1,0 +1,26 @@
+{
+  "id": "villain",
+  "tipo": "filme",
+  "titulo": "Villain",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lkiH4ymNny3R1aAUgNYXeSaVtQr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/r3cWXIe9eVAuFXFglySHNc10bHQ.jpg",
+  "tmdbId": 1078665,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791014,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Villain",
+  "dataLancamento": "2023-03-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "o-homem-de-toronto",
+  "tipo": "filme",
+  "titulo": "O Homem de Toronto",
+  "ano": null,
+  "descricao": "Um caso de identidade trocada obriga um homem desastrado a se unir a um famoso assassino na esperança de continuar vivo.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cw1BkYi8bP62hTw5HoEngVZfTTw.jpg",
+  "tmdbId": 667739,
+  "nota": 6.381,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788161,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770307,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782714,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Man from Toronto",
+  "dataLancamento": "2022-12-23"
+}

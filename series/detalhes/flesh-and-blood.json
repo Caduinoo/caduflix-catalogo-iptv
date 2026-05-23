@@ -1,0 +1,75 @@
+{
+  "id": "flesh-and-blood",
+  "tipo": "serie",
+  "titulo": "Flesh and Blood: Um Crime na Vizinhança",
+  "ano": null,
+  "descricao": "Três irmãos são pegos de surpresa quando a mãe recém-viúva apresenta o novo namorado. Tudo inicia uma série de segredos e desconfianças que resultará em um crime na família.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dhE6SvLTVkrEIS49Zppp8qAfP9i.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bD7jvC5ldpU5HDZY0QFTkUVx2c2.jpg",
+  "tmdbId": 31035,
+  "nota": 6,
+  "xtreamSeriesId": 5988,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10977948",
+          "tipo": "episodio",
+          "titulo": "Flesh and Blood S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10977948",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dhE6SvLTVkrEIS49Zppp8qAfP9i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10977949",
+          "tipo": "episodio",
+          "titulo": "Flesh and Blood S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10977949",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dhE6SvLTVkrEIS49Zppp8qAfP9i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10977950",
+          "tipo": "episodio",
+          "titulo": "Flesh and Blood S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10977950",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dhE6SvLTVkrEIS49Zppp8qAfP9i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10977951",
+          "tipo": "episodio",
+          "titulo": "Flesh and Blood S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10977951",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dhE6SvLTVkrEIS49Zppp8qAfP9i.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Flesh and Blood",
+  "dataLancamento": "2020-02-24"
+}

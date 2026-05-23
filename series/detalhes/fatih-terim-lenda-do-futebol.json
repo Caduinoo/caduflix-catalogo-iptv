@@ -1,0 +1,75 @@
+{
+  "id": "fatih-terim-lenda-do-futebol",
+  "tipo": "serie",
+  "titulo": "Fatih Terim: Lenda do Futebol",
+  "ano": null,
+  "descricao": "O lendário Fatih Terim relembra sua trajetória no futebol, dos dias como jogador até o sucesso como técnico de vários times vencedores.",
+  "generos": [
+    "TURCAS | MEXICANAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/71eWIpW9haXvwaW4gwfzdBHQW3W.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/peakiCFvwyI3HBrKyIRnZCw6enL.jpg",
+  "tmdbId": 209032,
+  "nota": 6.7,
+  "xtreamSeriesId": 6821,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11008250",
+          "tipo": "episodio",
+          "titulo": "Fatih Terim Lenda do Futebol S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11008250",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/71eWIpW9haXvwaW4gwfzdBHQW3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11008251",
+          "tipo": "episodio",
+          "titulo": "Fatih Terim Lenda do Futebol S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11008251",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/71eWIpW9haXvwaW4gwfzdBHQW3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11008252",
+          "tipo": "episodio",
+          "titulo": "Fatih Terim Lenda do Futebol S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11008252",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/71eWIpW9haXvwaW4gwfzdBHQW3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11008253",
+          "tipo": "episodio",
+          "titulo": "Fatih Terim Lenda do Futebol S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11008253",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/71eWIpW9haXvwaW4gwfzdBHQW3W.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Terim",
+  "dataLancamento": "2022-09-15"
+}

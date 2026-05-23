@@ -1,0 +1,42 @@
+{
+  "id": "o-jogo-da-garrafa",
+  "tipo": "filme",
+  "titulo": "O Jogo da Garrafa",
+  "ano": null,
+  "descricao": "Amigos resolvem testar o jogo da garrafa numa casa marcada por um massacre, libertam um espírito maligno e começam a morrer. Os sobreviventes se unem para desvendar os segredos da casa e deter a carnificina.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/n1lf2grrVfu7cRPrIvQr3FH0dC5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xTRnlDvGPXKI81zAXpZDT1J8i4Y.jpg",
+  "tmdbId": 1030983,
+  "nota": 4.852,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788204,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781121,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782718,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Spin the Bottle",
+  "dataLancamento": "2024-10-03"
+}

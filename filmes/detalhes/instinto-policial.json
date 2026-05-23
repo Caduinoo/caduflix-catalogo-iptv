@@ -1,0 +1,34 @@
+{
+  "id": "instinto-policial",
+  "tipo": "filme",
+  "titulo": "Instinto Policial",
+  "ano": null,
+  "descricao": "Dois amigos inseparáveis, ex-policiais, abrem um pub e uma marina às margens de um lago encantador.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ls4g4OxSCf2egNa0D548VEbGL16.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pswuQ4FZ0rcGZwW3qAlm70UDDox.jpg",
+  "tmdbId": 721510,
+  "nota": 4.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786602,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769889,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Wyzwanie",
+  "dataLancamento": "2020-07-04"
+}

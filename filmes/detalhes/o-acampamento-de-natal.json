@@ -1,0 +1,34 @@
+{
+  "id": "o-acampamento-de-natal",
+  "tipo": "filme",
+  "titulo": "O Acampamento de Natal",
+  "ano": null,
+  "descricao": "Peyton redescobre o amor quando seus pais decidem organizar um final de semana com tema de Natal antes de vender o seu acampamento de verão.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6MaMhd0PNKmKnwSVOyuaBMuP76e.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/i5dXn8cVZbiYaLly7XBiLOaJZY6.jpg",
+  "tmdbId": 983224,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787820,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778736,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Campfire Christmas",
+  "dataLancamento": "2022-07-16"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "norma",
+  "tipo": "filme",
+  "titulo": "Norma",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dp2ejALPFdxFuCYf12sQmDNfA0.jpg",
+  "banner": null,
+  "tmdbId": 1271569,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787737,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Norma",
+  "dataLancamento": "1974-10-15"
+}

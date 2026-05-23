@@ -1,0 +1,99 @@
+{
+  "id": "rocketeer",
+  "tipo": "serie",
+  "titulo": "Rocketeer",
+  "ano": null,
+  "descricao": "Kit Secord, uma jovem garota que recebe um pacote surpresa em seu aniversário, revelando que é a próxima na fila para se tornar a Rocketeer, uma super-heroína lendária que tem a capacidade de voar com a ajuda de um jet pack movido a foguete. Armada com seu novo equipamento e identidade secreta, Kit está pronta para voar e salvar o dia com seu melhor amiga, Tesh, e seu tio mecânico de aviões, Ambrose, que se juntam a ela em aventuras épicas.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jkrGFCn9Yb0Lbb4kGROohoJ2gxM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tPyCjag3aJMGJYvtMmY6XRsTJRe.jpg",
+  "tmdbId": 95543,
+  "nota": 8.1,
+  "xtreamSeriesId": 2025,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10846304",
+          "tipo": "episodio",
+          "titulo": "Rocketeer S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10846304",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jkrGFCn9Yb0Lbb4kGROohoJ2gxM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846305",
+          "tipo": "episodio",
+          "titulo": "Rocketeer S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10846305",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jkrGFCn9Yb0Lbb4kGROohoJ2gxM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846306",
+          "tipo": "episodio",
+          "titulo": "Rocketeer S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10846306",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jkrGFCn9Yb0Lbb4kGROohoJ2gxM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846307",
+          "tipo": "episodio",
+          "titulo": "Rocketeer S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10846307",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jkrGFCn9Yb0Lbb4kGROohoJ2gxM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846308",
+          "tipo": "episodio",
+          "titulo": "Rocketeer S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10846308",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jkrGFCn9Yb0Lbb4kGROohoJ2gxM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846309",
+          "tipo": "episodio",
+          "titulo": "Rocketeer S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10846309",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jkrGFCn9Yb0Lbb4kGROohoJ2gxM.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Rocketeer",
+  "dataLancamento": "2019-11-08"
+}

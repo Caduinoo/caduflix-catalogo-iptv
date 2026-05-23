@@ -1,0 +1,34 @@
+{
+  "id": "uma-aventura-entre-irmaos",
+  "tipo": "filme",
+  "titulo": "Uma Aventura Entre Irmãos",
+  "ano": null,
+  "descricao": "A vida de três crianças muda radicalmente após perderem o seu pai. Elas decidem fugir do Serviço Social e embarcam em uma emocionante aventura que as fará entender o verdadeiro significado do que é ser irmão.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8BLdM0zzEbB1WcnBXrc8lc41heS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zbgcwjcweOvhNVdZBYrno3xPOPw.jpg",
+  "tmdbId": 583759,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790741,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771995,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "The Runaways",
+  "dataLancamento": "2019-03-04"
+}

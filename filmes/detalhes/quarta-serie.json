@@ -1,0 +1,34 @@
+{
+  "id": "quarta-serie",
+  "tipo": "filme",
+  "titulo": "Quarta Série",
+  "ano": null,
+  "descricao": "Quando encontram maconha em uma classe de crianças de 10 anos, os pais discutirão o tabu de uma forma muito pouco convencional: fumando um baseado.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mLotwUogrrxPdKRjMzTJ7NOf3K2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sS9JTApXCSxh1RBqCHKvx454Xd0.jpg",
+  "tmdbId": 857446,
+  "nota": 3.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789256,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776570,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Fourth Grade",
+  "dataLancamento": "2021-08-18"
+}

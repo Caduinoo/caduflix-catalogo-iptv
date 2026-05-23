@@ -1,0 +1,26 @@
+{
+  "id": "john-wick-1",
+  "tipo": "filme",
+  "titulo": "John Wick - De Volta ao Jogo",
+  "ano": null,
+  "descricao": "John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lBcQGk1ygGM2wYmpypFrPp0YohN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+  "tmdbId": 245891,
+  "nota": 7.455,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769932,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567044,
+  "tituloOriginal": "John Wick",
+  "dataLancamento": "2014-10-16"
+}

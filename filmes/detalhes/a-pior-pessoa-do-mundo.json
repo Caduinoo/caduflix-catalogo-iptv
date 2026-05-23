@@ -1,0 +1,34 @@
+{
+  "id": "a-pior-pessoa-do-mundo",
+  "tipo": "filme",
+  "titulo": "A Pior Pessoa do Mundo",
+  "ano": null,
+  "descricao": "Narra quatro anos na vida de Julie, uma jovem mulher navegando como águas turbulentas de sua vida amorosa e lutando para encontrar seu caminho profissional, o que a leva a ver quem ela realmente é.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4oWU9FPOvjCE85DaHm4vo89Whpz.jpg",
+  "tmdbId": 660120,
+  "nota": 7.432,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783722,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774675,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Verdens verste menneske",
+  "dataLancamento": "2021-10-13"
+}

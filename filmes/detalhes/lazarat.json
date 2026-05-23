@@ -1,0 +1,34 @@
+{
+  "id": "lazarat",
+  "tipo": "filme",
+  "titulo": "Batalhão de Elite",
+  "ano": null,
+  "descricao": "Um grupo de elite é enviado para uma pequena cidade da Albânia com a missão de acabar com a guerra entre os produtores de drogas e a polícia local.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1NyktzeiqGPTSXDTVWWYkBFpjRW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xzOJOkGPqaQr9wlhMM6KGbGNOmn.jpg",
+  "tmdbId": 541768,
+  "nota": 5.146,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786900,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769992,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Lazarat",
+  "dataLancamento": "2019-03-29"
+}

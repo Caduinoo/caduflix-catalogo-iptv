@@ -1,0 +1,99 @@
+{
+  "id": "queer-eye-brasil",
+  "tipo": "serie",
+  "titulo": "Queer Eye: Brasil",
+  "ano": null,
+  "descricao": "Os cinco fabulosos brasileiros usam o conhecimento em bem-estar, estilo, beleza, design e cultura para transformar a vida de heróis e heroínas da vida real.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8kOyOvnXvKLgFAqbajIZplAEAQ0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hgTdVgcYkpYtp6Vi0wGpbYkGiWF.jpg",
+  "tmdbId": 156658,
+  "nota": 5.4,
+  "xtreamSeriesId": 5128,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920859",
+          "tipo": "episodio",
+          "titulo": "Queer Eye Brasil S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920859",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8kOyOvnXvKLgFAqbajIZplAEAQ0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920860",
+          "tipo": "episodio",
+          "titulo": "Queer Eye Brasil S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920860",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8kOyOvnXvKLgFAqbajIZplAEAQ0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920861",
+          "tipo": "episodio",
+          "titulo": "Queer Eye Brasil S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920861",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8kOyOvnXvKLgFAqbajIZplAEAQ0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920862",
+          "tipo": "episodio",
+          "titulo": "Queer Eye Brasil S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920862",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8kOyOvnXvKLgFAqbajIZplAEAQ0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920863",
+          "tipo": "episodio",
+          "titulo": "Queer Eye Brasil S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10920863",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8kOyOvnXvKLgFAqbajIZplAEAQ0.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920864",
+          "tipo": "episodio",
+          "titulo": "Queer Eye Brasil S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10920864",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8kOyOvnXvKLgFAqbajIZplAEAQ0.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Queer Eye: Brasil",
+  "dataLancamento": "2022-08-24"
+}

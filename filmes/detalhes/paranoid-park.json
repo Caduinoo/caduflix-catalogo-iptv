@@ -1,0 +1,34 @@
+{
+  "id": "paranoid-park",
+  "tipo": "filme",
+  "titulo": "Paranoid Park",
+  "ano": null,
+  "descricao": "Alex é um skatista de 16 anos que, inadvertidamente, causa a morte de um segurança em uma estação de trem. Atormentado pela culpa, o jovem vê sua vida se desintegrar e, aconselhado por uma amiga, escreve uma carta contando como tudo aconteceu.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/g0kkqH8FT3lvbmgEFyy9daG4DA6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xRTTlWBks6IAmkehS2JjOtzdZXC.jpg",
+  "tmdbId": 1990,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788921,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776465,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Paranoid Park",
+  "dataLancamento": "2007-07-12"
+}

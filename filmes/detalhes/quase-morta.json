@@ -1,0 +1,42 @@
+{
+  "id": "quase-morta",
+  "tipo": "filme",
+  "titulo": "Quase Morta",
+  "ano": null,
+  "descricao": "María e Javi, amigos de longa data, estão afastados há anos. Até que Javi recebe a notícia de que Maria tem apenas um mês de vida, ai ele deixa tudo em Montevidéu para vê-la uma última vez em Buenos Aires, pois a sua “data de validade” vence no Ano Novo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aVasblXf2bU7SSLiygd0ra84sUM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qDFb1ZDvUqJvPF7HniZnmLXsDpQ.jpg",
+  "tmdbId": 791295,
+  "nota": 7.013,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789259,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773704,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782879,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Casi muerta",
+  "dataLancamento": "2023-07-06"
+}

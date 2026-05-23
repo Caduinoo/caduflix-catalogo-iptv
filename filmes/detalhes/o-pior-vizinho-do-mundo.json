@@ -1,0 +1,42 @@
+{
+  "id": "o-pior-vizinho-do-mundo",
+  "tipo": "filme",
+  "titulo": "O Pior Vizinho do Mundo",
+  "ano": null,
+  "descricao": "A história de Otto Anderson, um viúvo mal-humorado que está muito preso aos seus hábitos. Quando uma jovem família animada se muda ao lado, ele conhece sua igual em Marisol, esperta e grávida, o que leva a uma amizade improvável que vai deixar o mundo de Otto de cabeça para baixo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4AcA1PCUctNHKOrOq66im0gO8pe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9ZznETDyfPWVugRiv0jfGrkRftw.jpg",
+  "tmdbId": 937278,
+  "nota": 7.752,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788368,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773444,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782746,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "A Man Called Otto",
+  "dataLancamento": "2022-12-28"
+}

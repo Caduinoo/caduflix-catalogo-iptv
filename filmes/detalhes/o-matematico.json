@@ -1,0 +1,34 @@
+{
+  "id": "o-matematico",
+  "tipo": "filme",
+  "titulo": "O Matemático",
+  "ano": null,
+  "descricao": "A calorosa história do imigrante polonês e matemático Stan Ulam, que se mudou para os EUA na década de 1930. Stan lida com as difíceis perdas de familiares e amigos enquanto ajuda a criar a bomba de hidrogênio e o primeiro computador.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rrDBynsjlDjQ2KkXO69jn1SIAWw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/npEUveGYH2H7VTlM8k6xH6Jcvqr.jpg",
+  "tmdbId": 684281,
+  "nota": 6.071,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788256,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776180,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Adventures of a Mathematician",
+  "dataLancamento": "2021-06-11"
+}

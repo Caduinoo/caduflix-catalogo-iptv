@@ -1,0 +1,51 @@
+{
+  "id": "agora-morra-o-caso-de-michelle-carter",
+  "tipo": "serie",
+  "titulo": "Eu Te Amo, Agora Morra: O Caso de Michelle Carter",
+  "ano": null,
+  "descricao": "Em 2014, o jovem Conrad Roy cometeu suicídio se afogando com CO2 em seu carro. A polícia logo descobriu uma série de mensagens de texto de sua namorada, Michelle Carter, em que ela lhe pedia que acabasse com sua vida. Este documentário original da HBO explora o julgamento de Michelle, que trouxe para a mesa questões desconfortáveis sobre a sociedade, a cultura popular, a depressão e o uso da tecnologia.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/927dCi1Imc3CPLna9gzvJyExV7n.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uQFZw64nUFcrurIJr1Ex5SmqWZa.jpg",
+  "tmdbId": 87518,
+  "nota": 7,
+  "xtreamSeriesId": 5780,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10971181",
+          "tipo": "episodio",
+          "titulo": "Agora Morra O Caso de Michelle Carter S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10971181",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/927dCi1Imc3CPLna9gzvJyExV7n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971182",
+          "tipo": "episodio",
+          "titulo": "Agora Morra O Caso de Michelle Carter S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10971182",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/927dCi1Imc3CPLna9gzvJyExV7n.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+  "dataLancamento": "2019-07-09"
+}

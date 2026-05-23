@@ -1,0 +1,34 @@
+{
+  "id": "a-sentinela",
+  "tipo": "filme",
+  "titulo": "A Sentinela",
+  "ano": null,
+  "descricao": "Transferida para casa depois de uma missão traumatizante, uma soldado francesa usa suas habilidades letais para caçar o homem que feriu sua irmã.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eTgQlyIQH0nA5BsmYpvCzSPAorg.jpg",
+  "tmdbId": 793723,
+  "nota": 5.834,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769202,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781993,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Sentinelle",
+  "dataLancamento": "2021-03-05"
+}

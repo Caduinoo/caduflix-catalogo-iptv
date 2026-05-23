@@ -1,0 +1,51 @@
+{
+  "id": "arquivando-o-amor",
+  "tipo": "serie",
+  "titulo": "Arquivando o Amor",
+  "ano": null,
+  "descricao": "Uma comédia romântica sobre Joo In-ah, uma carismática chefe do departamento de auditoria com um segredo, e Noh Ki-joon, o ás do departamento que é repentinamente rebaixado para lidar com os escândalos da empresa.",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ecZy9v3Vd0nGLhN6IKmn9i189WR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+  "tmdbId": 297640,
+  "nota": 8.5,
+  "xtreamSeriesId": 7390,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11039340",
+          "tipo": "episodio",
+          "titulo": "Arquivando o Amor (2026) [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11039340",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ecZy9v3Vd0nGLhN6IKmn9i189WR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11039341",
+          "tipo": "episodio",
+          "titulo": "Arquivando o Amor (2026) [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11039341",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ecZy9v3Vd0nGLhN6IKmn9i189WR.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "은밀한 감사",
+  "dataLancamento": "2026-04-25"
+}

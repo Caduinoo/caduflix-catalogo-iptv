@@ -1,0 +1,34 @@
+{
+  "id": "bullitt",
+  "tipo": "filme",
+  "titulo": "Bullitt",
+  "ano": null,
+  "descricao": "Um policial linha-dura e dois de seus colegas são designados para protegerem uma testemunha antes de um julgamento. A proteção é ineficaz, e a testemunha é assassinada. Os policiais partem, então, atrás dos culpados.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iKO7UEnXJUumjbjNwP4719n7vds.jpg",
+  "tmdbId": 916,
+  "nota": 7.144,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784749,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781852,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Bullitt",
+  "dataLancamento": "1968-10-17"
+}

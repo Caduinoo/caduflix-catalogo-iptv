@@ -1,0 +1,39 @@
+{
+  "id": "topi",
+  "tipo": "serie",
+  "titulo": "I topi",
+  "ano": null,
+  "descricao": "O Topa ou não Topa envolve um participante, um apresentador, um \"banqueiro\" e um determinado número de maletas ou caixas, cada uma com um valor em dinheiro inicialmente desconhecido. O jogo se inicia com o participante escolhendo uma maleta cujo valor manterá desconhecido até o fim do programa. Durante o jogo, o participante escolhe, uma de cada vez, as malas restantes para serem eliminadas, que vão tendo o seu valor revelado. Cada vez que um determinado número de maletas é aberto, o banqueiro oferece uma certa quantia de dinheiro. Se o participante aceitar a oferta, o jogo termina e ele ganha o valor oferecido. Se o participante rejeitar todas as ofertas, ele ganha o valor contido na maleta escolhida inicialmente.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z0SCrIyZv10GfhHHJAoZPdewuIA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/55Kfj16LDJFPx2U6v9U1tUNg0q6.jpg",
+  "tmdbId": 84775,
+  "nota": 7.1,
+  "xtreamSeriesId": 6410,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10990407",
+          "tipo": "episodio",
+          "titulo": "Topi S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10990407",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/f9ktwiBfkN34AU7C8NW8XC58tBd.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "I topi",
+  "dataLancamento": "2018-10-06"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "chef",
+  "tipo": "filme",
+  "titulo": "Chef",
+  "ano": null,
+  "descricao": "Depois de uma discussão pública com um crítico gastronômico, um chef deixa seu trabalho em um restaurante popular de Los Angeles para abrir um food truck com o filho. Enquanto recupera o amor pela comida e seu talento culinário, ele tenta aproximar sua família distante.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1yLaXY38bywjmhakKVj5mzdGuzA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/12rDMkiQFeXrLhlIbJpArL8wOHf.jpg",
+  "tmdbId": 212778,
+  "nota": 7.114,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784906,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772452,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Chef",
+  "dataLancamento": "2014-05-08"
+}

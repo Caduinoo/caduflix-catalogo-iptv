@@ -1,0 +1,34 @@
+{
+  "id": "um-pessimo-cupido",
+  "tipo": "filme",
+  "titulo": "Um Péssimo Cupido",
+  "ano": null,
+  "descricao": "Dave é um jovem apaixonado que acaba de ser dispensado pela sua namorada. Para tentar recuperar sua paixão de volta, ele contará com a ajuda de Archie, um cupido disposto a usar de todos os meios para garantir que o amor sempre vença.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jtRq9nxEdoYrRzQUsSNKH23zmy2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jbDw72K8HSRirAeumkbukXy5MZT.jpg",
+  "tmdbId": 796126,
+  "nota": 4.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790707,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774064,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Bad Cupid",
+  "dataLancamento": "2021-02-11"
+}

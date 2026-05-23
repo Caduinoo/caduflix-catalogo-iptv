@@ -1,0 +1,75 @@
+{
+  "id": "de-volta-a-grande-festa",
+  "tipo": "serie",
+  "titulo": "De Volta à Grande Festa",
+  "ano": null,
+  "descricao": "Quando o noivo de Razan aparece sem avisar no meio de uma importante celebração religiosa da família, a moça tenta convencer a todos de que ele é um pretendente adequado.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hUW9t43qJPe5jkf5qUd3Ltlwbw3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mrFXS3n8RS0ymO8GJ2DIr13c8ds.jpg",
+  "tmdbId": 235914,
+  "nota": 7,
+  "xtreamSeriesId": 4369,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10905941",
+          "tipo": "episodio",
+          "titulo": "De Volta a Grande Festa S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10905941",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hUW9t43qJPe5jkf5qUd3Ltlwbw3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905942",
+          "tipo": "episodio",
+          "titulo": "De Volta a Grande Festa S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10905942",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hUW9t43qJPe5jkf5qUd3Ltlwbw3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905943",
+          "tipo": "episodio",
+          "titulo": "De Volta a Grande Festa S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10905943",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hUW9t43qJPe5jkf5qUd3Ltlwbw3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905944",
+          "tipo": "episodio",
+          "titulo": "De Volta a Grande Festa S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10905944",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hUW9t43qJPe5jkf5qUd3Ltlwbw3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "جايبة العيد",
+  "dataLancamento": "2023-11-15"
+}

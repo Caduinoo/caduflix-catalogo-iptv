@@ -1,0 +1,34 @@
+{
+  "id": "cacada",
+  "tipo": "filme",
+  "titulo": "A Caçada",
+  "ano": null,
+  "descricao": "Doze estranhos acordam em uma clareira. Eles não sabem onde estão ou como chegaram lá. Eles não sabem que foram escolhidos para um propósito muito específico, A Caçada.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/evo3crueRIK9Eutb3lnDLVbD2xD.jpg",
+  "tmdbId": 514847,
+  "nota": 6.646,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784853,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780552,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "The Hunt",
+  "dataLancamento": "2020-03-11"
+}

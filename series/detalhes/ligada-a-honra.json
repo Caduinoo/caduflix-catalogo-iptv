@@ -1,0 +1,36 @@
+{
+  "id": "ligada-a-honra",
+  "tipo": "serie",
+  "titulo": "Ligada À Honra*",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "REEL SHORTS²"
+  ],
+  "capa": "https://i.ibb.co/3mS6ttJ8/A1-DBC42-A-1-BD9-46-D7-BAFF-B884328-C170-E.png",
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 7184,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11032083",
+          "tipo": "episodio",
+          "titulo": "EP Único",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11032083",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1
+}

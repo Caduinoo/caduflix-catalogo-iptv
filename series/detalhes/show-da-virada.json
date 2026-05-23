@@ -1,0 +1,51 @@
+{
+  "id": "show-da-virada",
+  "tipo": "serie",
+  "titulo": "Show da Virada",
+  "ano": null,
+  "descricao": "Parte da programação especial de fim de ano da Globo, o Show da Virada é apresentado no último dia do ano, em uma festa que reúne grandes nomes da música brasileira.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fDQMQLHPrD4sHTmVYeFarXkJgSD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qKmF4aNPnFauOg3NVLrAp3C5K63.jpg",
+  "tmdbId": 213502,
+  "nota": null,
+  "xtreamSeriesId": 3255,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10879467",
+          "tipo": "episodio",
+          "titulo": "Show da Virada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10879467",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fDQMQLHPrD4sHTmVYeFarXkJgSD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10879468",
+          "tipo": "episodio",
+          "titulo": "Show da Virada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10879468",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fDQMQLHPrD4sHTmVYeFarXkJgSD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Show da Virada",
+  "dataLancamento": "1998-12-31"
+}

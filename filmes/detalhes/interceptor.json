@@ -1,0 +1,42 @@
+{
+  "id": "interceptor",
+  "tipo": "filme",
+  "titulo": "Interceptor",
+  "ano": null,
+  "descricao": "Como última sobrevivente em uma estação de interceptação de mísseis, uma tenente do exército precisa lutar sozinha contra um plano terrorista que ameaça os EUA.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jBKNAfANo4e3rzJtb7aHfYNd7b3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/i2tcQ9nDJpdJELPA82eCd7Irasd.jpg",
+  "tmdbId": 831946,
+  "nota": 6.036,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786606,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769893,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782461,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Interceptor",
+  "dataLancamento": "2022-05-26"
+}

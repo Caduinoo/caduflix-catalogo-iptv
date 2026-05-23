@@ -1,0 +1,34 @@
+{
+  "id": "dia-de-caca",
+  "tipo": "filme",
+  "titulo": "Dia de Caça",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/urwG2xu7pmvR8EGMb6uRzJYWvJf.jpg",
+  "banner": null,
+  "tmdbId": 1235032,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785465,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779709,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Dia de Caça",
+  "dataLancamento": "2016-08-10"
+}

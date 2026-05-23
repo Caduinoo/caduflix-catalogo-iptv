@@ -1,0 +1,123 @@
+{
+  "id": "jovem-sherlock",
+  "tipo": "serie",
+  "titulo": "Jovem Sherlock",
+  "ano": null,
+  "descricao": "Nesse mistério repleto de ação, testemunhe a história de origem de Sherlock Holmes em uma releitura irreverente dos primórdios do icônico personagem.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bwqY58EnQNoIfDqWoITWBzcdguN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8mmDLb108DoFZlE8sfc64TRqLvm.jpg",
+  "tmdbId": 255661,
+  "nota": 7.863,
+  "xtreamSeriesId": 7102,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016920",
+          "tipo": "episodio",
+          "titulo": "Jovem Sherlock S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016920",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7ObRqQsXQTRwvfTesW8SkBvm9lV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016921",
+          "tipo": "episodio",
+          "titulo": "Jovem Sherlock S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016921",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7ObRqQsXQTRwvfTesW8SkBvm9lV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016922",
+          "tipo": "episodio",
+          "titulo": "Jovem Sherlock S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11016922",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7ObRqQsXQTRwvfTesW8SkBvm9lV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016923",
+          "tipo": "episodio",
+          "titulo": "Jovem Sherlock S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11016923",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7ObRqQsXQTRwvfTesW8SkBvm9lV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016924",
+          "tipo": "episodio",
+          "titulo": "Jovem Sherlock S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11016924",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7ObRqQsXQTRwvfTesW8SkBvm9lV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016925",
+          "tipo": "episodio",
+          "titulo": "Jovem Sherlock S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11016925",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7ObRqQsXQTRwvfTesW8SkBvm9lV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016926",
+          "tipo": "episodio",
+          "titulo": "Jovem Sherlock S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11016926",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7ObRqQsXQTRwvfTesW8SkBvm9lV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016927",
+          "tipo": "episodio",
+          "titulo": "Jovem Sherlock S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11016927",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7ObRqQsXQTRwvfTesW8SkBvm9lV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Young Sherlock",
+  "dataLancamento": "2026-03-04"
+}

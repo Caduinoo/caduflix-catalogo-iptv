@@ -1,0 +1,63 @@
+{
+  "id": "aqui-quem-fala-e-o-zodiaco",
+  "tipo": "serie",
+  "titulo": "Aqui Quem Fala é o Zodíaco",
+  "ano": null,
+  "descricao": "Nesta série documental, uma família em busca de respostas divulga pistas e depoimentos reveladores sobre o principal suspeito dos assassinatos do Zodíaco.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2j8BVh5r5CAKLEzvUq7z6O2VtoL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rissCZ7z06Zm41q1KDc2TDDJRf.jpg",
+  "tmdbId": 272299,
+  "nota": 7.276,
+  "xtreamSeriesId": 4084,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901112",
+          "tipo": "episodio",
+          "titulo": "Aqui Quem Fala e o Zodiaco S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901112",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2j8BVh5r5CAKLEzvUq7z6O2VtoL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901113",
+          "tipo": "episodio",
+          "titulo": "Aqui Quem Fala e o Zodiaco S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901113",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2j8BVh5r5CAKLEzvUq7z6O2VtoL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901114",
+          "tipo": "episodio",
+          "titulo": "Aqui Quem Fala e o Zodiaco S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901114",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2j8BVh5r5CAKLEzvUq7z6O2VtoL.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "This Is the Zodiac Speaking",
+  "dataLancamento": "2024-10-23"
+}

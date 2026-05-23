@@ -1,0 +1,123 @@
+{
+  "id": "minha-casa-repaginada",
+  "tipo": "serie",
+  "titulo": "Minha Casa Repaginada",
+  "ano": null,
+  "descricao": "Quatro especialistas em design criam soluções para otimizar o espaço, com as mais inovadoras ideias de engenharia que transformam as casas de várias famílias.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bJIj5w9IN4FicVYWzaPmaI55QAm.jpg",
+  "tmdbId": 228739,
+  "nota": 4.3,
+  "xtreamSeriesId": 4812,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10914909",
+          "tipo": "episodio",
+          "titulo": "Minha Casa Repaginada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10914909",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914910",
+          "tipo": "episodio",
+          "titulo": "Minha Casa Repaginada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10914910",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914911",
+          "tipo": "episodio",
+          "titulo": "Minha Casa Repaginada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10914911",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914912",
+          "tipo": "episodio",
+          "titulo": "Minha Casa Repaginada S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10914912",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914913",
+          "tipo": "episodio",
+          "titulo": "Minha Casa Repaginada S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10914913",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914914",
+          "tipo": "episodio",
+          "titulo": "Minha Casa Repaginada S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10914914",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914915",
+          "tipo": "episodio",
+          "titulo": "Minha Casa Repaginada S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10914915",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914916",
+          "tipo": "episodio",
+          "titulo": "Minha Casa Repaginada S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10914916",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Hack My Home",
+  "dataLancamento": "2023-07-07"
+}

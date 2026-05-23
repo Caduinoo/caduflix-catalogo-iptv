@@ -1,0 +1,99 @@
+{
+  "id": "ololade",
+  "tipo": "serie",
+  "titulo": "Olóládé",
+  "ano": null,
+  "descricao": "Dois amigos ficam ricos de repente, de um jeito inesperado. Parece bom demais para ser verdade, até que eles se envolvem em um esquema de lavagem de dinheiro.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nITszxZ1CDwu2Ml1xFvnDF81sbV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6yuWs5ZM7aVMLh9bstcwPcPBKM3.jpg",
+  "tmdbId": 240196,
+  "nota": 8,
+  "xtreamSeriesId": 5012,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10917451",
+          "tipo": "episodio",
+          "titulo": "Ololade S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10917451",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nITszxZ1CDwu2Ml1xFvnDF81sbV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917452",
+          "tipo": "episodio",
+          "titulo": "Ololade S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10917452",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nITszxZ1CDwu2Ml1xFvnDF81sbV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917453",
+          "tipo": "episodio",
+          "titulo": "Ololade S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10917453",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nITszxZ1CDwu2Ml1xFvnDF81sbV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917454",
+          "tipo": "episodio",
+          "titulo": "Ololade S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10917454",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nITszxZ1CDwu2Ml1xFvnDF81sbV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917455",
+          "tipo": "episodio",
+          "titulo": "Ololade S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10917455",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nITszxZ1CDwu2Ml1xFvnDF81sbV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10917456",
+          "tipo": "episodio",
+          "titulo": "Ololade S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10917456",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nITszxZ1CDwu2Ml1xFvnDF81sbV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Olóládé",
+  "dataLancamento": "2023-11-24"
+}

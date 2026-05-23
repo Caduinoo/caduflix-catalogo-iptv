@@ -1,0 +1,75 @@
+{
+  "id": "voces-nao-me-conhecem",
+  "tipo": "serie",
+  "titulo": "Vocês Não Me Conhecem",
+  "ano": null,
+  "descricao": "Durante um julgamento em que todas as provas apontam para ele, o réu decide usar as alegações finais para relatar seu envolvimento com uma mulher misteriosa.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iyKusMmRJ74eJabH76LAz2GJTtn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iz0qIneDSPM3Mns9rhSd3vN0oKk.jpg",
+  "tmdbId": 139686,
+  "nota": 6.254,
+  "xtreamSeriesId": 5453,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927888",
+          "tipo": "episodio",
+          "titulo": "Vocês Não Me Conhecem S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927888",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iyKusMmRJ74eJabH76LAz2GJTtn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927889",
+          "tipo": "episodio",
+          "titulo": "Vocês Não Me Conhecem S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927889",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iyKusMmRJ74eJabH76LAz2GJTtn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927890",
+          "tipo": "episodio",
+          "titulo": "Vocês Não Me Conhecem S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927890",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iyKusMmRJ74eJabH76LAz2GJTtn.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927891",
+          "tipo": "episodio",
+          "titulo": "Vocês Não Me Conhecem S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927891",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iyKusMmRJ74eJabH76LAz2GJTtn.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "You Don't Know Me",
+  "dataLancamento": "2021-12-05"
+}

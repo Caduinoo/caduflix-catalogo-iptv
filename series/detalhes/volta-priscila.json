@@ -1,0 +1,75 @@
+{
+  "id": "volta-priscila",
+  "tipo": "serie",
+  "titulo": "Volta Priscila",
+  "ano": null,
+  "descricao": "Em 2004, o Brasil é abalado pelo desaparecimento de Priscila, irmã do campeão mundial de MMA Vitor Belfort. A polícia corre contra o tempo para chegar à solução do caso, mas, 20 anos depois, o que resta são mais perguntas do que respostas.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/za3rDKjsuBdVhWqC7HA8itjKnNH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sUfvNWZ9SpWJ0T52ulW9lS87dAA.jpg",
+  "tmdbId": 272463,
+  "nota": 6.8,
+  "xtreamSeriesId": 2128,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10849166",
+          "tipo": "episodio",
+          "titulo": "Volta Priscila S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10849166",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/za3rDKjsuBdVhWqC7HA8itjKnNH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849167",
+          "tipo": "episodio",
+          "titulo": "Volta Priscila S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10849167",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/za3rDKjsuBdVhWqC7HA8itjKnNH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849168",
+          "tipo": "episodio",
+          "titulo": "Volta Priscila S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10849168",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/za3rDKjsuBdVhWqC7HA8itjKnNH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849169",
+          "tipo": "episodio",
+          "titulo": "Volta Priscila S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10849169",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/za3rDKjsuBdVhWqC7HA8itjKnNH.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Volta Priscila",
+  "dataLancamento": "2024-09-25"
+}

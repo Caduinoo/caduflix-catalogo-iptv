@@ -1,0 +1,34 @@
+{
+  "id": "o-grinch-musical",
+  "tipo": "filme",
+  "titulo": "O Grinch - Musical",
+  "ano": null,
+  "descricao": "Em uma adaptação musical do clássico livro infantil escrito por Dr. Seuss, Grinch descobre que há mais sobre o Natal do que ele imaginava.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rHJlD4ElNBZmejPATAjkuLUooSB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6ClzcSlJLYKsAK1MJ1EhgKvWd3O.jpg",
+  "tmdbId": 762951,
+  "nota": 5.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788146,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781745,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Dr. Seuss' The Grinch Musical",
+  "dataLancamento": "2020-12-09"
+}

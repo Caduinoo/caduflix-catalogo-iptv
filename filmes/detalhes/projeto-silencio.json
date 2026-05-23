@@ -1,0 +1,42 @@
+{
+  "id": "projeto-silencio",
+  "tipo": "filme",
+  "titulo": "Projeto Silêncio",
+  "ano": null,
+  "descricao": "Na trama, acompanhamos um grupo de pessoas que ficam presas em uma ponte coberta por neblina após sofrerem um acidente e que terão que sobreviver a uma ameaça desconhecida que foi libertada.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cBpeLbt1YM7Hg5DTrR54alhtZMA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/39CRS71VP0d9VOsJ5TVgD8IaQnT.jpg",
+  "tmdbId": 726139,
+  "nota": 6.879,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11039821,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11039824,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050075,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "탈출: 프로젝트 사일런스",
+  "dataLancamento": "2024-07-11"
+}

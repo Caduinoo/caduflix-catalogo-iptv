@@ -1,0 +1,51 @@
+{
+  "id": "os-caminhos-de-jesus",
+  "tipo": "serie",
+  "titulo": "Os Caminhos de Jesus",
+  "ano": null,
+  "descricao": "Disposto a investigar o poder da mensagem de Jesus, o diretor e escritor Rodrigo Alvarez viaja pelo mundo atrás de textos sagrados e descobertas arqueológicas surpreendentes sobre a vida do messias vindo de Nazaré.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ndKhTdXTm6HKlI9G1eC75Oy7soJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/303Sq5iN2qb6NjZQ1ahdn0dVvRL.jpg",
+  "tmdbId": 215836,
+  "nota": 7,
+  "xtreamSeriesId": 3161,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10875817",
+          "tipo": "episodio",
+          "titulo": "Os Caminhos de Jesus S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10875817",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ndKhTdXTm6HKlI9G1eC75Oy7soJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875818",
+          "tipo": "episodio",
+          "titulo": "Os Caminhos de Jesus S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10875818",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ndKhTdXTm6HKlI9G1eC75Oy7soJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Os Caminhos de Jesus",
+  "dataLancamento": "2022-12-09"
+}

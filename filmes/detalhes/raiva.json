@@ -1,0 +1,34 @@
+{
+  "id": "raiva",
+  "tipo": "filme",
+  "titulo": "Raiva",
+  "ano": null,
+  "descricao": "Alentejo, Portugal, 1950. Em uma região desolada, onde o vento parece falar, onde reina a miséria e a fome sobre os mais pobres, um homem desesperado se vinga daqueles que causaram sua ruína durante a noite mais escura, incapaz de obter honestamente o pão necessário para alimentar sua família durante o dia.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rydxJQaEIQkzg9nw89fDr8SX2Tn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qi3XgxbL2yDosepQSdXF9PV9ptZ.jpg",
+  "tmdbId": 510228,
+  "nota": 6.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789344,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781370,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Raiva",
+  "dataLancamento": "2018-10-31"
+}

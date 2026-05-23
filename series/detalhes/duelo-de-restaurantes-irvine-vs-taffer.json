@@ -1,0 +1,63 @@
+{
+  "id": "duelo-de-restaurantes-irvine-vs-taffer",
+  "tipo": "serie",
+  "titulo": "Duelo de Restaurantes: Irvine vs. Taffer",
+  "ano": null,
+  "descricao": "Dois titãs dos restaurantes, o chef Robert Irvine e o empresário Jon Taffer, se enfrentam em um épico duelo de jantar. Eles colocam suas habilidades únicas em jogo para descobrir qual deles é o verdadeiro campeão e ganha direitos épicos de se gabar.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nDP2GTfOsuDOPie17OfTrZfbMvj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3MV1WkwDECPiqIoI9423abKYf3I.jpg",
+  "tmdbId": 158947,
+  "nota": null,
+  "xtreamSeriesId": 5972,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10977100",
+          "tipo": "episodio",
+          "titulo": "Duelo de Restaurantes Irvine vs. Taffer S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10977100",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nDP2GTfOsuDOPie17OfTrZfbMvj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10977101",
+          "tipo": "episodio",
+          "titulo": "Duelo de Restaurantes Irvine vs. Taffer S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10977101",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nDP2GTfOsuDOPie17OfTrZfbMvj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10977102",
+          "tipo": "episodio",
+          "titulo": "Duelo de Restaurantes Irvine vs. Taffer S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10977102",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nDP2GTfOsuDOPie17OfTrZfbMvj.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Restaurant Rivals: Irvine vs. Taffer",
+  "dataLancamento": "2022-03-03"
+}

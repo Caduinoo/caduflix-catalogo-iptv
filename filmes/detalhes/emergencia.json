@@ -1,0 +1,34 @@
+{
+  "id": "emergencia",
+  "tipo": "filme",
+  "titulo": "Emergencia",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lY3k1S68VDeVpAG4HMFep8XwKOm.jpg",
+  "banner": null,
+  "tmdbId": 1028884,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785718,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772701,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Emergencia",
+  "dataLancamento": "2022-09-29"
+}

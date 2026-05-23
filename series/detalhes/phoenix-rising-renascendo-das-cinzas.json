@@ -1,0 +1,51 @@
+{
+  "id": "phoenix-rising-renascendo-das-cinzas",
+  "tipo": "serie",
+  "titulo": "Phoenix Rising: Renascendo das Cinzas",
+  "ano": null,
+  "descricao": "Um documentário em que a atriz e ativista Evan Rachel Wood reflete sobre sua experiência de abuso doméstico.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ejphWemrY0mC6prQbDJuaoyjr7B.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/j7VWVJLVxEWEdteqyDkEMFVD2Q0.jpg",
+  "tmdbId": 158320,
+  "nota": 7.1,
+  "xtreamSeriesId": 3783,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10894962",
+          "tipo": "episodio",
+          "titulo": "Phoenix Rising Renascendo das Cinzas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10894962",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ejphWemrY0mC6prQbDJuaoyjr7B.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894963",
+          "tipo": "episodio",
+          "titulo": "Phoenix Rising Renascendo das Cinzas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10894963",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ejphWemrY0mC6prQbDJuaoyjr7B.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Phoenix Rising",
+  "dataLancamento": "2022-03-15"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cartas-de-natal",
+  "tipo": "filme",
+  "titulo": "Cartas de Natal",
+  "ano": null,
+  "descricao": "Dois irmãos recebem uma caneta mágica do Papai Noel, capaz de realizar desejos. Cheios de esperança, eles fazem um pedido que desejam mais do que tudo: que seus pais separados fiquem juntos.",
+  "generos": [
+    "LEGENDADOS",
+    "4K",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5TDwUS4AyTKQUCtWyodTtNsQItd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/as1cJklaKTOjcsNbUd5y69Gpvsr.jpg",
+  "tmdbId": 1180795,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784817,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11034913,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049720,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Letters to Santa",
+  "dataLancamento": "2023-11-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "beckett",
+  "tipo": "filme",
+  "titulo": "Beckett",
+  "ano": null,
+  "descricao": "Depois de um trágico acidente de carro na Grécia, o turista americano Beckett se envolve em uma perigosa conspiração política e precisa lutar para salvar a própria vida.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hGIxOfxsgcNS8aco8xgFlv3rYnt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lzLzKXq2C0kL5Pu7VW5sNl5KV6L.jpg",
+  "tmdbId": 597433,
+  "nota": 6.169,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784559,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769383,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Beckett",
+  "dataLancamento": "2021-08-04"
+}

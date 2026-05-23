@@ -1,0 +1,34 @@
+{
+  "id": "rute-e-boaz",
+  "tipo": "filme",
+  "titulo": "Rute e Boaz",
+  "ano": null,
+  "descricao": "Uma cantora talentosa deixa a cena musical de Atlanta e recomeça em uma cidadezinha do Tennessee. Lá, encontra o amor e um propósito, mas não consegue fugir do passado.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/u7tqBQrxq6AyT7LMcBzv3vykysn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/m2e8GUES92IaXRCLxWElJnlZ34w.jpg",
+  "tmdbId": 1371189,
+  "nota": 7.553,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789549,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779373,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Ruth & Boaz",
+  "dataLancamento": "2025-09-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "natal-sangrento",
+  "tipo": "filme",
+  "titulo": "bloody Christmas",
+  "ano": null,
+  "descricao": "Você achou uma fita perdida, o quê será que tem nela?",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ig7w7virCQ9hk4TyTzozNNLeUba.jpg",
+  "banner": null,
+  "tmdbId": 1577232,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787645,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780975,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10791450,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Natal sangrento",
+  "dataLancamento": "2025-12-01"
+}

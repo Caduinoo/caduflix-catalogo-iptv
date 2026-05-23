@@ -1,0 +1,26 @@
+{
+  "id": "amulet",
+  "tipo": "filme",
+  "titulo": "Amuleto",
+  "ano": null,
+  "descricao": "Um ex-soldado encontra refúgio da guerra numa casa em ruínas, cuidando de uma mulher e sua mãe moribunda. Ele suspeita que a mulher mais jovem é escravizada por um demônio, mas nem tudo é o que parece.",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uxpA5PxgvsqGOrNMwiL4RheFa0T.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gmHICav3mM6N82yt5lyYa3q1FqS.jpg",
+  "tmdbId": 653615,
+  "nota": 5.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784172,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Amulet",
+  "dataLancamento": "2020-07-24"
+}

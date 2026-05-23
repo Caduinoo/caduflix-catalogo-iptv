@@ -1,0 +1,34 @@
+{
+  "id": "projeto-eden",
+  "tipo": "filme",
+  "titulo": "Projeto Eden",
+  "ano": null,
+  "descricao": "Ajudada por um ex-oficial militar, uma jovem mulher se torna uma fugitiva involuntária, depois de descobrir que o estado catatônico de seu filho pode estar no coração de uma conspiração global.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1gZHo8UqeSgj7h7PgG9ncMe41qL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gCP6SxQc2oyH9Dt7zDh0L5SAZbN.jpg",
+  "tmdbId": 444595,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789189,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780013,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Project Eden: Vol. I",
+  "dataLancamento": "2017-08-02"
+}

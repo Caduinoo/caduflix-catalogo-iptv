@@ -1,0 +1,75 @@
+{
+  "id": "seddulbahir-32-saat",
+  "tipo": "serie",
+  "titulo": "Seddülbahir 32 Saat",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "TURCAS | MEXICANAS²"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nlo50hSuSdQyP0I4eYtU2Ct5B2K.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mSEwqjAijksprR8p1u7PNNkRbud.jpg",
+  "tmdbId": 65626,
+  "nota": 9.3,
+  "xtreamSeriesId": 7515,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11041641",
+          "tipo": "episodio",
+          "titulo": "Seddülbahir 32 Saat [L] - S01E01 - Episódio 1",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11041641",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFF3aOlWdFN2zJvXUWVc5s43ddL.jpg",
+          "duracao": "02:16:22",
+          "descricao": ""
+        },
+        {
+          "id": "ep-11041642",
+          "tipo": "episodio",
+          "titulo": "Seddülbahir 32 Saat [L] - S01E02 - Episódio 2",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11041642",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/huKG5EzCtLRwG6ds4B3uYv2I9aF.jpg",
+          "duracao": "01:46:28",
+          "descricao": ""
+        },
+        {
+          "id": "ep-11041643",
+          "tipo": "episodio",
+          "titulo": "Seddülbahir 32 Saat [L] - S01E03 - Episódio 3",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11041643",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fs4XqXLBGTkrX1SoA3XbG9238eS.jpg",
+          "duracao": "01:36:32",
+          "descricao": ""
+        },
+        {
+          "id": "ep-11041644",
+          "tipo": "episodio",
+          "titulo": "Seddülbahir 32 Saat [L] - S01E04 - Episódio 4",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11041644",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TQDJQ2soYlsLjMHw1NMG6QzCCN.jpg",
+          "duracao": "01:35:50",
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Seddülbahir 32 Saat",
+  "dataLancamento": "2016-01-14"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "red-alert",
+  "tipo": "serie",
+  "titulo": "Red Alert",
+  "ano": null,
+  "descricao": "Da emboscada num festival de música à resistência de uma família em casa, pessoas enfrentam situações de vida ou morte quando uma invasão terrorista transforma o sul de Israel em zona de guerra.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8zVyTXoTXAKu7KKIOlsmId2k8TE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7qisBz1DPNrYNb5aj8saEXom4Pg.jpg",
+  "tmdbId": 301809,
+  "nota": 7.75,
+  "xtreamSeriesId": 585,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10805658",
+          "tipo": "episodio",
+          "titulo": "Red Alert S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10805658",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8zVyTXoTXAKu7KKIOlsmId2k8TE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805659",
+          "tipo": "episodio",
+          "titulo": "Red Alert S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10805659",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8zVyTXoTXAKu7KKIOlsmId2k8TE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805660",
+          "tipo": "episodio",
+          "titulo": "Red Alert S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10805660",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8zVyTXoTXAKu7KKIOlsmId2k8TE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805661",
+          "tipo": "episodio",
+          "titulo": "Red Alert S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10805661",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8zVyTXoTXAKu7KKIOlsmId2k8TE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "אור ראשון",
+  "dataLancamento": "2025-10-04"
+}

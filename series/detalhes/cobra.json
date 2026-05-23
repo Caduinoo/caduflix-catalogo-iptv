@@ -1,0 +1,177 @@
+{
+  "id": "cobra",
+  "tipo": "serie",
+  "titulo": "Cobra Kai",
+  "ano": null,
+  "descricao": "Nesta aclamada série que é continuação dos filmes Karatê Kid, Daniel e Johnny retomam a rivalidade dos tempos de escola.",
+  "generos": [
+    "STAR+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+  "tmdbId": 77169,
+  "nota": 8.204,
+  "xtreamSeriesId": 6699,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11003441",
+          "tipo": "episodio",
+          "titulo": "COBRA S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11003441",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003442",
+          "tipo": "episodio",
+          "titulo": "COBRA S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11003442",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003443",
+          "tipo": "episodio",
+          "titulo": "COBRA S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11003443",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003444",
+          "tipo": "episodio",
+          "titulo": "COBRA S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11003444",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003445",
+          "tipo": "episodio",
+          "titulo": "COBRA S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11003445",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003446",
+          "tipo": "episodio",
+          "titulo": "COBRA S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11003446",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "nome": "Temporada 2",
+      "episodios": [
+        {
+          "id": "ep-11003447",
+          "tipo": "episodio",
+          "titulo": "COBRA S02E01",
+          "numero": 1,
+          "temporada": 2,
+          "xtreamId": "11003447",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003448",
+          "tipo": "episodio",
+          "titulo": "COBRA S02E02",
+          "numero": 2,
+          "temporada": 2,
+          "xtreamId": "11003448",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003449",
+          "tipo": "episodio",
+          "titulo": "COBRA S02E03",
+          "numero": 3,
+          "temporada": 2,
+          "xtreamId": "11003449",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003450",
+          "tipo": "episodio",
+          "titulo": "COBRA S02E04",
+          "numero": 4,
+          "temporada": 2,
+          "xtreamId": "11003450",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003451",
+          "tipo": "episodio",
+          "titulo": "COBRA S02E05",
+          "numero": 5,
+          "temporada": 2,
+          "xtreamId": "11003451",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11003452",
+          "tipo": "episodio",
+          "titulo": "COBRA S02E06",
+          "numero": 6,
+          "temporada": 2,
+          "xtreamId": "11003452",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zLPql2lI5yUFbKMhP049QGD5RPO.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 2,
+  "totalEpisodios": 12,
+  "tituloOriginal": "Cobra Kai",
+  "dataLancamento": "2018-05-02"
+}

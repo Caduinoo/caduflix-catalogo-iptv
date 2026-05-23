@@ -1,0 +1,63 @@
+{
+  "id": "sangue-e-realeza",
+  "tipo": "serie",
+  "titulo": "Sexo, Sangue & Realeza",
+  "ano": null,
+  "descricao": "Esta série investiga as vidas dos monarcas mais perigosos, sensuais e icônicos da história, revisitando os dramas e escândalos da monarquia britânica.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ov3BkiVaY6t3YypbZ4eulbn8U04.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9gtKys4JhxDGJyRnRL0W0hRdn7Y.jpg",
+  "tmdbId": 214257,
+  "nota": 7.045,
+  "xtreamSeriesId": 5200,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10922123",
+          "tipo": "episodio",
+          "titulo": "Sangue & Realeza S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10922123",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ov3BkiVaY6t3YypbZ4eulbn8U04.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922124",
+          "tipo": "episodio",
+          "titulo": "Sangue & Realeza S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10922124",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ov3BkiVaY6t3YypbZ4eulbn8U04.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922125",
+          "tipo": "episodio",
+          "titulo": "Sangue & Realeza S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10922125",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ov3BkiVaY6t3YypbZ4eulbn8U04.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Blood, Sex & Royalty",
+  "dataLancamento": "2022-11-23"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fervo",
+  "tipo": "filme",
+  "titulo": "Fervo",
+  "ano": null,
+  "descricao": "Três fanstasmas ficam presos em uma casa e assombram cada novo morador com o intuito de terminarem sua missão na Terra para poderem passar para a próxima vida. Isso até que um casal de arquitetos (Felipe Abib e Georgianna Goes) se mudam para o local e decidem reformar, revitalizando-o. No entanto, eles acabam descobrindo que o casarão era o local de uma antiga casa de shows chamado \"Fervo\" e passam por uma série de mal-entendimentos com os fantasmas interpretados por Rita Von Hunty, Gabriel Godoy e Renata Gaspar.",
+  "generos": [
+    "LEGENDADOS",
+    "NACIONAIS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/JbBC6B5DYu9228ORuc3A9i7Wsz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/afgBLXH2mTHJ4hfDdRWB8oyFu5F.jpg",
+  "tmdbId": 1004290,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785987,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778306,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Fervo",
+  "dataLancamento": "2023-01-19"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "crescendo",
+  "tipo": "serie",
+  "titulo": "Crescendo",
+  "ano": null,
+  "descricao": "Uma série documental híbrida inovadora que explora os desafios, triunfos e complexidades da adolescência através de 10 histórias incríveis sobre o amadurecimento.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kFS18085XwcO2qd9HQhXygAulfA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/i68d30VJNQQkU8OczbsTTjapa0c.jpg",
+  "tmdbId": 157210,
+  "nota": 6.7,
+  "xtreamSeriesId": 1751,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10837803",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10837803",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837804",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10837804",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837805",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10837805",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837806",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10837806",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837807",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10837807",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837808",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10837808",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837809",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10837809",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837810",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10837810",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837811",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10837811",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837812",
+          "tipo": "episodio",
+          "titulo": "Crescendo S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10837812",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4RmRd8mNsSNc6nKEUh0NU2mNXPV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "Growing Up",
+  "dataLancamento": "2022-09-08"
+}

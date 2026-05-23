@@ -12,9 +12,112 @@
   "tmdbId": 80205,
   "nota": 9,
   "xtreamSeriesId": 2834,
-  "temporadas": [],
-  "totalTemporadas": 0,
-  "totalEpisodios": 0,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10862846",
+          "tipo": "episodio",
+          "titulo": "A Formula S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10862846",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uLYAubwG0KOnZq1PJynMCLlvV6i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862847",
+          "tipo": "episodio",
+          "titulo": "A Formula S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10862847",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uLYAubwG0KOnZq1PJynMCLlvV6i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862848",
+          "tipo": "episodio",
+          "titulo": "A Formula S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10862848",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uLYAubwG0KOnZq1PJynMCLlvV6i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862849",
+          "tipo": "episodio",
+          "titulo": "A Formula S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10862849",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uLYAubwG0KOnZq1PJynMCLlvV6i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862850",
+          "tipo": "episodio",
+          "titulo": "A Formula S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10862850",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uLYAubwG0KOnZq1PJynMCLlvV6i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862851",
+          "tipo": "episodio",
+          "titulo": "A Formula S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10862851",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uLYAubwG0KOnZq1PJynMCLlvV6i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862852",
+          "tipo": "episodio",
+          "titulo": "A Formula S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10862852",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uLYAubwG0KOnZq1PJynMCLlvV6i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10862853",
+          "tipo": "episodio",
+          "titulo": "A Formula S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10862853",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uLYAubwG0KOnZq1PJynMCLlvV6i.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
   "tituloOriginal": "A Fórmula",
   "dataLancamento": "2017-07-06"
 }

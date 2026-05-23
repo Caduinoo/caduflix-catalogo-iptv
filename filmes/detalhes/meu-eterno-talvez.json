@@ -1,0 +1,34 @@
+{
+  "id": "meu-eterno-talvez",
+  "tipo": "filme",
+  "titulo": "Meu Eterno Talvez",
+  "ano": null,
+  "descricao": "A famosa chef Sasha e o músico Marcus se reencontram depois de 15 anos. A atração ainda existe, mas não vai ser fácil para eles se adaptarem à vida um do outro.",
+  "generos": [
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/borvKS97pqj3jnkumWHpKmnoAIZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aC5LAGfHzVH8f7tkCwkxzXsqAZz.jpg",
+  "tmdbId": 513576,
+  "nota": 6.647,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779222,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782580,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Always Be My Maybe",
+  "dataLancamento": "2019-05-31"
+}

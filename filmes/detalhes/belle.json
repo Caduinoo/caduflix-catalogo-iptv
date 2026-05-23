@@ -1,0 +1,34 @@
+{
+  "id": "belle",
+  "tipo": "filme",
+  "titulo": "Belle",
+  "ano": null,
+  "descricao": "A história verídica de Dido Elizabeth Belle, que cumpriu importante papel na abolição da escravatura na Inglaterra no século 18. Filha ilegítima de um capitão britânico da Marinha Real com uma escrava africana, após a morte de sua mãe, ela vai morar na Inglaterra para ser criada pelo tio e tornar-se uma dama da aristocracia. A jovem se apaixona por um advogado e acaba tendo que enfrentar os preconceitos da sociedade inglesa.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qCK00C3L0bM5jphoYU0gFpG3Hly.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bwMxFhvGXUBWjWK64lnWJ9VUhCY.jpg",
+  "tmdbId": 205601,
+  "nota": 7.08,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784578,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771159,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Belle",
+  "dataLancamento": "2013-05-01"
+}

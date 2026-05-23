@@ -1,0 +1,34 @@
+{
+  "id": "um-natal-no-castelo",
+  "tipo": "filme",
+  "titulo": "Um Natal no Castelo",
+  "ano": null,
+  "descricao": "Margot, uma pianista renomada, volta ao Chateau Neuhaus para passar as férias. Lá, seu ex-namorado Jackson a convence de ser a atração principal do Concerto de Natal.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cafDiRUSN2l5e351s7fjk0eXYGN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ojsxr2OXLmmMDNK0dYhcJbEynII.jpg",
+  "tmdbId": 737779,
+  "nota": 6.265,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790682,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778811,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Chateau Christmas",
+  "dataLancamento": "2020-10-25"
+}

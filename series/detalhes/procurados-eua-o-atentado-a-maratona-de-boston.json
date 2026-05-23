@@ -1,0 +1,63 @@
+{
+  "id": "procurados-eua-o-atentado-a-maratona-de-boston",
+  "tipo": "serie",
+  "titulo": "Procurados - EUA: O Atentado à Maratona de Boston",
+  "ano": null,
+  "descricao": "Imagens de arquivo, reconstituições arrepiantes e entrevistas exclusivas lançam um novo olhar sobre a tragédia e os dois irmãos que chocaram uma cidade.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dkLQcc0Q20UDo0Hco0OOuvmqlOE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nBF4H6NEJyAl60gp1q7fTz7Ij1t.jpg",
+  "tmdbId": 222314,
+  "nota": 7.531,
+  "xtreamSeriesId": 5115,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920764",
+          "tipo": "episodio",
+          "titulo": "Procurados - EUA O Atentado à Maratona de Boston S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920764",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dkLQcc0Q20UDo0Hco0OOuvmqlOE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920765",
+          "tipo": "episodio",
+          "titulo": "Procurados - EUA O Atentado à Maratona de Boston S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920765",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dkLQcc0Q20UDo0Hco0OOuvmqlOE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920766",
+          "tipo": "episodio",
+          "titulo": "Procurados - EUA O Atentado à Maratona de Boston S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920766",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dkLQcc0Q20UDo0Hco0OOuvmqlOE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "American Manhunt: The Boston Marathon Bombing",
+  "dataLancamento": "2023-04-12"
+}

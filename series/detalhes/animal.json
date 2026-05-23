@@ -1,0 +1,135 @@
+{
+  "id": "animal",
+  "tipo": "serie",
+  "titulo": "Animal Kingdom",
+  "ano": null,
+  "descricao": "Depois da morte de sua mãe por overdose de heroína, o jovem Joshua vai morar com sua avó no sul da Califórnia, onde descobre porque foi mantido longe da família por anos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eQJwfyMqSra10ck8HOoiCrbQR32.jpg",
+  "tmdbId": 66025,
+  "nota": 7.743,
+  "xtreamSeriesId": 4075,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10900920",
+          "tipo": "episodio",
+          "titulo": "Animal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10900920",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900921",
+          "tipo": "episodio",
+          "titulo": "Animal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10900921",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900922",
+          "tipo": "episodio",
+          "titulo": "Animal S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10900922",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900923",
+          "tipo": "episodio",
+          "titulo": "Animal S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10900923",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900924",
+          "tipo": "episodio",
+          "titulo": "Animal S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10900924",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900925",
+          "tipo": "episodio",
+          "titulo": "Animal S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10900925",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900926",
+          "tipo": "episodio",
+          "titulo": "Animal S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10900926",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900927",
+          "tipo": "episodio",
+          "titulo": "Animal S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10900927",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900928",
+          "tipo": "episodio",
+          "titulo": "Animal S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10900928",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5MGDcHyLLtrnv1v3vMaoJ8sMj7p.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 9,
+  "tituloOriginal": "Animal Kingdom",
+  "dataLancamento": "2016-06-14"
+}

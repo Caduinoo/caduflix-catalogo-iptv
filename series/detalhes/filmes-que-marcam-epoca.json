@@ -1,0 +1,75 @@
+{
+  "id": "filmes-que-marcam-epoca",
+  "tipo": "serie",
+  "titulo": "Filmes que Marcam Época",
+  "ano": null,
+  "descricao": "Esses blockbusters uniram e divertiram gerações. Conheça os atores, diretores e outros profissionais do cinema que tornaram tudo possível.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mQYdERQ3flDX5s1jb7Jc2KHrK8C.jpg",
+  "tmdbId": 93219,
+  "nota": 7.256,
+  "xtreamSeriesId": 4509,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907805",
+          "tipo": "episodio",
+          "titulo": "Filmes Que Marcam Época S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907805",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907806",
+          "tipo": "episodio",
+          "titulo": "Filmes Que Marcam Época S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907806",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907807",
+          "tipo": "episodio",
+          "titulo": "Filmes Que Marcam Época S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907807",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907808",
+          "tipo": "episodio",
+          "titulo": "Filmes Que Marcam Época S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907808",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "The Movies That Made Us",
+  "dataLancamento": "2019-11-29"
+}

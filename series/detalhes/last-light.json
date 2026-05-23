@@ -1,0 +1,87 @@
+{
+  "id": "last-light",
+  "tipo": "serie",
+  "titulo": "Last Light",
+  "ano": null,
+  "descricao": "Separados por continentes, o petroquímico Andy Yeats e sua família devem sobreviver aos efeitos mortais de uma súbita crise global do petróleo e encontrar o responsável por trás de tudo.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f7IxKWg4isIIsR1kC4EjgVE7GU4.jpg",
+  "tmdbId": 195821,
+  "nota": 6.033,
+  "xtreamSeriesId": 1057,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817432",
+          "tipo": "episodio",
+          "titulo": "Last Light S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817432",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817433",
+          "tipo": "episodio",
+          "titulo": "Last Light S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817433",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817434",
+          "tipo": "episodio",
+          "titulo": "Last Light S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817434",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817435",
+          "tipo": "episodio",
+          "titulo": "Last Light S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10817435",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817436",
+          "tipo": "episodio",
+          "titulo": "Last Light S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10817436",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Last Light",
+  "dataLancamento": "2022-09-08"
+}

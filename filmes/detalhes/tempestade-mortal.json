@@ -1,0 +1,34 @@
+{
+  "id": "tempestade-mortal",
+  "tipo": "filme",
+  "titulo": "Tempestade Mortal",
+  "ano": null,
+  "descricao": "Uma enfermeira que atende uma paciente em coma em casa é forçada a ficar para cuidar dela durante um enorme furacão.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3TbeEMUi8M9Qn3tvHKZ2DfsLdpa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/edybP5T9SSOFLG6NPVppzjWBGSk.jpg",
+  "tmdbId": 844537,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790030,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780091,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Psycho Storm Chaser",
+  "dataLancamento": "2021-08-07"
+}

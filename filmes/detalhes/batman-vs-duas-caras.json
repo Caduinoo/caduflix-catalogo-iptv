@@ -1,0 +1,42 @@
+{
+  "id": "batman-vs-duas-caras",
+  "tipo": "filme",
+  "titulo": "Batman vs. Duas-Caras",
+  "ano": null,
+  "descricao": "Um dispositivo inventado para eliminar o mal das mentes criminosas falha e Harvey Dent, o promotor da cidade de Gotham, transforma-se na sinistra e dupla personalidade do Duas-Caras.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sYMAc4BLMHVAXmt7VSEnDM97Sy1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4xFlvdymCBqyBN8Ab5i69Sgqk7m.jpg",
+  "tmdbId": 464882,
+  "nota": 6.313,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040162,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769381,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771153,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778019647,
+  "tituloOriginal": "Batman vs. Two-Face",
+  "dataLancamento": "2017-11-14"
+}

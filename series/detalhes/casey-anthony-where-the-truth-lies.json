@@ -1,0 +1,63 @@
+{
+  "id": "casey-anthony-where-the-truth-lies",
+  "tipo": "serie",
+  "titulo": "Casey Anthony: Where the Truth Lies",
+  "ano": null,
+  "descricao": "Casey Anthony conta sua história com suas próprias palavras, oferecendo uma nova perspectiva sobre o caso infame envolvendo a morte prematura de sua filha de 2 anos, Caylee.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kw2DlUigeSPSt5OQaY9lvsogg2t.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kemNrfNP4Ply9GuzkhfvAmOgn7U.jpg",
+  "tmdbId": 214862,
+  "nota": 5.2,
+  "xtreamSeriesId": 164,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10795594",
+          "tipo": "episodio",
+          "titulo": "Casey Anthony Where the Truth Lies S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10795594",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kw2DlUigeSPSt5OQaY9lvsogg2t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10795595",
+          "tipo": "episodio",
+          "titulo": "Casey Anthony Where the Truth Lies S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10795595",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kw2DlUigeSPSt5OQaY9lvsogg2t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10795596",
+          "tipo": "episodio",
+          "titulo": "Casey Anthony Where the Truth Lies S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10795596",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kw2DlUigeSPSt5OQaY9lvsogg2t.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Casey Anthony: Where the Truth Lies",
+  "dataLancamento": "2022-11-29"
+}

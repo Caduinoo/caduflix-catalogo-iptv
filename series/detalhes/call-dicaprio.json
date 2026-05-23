@@ -1,0 +1,39 @@
+{
+  "id": "call-dicaprio",
+  "tipo": "serie",
+  "titulo": "Звоните ДиКаприо!",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sLqNqAt9sLg3llcJ5YitKZDLlix.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/LT3pmXhptCto7eUSm9cQMLZbSC.jpg",
+  "tmdbId": 83344,
+  "nota": 5.8,
+  "xtreamSeriesId": 5858,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10973434",
+          "tipo": "episodio",
+          "titulo": "Call DiCaprio S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10973434",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sLqNqAt9sLg3llcJ5YitKZDLlix.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "Звоните ДиКаприо!",
+  "dataLancamento": "2018-10-20"
+}

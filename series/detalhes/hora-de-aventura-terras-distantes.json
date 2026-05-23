@@ -1,0 +1,75 @@
+{
+  "id": "hora-de-aventura-terras-distantes",
+  "tipo": "serie",
+  "titulo": "Hora de Aventura: Terras Distantes",
+  "ano": null,
+  "descricao": "Finn e Jake, os melhores amigos que atravessaram a mística Terra de Ooo, estão de volta em novas histórias repletas de aventuras, junto com alguns habitantes desse lugar bastante peculiar. Enquanto a dupla redescobre sua amizade, BMO embarca em uma emergência espacial mortal, Marceline e Princesa Jujuba viajam até o Reino de Vidro e Mordomo Menta funda uma escola de magia para tentar salvar a própria reputação",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6J2SIY8huMTNPWudjd1cInMkcLs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vgQnqlVgtlH8dpjX54ChjYZUjE.jpg",
+  "tmdbId": 94810,
+  "nota": 8.153,
+  "xtreamSeriesId": 3595,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10889901",
+          "tipo": "episodio",
+          "titulo": "Hora de Aventura Terras Distantes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10889901",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6J2SIY8huMTNPWudjd1cInMkcLs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889902",
+          "tipo": "episodio",
+          "titulo": "Hora de Aventura Terras Distantes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10889902",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6J2SIY8huMTNPWudjd1cInMkcLs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889903",
+          "tipo": "episodio",
+          "titulo": "Hora de Aventura Terras Distantes S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10889903",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6J2SIY8huMTNPWudjd1cInMkcLs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889904",
+          "tipo": "episodio",
+          "titulo": "Hora de Aventura Terras Distantes S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10889904",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6J2SIY8huMTNPWudjd1cInMkcLs.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Adventure Time: Distant Lands",
+  "dataLancamento": "2020-06-25"
+}

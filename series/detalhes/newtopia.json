@@ -1,0 +1,123 @@
+{
+  "id": "newtopia",
+  "tipo": "serie",
+  "titulo": "Newtopia",
+  "ano": null,
+  "descricao": "Jae-yoon, militar, e sua namorada, Young-joo, terminam por ligação devido a vários mal-entendidos. Só que um surto de zumbis assola o mundo. O país declara emergência, um avião cai no centro da capital, e Jae-yoon e sua unidade ficam presos no topo de um arranha-céu em Seul. Young-joo enfrenta as ruas cheias de zumbis para chegar até ele. Será que o amor dos dois sobreviverá ao apocalipse?",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/58nXDbMVYpsNQ1POP5ZxbSMaqFb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/olRPEYjyjzoMAODjOMjF2K1VlzO.jpg",
+  "tmdbId": 233742,
+  "nota": 7.902,
+  "xtreamSeriesId": 468,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10802408",
+          "tipo": "episodio",
+          "titulo": "Newtopia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10802408",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xxMItgjyvpSa514ips7Gj8McowQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802409",
+          "tipo": "episodio",
+          "titulo": "Newtopia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10802409",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xxMItgjyvpSa514ips7Gj8McowQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802410",
+          "tipo": "episodio",
+          "titulo": "Newtopia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10802410",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xxMItgjyvpSa514ips7Gj8McowQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802411",
+          "tipo": "episodio",
+          "titulo": "Newtopia S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10802411",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xxMItgjyvpSa514ips7Gj8McowQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802412",
+          "tipo": "episodio",
+          "titulo": "Newtopia S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10802412",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xxMItgjyvpSa514ips7Gj8McowQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802413",
+          "tipo": "episodio",
+          "titulo": "Newtopia S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10802413",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xxMItgjyvpSa514ips7Gj8McowQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802414",
+          "tipo": "episodio",
+          "titulo": "Newtopia S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10802414",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xxMItgjyvpSa514ips7Gj8McowQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10802415",
+          "tipo": "episodio",
+          "titulo": "Newtopia S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10802415",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xxMItgjyvpSa514ips7Gj8McowQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "뉴토피아",
+  "dataLancamento": "2025-02-07"
+}

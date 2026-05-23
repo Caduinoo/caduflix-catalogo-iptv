@@ -1,0 +1,34 @@
+{
+  "id": "steve",
+  "tipo": "filme",
+  "titulo": "Steve",
+  "ano": null,
+  "descricao": "Ao longo de um dia intenso, o dedicado diretor de um reformatório luta para manter os alunos na linha enquanto enfrenta os próprios desafios.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uwfSpSF5h0De9kvrQYflEWasin4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sb8Aq1RohASXyjT0uEOUUZJi5oI.jpg",
+  "tmdbId": 1242404,
+  "nota": 6.408,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789924,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776795,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Steve",
+  "dataLancamento": "2025-09-19"
+}

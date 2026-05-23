@@ -1,0 +1,42 @@
+{
+  "id": "jogo-justo",
+  "tipo": "filme",
+  "titulo": "Jogo Justo",
+  "ano": null,
+  "descricao": "Uma promoção inesperada em um fundo de investimentos competitivo leva o relacionamento de um jovem casal ao limite, ameaçando muito mais do que o recente noivado deles.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/50Wq7fY21obXVRICuljdlSigWvH.jpg",
+  "tmdbId": 910571,
+  "nota": 6.326,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786713,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775659,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782477,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Fair Play",
+  "dataLancamento": "2023-09-28"
+}

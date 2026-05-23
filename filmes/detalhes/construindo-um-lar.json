@@ -1,0 +1,34 @@
+{
+  "id": "construindo-um-lar",
+  "tipo": "filme",
+  "titulo": "Construindo um Lar",
+  "ano": null,
+  "descricao": "Abbey, uma bem-sucedida corretora de imóveis, volta para a cidade de sua família durante o Natal para consertar uma casa vitoriana herdada de sua avó. Para ajudar na reforma, ela contrata Josh, sua paixão da época de infância, que agora é pai solteiro do jovem Noah. Durante o tempo em que passam juntos, Abbey revive sentimentos de seu passado e reascende seu sentimento por Josh.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hu7OIcJTE1AmpgBgCFRWFM1QbdC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jKHuomjRgFvxU2TTPUZtSx3Q7q.jpg",
+  "tmdbId": 770593,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785072,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779117,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Rebuilding a Dream Christmas",
+  "dataLancamento": "2021-12-23"
+}

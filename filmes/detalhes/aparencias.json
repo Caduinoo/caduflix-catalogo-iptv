@@ -1,0 +1,34 @@
+{
+  "id": "aparencias",
+  "tipo": "filme",
+  "titulo": "Aparências",
+  "ano": null,
+  "descricao": "Homem é tido por homossexual após participar de um evento gay. Ele usa a confusão para tentar conquistar sua amada, uma companheira do trabalho.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/h6X6SVIp88LLV5TJQPX3d0FT2hQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kM2XKl3uJpDDrXdnq0LeEuLjSMo.jpg",
+  "tmdbId": 27820,
+  "nota": 7.045,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784236,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779603,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Apariencias",
+  "dataLancamento": "2000-07-01"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "polaris",
+  "tipo": "filme",
+  "titulo": "Polaris",
+  "ano": null,
+  "descricao": "No ano de 2144, uma jovem criada por um urso polar persegue seu destino após escapar da captura por guerreiros brutais que pretendiam matar sua mãe.",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/reh2NjYkhG3EoAsrzKEatcnwlIt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wmR3nyZBYPitWrsbphgP7HyVbzy.jpg",
+  "tmdbId": 988539,
+  "nota": 4.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789098,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Polaris",
+  "dataLancamento": "2022-07-14"
+}

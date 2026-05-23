@@ -1,0 +1,42 @@
+{
+  "id": "gringa",
+  "tipo": "filme",
+  "titulo": "Gringa",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xW0nReRjaQTIKNminkdSIsd0QDb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xyMW1D11pfpKKQe9XSGECH3MBaF.jpg",
+  "tmdbId": 1122121,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786285,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772864,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782408,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Gringa",
+  "dataLancamento": "2018-07-13"
+}

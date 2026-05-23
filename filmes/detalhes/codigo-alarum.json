@@ -1,0 +1,42 @@
+{
+  "id": "codigo-alarum",
+  "tipo": "filme",
+  "titulo": "Código Alarum",
+  "ano": null,
+  "descricao": "Joe e Lara são agentes secretos que vivem fora do radar, mas quando saem de férias com amigos, eles se tornam alvos de uma caçada brutal. Suspeitos de estarem ligados à ALARUM, uma rede secreta de espiões, o casal é forçado a fugir, sem saber em quem confiar. Perseguidos por inimigos implacáveis e em um mundo de mentiras e traições, eles são obrigados a duvidar até mesmo de seus próprios aliados.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nGZ7S9eW9PH39XsGSgofLfxPoEH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+  "tmdbId": 1249289,
+  "nota": 5.632,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785227,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769562,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782243,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Alarum",
+  "dataLancamento": "2025-01-16"
+}

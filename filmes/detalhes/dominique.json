@@ -1,0 +1,42 @@
+{
+  "id": "dominique",
+  "tipo": "filme",
+  "titulo": "Dominique",
+  "ano": null,
+  "descricao": "Dominique, uma assassina bem treinada, foge de seu passado problemático em uma tentativa de começar uma nova vida na América do Sul. No entanto, ela logo se encontra em uma cidade atormentada pela violência e corrupção. Enfrentando ataques brutais da polícia e da máfia, Dominique deve decidir se deve proteger a si mesma ou a uma família inocente que a acolheu.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jvug7Esd89yNLJwGvUfeQ9j69cE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uGjvdT5CAPIlTBYAXnHPzoEIgkC.jpg",
+  "tmdbId": 1331375,
+  "nota": 6.669,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785550,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769636,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782289,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Dominique",
+  "dataLancamento": "2024-10-11"
+}

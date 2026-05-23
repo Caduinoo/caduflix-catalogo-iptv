@@ -1,0 +1,34 @@
+{
+  "id": "metal-lords",
+  "tipo": "filme",
+  "titulo": "Metal Lords",
+  "ano": null,
+  "descricao": "O plano dos excluídos Hunter e Kevin está claro: focar no heavy metal, ganhar a Batalha das Bandas e conquistar a admiração de todos.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/r97txZRmBb75SGsIAWqmplWJnO3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nj1sc2adxEk7fseElV8RIuCaoZD.jpg",
+  "tmdbId": 739993,
+  "nota": 6.857,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787274,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773134,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Metal Lords",
+  "dataLancamento": "2022-04-08"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "voce-nao-e-especial",
+  "tipo": "serie",
+  "titulo": "Você Não é Especial",
+  "ano": null,
+  "descricao": "Depois se mudar de Barcelona para a cidadezinha onde vive a mãe, a jovem Amaia descobre que talvez tenha herdado os poderes da avó, que diziam ser uma bruxa.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ApKWzs0VLKHd6dGeE6IEBAaoJmS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ccVoMjBMA9SMsDVJ58UV6Old6pV.jpg",
+  "tmdbId": 115033,
+  "nota": 5.8,
+  "xtreamSeriesId": 5457,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927912",
+          "tipo": "episodio",
+          "titulo": "Você Não é Especial S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927912",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ApKWzs0VLKHd6dGeE6IEBAaoJmS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927913",
+          "tipo": "episodio",
+          "titulo": "Você Não é Especial S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927913",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ApKWzs0VLKHd6dGeE6IEBAaoJmS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927914",
+          "tipo": "episodio",
+          "titulo": "Você Não é Especial S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927914",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ApKWzs0VLKHd6dGeE6IEBAaoJmS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927915",
+          "tipo": "episodio",
+          "titulo": "Você Não é Especial S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927915",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ApKWzs0VLKHd6dGeE6IEBAaoJmS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927916",
+          "tipo": "episodio",
+          "titulo": "Você Não é Especial S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10927916",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ApKWzs0VLKHd6dGeE6IEBAaoJmS.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927917",
+          "tipo": "episodio",
+          "titulo": "Você Não é Especial S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10927917",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ApKWzs0VLKHd6dGeE6IEBAaoJmS.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Tú no eres especial",
+  "dataLancamento": "2022-09-02"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "mr-mcmahon",
+  "tipo": "serie",
+  "titulo": "Mr. McMahon",
+  "ano": null,
+  "descricao": "Sob o comando de Vince McMahon, a WWE quebrou recordes, mas também chegou aos seus pontos mais baixos. Esta série documental examina esse reinado controverso.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mtLYsALvuHlnw7PHg0frCCwSRVy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iw1tzZJyly2SR5LkyI9sso1l1jy.jpg",
+  "tmdbId": 263089,
+  "nota": 7.813,
+  "xtreamSeriesId": 4831,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915118",
+          "tipo": "episodio",
+          "titulo": "Mr McMahon S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915118",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mtLYsALvuHlnw7PHg0frCCwSRVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915119",
+          "tipo": "episodio",
+          "titulo": "Mr McMahon S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915119",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mtLYsALvuHlnw7PHg0frCCwSRVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915120",
+          "tipo": "episodio",
+          "titulo": "Mr McMahon S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915120",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mtLYsALvuHlnw7PHg0frCCwSRVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915121",
+          "tipo": "episodio",
+          "titulo": "Mr McMahon S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10915121",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mtLYsALvuHlnw7PHg0frCCwSRVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915122",
+          "tipo": "episodio",
+          "titulo": "Mr McMahon S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10915122",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mtLYsALvuHlnw7PHg0frCCwSRVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915123",
+          "tipo": "episodio",
+          "titulo": "Mr McMahon S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10915123",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mtLYsALvuHlnw7PHg0frCCwSRVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Mr. McMahon",
+  "dataLancamento": "2024-09-25"
+}

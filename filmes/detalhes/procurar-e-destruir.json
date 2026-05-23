@@ -1,0 +1,34 @@
+{
+  "id": "procurar-e-destruir",
+  "tipo": "filme",
+  "titulo": "Procurar e Destruir",
+  "ano": null,
+  "descricao": "Quando John Cutter falha em salvar uma família sequestrada e perde toda sua equipe em uma batalha, ele é dispensado das forças armadas. Três anos depois, é abordado por seu ex-general para uma perigosa missão.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uLurpF4Ay29oTnfsJJBXwWNuCmS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zWDf2lcNKTpfV5ZrwKuUQUqhLmU.jpg",
+  "tmdbId": 715535,
+  "nota": 4.426,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789175,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770554,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Search and Destroy",
+  "dataLancamento": "2020-06-19"
+}

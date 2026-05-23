@@ -1,0 +1,99 @@
+{
+  "id": "misterios-da-arquitetura",
+  "tipo": "serie",
+  "titulo": "Mistérios da Arquitetura",
+  "ano": null,
+  "descricao": "Uma leitura com tecnologia laser 3-D decifra os segredos das construções mais reconhecidas do mundo. O engenheiro Steve Burrows e sua equipe exploram e analisam digitalmente grandes realizações arquitetônicas.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nhTx3bkZqtgRz3jOnrfnzVkKvJY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1xBwskLDInVojIqmB2u4NBzgdLQ.jpg",
+  "tmdbId": 60961,
+  "nota": 9,
+  "xtreamSeriesId": 1927,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10843067",
+          "tipo": "episodio",
+          "titulo": "Misterios da Arquitetura S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10843067",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhTx3bkZqtgRz3jOnrfnzVkKvJY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10843068",
+          "tipo": "episodio",
+          "titulo": "Misterios da Arquitetura S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10843068",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhTx3bkZqtgRz3jOnrfnzVkKvJY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10843069",
+          "tipo": "episodio",
+          "titulo": "Misterios da Arquitetura S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10843069",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhTx3bkZqtgRz3jOnrfnzVkKvJY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10843070",
+          "tipo": "episodio",
+          "titulo": "Misterios da Arquitetura S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10843070",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhTx3bkZqtgRz3jOnrfnzVkKvJY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10843071",
+          "tipo": "episodio",
+          "titulo": "Misterios da Arquitetura S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10843071",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhTx3bkZqtgRz3jOnrfnzVkKvJY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10843072",
+          "tipo": "episodio",
+          "titulo": "Misterios da Arquitetura S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10843072",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhTx3bkZqtgRz3jOnrfnzVkKvJY.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Time Scanners",
+  "dataLancamento": "2014-02-01"
+}

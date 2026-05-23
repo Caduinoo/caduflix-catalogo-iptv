@@ -1,0 +1,34 @@
+{
+  "id": "martires",
+  "tipo": "filme",
+  "titulo": "Mártires",
+  "ano": null,
+  "descricao": "Duas jovens que foram vítimas de abuso quando crianças embarcam em uma sangrenta jornada de vingança e acabam envolvidas em um caminho obscuro.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/969mH6AnksRNWMHhGxVbFa6l9qj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fO1hwjlUqDe1ixO7eMfxTby62Ut.jpg",
+  "tmdbId": 9539,
+  "nota": 7.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787549,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780965,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Martyrs",
+  "dataLancamento": "2008-06-12"
+}

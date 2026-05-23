@@ -1,0 +1,75 @@
+{
+  "id": "sean-combs-o-acerto-de-contas",
+  "tipo": "serie",
+  "titulo": "Sean Combs: O Acerto de Contas",
+  "ano": null,
+  "descricao": "Esta série documental analisa as acusações chocantes contra Sean Combs e o império da Bad Boy, abrangendo décadas da vida e carreira do rapper.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nUsVwVbyZblclvNvsfuCljI4QxD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5L9YS9mpYs0WfuSKYpLd9GUBFc9.jpg",
+  "tmdbId": 255251,
+  "nota": 7.2,
+  "xtreamSeriesId": 5211,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10922425",
+          "tipo": "episodio",
+          "titulo": "Sean Combs O Acerto de Contas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10922425",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUsVwVbyZblclvNvsfuCljI4QxD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922426",
+          "tipo": "episodio",
+          "titulo": "Sean Combs O Acerto de Contas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10922426",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUsVwVbyZblclvNvsfuCljI4QxD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922427",
+          "tipo": "episodio",
+          "titulo": "Sean Combs O Acerto de Contas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10922427",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUsVwVbyZblclvNvsfuCljI4QxD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10922428",
+          "tipo": "episodio",
+          "titulo": "Sean Combs O Acerto de Contas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10922428",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nUsVwVbyZblclvNvsfuCljI4QxD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Sean Combs: The Reckoning",
+  "dataLancamento": "2025-12-02"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "purl",
+  "tipo": "filme",
+  "titulo": "Purl",
+  "ano": null,
+  "descricao": "Purl conta a história de uma bola de tricô rosa que acabou de ser contratada por uma empresa composta apenas por homens e encontra muitas dificuldades para conseguir se adaptar à rotina tão corrida e ao convívio tão complicado.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/A8to7TlVMBwMuDgi2DJ9rVJsobE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/z0imgSRUugAdS7FKiEGw3t8Jj4v.jpg",
+  "tmdbId": 532953,
+  "nota": 6.665,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789230,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771713,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Purl",
+  "dataLancamento": "2019-01-18"
+}

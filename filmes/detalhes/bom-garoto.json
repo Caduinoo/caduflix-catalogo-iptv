@@ -1,0 +1,34 @@
+{
+  "id": "bom-garoto",
+  "tipo": "filme",
+  "titulo": "Bom Garoto",
+  "ano": null,
+  "descricao": "Christian - um herdeiro milionário, conhece Sigrid - uma jovem estudante, em um aplicativo de namoro. Eles se dão bem rapidamente, mas há apenas um problema: Christian vive com Frank, um homem que se veste e constantemente age como um cachorro.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2HOEj9B6WoE3PMiSdtBIHd2kHhF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lYlCKvcw7DeP8DwKY1VO0kJVT0Z.jpg",
+  "tmdbId": 983507,
+  "nota": 6.326,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784675,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780514,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Good Boy",
+  "dataLancamento": "2022-06-03"
+}

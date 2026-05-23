@@ -1,0 +1,75 @@
+{
+  "id": "seventeen-our-chapter",
+  "tipo": "serie",
+  "titulo": "Seventeen Our Chapter",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qZq7MP7XihLElGzkVLdJu5JrD0B.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1rNwkMpKRou3XUvOQJqWNdpOApn.jpg",
+  "tmdbId": 303077,
+  "nota": 10,
+  "xtreamSeriesId": 6911,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11013764",
+          "tipo": "episodio",
+          "titulo": "SEVENTEEN OUR CHAPTER [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11013764",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qZq7MP7XihLElGzkVLdJu5JrD0B.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11013765",
+          "tipo": "episodio",
+          "titulo": "SEVENTEEN OUR CHAPTER [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11013765",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qZq7MP7XihLElGzkVLdJu5JrD0B.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11013766",
+          "tipo": "episodio",
+          "titulo": "SEVENTEEN OUR CHAPTER [L] S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11013766",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qZq7MP7XihLElGzkVLdJu5JrD0B.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11013767",
+          "tipo": "episodio",
+          "titulo": "SEVENTEEN OUR CHAPTER [L] S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11013767",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qZq7MP7XihLElGzkVLdJu5JrD0B.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "SEVENTEEN: OUR CHAPTER",
+  "dataLancamento": "2025-11-07"
+}

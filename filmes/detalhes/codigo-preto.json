@@ -1,0 +1,42 @@
+{
+  "id": "codigo-preto",
+  "tipo": "filme",
+  "titulo": "Código Preto",
+  "ano": null,
+  "descricao": "Quando sua amada esposa Kathryn é suspeita de trair a nação, o agente de inteligência George Woodhouse enfrenta o teste final: lealdade ao seu casamento ou ao seu país.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aRsAPS5wZBv8cIuAyNWs2tLmPl8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
+  "tmdbId": 1233575,
+  "nota": 6.361,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785234,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775189,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782244,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Black Bag",
+  "dataLancamento": "2025-03-12"
+}

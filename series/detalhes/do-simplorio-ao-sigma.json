@@ -1,0 +1,36 @@
+{
+  "id": "do-simplorio-ao-sigma",
+  "tipo": "serie",
+  "titulo": "Do Simplório ao Sigma*",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "REEL SHORTS²"
+  ],
+  "capa": "https://i.ibb.co/M5G38ZJB/3-D7-D223-B-F3-A3-4-B30-9292-A5-F7-C3441283.png",
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 7181,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11032080",
+          "tipo": "episodio",
+          "titulo": "EP Único",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11032080",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fantasma-no-cemiterio",
+  "tipo": "filme",
+  "titulo": "Fantasma no Cemitério",
+  "ano": null,
+  "descricao": "Uma pequena cidade é atacada por Martha, um fantasma que volta a assombrar as crianças que testemunharam sua morte durante um “jogo” de Ghost in the Graveyard quando criança.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jOmfC54e0LfoxEEMNbFEhUUA7cj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2immffS9jFnNtij8rTjIBqsbTZd.jpg",
+  "tmdbId": 479424,
+  "nota": 3.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785941,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780721,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Ghost in the Graveyard",
+  "dataLancamento": "2019-11-05"
+}

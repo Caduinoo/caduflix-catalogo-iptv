@@ -1,0 +1,31 @@
+[
+  {
+    "id": "zeus-e-roxanne",
+    "tipo": "filme",
+    "titulo": "Zeus & Roxanne",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zQbj5TRFVbtNGZFKPKMipIjt8fY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/67rDbJBnh5BxrjNvgx51jIEJgpo.jpg",
+    "generos": [
+      "ROMANCE"
+    ],
+    "nota": 5.25,
+    "tmdbId": 42424,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zeus-e-roxanne.json"
+  },
+  {
+    "id": "zoey-102-o-casamento",
+    "tipo": "filme",
+    "titulo": "Zoey 102: O Casamento",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tXkIqZL1GnDymT1M8WMXfLzC1qa.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ROMANCE"
+    ],
+    "nota": 6.77,
+    "tmdbId": 1073170,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoey-102-o-casamento.json"
+  }
+]

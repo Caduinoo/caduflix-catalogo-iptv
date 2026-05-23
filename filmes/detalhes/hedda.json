@@ -1,0 +1,34 @@
+{
+  "id": "hedda",
+  "tipo": "filme",
+  "titulo": "Hedda",
+  "ano": null,
+  "descricao": "De Nia DaCosta, uma releitura provocativa e moderna da peça clássica de Henrik Ibsen. Hedda (Tessa Thompson) se vê dividida entre a dor que ainda sente por conta de um amor passado e a opressão silenciosa de sua vida atual. No decorrer de uma noite intensa, desejos há muito reprimidos e tensões ocultas irrompem, arrastando Hedda e todos ao seu redor numa espiral de manipulação, paixão e traição.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cKZcDKawR79igCgDMSXlpkn8hLR.jpg",
+  "tmdbId": 997113,
+  "nota": 5.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786361,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775558,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Hedda",
+  "dataLancamento": "2025-10-22"
+}

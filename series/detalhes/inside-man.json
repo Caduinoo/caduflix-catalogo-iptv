@@ -1,0 +1,75 @@
+{
+  "id": "inside-man",
+  "tipo": "serie",
+  "titulo": "Homem Interior",
+  "ano": null,
+  "descricao": "Um prisioneiro no corredor da morte nos EUA, um vigário em uma pacata cidade inglesa e uma professora de matemática presa em um porão se cruzam da maneira mais inesperada.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bqopwxfw2Sd30gPDfUUFflCpjtK.jpg",
+  "tmdbId": 121710,
+  "nota": 6.837,
+  "xtreamSeriesId": 4645,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911237",
+          "tipo": "episodio",
+          "titulo": "Inside Man S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911237",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911238",
+          "tipo": "episodio",
+          "titulo": "Inside Man S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911238",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911239",
+          "tipo": "episodio",
+          "titulo": "Inside Man S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911240",
+          "tipo": "episodio",
+          "titulo": "Inside Man S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10911240",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Inside Man",
+  "dataLancamento": "2022-09-26"
+}

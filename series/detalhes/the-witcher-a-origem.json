@@ -1,0 +1,75 @@
+{
+  "id": "the-witcher-a-origem",
+  "tipo": "serie",
+  "titulo": "The Witcher: A Origem",
+  "ano": null,
+  "descricao": "Mais de mil anos antes dos acontecimentos de The Witcher, sete párias do mundo dos elfos se unem em uma missão contra um poderoso império.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hoVuI69nygLQBJ4FqgRKnukDeKt.jpg",
+  "tmdbId": 106541,
+  "nota": 6.538,
+  "xtreamSeriesId": 5365,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10926407",
+          "tipo": "episodio",
+          "titulo": "The Witcher A Origem S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10926407",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926408",
+          "tipo": "episodio",
+          "titulo": "The Witcher A Origem S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10926408",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926409",
+          "tipo": "episodio",
+          "titulo": "The Witcher A Origem S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10926409",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10926410",
+          "tipo": "episodio",
+          "titulo": "The Witcher A Origem S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10926410",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "The Witcher: Blood Origin",
+  "dataLancamento": "2022-12-25"
+}

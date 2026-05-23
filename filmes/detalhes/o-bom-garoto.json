@@ -1,0 +1,34 @@
+{
+  "id": "o-bom-garoto",
+  "tipo": "filme",
+  "titulo": "O Bom Garoto",
+  "ano": null,
+  "descricao": "Chema tem uma missão: conquistar Claudia, a novata da escola, e perder a virgindade. Será que ele consegue realizar esse sonho antes da formatura?",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vq6vMhuCZ741bqB1lY8NfzJEUUJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1mSODFbYJyLE33O8pS9ppJPF81K.jpg",
+  "tmdbId": 1044043,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787892,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773322,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "El Guau",
+  "dataLancamento": "2022-11-23"
+}

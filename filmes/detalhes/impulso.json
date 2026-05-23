@@ -1,0 +1,34 @@
+{
+  "id": "impulso",
+  "tipo": "filme",
+  "titulo": "Impulso",
+  "ano": null,
+  "descricao": "Uma jovem jornalista descobre que algumas mortes de pessoas famosas estão ligadas e acaba envolvida em um grupo secreto poderoso, formado por magnatas da mídia, políticos influentes e estrelas de Hollywood.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/skiGCJR8cAD2Mnki3I2dyEEVHgn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7R2MLdOYtBhTckadXcLlYZZTCA0.jpg",
+  "tmdbId": 1262124,
+  "nota": 6.676,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786538,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779774,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Impulse",
+  "dataLancamento": "2023-03-05"
+}

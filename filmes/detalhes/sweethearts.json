@@ -1,0 +1,42 @@
+{
+  "id": "sweethearts",
+  "tipo": "filme",
+  "titulo": "Sweethearts",
+  "ano": null,
+  "descricao": "Dois amigos universitários fazem um pacto para terminar com seus relacionamentos do ensino médio durante o feriado de Ação de Graças, levando a uma noite caótica que testa a verdadeira natureza de sua amizade.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/us8T8e2bSkyORss8xanwCDZCZxG.jpg",
+  "tmdbId": 999890,
+  "nota": 5.75,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789986,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773879,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782986,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Sweethearts",
+  "dataLancamento": "2024-10-31"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "operacao-arriscada",
+  "tipo": "filme",
+  "titulo": "Operação Arriscada",
+  "ano": null,
+  "descricao": "Serge, um alto funcionário próximo à Presidência, é incluído em uma lista de mortes do governo devido a uma conspiração. Agora, enfrentando a morte certa e colocando sua família em perigo, a única esperança de Serge está em seu misterioso jardineiro.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xoXAo6GyRo31pNjFhPTcAnAcZIw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/HGmX2QmO1a67a1awAfHFEnDCiF.jpg",
+  "tmdbId": 1255788,
+  "nota": 6.112,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11036343,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11036311,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050060,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Le Jardinier",
+  "dataLancamento": "2025-01-30"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "nemesis",
+  "tipo": "serie",
+  "titulo": "Nêmesis",
+  "ano": null,
+  "descricao": "Um policial implacável fica obcecado em derrubar um ladrão responsável por vários roubos ousados. Mas só um dos dois pode sair ganhando.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/c9IMELhK0H8axXg6zF16ZxosR0D.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+  "tmdbId": 285807,
+  "nota": 6.829,
+  "xtreamSeriesId": 7595,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11053086",
+          "tipo": "episodio",
+          "titulo": "Nemesis S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11053086",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DTNIBu13s50QXDIluQR6crSuwD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11053087",
+          "tipo": "episodio",
+          "titulo": "Nemesis S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11053087",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DTNIBu13s50QXDIluQR6crSuwD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11053088",
+          "tipo": "episodio",
+          "titulo": "Nemesis S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11053088",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DTNIBu13s50QXDIluQR6crSuwD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11053089",
+          "tipo": "episodio",
+          "titulo": "Nemesis S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11053089",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DTNIBu13s50QXDIluQR6crSuwD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11053090",
+          "tipo": "episodio",
+          "titulo": "Nemesis S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11053090",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DTNIBu13s50QXDIluQR6crSuwD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11053091",
+          "tipo": "episodio",
+          "titulo": "Nemesis S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11053091",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DTNIBu13s50QXDIluQR6crSuwD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11053092",
+          "tipo": "episodio",
+          "titulo": "Nemesis S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11053092",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DTNIBu13s50QXDIluQR6crSuwD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11053093",
+          "tipo": "episodio",
+          "titulo": "Nemesis S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11053093",
+          "container": "mp4",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DTNIBu13s50QXDIluQR6crSuwD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Nemesis",
+  "dataLancamento": "2026-05-14"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "o-legado-de-jupiter",
+  "tipo": "serie",
+  "titulo": "O Legado de Júpiter",
+  "ano": null,
+  "descricao": "A primeira geração desses super-heróis manteve o mundo seguro por quase um século. Mas será que seus filhos vão conseguir carregar esse legado?",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hT4HTQJhfnWNl7tHBY3E6Nda9M6.jpg",
+  "tmdbId": 93484,
+  "nota": 6.896,
+  "xtreamSeriesId": 4948,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10916399",
+          "tipo": "episodio",
+          "titulo": "O Legado de Júpiter S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10916399",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916400",
+          "tipo": "episodio",
+          "titulo": "O Legado de Júpiter S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10916400",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916401",
+          "tipo": "episodio",
+          "titulo": "O Legado de Júpiter S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10916401",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916402",
+          "tipo": "episodio",
+          "titulo": "O Legado de Júpiter S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10916402",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916403",
+          "tipo": "episodio",
+          "titulo": "O Legado de Júpiter S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10916403",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916404",
+          "tipo": "episodio",
+          "titulo": "O Legado de Júpiter S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10916404",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916405",
+          "tipo": "episodio",
+          "titulo": "O Legado de Júpiter S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10916405",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916406",
+          "tipo": "episodio",
+          "titulo": "O Legado de Júpiter S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10916406",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RFKW55GHQShX07TdXFHvGFjZKI.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Jupiter's Legacy",
+  "dataLancamento": "2021-05-07"
+}

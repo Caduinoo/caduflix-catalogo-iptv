@@ -1,0 +1,51 @@
+{
+  "id": "amor-apimentado",
+  "tipo": "serie",
+  "titulo": "Amor Apimentado",
+  "ano": null,
+  "descricao": "A escritora de romances adultos Nam Ja-yeon, da série Os Lucros do Amor, troca de corpo magicamente com a protagonista de sua história, e uma fantasia romântica imprevisível se desenrola entre a escritora solitária e seu protagonista masculino, Kang Ha-jun.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qqkZcc05SCgkOeVC6nZW7pww2gR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hhLOAhHCneP6nyDKelySKLsBlqW.jpg",
+  "tmdbId": 273307,
+  "nota": 7.043,
+  "xtreamSeriesId": 75,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10793279",
+          "tipo": "episodio",
+          "titulo": "Amor Apimentado S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10793279",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qqkZcc05SCgkOeVC6nZW7pww2gR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793280",
+          "tipo": "episodio",
+          "titulo": "Amor Apimentado S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10793280",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qqkZcc05SCgkOeVC6nZW7pww2gR.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "사장님의 식단표",
+  "dataLancamento": "2024-10-03"
+}

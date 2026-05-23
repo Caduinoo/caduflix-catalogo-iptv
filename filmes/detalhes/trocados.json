@@ -1,0 +1,34 @@
+{
+  "id": "trocados",
+  "tipo": "filme",
+  "titulo": "Trocados",
+  "ano": null,
+  "descricao": "Uma família encara uma situação caótica depois que um raro evento cósmico faz os pais trocarem de corpo com os filhos adolescentes, logo antes do Natal.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qvzfsE88SJAKql3IGl2Y2KdQpAV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg",
+  "tmdbId": 798021,
+  "nota": 6.373,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790454,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773973,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Family Switch",
+  "dataLancamento": "2023-11-30"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "jockey",
+  "tipo": "filme",
+  "titulo": "Jockey",
+  "ano": null,
+  "descricao": "Um cavaleiro idoso tem como objetivo um campeonato final, mas um cavaleiro novato chega alegando ser seu filho.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eMgskfX9BfG6i872hawQC17dPzr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/c5FumXxPjfohJyZdP4kfIghbm4r.jpg",
+  "tmdbId": 776511,
+  "nota": 5.833,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786693,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775643,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Jockey",
+  "dataLancamento": "2021-12-29"
+}

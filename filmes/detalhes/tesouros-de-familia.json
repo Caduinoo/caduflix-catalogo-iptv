@@ -1,0 +1,34 @@
+{
+  "id": "tesouros-de-familia",
+  "tipo": "filme",
+  "titulo": "Tesouros de Família",
+  "ano": null,
+  "descricao": "Uma titereira falida volta para casa nas férias e se envolve em uma caça ao tesouro com sua melhor amiga obcecada por paintball, sua avó dançarina de tango e um namorado de infância.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wgauwSUoC1KI6zwvoKOr4umWZtm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/n1kxAycUCgeRLC7ykYfbZaOWwZr.jpg",
+  "tmdbId": 562490,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790085,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773918,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Holly Star",
+  "dataLancamento": "2018-12-02"
+}

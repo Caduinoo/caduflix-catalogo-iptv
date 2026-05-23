@@ -1,0 +1,34 @@
+{
+  "id": "togo",
+  "tipo": "filme",
+  "titulo": "Togo",
+  "ano": null,
+  "descricao": "A história de um homem e sua equipe de cães puxadores de trenó liderados pela cadela Togo, que transportaram remédios para a população do Alasca a fim de combater uma epidemia durante a década de 20. Togo, que liderou a Grande Corrida da Misericórdia ou Corrida do Soro de 1925, era considerada pela maioria das pessoas como pequena e fraca demais para liderar uma corrida tão difícil.",
+  "generos": [
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tCCgIgIqNHZCxKgZKTqv1LzxuwI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2Jr2OBzoLLOYqQWnyN4eicZv0sL.jpg",
+  "tmdbId": 606856,
+  "nota": 8.123,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776898,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783023,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Togo",
+  "dataLancamento": "2019-12-20"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "suriname",
+  "tipo": "filme",
+  "titulo": "Suriname",
+  "ano": null,
+  "descricao": "Um político entra em uma corrida presidencial e sua vida fica fora de controle quando um criminoso, de seu passado sombrio, o ameaça a revelar seus segredos.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mAUc29CvwbDHOcyLJI4Bpai1jvG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dXcrs2hgWYdteQjQc5JedjcvDbC.jpg",
+  "tmdbId": 266450,
+  "nota": 4.75,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789978,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774429,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Suriname",
+  "dataLancamento": "2020-02-20"
+}

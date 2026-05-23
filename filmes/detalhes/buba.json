@@ -1,0 +1,34 @@
+{
+  "id": "buba",
+  "tipo": "filme",
+  "titulo": "Buba",
+  "ano": null,
+  "descricao": "Um trapaceiro de uma cidade pequena e seu irmão manipulativo se associam à máfia local, e esse ato trará consequências comicamente brutais.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7iRMwdNzXFnOKMhVoodj0zhvFYY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tHBD4VgNMH7LIb8ohUpfQZCDh1F.jpg",
+  "tmdbId": 997703,
+  "nota": 5.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784735,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772402,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Buba",
+  "dataLancamento": "2022-08-02"
+}

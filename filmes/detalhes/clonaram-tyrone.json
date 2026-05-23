@@ -1,0 +1,42 @@
+{
+  "id": "clonaram-tyrone",
+  "tipo": "filme",
+  "titulo": "Clonaram Tyrone!",
+  "ano": null,
+  "descricao": "Uma série de incidentes sinistros coloca um trio inusitado no rastro de uma grande conspiração.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uLYdX64xJVZEFRQJZQU4A2ueMyB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9mXBHMSDLi0Ty0HXcnLtQnqNBmI.jpg",
+  "tmdbId": 736769,
+  "nota": 6.543,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784960,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777720,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782203,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "They Cloned Tyrone",
+  "dataLancamento": "2023-06-14"
+}

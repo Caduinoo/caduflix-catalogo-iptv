@@ -1,0 +1,34 @@
+{
+  "id": "madame-durocher",
+  "tipo": "filme",
+  "titulo": "Madame Durocher",
+  "ano": null,
+  "descricao": "O filme acompanha a vida e carreira de Madame Durocher, a primeira mulher a ser aceita na Academia Brasileira de Medicina.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9VDAfGC2JHKhOcBiOmqvH9o4jAj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AuYP6e0IrGPqQu0kw6SdvFOR0AY.jpg",
+  "tmdbId": 1285706,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787067,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049619,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Madame Durocher",
+  "dataLancamento": "2024-09-05"
+}

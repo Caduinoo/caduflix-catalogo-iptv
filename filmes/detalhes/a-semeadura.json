@@ -1,0 +1,34 @@
+{
+  "id": "a-semeadura",
+  "tipo": "filme",
+  "titulo": "A Semeadura",
+  "ano": null,
+  "descricao": "Um homem se vê preso em um cânion no deserto com uma mulher que vive isolada e é prisioneira de um bando de rapazes sádicos.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iVfqrX5NBiGKSLgqj38Rnq2OA4P.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/22iDWgWhw3JxtAF7GGO5uVD00Ci.jpg",
+  "tmdbId": 1118033,
+  "nota": 5.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783788,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049806,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842361,
+  "tituloOriginal": "The Seeding",
+  "dataLancamento": "2024-01-26"
+}

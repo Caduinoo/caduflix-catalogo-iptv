@@ -1,0 +1,87 @@
+{
+  "id": "ilhas-selvagens",
+  "tipo": "serie",
+  "titulo": "Ilhas Selvagens",
+  "ano": null,
+  "descricao": "Nesta série de cinco episódios, David Attenborough revela a vida selvagem e espetáculos naturais tão exóticos e espetaculares como todos os que ele já viu pelo mundo. De baleias assassinas e grandes revoadas de aves limícolas à vida íntima da borboleta-azul, narrativas valiosas de história natural revelam a importância da vida selvagem britânica, mas também reconhecem o desafio de protegê-las.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iFLlplnPa0rJitXp6wCL5PW2vsr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pFP9F8tAkd28CF1W38he5n4Lj3H.jpg",
+  "tmdbId": 208230,
+  "nota": 8.3,
+  "xtreamSeriesId": 336,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10799532",
+          "tipo": "episodio",
+          "titulo": "Ilhas Selvagens S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10799532",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFLlplnPa0rJitXp6wCL5PW2vsr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799533",
+          "tipo": "episodio",
+          "titulo": "Ilhas Selvagens S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10799533",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFLlplnPa0rJitXp6wCL5PW2vsr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799534",
+          "tipo": "episodio",
+          "titulo": "Ilhas Selvagens S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10799534",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFLlplnPa0rJitXp6wCL5PW2vsr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799535",
+          "tipo": "episodio",
+          "titulo": "Ilhas Selvagens S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10799535",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFLlplnPa0rJitXp6wCL5PW2vsr.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799536",
+          "tipo": "episodio",
+          "titulo": "Ilhas Selvagens S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10799536",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iFLlplnPa0rJitXp6wCL5PW2vsr.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Wild Isles",
+  "dataLancamento": "2023-03-12"
+}

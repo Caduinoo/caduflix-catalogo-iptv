@@ -1,0 +1,34 @@
+{
+  "id": "irma-morte",
+  "tipo": "filme",
+  "titulo": "Irmã Morte",
+  "ano": null,
+  "descricao": "Espanha, 1949. Narcisa, uma noviça, chega a um antigo convento, convertido em uma escola para meninas, para trabalhar como professora.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wYpy1DQKqN2XbOnlibNOvhXdRqq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ZsiP0qr8TRUJTAd1VE0VNkLzhH.jpg",
+  "tmdbId": 955531,
+  "nota": 6.01,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786633,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775633,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Hermana Muerte",
+  "dataLancamento": "2023-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "x-men-fenix-negra",
+  "tipo": "filme",
+  "titulo": "X-Men: Fênix Negra",
+  "ano": null,
+  "descricao": "Ambientado em 1992, Charles Xavier está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey.",
+  "generos": [
+    "4K",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w4mvEKtjawXdYaq1bORuodLX6ti.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+  "tmdbId": 320288,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783128,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770958,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783133,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Dark Phoenix",
+  "dataLancamento": "2019-06-05"
+}

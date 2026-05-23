@@ -1,0 +1,26 @@
+{
+  "id": "duda",
+  "tipo": "filme",
+  "titulo": "Duda",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NACIONAIS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6oozwkZnhvgM0RYDp7uHNSAFqfv.jpg",
+  "banner": null,
+  "tmdbId": 783252,
+  "nota": 9,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778289,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567054,
+  "tituloOriginal": "Duda",
+  "dataLancamento": "1951-10-08"
+}

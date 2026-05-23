@@ -1,0 +1,34 @@
+{
+  "id": "a-vila-dos-uivos",
+  "tipo": "filme",
+  "titulo": "A Vila dos Uivos",
+  "ano": null,
+  "descricao": "Uma jovem psicóloga capaz de se comunicar com espíritos entra em uma aldeia amaldiçoada para investigar o desaparecimento de seu irmão. Lá, ela descobre que o misterioso local pode ter alguma conexão bizarra com a sua família.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jUjtmhBXJx8xtvGD29aTmOXqlLq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oMo1C8KgkHpFKReNdRW5oZIHDuq.jpg",
+  "tmdbId": 635199,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783845,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780372,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "犬鳴村",
+  "dataLancamento": "2020-02-07"
+}

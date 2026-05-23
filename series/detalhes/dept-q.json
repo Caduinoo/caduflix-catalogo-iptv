@@ -1,0 +1,135 @@
+{
+  "id": "dept-q",
+  "tipo": "serie",
+  "titulo": "Dept. Q",
+  "ano": null,
+  "descricao": "Um policial brilhante, mas arrogante, se torna chefe de um novo departamento, liderando um grupo improvável de desajustados na solução de casos arquivados de Edimburgo.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9AJVsScC6M81MmGZTnxghN9NZe9.jpg",
+  "tmdbId": 245703,
+  "nota": 7.882,
+  "xtreamSeriesId": 4382,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906100",
+          "tipo": "episodio",
+          "titulo": "Dept Q S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906100",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906101",
+          "tipo": "episodio",
+          "titulo": "Dept Q S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906101",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906102",
+          "tipo": "episodio",
+          "titulo": "Dept Q S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906102",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906103",
+          "tipo": "episodio",
+          "titulo": "Dept Q S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906103",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906104",
+          "tipo": "episodio",
+          "titulo": "Dept Q S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10906104",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906105",
+          "tipo": "episodio",
+          "titulo": "Dept Q S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10906105",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906106",
+          "tipo": "episodio",
+          "titulo": "Dept Q S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10906106",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906107",
+          "tipo": "episodio",
+          "titulo": "Dept Q S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10906107",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906108",
+          "tipo": "episodio",
+          "titulo": "Dept Q S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10906108",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 9,
+  "tituloOriginal": "Dept. Q",
+  "dataLancamento": "2025-05-29"
+}

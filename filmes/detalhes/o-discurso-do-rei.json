@@ -1,0 +1,34 @@
+{
+  "id": "o-discurso-do-rei",
+  "tipo": "filme",
+  "titulo": "O Discurso do Rei",
+  "ano": null,
+  "descricao": "O Príncipe Albert da Inglaterra deve ascender ao trono como Rei George VI, mas ele tem um problema de fala. Sabendo que o país precisa que seu marido seja capaz de se comunicar perfeitamente, Elizabeth contrata Lionel Logue, um ator australiano e fonoaudiólogo, para ajudar o Príncipe a superar a gagueira. Uma extraordinária amizade desenvolve-se entre os dois homens, e Logue usa meios não convencionais para ensinar o monarca a falar com segurança.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bRjhSFgc2sDYSf6WWlk9zujIPfk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
+  "tmdbId": 45269,
+  "nota": 7.733,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788025,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776081,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The King's Speech",
+  "dataLancamento": "2010-11-26"
+}

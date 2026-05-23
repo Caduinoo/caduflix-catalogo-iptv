@@ -1,0 +1,34 @@
+{
+  "id": "pipeline-o-grande-roubo",
+  "tipo": "filme",
+  "titulo": "Pipeline: O Grande Roubo",
+  "ano": null,
+  "descricao": "Um grupo de seis funcionários de uma refinaria arma um plano ousado: roubar o petróleo que passa pelos canos subterrâneos que cortam a Coreia do Sul. Os riscos são altos, e alguns imprevistos deixam tudo ainda mais perigoso.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7gUuEzlIn9WBVRzYICEiEtRgKbo.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dPFCnfKw0o8tQasFO76jCZ5WqTv.jpg",
+  "tmdbId": 618200,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789055,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11054567,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1779264081,
+  "tituloOriginal": "파이프라인",
+  "dataLancamento": "2021-05-26"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "amor-na-real",
+  "tipo": "serie",
+  "titulo": "Amor na Real",
+  "ano": null,
+  "descricao": "Em busca do amor, quatro mulheres e homens solteiros encaram os altos e baixos dos encontros reais e virtuais. Será que eles vão preferir os romances online ou offline?",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gAkST9zh6kiEPcmP8SRqDm6iRpw.jpg",
+  "tmdbId": 223601,
+  "nota": 5.7,
+  "xtreamSeriesId": 5793,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10971432",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10971432",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971433",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10971433",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971434",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10971434",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971435",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10971435",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971436",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10971436",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971437",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10971437",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971438",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10971438",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971439",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10971439",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971440",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10971440",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971441",
+          "tipo": "episodio",
+          "titulo": "Amor na Real S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10971441",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sphhkNFKoviCTUDBValbHgz1NBD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "IRL: In Real Love",
+  "dataLancamento": "2023-04-06"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "malcolm-x",
+  "tipo": "filme",
+  "titulo": "Malcolm X",
+  "ano": null,
+  "descricao": "Filme biográfico que retrata a vida de Malcolm X, líder do movimento negro americano Nação do Islã: da infância difícil à juventude delinquente, passando pela prisão, onde aprendeu a cultivar o orgulho na sua raça, ao encontro com o Islão, à peregrinação a Meca e ao seu assassinato em 21 de fevereiro de 1965, em Nova Iorque, no meio de uma reunião.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kPdAZIqPgegqbv4QF1FshbVXNrx.jpg",
+  "tmdbId": 1883,
+  "nota": 7.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787108,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775782,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Malcolm X",
+  "dataLancamento": "1992-11-18"
+}

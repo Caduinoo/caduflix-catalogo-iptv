@@ -1,0 +1,34 @@
+{
+  "id": "carniceiro",
+  "tipo": "filme",
+  "titulo": "Carniceiro",
+  "ano": null,
+  "descricao": "Um policial local e uma assistente social, seguindo pistas sobre casos de pessoas desaparecidas na cidade, descobrem coisas em uma fazenda de porcos, onde o açougueiro da cidade tem abatido mais do que apenas gado.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AnCMJdg3QbUR7uHcniZGT83dVbq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zWtF5eWVAyenIYu26VZbsLJon38.jpg",
+  "tmdbId": 1189798,
+  "nota": 5.932,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784819,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769457,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Squealer",
+  "dataLancamento": "2023-11-03"
+}

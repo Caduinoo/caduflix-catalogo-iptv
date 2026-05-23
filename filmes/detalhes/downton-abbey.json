@@ -1,0 +1,34 @@
+{
+  "id": "downton-abbey",
+  "tipo": "filme",
+  "titulo": "Downton Abbey - O Filme",
+  "ano": null,
+  "descricao": "A história da família Crawley, proprietários de uma grande propriedade no interior da Inglaterra no início do século 20.",
+  "generos": [
+    "LEGENDADOS",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lXoUmgHslfmC6kIhy814unBhptx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lgQQ6n1vPw40buW7QGc1DxDzQS9.jpg",
+  "tmdbId": 535544,
+  "nota": 7.134,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785575,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782297,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Downton Abbey",
+  "dataLancamento": "2019-09-12"
+}

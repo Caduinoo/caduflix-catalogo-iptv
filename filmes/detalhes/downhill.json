@@ -1,0 +1,34 @@
+{
+  "id": "downhill",
+  "tipo": "filme",
+  "titulo": "Downhill",
+  "ano": null,
+  "descricao": "Mal escapando de uma avalanche durante as férias de esqui em família nos Alpes, um casal é arruinado, pois são forçados a reavaliar suas vidas e como se sentem um com o outro.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ruLqLb2bfWKykckxVlVZayuBOgW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nvZuBYHUGbrFl3LmDnmbRgrQ8xa.jpg",
+  "tmdbId": 560391,
+  "nota": 5.237,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785574,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775279,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Downhill",
+  "dataLancamento": "2020-02-06"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "depois-de-horas",
+  "tipo": "filme",
+  "titulo": "Depois de Horas",
+  "ano": null,
+  "descricao": "Em um café de Manhattan, o processador de texto Paul Hackett se reúne e fala de literatura com Marcy. Mais tarde naquela noite, Paul pega um táxi para o apartamento de Marcy no centro da cidade. Sua nota de 20 dólares voa para fora da janela durante a corrida anunciando a noite inesperada que ele terá. Ele não pode pagar pela corrida e encontra-se em uma série de situações embaraçosas e com risco de morte.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/a8cykn2DbXdeE7hSqzBtVhPjOUn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+  "tmdbId": 10843,
+  "nota": 7.496,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785368,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772569,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "After Hours",
+  "dataLancamento": "1985-09-13"
+}

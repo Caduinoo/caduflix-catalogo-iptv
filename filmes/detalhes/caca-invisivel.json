@@ -1,0 +1,34 @@
+{
+  "id": "caca-invisivel",
+  "tipo": "filme",
+  "titulo": "Caça Invisível",
+  "ano": null,
+  "descricao": "Uma despedida de solteiro na floresta torna-se mortal quando cinco amigos ficam sob a mira de um caçador invisível e implacável.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rtaKXJg9PoEYRmsqg4obU2atcHu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/k6YjZblaTamvnvDouOJoAdPHaHj.jpg",
+  "tmdbId": 853588,
+  "nota": 4.676,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784851,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769465,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Prey",
+  "dataLancamento": "2021-09-10"
+}

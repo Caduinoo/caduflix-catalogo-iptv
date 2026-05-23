@@ -1,0 +1,42 @@
+{
+  "id": "operacao-cerveja",
+  "tipo": "filme",
+  "titulo": "Operação Cerveja",
+  "ano": null,
+  "descricao": "Chickie quer apoiar seus amigos que estão lutando na guerra do Vietnã e resolve fazer algo inusitado - pessoalmente levar cerveja americana para eles. O que começa como uma jornada bem intencionada, muda rapidamente a vida e as perspectivas de Chickie.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jp3KDoyADU0eVPLQagBjXcaNO2d.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7bjaAcbrJDVvdF2Uew6rGp9Tp05.jpg",
+  "tmdbId": 597922,
+  "nota": 7.511,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788694,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778050,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782794,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "The Greatest Beer Run Ever",
+  "dataLancamento": "2022-09-23"
+}

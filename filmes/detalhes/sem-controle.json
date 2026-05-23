@@ -1,0 +1,34 @@
+{
+  "id": "sem-controle",
+  "tipo": "filme",
+  "titulo": "Sem Controle",
+  "ano": null,
+  "descricao": "Quando uma jovem entediada procura um bom canal de TV para assistir, percebe que a anomalia estática não é somente uma falha técnica.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7QbT9y4uqe1CfHh2I1b6yNUJLbg.jpg",
+  "banner": null,
+  "tmdbId": 833498,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789665,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777912,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Sem Controle",
+  "dataLancamento": null
+}

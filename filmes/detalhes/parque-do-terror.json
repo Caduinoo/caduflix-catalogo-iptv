@@ -1,0 +1,34 @@
+{
+  "id": "parque-do-terror",
+  "tipo": "filme",
+  "titulo": "Parque do Terror",
+  "ano": null,
+  "descricao": "Em uma noite de Halloween, um grupo de amigos decide celebrar em um parque de diversões vazio. A alegria se transforma em terror quando eles percebem que não estão sozinhos. Presos no parque, a noite de diversão se torna uma luta pela sobrevivência.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4ew3fa0O4xpQ6Bnhtdilmkp0Ixc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xgNXnED4BkU7CDhVi6o5Q2HXbl9.jpg",
+  "tmdbId": 1058078,
+  "nota": 6.078,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788933,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781277,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Karusell",
+  "dataLancamento": "2023-10-20"
+}

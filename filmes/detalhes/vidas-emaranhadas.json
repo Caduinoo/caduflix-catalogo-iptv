@@ -1,0 +1,34 @@
+{
+  "id": "vidas-emaranhadas",
+  "tipo": "filme",
+  "titulo": "Vidas Emaranhadas",
+  "ano": null,
+  "descricao": "Um fotojornalista, de luto pela perda de seu filho natimorto, é atraído para uma relação obsessiva com uma adolescente grávida.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7zyrB5no9anfZLaO6KEgtAtiHGl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ofCnNvAZLGZc3iKNr9sA0oxdAnk.jpg",
+  "tmdbId": 508687,
+  "nota": 4.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791000,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777094,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Undertow",
+  "dataLancamento": "2020-03-05"
+}

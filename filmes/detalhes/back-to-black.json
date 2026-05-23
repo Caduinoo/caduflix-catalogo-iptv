@@ -1,0 +1,42 @@
+{
+  "id": "back-to-black",
+  "tipo": "filme",
+  "titulo": "Back to Black",
+  "ano": null,
+  "descricao": "A história de Amy Winehouse, do início da carreira como cantora de jazz no norte de Londres até se tornar uma estrela da música vencedora do Grammy, passando pela longa batalha contra álcool e drogas que interrompeu sua vida aos 27 anos.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/a1m4DAmySexNaaGnjEVA2MKNUCo.jpg",
+  "tmdbId": 998846,
+  "nota": 6.66,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784491,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774955,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782111,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Back to Black",
+  "dataLancamento": "2024-04-11"
+}

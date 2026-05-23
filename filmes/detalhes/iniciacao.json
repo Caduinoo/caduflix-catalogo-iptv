@@ -1,0 +1,34 @@
+{
+  "id": "iniciacao",
+  "tipo": "filme",
+  "titulo": "A Iniciação",
+  "ano": null,
+  "descricao": "O filme mostra a iniciação sexual de Roger um menino de 16 anos que passa férias em uma mansão cheia de mulheres.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jp8LYiQzEoUuMqu2lGSZZ1A4Nsf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4cd9YihTHx1j8oRdlwEa1emKiAl.jpg",
+  "tmdbId": 81774,
+  "nota": 6.072,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786583,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780832,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Les Exploits d'un jeune Don Juan",
+  "dataLancamento": "1986-11-04"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "folha-magica",
+  "tipo": "serie",
+  "titulo": "Folha Mágica",
+  "ano": null,
+  "descricao": "As aventuras da Pequena Raposa Azul Frig",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iGqDxkX7NY6gx0Ts4reV8zQOAm.jpg",
+  "tmdbId": 65047,
+  "nota": 7.5,
+  "xtreamSeriesId": 7082,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016613",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016613",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016614",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016614",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016615",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11016615",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016616",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11016616",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016617",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11016617",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016618",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11016618",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016619",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11016619",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016620",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11016620",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016621",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "11016621",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016622",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "11016622",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016623",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E11",
+          "numero": 11,
+          "temporada": 1,
+          "xtreamId": "11016623",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016624",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E12",
+          "numero": 12,
+          "temporada": 1,
+          "xtreamId": "11016624",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016625",
+          "tipo": "episodio",
+          "titulo": "Folha Magica S01E13",
+          "numero": 13,
+          "temporada": 1,
+          "xtreamId": "11016625",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDRGjzP2rvNAdBUpbY47w9ag9TP.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 13,
+  "tituloOriginal": "Tumble Leaf",
+  "dataLancamento": "2013-04-19"
+}

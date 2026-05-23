@@ -1,0 +1,99 @@
+{
+  "id": "flack",
+  "tipo": "serie",
+  "titulo": "Flack",
+  "ano": null,
+  "descricao": "Robyn é uma profissional de relações públicas. Ela impulsiona, faz publicidade e protege os clientes. Seu trabalho é esse, consertar a vida de outras pessoas, apesar de ser incapaz de corrigir a sua própria.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/i2bW3nZE8iThEgqNYjaxAz3qZoo.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6lkZYlgKF77OOcsoLP6Rdj4Lwy9.jpg",
+  "tmdbId": 86632,
+  "nota": 6.8,
+  "xtreamSeriesId": 294,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10798685",
+          "tipo": "episodio",
+          "titulo": "Flack S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10798685",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i2bW3nZE8iThEgqNYjaxAz3qZoo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798686",
+          "tipo": "episodio",
+          "titulo": "Flack S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10798686",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i2bW3nZE8iThEgqNYjaxAz3qZoo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798687",
+          "tipo": "episodio",
+          "titulo": "Flack S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10798687",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i2bW3nZE8iThEgqNYjaxAz3qZoo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798688",
+          "tipo": "episodio",
+          "titulo": "Flack S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10798688",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i2bW3nZE8iThEgqNYjaxAz3qZoo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798689",
+          "tipo": "episodio",
+          "titulo": "Flack S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10798689",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i2bW3nZE8iThEgqNYjaxAz3qZoo.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798690",
+          "tipo": "episodio",
+          "titulo": "Flack S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10798690",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i2bW3nZE8iThEgqNYjaxAz3qZoo.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Flack",
+  "dataLancamento": "2019-02-21"
+}

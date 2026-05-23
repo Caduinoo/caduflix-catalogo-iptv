@@ -1,0 +1,34 @@
+{
+  "id": "o-campeao",
+  "tipo": "filme",
+  "titulo": "O Campeão",
+  "ano": null,
+  "descricao": "Um lutador faz mil peripécias a fim de derrotar o terrível campeão, tudo para conseguir o amor da galante filha do empresário.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qF5xcKr75hJFpUIJ3oVYT7F3FgA.jpg",
+  "banner": null,
+  "tmdbId": 1543482,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787905,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776030,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "O Campeão",
+  "dataLancamento": "1931-01-01"
+}

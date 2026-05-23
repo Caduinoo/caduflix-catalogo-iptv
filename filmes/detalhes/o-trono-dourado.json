@@ -1,0 +1,34 @@
+{
+  "id": "o-trono-dourado",
+  "tipo": "filme",
+  "titulo": "O Trono Dourado",
+  "ano": null,
+  "descricao": "Século XV. Nas vastas extensões da Eurásia, os descendentes de Genghis Khan criam seu próprio estado. A terra prometida do Cazaquistão resiste aos seus inimigos.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xuTh7oTFqBCUjdc0QaaLKnvj8d2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bKgNhgJk2AjuRxsHBZyOZ8cfrBQ.jpg",
+  "tmdbId": 635897,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788565,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778046,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Казак хандыгы. Алтын так",
+  "dataLancamento": "2019-03-21"
+}

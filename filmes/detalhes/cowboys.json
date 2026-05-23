@@ -1,0 +1,34 @@
+{
+  "id": "cowboys",
+  "tipo": "filme",
+  "titulo": "Cowboys & Aliens",
+  "ano": null,
+  "descricao": "Em 1873, um estranho sem memória vai parar em Absolution, cidade inóspita para visitantes e dominada pelo medo imposto pelo pulso forte do \"Coronel\" Woodrow Dollarhyde. Mas o inesperado acontece quando máquinas voadoras atacam a cidade e sequestram seus habitantes. É quando os humanos descobrem que precisam combater a invasão alienígena, forçando os homens brancos, bons e maus, e ainda os peles vermelhas a unir forças contra a ameaça extraterrestre.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sGXCYMzr1sCnGNVuRpB2TOWPWDA.jpg",
+  "tmdbId": 49849,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785149,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775159,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Cowboys & Aliens",
+  "dataLancamento": "2011-07-29"
+}

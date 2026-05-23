@@ -1,0 +1,34 @@
+{
+  "id": "pavana",
+  "tipo": "filme",
+  "titulo": "Pavana",
+  "ano": null,
+  "descricao": "Três pessoas solitárias se conhecem trabalhando em uma loja de departamento e encontram consolo umas nas outras, explorando a conexão e a natureza do amor.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/onUWCAs2uhNuUX5nY2wiEHAfR3T.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
+  "tmdbId": 1268609,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791612,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791597,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "파반느",
+  "dataLancamento": "2026-02-19"
+}

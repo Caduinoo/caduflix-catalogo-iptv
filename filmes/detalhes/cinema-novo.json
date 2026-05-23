@@ -1,0 +1,26 @@
+{
+  "id": "cinema-novo",
+  "tipo": "filme",
+  "titulo": "Cinema Novo",
+  "ano": null,
+  "descricao": "Documentário alemão para a TV sobre o movimento \"Cinema Novo\". O diretor Joaquim Pedro de Andrade concentra-se em seis cineastas do Cinema Novo que trabalham no Rio em 1967.",
+  "generos": [
+    "NACIONAIS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eDxiyihAG7yv5sSzXCNe18HaNBN.jpg",
+  "banner": null,
+  "tmdbId": 321143,
+  "nota": 7.5,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778251,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567054,
+  "tituloOriginal": "Improvisiert und zielbewusst: Cinema Novo",
+  "dataLancamento": "1967-04-16"
+}

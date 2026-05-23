@@ -1,0 +1,34 @@
+{
+  "id": "o-horla",
+  "tipo": "filme",
+  "titulo": "O Horla",
+  "ano": null,
+  "descricao": "Depois de se mudar para a casa dos seus sonhos, um homem fica cada vez mais perturbado por uma presença inexplicável. Como mais ninguém a vê, ele se questiona se está enlouquecendo ou se tem mesmo algo sobrenatural em sua casa.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sZ9ma9RQdhu2GM1no3EfcyPYaKA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tqgqlvo5OLYrFwsOSG6TixwxVR4.jpg",
+  "tmdbId": 1023959,
+  "nota": 5.957,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788182,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776140,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Le Horla",
+  "dataLancamento": "2023-05-26"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "tales-of-the-walking-dead",
+  "tipo": "serie",
+  "titulo": "Contos de The Walking Dead",
+  "ano": null,
+  "descricao": "Série Antológica composta de episódios independentes focados em personagens novos e já apresentados do universo The Walking Dead.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uFU4ItwbxHnFHxntb76ASnZbWTN.jpg",
+  "tmdbId": 136248,
+  "nota": 6.95,
+  "xtreamSeriesId": 664,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10807890",
+          "tipo": "episodio",
+          "titulo": "Tales of the Walking Dead S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10807890",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807891",
+          "tipo": "episodio",
+          "titulo": "Tales of the Walking Dead S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10807891",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807892",
+          "tipo": "episodio",
+          "titulo": "Tales of the Walking Dead S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10807892",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807893",
+          "tipo": "episodio",
+          "titulo": "Tales of the Walking Dead S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10807893",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807894",
+          "tipo": "episodio",
+          "titulo": "Tales of the Walking Dead S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10807894",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807895",
+          "tipo": "episodio",
+          "titulo": "Tales of the Walking Dead S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10807895",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Tales of the Walking Dead",
+  "dataLancamento": "2022-08-14"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "diamantes-brutos",
+  "tipo": "serie",
+  "titulo": "Diamantes Brutos",
+  "ano": null,
+  "descricao": "Um homem volta à Antuérpia para tentar salvar o império de diamantes da família, afundado em dívidas pelo irmão.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pWn1lMqJEVJIFjcLjYD6nFxyc3s.jpg",
+  "tmdbId": 223668,
+  "nota": 6.898,
+  "xtreamSeriesId": 4400,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906261",
+          "tipo": "episodio",
+          "titulo": "Diamantes Brutos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906261",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906262",
+          "tipo": "episodio",
+          "titulo": "Diamantes Brutos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906262",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906263",
+          "tipo": "episodio",
+          "titulo": "Diamantes Brutos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906263",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906264",
+          "tipo": "episodio",
+          "titulo": "Diamantes Brutos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906264",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906265",
+          "tipo": "episodio",
+          "titulo": "Diamantes Brutos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10906265",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906266",
+          "tipo": "episodio",
+          "titulo": "Diamantes Brutos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10906266",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906267",
+          "tipo": "episodio",
+          "titulo": "Diamantes Brutos S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10906267",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906268",
+          "tipo": "episodio",
+          "titulo": "Diamantes Brutos S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10906268",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8yCDWAnjqy4wCgiO3kCiXdNqx6U.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Rough Diamonds",
+  "dataLancamento": "2023-04-21"
+}

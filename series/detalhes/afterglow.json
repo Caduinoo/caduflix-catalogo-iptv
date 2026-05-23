@@ -1,0 +1,111 @@
+{
+  "id": "afterglow",
+  "tipo": "serie",
+  "titulo": "Afterglow",
+  "ano": null,
+  "descricao": "Quando Ester descobre que está gravemente doente, ela e seus amigos decidem aproveitar a vida ao máximo, porque ela pode acabar a qualquer momento.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qTwu6aeJjapbZMDx7V1LNJejddB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bZeF7BBkHKsFG1J11Hb7e29UZJR.jpg",
+  "tmdbId": 211007,
+  "nota": 6.8,
+  "xtreamSeriesId": 66,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10793153",
+          "tipo": "episodio",
+          "titulo": "Afterglow S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10793153",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qTwu6aeJjapbZMDx7V1LNJejddB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793154",
+          "tipo": "episodio",
+          "titulo": "Afterglow S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10793154",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qTwu6aeJjapbZMDx7V1LNJejddB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793155",
+          "tipo": "episodio",
+          "titulo": "Afterglow S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10793155",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qTwu6aeJjapbZMDx7V1LNJejddB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793156",
+          "tipo": "episodio",
+          "titulo": "Afterglow S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10793156",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qTwu6aeJjapbZMDx7V1LNJejddB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793157",
+          "tipo": "episodio",
+          "titulo": "Afterglow S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10793157",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qTwu6aeJjapbZMDx7V1LNJejddB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793158",
+          "tipo": "episodio",
+          "titulo": "Afterglow S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10793158",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qTwu6aeJjapbZMDx7V1LNJejddB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793159",
+          "tipo": "episodio",
+          "titulo": "Afterglow S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10793159",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qTwu6aeJjapbZMDx7V1LNJejddB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Etterglød",
+  "dataLancamento": "2022-10-02"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "suzume",
+  "tipo": "filme",
+  "titulo": "Suzume",
+  "ano": null,
+  "descricao": "Depois que Suzume abre sem querer uma porta do caos, ela une forças com um jovem para ajudar a evitar que mais calamidades caiam sobre o Japão.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/QcS3MhdUiOEUOjY451FOFInZXF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
+  "tmdbId": 916224,
+  "nota": 7.886,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789983,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771824,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782984,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "すずめの戸締まり",
+  "dataLancamento": "2022-11-11"
+}

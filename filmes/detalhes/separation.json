@@ -1,0 +1,34 @@
+{
+  "id": "separation",
+  "tipo": "filme",
+  "titulo": "Seis Graus de Separação",
+  "ano": null,
+  "descricao": "Paul aparece na porta de um casal de marchands ricos, alegando precisar de ajuda depois de um roubo no Central Park. Apresentando-se como aluno de Harvard, amigo de seus filhos e filho de Sidney Poitier, ele encanta o casal com histórias a respeito do seu pai e termina passando a noite ali. Pela manhã, no entanto, descobrimos que Paul é um vigarista e seu golpe terá repercussões que mudarão a família de formas não imaginadas.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rcjHqENmze81lD43HxK4oCn6xVq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/e9L5dpi41k3YkbavwgOGXnQGCe1.jpg",
+  "tmdbId": 23210,
+  "nota": 6.413,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789693,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781427,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Six Degrees of Separation",
+  "dataLancamento": "1993-12-08"
+}

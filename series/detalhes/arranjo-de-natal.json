@@ -1,0 +1,63 @@
+{
+  "id": "arranjo-de-natal",
+  "tipo": "serie",
+  "titulo": "Arranjo de Natal",
+  "ano": null,
+  "descricao": "Um improvável romance de Natal brotou entre um rapper famoso e uma jornalista obstinada. Mas será que vai dar certo, apesar das diferenças?",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/n35vysDI3z4wsHSpElErNXKsAMX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/w12daIYCQnZJqCr9Eyha8QE6nUm.jpg",
+  "tmdbId": 135799,
+  "nota": 6.388,
+  "xtreamSeriesId": 4095,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901359",
+          "tipo": "episodio",
+          "titulo": "Arranjo de Natal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901359",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n35vysDI3z4wsHSpElErNXKsAMX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901360",
+          "tipo": "episodio",
+          "titulo": "Arranjo de Natal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901360",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n35vysDI3z4wsHSpElErNXKsAMX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901361",
+          "tipo": "episodio",
+          "titulo": "Arranjo de Natal S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901361",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n35vysDI3z4wsHSpElErNXKsAMX.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Christmas Flow",
+  "dataLancamento": "2021-11-17"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "criancas-de-valor",
+  "tipo": "filme",
+  "titulo": "Crianças de Valor",
+  "ano": null,
+  "descricao": "Duas crianças de 12 anos, fruto de lares desfeitos no Upper-West-Side, lutam para entender a vida dos pais e seus próprios sentimentos adolescentes.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9lDxqIY0yUcaxpivbd5LY9p2Ho3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/z30VkCkxhdaVK0Kgfq9YcODjOE0.jpg",
+  "tmdbId": 85327,
+  "nota": 4.906,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785160,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775163,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Rich Kids",
+  "dataLancamento": "1979-08-17"
+}

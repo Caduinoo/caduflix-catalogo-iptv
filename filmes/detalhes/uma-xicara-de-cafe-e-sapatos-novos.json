@@ -1,0 +1,34 @@
+{
+  "id": "uma-xicara-de-cafe-e-sapatos-novos",
+  "tipo": "filme",
+  "titulo": "Uma Xícara de Café e Sapatos Novos",
+  "ano": null,
+  "descricao": "Dois irmãos gêmeos surdos-mudos idênticos descobrem que sofrem de uma doença genética que também os deixará progressiva e irreversivelmente cegos.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6aarjzUR8Hv4kVQtqKysrhGFqc8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iecRLgwzGeXqSiddlm4Bsq0R3S4.jpg",
+  "tmdbId": 1022641,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790873,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049646,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Një filxhan kafe dhe këpucë të reja veshur",
+  "dataLancamento": "2022-09-01"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "jason-bourne",
+  "tipo": "filme",
+  "titulo": "Jason Bourne",
+  "ano": null,
+  "descricao": "Afastado da CIA há 10 anos, o agente Jason Bourne retorna ao campo de batalha para enfrentar uma rede sinistra que utiliza tecnologia e terror para se manter no poder.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9wcchetvkyCRi1UYPIinrzXBdsN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7mHeyU0a538bgguOeF57I8ZroSk.jpg",
+  "tmdbId": 324668,
+  "nota": 6.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11036340,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769911,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1776685818,
+  "tituloOriginal": "Jason Bourne",
+  "dataLancamento": "2016-07-27"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "sou-corinthians",
+  "tipo": "serie",
+  "titulo": "Sou Corinthians",
+  "ano": null,
+  "descricao": "Conheça todos os detalhes da história do Sport Club Corinthians Paulista. Craques do Timão relembram os anos de derrotas e desesperança do time, a Democracia Corintiana, a conquista do Mundial Interclubes em 2000 e a invasão alvinegra no Japão.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/31IpXgBm166YCC9sVuoCXFiaWmA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zporBrrqsPOPiMtChSM2BeOkTGa.jpg",
+  "tmdbId": 215788,
+  "nota": 8.5,
+  "xtreamSeriesId": 3266,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10879762",
+          "tipo": "episodio",
+          "titulo": "Sou Corinthians S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10879762",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/31IpXgBm166YCC9sVuoCXFiaWmA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10879763",
+          "tipo": "episodio",
+          "titulo": "Sou Corinthians S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10879763",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/31IpXgBm166YCC9sVuoCXFiaWmA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10879764",
+          "tipo": "episodio",
+          "titulo": "Sou Corinthians S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10879764",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/31IpXgBm166YCC9sVuoCXFiaWmA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10879765",
+          "tipo": "episodio",
+          "titulo": "Sou Corinthians S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10879765",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/31IpXgBm166YCC9sVuoCXFiaWmA.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Sou Corinthians",
+  "dataLancamento": "2023-01-13"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sequestro-fake",
+  "tipo": "filme",
+  "titulo": "Sequestro Fake",
+  "ano": null,
+  "descricao": "Falido, Sattam se envolve em uma tramoia muito louca quando decide pagar suas dívidas de um jeito inusitado: sequestrando o próprio pai.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/h3wKqZT6OWltbT9pufSlbWKSZHg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Ae00E0rpUIihDrJ1C0HvhufYa5d.jpg",
+  "tmdbId": 1580353,
+  "nota": 6.45,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789698,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049566,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "رهين",
+  "dataLancamento": "2025-12-06"
+}

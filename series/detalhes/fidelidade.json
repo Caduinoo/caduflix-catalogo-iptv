@@ -1,0 +1,99 @@
+{
+  "id": "fidelidade",
+  "tipo": "serie",
+  "titulo": "Fidelidade",
+  "ano": null,
+  "descricao": "Um casamento aparentemente feliz começa a desmoronar depois que a fidelidade do marido é questionada e ambos os cônjuges são tentados por outros desejos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/38eBCIbokpOKynFRuF0GvhU6UCK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ziUEkxnPZtJPmm7JbSuFupP9oNT.jpg",
+  "tmdbId": 155795,
+  "nota": 6.246,
+  "xtreamSeriesId": 4515,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907874",
+          "tipo": "episodio",
+          "titulo": "Fidelidade S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907874",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tKtx6QEq9kjPeTzWTTpJ4QCqcVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907875",
+          "tipo": "episodio",
+          "titulo": "Fidelidade S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907875",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tKtx6QEq9kjPeTzWTTpJ4QCqcVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907876",
+          "tipo": "episodio",
+          "titulo": "Fidelidade S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907876",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tKtx6QEq9kjPeTzWTTpJ4QCqcVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907877",
+          "tipo": "episodio",
+          "titulo": "Fidelidade S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907877",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tKtx6QEq9kjPeTzWTTpJ4QCqcVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907878",
+          "tipo": "episodio",
+          "titulo": "Fidelidade S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907878",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tKtx6QEq9kjPeTzWTTpJ4QCqcVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907879",
+          "tipo": "episodio",
+          "titulo": "Fidelidade S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907879",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tKtx6QEq9kjPeTzWTTpJ4QCqcVy.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Fedeltà",
+  "dataLancamento": "2022-02-14"
+}

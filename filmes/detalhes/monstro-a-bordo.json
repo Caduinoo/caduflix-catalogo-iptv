@@ -1,0 +1,42 @@
+{
+  "id": "monstro-a-bordo",
+  "tipo": "filme",
+  "titulo": "Monstro a Bordo",
+  "ano": null,
+  "descricao": "O Dr. Sigh tenta trazer uma misteriosa criatura de uma terra distante para a Alemanha. Mas após o avião ser atingido por uma turbulência, a criatura desperta e começa a atacar os passageiros.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fGKaYbPMx4ovrx2DlLS4CUarqOS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/apMl96DIrewME0s87rP733yb37Q.jpg",
+  "tmdbId": 1270125,
+  "nota": 4.659,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038965,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11038989,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050031,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Monster on a Plane",
+  "dataLancamento": "2024-11-07"
+}

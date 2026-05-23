@@ -1,0 +1,99 @@
+{
+  "id": "teto-para-dois",
+  "tipo": "serie",
+  "titulo": "Teto Para Dois",
+  "ano": null,
+  "descricao": "Tiffany e Leon dividem uma cama, mas nunca se encontraram. O plano é nunca se encontrar. Com grandes corações e vários cheques especiais, The Flatshare é uma comédia romântica pra geração que se vira.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bcFGWmhj1Fzobx1mtYBwQx7lT2U.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/emNT3R1BpesR4G83iQhYfDGWjZJ.jpg",
+  "tmdbId": 211698,
+  "nota": 7.1,
+  "xtreamSeriesId": 6625,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11000045",
+          "tipo": "episodio",
+          "titulo": "Teto Para Dois S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11000045",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bcFGWmhj1Fzobx1mtYBwQx7lT2U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000046",
+          "tipo": "episodio",
+          "titulo": "Teto Para Dois S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11000046",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bcFGWmhj1Fzobx1mtYBwQx7lT2U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000047",
+          "tipo": "episodio",
+          "titulo": "Teto Para Dois S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11000047",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bcFGWmhj1Fzobx1mtYBwQx7lT2U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000048",
+          "tipo": "episodio",
+          "titulo": "Teto Para Dois S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11000048",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bcFGWmhj1Fzobx1mtYBwQx7lT2U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000049",
+          "tipo": "episodio",
+          "titulo": "Teto Para Dois S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11000049",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bcFGWmhj1Fzobx1mtYBwQx7lT2U.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11000050",
+          "tipo": "episodio",
+          "titulo": "Teto Para Dois S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11000050",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bcFGWmhj1Fzobx1mtYBwQx7lT2U.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Flatshare",
+  "dataLancamento": "2022-12-01"
+}

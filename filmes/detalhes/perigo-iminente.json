@@ -1,0 +1,34 @@
+{
+  "id": "perigo-iminente",
+  "tipo": "filme",
+  "titulo": "Perigo Iminente",
+  "ano": null,
+  "descricao": "Em agosto de 1966, em uma plantação de borracha vietnamita chamada Long Tan, 108 soldados jovens e inexperientes da Austrália e Nova Zelândia estão lutando por suas vidas contra 2500 soldados do Vietnã do Norte e Viet Cong.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zkCljVHb1SdhuPTMftSFegju6q.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7uacpbrJd9g9xSTLgfyg1NwkAiu.jpg",
+  "tmdbId": 508664,
+  "nota": 6.807,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789001,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778060,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Danger Close: The Battle of Long Tan",
+  "dataLancamento": "2019-08-08"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "the-father",
+  "tipo": "filme",
+  "titulo": "Meu Pai",
+  "ano": null,
+  "descricao": "Um idoso sofre com as confusões da própria mente e rejeita qualquer ajuda. Enquanto isso, sua filha tenta lidar com a perda do pai que está vivo, mas cada dia mais longe.",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/85d7NFk3BnoaJr1NnH3gLl2lRCU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
+  "tmdbId": 600354,
+  "nota": 8.094,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790170,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "The Father",
+  "dataLancamento": "2020-12-23"
+}

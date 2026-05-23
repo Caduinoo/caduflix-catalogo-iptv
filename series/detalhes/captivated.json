@@ -1,0 +1,75 @@
+{
+  "id": "captivated",
+  "tipo": "serie",
+  "titulo": "Deslumbrada",
+  "ano": null,
+  "descricao": "Rachel, uma mãe solteira e faxineira, recebe uma oferta de emprego melhor de um rico empresário. Ela aceita, mas começa a desconfiar de seus motivos à medida que se envolve mais em seus negócios.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6yQzw3oe9LXJ0u130uawrKW8Ohd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gih2qgDHclvjyj0Imv8piGglbJd.jpg",
+  "tmdbId": 245996,
+  "nota": 6.5,
+  "xtreamSeriesId": 154,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10795333",
+          "tipo": "episodio",
+          "titulo": "Captivated S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10795333",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6yQzw3oe9LXJ0u130uawrKW8Ohd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10795334",
+          "tipo": "episodio",
+          "titulo": "Captivated S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10795334",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6yQzw3oe9LXJ0u130uawrKW8Ohd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10795335",
+          "tipo": "episodio",
+          "titulo": "Captivated S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10795335",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6yQzw3oe9LXJ0u130uawrKW8Ohd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10795336",
+          "tipo": "episodio",
+          "titulo": "Captivated S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10795336",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6yQzw3oe9LXJ0u130uawrKW8Ohd.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Captivated",
+  "dataLancamento": "2024-02-14"
+}

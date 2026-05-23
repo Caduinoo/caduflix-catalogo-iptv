@@ -1,0 +1,34 @@
+{
+  "id": "o-azar-e-todo-seu",
+  "tipo": "filme",
+  "titulo": "O Azar é Todo Seu",
+  "ano": null,
+  "descricao": "Monika é uma mulher de 50 anos que possui uma linda família e uma carreira brilhante. No entanto, sentindo que ainda falta algo em sua vida, ela decide buscar novas aventuras e se matricula em um curso de montanhismo.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bQV2v3f1FCoV3QqgCNooSZvLthc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7ornpuXTyvPR82QEcCfImrWo80g.jpg",
+  "tmdbId": 1128515,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787873,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779269,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Smolu nosíš ty, láska",
+  "dataLancamento": "2023-06-15"
+}

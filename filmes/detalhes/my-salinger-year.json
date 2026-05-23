@@ -1,0 +1,26 @@
+{
+  "id": "my-salinger-year",
+  "tipo": "filme",
+  "titulo": "Um Ano em Nova York",
+  "ano": null,
+  "descricao": "Uma recém graduada na faculdade aceita um emprego administrativo trabalhando para o agente literário do renomado e recluso escritor J.D. Salinger.",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/Y5BNDJf2OuRTXS8xguG5lOrXD8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/s661ZCXwC3cVIPlrrvo4bKOL7k3.jpg",
+  "tmdbId": 619594,
+  "nota": 6.303,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787540,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "My Salinger Year",
+  "dataLancamento": "2020-02-20"
+}

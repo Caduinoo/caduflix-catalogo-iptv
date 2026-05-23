@@ -1,0 +1,63 @@
+{
+  "id": "no-caminho",
+  "tipo": "serie",
+  "titulo": "No Caminho",
+  "ano": null,
+  "descricao": "Esta série documental em oito episódios acompanha Jason Momoa em viagens pelos Estados Unidos, onde o astro busca novas aventuras e amizades.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iC4SReLwwAiWOAbQghjRjl5UYbQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dhl3koMC87Ar3YncHSQMPwf54Lq.jpg",
+  "tmdbId": 242945,
+  "nota": 6.286,
+  "xtreamSeriesId": 3708,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10892624",
+          "tipo": "episodio",
+          "titulo": "No Caminho S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10892624",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iC4SReLwwAiWOAbQghjRjl5UYbQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892625",
+          "tipo": "episodio",
+          "titulo": "No Caminho S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10892625",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iC4SReLwwAiWOAbQghjRjl5UYbQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892626",
+          "tipo": "episodio",
+          "titulo": "No Caminho S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10892626",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iC4SReLwwAiWOAbQghjRjl5UYbQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "On the Roam",
+  "dataLancamento": "2024-01-18"
+}

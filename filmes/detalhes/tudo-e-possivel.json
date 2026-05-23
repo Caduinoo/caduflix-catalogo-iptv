@@ -1,0 +1,42 @@
+{
+  "id": "tudo-e-possivel",
+  "tipo": "filme",
+  "titulo": "Tudo é Possível",
+  "ano": null,
+  "descricao": "Trata-se de uma comédia emocionante sobre um pastor associado em uma mega igreja na Califórnia, que se vê pastor de uma igreja pobre no pior bairro de Atlanta.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jLJ9z58NhnNVk8SecjwCUCTDRLz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5CEZj8U4La2Dvovn95ugwTk3Obw.jpg",
+  "tmdbId": 112289,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790506,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779422,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783045,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Brother White",
+  "dataLancamento": "2012-04-15"
+}

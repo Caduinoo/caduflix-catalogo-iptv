@@ -1,0 +1,42 @@
+{
+  "id": "imortais",
+  "tipo": "filme",
+  "titulo": "Imortais",
+  "ano": null,
+  "descricao": "O impiedoso rei Hyperion busca o arco de Épiro para dominar o mundo e destruir os deuses. O único que pode detê-lo é Theseus, um corajoso jovem escolhido por Zeus. Com a ajuda da sacerdotisa Phaedra, ele comandará essa batalha épica.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/d6AAE8SUJR6PEPkiQHtBPPLqQDe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vbcUqIQZl7q7O2op2NT0ZqTLXxH.jpg",
+  "tmdbId": 37958,
+  "nota": 6.048,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049675,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769861,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050011,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Immortals",
+  "dataLancamento": "2011-11-10"
+}

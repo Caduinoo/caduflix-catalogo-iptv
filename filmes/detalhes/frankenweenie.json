@@ -1,0 +1,34 @@
+{
+  "id": "frankenweenie",
+  "tipo": "filme",
+  "titulo": "Frankenweenie",
+  "ano": null,
+  "descricao": "Victor (Charlie Tahan) adora fazer filmes caseiros de terror, quase sempre estrelados por seu cachorro Sparky. Quando o cão morre atropelado, Victor fica triste e inconformado. Inspirado por uma aula de ciências que teve na escola, onde um professor mostra ser possível estimular os movimentos através da eletricidade, ele constrói uma máquina que permita reviver Sparky. O experimento dá certo, mas o que Victor não esperava era que seu melhor amigo voltasse com hábitos um pouco diferentes.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qO99WPv2uULFcIhtk68UCElSJ0k.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yfTZ2MSRWc06cBrFOsAF4Lebi4.jpg",
+  "tmdbId": 62214,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786084,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771315,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Frankenweenie",
+  "dataLancamento": "2012-10-04"
+}

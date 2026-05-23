@@ -1,0 +1,42 @@
+{
+  "id": "imperio-da-luz",
+  "tipo": "filme",
+  "titulo": "Império da Luz",
+  "ano": null,
+  "descricao": "Ambientado dentro e em torno de um decadente cinema de uma cidade litorânea inglesa no início dos anos 1980, aí está Hilary, uma gerente de cinema que tenta lidar com sua saúde mental, e Stephen, um novo funcionário que deseja escapar dessa cidade provinciana onde enfrenta adversidades diárias. Hilary e Stephen encontram um sentimento de pertencimento por meio do relacionamento carinhoso e improvável entre eles, e experimentam o poder curativo da música, do cinema e da comunidade.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9hoNGfSq3ZiolERu1yFEOWhGLPL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/frV7YxDmZizcFjP5kKMFK37OrCC.jpg",
+  "tmdbId": 814757,
+  "nota": 6.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786541,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775606,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782450,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Empire of Light",
+  "dataLancamento": "2022-12-09"
+}

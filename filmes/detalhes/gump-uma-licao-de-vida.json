@@ -1,0 +1,34 @@
+{
+  "id": "gump-uma-licao-de-vida",
+  "tipo": "filme",
+  "titulo": "Gump: Uma Lição de Vida",
+  "ano": null,
+  "descricao": "Um cão de rua chamado Gump procura o seu lugar no mundo. Ele deseja ter um dono, mas para isso precisará enfrentar diversos desafios pelo caminho.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zG9ZQTyt2EiBNYyeJG4f1lsEyd3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2lEgBqV7QpPFflB5GQfMozELa57.jpg",
+  "tmdbId": 725133,
+  "nota": 6.969,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786315,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775545,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Gump – pes, který naučil lidi žít",
+  "dataLancamento": "2021-07-22"
+}

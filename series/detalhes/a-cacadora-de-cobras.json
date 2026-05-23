@@ -11,9 +11,136 @@
   "tmdbId": 256327,
   "nota": 7,
   "xtreamSeriesId": 3370,
-  "temporadas": [],
-  "totalTemporadas": 0,
-  "totalEpisodios": 0,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10883000",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10883000",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10883001",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10883001",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10883002",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10883002",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10883003",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10883003",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10883004",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10883004",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10883005",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10883005",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10883006",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10883006",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10883007",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10883007",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10883008",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10883008",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10883009",
+          "tipo": "episodio",
+          "titulo": "A Cacadora de Cobras S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10883009",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4SCuOCPhExTXwgO6nVAfhZ5ruv.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
   "tituloOriginal": "Die Schlangenfängerin",
   "dataLancamento": "2024-05-08"
 }

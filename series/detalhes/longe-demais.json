@@ -1,0 +1,87 @@
+{
+  "id": "longe-demais",
+  "tipo": "serie",
+  "titulo": "Longe Demais",
+  "ano": null,
+  "descricao": "Uma bolsa de estudos para a escola de maior prestígio da Nigéria abre as portas do luxuoso mundo da elite para um adolescente com problemas financeiros.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pcOcKDaP5KnC66M3KjUatoSM7Ve.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/r178SNOqH4VD1aydevTdiULhJ4R.jpg",
+  "tmdbId": 215874,
+  "nota": 8.091,
+  "xtreamSeriesId": 4739,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10913594",
+          "tipo": "episodio",
+          "titulo": "Longe Demais S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10913594",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b6Jan7ExeqARsuCfpdThyG5l44k.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10913595",
+          "tipo": "episodio",
+          "titulo": "Longe Demais S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10913595",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b6Jan7ExeqARsuCfpdThyG5l44k.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10913596",
+          "tipo": "episodio",
+          "titulo": "Longe Demais S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10913596",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b6Jan7ExeqARsuCfpdThyG5l44k.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10913597",
+          "tipo": "episodio",
+          "titulo": "Longe Demais S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10913597",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b6Jan7ExeqARsuCfpdThyG5l44k.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10913598",
+          "tipo": "episodio",
+          "titulo": "Longe Demais S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10913598",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b6Jan7ExeqARsuCfpdThyG5l44k.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Far from Home",
+  "dataLancamento": "2022-12-16"
+}

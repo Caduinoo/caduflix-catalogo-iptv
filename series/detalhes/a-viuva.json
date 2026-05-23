@@ -1,0 +1,123 @@
+{
+  "id": "a-viuva",
+  "tipo": "serie",
+  "titulo": "A Viúva",
+  "ano": null,
+  "descricao": "A busca de uma mulher para descobrir o desaparecimento misterioso do marido a leva para o Congo, onde ela é forçada a procurar a verdade sobre o que aconteceu com o homem que amava.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yaFYTmRrccCh9Oz5pOXSueGHZ0S.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iJVgkjFf6TrxDlic97XCkS4fEuc.jpg",
+  "tmdbId": 85854,
+  "nota": 6.848,
+  "xtreamSeriesId": 58,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11050555",
+          "tipo": "episodio",
+          "titulo": "A Viuva S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11050555",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11050556",
+          "tipo": "episodio",
+          "titulo": "A Viuva S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11050556",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11050557",
+          "tipo": "episodio",
+          "titulo": "A Viuva S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11050557",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11050558",
+          "tipo": "episodio",
+          "titulo": "A Viuva S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11050558",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11050559",
+          "tipo": "episodio",
+          "titulo": "A Viuva S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11050559",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11050560",
+          "tipo": "episodio",
+          "titulo": "A Viuva S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11050560",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11050561",
+          "tipo": "episodio",
+          "titulo": "A Viuva S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11050561",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793071",
+          "tipo": "episodio",
+          "titulo": "A Viuva S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10793071",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yaFYTmRrccCh9Oz5pOXSueGHZ0S.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The Widow",
+  "dataLancamento": "2019-02-28"
+}

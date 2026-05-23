@@ -1,0 +1,123 @@
+{
+  "id": "objetos-amaldicoados",
+  "tipo": "serie",
+  "titulo": "Objetos Amaldiçoados",
+  "ano": null,
+  "descricao": "Relatos impressionantes de pessoas que alegam ter sobrevivido a apavorantes atividades paranormais provocadas por um objeto assombrado.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8YozB4Tad0jlQnMEyXy0GDE9fXY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Aq60i4dbAykwpfzsCTbQ9g1Xtsa.jpg",
+  "tmdbId": 73929,
+  "nota": 6,
+  "xtreamSeriesId": 6209,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10984426",
+          "tipo": "episodio",
+          "titulo": "Objetos Amaldicoados S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10984426",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8YozB4Tad0jlQnMEyXy0GDE9fXY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10984427",
+          "tipo": "episodio",
+          "titulo": "Objetos Amaldicoados S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10984427",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8YozB4Tad0jlQnMEyXy0GDE9fXY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10984428",
+          "tipo": "episodio",
+          "titulo": "Objetos Amaldicoados S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10984428",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8YozB4Tad0jlQnMEyXy0GDE9fXY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10984429",
+          "tipo": "episodio",
+          "titulo": "Objetos Amaldicoados S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10984429",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8YozB4Tad0jlQnMEyXy0GDE9fXY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10984430",
+          "tipo": "episodio",
+          "titulo": "Objetos Amaldicoados S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10984430",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8YozB4Tad0jlQnMEyXy0GDE9fXY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10984431",
+          "tipo": "episodio",
+          "titulo": "Objetos Amaldicoados S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10984431",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8YozB4Tad0jlQnMEyXy0GDE9fXY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10984432",
+          "tipo": "episodio",
+          "titulo": "Objetos Amaldicoados S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10984432",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8YozB4Tad0jlQnMEyXy0GDE9fXY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10984433",
+          "tipo": "episodio",
+          "titulo": "Objetos Amaldicoados S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10984433",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8YozB4Tad0jlQnMEyXy0GDE9fXY.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Evil Things",
+  "dataLancamento": "2017-09-15"
+}

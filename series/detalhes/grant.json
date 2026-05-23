@@ -1,0 +1,63 @@
+{
+  "id": "grant",
+  "tipo": "serie",
+  "titulo": "Lou Grant",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m03ZVjhCnkS6KakipWjQ9xGtS65.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/18wS3MdzWlaWoKB8WtjBqGx2Kac.jpg",
+  "tmdbId": 480,
+  "nota": 7.3,
+  "xtreamSeriesId": 6024,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10978686",
+          "tipo": "episodio",
+          "titulo": "Grant S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10978686",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dxRQTh6BE3rWqKPtqcx82G4RGOj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978687",
+          "tipo": "episodio",
+          "titulo": "Grant S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10978687",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dxRQTh6BE3rWqKPtqcx82G4RGOj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978688",
+          "tipo": "episodio",
+          "titulo": "Grant S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10978688",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dxRQTh6BE3rWqKPtqcx82G4RGOj.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Lou Grant",
+  "dataLancamento": "1977-09-20"
+}

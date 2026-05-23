@@ -1,0 +1,123 @@
+{
+  "id": "it-s-bruno",
+  "tipo": "serie",
+  "titulo": "É o Bruno!",
+  "ano": null,
+  "descricao": "Um morador do Brooklyn dedica seus dias a cuidar do adorável cão Bruno e garantir que a vizinhança do bairro trate seu fiel escudeiro com o devido respeito.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/meLsBF7DV6VR6y9r8VwFDH0XnTv.jpg",
+  "tmdbId": 89490,
+  "nota": 7,
+  "xtreamSeriesId": 4668,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911652",
+          "tipo": "episodio",
+          "titulo": "It's Bruno! S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911652",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911653",
+          "tipo": "episodio",
+          "titulo": "It's Bruno! S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911653",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911654",
+          "tipo": "episodio",
+          "titulo": "It's Bruno! S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911654",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911655",
+          "tipo": "episodio",
+          "titulo": "It's Bruno! S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10911655",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911656",
+          "tipo": "episodio",
+          "titulo": "It's Bruno! S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10911656",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911657",
+          "tipo": "episodio",
+          "titulo": "It's Bruno! S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10911657",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911658",
+          "tipo": "episodio",
+          "titulo": "It's Bruno! S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10911658",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911659",
+          "tipo": "episodio",
+          "titulo": "It's Bruno! S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10911659",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "It's Bruno!",
+  "dataLancamento": "2019-05-17"
+}

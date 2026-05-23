@@ -1,0 +1,34 @@
+{
+  "id": "o-bom-professor",
+  "tipo": "filme",
+  "titulo": "O Bom Professor",
+  "ano": null,
+  "descricao": "Julien é professor em um colégio. Jovem e dedicado, ele tenta criar um vínculo com sua turma, dando atenção especial a alguns alunos, incluindo a tímida Leslie. Esse tratamento diferenciado é mal interpretado por alguns alunos, que começam a suspeitar das intenções do professor. Julien é então acusado de assédio. A fofoca se espalha rapidamente, e tanto o professor quanto a aluna se veem presos em uma situação delicada.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/66n2RObfT9YOQlesutatOTjMBAm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1SO3YnpeZB4kSBpv4IgT88dBiE8.jpg",
+  "tmdbId": 1000862,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787897,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033910,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1775158445,
+  "tituloOriginal": "Pas de vagues",
+  "dataLancamento": "2024-03-27"
+}

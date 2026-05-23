@@ -1,0 +1,60 @@
+{
+  "id": "cancoes-de-halloween-do-mickey-e-da-minnie",
+  "tipo": "serie",
+  "titulo": "Cancoes de Halloween do Mickey e da Minnie",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 1729,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10837251",
+          "tipo": "episodio",
+          "titulo": "Cancoes de Halloween do Mickey e da Minnie S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10837251",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/guBNE8M4o4kaoQsp7qGW6sNdNvl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837252",
+          "tipo": "episodio",
+          "titulo": "Cancoes de Halloween do Mickey e da Minnie S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10837252",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/guBNE8M4o4kaoQsp7qGW6sNdNvl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10837253",
+          "tipo": "episodio",
+          "titulo": "Cancoes de Halloween do Mickey e da Minnie S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10837253",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/guBNE8M4o4kaoQsp7qGW6sNdNvl.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3
+}

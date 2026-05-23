@@ -1,0 +1,34 @@
+{
+  "id": "as-sete-faces-de-jane",
+  "tipo": "filme",
+  "titulo": "As Sete Faces de Jane",
+  "ano": null,
+  "descricao": "Após deixar sua filha em um acampamento de verão, Jane decide vivenciar novas experiências e embarca em uma aventura pela estrada. Cada capítulo dessa jornada é contado por um cineasta diferente.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zmLsZKzk0ttO4C7D365SC7zZbjy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/l9kCyXUaCIqW8VnQDkvWorqUacL.jpg",
+  "tmdbId": 982813,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784349,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774920,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "The Seven Faces of Jane",
+  "dataLancamento": "2023-01-13"
+}

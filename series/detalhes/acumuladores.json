@@ -1,0 +1,39 @@
+{
+  "id": "acumuladores",
+  "tipo": "serie",
+  "titulo": "Acumuladores Compulsivos",
+  "ano": null,
+  "descricao": "Profissionais tentam ajudar pessoas que compulsivamente acumulam lixo. Montanhas de lixo se aglomeram pela casa e as consequências podem ser despejo, prisão e até mesmo a perda da guarda de seus filhos.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/39BSBdqQJVMzOfW5FqmXiSYLEOK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kcXwFixs6WDZFEA42xN5mw9cXAa.jpg",
+  "tmdbId": 30946,
+  "nota": 6.28,
+  "xtreamSeriesId": 5784,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10971249",
+          "tipo": "episodio",
+          "titulo": "Acumuladores S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10971249",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/XJHZ2WgSs7UXcRSfx8t45dFHNh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "Hoarders",
+  "dataLancamento": "2009-08-17"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "voo-370-o-aviao-que-desapareceu",
+  "tipo": "serie",
+  "titulo": "Voo 370: O Avião que Desapareceu",
+  "ano": null,
+  "descricao": "Em 2014, um avião com 239 pessoas a bordo desapareceu do radar. Esta série documental investiga o impressionante mistério do voo MH370.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1RO3m6aITuqrbDrWA9zonAwTmZT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hswkpjV89QHE2DelTOZAtDeXoyU.jpg",
+  "tmdbId": 220499,
+  "nota": 6.602,
+  "xtreamSeriesId": 5452,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927885",
+          "tipo": "episodio",
+          "titulo": "Voo 370 O Avião que Desapareceu S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927885",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RO3m6aITuqrbDrWA9zonAwTmZT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927886",
+          "tipo": "episodio",
+          "titulo": "Voo 370 O Avião que Desapareceu S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927886",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RO3m6aITuqrbDrWA9zonAwTmZT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927887",
+          "tipo": "episodio",
+          "titulo": "Voo 370 O Avião que Desapareceu S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927887",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RO3m6aITuqrbDrWA9zonAwTmZT.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "MH370: The Plane That Disappeared",
+  "dataLancamento": "2023-03-08"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "star-trek",
+  "tipo": "filme",
+  "titulo": "Star Trek",
+  "ano": null,
+  "descricao": "Está tudo pronto para a viagem inaugural da nave espacial mais moderna já criada: a USS Enterprise. Sua jovem tripulação tem uma missão importante: encontrar uma maneira de deter o malvado Nero que, motivado pela vingança, ameaça toda a humanidade. Mas o destino da galáxia está nas mãos de dois jovens rivais, que nasceram em mundos diferentes. Um deles, Tiberius James Kirk, é humano, em busca de emoções e um líder nato. O outro, Spock, meio humano e meio vulcano, é desprezado pelos vulcanos por suas emoções humanas.",
+  "generos": [
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pSAft4hYskVLuTwjaO2bA90K8iP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
+  "tmdbId": 13475,
+  "nota": 7.431,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777475,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567054,
+  "tituloOriginal": "Star Trek",
+  "dataLancamento": "2009-05-06"
+}

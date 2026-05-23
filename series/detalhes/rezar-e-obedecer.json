@@ -1,0 +1,75 @@
+{
+  "id": "rezar-e-obedecer",
+  "tipo": "serie",
+  "titulo": "Rezar e Obedecer",
+  "ano": null,
+  "descricao": "Esta série documental mostra a ascensão de Warren Jeffs na Igreja Fundamentalista de Jesus Cristo dos Santos dos Últimos Dias e o chocante caso criminoso contra ele.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mMxTOnOUh9uOI3cylkpAq9M85od.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4BTH03Z2amxYb9UgngL6hTxSqbx.jpg",
+  "tmdbId": 202880,
+  "nota": 7.4,
+  "xtreamSeriesId": 5180,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921503",
+          "tipo": "episodio",
+          "titulo": "Rezar e Obedecer S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921503",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mMxTOnOUh9uOI3cylkpAq9M85od.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921504",
+          "tipo": "episodio",
+          "titulo": "Rezar e Obedecer S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921504",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mMxTOnOUh9uOI3cylkpAq9M85od.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921505",
+          "tipo": "episodio",
+          "titulo": "Rezar e Obedecer S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10921505",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mMxTOnOUh9uOI3cylkpAq9M85od.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921506",
+          "tipo": "episodio",
+          "titulo": "Rezar e Obedecer S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921506",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mMxTOnOUh9uOI3cylkpAq9M85od.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Keep Sweet: Pray and Obey",
+  "dataLancamento": "2022-06-08"
+}

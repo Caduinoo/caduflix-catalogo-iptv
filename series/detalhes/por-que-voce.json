@@ -1,0 +1,123 @@
+{
+  "id": "por-que-voce",
+  "tipo": "serie",
+  "titulo": "Por Que Você É Assim?",
+  "ano": null,
+  "descricao": "Três amigos tentam equilibrar trabalho, diversão, identidade, encontros e noitadas nesta sátira sobre a vida de jovens australianos.",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bEeQkh4viZHrxnZzYR6y9xApYhO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vEG0clnyzzACMUPQEgZksYM8mIx.jpg",
+  "tmdbId": 118945,
+  "nota": 6.4,
+  "xtreamSeriesId": 2610,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10858298",
+          "tipo": "episodio",
+          "titulo": "Por Que Voce [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10858298",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bEeQkh4viZHrxnZzYR6y9xApYhO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10858299",
+          "tipo": "episodio",
+          "titulo": "Por Que Voce [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10858299",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bEeQkh4viZHrxnZzYR6y9xApYhO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10858300",
+          "tipo": "episodio",
+          "titulo": "Por Que Voce [L] S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10858300",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bEeQkh4viZHrxnZzYR6y9xApYhO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10858301",
+          "tipo": "episodio",
+          "titulo": "Por Que Voce [L] S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10858301",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bEeQkh4viZHrxnZzYR6y9xApYhO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10858302",
+          "tipo": "episodio",
+          "titulo": "Por Que Voce [L] S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10858302",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bEeQkh4viZHrxnZzYR6y9xApYhO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10858303",
+          "tipo": "episodio",
+          "titulo": "Por Que Voce [L] S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10858303",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bEeQkh4viZHrxnZzYR6y9xApYhO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10858304",
+          "tipo": "episodio",
+          "titulo": "Por Que Voce [L] S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10858304",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bEeQkh4viZHrxnZzYR6y9xApYhO.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10858305",
+          "tipo": "episodio",
+          "titulo": "Por Que Voce [L] S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10858305",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bEeQkh4viZHrxnZzYR6y9xApYhO.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Why Are You Like This?",
+  "dataLancamento": "2021-02-16"
+}

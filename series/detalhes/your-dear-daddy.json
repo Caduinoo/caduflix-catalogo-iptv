@@ -1,0 +1,39 @@
+{
+  "id": "your-dear-daddy",
+  "tipo": "serie",
+  "titulo": "เรียกแด๊ดสิธาร",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uSWKO3D4xBM5tnP0Vino86qr2po.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xVwkalDpHK1kdxOSmwSXK6NDiMP.jpg",
+  "tmdbId": 248404,
+  "nota": null,
+  "xtreamSeriesId": 7510,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11041496",
+          "tipo": "episodio",
+          "titulo": "Your Dear Daddy (2026) [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11041496",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uSWKO3D4xBM5tnP0Vino86qr2po.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "เรียกแด๊ดสิธาร",
+  "dataLancamento": "2026-05-09"
+}

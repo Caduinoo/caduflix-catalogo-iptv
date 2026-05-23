@@ -1,0 +1,34 @@
+{
+  "id": "o-jogo-do-bunker",
+  "tipo": "filme",
+  "titulo": "O Jogo do Bunker",
+  "ano": null,
+  "descricao": "Após vários acidentes misteriosos, um RPG ao vivo acaba cancelado. Enquanto uma equipe investiga o que aconteceu, eles percebem que ficaram presos dentro do jogo em uma terrível luta pela sobrevivência.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nqnpWetItUfRV7kwmGQ1DTthqWU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oLsOL0c1bCgtQahfkiVhUZnhaDY.jpg",
+  "tmdbId": 794234,
+  "nota": 4.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788211,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781125,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Bunker Game",
+  "dataLancamento": "2022-02-24"
+}

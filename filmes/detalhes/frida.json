@@ -1,0 +1,34 @@
+{
+  "id": "frida",
+  "tipo": "filme",
+  "titulo": "Frida",
+  "ano": null,
+  "descricao": "Frida Kahlo (Salma Hayek) foi um dos principais nomes da história artística do México. Conceituada e aclamada como pintora, ele teve um agitado casamento aberto com Diego Rivera (Alfred Molina), seu companheiro também nas artes, e ainda um controverso caso com o político Leon Trostky (Geoffrey Rush), além de várias outras mulheres.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gcGaSXzmodu53ABb0wOWrVWjKeg.jpg",
+  "tmdbId": 1360,
+  "nota": 7.386,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786102,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775480,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Frida",
+  "dataLancamento": "2002-08-29"
+}

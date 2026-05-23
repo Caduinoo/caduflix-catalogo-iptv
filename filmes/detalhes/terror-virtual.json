@@ -1,0 +1,34 @@
+{
+  "id": "terror-virtual",
+  "tipo": "filme",
+  "titulo": "Virtual Terror",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jbu1cFRSIR6DkmkFb9NnNvTRRsm.jpg",
+  "banner": null,
+  "tmdbId": 1326382,
+  "nota": 9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033171,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033150,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1774731101,
+  "tituloOriginal": "Virtual Terror",
+  "dataLancamento": "1996-01-02"
+}

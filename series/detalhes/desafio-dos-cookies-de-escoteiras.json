@@ -1,0 +1,48 @@
+{
+  "id": "desafio-dos-cookies-de-escoteiras",
+  "tipo": "serie",
+  "titulo": "Desafio dos Cookies de Escoteiras",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 1409,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10828827",
+          "tipo": "episodio",
+          "titulo": "Desafio dos Cookies de Escoteiras S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10828827",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bWH6ia5laX0zHWSAe1ioGI0paVN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828828",
+          "tipo": "episodio",
+          "titulo": "Desafio dos Cookies de Escoteiras S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10828828",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bWH6ia5laX0zHWSAe1ioGI0paVN.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2
+}

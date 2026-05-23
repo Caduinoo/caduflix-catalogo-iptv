@@ -1,0 +1,34 @@
+{
+  "id": "opus",
+  "tipo": "filme",
+  "titulo": "Opus",
+  "ano": null,
+  "descricao": "Uma jovem escritora é convidada para o complexo remoto de uma lendária estrela pop que desapareceu misteriosamente há trinta anos. Cercada pelo culto de bajuladores e jornalistas embriagados da estrela, ela se encontra no centro de um plano macabro.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3kzw6Rw7TBujqtchJS2TSP3O2US.jpg",
+  "tmdbId": 1202479,
+  "nota": 5.74,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788726,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781239,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Opus",
+  "dataLancamento": "2025-03-13"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "submersa-o-desaparecimento-de-kim-wall",
+  "tipo": "serie",
+  "titulo": "Submersa: O Desaparecimento de Kim Wall",
+  "ano": null,
+  "descricao": "Este documentário em duas partes dirigido pela cineasta indicada ao Emmy® Erin Lee Carr conta a história da talentosa jornalista Kim Wall, que tragicamente desapareceu em 2017 antes de entrevistar o excêntrico empresário Peter Madsen.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/x5pnoa1hmTRdYJkG4Pn41ofg5gP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ar2wB1bYo09K6k7mRBcnfoYetfB.jpg",
+  "tmdbId": 158787,
+  "nota": 7.1,
+  "xtreamSeriesId": 3845,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10896273",
+          "tipo": "episodio",
+          "titulo": "Submersa O Desaparecimento de Kim Wall S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10896273",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x5pnoa1hmTRdYJkG4Pn41ofg5gP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10896274",
+          "tipo": "episodio",
+          "titulo": "Submersa O Desaparecimento de Kim Wall S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10896274",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x5pnoa1hmTRdYJkG4Pn41ofg5gP.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Undercurrent: The Disappearance of Kim Wall",
+  "dataLancamento": "2022-03-08"
+}

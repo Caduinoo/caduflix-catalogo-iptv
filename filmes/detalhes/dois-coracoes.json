@@ -1,0 +1,34 @@
+{
+  "id": "dois-coracoes",
+  "tipo": "filme",
+  "titulo": "Dois Corações",
+  "ano": null,
+  "descricao": "Às vezes a vida nos encontra no banco em que estamos sentados e o inesperado acontece. Quando um andarilho cheio de rancor conhece uma mulher que perdeu tudo o que tinha de bom, o que poderia acontecer, que não fosse algo... Diferente?",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3AeCHiYQMOudsuEcSn68hqiwgv6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dKORNnVv8tZlePo0roy4AELL6U2.jpg",
+  "tmdbId": 822042,
+  "nota": 5.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785546,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779143,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Fragile Heart",
+  "dataLancamento": "2022-10-03"
+}

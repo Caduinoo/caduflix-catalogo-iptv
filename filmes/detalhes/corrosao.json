@@ -1,0 +1,34 @@
+{
+  "id": "corrosao",
+  "tipo": "filme",
+  "titulo": "Corrosão",
+  "ano": null,
+  "descricao": "Uma jornalista acaba de sofrer uma perda muito dolorosa: seu bebê morre no parto. E além de viver o luto de um fato tão trágico, e recuperar sua própria saúde, ela ainda precisará administrar outras ameaças. A mulher começa a ter visões assustadoras e se sentir sob ataque.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9WIHpY4qVYVYyRq220K4LVQwpjt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8Fm7orQofGDS7mA5EikK3A4dQbI.jpg",
+  "tmdbId": 1110586,
+  "nota": 5.039,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785139,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779671,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Weathering",
+  "dataLancamento": "2023-04-07"
+}

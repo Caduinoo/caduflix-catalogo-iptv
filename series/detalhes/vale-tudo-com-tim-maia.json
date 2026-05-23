@@ -1,0 +1,63 @@
+{
+  "id": "vale-tudo-com-tim-maia",
+  "tipo": "serie",
+  "titulo": "Vale Tudo com Tim Maia",
+  "ano": null,
+  "descricao": "A série traz o próprio Tim Maia narrando sua história, a partir de entrevistas raras, muitas delas inéditas, shows exclusivos e filmagens caseiras.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5oHRA6RMf3rjlxFchdgC0halhmL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/v09qvLAJ60QcnNcXzJUbbdjLThr.jpg",
+  "tmdbId": 209381,
+  "nota": 8,
+  "xtreamSeriesId": 3327,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10881867",
+          "tipo": "episodio",
+          "titulo": "Vale Tudo com Tim Maia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10881867",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5oHRA6RMf3rjlxFchdgC0halhmL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10881868",
+          "tipo": "episodio",
+          "titulo": "Vale Tudo com Tim Maia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10881868",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5oHRA6RMf3rjlxFchdgC0halhmL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10881869",
+          "tipo": "episodio",
+          "titulo": "Vale Tudo com Tim Maia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10881869",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5oHRA6RMf3rjlxFchdgC0halhmL.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Vale Tudo com Tim Maia",
+  "dataLancamento": "2022-09-28"
+}

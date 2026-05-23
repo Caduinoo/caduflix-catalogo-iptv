@@ -1,0 +1,34 @@
+{
+  "id": "wolves",
+  "tipo": "filme",
+  "titulo": "Dança com Lobos",
+  "ano": null,
+  "descricao": "Durante a Guerra Civil, um jovem soldado pratica uma ato ousado, é considerado herói e vai servir por sua escolha em um lugar com forte predominância do povo Sioux. Com o tempo, ele assimila os costumes dos nativos, acontecendo uma aculturação às avessas.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uWsXlrzsHKCwI2fPrrpW0QFwjMZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+  "tmdbId": 581,
+  "nota": 7.839,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791156,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777132,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Dances with Wolves",
+  "dataLancamento": "1990-11-09"
+}

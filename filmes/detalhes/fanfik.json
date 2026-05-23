@@ -1,0 +1,34 @@
+{
+  "id": "fanfik",
+  "tipo": "filme",
+  "titulo": "Fanfic",
+  "ano": null,
+  "descricao": "Dois estudantes do ensino médio formam uma conexão intensa enquanto navegam pelos desafios de descobrir e expressar seu verdadeiro eu.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6S0Elz6FHbasFzGr08d2HpZPyuQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mw96qKZHHM4onrWcu9Aqb4lfvDg.jpg",
+  "tmdbId": 1117698,
+  "nota": 6.897,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785937,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775426,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Fanfik",
+  "dataLancamento": "2023-05-17"
+}

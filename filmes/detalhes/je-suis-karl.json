@@ -1,0 +1,34 @@
+{
+  "id": "je-suis-karl",
+  "tipo": "filme",
+  "titulo": "Je Suis Karl",
+  "ano": null,
+  "descricao": "Sem saber no que está se metendo, uma jovem é aliciada pela mesma organização que matou sua família em um atentado terrorista.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gQJcTlIfLJayp5TdlvFzwh9gtMp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bhTMwf7XO4mbk4plgvFjq7tzoWt.jpg",
+  "tmdbId": 683641,
+  "nota": 5.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786678,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775639,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Je suis Karl",
+  "dataLancamento": "2021-09-16"
+}

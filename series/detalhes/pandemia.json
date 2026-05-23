@@ -1,0 +1,99 @@
+{
+  "id": "pandemia",
+  "tipo": "serie",
+  "titulo": "Pandemia",
+  "ano": null,
+  "descricao": "Nesta série documental, conheça os heróis que estão na linha de frente do combate ao vírus da gripe e o que eles estão fazendo para evitar a próxima epidemia global.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3UledxyPndc0Bdq4cc20RVh0lE2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9sTIxPFsjdcMjI1GdfC9JyQ4rTw.jpg",
+  "tmdbId": 96557,
+  "nota": 6.884,
+  "xtreamSeriesId": 5061,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10919371",
+          "tipo": "episodio",
+          "titulo": "Pandemia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10919371",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UledxyPndc0Bdq4cc20RVh0lE2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919372",
+          "tipo": "episodio",
+          "titulo": "Pandemia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10919372",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UledxyPndc0Bdq4cc20RVh0lE2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919373",
+          "tipo": "episodio",
+          "titulo": "Pandemia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10919373",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UledxyPndc0Bdq4cc20RVh0lE2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919374",
+          "tipo": "episodio",
+          "titulo": "Pandemia S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10919374",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UledxyPndc0Bdq4cc20RVh0lE2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919375",
+          "tipo": "episodio",
+          "titulo": "Pandemia S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10919375",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UledxyPndc0Bdq4cc20RVh0lE2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919376",
+          "tipo": "episodio",
+          "titulo": "Pandemia S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10919376",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3UledxyPndc0Bdq4cc20RVh0lE2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Pandemic: How to Prevent an Outbreak",
+  "dataLancamento": "2020-01-22"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bubble",
+  "tipo": "filme",
+  "titulo": "Bubble",
+  "ano": null,
+  "descricao": "Em uma Tóquio abandonada e repleta de bolhas e anormalidades gravitacionais, um jovem talentoso e uma garota misteriosa têm um encontro fatídico.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/65dad96VE8FJPEdrAkhdsuWMWH9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/a8Q2g0g7XzAF6gcB8qgn37ccb9Y.jpg",
+  "tmdbId": 912598,
+  "nota": 7.28,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784737,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771197,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "バブル",
+  "dataLancamento": "2022-02-14"
+}

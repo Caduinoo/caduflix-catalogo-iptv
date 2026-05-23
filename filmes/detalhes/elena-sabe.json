@@ -1,0 +1,42 @@
+{
+  "id": "elena-sabe",
+  "tipo": "filme",
+  "titulo": "Elena Sabe",
+  "ano": null,
+  "descricao": "À medida que sua doença de Parkinson progride, Elena lidera uma investigação implacável para encontrar os responsáveis pela súbita morte da filha.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nm90M4WPMXk9B4xjuaQQee4YvGF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qlNaYlXsDYnL6YeZg0QzPczW5jN.jpg",
+  "tmdbId": 948038,
+  "nota": 6.011,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785680,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775314,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782315,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Elena sabe",
+  "dataLancamento": "2023-11-16"
+}

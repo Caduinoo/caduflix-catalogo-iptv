@@ -1,0 +1,34 @@
+{
+  "id": "minha-vida-perfeita",
+  "tipo": "filme",
+  "titulo": "Minha Vida Perfeita",
+  "ano": null,
+  "descricao": "Uma mulher infeliz no casamento luta para manter a família unida enquanto tenta impedir que um chantagista anônimo revele um segredo. Assista o quanto quiser.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7QkjP5o3FepBX8SujOMnEEOoOqR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kgw2stuVoi8TcByt7Zcl1SeineU.jpg",
+  "tmdbId": 854537,
+  "nota": 4.941,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787376,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773182,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Moje wspaniałe życie",
+  "dataLancamento": "2021-10-29"
+}

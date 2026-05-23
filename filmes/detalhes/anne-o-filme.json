@@ -1,0 +1,34 @@
+{
+  "id": "anne-o-filme",
+  "tipo": "filme",
+  "titulo": "ANNE+: O Filme",
+  "ano": null,
+  "descricao": "Pressionada para acabar de escrever um livro e se mudar de Amsterdã para Montreal por conta de um relacionamento, a queer Anne busca o que realmente quer da vida.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/finlEpYDbdVVYYzTd5mYxe7PDjP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d2saptrOrNX7HBqjfADRnfbKo4V.jpg",
+  "tmdbId": 808579,
+  "nota": 6.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784200,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774858,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Anne+",
+  "dataLancamento": "2021-10-14"
+}

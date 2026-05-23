@@ -1,0 +1,34 @@
+{
+  "id": "censor",
+  "tipo": "filme",
+  "titulo": "Censor",
+  "ano": null,
+  "descricao": "Depois de assistir a um vídeo desagradável estranhamente familiar, Enid, uma censora de filmes, começa a resolver o mistério do passado do desaparecimento de sua irmã, embarcando em uma busca que dissolve a linha entre ficção e realidade.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1FOEEtGFPp5cgpLfPQVMB0UNVpI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/biUrxGIyrJjMGwASrPECVbrh6w4.jpg",
+  "tmdbId": 663866,
+  "nota": 5.856,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784881,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780558,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Censor",
+  "dataLancamento": "2021-06-11"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "requiem",
+  "tipo": "serie",
+  "titulo": "Requiem",
+  "ano": null,
+  "descricao": "Após uma tragédia súbita, uma violoncelista londrina desenterra segredos que ligam sua mãe ao desaparecimento de uma jovem em uma pequena cidade galesa.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hXaXiqm9AFiSLtjZIJ4pJ0xL6ol.jpg",
+  "tmdbId": 76819,
+  "nota": 6.27,
+  "xtreamSeriesId": 5166,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921359",
+          "tipo": "episodio",
+          "titulo": "Requiem S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921359",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921360",
+          "tipo": "episodio",
+          "titulo": "Requiem S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921360",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921361",
+          "tipo": "episodio",
+          "titulo": "Requiem S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10921361",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921362",
+          "tipo": "episodio",
+          "titulo": "Requiem S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921362",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921363",
+          "tipo": "episodio",
+          "titulo": "Requiem S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10921363",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921364",
+          "tipo": "episodio",
+          "titulo": "Requiem S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10921364",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Requiem",
+  "dataLancamento": "2018-02-02"
+}

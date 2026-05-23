@@ -1,0 +1,99 @@
+{
+  "id": "operacao-infiltrados",
+  "tipo": "serie",
+  "titulo": "Operação Infiltrados",
+  "ano": null,
+  "descricao": "Policiais disfarçados e o CIS trabalham juntos para prender traficantes ativos em diversas cidades dos EUA.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/q8Y2B7O8vkS1WZAfMDhyVUV6E9B.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/771HZol17CrYmIgCLuVLyio5Oj0.jpg",
+  "tmdbId": 275437,
+  "nota": null,
+  "xtreamSeriesId": 3750,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10894077",
+          "tipo": "episodio",
+          "titulo": "Operacao Infiltrados S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10894077",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/q8Y2B7O8vkS1WZAfMDhyVUV6E9B.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894078",
+          "tipo": "episodio",
+          "titulo": "Operacao Infiltrados S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10894078",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/q8Y2B7O8vkS1WZAfMDhyVUV6E9B.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894079",
+          "tipo": "episodio",
+          "titulo": "Operacao Infiltrados S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10894079",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/q8Y2B7O8vkS1WZAfMDhyVUV6E9B.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894080",
+          "tipo": "episodio",
+          "titulo": "Operacao Infiltrados S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10894080",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/q8Y2B7O8vkS1WZAfMDhyVUV6E9B.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894081",
+          "tipo": "episodio",
+          "titulo": "Operacao Infiltrados S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10894081",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/q8Y2B7O8vkS1WZAfMDhyVUV6E9B.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894082",
+          "tipo": "episodio",
+          "titulo": "Operacao Infiltrados S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10894082",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/q8Y2B7O8vkS1WZAfMDhyVUV6E9B.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Operation Undercover",
+  "dataLancamento": "2024-11-12"
+}

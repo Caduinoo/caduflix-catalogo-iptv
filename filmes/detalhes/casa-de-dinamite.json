@@ -1,0 +1,42 @@
+{
+  "id": "casa-de-dinamite",
+  "tipo": "filme",
+  "titulo": "Casa de Dinamite",
+  "ano": null,
+  "descricao": "Depois que um míssil sem autoria identificada é lançado contra os Estados Unidos, começa uma corrida contra o tempo para encontrar o responsável e preparar uma resposta.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rXo2FotSlBMg1MynsV276QIskN9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5SVRVwBfHCIkffiq0MmbdvnHWSz.jpg",
+  "tmdbId": 1290159,
+  "nota": 6.405,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784823,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778003,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782183,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "A House of Dynamite",
+  "dataLancamento": "2025-10-02"
+}

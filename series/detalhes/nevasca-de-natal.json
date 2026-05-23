@@ -1,0 +1,99 @@
+{
+  "id": "nevasca-de-natal",
+  "tipo": "serie",
+  "titulo": "Nevasca de Natal",
+  "ano": null,
+  "descricao": "Uma nevasca obriga viajantes e funcionários de um aeroporto a passarem as últimas horas da véspera de Natal juntos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aqJ1mf7umoS8bCLg6Rbi8wtWXB3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/A9UixkwiB2qxUSs60G6vOGexsx.jpg",
+  "tmdbId": 210532,
+  "nota": 6.8,
+  "xtreamSeriesId": 4864,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915456",
+          "tipo": "episodio",
+          "titulo": "Nevasca de Natal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915456",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aqJ1mf7umoS8bCLg6Rbi8wtWXB3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915457",
+          "tipo": "episodio",
+          "titulo": "Nevasca de Natal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915457",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aqJ1mf7umoS8bCLg6Rbi8wtWXB3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915458",
+          "tipo": "episodio",
+          "titulo": "Nevasca de Natal S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915458",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aqJ1mf7umoS8bCLg6Rbi8wtWXB3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915459",
+          "tipo": "episodio",
+          "titulo": "Nevasca de Natal S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10915459",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aqJ1mf7umoS8bCLg6Rbi8wtWXB3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915460",
+          "tipo": "episodio",
+          "titulo": "Nevasca de Natal S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10915460",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aqJ1mf7umoS8bCLg6Rbi8wtWXB3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915461",
+          "tipo": "episodio",
+          "titulo": "Nevasca de Natal S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10915461",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aqJ1mf7umoS8bCLg6Rbi8wtWXB3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Julestorm",
+  "dataLancamento": "2022-12-16"
+}

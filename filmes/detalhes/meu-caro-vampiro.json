@@ -1,0 +1,34 @@
+{
+  "id": "meu-caro-vampiro",
+  "tipo": "filme",
+  "titulo": "Meu Caro Vampiro",
+  "ano": null,
+  "descricao": "Nos anos 1970, durante a Guerra Fria, Fábián é um herói da revolução cubana que acaba de retornar a Hungria, mas a sua aparência mais jovem e o seu estranho comportamento despertam a desconfiança do Serviço Secreto. Cabe então a Maria e László, um jovem casal de espiões, a missão de monitorar Fábián e descobrir o segredo por trás de sua eterna juventude.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5wEgMKWY0It1pAiRCbCgGGKFmHz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gRX3Hn2IltGOEagrnwm08dRjZmz.jpg",
+  "tmdbId": 619925,
+  "nota": 5.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787290,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773140,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Drakulics Elvtárs",
+  "dataLancamento": "2019-10-31"
+}

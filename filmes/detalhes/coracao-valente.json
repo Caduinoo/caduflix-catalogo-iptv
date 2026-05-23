@@ -1,0 +1,34 @@
+{
+  "id": "coracao-valente",
+  "tipo": "filme",
+  "titulo": "Coração Valente",
+  "ano": null,
+  "descricao": "No século XIII, soldados ingleses matam a mulher do escocês William Wallace, bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I. Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cfnhpDzEV5zTsuaa4dCHFRzPHXx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+  "tmdbId": 197,
+  "nota": 7.945,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785120,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769534,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Braveheart",
+  "dataLancamento": "1995-05-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-covil",
+  "tipo": "filme",
+  "titulo": "O Covil",
+  "ano": null,
+  "descricao": "Uma família fragmentada é forçada a enfrentar seus demônios, metafórica e literalmente, à medida que involuntariamente se envolvem na tentativa de um homem de provar a existência do sobrenatural para derrubar a condenação de assassinato de um amigo.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/j90FkQ3VFFopWE469L1Jh1il9Hq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sLRPQcnoXRduZpbLMDw9DQYOqFf.jpg",
+  "tmdbId": 799982,
+  "nota": 5.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787971,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781065,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Lair",
+  "dataLancamento": "2021-11-09"
+}

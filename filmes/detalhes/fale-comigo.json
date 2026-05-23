@@ -1,0 +1,42 @@
+{
+  "id": "fale-comigo",
+  "tipo": "filme",
+  "titulo": "Fale Comigo",
+  "ano": null,
+  "descricao": "Quando um grupo de amigos descobre como conjurar espíritos usando uma antiga mão embalsamada, eles ficam viciados na nova emoção. Até que um deles vai longe demais e abre a porta para o mundo espiritual.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tqLkt6vDcIKyMi8asbSxlnEwYiT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+  "tmdbId": 1008042,
+  "nota": 7.138,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785928,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775419,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782352,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Talk to Me",
+  "dataLancamento": "2023-07-26"
+}

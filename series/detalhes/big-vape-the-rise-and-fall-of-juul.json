@@ -1,0 +1,75 @@
+{
+  "id": "big-vape-the-rise-and-fall-of-juul",
+  "tipo": "serie",
+  "titulo": "Big Vape",
+  "ano": null,
+  "descricao": "Nesta série documental, uma startup de cigarros eletrônicos se torna uma empresa multibilionária até que uma epidemia faz com que seu sucesso se transforme em fumaça.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dI0kGcAZ3SLikVYmfxkkdbKa68d.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/63M5fAvpzQmVkGG0uTOpKSuURK5.jpg",
+  "tmdbId": 235540,
+  "nota": 6.8,
+  "xtreamSeriesId": 4170,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10902616",
+          "tipo": "episodio",
+          "titulo": "Big Vape The Rise and Fall of Juul S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10902616",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dI0kGcAZ3SLikVYmfxkkdbKa68d.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902617",
+          "tipo": "episodio",
+          "titulo": "Big Vape The Rise and Fall of Juul S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10902617",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dI0kGcAZ3SLikVYmfxkkdbKa68d.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902618",
+          "tipo": "episodio",
+          "titulo": "Big Vape The Rise and Fall of Juul S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10902618",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dI0kGcAZ3SLikVYmfxkkdbKa68d.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902619",
+          "tipo": "episodio",
+          "titulo": "Big Vape The Rise and Fall of Juul S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10902619",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dI0kGcAZ3SLikVYmfxkkdbKa68d.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Big Vape: The Rise and Fall of Juul",
+  "dataLancamento": "2023-10-11"
+}

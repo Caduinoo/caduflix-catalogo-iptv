@@ -1,0 +1,75 @@
+{
+  "id": "flordelis-em-nome-da-mae",
+  "tipo": "serie",
+  "titulo": "Flordelis: Em Nome da Mãe",
+  "ano": null,
+  "descricao": "O processo de acusação contra a ex-pastora, que teria orquestrado o crime contra o marido. O caso aconteceu em junho de 2019, e nessa semana, Flordelis foi condenada a mais de 50 anos de prisão pelo homicídio do marido e pastor, Anderson do Carmo.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qGsEGRJNRuQODlfPdWCpfJczgfV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5Zywgt8pJfgaAn3YbjrDoTSxRiy.jpg",
+  "tmdbId": 214307,
+  "nota": 5.6,
+  "xtreamSeriesId": 3539,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10888106",
+          "tipo": "episodio",
+          "titulo": "Flordelis Em Nome da Mãe S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10888106",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qGsEGRJNRuQODlfPdWCpfJczgfV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888107",
+          "tipo": "episodio",
+          "titulo": "Flordelis Em Nome da Mãe S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10888107",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qGsEGRJNRuQODlfPdWCpfJczgfV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888108",
+          "tipo": "episodio",
+          "titulo": "Flordelis Em Nome da Mãe S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10888108",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qGsEGRJNRuQODlfPdWCpfJczgfV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10888109",
+          "tipo": "episodio",
+          "titulo": "Flordelis Em Nome da Mãe S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10888109",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qGsEGRJNRuQODlfPdWCpfJczgfV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Flordelis: Em Nome da Mãe",
+  "dataLancamento": "2022-12-08"
+}

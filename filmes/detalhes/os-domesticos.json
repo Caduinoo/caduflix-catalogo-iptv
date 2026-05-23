@@ -1,0 +1,34 @@
+{
+  "id": "os-domesticos",
+  "tipo": "filme",
+  "titulo": "Os Domésticos",
+  "ano": null,
+  "descricao": "Em um mundo pós-apocalíptico onde os sobreviventes se dividiram em facções mortais, o ex-casal Nina e Mark parte em busca do paradeiro dos pais dela. O cruel é que não há lugar seguro, e o desafio mais difícil será conseguir sobreviver.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/h6OReqEC3AQEG4LaWtLH6PIQ2aB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rwr038BaQBqRQbnP8yps4hXp5Dp.jpg",
+  "tmdbId": 426814,
+  "nota": 6.13,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788768,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779960,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "The Domestics",
+  "dataLancamento": "2018-06-28"
+}

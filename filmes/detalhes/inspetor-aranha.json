@@ -1,0 +1,34 @@
+{
+  "id": "inspetor-aranha",
+  "tipo": "filme",
+  "titulo": "Inspetor Aranha",
+  "ano": null,
+  "descricao": "O maior detetive do mundo dos insetos tem que aprender a trabalhar com uma nova parceira para desvendar um misterioso assassinato a bordo de um avião e salvar tanto o mundo dos insetos quanto o dos humanos de um perigoso vilão.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2mRCD2Hn9eaeZszKc6AsFo0VAkM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oMsoN3RsJEjxOWcImvwTffEnkMd.jpg",
+  "tmdbId": 987750,
+  "nota": 6.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786597,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771358,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Inspector Sun y la maldición de la viuda negra",
+  "dataLancamento": "2022-12-28"
+}

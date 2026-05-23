@@ -1,0 +1,123 @@
+{
+  "id": "largados-pelados-e-ilhados",
+  "tipo": "serie",
+  "titulo": "Largados, Pelados e Ilhados",
+  "ano": null,
+  "descricao": "Agora os vencedores de outras temporadas estarão em um novo desafio em ilhas remotas e cheias de perigos.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fOVIve9iewiTKowYTnWJ6q3C5Dl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8FmcFPkkiUU8w9CEmp3ReMRq16W.jpg",
+  "tmdbId": 230820,
+  "nota": 4.3,
+  "xtreamSeriesId": 1483,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10830517",
+          "tipo": "episodio",
+          "titulo": "Largados Pelados e Ilhados S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10830517",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fOVIve9iewiTKowYTnWJ6q3C5Dl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830518",
+          "tipo": "episodio",
+          "titulo": "Largados Pelados e Ilhados S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10830518",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fOVIve9iewiTKowYTnWJ6q3C5Dl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830519",
+          "tipo": "episodio",
+          "titulo": "Largados Pelados e Ilhados S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10830519",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fOVIve9iewiTKowYTnWJ6q3C5Dl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830520",
+          "tipo": "episodio",
+          "titulo": "Largados Pelados e Ilhados S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10830520",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fOVIve9iewiTKowYTnWJ6q3C5Dl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830521",
+          "tipo": "episodio",
+          "titulo": "Largados Pelados e Ilhados S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10830521",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fOVIve9iewiTKowYTnWJ6q3C5Dl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830522",
+          "tipo": "episodio",
+          "titulo": "Largados Pelados e Ilhados S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10830522",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fOVIve9iewiTKowYTnWJ6q3C5Dl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830523",
+          "tipo": "episodio",
+          "titulo": "Largados Pelados e Ilhados S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10830523",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fOVIve9iewiTKowYTnWJ6q3C5Dl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10830524",
+          "tipo": "episodio",
+          "titulo": "Largados Pelados e Ilhados S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10830524",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fOVIve9iewiTKowYTnWJ6q3C5Dl.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Naked and Afraid: Castaways",
+  "dataLancamento": "2023-07-30"
+}

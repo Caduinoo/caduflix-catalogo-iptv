@@ -1,0 +1,34 @@
+{
+  "id": "mosley",
+  "tipo": "filme",
+  "titulo": "Mosley - E a Cidade Secreta",
+  "ano": null,
+  "descricao": "Mosley, um torifante que trabalha como escravo, descobre pinturas rupestres que mostram seus ancestrais andando eretos. Determinado a libertar sua família, ele foge, embarcando em uma jornada perigosa para encontrar a cidade perdida dos Erguidos.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xRWDliPINkVz5IRl4mCbJFCsQf4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yvucColaE4yrjrf6mZFrDSy1xUA.jpg",
+  "tmdbId": 610445,
+  "nota": 6.829,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787484,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781690,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Mosley",
+  "dataLancamento": "2019-10-10"
+}

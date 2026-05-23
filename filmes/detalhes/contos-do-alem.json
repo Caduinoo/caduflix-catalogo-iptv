@@ -1,0 +1,34 @@
+{
+  "id": "contos-do-alem",
+  "tipo": "filme",
+  "titulo": "Contos do Além",
+  "ano": null,
+  "descricao": "Cinco estranhos vão a uma excursão para ver cavernas antigas e se perdem do grupo, mas encontram o sinistro guardião de uma cripta que conta como cada um deles morreu através de cinco histórias.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9txStdPJbHM5C93blitd5UXJe6U.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/QE9ILRngt3v67xkvNUPbjADPe2.jpg",
+  "tmdbId": 38939,
+  "nota": 6.85,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785078,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780579,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Tales from the Crypt",
+  "dataLancamento": "1972-03-09"
+}

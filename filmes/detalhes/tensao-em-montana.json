@@ -1,0 +1,34 @@
+{
+  "id": "tensao-em-montana",
+  "tipo": "filme",
+  "titulo": "Tensão em Montana",
+  "ano": null,
+  "descricao": "Uma família pioneira luta contra uma gangue de bandidos que os está aterrorizando em sua fazenda recém-construída nas planícies do estado de Montana, EUA.",
+  "generos": [
+    "LEGENDADOS",
+    "FAROESTE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tyNA2L96pFhWvMa3BHm3TgbVCiG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3boseSuFfjTazSrPAe9G6pSDvnH.jpg",
+  "tmdbId": 884315,
+  "nota": 6.06,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790048,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777628,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Terror on the Prairie",
+  "dataLancamento": "2022-09-08"
+}

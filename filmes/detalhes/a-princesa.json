@@ -1,0 +1,34 @@
+{
+  "id": "a-princesa",
+  "tipo": "filme",
+  "titulo": "A Princesa Prometida",
+  "ano": null,
+  "descricao": "A princesa Buttercup é raptada por uma bizarra gangue com um plano mirabolante para criar um incidente internacional. Seus membros logo descobrem que estão sendo perseguidos pelo pirata Roberts, que pode ser também Westley, o único - porém já esquecido - amor da princesa. Uma combinação bizarra de lutas de capa e espada, aventura, fantasia e comédia. Um divertidíssimo trabalho do diretor Rob Reiner.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9tXM8AR7BZ8cu6JkI9FlBl98Vao.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
+  "tmdbId": 2493,
+  "nota": 7.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783739,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777191,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Princess Bride",
+  "dataLancamento": "1987-09-25"
+}

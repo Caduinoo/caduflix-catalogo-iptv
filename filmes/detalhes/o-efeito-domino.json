@@ -1,0 +1,34 @@
+{
+  "id": "o-efeito-domino",
+  "tipo": "filme",
+  "titulo": "O Efeito Dominó",
+  "ano": null,
+  "descricao": "Um apagão atinge o sul da Califórnia provocando pânico na população. Entre as vítimas afetadas pela falta de energia elétrica está um casal desesperado que passa a roubar para garantir o remédio de seu bebê doente.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/amu3jHuMcxP7mSNmhvD8DT3Im7o.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zcE3evYO61qp6xQMJbESzWaImWK.jpg",
+  "tmdbId": 58770,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788044,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779883,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Trigger Effect",
+  "dataLancamento": "1996-08-30"
+}

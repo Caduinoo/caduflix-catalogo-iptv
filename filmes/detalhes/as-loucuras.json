@@ -1,0 +1,34 @@
+{
+  "id": "as-loucuras",
+  "tipo": "filme",
+  "titulo": "As Loucuras",
+  "ano": null,
+  "descricao": "Seis mulheres unidas por uma \"amiga\" em comum: a loucura. E receber a visita dela significa escancarar a realidade, tomar decisões ousadas e ter a vida transformada.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ax3cx4fXILjSbZHtLRedYNsUnD2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nI0AZlFksZ5oIRhSohUag45Fp6H.jpg",
+  "tmdbId": 1548092,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784332,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049594,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "Las Locuras",
+  "dataLancamento": "2025-11-13"
+}

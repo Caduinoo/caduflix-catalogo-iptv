@@ -1,0 +1,123 @@
+{
+  "id": "para-sempre",
+  "tipo": "serie",
+  "titulo": "Para Sempre",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yG7KQSEkajD8ujOBzJe3IuHVWMC.jpg",
+  "tmdbId": 138218,
+  "nota": 6.8,
+  "xtreamSeriesId": 5074,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920048",
+          "tipo": "episodio",
+          "titulo": "Para Sempre S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920048",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920049",
+          "tipo": "episodio",
+          "titulo": "Para Sempre S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920049",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920050",
+          "tipo": "episodio",
+          "titulo": "Para Sempre S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920050",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920051",
+          "tipo": "episodio",
+          "titulo": "Para Sempre S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920051",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920052",
+          "tipo": "episodio",
+          "titulo": "Para Sempre S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10920052",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920053",
+          "tipo": "episodio",
+          "titulo": "Para Sempre S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10920053",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920054",
+          "tipo": "episodio",
+          "titulo": "Para Sempre S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10920054",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920055",
+          "tipo": "episodio",
+          "titulo": "Para Sempre S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10920055",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Para Sempre",
+  "dataLancamento": "2021-11-08"
+}

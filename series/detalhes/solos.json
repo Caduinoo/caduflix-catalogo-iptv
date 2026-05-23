@@ -1,0 +1,111 @@
+{
+  "id": "solos",
+  "tipo": "serie",
+  "titulo": "Sozinhos",
+  "ano": null,
+  "descricao": "Sete histórias únicas. Cada personagem embarcará em uma aventura emocionante em um futuro incerto e eles passarão a acreditar que mesmo em nossos momentos mais isolados, estamos todos conectados através da experiência humana.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xNHv64BlAPpG3XmdV1kkpLLX8Kt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vVJUOPi13perEscPewGPAUXMujN.jpg",
+  "tmdbId": 119279,
+  "nota": 6.68,
+  "xtreamSeriesId": 638,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10807001",
+          "tipo": "episodio",
+          "titulo": "Solos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10807001",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcmHjfvk1c32dqwfgEdmoUck4L5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807002",
+          "tipo": "episodio",
+          "titulo": "Solos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10807002",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcmHjfvk1c32dqwfgEdmoUck4L5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807003",
+          "tipo": "episodio",
+          "titulo": "Solos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10807003",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcmHjfvk1c32dqwfgEdmoUck4L5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807004",
+          "tipo": "episodio",
+          "titulo": "Solos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10807004",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcmHjfvk1c32dqwfgEdmoUck4L5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807005",
+          "tipo": "episodio",
+          "titulo": "Solos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10807005",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcmHjfvk1c32dqwfgEdmoUck4L5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807006",
+          "tipo": "episodio",
+          "titulo": "Solos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10807006",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcmHjfvk1c32dqwfgEdmoUck4L5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807007",
+          "tipo": "episodio",
+          "titulo": "Solos S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10807007",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcmHjfvk1c32dqwfgEdmoUck4L5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Solos",
+  "dataLancamento": "2021-05-21"
+}

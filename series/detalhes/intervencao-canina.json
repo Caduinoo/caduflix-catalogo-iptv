@@ -1,0 +1,99 @@
+{
+  "id": "intervencao-canina",
+  "tipo": "serie",
+  "titulo": "Intervenção Canina",
+  "ano": null,
+  "descricao": "Para Jas Leverette, nenhum cachorro, raça ou comportamento é impossível de consertar. Acompanhe o trabalho desse treinador de Oakland com vários cachorros e seus donos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kM9Jb0HDRDQ6GaCGQIaogKf2O9g.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8Uj55jmUjYxMS9vG4UCgRD51Jt6.jpg",
+  "tmdbId": 117656,
+  "nota": 6.9,
+  "xtreamSeriesId": 4650,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911304",
+          "tipo": "episodio",
+          "titulo": "Intervenção Canina S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911304",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kM9Jb0HDRDQ6GaCGQIaogKf2O9g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911305",
+          "tipo": "episodio",
+          "titulo": "Intervenção Canina S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911305",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kM9Jb0HDRDQ6GaCGQIaogKf2O9g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911306",
+          "tipo": "episodio",
+          "titulo": "Intervenção Canina S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911306",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kM9Jb0HDRDQ6GaCGQIaogKf2O9g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911307",
+          "tipo": "episodio",
+          "titulo": "Intervenção Canina S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10911307",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kM9Jb0HDRDQ6GaCGQIaogKf2O9g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911308",
+          "tipo": "episodio",
+          "titulo": "Intervenção Canina S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10911308",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kM9Jb0HDRDQ6GaCGQIaogKf2O9g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911309",
+          "tipo": "episodio",
+          "titulo": "Intervenção Canina S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10911309",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kM9Jb0HDRDQ6GaCGQIaogKf2O9g.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Canine Intervention",
+  "dataLancamento": "2021-02-24"
+}

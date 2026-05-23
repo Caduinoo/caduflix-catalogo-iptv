@@ -1,0 +1,63 @@
+{
+  "id": "criadores-do-futuro",
+  "tipo": "serie",
+  "titulo": "Criadores do Futuro",
+  "ano": null,
+  "descricao": "Dallas Campbell e Kari Byron viajam pelo mundo e conhecem os inovadores que estão criando novas fontes energias para o futuro.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yo3CzTvtmrgKB3H121fJZZN5O0e.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bjk8SznWKfcEHXD1NDV9Jf7nODf.jpg",
+  "tmdbId": 136710,
+  "nota": 2,
+  "xtreamSeriesId": 1767,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10838082",
+          "tipo": "episodio",
+          "titulo": "Criadores do Futuro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10838082",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yo3CzTvtmrgKB3H121fJZZN5O0e.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10838083",
+          "tipo": "episodio",
+          "titulo": "Criadores do Futuro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10838083",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yo3CzTvtmrgKB3H121fJZZN5O0e.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10838084",
+          "tipo": "episodio",
+          "titulo": "Criadores do Futuro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10838084",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yo3CzTvtmrgKB3H121fJZZN5O0e.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Positive Energy",
+  "dataLancamento": "2017-10-04"
+}

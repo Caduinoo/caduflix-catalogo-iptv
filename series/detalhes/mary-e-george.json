@@ -1,0 +1,108 @@
+{
+  "id": "mary-e-george",
+  "tipo": "serie",
+  "titulo": "Mary e George",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 3096,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10873479",
+          "tipo": "episodio",
+          "titulo": "Mary e George S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10873479",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4oWmHHU97xAZMIoAfCDQzxOy9Cc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873480",
+          "tipo": "episodio",
+          "titulo": "Mary e George S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10873480",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4oWmHHU97xAZMIoAfCDQzxOy9Cc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873481",
+          "tipo": "episodio",
+          "titulo": "Mary e George S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10873481",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4oWmHHU97xAZMIoAfCDQzxOy9Cc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873482",
+          "tipo": "episodio",
+          "titulo": "Mary e George S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10873482",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4oWmHHU97xAZMIoAfCDQzxOy9Cc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873483",
+          "tipo": "episodio",
+          "titulo": "Mary e George S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10873483",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4oWmHHU97xAZMIoAfCDQzxOy9Cc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873484",
+          "tipo": "episodio",
+          "titulo": "Mary e George S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10873484",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4oWmHHU97xAZMIoAfCDQzxOy9Cc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10873485",
+          "tipo": "episodio",
+          "titulo": "Mary e George S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10873485",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4oWmHHU97xAZMIoAfCDQzxOy9Cc.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7
+}

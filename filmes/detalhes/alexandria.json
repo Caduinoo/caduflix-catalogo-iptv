@@ -1,0 +1,34 @@
+{
+  "id": "alexandria",
+  "tipo": "filme",
+  "titulo": "Alexandria",
+  "ano": null,
+  "descricao": "Em Alexandria, no ano de 391, Hipátia é professora de astronomia e matemática, além de filósofa. Um dos seus alunos, Orestes, está apaixonado por ela, assim como o seu escravo Davus. Juntos, eles deverão lutar contra extinção da biblioteca local e outras grandes instituições, que não devem sobreviver quando o Cristianismo ganha poder político na cidade.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tDOnF4AQT8t91oXpA1lkcTQdCTc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bdms9QMM4y6NBKIvXDINsKnK0Fj.jpg",
+  "tmdbId": 26428,
+  "nota": 6.993,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791544,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774790,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Agora",
+  "dataLancamento": "2009-05-17"
+}

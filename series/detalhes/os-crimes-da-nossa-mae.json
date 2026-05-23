@@ -1,0 +1,63 @@
+{
+  "id": "os-crimes-da-nossa-mae",
+  "tipo": "serie",
+  "titulo": "Os Crimes da Nossa Mãe",
+  "ano": null,
+  "descricao": "A busca pelos filhos desaparecidos de Lori Vallow começa a revelar mortes suspeitas, um marido com as mesmas crenças apocalípticas e, pior ainda, assassinatos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7hLmyXBMHd2ISVuzFE7bL4EtBSY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bQSXtlXs7R6l0oe9QiTtmxiRWDv.jpg",
+  "tmdbId": 208720,
+  "nota": 7,
+  "xtreamSeriesId": 5047,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10918922",
+          "tipo": "episodio",
+          "titulo": "Os Crimes da Nossa Mãe S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10918922",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7hLmyXBMHd2ISVuzFE7bL4EtBSY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10918923",
+          "tipo": "episodio",
+          "titulo": "Os Crimes da Nossa Mãe S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10918923",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7hLmyXBMHd2ISVuzFE7bL4EtBSY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10918924",
+          "tipo": "episodio",
+          "titulo": "Os Crimes da Nossa Mãe S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10918924",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7hLmyXBMHd2ISVuzFE7bL4EtBSY.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Sins of Our Mother",
+  "dataLancamento": "2022-09-14"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-ultima-noite",
+  "tipo": "filme",
+  "titulo": "Re/Member: A Última Noite",
+  "ano": null,
+  "descricao": "Três anos depois de terminar um jogo letal, estudantes presos em um pesadelo que se repete precisam sobreviver a confrontos violentos e acabar com uma maldição.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iaKNGPfkfzS6xmNR5Y1bWJe2FXS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gmu4liRCTk5nKSiGL6XHFbsJvD8.jpg",
+  "tmdbId": 1451398,
+  "nota": 5.067,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783890,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049537,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "カラダ探し THE LAST NIGHT",
+  "dataLancamento": "2025-09-05"
+}

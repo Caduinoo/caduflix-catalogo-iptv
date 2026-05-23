@@ -1,0 +1,111 @@
+{
+  "id": "quem-ve-casa",
+  "tipo": "serie",
+  "titulo": "Quem Vê Casa...",
+  "ano": null,
+  "descricao": "Com a casa à venda, Paul e Lydia precisam encarar segredos de família muito dolorosos; além de conseguir escondê-los de olhares curiosos e compradores implacáveis.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lRlV0B8SwckG5Nc1aJLiHWSQ1qD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4VKhaoO1rhPBVG2iTyFpyipmryG.jpg",
+  "tmdbId": 241112,
+  "nota": 6.3,
+  "xtreamSeriesId": 5140,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921070",
+          "tipo": "episodio",
+          "titulo": "Quem Ve Casa S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921070",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lRlV0B8SwckG5Nc1aJLiHWSQ1qD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921071",
+          "tipo": "episodio",
+          "titulo": "Quem Ve Casa S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921071",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lRlV0B8SwckG5Nc1aJLiHWSQ1qD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921072",
+          "tipo": "episodio",
+          "titulo": "Quem Ve Casa S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921072",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lRlV0B8SwckG5Nc1aJLiHWSQ1qD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921073",
+          "tipo": "episodio",
+          "titulo": "Quem Ve Casa S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10921073",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lRlV0B8SwckG5Nc1aJLiHWSQ1qD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921074",
+          "tipo": "episodio",
+          "titulo": "Quem Ve Casa S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10921074",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lRlV0B8SwckG5Nc1aJLiHWSQ1qD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921075",
+          "tipo": "episodio",
+          "titulo": "Quem Ve Casa S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10921075",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lRlV0B8SwckG5Nc1aJLiHWSQ1qD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921076",
+          "tipo": "episodio",
+          "titulo": "Quem Ve Casa S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10921076",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lRlV0B8SwckG5Nc1aJLiHWSQ1qD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "No Good Deed",
+  "dataLancamento": "2024-12-12"
+}

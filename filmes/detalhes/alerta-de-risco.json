@@ -1,0 +1,34 @@
+{
+  "id": "alerta-de-risco",
+  "tipo": "filme",
+  "titulo": "Alerta de Risco",
+  "ano": null,
+  "descricao": "Uma militar de elite descobre uma perigosa conspiração ao retornar à cidade natal em busca de respostas para a morte do pai.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cQLJT6hTXio0md94oBsSWADOECf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cmgjr2saprHvYw6Ee7MUIqGVQHn.jpg",
+  "tmdbId": 704673,
+  "nota": 5.681,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784006,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769249,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Trigger Warning",
+  "dataLancamento": "2024-06-20"
+}

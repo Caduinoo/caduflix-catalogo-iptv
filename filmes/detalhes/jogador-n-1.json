@@ -1,0 +1,34 @@
+{
+  "id": "jogador-n-1",
+  "tipo": "filme",
+  "titulo": "Jogador N° 1",
+  "ano": null,
+  "descricao": "Num futuro distópico, situado em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. No jogo, seus usuários devem descobrir a chave de um quebra-cabeça diabólico, baseado na cultura do final do século XX, para conquistar um prêmio de valor inestimável. Para vencê-lo, porém, Watts terá de abandonar a existência virtual e ceder a uma vida de amor e realidade da qual sempre tentou fugir.",
+  "generos": [
+    "4K",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sN46sgCsWqwgHMu4mEtKJ19knVr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+  "tmdbId": 333339,
+  "nota": 7.585,
+  "opcoes": [
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782476,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11041324,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778525530,
+  "tituloOriginal": "Ready Player One",
+  "dataLancamento": "2018-03-28"
+}

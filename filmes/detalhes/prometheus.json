@@ -1,0 +1,26 @@
+{
+  "id": "prometheus",
+  "tipo": "filme",
+  "titulo": "Prometheus",
+  "ano": null,
+  "descricao": "Uma equipe de cientistas embarca em uma jornada espacial para descobrir a verdade sobre a origem da raça humana. No planeta de destino, eles encontram criaturas poderosas e revelações assustadoras.",
+  "generos": [
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/k1GZVllOORTiN0XTPdumt9CSAcc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sM42bpH73dmf3kJrE8xr4kztYqR.jpg",
+  "tmdbId": 70981,
+  "nota": 6.596,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777456,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567054,
+  "tituloOriginal": "Prometheus",
+  "dataLancamento": "2012-05-30"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "os-bad-boas",
+  "tipo": "filme",
+  "titulo": "Os Bad Boas",
+  "ano": null,
+  "descricao": "Um investigador dedicado e um ex-policial imprudente são obrigados a trabalhar juntos, causando um verdadeiro caos nas ruas de Roterdã.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sCMbtE4Owgbgndty07jCA7wH08F.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qtSY2SAL5QApuCUD0sXqyzgHYnl.jpg",
+  "tmdbId": 1374534,
+  "nota": 5.899,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788751,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773521,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782799,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Bad Boa's",
+  "dataLancamento": "2025-07-10"
+}

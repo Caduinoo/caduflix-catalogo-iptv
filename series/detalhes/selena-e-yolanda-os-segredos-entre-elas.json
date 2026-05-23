@@ -1,0 +1,51 @@
+{
+  "id": "selena-e-yolanda-os-segredos-entre-elas",
+  "tipo": "serie",
+  "titulo": "Selena e Yolanda: Os Segredos Entre Elas",
+  "ano": null,
+  "descricao": "Yolanda Saldivar e sua família falam publicamente e revelam seu lado da história no assassinato da superestrela da música Selena, um crime pelo qual ela cumpriu uma longa pena de prisão.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cKwxneT7476ky0nOz9Yx7dd1k9t.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tkFw5RJurOF59p8kfjBibB43Awc.jpg",
+  "tmdbId": 245525,
+  "nota": 6,
+  "xtreamSeriesId": 613,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10806380",
+          "tipo": "episodio",
+          "titulo": "Selena e Yolanda Os Segredos Entre Elas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10806380",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cKwxneT7476ky0nOz9Yx7dd1k9t.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806381",
+          "tipo": "episodio",
+          "titulo": "Selena e Yolanda Os Segredos Entre Elas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10806381",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cKwxneT7476ky0nOz9Yx7dd1k9t.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Selena & Yolanda: The Secrets Between Them",
+  "dataLancamento": "2024-02-17"
+}

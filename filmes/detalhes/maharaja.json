@@ -1,0 +1,34 @@
+{
+  "id": "maharaja",
+  "tipo": "filme",
+  "titulo": "Maharaja",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7aqfENdbntf8N1Jqo35zGQGX33T.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/losaS34SWCsHM5qLmFzyg8TqKSE.jpg",
+  "tmdbId": 232808,
+  "nota": 5.182,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787088,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770044,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Maharaja",
+  "dataLancamento": "1998-09-03"
+}

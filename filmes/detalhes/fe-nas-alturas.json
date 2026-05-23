@@ -1,0 +1,42 @@
+{
+  "id": "fe-nas-alturas",
+  "tipo": "filme",
+  "titulo": "Fé nas Alturas",
+  "ano": null,
+  "descricao": "O passageiro Doug White segue uma verdadeira história de fé e sobrevivência, numa jornada angustiante para pousar um avião com segurança e salvar a vida de toda sua família, após o piloto da aeronave morrer de forma inesperada durante o voo.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7EUjYWfM7QFFgQyKtdqFSgRvzBB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ndrZYPNv0jKMCO9Ne98vfNxTzkW.jpg",
+  "tmdbId": 878375,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786151,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775494,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782386,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "On a Wing and a Prayer",
+  "dataLancamento": "2023-03-28"
+}

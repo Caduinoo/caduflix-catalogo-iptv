@@ -1,0 +1,34 @@
+{
+  "id": "um-presente-da-tiffany",
+  "tipo": "filme",
+  "titulo": "Um Presente da Tiffany",
+  "ano": null,
+  "descricao": "A vida de uma mulher muda completamente por um anel de noivado que deveria ser de outra pessoa.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aIKbRDYydwXCvSWFDGu9ZooH27m.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wug15qrt09vllipUKXr6SNf74QT.jpg",
+  "tmdbId": 916053,
+  "nota": 6.667,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790705,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774082,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Something from Tiffany's",
+  "dataLancamento": "2022-12-08"
+}

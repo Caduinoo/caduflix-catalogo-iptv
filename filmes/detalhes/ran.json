@@ -1,0 +1,34 @@
+{
+  "id": "ran",
+  "tipo": "filme",
+  "titulo": "Ran",
+  "ano": null,
+  "descricao": "O senhor de guerra Hidetori Ichimonji decide que chegou o momento de se aposentar e dividir seu feudo entre seus três filhos. Seu filho mais velho e do meio, Taro e Jiro, concordam com sua decisão e prometem apoiá-lo nos dias restantes de aposentadoria. O filho mais novo, Saburo, discorda de todos eles argumentando que há pouca probabilidade dos três irmãos permanecerem unidos. Insultado pela impaciência de seu filho caçula, o senhor da guerra o expulsa. Quando o senhor da guerra começa sua aposentadoria, ele rapidamente percebe que seus dois filhos mais velhos são egoístas e não têm intenção de cumprir suas promessas. Isso leva à guerra e só o banido Saburo pode salvá-lo.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gWw6iyVEoWtYLRNeyS9nv6sgXlx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3ssNAWypRl47iriwBFNx7RUEUub.jpg",
+  "tmdbId": 11645,
+  "nota": 8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789341,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770586,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "乱",
+  "dataLancamento": "1985-06-01"
+}

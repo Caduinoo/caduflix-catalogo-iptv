@@ -1,0 +1,63 @@
+{
+  "id": "orgulho-alem-da-tela",
+  "tipo": "serie",
+  "titulo": "Orgulho Além da Tela",
+  "ano": null,
+  "descricao": "A partir de imagens de arquivo e depoimentos dos talentos da Globo e do público, o documentário traça a cronologia da representação de personagens LGBTQIA+ nas novelas da Globo.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gIF5IRmBUZDm2s5Z8vns0qdIUl5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/h0AcR57NUi0Ur0broYWirKTnVee.jpg",
+  "tmdbId": 136169,
+  "nota": 4.5,
+  "xtreamSeriesId": 3165,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10875889",
+          "tipo": "episodio",
+          "titulo": "Orgulho Alem da Tela S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10875889",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gIF5IRmBUZDm2s5Z8vns0qdIUl5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875890",
+          "tipo": "episodio",
+          "titulo": "Orgulho Alem da Tela S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10875890",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gIF5IRmBUZDm2s5Z8vns0qdIUl5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875891",
+          "tipo": "episodio",
+          "titulo": "Orgulho Alem da Tela S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10875891",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gIF5IRmBUZDm2s5Z8vns0qdIUl5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Orgulho Além da Tela",
+  "dataLancamento": "2021-10-11"
+}

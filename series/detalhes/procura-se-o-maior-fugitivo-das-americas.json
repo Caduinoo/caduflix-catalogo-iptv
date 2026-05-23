@@ -1,0 +1,63 @@
+{
+  "id": "procura-se-o-maior-fugitivo-das-americas",
+  "tipo": "serie",
+  "titulo": "Procura-se: O Maior Fugitivo das Américas",
+  "ano": null,
+  "descricao": "Em um dia ensolarado de novembro de 1998, um vendedor de computadores do Brooklyn, careca e gordo, deveria se apresentar à prisão para começar a cumprir uma sentença de 17 anos. Ele alugou um Ford Taurus, dirigiu até o Queens para entregar a tornozeleira que estava usando, tirou US$ 600 de um caixa eletrônico e partiu em direção ao aeroporto JFK. Porém, no caminho, ele desapareceu. Seu nome era John Ruffo.",
+  "generos": [
+    "STAR+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1weVa9KRqdPEdV3LywYswFAqX5y.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uBTdonnCczdkeSdvsrrDjB0i7e8.jpg",
+  "tmdbId": 195684,
+  "nota": 6.417,
+  "xtreamSeriesId": 6762,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11005889",
+          "tipo": "episodio",
+          "titulo": "Procura-se O Maior Fugitivo das Américas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11005889",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1weVa9KRqdPEdV3LywYswFAqX5y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005890",
+          "tipo": "episodio",
+          "titulo": "Procura-se O Maior Fugitivo das Américas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11005890",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1weVa9KRqdPEdV3LywYswFAqX5y.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005891",
+          "tipo": "episodio",
+          "titulo": "Procura-se O Maior Fugitivo das Américas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11005891",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1weVa9KRqdPEdV3LywYswFAqX5y.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Have You Seen This Man?",
+  "dataLancamento": "2022-03-24"
+}

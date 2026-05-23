@@ -1,0 +1,123 @@
+{
+  "id": "adultos",
+  "tipo": "serie",
+  "titulo": "Adultos",
+  "ano": null,
+  "descricao": "Um grupo de jovens de vinte e poucos anos moram juntos em Nova York e tentam ser pessoas boas, apesar de ainda estarem bem longe disso.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6skot5l7gcJd6hO6qlKDGGY6LBJ.jpg",
+  "tmdbId": 260458,
+  "nota": 6.122,
+  "xtreamSeriesId": 1667,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10834625",
+          "tipo": "episodio",
+          "titulo": "Adultos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10834625",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834626",
+          "tipo": "episodio",
+          "titulo": "Adultos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10834626",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834627",
+          "tipo": "episodio",
+          "titulo": "Adultos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10834627",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834628",
+          "tipo": "episodio",
+          "titulo": "Adultos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10834628",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834629",
+          "tipo": "episodio",
+          "titulo": "Adultos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10834629",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834630",
+          "tipo": "episodio",
+          "titulo": "Adultos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10834630",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834631",
+          "tipo": "episodio",
+          "titulo": "Adultos S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10834631",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10834632",
+          "tipo": "episodio",
+          "titulo": "Adultos S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10834632",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z5c1KTvUd8CeRlkBd8c3Kp3yUEV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Adults",
+  "dataLancamento": "2025-05-28"
+}

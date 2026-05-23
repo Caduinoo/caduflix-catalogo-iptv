@@ -1,0 +1,34 @@
+{
+  "id": "mulher-proibida",
+  "tipo": "filme",
+  "titulo": "A Mulher Proibida",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/icPlJYyRg3zhvONL1wwbqbbXXpH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5t0xfA9zxLdzymp342IOPEnDdyZ.jpg",
+  "tmdbId": 111463,
+  "nota": 6.727,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791728,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791702,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "The Shining Hour",
+  "dataLancamento": "1938-11-18"
+}

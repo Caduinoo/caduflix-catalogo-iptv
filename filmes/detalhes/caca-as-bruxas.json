@@ -1,0 +1,34 @@
+{
+  "id": "caca-as-bruxas",
+  "tipo": "filme",
+  "titulo": "Caça às Bruxas",
+  "ano": null,
+  "descricao": "Cavaleiros do século XIV transportam uma jovem suspeita de ser bruxa para um mosteiro, onde se acredita que os poderes dela podem ser a origem da peste negra.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oNyEYVm295JdZXbRi40XcqjOs7G.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9Lm94WVtV4HPxr7NWNlwkhLKSeH.jpg",
+  "tmdbId": 23047,
+  "nota": 5.526,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791548,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791521,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Season of the Witch",
+  "dataLancamento": "2011-01-07"
+}

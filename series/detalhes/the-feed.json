@@ -1,0 +1,147 @@
+{
+  "id": "the-feed",
+  "tipo": "serie",
+  "titulo": "The Feed",
+  "ano": null,
+  "descricao": "Em um futuro não muito distante, as mentes das pessoas estão todas interligadas, o que garante conectividade instantânea. Se algo ou alguém as invade, todos ficam em perigo.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qLC4AyssOIIF4oacH3WC78hBZv7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kct2DLoYZe1629LETElwz2zcrNc.jpg",
+  "tmdbId": 93833,
+  "nota": 6.744,
+  "xtreamSeriesId": 678,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10808192",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10808192",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808193",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10808193",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808194",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10808194",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808195",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10808195",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808196",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10808196",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808197",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10808197",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808198",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10808198",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808199",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10808199",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808200",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10808200",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10808201",
+          "tipo": "episodio",
+          "titulo": "The Feed S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10808201",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "The Feed",
+  "dataLancamento": "2019-09-16"
+}

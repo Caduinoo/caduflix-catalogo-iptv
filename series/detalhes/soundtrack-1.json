@@ -1,0 +1,75 @@
+{
+  "id": "soundtrack-1",
+  "tipo": "serie",
+  "titulo": "Soundtrack #1",
+  "ano": null,
+  "descricao": "Eunsoo, convidada a escrever a letra para uma música de um compositor famoso, teve sua composição rejeitada por não ter a emoção de um amor não correspondido. Um dia, Eunsoo descobre que Sunwoo gosta de alguém. Ela pede a ele para ajudá-la com a letra enquanto mora em sua casa. Quem é a pessoa por quem Sunwoo está apaixonado? Quando a história deles começou?",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1RLYaDPslXpSHELYc1ZMa6T18Rg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hwHfCB3fhnxxfkRmMlNSMVGKsk6.jpg",
+  "tmdbId": 137872,
+  "nota": 7.6,
+  "xtreamSeriesId": 2053,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10846844",
+          "tipo": "episodio",
+          "titulo": "Soundtrack #1 S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10846844",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RLYaDPslXpSHELYc1ZMa6T18Rg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846845",
+          "tipo": "episodio",
+          "titulo": "Soundtrack #1 S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10846845",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RLYaDPslXpSHELYc1ZMa6T18Rg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846846",
+          "tipo": "episodio",
+          "titulo": "Soundtrack #1 S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10846846",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RLYaDPslXpSHELYc1ZMa6T18Rg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846847",
+          "tipo": "episodio",
+          "titulo": "Soundtrack #1 S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10846847",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1RLYaDPslXpSHELYc1ZMa6T18Rg.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "사운드트랙 #1",
+  "dataLancamento": "2022-03-23"
+}

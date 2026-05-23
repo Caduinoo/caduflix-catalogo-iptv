@@ -1,0 +1,135 @@
+{
+  "id": "grandes-animais",
+  "tipo": "serie",
+  "titulo": "Grandes Animais",
+  "ano": null,
+  "descricao": "Viaje dos polos congelantes às florestas tropicais para conhecer os gigantes mais cativantes da natureza que provam que ser grande traz enormes desafios.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8oDRVpKqd2Bwl6sipBhAzvX34xR.jpg",
+  "tmdbId": 223528,
+  "nota": 7.375,
+  "xtreamSeriesId": 860,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10813462",
+          "tipo": "episodio",
+          "titulo": "Grandes Animais S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10813462",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813463",
+          "tipo": "episodio",
+          "titulo": "Grandes Animais S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10813463",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813464",
+          "tipo": "episodio",
+          "titulo": "Grandes Animais S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10813464",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813465",
+          "tipo": "episodio",
+          "titulo": "Grandes Animais S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10813465",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813466",
+          "tipo": "episodio",
+          "titulo": "Grandes Animais S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10813466",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813467",
+          "tipo": "episodio",
+          "titulo": "Grandes Animais S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10813467",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813468",
+          "tipo": "episodio",
+          "titulo": "Grandes Animais S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10813468",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813469",
+          "tipo": "episodio",
+          "titulo": "Grandes Animais S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10813469",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10813470",
+          "tipo": "episodio",
+          "titulo": "Grandes Animais S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10813470",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3fbcRK0M6O4ytJtAUkwcCXVkOjC.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 9,
+  "tituloOriginal": "Big Beasts",
+  "dataLancamento": "2023-04-21"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "shayda",
+  "tipo": "filme",
+  "titulo": "Shayda",
+  "ano": null,
+  "descricao": "Uma jovem mãe iraniana e a sua filha de seis anos encontram refúgio num abrigo para mulheres na Austrália durante as duas semanas do Nowruz, o Ano Novo iraniano.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/71uGrqjqI4uyN2M9VpoOVqOoukC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mx3YyWpm7lTUxGQcHQC42s3xuVJ.jpg",
+  "tmdbId": 978586,
+  "nota": 6.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789729,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776748,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Shayda",
+  "dataLancamento": "2023-09-28"
+}

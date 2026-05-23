@@ -1,0 +1,42 @@
+{
+  "id": "a-queda",
+  "tipo": "filme",
+  "titulo": "A Queda",
+  "ano": null,
+  "descricao": "Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.",
+  "generos": [
+    "LEGENDADOS",
+    "NACIONAIS",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hT3OqvzMqCQuJsUjZnQwA5NuxgK.jpg",
+  "tmdbId": 985939,
+  "nota": 7.129,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783756,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778156,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781989,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Fall",
+  "dataLancamento": "2022-08-11"
+}

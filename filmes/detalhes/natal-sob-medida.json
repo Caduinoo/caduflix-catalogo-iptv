@@ -1,0 +1,34 @@
+{
+  "id": "natal-sob-medida",
+  "tipo": "filme",
+  "titulo": "Natal Sob Medida",
+  "ano": null,
+  "descricao": "Um arquiteto vai receber a família no Natal e contrata uma coordenadora para o evento. Mas ele não imaginava que ela traria tanta luz à vida dele.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ptE7SKe0uo1NM6W2fa1On30sPau.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2i0ezDoSSpkdHXQbjGpY3l2LXle.jpg",
+  "tmdbId": 550035,
+  "nota": 6.11,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787649,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778731,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Christmas Made to Order",
+  "dataLancamento": "2018-12-23"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "elfos",
+  "tipo": "serie",
+  "titulo": "Elfos",
+  "ano": null,
+  "descricao": "Dois irmãos decidem tirar férias em uma ilha remota, e acabam descobrindo que elfos sanguinários aterrorizam os moradores do lugar.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pNCZbQ5jvCbgoBfeoSx0l5dJhIM.jpg",
+  "tmdbId": 135864,
+  "nota": 6.869,
+  "xtreamSeriesId": 4447,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907117",
+          "tipo": "episodio",
+          "titulo": "Elfos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907117",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907118",
+          "tipo": "episodio",
+          "titulo": "Elfos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907118",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907119",
+          "tipo": "episodio",
+          "titulo": "Elfos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907119",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907120",
+          "tipo": "episodio",
+          "titulo": "Elfos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907120",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907121",
+          "tipo": "episodio",
+          "titulo": "Elfos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907121",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907122",
+          "tipo": "episodio",
+          "titulo": "Elfos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907122",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Nisser",
+  "dataLancamento": "2021-11-28"
+}

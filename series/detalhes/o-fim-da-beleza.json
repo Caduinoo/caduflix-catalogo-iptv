@@ -1,0 +1,63 @@
+{
+  "id": "o-fim-da-beleza",
+  "tipo": "serie",
+  "titulo": "O Fim da Beleza",
+  "ano": null,
+  "descricao": "O conceito e as formas da Beleza mudaram durante a história, mas nada foi tão impactante e drástico como a modernidade. Se a Beleza está nos olhos de quem vê, como estamos vendo o mundo?",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nqcWiSSPDHKbwxNi07EwUNtWBs2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pyIMQkGSXIGo2MtXoTKoyShpEYt.jpg",
+  "tmdbId": 213105,
+  "nota": 10,
+  "xtreamSeriesId": 1041,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817226",
+          "tipo": "episodio",
+          "titulo": "O Fim da Beleza S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817226",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nqcWiSSPDHKbwxNi07EwUNtWBs2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817227",
+          "tipo": "episodio",
+          "titulo": "O Fim da Beleza S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817227",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nqcWiSSPDHKbwxNi07EwUNtWBs2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817228",
+          "tipo": "episodio",
+          "titulo": "O Fim da Beleza S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817228",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nqcWiSSPDHKbwxNi07EwUNtWBs2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "O Fim da Beleza",
+  "dataLancamento": "2022-02-21"
+}

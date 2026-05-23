@@ -1,0 +1,34 @@
+{
+  "id": "sublime-amor",
+  "tipo": "filme",
+  "titulo": "Amor, Sublime Amor",
+  "ano": null,
+  "descricao": "Dois jovens de gangues rivais de Nova York se apaixonam, mas as tensões entre seus respectivos amigos se transformam em tragédia. Remake do filme de 1961.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4XvvbOFlnC5czMBJd0l7ysMMV4z.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+  "tmdbId": 511809,
+  "nota": 6.914,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789939,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776802,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "West Side Story",
+  "dataLancamento": "2021-12-08"
+}

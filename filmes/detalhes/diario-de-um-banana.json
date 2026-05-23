@@ -1,0 +1,34 @@
+{
+  "id": "diario-de-um-banana",
+  "tipo": "filme",
+  "titulo": "Diário de um Banana",
+  "ano": null,
+  "descricao": "Greg Heffley está destinado a viver grandes coisas, mas primeiro ele precisa sobreviver à experiência mais assustadora e humilhante da vida de qualquer garoto - o ginásio. E isso não vai ser fácil, pois ele está cercado por garotos peludos sardentos, grandalhões intimidadores e uma fatia de queijo com piolhos nucleares.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tY58gmX8031nEX76v76acQyqi6U.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oniHiwopis0ZN71pHydIAzTkkOM.jpg",
+  "tmdbId": 33217,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785514,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772611,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Diary of a Wimpy Kid",
+  "dataLancamento": "2010-03-19"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "casos-arquivados-os-assassinatos-de-rifkin",
+  "tipo": "serie",
+  "titulo": "Casos Arquivados: Os Assassinatos de Rifkin",
+  "ano": null,
+  "descricao": "Todos os detalhes sobre o assassino em série Joel Rifkin, o mais prolífico do estado de Nova York.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1PGWWGjoLsIW2zQTe1wqVo9SYGE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9STTs3xmD2LpzZJ3rcWe53YPxEA.jpg",
+  "tmdbId": 236277,
+  "nota": 8.7,
+  "xtreamSeriesId": 5872,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10973800",
+          "tipo": "episodio",
+          "titulo": "Casos Arquivados Os Assassinatos de Rifkin S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10973800",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1PGWWGjoLsIW2zQTe1wqVo9SYGE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973801",
+          "tipo": "episodio",
+          "titulo": "Casos Arquivados Os Assassinatos de Rifkin S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10973801",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1PGWWGjoLsIW2zQTe1wqVo9SYGE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Cold Case Files: The Rifkin Murders",
+  "dataLancamento": "2023-09-30"
+}

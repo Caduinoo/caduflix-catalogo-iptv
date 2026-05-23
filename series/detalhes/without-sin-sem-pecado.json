@@ -1,0 +1,75 @@
+{
+  "id": "without-sin-sem-pecado",
+  "tipo": "serie",
+  "titulo": "Without Sin: Sem Pecado",
+  "ano": null,
+  "descricao": "Explora o relacionamento que se desenvolve entre uma mãe enlutada e o homem que ela acredita ter assassinado sua filha.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pmizazGSZDaaDV5p52v7BlDhpZy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5Z7NJiNYCdAL4CFwZtujhTIzuQa.jpg",
+  "tmdbId": 156946,
+  "nota": 6.581,
+  "xtreamSeriesId": 1062,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817486",
+          "tipo": "episodio",
+          "titulo": "Without Sin Sem Pecado S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817486",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmizazGSZDaaDV5p52v7BlDhpZy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817487",
+          "tipo": "episodio",
+          "titulo": "Without Sin Sem Pecado S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817487",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmizazGSZDaaDV5p52v7BlDhpZy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817488",
+          "tipo": "episodio",
+          "titulo": "Without Sin Sem Pecado S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817488",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmizazGSZDaaDV5p52v7BlDhpZy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817489",
+          "tipo": "episodio",
+          "titulo": "Without Sin Sem Pecado S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10817489",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pmizazGSZDaaDV5p52v7BlDhpZy.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Without Sin",
+  "dataLancamento": "2022-12-28"
+}

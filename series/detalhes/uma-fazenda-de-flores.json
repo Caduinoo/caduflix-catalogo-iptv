@@ -1,0 +1,75 @@
+{
+  "id": "uma-fazenda-de-flores",
+  "tipo": "serie",
+  "titulo": "Uma Fazenda de Flores",
+  "ano": null,
+  "descricao": "Erin e Chris Benzakein passaram a última década construindo o negócio da família, Floret Farms, no fértil Vale do Rio Skagit. Agora, eles arriscam tudo para recuperar uma área de quase 100 mil metros quadrados e expandir o negócio.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qduIKCuMWaPqoPq3NpmgIXdiJQB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aUD5wjgRmw4xlNYuzxfBPHQes8P.jpg",
+  "tmdbId": 209356,
+  "nota": null,
+  "xtreamSeriesId": 748,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10810175",
+          "tipo": "episodio",
+          "titulo": "Uma Fazenda de Flores S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10810175",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qduIKCuMWaPqoPq3NpmgIXdiJQB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10810176",
+          "tipo": "episodio",
+          "titulo": "Uma Fazenda de Flores S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10810176",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qduIKCuMWaPqoPq3NpmgIXdiJQB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10810177",
+          "tipo": "episodio",
+          "titulo": "Uma Fazenda de Flores S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10810177",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qduIKCuMWaPqoPq3NpmgIXdiJQB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10810178",
+          "tipo": "episodio",
+          "titulo": "Uma Fazenda de Flores S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10810178",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qduIKCuMWaPqoPq3NpmgIXdiJQB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Growing Floret",
+  "dataLancamento": "2021-05-24"
+}

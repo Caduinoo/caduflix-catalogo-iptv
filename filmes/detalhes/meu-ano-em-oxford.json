@@ -1,0 +1,42 @@
+{
+  "id": "meu-ano-em-oxford",
+  "tipo": "filme",
+  "titulo": "Meu Ano em Oxford",
+  "ano": null,
+  "descricao": "Uma americana ambiciosa em busca de seu sonho de estudar em Oxford se apaixona por um britânico charmoso com um segredo inimaginável.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lukWPY3ouONKJ31oXhkBg7ShUEh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+  "tmdbId": 1307078,
+  "nota": 7.03,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787286,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779224,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782581,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "My Oxford Year",
+  "dataLancamento": "2025-07-31"
+}

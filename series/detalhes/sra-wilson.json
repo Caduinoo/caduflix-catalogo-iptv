@@ -1,0 +1,63 @@
+{
+  "id": "sra-wilson",
+  "tipo": "serie",
+  "titulo": "Sra. Wilson",
+  "ano": null,
+  "descricao": "Alison Wilson vive um casamento feliz, mas a morte de seu marido traz à tona um mundo de mentiras e segredos, incluindo outra mulher que diz ser a Senhora Wilson.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vD8SzDX7mUbMM3wxqw5okaiwFOh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bj1rMa0MT077Vgz5x3JMbRbzlUN.jpg",
+  "tmdbId": 78969,
+  "nota": 7,
+  "xtreamSeriesId": 6347,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10988583",
+          "tipo": "episodio",
+          "titulo": "Sra. Wilson S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10988583",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vD8SzDX7mUbMM3wxqw5okaiwFOh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988584",
+          "tipo": "episodio",
+          "titulo": "Sra. Wilson S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10988584",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vD8SzDX7mUbMM3wxqw5okaiwFOh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988585",
+          "tipo": "episodio",
+          "titulo": "Sra. Wilson S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10988585",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vD8SzDX7mUbMM3wxqw5okaiwFOh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Mrs Wilson",
+  "dataLancamento": "2018-11-27"
+}

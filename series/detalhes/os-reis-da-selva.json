@@ -1,0 +1,87 @@
+{
+  "id": "os-reis-da-selva",
+  "tipo": "serie",
+  "titulo": "Os Reis da Selva",
+  "ano": null,
+  "descricao": "Acompanhe a vida dos leões, leopardos e guepardos do Masai Mara, o maior parque do Quênia. Os apresentadores Jonathan e Angela Scott, ao lado do guia Jackson Ole Looseyia, mostram a rotina destes animais graças a sua experiência de campo inigualável. Acompanhe a jornada de várias famílias de felinos, incluindo a leoa Charm, o leopardo Bahati e o guepardo Malaika, que inclui a maternidade, a luta p",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kPyPsHRv6kHcXGrwfWGtkRaPG1u.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/12gNIBle8eR1O1pSd5TSStP3mN2.jpg",
+  "tmdbId": 83640,
+  "nota": 8,
+  "xtreamSeriesId": 534,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10804459",
+          "tipo": "episodio",
+          "titulo": "Os Reis da Selva S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10804459",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kPyPsHRv6kHcXGrwfWGtkRaPG1u.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10804460",
+          "tipo": "episodio",
+          "titulo": "Os Reis da Selva S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10804460",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kPyPsHRv6kHcXGrwfWGtkRaPG1u.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10804461",
+          "tipo": "episodio",
+          "titulo": "Os Reis da Selva S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10804461",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kPyPsHRv6kHcXGrwfWGtkRaPG1u.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10804462",
+          "tipo": "episodio",
+          "titulo": "Os Reis da Selva S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10804462",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kPyPsHRv6kHcXGrwfWGtkRaPG1u.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10804463",
+          "tipo": "episodio",
+          "titulo": "Os Reis da Selva S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10804463",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kPyPsHRv6kHcXGrwfWGtkRaPG1u.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Big Cat Tales",
+  "dataLancamento": "2018-10-29"
+}

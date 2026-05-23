@@ -1,0 +1,34 @@
+{
+  "id": "nate",
+  "tipo": "filme",
+  "titulo": "Gigi & Nate",
+  "ano": null,
+  "descricao": "Quando um jovem carismático, Nate sofre um acidente quase fatal, em uma viagem familiar, acaba confinado a uma cadeira de rodas, abrindo mão de sua esperança. Mas quando ele recebe um animal de serviço, a macaca Gigi, ele encontra um novo propósito na vida. Mas por quanto tempo as coisas vão se manter assim?",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dq9ShpvPDB7CmjgfPHHPUvshCLZ.jpg",
+  "tmdbId": 829503,
+  "nota": 7.567,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787652,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781739,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Gigi & Nate",
+  "dataLancamento": "2022-09-02"
+}

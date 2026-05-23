@@ -1,0 +1,75 @@
+{
+  "id": "betaal",
+  "tipo": "serie",
+  "titulo": "Betaal",
+  "ano": null,
+  "descricao": "Contratados para expulsar moradores de um vilarejo e abrir caminho para uma nova rodovia, soldados desenterram uma antiga maldição e uma tropa de zumbis britânicos.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/87nmt1R1W34fNOb31fvDnw15fUa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tPUEME9NpRo4l3lxdVJRwp5stx5.jpg",
+  "tmdbId": 103759,
+  "nota": 6.489,
+  "xtreamSeriesId": 5833,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10972647",
+          "tipo": "episodio",
+          "titulo": "Betaal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10972647",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/87nmt1R1W34fNOb31fvDnw15fUa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972648",
+          "tipo": "episodio",
+          "titulo": "Betaal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10972648",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/87nmt1R1W34fNOb31fvDnw15fUa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972649",
+          "tipo": "episodio",
+          "titulo": "Betaal S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10972649",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/87nmt1R1W34fNOb31fvDnw15fUa.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10972650",
+          "tipo": "episodio",
+          "titulo": "Betaal S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10972650",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/87nmt1R1W34fNOb31fvDnw15fUa.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Betaal",
+  "dataLancamento": "2020-05-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "criatura-maligna",
+  "tipo": "filme",
+  "titulo": "Criatura Maligna",
+  "ano": null,
+  "descricao": "No começo da década de 60, um cirurgião plástico inventou uma máquina capaz de remover formações anormais da pele, mas sua enfermeira acredita que ela pode trazer riscos aos pacientes. A briga dos dois acaba quebrando a máquina e dando origem a uma assustadora criatura.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xi9Ud3Sb8HBjxTFISDNqwhFk15l.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6kW718vGPA6Mg9NtdO90dGkVckq.jpg",
+  "tmdbId": 741592,
+  "nota": 4.602,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785163,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780597,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Cyst",
+  "dataLancamento": "2020-09-24"
+}

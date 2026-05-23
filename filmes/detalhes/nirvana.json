@@ -1,0 +1,26 @@
+{
+  "id": "nirvana",
+  "tipo": "filme",
+  "titulo": "Nirvana",
+  "ano": null,
+  "descricao": "O personagem principal de Nirvana, Solo, um jogo de computador desenvolvido por Jimi para ser lançamento em 3 dias, ganhou autoconsciência após um ataque de vírus. Solo quer ser apagado. Jimi quer encontrar sua ex.",
+  "generos": [
+    "NACIONAIS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xnP07b1PgmkJWMNCIZcPkQQ29mK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6MIcir1IlXCCLGfyg1VZwwYeUpG.jpg",
+  "tmdbId": 8765,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791417,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Nirvana",
+  "dataLancamento": "1997-01-24"
+}

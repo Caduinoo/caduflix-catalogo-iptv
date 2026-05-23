@@ -1,0 +1,99 @@
+{
+  "id": "joan",
+  "tipo": "serie",
+  "titulo": "Joan of Arcadia",
+  "ano": null,
+  "descricao": "A vida de Joan Girardi (Amber Tamblyn) vai de mal a pior. Tendo que lidar com seus pais complicados e com a nova vida do seu irmão caçula, que agora está paralítico, a jovem encontra refúgio quando Deus começa a falar com ela. Sua família não sabe se a jovem está falando a verdade ou se ela está tendo alucinações, mas o que Joan garante é que sua vida mudou.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AdSIHbGVuHGrdZs5BXajiCwep75.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bNLKTs9SUu812z4BoPUlMM1qBn6.jpg",
+  "tmdbId": 1593,
+  "nota": 7.321,
+  "xtreamSeriesId": 361,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10799985",
+          "tipo": "episodio",
+          "titulo": "Joan S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10799985",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x0l9OYTcwO2BvCZcFWEnAA8YEZ1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799986",
+          "tipo": "episodio",
+          "titulo": "Joan S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10799986",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x0l9OYTcwO2BvCZcFWEnAA8YEZ1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799987",
+          "tipo": "episodio",
+          "titulo": "Joan S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10799987",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x0l9OYTcwO2BvCZcFWEnAA8YEZ1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799988",
+          "tipo": "episodio",
+          "titulo": "Joan S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10799988",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x0l9OYTcwO2BvCZcFWEnAA8YEZ1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799989",
+          "tipo": "episodio",
+          "titulo": "Joan S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10799989",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x0l9OYTcwO2BvCZcFWEnAA8YEZ1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10799990",
+          "tipo": "episodio",
+          "titulo": "Joan S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10799990",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/x0l9OYTcwO2BvCZcFWEnAA8YEZ1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Joan of Arcadia",
+  "dataLancamento": "2003-09-26"
+}

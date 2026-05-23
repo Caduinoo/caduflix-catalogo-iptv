@@ -1,0 +1,34 @@
+{
+  "id": "zero",
+  "tipo": "filme",
+  "titulo": "Zona Zero",
+  "ano": null,
+  "descricao": "Durante uma conferência de biotecnologia, um vírus altamente mutável é liberado e o local é isolado. Para sobreviver, um grupo precisa enfrentar infectados que evoluem de maneiras imprevisíveis e perigosas.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+  "tmdbId": 1375646,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791480,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791472,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "군체",
+  "dataLancamento": "2026-05-21"
+}

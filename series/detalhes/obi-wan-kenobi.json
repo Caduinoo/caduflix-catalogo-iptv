@@ -1,0 +1,99 @@
+{
+  "id": "obi-wan-kenobi",
+  "tipo": "serie",
+  "titulo": "Obi-Wan Kenobi",
+  "ano": null,
+  "descricao": "Durante o reinado do Império Galáctico, o antigo Mestre Jedi Obi-Wan Kenobi embarca em uma missão crucial. Kenobi deve confrontar aliados que se tornaram inimigos e enfrentar a fúria do Império.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dnHP6MdJ4jMZgKvNrOYTjrgqn9l.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+  "tmdbId": 92830,
+  "nota": 7.012,
+  "xtreamSeriesId": 1972,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10844385",
+          "tipo": "episodio",
+          "titulo": "Obi-Wan Kenobi S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10844385",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dnHP6MdJ4jMZgKvNrOYTjrgqn9l.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844386",
+          "tipo": "episodio",
+          "titulo": "Obi-Wan Kenobi S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10844386",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dnHP6MdJ4jMZgKvNrOYTjrgqn9l.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844387",
+          "tipo": "episodio",
+          "titulo": "Obi-Wan Kenobi S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10844387",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dnHP6MdJ4jMZgKvNrOYTjrgqn9l.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844388",
+          "tipo": "episodio",
+          "titulo": "Obi-Wan Kenobi S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10844388",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dnHP6MdJ4jMZgKvNrOYTjrgqn9l.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844389",
+          "tipo": "episodio",
+          "titulo": "Obi-Wan Kenobi S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10844389",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dnHP6MdJ4jMZgKvNrOYTjrgqn9l.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844390",
+          "tipo": "episodio",
+          "titulo": "Obi-Wan Kenobi S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10844390",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dnHP6MdJ4jMZgKvNrOYTjrgqn9l.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Obi-Wan Kenobi",
+  "dataLancamento": "2022-05-26"
+}

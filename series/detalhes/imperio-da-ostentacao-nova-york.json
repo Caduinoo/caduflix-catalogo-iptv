@@ -1,0 +1,123 @@
+{
+  "id": "imperio-da-ostentacao-nova-york",
+  "tipo": "serie",
+  "titulo": "Império da Ostentação: Nova York",
+  "ano": null,
+  "descricao": "Um novo império da ostentação, com novas fortunas e novas riquezas, só que agora em Nova York.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hU57Wv38MUqrlX3mUnyKZvWZ3Qg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wab5eIUvfH58CMrxnVaAqyAjtNL.jpg",
+  "tmdbId": 211642,
+  "nota": 6.1,
+  "xtreamSeriesId": 4637,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10911149",
+          "tipo": "episodio",
+          "titulo": "Império da Ostentação Nova York S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10911149",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hU57Wv38MUqrlX3mUnyKZvWZ3Qg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911150",
+          "tipo": "episodio",
+          "titulo": "Império da Ostentação Nova York S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10911150",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hU57Wv38MUqrlX3mUnyKZvWZ3Qg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911151",
+          "tipo": "episodio",
+          "titulo": "Império da Ostentação Nova York S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10911151",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hU57Wv38MUqrlX3mUnyKZvWZ3Qg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911152",
+          "tipo": "episodio",
+          "titulo": "Império da Ostentação Nova York S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10911152",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hU57Wv38MUqrlX3mUnyKZvWZ3Qg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911153",
+          "tipo": "episodio",
+          "titulo": "Império da Ostentação Nova York S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10911153",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hU57Wv38MUqrlX3mUnyKZvWZ3Qg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911154",
+          "tipo": "episodio",
+          "titulo": "Império da Ostentação Nova York S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10911154",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hU57Wv38MUqrlX3mUnyKZvWZ3Qg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911155",
+          "tipo": "episodio",
+          "titulo": "Império da Ostentação Nova York S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10911155",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hU57Wv38MUqrlX3mUnyKZvWZ3Qg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911156",
+          "tipo": "episodio",
+          "titulo": "Império da Ostentação Nova York S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10911156",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hU57Wv38MUqrlX3mUnyKZvWZ3Qg.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Bling Empire: New York",
+  "dataLancamento": "2023-01-20"
+}

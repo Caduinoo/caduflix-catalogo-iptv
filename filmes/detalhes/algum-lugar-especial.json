@@ -1,0 +1,34 @@
+{
+  "id": "algum-lugar-especial",
+  "tipo": "filme",
+  "titulo": "Algum Lugar Especial",
+  "ano": null,
+  "descricao": "John, um limpador de vidros de 35 anos, dedica sua vida a criar o filho, depois que a mãe da criança os deixou logo após o parto. Ao descobrir ter apenas alguns meses de vida, ele tenta encontrar uma nova família que seja perfeita para o garoto.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7dw0gnyLnW7xMbOjjHTRMfzCC7O.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wrEbKIbW1q6AOaZrpiscjTgfBvp.jpg",
+  "tmdbId": 728142,
+  "nota": 7.238,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784017,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774792,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Nowhere Special",
+  "dataLancamento": "2020-09-10"
+}

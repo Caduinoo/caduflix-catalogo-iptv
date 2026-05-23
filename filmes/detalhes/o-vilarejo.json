@@ -1,0 +1,34 @@
+{
+  "id": "o-vilarejo",
+  "tipo": "filme",
+  "titulo": "O Vilarejo",
+  "ano": null,
+  "descricao": "Um jovem precisa trabalhar no aterro sanitário que destruiu a beleza do seu vilarejo, mas tudo o que ele quer é escapar desse destino.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4v3XqPkRZyVuIijbvrl5GHOHw7B.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uGJ6VPsDyiZgkEmQjBuXoRe4XzE.jpg",
+  "tmdbId": 1038515,
+  "nota": 6.898,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788585,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776344,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "ヴィレッジ",
+  "dataLancamento": "2023-04-21"
+}

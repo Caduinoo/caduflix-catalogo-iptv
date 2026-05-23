@@ -1,0 +1,34 @@
+{
+  "id": "demais-pra-mim",
+  "tipo": "filme",
+  "titulo": "Demais pra Mim",
+  "ano": null,
+  "descricao": "Cansada de encontros casuais, uma jovem com uma rara doença genética decide que quer viver um grande amor.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6UBK3wS8BZBrIyV1woYw95eBGJT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cL8nGFsbFkvaHh33PesJPKgs2HJ.jpg",
+  "tmdbId": 664031,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785348,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779129,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Sul più bello",
+  "dataLancamento": "2020-10-22"
+}

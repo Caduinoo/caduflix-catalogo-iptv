@@ -1,0 +1,75 @@
+{
+  "id": "a-virada",
+  "tipo": "serie",
+  "titulo": "A Virada",
+  "ano": null,
+  "descricao": "Acompanhe os bastidores do Cruzeiro, dentro e fora de campo, durante a temporada que terminou com a glória do acesso após Ronaldo Nazário assumir o controle do clube.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/roqr5RyMY1tv9XZX0cAYEvvDDyc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fRKp6TumWTdihKLL95lcy6BSdto.jpg",
+  "tmdbId": 225039,
+  "nota": null,
+  "xtreamSeriesId": 2853,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10863918",
+          "tipo": "episodio",
+          "titulo": "A Virada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10863918",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/roqr5RyMY1tv9XZX0cAYEvvDDyc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863919",
+          "tipo": "episodio",
+          "titulo": "A Virada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10863919",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/roqr5RyMY1tv9XZX0cAYEvvDDyc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863920",
+          "tipo": "episodio",
+          "titulo": "A Virada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10863920",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/roqr5RyMY1tv9XZX0cAYEvvDDyc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10863921",
+          "tipo": "episodio",
+          "titulo": "A Virada S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10863921",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/roqr5RyMY1tv9XZX0cAYEvvDDyc.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "A Virada",
+  "dataLancamento": "2023-04-21"
+}

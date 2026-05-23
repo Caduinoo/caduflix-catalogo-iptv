@@ -1,0 +1,99 @@
+{
+  "id": "romario-o-cara",
+  "tipo": "serie",
+  "titulo": "Romário, o Cara",
+  "ano": null,
+  "descricao": "Das favelas do Rio de Janeiro ao estrelato mundial, a história de um dos maiores atacantes do futebol brasileiro.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/p3dgo8owxyBZIXiYBuQuS296pD9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cdAH90l0KTWVcmk7CXuzoVll9ju.jpg",
+  "tmdbId": 153488,
+  "nota": 8.2,
+  "xtreamSeriesId": 595,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10806105",
+          "tipo": "episodio",
+          "titulo": "Romario O Cara S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10806105",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/p3dgo8owxyBZIXiYBuQuS296pD9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806106",
+          "tipo": "episodio",
+          "titulo": "Romario O Cara S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10806106",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/p3dgo8owxyBZIXiYBuQuS296pD9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806107",
+          "tipo": "episodio",
+          "titulo": "Romario O Cara S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10806107",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/p3dgo8owxyBZIXiYBuQuS296pD9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806108",
+          "tipo": "episodio",
+          "titulo": "Romario O Cara S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10806108",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/p3dgo8owxyBZIXiYBuQuS296pD9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806109",
+          "tipo": "episodio",
+          "titulo": "Romario O Cara S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10806109",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/p3dgo8owxyBZIXiYBuQuS296pD9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10806110",
+          "tipo": "episodio",
+          "titulo": "Romario O Cara S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10806110",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/p3dgo8owxyBZIXiYBuQuS296pD9.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Romário, o Cara",
+  "dataLancamento": "2024-05-23"
+}

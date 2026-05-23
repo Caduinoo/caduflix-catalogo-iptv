@@ -1,0 +1,75 @@
+{
+  "id": "choque-de-cultura-a-serie",
+  "tipo": "serie",
+  "titulo": "Choque de Cultura: A Série",
+  "ano": null,
+  "descricao": "Os quatro maiores motoristas do transporte alternativo do Brasil se reencontram após um longo período separados. Rogerinho do Ingá, agora vidente das tartarugas, Maurílio dos Anjos, o mais novo diretor brasileiro, Renan de Almeida, com sua nova empresa de transporte de famosos, e Julinho da Van, o mais novo empreendedor desempregado, se veem em uma situação perigosa, que envolve a apresentadora Luciana Gimenez, o ator Cauã Reymond e um sequestro inesperado, com reviravoltas inesperadas.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/b5Dj79y5ohvV5mxVpa9fQImdKtw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f4c7sFNN1YuIuzv9DJvBESgxAEG.jpg",
+  "tmdbId": 308218,
+  "nota": 8.5,
+  "xtreamSeriesId": 2939,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10866677",
+          "tipo": "episodio",
+          "titulo": "Choque de Cultura A Serie S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10866677",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5Dj79y5ohvV5mxVpa9fQImdKtw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10866678",
+          "tipo": "episodio",
+          "titulo": "Choque de Cultura A Serie S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10866678",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5Dj79y5ohvV5mxVpa9fQImdKtw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10866679",
+          "tipo": "episodio",
+          "titulo": "Choque de Cultura A Serie S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10866679",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5Dj79y5ohvV5mxVpa9fQImdKtw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10866680",
+          "tipo": "episodio",
+          "titulo": "Choque de Cultura A Serie S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10866680",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b5Dj79y5ohvV5mxVpa9fQImdKtw.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Choque de Cultura: A Série",
+  "dataLancamento": "2025-12-12"
+}

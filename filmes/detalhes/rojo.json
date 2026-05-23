@@ -1,0 +1,26 @@
+{
+  "id": "rojo",
+  "tipo": "filme",
+  "titulo": "Rojo amanecer",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/e64pw9gmbQJik2H6C4buiX1ilB7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/k0tWymmZyaTxnkenSe6576awvuM.jpg",
+  "tmdbId": 47916,
+  "nota": 8.19,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789512,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Rojo amanecer",
+  "dataLancamento": "1990-10-18"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "lego-star-wars-all-stars",
+  "tipo": "serie",
+  "titulo": "LEGO Star Wars: All-Stars",
+  "ano": null,
+  "descricao": "Novos rostos se unem aos heróis Han Solo, Chewbacca, Lando Calrissian, BB-8 e General Leia, em aventuras que percorrem o universo de Guerra das Estrelas.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/97dmYYI7TACdGvXWQd2sIyMq16n.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kQO87aSNVhcOgIfEPQIY24bGWh3.jpg",
+  "tmdbId": 83558,
+  "nota": 6,
+  "xtreamSeriesId": 1881,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10841790",
+          "tipo": "episodio",
+          "titulo": "LEGO Star Wars All Stars S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10841790",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/97dmYYI7TACdGvXWQd2sIyMq16n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841791",
+          "tipo": "episodio",
+          "titulo": "LEGO Star Wars All Stars S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10841791",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/97dmYYI7TACdGvXWQd2sIyMq16n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841792",
+          "tipo": "episodio",
+          "titulo": "LEGO Star Wars All Stars S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10841792",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/97dmYYI7TACdGvXWQd2sIyMq16n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841793",
+          "tipo": "episodio",
+          "titulo": "LEGO Star Wars All Stars S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10841793",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/97dmYYI7TACdGvXWQd2sIyMq16n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10841794",
+          "tipo": "episodio",
+          "titulo": "LEGO Star Wars All Stars S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10841794",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/97dmYYI7TACdGvXWQd2sIyMq16n.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "LEGO Star Wars: All-Stars",
+  "dataLancamento": "2018-11-10"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "bangkok-no-limite",
+  "tipo": "serie",
+  "titulo": "Bangkok no Limite",
+  "ano": null,
+  "descricao": "Tentando ganhar a vida em Bangkok, um homem se junta a uma equipe de socorristas e descobre uma grande conspiração na cidade.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/21pfhnCBIzryBvsGhSGbPnvJ7Pk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/e1OGESutD3wBRoHw3I280v6L5Ux.jpg",
+  "tmdbId": 132158,
+  "nota": 6.733,
+  "xtreamSeriesId": 4145,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10902175",
+          "tipo": "episodio",
+          "titulo": "Bangkok no Limite S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10902175",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/21pfhnCBIzryBvsGhSGbPnvJ7Pk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902176",
+          "tipo": "episodio",
+          "titulo": "Bangkok no Limite S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10902176",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/21pfhnCBIzryBvsGhSGbPnvJ7Pk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902177",
+          "tipo": "episodio",
+          "titulo": "Bangkok no Limite S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10902177",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/21pfhnCBIzryBvsGhSGbPnvJ7Pk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902178",
+          "tipo": "episodio",
+          "titulo": "Bangkok no Limite S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10902178",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/21pfhnCBIzryBvsGhSGbPnvJ7Pk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902179",
+          "tipo": "episodio",
+          "titulo": "Bangkok no Limite S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10902179",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/21pfhnCBIzryBvsGhSGbPnvJ7Pk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902180",
+          "tipo": "episodio",
+          "titulo": "Bangkok no Limite S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10902180",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/21pfhnCBIzryBvsGhSGbPnvJ7Pk.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "มหานครเมืองลวง",
+  "dataLancamento": "2021-09-23"
+}

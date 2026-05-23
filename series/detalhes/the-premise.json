@@ -1,0 +1,87 @@
+{
+  "id": "the-premise",
+  "tipo": "serie",
+  "titulo": "The Premise",
+  "ano": null,
+  "descricao": "Esta série antológica é sobre questões morais atemporais em tempos nunca antes vistos trata de conceitos provocadores e os discute em aberto, contando histórias tridimensionais, baseadas em personagens com humor e compaixão.",
+  "generos": [
+    "STAR+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rm9sAMQxY6KFA0tSnBPBFxW2GiI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tVmimLoAzHvTnnCobeK2OilxCgT.jpg",
+  "tmdbId": 6850,
+  "nota": 6.3,
+  "xtreamSeriesId": 6778,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11006201",
+          "tipo": "episodio",
+          "titulo": "The Premise S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11006201",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rm9sAMQxY6KFA0tSnBPBFxW2GiI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006202",
+          "tipo": "episodio",
+          "titulo": "The Premise S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11006202",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rm9sAMQxY6KFA0tSnBPBFxW2GiI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006203",
+          "tipo": "episodio",
+          "titulo": "The Premise S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11006203",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rm9sAMQxY6KFA0tSnBPBFxW2GiI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006204",
+          "tipo": "episodio",
+          "titulo": "The Premise S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11006204",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rm9sAMQxY6KFA0tSnBPBFxW2GiI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11006205",
+          "tipo": "episodio",
+          "titulo": "The Premise S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11006205",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/rm9sAMQxY6KFA0tSnBPBFxW2GiI.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "The Premise",
+  "dataLancamento": "2021-09-16"
+}

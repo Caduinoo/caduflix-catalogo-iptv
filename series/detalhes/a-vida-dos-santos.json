@@ -1,0 +1,87 @@
+{
+  "id": "a-vida-dos-santos",
+  "tipo": "serie",
+  "titulo": "A Vida dos Santos",
+  "ano": null,
+  "descricao": "Minissérie que conta a história de um imigrante italiano que volta ao seu país de origem para resolver questões familiares. Dirigido por Jerry Ciccoritti.",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/exfCO28d5tiKO5luGVOfUuiorvH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2ZV4g6rfzgNKwpFLb9PE4WaFrx8.jpg",
+  "tmdbId": 103731,
+  "nota": 5.571,
+  "xtreamSeriesId": 7004,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11015632",
+          "tipo": "episodio",
+          "titulo": "A Vida dos Santos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11015632",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2gwzb1c6cRe8xzm5PwxtKvGmPd5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015633",
+          "tipo": "episodio",
+          "titulo": "A Vida dos Santos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11015633",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2gwzb1c6cRe8xzm5PwxtKvGmPd5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015634",
+          "tipo": "episodio",
+          "titulo": "A Vida dos Santos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11015634",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2gwzb1c6cRe8xzm5PwxtKvGmPd5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015635",
+          "tipo": "episodio",
+          "titulo": "A Vida dos Santos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11015635",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2gwzb1c6cRe8xzm5PwxtKvGmPd5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015636",
+          "tipo": "episodio",
+          "titulo": "A Vida dos Santos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11015636",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2gwzb1c6cRe8xzm5PwxtKvGmPd5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "La Terra del Ritorno",
+  "dataLancamento": "2004-09-20"
+}

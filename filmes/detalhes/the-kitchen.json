@@ -1,0 +1,42 @@
+{
+  "id": "the-kitchen",
+  "tipo": "filme",
+  "titulo": "The Kitchen",
+  "ano": null,
+  "descricao": "Izi está prestes a sair do The Kitchen, um dos últimos conjuntos habitacionais de Londres. Mas precisa tomar decisões difíceis quando o jovem Benji entra em sua vida.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eF7MPvR0mlXTDJkNTGwcjCjwDKl.jpg",
+  "tmdbId": 956262,
+  "nota": 4.805,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790204,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777940,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783006,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "The Kitchen",
+  "dataLancamento": "2023-10-15"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "o-falsario",
+  "tipo": "filme",
+  "titulo": "O Falsário",
+  "ano": null,
+  "descricao": "Neste drama inspirado em uma história real, um artista começa a trabalhar como falsário para gangues criminosas no submundo de Roma, na década de 1970.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uHavtqbnMDcwqVK9Y94ZQSWxtCw.jpg",
+  "tmdbId": 1443762,
+  "nota": 6.596,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788094,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781844,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782707,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Il falsario",
+  "dataLancamento": "2025-10-19"
+}

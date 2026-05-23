@@ -1,0 +1,42 @@
+{
+  "id": "o-ultimo-gigante",
+  "tipo": "filme",
+  "titulo": "O Último Gigante",
+  "ano": null,
+  "descricao": "Quando o pai reaparece, um guia turístico precisa lidar com antigas feridas e encarar uma decisão que vai definir o futuro dos dois.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rxQE2GmdabPcLQtrG0ik2MYyMu3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2VMkpRFGCupBmAJlZiDzlAjxYL1.jpg",
+  "tmdbId": 1487320,
+  "nota": 6.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033645,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049630,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050058,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "El último gigante",
+  "dataLancamento": "2026-04-01"
+}

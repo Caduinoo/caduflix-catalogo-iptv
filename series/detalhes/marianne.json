@@ -1,0 +1,123 @@
+{
+  "id": "marianne",
+  "tipo": "serie",
+  "titulo": "Marianne",
+  "ano": null,
+  "descricao": "De volta à cidade natal, uma famosa escritora de livros de terror descobre que o espírito que atormenta seus sonhos está provocando o caos no mundo real.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yD01qWyOqc6J2lRutzOt3Wu8Wnz.jpg",
+  "tmdbId": 92916,
+  "nota": 7.597,
+  "xtreamSeriesId": 4783,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10914540",
+          "tipo": "episodio",
+          "titulo": "Marianne S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10914540",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914541",
+          "tipo": "episodio",
+          "titulo": "Marianne S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10914541",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914542",
+          "tipo": "episodio",
+          "titulo": "Marianne S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10914542",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914543",
+          "tipo": "episodio",
+          "titulo": "Marianne S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10914543",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914544",
+          "tipo": "episodio",
+          "titulo": "Marianne S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10914544",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914545",
+          "tipo": "episodio",
+          "titulo": "Marianne S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10914545",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914546",
+          "tipo": "episodio",
+          "titulo": "Marianne S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10914546",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914547",
+          "tipo": "episodio",
+          "titulo": "Marianne S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10914547",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vORXihb6o0UvzHZfikBSD7H13Qk.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Marianne",
+  "dataLancamento": "2019-09-13"
+}

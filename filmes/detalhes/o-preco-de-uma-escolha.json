@@ -1,0 +1,34 @@
+{
+  "id": "o-preco-de-uma-escolha",
+  "tipo": "filme",
+  "titulo": "O Preço de Uma Escolha",
+  "ano": null,
+  "descricao": "O aborto é o tema comum de três histórias passadas em diferentes ocasiões: em 1954, jovem viúva recorre ao aborto quando fica grávida do cunhado, meses após a morte do marido; em 1970, família decide se a mãe, que já tem 4 filhos, deve dar à luz o quinto; e nos anos 1990, jovem que engravidou de professor chega à clínica em meio a uma manifestação.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/l9khsqDHbqiMF0Ykx8DzmTyMvCu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2VkyRkNuGIoQtqAQoSEbFWeGFlo.jpg",
+  "tmdbId": 35203,
+  "nota": 6.654,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788392,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773456,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "If These Walls Could Talk",
+  "dataLancamento": "1996-09-11"
+}

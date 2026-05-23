@@ -1,0 +1,34 @@
+{
+  "id": "a-oportunidade-quase-perfeita",
+  "tipo": "filme",
+  "titulo": "A Oportunidade quase Perfeita",
+  "ano": null,
+  "descricao": "Um assassino de aluguel desempregado encontra emprego como zelador na escola primária local.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lh5P7CbEW9jST998llS9SLZHU6a.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xxm8Bv9VFdPOTYPAtTAcu6gaJVV.jpg",
+  "tmdbId": 835678,
+  "nota": 6.25,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783698,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772140,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Max Bishop",
+  "dataLancamento": "2021-06-01"
+}

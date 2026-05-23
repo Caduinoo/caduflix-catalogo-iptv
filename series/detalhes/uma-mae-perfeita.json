@@ -1,0 +1,75 @@
+{
+  "id": "uma-mae-perfeita",
+  "tipo": "serie",
+  "titulo": "Uma Mãe Perfeita",
+  "ano": null,
+  "descricao": "Convencida de que sua filha é inocente em um homicídio, uma mãe dedicada faz descobertas perturbadoras e a linha que separa vítima e agressor começa a desaparecer.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8EkCyPG6dSGikerZ1gLgYnJit0M.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5YlfxBfLfyU1ARigWlSNiIL26oq.jpg",
+  "tmdbId": 131431,
+  "nota": 5.757,
+  "xtreamSeriesId": 5414,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927118",
+          "tipo": "episodio",
+          "titulo": "Uma Mãe Perfeita S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927118",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8EkCyPG6dSGikerZ1gLgYnJit0M.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927119",
+          "tipo": "episodio",
+          "titulo": "Uma Mãe Perfeita S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927119",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8EkCyPG6dSGikerZ1gLgYnJit0M.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927120",
+          "tipo": "episodio",
+          "titulo": "Uma Mãe Perfeita S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927120",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8EkCyPG6dSGikerZ1gLgYnJit0M.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927121",
+          "tipo": "episodio",
+          "titulo": "Uma Mãe Perfeita S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10927121",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8EkCyPG6dSGikerZ1gLgYnJit0M.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Une mère parfaite",
+  "dataLancamento": "2022-04-28"
+}

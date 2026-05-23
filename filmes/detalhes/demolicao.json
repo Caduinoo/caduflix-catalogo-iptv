@@ -1,0 +1,34 @@
+{
+  "id": "demolicao",
+  "tipo": "filme",
+  "titulo": "Demolição",
+  "ano": null,
+  "descricao": "Um homem bem sucedido, que trabalha em um grande banco de investimentos, entra em processo de colapso emocional depois de perder a sua esposa em um trágico acidente de carro, do qual sobreviveu. Um dia, ele recebe uma ligação da atendente de uma empresa para qual ele continuamente envia cartas de reclamação. Ele não sabe, mas este encontro poderá mudar o rumo da sua vida daquele momento em diante.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/a357EfYN4gJxX99LR3f3nlQya6i.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dapUorbOMzlaB12dACCtaiuaTQz.jpg",
+  "tmdbId": 303991,
+  "nota": 6.844,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785353,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772566,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Demolition",
+  "dataLancamento": "2016-04-06"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "o-brutalista",
+  "tipo": "filme",
+  "titulo": "O Brutalista",
+  "ano": null,
+  "descricao": "Fugindo da Europa pós-guerra, um arquiteto visionário chega à América para reconstruir sua vida, carreira e casamento. Sozinho em um novo país estranho, ele se estabelece na Pensilvânia, onde um rico e proeminente industrial reconhece seu talento.",
+  "generos": [
+    "OSCAR",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/52iVP3AtNtpjFiBxlOYCUPXhr47.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+  "tmdbId": 549509,
+  "nota": 6.955,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778852,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782682,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778853,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "The Brutalist",
+  "dataLancamento": "2024-12-20"
+}

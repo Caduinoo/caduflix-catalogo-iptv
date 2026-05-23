@@ -1,0 +1,34 @@
+{
+  "id": "sugar-baby",
+  "tipo": "filme",
+  "titulo": "Sugar Baby",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qAY9EYEvIbD645IgdTWddNZPINY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uGGpudSxvPitRE6z85Gv5AL3BQf.jpg",
+  "tmdbId": 1196656,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789945,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776809,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Sugar Baby",
+  "dataLancamento": "2023-11-24"
+}

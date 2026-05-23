@@ -1,0 +1,63 @@
+{
+  "id": "victoria-beckham",
+  "tipo": "serie",
+  "titulo": "Victoria Beckham",
+  "ano": null,
+  "descricao": "Victoria Beckham, a Spice Girl que virou uma estilista renomada, fala sobre a rotina e os preparativos para a Semana de Moda de Paris.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5XKVcCF3dwGq0YOvx28OeNYGwRJ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8yy8zWNVESHVcs0azqfDH4sLqk6.jpg",
+  "tmdbId": 262281,
+  "nota": 6.7,
+  "xtreamSeriesId": 5433,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10927350",
+          "tipo": "episodio",
+          "titulo": "Victoria Beckham S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10927350",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5XKVcCF3dwGq0YOvx28OeNYGwRJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927351",
+          "tipo": "episodio",
+          "titulo": "Victoria Beckham S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10927351",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5XKVcCF3dwGq0YOvx28OeNYGwRJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10927352",
+          "tipo": "episodio",
+          "titulo": "Victoria Beckham S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10927352",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5XKVcCF3dwGq0YOvx28OeNYGwRJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Victoria Beckham",
+  "dataLancamento": "2025-10-09"
+}

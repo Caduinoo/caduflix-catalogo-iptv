@@ -1,0 +1,34 @@
+{
+  "id": "memorias-de-uma-paixao",
+  "tipo": "filme",
+  "titulo": "Memórias de Uma Paixão",
+  "ano": null,
+  "descricao": "Depois de descobrir que sua antiga paixão agora tem Alzheimer, um viúvo desesperadamente apaixonado finge seu caminho para a comunidade de idosos em um esforço para se reunir com ela.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/s3O00aHSrdneODbqNYeHItiOCuc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/25fP9OL55kNc0TuBBEZ6MFg9wxu.jpg",
+  "tmdbId": 566675,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787241,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773125,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Remember Me",
+  "dataLancamento": "2019-08-02"
+}

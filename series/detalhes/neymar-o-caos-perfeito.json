@@ -1,0 +1,63 @@
+{
+  "id": "neymar-o-caos-perfeito",
+  "tipo": "serie",
+  "titulo": "Neymar: O Caos Perfeito",
+  "ano": null,
+  "descricao": "Aclamado e criticado no mundo todo, Neymar compartilha os altos e baixos de sua vida pessoal e da brilhante carreira no futebol.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/n5sd00C93RHi8qxvcFntCVpR1D8.jpg",
+  "tmdbId": 153519,
+  "nota": 7.3,
+  "xtreamSeriesId": 4858,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915425",
+          "tipo": "episodio",
+          "titulo": "Neymar O Caos Perfeito S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915425",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915426",
+          "tipo": "episodio",
+          "titulo": "Neymar O Caos Perfeito S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915426",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915427",
+          "tipo": "episodio",
+          "titulo": "Neymar O Caos Perfeito S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915427",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Neymar: O Caos Perfeito",
+  "dataLancamento": "2022-01-25"
+}

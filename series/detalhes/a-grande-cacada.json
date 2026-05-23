@@ -12,9 +12,112 @@
   "tmdbId": 227683,
   "nota": 2,
   "xtreamSeriesId": 1320,
-  "temporadas": [],
-  "totalTemporadas": 0,
-  "totalEpisodios": 0,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10826948",
+          "tipo": "episodio",
+          "titulo": "A Grande Cacada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10826948",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yLDTAkBwm4nUi5BMJqESJeVvmlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826949",
+          "tipo": "episodio",
+          "titulo": "A Grande Cacada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10826949",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yLDTAkBwm4nUi5BMJqESJeVvmlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826950",
+          "tipo": "episodio",
+          "titulo": "A Grande Cacada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10826950",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yLDTAkBwm4nUi5BMJqESJeVvmlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826951",
+          "tipo": "episodio",
+          "titulo": "A Grande Cacada S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10826951",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yLDTAkBwm4nUi5BMJqESJeVvmlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826952",
+          "tipo": "episodio",
+          "titulo": "A Grande Cacada S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10826952",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yLDTAkBwm4nUi5BMJqESJeVvmlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826953",
+          "tipo": "episodio",
+          "titulo": "A Grande Cacada S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10826953",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yLDTAkBwm4nUi5BMJqESJeVvmlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826954",
+          "tipo": "episodio",
+          "titulo": "A Grande Cacada S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10826954",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yLDTAkBwm4nUi5BMJqESJeVvmlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10826955",
+          "tipo": "episodio",
+          "titulo": "A Grande Cacada S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10826955",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yLDTAkBwm4nUi5BMJqESJeVvmlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
   "tituloOriginal": "Tracked",
   "dataLancamento": "2023-05-22"
 }

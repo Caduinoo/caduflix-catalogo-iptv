@@ -1,0 +1,123 @@
+{
+  "id": "somebody",
+  "tipo": "serie",
+  "titulo": "Somebody",
+  "ano": null,
+  "descricao": "Uma desenvolvedora de software, o aplicativo de namoro que ela criou, um homem misterioso e um caso de assassinato: está tudo ligado. Quem aqui tem algo a esconder?",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tLW5BKMBZX0dqoXxUkHELQg5Y7i.jpg",
+  "tmdbId": 112837,
+  "nota": 6.9,
+  "xtreamSeriesId": 2684,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10859584",
+          "tipo": "episodio",
+          "titulo": "Somebody S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10859584",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10859585",
+          "tipo": "episodio",
+          "titulo": "Somebody S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10859585",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10859586",
+          "tipo": "episodio",
+          "titulo": "Somebody S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10859586",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10859587",
+          "tipo": "episodio",
+          "titulo": "Somebody S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10859587",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10859588",
+          "tipo": "episodio",
+          "titulo": "Somebody S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10859588",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10859589",
+          "tipo": "episodio",
+          "titulo": "Somebody S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10859589",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10859590",
+          "tipo": "episodio",
+          "titulo": "Somebody S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10859590",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10859591",
+          "tipo": "episodio",
+          "titulo": "Somebody S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10859591",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "썸바디",
+  "dataLancamento": "2022-11-18"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "scooby-o-filme",
+  "tipo": "filme",
+  "titulo": "Scooby! O Filme",
+  "ano": null,
+  "descricao": "Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo. Enquanto eles correm para parar esse caopocalypse, a gangue descobre que Scooby tem um destino épico maior do que se imaginava.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sJjuXNHNT7PfzcgkqM3oSIkVOXB.jpg",
+  "tmdbId": 385103,
+  "nota": 6.99,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789608,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771747,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Scoob!",
+  "dataLancamento": "2020-07-08"
+}

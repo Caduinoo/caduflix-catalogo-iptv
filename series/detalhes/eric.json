@@ -1,0 +1,99 @@
+{
+  "id": "eric",
+  "tipo": "serie",
+  "titulo": "Eric",
+  "ano": null,
+  "descricao": "Um pai desesperado e um policial obstinado lutam contra os próprios demônios na Nova York da década de 1980 em busca de um garoto desaparecido.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/h3CKNeJ0NEsCEzlW4BHEp6in7Zz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2eX8Lx5VAl7ZKhwd5WOuGYwa3PW.jpg",
+  "tmdbId": 217667,
+  "nota": 6.97,
+  "xtreamSeriesId": 4459,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907224",
+          "tipo": "episodio",
+          "titulo": "Eric S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907224",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3CKNeJ0NEsCEzlW4BHEp6in7Zz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907225",
+          "tipo": "episodio",
+          "titulo": "Eric S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907225",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3CKNeJ0NEsCEzlW4BHEp6in7Zz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907226",
+          "tipo": "episodio",
+          "titulo": "Eric S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907226",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3CKNeJ0NEsCEzlW4BHEp6in7Zz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907227",
+          "tipo": "episodio",
+          "titulo": "Eric S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907227",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3CKNeJ0NEsCEzlW4BHEp6in7Zz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907228",
+          "tipo": "episodio",
+          "titulo": "Eric S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907228",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3CKNeJ0NEsCEzlW4BHEp6in7Zz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907229",
+          "tipo": "episodio",
+          "titulo": "Eric S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907229",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3CKNeJ0NEsCEzlW4BHEp6in7Zz.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Eric",
+  "dataLancamento": "2024-05-30"
+}

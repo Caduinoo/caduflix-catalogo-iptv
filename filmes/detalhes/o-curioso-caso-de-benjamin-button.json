@@ -1,0 +1,34 @@
+{
+  "id": "o-curioso-caso-de-benjamin-button",
+  "tipo": "filme",
+  "titulo": "O Curioso Caso de Benjamin Button",
+  "ano": null,
+  "descricao": "Benjamin Button é um homem que nasce idoso e rejuvenesce à medida que o tempo passa. Doze anos depois de seu nascimento, ele conhece Daisy, uma criança que entra e sai de sua vida enquanto cresce para ser dançarina. Embora tenha todos os tipos de aventuras incomuns, sua relação com Daisy o faz acreditar que os dois se encontrarão no momento certo da vida.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/v9emaesXHtzXcca0tuSPDsSh3K9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2fswjyrY3GEzeoVn6mF8pNeNcgf.jpg",
+  "tmdbId": 4922,
+  "nota": 7.599,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787980,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776062,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Curious Case of Benjamin Button",
+  "dataLancamento": "2008-12-25"
+}

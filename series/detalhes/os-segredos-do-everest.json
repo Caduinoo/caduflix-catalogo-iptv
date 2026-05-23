@@ -1,0 +1,50 @@
+{
+  "id": "os-segredos-do-everest",
+  "tipo": "serie",
+  "titulo": "Os Segredos do Everest",
+  "ano": null,
+  "descricao": "Jake Norton procura a verdadeira primeira pessoa a escalar o Monte Everest.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rZElCBXuoNbg3RUzQ0HATGlfgJO.jpg",
+  "tmdbId": 273578,
+  "nota": null,
+  "xtreamSeriesId": 535,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10804464",
+          "tipo": "episodio",
+          "titulo": "Os Segredos do Everest S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10804464",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mCvGv54KwvIqiPXStDF9riMM79T.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10804465",
+          "tipo": "episodio",
+          "titulo": "Os Segredos do Everest S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10804465",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mCvGv54KwvIqiPXStDF9riMM79T.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Os Segredos do Everest",
+  "dataLancamento": "2020-10-11"
+}

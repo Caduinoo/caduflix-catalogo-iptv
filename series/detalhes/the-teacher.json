@@ -1,0 +1,75 @@
+{
+  "id": "the-teacher",
+  "tipo": "serie",
+  "titulo": "The Teacher",
+  "ano": null,
+  "descricao": "Um thriller psicológico conta a história de Jenna, uma professora popular com uma vida privada caótica. Depois de uma noite comemorando uma promoção, Jenna é acusada de dormir com Kyle Hope, um aluno de 15 anos.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qiCWlhjAL0SHj0UDDL7DFuZJ2ZT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jV8OMgxMIIyRUmytlhN85F3L0uM.jpg",
+  "tmdbId": 156085,
+  "nota": 6.1,
+  "xtreamSeriesId": 708,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10809120",
+          "tipo": "episodio",
+          "titulo": "The Teacher S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10809120",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gi8Fhi8jEI9NYGW71Lo3CID11lf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10809121",
+          "tipo": "episodio",
+          "titulo": "The Teacher S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10809121",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gi8Fhi8jEI9NYGW71Lo3CID11lf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10809122",
+          "tipo": "episodio",
+          "titulo": "The Teacher S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10809122",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gi8Fhi8jEI9NYGW71Lo3CID11lf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10809123",
+          "tipo": "episodio",
+          "titulo": "The Teacher S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10809123",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gi8Fhi8jEI9NYGW71Lo3CID11lf.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "The Teacher",
+  "dataLancamento": "2022-01-31"
+}

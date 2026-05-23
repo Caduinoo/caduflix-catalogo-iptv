@@ -1,0 +1,34 @@
+{
+  "id": "amor-em-verona",
+  "tipo": "filme",
+  "titulo": "Amor em Verona",
+  "ano": null,
+  "descricao": "Uma jovem que acaba de sair de um relacionamento vai para Verona, na Itália, e descobre que a casa que reservou também foi alugada para outra pessoa. Agora, vai ter que passar as férias com um britânico cético e muito atraente.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nQRJIFaCRkZgdwCWCBYchvSx6N6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/orV7mt3Gu4h2WEE2ki2CfeIkMuK.jpg",
+  "tmdbId": 934756,
+  "nota": 6.005,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784143,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779036,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Love in the Villa",
+  "dataLancamento": "2022-09-01"
+}

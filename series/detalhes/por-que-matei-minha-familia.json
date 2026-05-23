@@ -1,0 +1,75 @@
+{
+  "id": "por-que-matei-minha-familia",
+  "tipo": "serie",
+  "titulo": "Por Que Matei Minha Familia?",
+  "ano": null,
+  "descricao": "Jerusalém, 1986, um garoto de 14 anos mata sua família a tiros. Dúvidas persistem até hoje. Informantes se pronunciam sobre o caso.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5KJXIxAWuI5iXGDfUICCcRDGSsf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/93tq6WQ1N1AZSabEoucBQ5w4VVz.jpg",
+  "tmdbId": 137004,
+  "nota": 5.2,
+  "xtreamSeriesId": 5105,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920700",
+          "tipo": "episodio",
+          "titulo": "Por Que Matei Minha Familia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920700",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5KJXIxAWuI5iXGDfUICCcRDGSsf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920701",
+          "tipo": "episodio",
+          "titulo": "Por Que Matei Minha Familia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920701",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5KJXIxAWuI5iXGDfUICCcRDGSsf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920702",
+          "tipo": "episodio",
+          "titulo": "Por Que Matei Minha Familia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920702",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5KJXIxAWuI5iXGDfUICCcRDGSsf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920703",
+          "tipo": "episodio",
+          "titulo": "Por Que Matei Minha Familia S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920703",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5KJXIxAWuI5iXGDfUICCcRDGSsf.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "המניע",
+  "dataLancamento": "2020-12-27"
+}

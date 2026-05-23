@@ -1,0 +1,26 @@
+{
+  "id": "consumed",
+  "tipo": "filme",
+  "titulo": "Consumed",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iFVLNunKsXWZ7dvdhUkKlZtmxrD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gEmfDfgsXcCOwNpu3FzleWrsPHQ.jpg",
+  "tmdbId": 333665,
+  "nota": 5.523,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785073,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Consumed",
+  "dataLancamento": "2015-06-01"
+}

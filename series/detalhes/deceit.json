@@ -1,0 +1,75 @@
+{
+  "id": "deceit",
+  "tipo": "serie",
+  "titulo": "Deceit",
+  "ano": null,
+  "descricao": "Uma policial disfarçada, de codinome \"Lizzie James\", é encarregada de liderar uma armadilha contra Colin Stagg, o principal suspeito do assassinato de uma jovem em 1992.\n\nO impacto que a Operação Edzell teve sobre Lizzie será explorado em quatro partes, no novo drama que é contado do ponto de vista de Lizzie.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/peIkWRJNnufq5n8al7Ngzmk9ujZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gXRG5uERAGualRB7SAOctGELVaH.jpg",
+  "tmdbId": 130738,
+  "nota": 6.182,
+  "xtreamSeriesId": 3498,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10887220",
+          "tipo": "episodio",
+          "titulo": "Deceit S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10887220",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/peIkWRJNnufq5n8al7Ngzmk9ujZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887221",
+          "tipo": "episodio",
+          "titulo": "Deceit S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10887221",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/peIkWRJNnufq5n8al7Ngzmk9ujZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887222",
+          "tipo": "episodio",
+          "titulo": "Deceit S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10887222",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/peIkWRJNnufq5n8al7Ngzmk9ujZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887223",
+          "tipo": "episodio",
+          "titulo": "Deceit S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10887223",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/peIkWRJNnufq5n8al7Ngzmk9ujZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Deceit",
+  "dataLancamento": "2021-08-13"
+}

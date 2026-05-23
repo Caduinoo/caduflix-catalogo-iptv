@@ -1,0 +1,99 @@
+{
+  "id": "inside-no-9",
+  "tipo": "serie",
+  "titulo": "Inside No. 9",
+  "ano": null,
+  "descricao": "Série antológica que mistura humor sombrio com gêneros como o crime, horror e/ou drama. O programa convida os espectadores para lugares diferentes, onde o comum e o mundano se relacionam com o extraordinário e macabro. O local que servirá de palco para as histórias sempre será em algum lugar com o número 9.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
+  "tmdbId": 61746,
+  "nota": 8.1,
+  "xtreamSeriesId": 6058,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10979520",
+          "tipo": "episodio",
+          "titulo": "Inside No 9 S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10979520",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10979521",
+          "tipo": "episodio",
+          "titulo": "Inside No 9 S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10979521",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10979522",
+          "tipo": "episodio",
+          "titulo": "Inside No 9 S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10979522",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10979523",
+          "tipo": "episodio",
+          "titulo": "Inside No 9 S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10979523",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10979524",
+          "tipo": "episodio",
+          "titulo": "Inside No 9 S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10979524",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10979525",
+          "tipo": "episodio",
+          "titulo": "Inside No 9 S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10979525",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Inside No. 9",
+  "dataLancamento": "2014-02-05"
+}

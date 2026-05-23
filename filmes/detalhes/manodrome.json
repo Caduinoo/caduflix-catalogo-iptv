@@ -1,0 +1,34 @@
+{
+  "id": "manodrome",
+  "tipo": "filme",
+  "titulo": "Manodrome",
+  "ano": null,
+  "descricao": "Ralphie (Jesse Eisenberg), um jovem motorista de Uber, um pouco desiludido por sua masculinidade. Após um encontro humilhante com um passageiro, Ralphie entra em contato com uma espécie de culto à masculinidade libertária, que serve para preencher uma série de lacunas, incentivado por uma camaradagem competitiva, mas aos poucos começa a perder o controle de sua vida e seus desejos reprimidos começam a vir à tona. O longa tabém tem os atores, Odessa Young e Adrien Brody.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nSAqIzuCqCQAt3HFsHwiffFSj96.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oTmE2OqoNxpZwZOFBtQWxyZwKr0.jpg",
+  "tmdbId": 843942,
+  "nota": 5.065,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787130,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779812,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Manodrome",
+  "dataLancamento": "2023-11-10"
+}

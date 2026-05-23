@@ -1,0 +1,34 @@
+{
+  "id": "tick-boom",
+  "tipo": "filme",
+  "titulo": "tick, tick...BOOM!",
+  "ano": null,
+  "descricao": "Prestes a fazer 30 anos, o compositor Jonathan Larson reluta para levar adiante seu sonho de escrever um grande musical.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rKe3MR2u4ZZ0y9uKivzKJRrqBCe.jpg",
+  "tmdbId": 537116,
+  "nota": 7.604,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790348,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776883,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "tick, tick... BOOM!",
+  "dataLancamento": "2021-11-11"
+}

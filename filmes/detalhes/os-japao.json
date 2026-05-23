@@ -1,0 +1,34 @@
+{
+  "id": "os-japao",
+  "tipo": "filme",
+  "titulo": "Os Japão",
+  "ano": null,
+  "descricao": "Quando o Imperador do Japão morre sem deixar descendentes, a busca do herdeiro do império leva surpreendentemente\r até Sevilha.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sBiLI4x3fpNCpGAjc4Naeh7w3zz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tNcCDeHpC8t1jpGuCssUAxApffr.jpg",
+  "tmdbId": 529209,
+  "nota": 4.47,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788797,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773545,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Los Japón",
+  "dataLancamento": "2019-06-28"
+}

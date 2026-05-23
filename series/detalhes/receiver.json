@@ -1,0 +1,123 @@
+{
+  "id": "receiver",
+  "tipo": "serie",
+  "titulo": "Receiver",
+  "ano": null,
+  "descricao": "Esta emocionante série esportiva acompanha a temporada de 2023 dos receptores da NFL Davante Adams, Justin Jefferson, George Kittle, Deebo Samuel e Amon-Ra St. Brown.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/snVuizI42B08cB6DazARwg8CA60.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rWL1iMSRbwNWlYYbFcDadBCM7g9.jpg",
+  "tmdbId": 249589,
+  "nota": 7.594,
+  "xtreamSeriesId": 5156,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921220",
+          "tipo": "episodio",
+          "titulo": "Receiver S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921220",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/snVuizI42B08cB6DazARwg8CA60.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921221",
+          "tipo": "episodio",
+          "titulo": "Receiver S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921221",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/snVuizI42B08cB6DazARwg8CA60.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921222",
+          "tipo": "episodio",
+          "titulo": "Receiver S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10921222",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/snVuizI42B08cB6DazARwg8CA60.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921223",
+          "tipo": "episodio",
+          "titulo": "Receiver S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921223",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/snVuizI42B08cB6DazARwg8CA60.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921224",
+          "tipo": "episodio",
+          "titulo": "Receiver S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10921224",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/snVuizI42B08cB6DazARwg8CA60.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921225",
+          "tipo": "episodio",
+          "titulo": "Receiver S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10921225",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/snVuizI42B08cB6DazARwg8CA60.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921226",
+          "tipo": "episodio",
+          "titulo": "Receiver S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10921226",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/snVuizI42B08cB6DazARwg8CA60.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921227",
+          "tipo": "episodio",
+          "titulo": "Receiver S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10921227",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/snVuizI42B08cB6DazARwg8CA60.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Receiver",
+  "dataLancamento": "2024-07-10"
+}

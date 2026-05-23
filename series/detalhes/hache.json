@@ -1,0 +1,123 @@
+{
+  "id": "hache",
+  "tipo": "serie",
+  "titulo": "Hache",
+  "ano": null,
+  "descricao": "Barcelona, anos 60. Helena conquista o amor e confiança de um perigoso traficante de heroína e aprende o que é preciso para ascender no cartel.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kGGsdnUzbPNQPxiQqzV3tOQkM6U.jpg",
+  "tmdbId": 84112,
+  "nota": 6.4,
+  "xtreamSeriesId": 4581,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10909526",
+          "tipo": "episodio",
+          "titulo": "Hache S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10909526",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909527",
+          "tipo": "episodio",
+          "titulo": "Hache S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10909527",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909528",
+          "tipo": "episodio",
+          "titulo": "Hache S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10909528",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909529",
+          "tipo": "episodio",
+          "titulo": "Hache S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10909529",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909530",
+          "tipo": "episodio",
+          "titulo": "Hache S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10909530",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909531",
+          "tipo": "episodio",
+          "titulo": "Hache S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10909531",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909532",
+          "tipo": "episodio",
+          "titulo": "Hache S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10909532",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909533",
+          "tipo": "episodio",
+          "titulo": "Hache S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10909533",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Hache",
+  "dataLancamento": "2019-11-01"
+}

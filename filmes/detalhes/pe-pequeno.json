@@ -1,0 +1,34 @@
+{
+  "id": "pe-pequeno",
+  "tipo": "filme",
+  "titulo": "Pé Pequeno",
+  "ano": null,
+  "descricao": "Um Yeti, criatura conhecida como o Abominável Homem das Neves, está indo na contramão do que todos os seus semelhantes acreditam: ele tem a certeza que os seres humanos, para eles até então um mito, realmente existem, mesmo que todos da sua espécie neguem com veemência. Mas ele não irá desistir tão fácil de provar sua tese.",
+  "generos": [
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/c0K6BijP7r3ee9SfBixZPxdfhZg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7t88SoT3Dd8DhGnQuVoSbMNUl3W.jpg",
+  "tmdbId": 446894,
+  "nota": 6.8,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771712,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782877,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Smallfoot",
+  "dataLancamento": "2018-09-20"
+}

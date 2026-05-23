@@ -1,0 +1,34 @@
+{
+  "id": "escape-room-sem-saida",
+  "tipo": "filme",
+  "titulo": "Escape Room - Sem Saída",
+  "ano": null,
+  "descricao": "Quatro amigos decidem sair para se divertir em um Escape Room. Mas para solucionar os desafios do jogo, eles serão obrigados a revelar alguns segredos que colocarão a amizade deles em risco.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/krqoxicEy3vNtQXLpkPPfn1gMm9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8UIc4i8k1uvQZcllS8tCgKGgQbv.jpg",
+  "tmdbId": 855433,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785811,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772730,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Escape Room: La pel·lícula",
+  "dataLancamento": "2022-03-11"
+}

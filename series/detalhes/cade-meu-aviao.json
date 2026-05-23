@@ -1,0 +1,75 @@
+{
+  "id": "cade-meu-aviao",
+  "tipo": "serie",
+  "titulo": "Pepsi, Cadê Meu Avião?",
+  "ano": null,
+  "descricao": "Em 1996, a Pepsi anunciou um caça militar como o grande prêmio de uma promoção e o universitário John Leonard bancou o desafio. Mas a Pepsi afirmou que era tudo brincadeira. Até hoje esta batalha legal fascina consumidores e acadêmicos do Direito.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eobwQG9JEaLZ8HdiYpVKnw3ca3z.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gjP9RY2mOGfiFhfYgLgBGQYldht.jpg",
+  "tmdbId": 213134,
+  "nota": 6.785,
+  "xtreamSeriesId": 4212,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10903419",
+          "tipo": "episodio",
+          "titulo": "Cadê Meu Avião S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10903419",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eobwQG9JEaLZ8HdiYpVKnw3ca3z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903420",
+          "tipo": "episodio",
+          "titulo": "Cadê Meu Avião S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10903420",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eobwQG9JEaLZ8HdiYpVKnw3ca3z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903421",
+          "tipo": "episodio",
+          "titulo": "Cadê Meu Avião S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10903421",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eobwQG9JEaLZ8HdiYpVKnw3ca3z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10903422",
+          "tipo": "episodio",
+          "titulo": "Cadê Meu Avião S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10903422",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eobwQG9JEaLZ8HdiYpVKnw3ca3z.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Pepsi, Where's My Jet?",
+  "dataLancamento": "2022-11-17"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "contagem-regressiva-jake-paul-vs-mike-tyson",
+  "tipo": "serie",
+  "titulo": "Contagem Regressiva: Jake Paul vs. Mike Tyson",
+  "ano": null,
+  "descricao": "Acompanhe o dia a dia e os treinos de Jake Paul e Mike Tyson, que estão se preparando para uma luta imperdível. O embate vai acontecer no dia 15 de novembro.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/prIFPe2pLMIhS0q2hh98CsKotOC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jQawsddb4QGKvRKJ61Avb0k32Bl.jpg",
+  "tmdbId": 274413,
+  "nota": 7.1,
+  "xtreamSeriesId": 4319,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10905148",
+          "tipo": "episodio",
+          "titulo": "Contagem Regressiva Jake Paul vs Mike Tyson S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10905148",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/prIFPe2pLMIhS0q2hh98CsKotOC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905149",
+          "tipo": "episodio",
+          "titulo": "Contagem Regressiva Jake Paul vs Mike Tyson S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10905149",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/prIFPe2pLMIhS0q2hh98CsKotOC.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905150",
+          "tipo": "episodio",
+          "titulo": "Contagem Regressiva Jake Paul vs Mike Tyson S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10905150",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/prIFPe2pLMIhS0q2hh98CsKotOC.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Countdown: Paul vs. Tyson",
+  "dataLancamento": "2024-11-07"
+}

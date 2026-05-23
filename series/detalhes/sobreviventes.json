@@ -1,0 +1,123 @@
+{
+  "id": "sobreviventes",
+  "tipo": "serie",
+  "titulo": "Sobreviventes",
+  "ano": null,
+  "descricao": "Há quinze anos, uma tragédia envolvendo três jovens abalou uma pacata cidade. Agora, a morte misteriosa de uma mulher relembra um passado que todos preferiam esquecer.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ck7D2aiTUpYZjFjvnKcFFBG25kp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sxzodKyKvW2sXjI9awYFjo2ePNz.jpg",
+  "tmdbId": 284605,
+  "nota": 6.606,
+  "xtreamSeriesId": 5263,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10923497",
+          "tipo": "episodio",
+          "titulo": "Sobreviventes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10923497",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck7D2aiTUpYZjFjvnKcFFBG25kp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923498",
+          "tipo": "episodio",
+          "titulo": "Sobreviventes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10923498",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck7D2aiTUpYZjFjvnKcFFBG25kp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923499",
+          "tipo": "episodio",
+          "titulo": "Sobreviventes S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10923499",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck7D2aiTUpYZjFjvnKcFFBG25kp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923500",
+          "tipo": "episodio",
+          "titulo": "Sobreviventes S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10923500",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck7D2aiTUpYZjFjvnKcFFBG25kp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923501",
+          "tipo": "episodio",
+          "titulo": "Sobreviventes S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10923501",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck7D2aiTUpYZjFjvnKcFFBG25kp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923502",
+          "tipo": "episodio",
+          "titulo": "Sobreviventes S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10923502",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck7D2aiTUpYZjFjvnKcFFBG25kp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923503",
+          "tipo": "episodio",
+          "titulo": "Sobreviventes S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10923503",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck7D2aiTUpYZjFjvnKcFFBG25kp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923504",
+          "tipo": "episodio",
+          "titulo": "Sobreviventes S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10923504",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ck7D2aiTUpYZjFjvnKcFFBG25kp.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The Survivors",
+  "dataLancamento": "2025-06-06"
+}

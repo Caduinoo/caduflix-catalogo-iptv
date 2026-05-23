@@ -1,0 +1,63 @@
+{
+  "id": "fe-na-vida",
+  "tipo": "serie",
+  "titulo": "Fé na Vida",
+  "ano": null,
+  "descricao": "Acompanhe a viagem a 10 estados de todas as regiões do Brasil para conhecer histórias inspiradoras.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m7FBwRxiT1DSeROmW5mSDQAHuth.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aB8pjLBlaWIhssl5vpkeFrRPMK2.jpg",
+  "tmdbId": 154376,
+  "nota": null,
+  "xtreamSeriesId": 6000,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10978249",
+          "tipo": "episodio",
+          "titulo": "Fé na Vida S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10978249",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m7FBwRxiT1DSeROmW5mSDQAHuth.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978250",
+          "tipo": "episodio",
+          "titulo": "Fé na Vida S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10978250",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m7FBwRxiT1DSeROmW5mSDQAHuth.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10978251",
+          "tipo": "episodio",
+          "titulo": "Fé na Vida S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10978251",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m7FBwRxiT1DSeROmW5mSDQAHuth.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Fé na Vida",
+  "dataLancamento": "2021-12-28"
+}

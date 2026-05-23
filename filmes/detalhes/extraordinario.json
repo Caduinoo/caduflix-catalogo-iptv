@@ -1,0 +1,34 @@
+{
+  "id": "extraordinario",
+  "tipo": "filme",
+  "titulo": "Extraordinário",
+  "ano": null,
+  "descricao": "Auggie Pullman é um garoto que nasceu com uma deformação facial. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.",
+  "generos": [
+    "4K",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2oCqYAm00tMOPNgYPYfYAwMhcPn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/b7xQ5fuyVO4c24igizCfPgF6n7q.jpg",
+  "tmdbId": 406997,
+  "nota": 8.107,
+  "opcoes": [
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782349,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775416,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Wonder",
+  "dataLancamento": "2017-11-13"
+}

@@ -1,0 +1,837 @@
+{
+  "id": "elite",
+  "tipo": "serie",
+  "titulo": "Elite",
+  "ano": null,
+  "descricao": "Após três jovens da escola pública serem transferidos para um conceituado colégio de elite, o conflito entre classes acaba levando a um assassinato.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uU6YW3N11qECNfz18LNGAGg3Uir.jpg",
+  "tmdbId": 76669,
+  "nota": 8.007,
+  "xtreamSeriesId": 4444,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907035",
+          "tipo": "episodio",
+          "titulo": "Elite S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907035",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907036",
+          "tipo": "episodio",
+          "titulo": "Elite S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907036",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907037",
+          "tipo": "episodio",
+          "titulo": "Elite S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907037",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907038",
+          "tipo": "episodio",
+          "titulo": "Elite S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907038",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907039",
+          "tipo": "episodio",
+          "titulo": "Elite S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907039",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907040",
+          "tipo": "episodio",
+          "titulo": "Elite S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907040",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907041",
+          "tipo": "episodio",
+          "titulo": "Elite S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10907041",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907042",
+          "tipo": "episodio",
+          "titulo": "Elite S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10907042",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "nome": "Temporada 2",
+      "episodios": [
+        {
+          "id": "ep-10907043",
+          "tipo": "episodio",
+          "titulo": "Elite S02E01",
+          "numero": 1,
+          "temporada": 2,
+          "xtreamId": "10907043",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907044",
+          "tipo": "episodio",
+          "titulo": "Elite S02E02",
+          "numero": 2,
+          "temporada": 2,
+          "xtreamId": "10907044",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907045",
+          "tipo": "episodio",
+          "titulo": "Elite S02E03",
+          "numero": 3,
+          "temporada": 2,
+          "xtreamId": "10907045",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907046",
+          "tipo": "episodio",
+          "titulo": "Elite S02E04",
+          "numero": 4,
+          "temporada": 2,
+          "xtreamId": "10907046",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907047",
+          "tipo": "episodio",
+          "titulo": "Elite S02E05",
+          "numero": 5,
+          "temporada": 2,
+          "xtreamId": "10907047",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907048",
+          "tipo": "episodio",
+          "titulo": "Elite S02E06",
+          "numero": 6,
+          "temporada": 2,
+          "xtreamId": "10907048",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907049",
+          "tipo": "episodio",
+          "titulo": "Elite S02E07",
+          "numero": 7,
+          "temporada": 2,
+          "xtreamId": "10907049",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907050",
+          "tipo": "episodio",
+          "titulo": "Elite S02E08",
+          "numero": 8,
+          "temporada": 2,
+          "xtreamId": "10907050",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "nome": "Temporada 3",
+      "episodios": [
+        {
+          "id": "ep-10907051",
+          "tipo": "episodio",
+          "titulo": "Elite S03E01",
+          "numero": 1,
+          "temporada": 3,
+          "xtreamId": "10907051",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907052",
+          "tipo": "episodio",
+          "titulo": "Elite S03E02",
+          "numero": 2,
+          "temporada": 3,
+          "xtreamId": "10907052",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907053",
+          "tipo": "episodio",
+          "titulo": "Elite S03E03",
+          "numero": 3,
+          "temporada": 3,
+          "xtreamId": "10907053",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907054",
+          "tipo": "episodio",
+          "titulo": "Elite S03E04",
+          "numero": 4,
+          "temporada": 3,
+          "xtreamId": "10907054",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907055",
+          "tipo": "episodio",
+          "titulo": "Elite S03E05",
+          "numero": 5,
+          "temporada": 3,
+          "xtreamId": "10907055",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907056",
+          "tipo": "episodio",
+          "titulo": "Elite S03E06",
+          "numero": 6,
+          "temporada": 3,
+          "xtreamId": "10907056",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907057",
+          "tipo": "episodio",
+          "titulo": "Elite S03E07",
+          "numero": 7,
+          "temporada": 3,
+          "xtreamId": "10907057",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907058",
+          "tipo": "episodio",
+          "titulo": "Elite S03E08",
+          "numero": 8,
+          "temporada": 3,
+          "xtreamId": "10907058",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "nome": "Temporada 4",
+      "episodios": [
+        {
+          "id": "ep-10907059",
+          "tipo": "episodio",
+          "titulo": "Elite S04E01",
+          "numero": 1,
+          "temporada": 4,
+          "xtreamId": "10907059",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907060",
+          "tipo": "episodio",
+          "titulo": "Elite S04E02",
+          "numero": 2,
+          "temporada": 4,
+          "xtreamId": "10907060",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907061",
+          "tipo": "episodio",
+          "titulo": "Elite S04E03",
+          "numero": 3,
+          "temporada": 4,
+          "xtreamId": "10907061",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907062",
+          "tipo": "episodio",
+          "titulo": "Elite S04E04",
+          "numero": 4,
+          "temporada": 4,
+          "xtreamId": "10907062",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907063",
+          "tipo": "episodio",
+          "titulo": "Elite S04E05",
+          "numero": 5,
+          "temporada": 4,
+          "xtreamId": "10907063",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907064",
+          "tipo": "episodio",
+          "titulo": "Elite S04E06",
+          "numero": 6,
+          "temporada": 4,
+          "xtreamId": "10907064",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907065",
+          "tipo": "episodio",
+          "titulo": "Elite S04E07",
+          "numero": 7,
+          "temporada": 4,
+          "xtreamId": "10907065",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907066",
+          "tipo": "episodio",
+          "titulo": "Elite S04E08",
+          "numero": 8,
+          "temporada": 4,
+          "xtreamId": "10907066",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "nome": "Temporada 5",
+      "episodios": [
+        {
+          "id": "ep-10907067",
+          "tipo": "episodio",
+          "titulo": "Elite S05E01",
+          "numero": 1,
+          "temporada": 5,
+          "xtreamId": "10907067",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907068",
+          "tipo": "episodio",
+          "titulo": "Elite S05E02",
+          "numero": 2,
+          "temporada": 5,
+          "xtreamId": "10907068",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907069",
+          "tipo": "episodio",
+          "titulo": "Elite S05E03",
+          "numero": 3,
+          "temporada": 5,
+          "xtreamId": "10907069",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907070",
+          "tipo": "episodio",
+          "titulo": "Elite S05E04",
+          "numero": 4,
+          "temporada": 5,
+          "xtreamId": "10907070",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907071",
+          "tipo": "episodio",
+          "titulo": "Elite S05E05",
+          "numero": 5,
+          "temporada": 5,
+          "xtreamId": "10907071",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907072",
+          "tipo": "episodio",
+          "titulo": "Elite S05E06",
+          "numero": 6,
+          "temporada": 5,
+          "xtreamId": "10907072",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907073",
+          "tipo": "episodio",
+          "titulo": "Elite S05E07",
+          "numero": 7,
+          "temporada": 5,
+          "xtreamId": "10907073",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907074",
+          "tipo": "episodio",
+          "titulo": "Elite S05E08",
+          "numero": 8,
+          "temporada": 5,
+          "xtreamId": "10907074",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "nome": "Temporada 6",
+      "episodios": [
+        {
+          "id": "ep-10907075",
+          "tipo": "episodio",
+          "titulo": "Elite S06E01",
+          "numero": 1,
+          "temporada": 6,
+          "xtreamId": "10907075",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907076",
+          "tipo": "episodio",
+          "titulo": "Elite S06E02",
+          "numero": 2,
+          "temporada": 6,
+          "xtreamId": "10907076",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907077",
+          "tipo": "episodio",
+          "titulo": "Elite S06E03",
+          "numero": 3,
+          "temporada": 6,
+          "xtreamId": "10907077",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907078",
+          "tipo": "episodio",
+          "titulo": "Elite S06E04",
+          "numero": 4,
+          "temporada": 6,
+          "xtreamId": "10907078",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907079",
+          "tipo": "episodio",
+          "titulo": "Elite S06E05",
+          "numero": 5,
+          "temporada": 6,
+          "xtreamId": "10907079",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907080",
+          "tipo": "episodio",
+          "titulo": "Elite S06E06",
+          "numero": 6,
+          "temporada": 6,
+          "xtreamId": "10907080",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907081",
+          "tipo": "episodio",
+          "titulo": "Elite S06E07",
+          "numero": 7,
+          "temporada": 6,
+          "xtreamId": "10907081",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907082",
+          "tipo": "episodio",
+          "titulo": "Elite S06E08",
+          "numero": 8,
+          "temporada": 6,
+          "xtreamId": "10907082",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "nome": "Temporada 7",
+      "episodios": [
+        {
+          "id": "ep-10907083",
+          "tipo": "episodio",
+          "titulo": "Elite S07E01",
+          "numero": 1,
+          "temporada": 7,
+          "xtreamId": "10907083",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907084",
+          "tipo": "episodio",
+          "titulo": "Elite S07E02",
+          "numero": 2,
+          "temporada": 7,
+          "xtreamId": "10907084",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907085",
+          "tipo": "episodio",
+          "titulo": "Elite S07E03",
+          "numero": 3,
+          "temporada": 7,
+          "xtreamId": "10907085",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907086",
+          "tipo": "episodio",
+          "titulo": "Elite S07E04",
+          "numero": 4,
+          "temporada": 7,
+          "xtreamId": "10907086",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907087",
+          "tipo": "episodio",
+          "titulo": "Elite S07E05",
+          "numero": 5,
+          "temporada": 7,
+          "xtreamId": "10907087",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907088",
+          "tipo": "episodio",
+          "titulo": "Elite S07E06",
+          "numero": 6,
+          "temporada": 7,
+          "xtreamId": "10907088",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907089",
+          "tipo": "episodio",
+          "titulo": "Elite S07E07",
+          "numero": 7,
+          "temporada": 7,
+          "xtreamId": "10907089",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907090",
+          "tipo": "episodio",
+          "titulo": "Elite S07E08",
+          "numero": 8,
+          "temporada": 7,
+          "xtreamId": "10907090",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "nome": "Temporada 8",
+      "episodios": [
+        {
+          "id": "ep-10907091",
+          "tipo": "episodio",
+          "titulo": "Elite S08E01",
+          "numero": 1,
+          "temporada": 8,
+          "xtreamId": "10907091",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907092",
+          "tipo": "episodio",
+          "titulo": "Elite S08E02",
+          "numero": 2,
+          "temporada": 8,
+          "xtreamId": "10907092",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907093",
+          "tipo": "episodio",
+          "titulo": "Elite S08E03",
+          "numero": 3,
+          "temporada": 8,
+          "xtreamId": "10907093",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907094",
+          "tipo": "episodio",
+          "titulo": "Elite S08E04",
+          "numero": 4,
+          "temporada": 8,
+          "xtreamId": "10907094",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907095",
+          "tipo": "episodio",
+          "titulo": "Elite S08E05",
+          "numero": 5,
+          "temporada": 8,
+          "xtreamId": "10907095",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907096",
+          "tipo": "episodio",
+          "titulo": "Elite S08E06",
+          "numero": 6,
+          "temporada": 8,
+          "xtreamId": "10907096",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907097",
+          "tipo": "episodio",
+          "titulo": "Elite S08E07",
+          "numero": 7,
+          "temporada": 8,
+          "xtreamId": "10907097",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907098",
+          "tipo": "episodio",
+          "titulo": "Elite S08E08",
+          "numero": 8,
+          "temporada": 8,
+          "xtreamId": "10907098",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sfC3hM33pCenEjnmuITvhaUKSXU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 8,
+  "totalEpisodios": 64,
+  "tituloOriginal": "Élite",
+  "dataLancamento": "2018-10-05"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ed-wood",
+  "tipo": "filme",
+  "titulo": "Ed Wood",
+  "ano": null,
+  "descricao": "Um diretor ambicioso, porém problemático, se esforça ao máximo para realizar o seu sonho, apesar da falta de apoio.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg",
+  "tmdbId": 522,
+  "nota": 7.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785636,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772682,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Ed Wood",
+  "dataLancamento": "1994-09-28"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sundown",
+  "tipo": "filme",
+  "titulo": "Ao Cair do Sol",
+  "ano": null,
+  "descricao": "Alice (Charlotte Gainsbourg) e Neil (Tim Roth) são dois irmãos bilionários passando as férias em Acapulco com os filhos dela. No entanto, eles recebem a ligação de que a mãe, dona dos negócios familiares, morreu. Alice entra em desespero e faz as malas para retornar à Inglaterra. Neil, por sua vez, decide que não voltará ao seu país - talvez nunca mais. Um filme de Michel Franco. Indicado ao Leão de Ouro (Melhor Filme) no Festival de Veneza 2021. Seleção também dos Festivais de Toronto, Londres, Chicago e Palm Springs.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5qbdsnRJPBafdnQAHWTb2m1JAka.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nNL94WoDkgOnFiMvzG8sMkqY66T.jpg",
+  "tmdbId": 854359,
+  "nota": 6.188,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789955,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776813,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Sundown",
+  "dataLancamento": "2022-01-28"
+}

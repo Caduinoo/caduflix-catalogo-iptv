@@ -1,0 +1,99 @@
+{
+  "id": "faz-me-rir",
+  "tipo": "serie",
+  "titulo": "Faz-me Rir",
+  "ano": null,
+  "descricao": "Para fazer o mundo rir e arrasar no stand-up, estes quatro amigos estão dispostos a tudo, custe o que custar!",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mHYaSvnyon3TKK3726EyCHXRZw7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mhdGOAY8KJ977wymVMxxELHTN5i.jpg",
+  "tmdbId": 157726,
+  "nota": 6.814,
+  "xtreamSeriesId": 4501,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907714",
+          "tipo": "episodio",
+          "titulo": "Faz-me Rir S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907714",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mHYaSvnyon3TKK3726EyCHXRZw7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907715",
+          "tipo": "episodio",
+          "titulo": "Faz-me Rir S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907715",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mHYaSvnyon3TKK3726EyCHXRZw7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907716",
+          "tipo": "episodio",
+          "titulo": "Faz-me Rir S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907716",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mHYaSvnyon3TKK3726EyCHXRZw7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907717",
+          "tipo": "episodio",
+          "titulo": "Faz-me Rir S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907717",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mHYaSvnyon3TKK3726EyCHXRZw7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907718",
+          "tipo": "episodio",
+          "titulo": "Faz-me Rir S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907718",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mHYaSvnyon3TKK3726EyCHXRZw7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907719",
+          "tipo": "episodio",
+          "titulo": "Faz-me Rir S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907719",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mHYaSvnyon3TKK3726EyCHXRZw7.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Drôle",
+  "dataLancamento": "2022-03-18"
+}

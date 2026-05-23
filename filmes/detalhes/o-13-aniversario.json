@@ -1,0 +1,34 @@
+{
+  "id": "o-13-aniversario",
+  "tipo": "filme",
+  "titulo": "O 13º Aniversário",
+  "ano": null,
+  "descricao": "Um garoto é resgatado do mar e adotado quando ainda bebê. Ao entrar na adolescência, percebe mudanças peculiares no seu corpo, tais como conseguir se comunicar com um peixe, e decide saber a verdade sobre sua origem.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cKbA1iYh9oL63BbZie1YWxqcWpB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tzijMBkZtUX5ubkgbcTC7WITE7i.jpg",
+  "tmdbId": 83965,
+  "nota": 6.615,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034504,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034478,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1775579838,
+  "tituloOriginal": "The Thirteenth Year",
+  "dataLancamento": "1999-05-15"
+}

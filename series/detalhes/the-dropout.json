@@ -1,0 +1,123 @@
+{
+  "id": "the-dropout",
+  "tipo": "serie",
+  "titulo": "The Dropout",
+  "ano": null,
+  "descricao": "A série conta a história de Elizabeth Holmes e Theranos, um conto inacreditável de ambição e fama que deu terrivelmente errado. Como a bilionária mais jovem do mundo perdeu tudo em um piscar de olhos?",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qJ1KGucBUWicpRrukNkGqZxDZy3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6IfAtLsAtBhe8AXmThLb0EU32fN.jpg",
+  "tmdbId": 122066,
+  "nota": 7.307,
+  "xtreamSeriesId": 6379,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10989452",
+          "tipo": "episodio",
+          "titulo": "The Dropout S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10989452",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qJ1KGucBUWicpRrukNkGqZxDZy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989453",
+          "tipo": "episodio",
+          "titulo": "The Dropout S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10989453",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qJ1KGucBUWicpRrukNkGqZxDZy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989454",
+          "tipo": "episodio",
+          "titulo": "The Dropout S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10989454",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qJ1KGucBUWicpRrukNkGqZxDZy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989455",
+          "tipo": "episodio",
+          "titulo": "The Dropout S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10989455",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qJ1KGucBUWicpRrukNkGqZxDZy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989456",
+          "tipo": "episodio",
+          "titulo": "The Dropout S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10989456",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qJ1KGucBUWicpRrukNkGqZxDZy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989457",
+          "tipo": "episodio",
+          "titulo": "The Dropout S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10989457",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qJ1KGucBUWicpRrukNkGqZxDZy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989458",
+          "tipo": "episodio",
+          "titulo": "The Dropout S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10989458",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qJ1KGucBUWicpRrukNkGqZxDZy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989459",
+          "tipo": "episodio",
+          "titulo": "The Dropout S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10989459",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qJ1KGucBUWicpRrukNkGqZxDZy3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The Dropout",
+  "dataLancamento": "2022-03-03"
+}

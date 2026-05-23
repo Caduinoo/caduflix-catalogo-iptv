@@ -1,0 +1,34 @@
+{
+  "id": "mr-k",
+  "tipo": "filme",
+  "titulo": "Mr. K",
+  "ano": null,
+  "descricao": "Mr. K é um mágico que não consegue encontrar a saída do hotel em que se hospedou na noite anterior. Seus esforços para sair do local parecem deixá-lo cada vez mais preso em um pesadelo sem fim.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/n8Vh6cdEvn8XtnmoEeqzomv6SYJ.jpg",
+  "tmdbId": 1242669,
+  "nota": 6.375,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787499,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775909,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Mr. K",
+  "dataLancamento": "2025-01-16"
+}

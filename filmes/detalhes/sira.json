@@ -1,0 +1,34 @@
+{
+  "id": "sira",
+  "tipo": "filme",
+  "titulo": "Sira",
+  "ano": null,
+  "descricao": "Ao cruzar o deserto da África junto de sua família, a jovem Sira sofre um brutal ataque de um grupo de extremistas e Sira é deixada para morrer. Mas a jovem se recusa a aceitar o seu destino e decide lutar contra a violência do grupo terrorista.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sTHB4UH9dOOJ9oRHbI9GaXNL7cD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8pKp1Eb5lCR4S2as8WF6mJAyzK3.jpg",
+  "tmdbId": 1075822,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789773,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776759,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Sira",
+  "dataLancamento": "2023-02-16"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "desejo-obsessivo",
+  "tipo": "serie",
+  "titulo": "Desejo Obsessivo",
+  "ano": null,
+  "descricao": "Uma aventura proibida entre um respeitado cirurgião e a noiva do filho acaba virando uma obsessão que ameaça mudar suas vidas para sempre.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dr0HeCzwRkvGQlvD3Xd44klMphR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dpaaxgmIe0cCId6CVIAOfNqkYm4.jpg",
+  "tmdbId": 223313,
+  "nota": 6.417,
+  "xtreamSeriesId": 4386,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906124",
+          "tipo": "episodio",
+          "titulo": "Desejo Obsessivo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906124",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dr0HeCzwRkvGQlvD3Xd44klMphR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906125",
+          "tipo": "episodio",
+          "titulo": "Desejo Obsessivo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906125",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dr0HeCzwRkvGQlvD3Xd44klMphR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906126",
+          "tipo": "episodio",
+          "titulo": "Desejo Obsessivo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906126",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dr0HeCzwRkvGQlvD3Xd44klMphR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906127",
+          "tipo": "episodio",
+          "titulo": "Desejo Obsessivo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906127",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dr0HeCzwRkvGQlvD3Xd44klMphR.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Obsession",
+  "dataLancamento": "2023-04-13"
+}

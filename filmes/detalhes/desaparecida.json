@@ -1,0 +1,34 @@
+{
+  "id": "desaparecida",
+  "tipo": "filme",
+  "titulo": "Desaparecida",
+  "ano": null,
+  "descricao": "Quando sua mãe desaparece durante uma viagem de férias na Colômbia com seu novo namorado, a busca de June por respostas. Presa há milhares de quilômetros em Los Angeles, June usa os recursos tecnológicos para tentar encontrá-la. Mas quanto mais fundo ela cava, mais questões surgem; e quando se depara com segredos de sua mãe, descobre que talvez nunca tenha conhecido sua mãe de verdade.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/y6OLmLAAblvGPrBWqghWhi3xK5b.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tVH1qEFyKiCpP6kNDFyXKW2Tiif.jpg",
+  "tmdbId": 768362,
+  "nota": 7.39,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785377,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779694,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Missing",
+  "dataLancamento": "2023-01-19"
+}

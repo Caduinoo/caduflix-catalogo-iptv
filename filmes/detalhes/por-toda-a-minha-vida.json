@@ -1,0 +1,34 @@
+{
+  "id": "por-toda-a-minha-vida",
+  "tipo": "filme",
+  "titulo": "Por Toda a Minha Vida",
+  "ano": null,
+  "descricao": "Um jovem casal planeja seu casamento, mediante a descoberta de um câncer, que pode colocar um fim no sonho de construírem uma vida juntos.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/t7eTgUwCggJVzEZb2Js7kLhcLLu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7Gzsn4yiwMSXvYcbWXsoDhq8QO2.jpg",
+  "tmdbId": 632322,
+  "nota": 7.767,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789106,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779333,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "All My Life",
+  "dataLancamento": "2020-10-23"
+}

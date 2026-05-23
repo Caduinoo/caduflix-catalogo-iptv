@@ -1,0 +1,50 @@
+{
+  "id": "sinta-a-minha-voz",
+  "tipo": "filme",
+  "titulo": "Sinta a Minha Voz",
+  "ano": null,
+  "descricao": "Uma adolescente, a única ouvinte de uma família de surdos, descobre sua voz e aprende a acreditar em si mesma através de sua paixão pelo canto.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kaXWWskVuOumpcqWdjImjvolOWu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
+  "tmdbId": 1620551,
+  "nota": 6.837,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034030,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034020,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11035584,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050084,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Non abbiam bisogno di parole",
+  "dataLancamento": "2026-04-03"
+}

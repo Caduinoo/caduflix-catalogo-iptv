@@ -1,0 +1,34 @@
+{
+  "id": "megaboa",
+  "tipo": "filme",
+  "titulo": "Megaboa",
+  "ano": null,
+  "descricao": "Liderados pelo Dr. Malone, um grupo de estudantes universitários vai à floresta para procurar desenhos rupestres. Mas eles não esperavam encontrar a Megaboa, uma jiboia gigante de quinze metros que era considerada extinta e está faminta por sangue.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sAnAMv3eyQiGI1z2k8NsvH0Y6r5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gvNmnvu13TPAewP54hvCyuHwNwR.jpg",
+  "tmdbId": 920081,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787219,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780931,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Megaboa",
+  "dataLancamento": "2021-11-26"
+}

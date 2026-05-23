@@ -1,0 +1,123 @@
+{
+  "id": "reboot",
+  "tipo": "serie",
+  "titulo": "ReBoot",
+  "ano": null,
+  "descricao": "O cenário é no mundo interior de um sistema de computador conhecido por seus habitantes como Mainframe. Ele foi deliberadamente escolhido devido a restrições de tecnológicas da época, como o mundo da informática ficcional permitido para blocos de modelos de aparência e animação mecânica  A maioria dos episódios estabelece personagens, locais e elementos da história, como os cubos de jogo gigantescos. Quando o usuário carrega um jogo, um cubo de jogo fica em um local aleatório no Mainframe, isolando-a do resto do sistema e transformando-o em um gamescape. Bob freqüentemente entra nos jogos, reinicia a tornar-se um personagem do jogo, e luta contra o caráter do usuário para salvar o setor. Se o usuário ganha um jogo, o setor do cubo caiu é destruído, e os sprites e binomes que foram pegos dentro são transformados em parasitas semelhantes a vermes, que consomem energia chamados nulos.",
+  "generos": [
+    "STAR+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bO4BrAyqkIYSYOpC9z2aE3OGSZX.jpg",
+  "tmdbId": 2121,
+  "nota": 7.418,
+  "xtreamSeriesId": 6757,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11005789",
+          "tipo": "episodio",
+          "titulo": "Reboot S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11005789",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005790",
+          "tipo": "episodio",
+          "titulo": "Reboot S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11005790",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005791",
+          "tipo": "episodio",
+          "titulo": "Reboot S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11005791",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005792",
+          "tipo": "episodio",
+          "titulo": "Reboot S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11005792",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005793",
+          "tipo": "episodio",
+          "titulo": "Reboot S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11005793",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005794",
+          "tipo": "episodio",
+          "titulo": "Reboot S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11005794",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005795",
+          "tipo": "episodio",
+          "titulo": "Reboot S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11005795",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11005796",
+          "tipo": "episodio",
+          "titulo": "Reboot S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11005796",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "ReBoot",
+  "dataLancamento": "1994-09-10"
+}

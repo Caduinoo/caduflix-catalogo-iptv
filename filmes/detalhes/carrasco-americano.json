@@ -1,0 +1,34 @@
+{
+  "id": "carrasco-americano",
+  "tipo": "filme",
+  "titulo": "Carrasco Americano",
+  "ano": null,
+  "descricao": "Um homem não identificado publica um feed ao vivo em mídias sociais mostrando que ele seqüestrou dois estranhos e pretende matar um antes do dia acabar. Sua intenção é realizar um \"julgamento\" on-line de capital. Como as autoridades reconhecem o que está acontecendo, torna-se evidente que o público online vai agir como juiz e júri.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eXIjZsK60w71qMk6xG6t7TQnPFs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cuUj9ybfVZssvhvzu7IK0arbcGJ.jpg",
+  "tmdbId": 567738,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784820,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779645,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "American Hangman",
+  "dataLancamento": "2019-01-04"
+}

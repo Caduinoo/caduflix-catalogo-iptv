@@ -1,0 +1,34 @@
+{
+  "id": "nossas-meninas",
+  "tipo": "filme",
+  "titulo": "Nossas Meninas",
+  "ano": null,
+  "descricao": "Na Escócia da década de 1990, um grupo de garotas de uma escola católica teve a oportunidade de ir a Edimburgo para um concurso de coro, mas eles estão mais interessados ​​em beber, festejar e ficar juntos do que em ganhar o concurso.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9QHA9UXs34jB1IxeitCgOdWmr5Z.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lEsVObwDW4DqTK8QDmn3qdYivQf.jpg",
+  "tmdbId": 626975,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787748,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773281,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Our Ladies",
+  "dataLancamento": "2019-10-04"
+}

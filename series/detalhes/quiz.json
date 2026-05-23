@@ -1,0 +1,63 @@
+{
+  "id": "quiz",
+  "tipo": "serie",
+  "titulo": "You Quiz On The Block",
+  "ano": null,
+  "descricao": "O programa é sobre Yoo Jae-suk e Jo Se-ho que entram na vida cotidiana das pessoas comuns, conversam com elas e fazem perguntas surpresa. O programa de palestras e questionários destacará a vida dessas pessoas e visa presenteá-las com um dia refrescante e diferente.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tdGJ2swRbtHT2O3fUXauKVSXNp9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fDSZ9s6QJfgDvqceTBLUFpNB71j.jpg",
+  "tmdbId": 81978,
+  "nota": 8.3,
+  "xtreamSeriesId": 6292,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10987224",
+          "tipo": "episodio",
+          "titulo": "Quiz S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10987224",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zfxmgk2qJjtNItGgPEeQxnOoT4o.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10987225",
+          "tipo": "episodio",
+          "titulo": "Quiz S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10987225",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zfxmgk2qJjtNItGgPEeQxnOoT4o.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10987226",
+          "tipo": "episodio",
+          "titulo": "Quiz S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10987226",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/zfxmgk2qJjtNItGgPEeQxnOoT4o.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "유 퀴즈 온 더 블럭",
+  "dataLancamento": "2018-08-29"
+}

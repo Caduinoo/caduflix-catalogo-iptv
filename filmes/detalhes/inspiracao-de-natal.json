@@ -1,0 +1,34 @@
+{
+  "id": "inspiracao-de-natal",
+  "tipo": "filme",
+  "titulo": "Inspiração de Natal",
+  "ano": null,
+  "descricao": "Um quadro descartado e a magia do Natal fazem os caminhos de uma chef apaixonada por arte e de um famoso ilustrador se cruzarem.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mqnFg0fIUec2i8TIiOnjfudhT6J.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hdsdQADn3omGt33sG26LTieBkG8.jpg",
+  "tmdbId": 1032591,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786599,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778679,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "A Brush with Christmas",
+  "dataLancamento": "2022-12-18"
+}

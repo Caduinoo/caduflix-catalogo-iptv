@@ -1,0 +1,75 @@
+{
+  "id": "caca-tempestades",
+  "tipo": "serie",
+  "titulo": "Caça Tempestades",
+  "ano": null,
+  "descricao": "A premiada cineasta Iara Cardoso, o renomado cientista Osmar Pinto Junior e o consagrado jornalista Ernesto Paglia se unem para a primeira Caçada a Tempestades no Brasil. No país campeão mundial de raios, os segredos das tempestades na Amazônia são revelados pela primeira vez a partir de uma equipe incansável de caçadores de tempestades. A série mostra os desafios dos que perseguem as tormentas e dos povos que têm a cultura moldada por elas.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/j7V3buy3S4JXkafvPCNUlVYI91w.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ApY0A6C7KgS7zgIM8hNNZWSsPLb.jpg",
+  "tmdbId": 305326,
+  "nota": null,
+  "xtreamSeriesId": 1361,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10827759",
+          "tipo": "episodio",
+          "titulo": "Caca Tempestades S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10827759",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j7V3buy3S4JXkafvPCNUlVYI91w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827760",
+          "tipo": "episodio",
+          "titulo": "Caca Tempestades S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10827760",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j7V3buy3S4JXkafvPCNUlVYI91w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827761",
+          "tipo": "episodio",
+          "titulo": "Caca Tempestades S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10827761",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j7V3buy3S4JXkafvPCNUlVYI91w.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10827762",
+          "tipo": "episodio",
+          "titulo": "Caca Tempestades S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10827762",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j7V3buy3S4JXkafvPCNUlVYI91w.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Caça Tempestades",
+  "dataLancamento": "2025-11-05"
+}

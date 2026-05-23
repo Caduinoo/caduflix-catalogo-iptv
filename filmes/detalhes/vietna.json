@@ -1,0 +1,34 @@
+{
+  "id": "vietna",
+  "tipo": "filme",
+  "titulo": "Bom Dia, Vietnã",
+  "ano": null,
+  "descricao": "Convocado pelo exército para transmitir um programa de rádio, Cronauer acaba com a caretice das ondas pasteurizadas da rádio, com suas piadas e os últimos sucessos musicais da América. Os soldados o veneram enquanto as altas patentes o consideram um ultraje.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pOiivkoWYBZIcYXxjhgOZIITpAi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mbgJEkrJ0uBOakLwpufdmW4K8Im.jpg",
+  "tmdbId": 801,
+  "nota": 7.302,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791011,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781667,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Good Morning, Vietnam",
+  "dataLancamento": "1987-12-23"
+}

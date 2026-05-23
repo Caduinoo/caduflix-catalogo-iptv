@@ -1,0 +1,34 @@
+{
+  "id": "esculturas-da-vida",
+  "tipo": "filme",
+  "titulo": "Esculturas da Vida",
+  "ano": null,
+  "descricao": "Uma escultora se prepara para abrir uma nova exposição enquanto tenta equilibrar o trabalho com a vida pessoal. Aos poucos, ela transforma o caos em inspiração.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cA9ihYHlTBfbWKXxjgmVpl7QJGx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wFZ0b8r8pGLubLUFO2SoNGzyRbp.jpg",
+  "tmdbId": 790416,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785820,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772741,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Showing Up",
+  "dataLancamento": "2023-04-07"
+}

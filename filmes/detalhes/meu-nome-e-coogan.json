@@ -1,0 +1,34 @@
+{
+  "id": "meu-nome-e-coogan",
+  "tipo": "filme",
+  "titulo": "Meu Nome é Coogan",
+  "ano": null,
+  "descricao": "Um assistente de xerife do Arizona (Clint Eastwood) vai a Nova York para levar ao seu estado um homem suspeito de assassinato (Don Stroud). Mas, quando o prisioneiro escapa, o policial começa a persegui-lo, com métodos muito pessoais.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cBKhAlp6gdL8oKrT7CeTbH6zOnA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hMw0qFWdHEFMU4YY0OoLvF4gRVJ.jpg",
+  "tmdbId": 26170,
+  "nota": 6.353,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787302,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770087,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Coogan's Bluff",
+  "dataLancamento": "1968-10-02"
+}

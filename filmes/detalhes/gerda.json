@@ -1,0 +1,34 @@
+{
+  "id": "gerda",
+  "tipo": "filme",
+  "titulo": "Gerda",
+  "ano": null,
+  "descricao": "Durante o dia, Lera estuda sociologia em uma pequena universidade. Durante a noite, ela dança em uma boate sob o pseudônimo de Gerda para ajudar sua mãe, que não consegue superar que seu marido a trocou por outra mulher. Lera sonha em melhorar de vida, mas não sabe como.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wb7EF5CSgAgs24bhXoiSsfTI63T.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8TI0xfHwvcBaBtMd3GBuRjmkz0V.jpg",
+  "tmdbId": 656097,
+  "nota": 5.074,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786201,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775509,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Герда",
+  "dataLancamento": "2021-10-14"
+}

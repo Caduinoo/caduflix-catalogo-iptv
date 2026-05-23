@@ -1,0 +1,99 @@
+{
+  "id": "spy-city",
+  "tipo": "serie",
+  "titulo": "Spy City",
+  "ano": null,
+  "descricao": "O agente britânico Fielding Scott (Dominic Cooper) recebe a tarefa de escoltar um cientista da Alemanha Oriental em segurança para o Ocidente, mas a operação é um fiasco e o desertor é assassinado. Certo de que alguém os traiu, Scott tenta descobrir a toupeira num pântano de paranoia e enganos.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vJ8yzWLX5gww7rp8Ivlrf0wP2N5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3E7JFbtap6Vi6hDBiGpH6UI4vjZ.jpg",
+  "tmdbId": 113828,
+  "nota": 7.058,
+  "xtreamSeriesId": 976,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10816030",
+          "tipo": "episodio",
+          "titulo": "Spy City S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10816030",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vJ8yzWLX5gww7rp8Ivlrf0wP2N5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816031",
+          "tipo": "episodio",
+          "titulo": "Spy City S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10816031",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vJ8yzWLX5gww7rp8Ivlrf0wP2N5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816032",
+          "tipo": "episodio",
+          "titulo": "Spy City S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10816032",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vJ8yzWLX5gww7rp8Ivlrf0wP2N5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816033",
+          "tipo": "episodio",
+          "titulo": "Spy City S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10816033",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vJ8yzWLX5gww7rp8Ivlrf0wP2N5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816034",
+          "tipo": "episodio",
+          "titulo": "Spy City S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10816034",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vJ8yzWLX5gww7rp8Ivlrf0wP2N5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816035",
+          "tipo": "episodio",
+          "titulo": "Spy City S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10816035",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vJ8yzWLX5gww7rp8Ivlrf0wP2N5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Spy City",
+  "dataLancamento": "2020-12-03"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "o-jardineiro",
+  "tipo": "serie",
+  "titulo": "O Jardineiro Espanhol",
+  "ano": null,
+  "descricao": "O cônsul Sir Harington Brande é mandado pelo consulado para uma pequena cidade da Espanha. Lá, com o filho Nicholas, passa a residir em um casarão, no alto de um vale, que tem do jardim uma bela vista.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEjFUCTWamMeiQR4AIo9WnEXYiX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
+  "tmdbId": 7596,
+  "nota": 7,
+  "xtreamSeriesId": 4939,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10916326",
+          "tipo": "episodio",
+          "titulo": "O Jardineiro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10916326",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gEjFUCTWamMeiQR4AIo9WnEXYiX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916327",
+          "tipo": "episodio",
+          "titulo": "O Jardineiro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10916327",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gEjFUCTWamMeiQR4AIo9WnEXYiX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916328",
+          "tipo": "episodio",
+          "titulo": "O Jardineiro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10916328",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gEjFUCTWamMeiQR4AIo9WnEXYiX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916329",
+          "tipo": "episodio",
+          "titulo": "O Jardineiro S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10916329",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gEjFUCTWamMeiQR4AIo9WnEXYiX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916330",
+          "tipo": "episodio",
+          "titulo": "O Jardineiro S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10916330",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gEjFUCTWamMeiQR4AIo9WnEXYiX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916331",
+          "tipo": "episodio",
+          "titulo": "O Jardineiro S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10916331",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gEjFUCTWamMeiQR4AIo9WnEXYiX.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "O Jardineiro Espanhol",
+  "dataLancamento": "1967-04-03"
+}

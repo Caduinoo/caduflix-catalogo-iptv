@@ -1,0 +1,34 @@
+{
+  "id": "o-anjo-da-arvore",
+  "tipo": "filme",
+  "titulo": "O Anjo da Árvore",
+  "ano": null,
+  "descricao": "Um escritor busca a identidade da pessoa que ajuda a realizar desejos para aqueles colocados na árvore do anjo e, no processo, se reconecta com sua amiga de infância.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kUcaOwo1AQUrmlHdGbGzI1zi801.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oiz2JFxXwbyyfu2VUZejnak9JyQ.jpg",
+  "tmdbId": 746466,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787846,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770194,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Angel Tree",
+  "dataLancamento": "2020-11-21"
+}

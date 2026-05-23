@@ -1,0 +1,26 @@
+{
+  "id": "nimbe",
+  "tipo": "filme",
+  "titulo": "Nimbe",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AkBBs5dljwtwgHBaHvkP0pH5lOa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zakuyqRkHfQgbjGTa1jmx2eaORG.jpg",
+  "tmdbId": 727263,
+  "nota": 7.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787685,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Nimbe",
+  "dataLancamento": "2019-03-29"
+}

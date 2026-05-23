@@ -1,0 +1,34 @@
+{
+  "id": "horizonte",
+  "tipo": "filme",
+  "titulo": "Horizonte",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NACIONAIS",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xCSjayjll5geQx07inNQ03MAcMt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xQidbT77bH89c2F3OeClzspNb7t.jpg",
+  "tmdbId": 199736,
+  "nota": 5.5,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11039752,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050013,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Horizonte",
+  "dataLancamento": "2012-10-11"
+}

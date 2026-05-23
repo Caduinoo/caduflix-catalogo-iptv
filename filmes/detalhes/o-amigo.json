@@ -1,0 +1,34 @@
+{
+  "id": "o-amigo",
+  "tipo": "filme",
+  "titulo": "O Melhor Amigo",
+  "ano": null,
+  "descricao": "Dois grandes amigos se reencontram após cinco anos. Entre tantas coisas que mudaram, a retomada do vínculo desperta um sentimento antigo para o qual continuam despreparados.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vEhj1fS3hcGgHNEyAEzNi08b1IN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8rEs7cmAM2rmnqmoIYkpldhyOim.jpg",
+  "tmdbId": 1182088,
+  "nota": 7.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787834,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776009,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "O Melhor Amigo",
+  "dataLancamento": "2025-03-13"
+}

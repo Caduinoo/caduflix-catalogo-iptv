@@ -1,0 +1,34 @@
+{
+  "id": "pinky",
+  "tipo": "filme",
+  "titulo": "O Que a Carne Herda",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4KF6DKLq5vVVjLriBnCttJGTiHA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hh33QdKGio3Vdr4dpvP3M7JDZD9.jpg",
+  "tmdbId": 62727,
+  "nota": 7.12,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789049,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777448,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Pinky",
+  "dataLancamento": "1949-09-28"
+}

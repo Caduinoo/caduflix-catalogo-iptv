@@ -1,0 +1,75 @@
+{
+  "id": "barao-40",
+  "tipo": "serie",
+  "titulo": "Barão 40",
+  "ano": null,
+  "descricao": "Quarenta anos após seu início, os fundadores do Barão Vermelho revisitam o repertório e sua história, em um doc-concerto em quatro episódios: hits, blues, clássicos e acústico.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m9X80NGGMk2sp19mDXl5IhWGwJX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ovOOT7TrdHhckJndbH9xFtx1Sir.jpg",
+  "tmdbId": 226023,
+  "nota": null,
+  "xtreamSeriesId": 2895,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10864793",
+          "tipo": "episodio",
+          "titulo": "Barão 40 S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10864793",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m9X80NGGMk2sp19mDXl5IhWGwJX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10864794",
+          "tipo": "episodio",
+          "titulo": "Barão 40 S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10864794",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m9X80NGGMk2sp19mDXl5IhWGwJX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10864795",
+          "tipo": "episodio",
+          "titulo": "Barão 40 S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10864795",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m9X80NGGMk2sp19mDXl5IhWGwJX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10864796",
+          "tipo": "episodio",
+          "titulo": "Barão 40 S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10864796",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/m9X80NGGMk2sp19mDXl5IhWGwJX.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Barão 40",
+  "dataLancamento": "2022-08-13"
+}

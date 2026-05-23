@@ -1,0 +1,63 @@
+{
+  "id": "detetive-belascoaran",
+  "tipo": "serie",
+  "titulo": "Detetive Belascoarán",
+  "ano": null,
+  "descricao": "Héctor Belascoarán larga o emprego e o casamento monótono para virar detetive independente e investigar casos criminosos chocantes na Cidade do México da década de 1970.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8u65ceupHmXaqc8pM8URdNfCP5y.jpg",
+  "tmdbId": 206709,
+  "nota": 7.9,
+  "xtreamSeriesId": 4391,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906149",
+          "tipo": "episodio",
+          "titulo": "Detetive Belascoaran S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906149",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906150",
+          "tipo": "episodio",
+          "titulo": "Detetive Belascoaran S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906150",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906151",
+          "tipo": "episodio",
+          "titulo": "Detetive Belascoaran S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906151",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jmr8YzjWfQzUCbsoxJOXauuc3wb.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Belascoarán",
+  "dataLancamento": "2022-10-12"
+}

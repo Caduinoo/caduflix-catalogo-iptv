@@ -1,0 +1,34 @@
+{
+  "id": "visoes",
+  "tipo": "filme",
+  "titulo": "Visões",
+  "ano": null,
+  "descricao": "Uma brilhante comandante, Estelle, tem uma vida perfeita com o marido Guillaume, um médico renomado. Mas algo está prestes a mudar quando Estelle reencontra Ana, um amor de 20 anos atrás.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ri54sRKimZO0HmzjKnyzUshGZDK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/t0WFxaoKHptUN6MUagdR5xZqf0X.jpg",
+  "tmdbId": 818721,
+  "nota": 5.775,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791048,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780162,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Visions",
+  "dataLancamento": "2023-09-06"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "chacrinha-a-minisserie",
+  "tipo": "serie",
+  "titulo": "Chacrinha: A Minissérie",
+  "ano": null,
+  "descricao": "A minissérie mostra a personalidade mítica do comunicador revolucionário e inovador, que mudou a forma de fazer TV no Brasil; e a do homem por trás do visual irreverente e inconfundível.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sHW9jcFh2jbwgiOxuzVvt5MBiJE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/v3hw8MCBuWUjCmVeHKkzdYmDI66.jpg",
+  "tmdbId": 97739,
+  "nota": 10,
+  "xtreamSeriesId": 5875,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10973837",
+          "tipo": "episodio",
+          "titulo": "Chacrinha - A Minissérie S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10973837",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHW9jcFh2jbwgiOxuzVvt5MBiJE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973838",
+          "tipo": "episodio",
+          "titulo": "Chacrinha - A Minissérie S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10973838",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHW9jcFh2jbwgiOxuzVvt5MBiJE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973839",
+          "tipo": "episodio",
+          "titulo": "Chacrinha - A Minissérie S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10973839",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHW9jcFh2jbwgiOxuzVvt5MBiJE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973840",
+          "tipo": "episodio",
+          "titulo": "Chacrinha - A Minissérie S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10973840",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sHW9jcFh2jbwgiOxuzVvt5MBiJE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Chacrinha: A Minissérie",
+  "dataLancamento": "2020-01-14"
+}

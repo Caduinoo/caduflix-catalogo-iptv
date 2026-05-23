@@ -1,0 +1,123 @@
+{
+  "id": "pluto",
+  "tipo": "serie",
+  "titulo": "PLUTO",
+  "ano": null,
+  "descricao": "Quando os sete robôs mais avançados do mundo e seus aliados humanos são assassinados um a um, o Inspetor Gesicht logo descobre que também está em perigo.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oz3LT9glLNWpSQACnWlIYoSZA5M.jpg",
+  "tmdbId": 91997,
+  "nota": 7.847,
+  "xtreamSeriesId": 5093,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920373",
+          "tipo": "episodio",
+          "titulo": "PLUTO S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920373",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920374",
+          "tipo": "episodio",
+          "titulo": "PLUTO S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920374",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920375",
+          "tipo": "episodio",
+          "titulo": "PLUTO S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920375",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920376",
+          "tipo": "episodio",
+          "titulo": "PLUTO S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920376",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920377",
+          "tipo": "episodio",
+          "titulo": "PLUTO S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10920377",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920378",
+          "tipo": "episodio",
+          "titulo": "PLUTO S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10920378",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920379",
+          "tipo": "episodio",
+          "titulo": "PLUTO S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10920379",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920380",
+          "tipo": "episodio",
+          "titulo": "PLUTO S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10920380",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "PLUTO",
+  "dataLancamento": "2023-10-26"
+}

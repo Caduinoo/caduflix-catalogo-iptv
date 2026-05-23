@@ -1,0 +1,34 @@
+{
+  "id": "festa-no-covil",
+  "tipo": "filme",
+  "titulo": "Festa no Covil",
+  "ano": null,
+  "descricao": "Nesta comédia sombria, um menino criado em um mundo de abundância desfruta de uma vida culta e luxuosa que contrasta com as atividades criminosas do pai.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bMJWHovJJLBRnWX75sO6zRgfOO3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vmLiR6z8Jtd75hzI0W7aYoNsBjd.jpg",
+  "tmdbId": 1155605,
+  "nota": 6.692,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785988,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772793,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Fiesta en la madriguera",
+  "dataLancamento": "2024-04-30"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "o-misterio-das-mortes-de-burari",
+  "tipo": "serie",
+  "titulo": "O Mistério das Mortes de Burari",
+  "ano": null,
+  "descricao": "Suicídio, assassinato... ou outra causa? Esta série documental examina teorias e verdades arrepiantes em torno das mortes de 11 pessoas de uma família indiana.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3swYt3m0WeWkzXImj1a18TafVMm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/e7YjhjWFp9gmYvET6oZZ9Auod5h.jpg",
+  "tmdbId": 133359,
+  "nota": 7.2,
+  "xtreamSeriesId": 4965,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10916662",
+          "tipo": "episodio",
+          "titulo": "O Mistério das Mortes de Burari S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10916662",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3swYt3m0WeWkzXImj1a18TafVMm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916663",
+          "tipo": "episodio",
+          "titulo": "O Mistério das Mortes de Burari S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10916663",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3swYt3m0WeWkzXImj1a18TafVMm.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916664",
+          "tipo": "episodio",
+          "titulo": "O Mistério das Mortes de Burari S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10916664",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3swYt3m0WeWkzXImj1a18TafVMm.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "House of Secrets: The Burari Deaths",
+  "dataLancamento": "2021-10-08"
+}

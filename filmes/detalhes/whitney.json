@@ -1,0 +1,34 @@
+{
+  "id": "whitney",
+  "tipo": "filme",
+  "titulo": "Whitney",
+  "ano": null,
+  "descricao": "Whitney Houston foi a primeira cantora solo a atingir sete vezes consecutivas o topo das paradas americanas, além de ter seus discos vendidos mais de 200 milhões de vezes. Por trás da fama e carreira estrondosa, existia, no entanto, uma mulher tomada por traumas e vícios que, combinados a uma série de rumores e escândalos propagados pela mídia, arruinaram não só sua profissão, mas principalmente sua vida pessoal.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/j1c6dTycYBMZs2T1wKA6bknLLa6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2i1p4MGPr5yaAhB1vY6ssQjhwPT.jpg",
+  "tmdbId": 507256,
+  "nota": 7.305,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791138,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780164,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Whitney",
+  "dataLancamento": "2018-07-05"
+}

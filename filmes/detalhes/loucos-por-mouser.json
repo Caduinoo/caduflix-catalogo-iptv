@@ -1,0 +1,34 @@
+{
+  "id": "loucos-por-mouser",
+  "tipo": "filme",
+  "titulo": "Loucos por Mouser",
+  "ano": null,
+  "descricao": "A fantasia vira realidade quando um designer de brinquedos que mora no porão da casa da mãe decide descobrir quem matou seu gato.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4EvO8g1Mx2qOHkNpW27lSBKujH9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iz8YQQjY5hrIeO1ru8V0F26kt6G.jpg",
+  "tmdbId": 266718,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787018,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779800,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Murder of a Cat",
+  "dataLancamento": "2014-04-24"
+}

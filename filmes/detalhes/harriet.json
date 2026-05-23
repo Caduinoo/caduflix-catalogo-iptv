@@ -1,0 +1,34 @@
+{
+  "id": "harriet",
+  "tipo": "filme",
+  "titulo": "Harriet",
+  "ano": null,
+  "descricao": "A história de Harriet Tubman, ativista política que, durante a Guerra Civil americana, ajudou centenas de escravos a fugirem do sul dos Estados Unidos, logo depois que ela mesma tivesse conseguido escapar da escravidão, no ano de 1849. Suas ações contribuíram fortemente para que a história tomasse um novo direcionamento.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xfW1t2gb5ObNLJbGX9aEfR9w4s8.jpg",
+  "tmdbId": 506528,
+  "nota": 7.31,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786349,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775555,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Harriet",
+  "dataLancamento": "2019-11-01"
+}

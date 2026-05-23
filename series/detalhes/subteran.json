@@ -1,0 +1,99 @@
+{
+  "id": "subteran",
+  "tipo": "serie",
+  "titulo": "Subteran",
+  "ano": null,
+  "descricao": "A vida de uma jovem mãe muda de rumo quando ela precisa usar uma identidade secreta para fugir da gangue responsável pela morte de seu noivo.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/n3WlHyzj9zOQdKkO2qGiRxTJqNV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sbBiDH41uDR2PlRtdCYT5c3inyp.jpg",
+  "tmdbId": 277805,
+  "nota": 6.725,
+  "xtreamSeriesId": 5289,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10923905",
+          "tipo": "episodio",
+          "titulo": "Subteran S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10923905",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n3WlHyzj9zOQdKkO2qGiRxTJqNV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923906",
+          "tipo": "episodio",
+          "titulo": "Subteran S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10923906",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n3WlHyzj9zOQdKkO2qGiRxTJqNV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923907",
+          "tipo": "episodio",
+          "titulo": "Subteran S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10923907",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n3WlHyzj9zOQdKkO2qGiRxTJqNV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923908",
+          "tipo": "episodio",
+          "titulo": "Subteran S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10923908",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n3WlHyzj9zOQdKkO2qGiRxTJqNV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923909",
+          "tipo": "episodio",
+          "titulo": "Subteran S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10923909",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n3WlHyzj9zOQdKkO2qGiRxTJqNV.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10923910",
+          "tipo": "episodio",
+          "titulo": "Subteran S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10923910",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/n3WlHyzj9zOQdKkO2qGiRxTJqNV.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Subteran",
+  "dataLancamento": "2025-01-08"
+}

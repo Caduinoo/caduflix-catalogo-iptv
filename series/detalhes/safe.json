@@ -1,0 +1,123 @@
+{
+  "id": "safe",
+  "tipo": "serie",
+  "titulo": "Safe",
+  "ano": null,
+  "descricao": "Após o desaparecimento de sua filha mais velha, um cirurgião viúvo faz descobertas terríveis sobre pessoas bem próximas.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ctvZVrJBRjOgLeQtLaNEbg9w0y8.jpg",
+  "tmdbId": 72792,
+  "nota": 6.893,
+  "xtreamSeriesId": 5190,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921935",
+          "tipo": "episodio",
+          "titulo": "Safe S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921935",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921936",
+          "tipo": "episodio",
+          "titulo": "Safe S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921936",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921937",
+          "tipo": "episodio",
+          "titulo": "Safe S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10921937",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921938",
+          "tipo": "episodio",
+          "titulo": "Safe S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921938",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921939",
+          "tipo": "episodio",
+          "titulo": "Safe S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10921939",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921940",
+          "tipo": "episodio",
+          "titulo": "Safe S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10921940",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921941",
+          "tipo": "episodio",
+          "titulo": "Safe S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10921941",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921942",
+          "tipo": "episodio",
+          "titulo": "Safe S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10921942",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lrA2SSoWp3zzb0MBdjWKCVN0qEF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Safe",
+  "dataLancamento": "2018-05-10"
+}

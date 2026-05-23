@@ -1,0 +1,34 @@
+{
+  "id": "a-negociadora",
+  "tipo": "filme",
+  "titulo": "A Negociadora",
+  "ano": null,
+  "descricao": "Após o assassinato de suas amigas no Marrocos, uma mercenária russa decide fazer sua própria justiça e passa a caçar, um a um, os responsáveis pelo crime.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w6ffHjnN1XYgLYb5VNTnmOLUUY1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2EYZgQCo9MNty5Nc6swTgzFYJUs.jpg",
+  "tmdbId": 877619,
+  "nota": 4.42,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783674,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769184,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Moderator",
+  "dataLancamento": "2022-07-29"
+}

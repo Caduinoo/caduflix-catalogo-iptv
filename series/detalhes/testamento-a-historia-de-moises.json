@@ -1,0 +1,63 @@
+{
+  "id": "testamento-a-historia-de-moises",
+  "tipo": "serie",
+  "titulo": "Testamento: A História de Moisés",
+  "ano": null,
+  "descricao": "Esta série documental conta como foi a incrível vida de Moisés como príncipe, profeta e muito mais, com perspectivas de teólogos e historiadores.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uVfRj5YElE42h4xBq1IyLnH9YTT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tKoO0zhN4ukIdCTWY1QNmYNsIHN.jpg",
+  "tmdbId": 247441,
+  "nota": 7.328,
+  "xtreamSeriesId": 5324,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10925312",
+          "tipo": "episodio",
+          "titulo": "Testamento A Historia de Moises S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10925312",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uVfRj5YElE42h4xBq1IyLnH9YTT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925313",
+          "tipo": "episodio",
+          "titulo": "Testamento A Historia de Moises S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10925313",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uVfRj5YElE42h4xBq1IyLnH9YTT.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925314",
+          "tipo": "episodio",
+          "titulo": "Testamento A Historia de Moises S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10925314",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uVfRj5YElE42h4xBq1IyLnH9YTT.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Testament: The Story of Moses",
+  "dataLancamento": "2024-03-27"
+}

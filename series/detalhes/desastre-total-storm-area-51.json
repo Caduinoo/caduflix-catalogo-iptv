@@ -1,0 +1,51 @@
+{
+  "id": "desastre-total-storm-area-51",
+  "tipo": "serie",
+  "titulo": "Desastre Total: Storm Area 51",
+  "ano": null,
+  "descricao": "Uma piada que viralizou sobre invadir uma base secreta da Força Aérea dos EUA gera um frenesi movido a memes e deixa os militares em alerta nesta história real bizarra.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xUSRQpmaWTaT1TEpC8CtHQ5yflA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1jpNFnYT7eT4P86yD6qUGqnNlQp.jpg",
+  "tmdbId": 297010,
+  "nota": 6.188,
+  "xtreamSeriesId": 4385,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906122",
+          "tipo": "episodio",
+          "titulo": "Desastre Total Storm Area 51 S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906122",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xUSRQpmaWTaT1TEpC8CtHQ5yflA.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906123",
+          "tipo": "episodio",
+          "titulo": "Desastre Total Storm Area 51 S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906123",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xUSRQpmaWTaT1TEpC8CtHQ5yflA.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "Trainwreck: Storm Area 51",
+  "dataLancamento": "2025-07-29"
+}

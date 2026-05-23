@@ -1,0 +1,34 @@
+{
+  "id": "resgate",
+  "tipo": "filme",
+  "titulo": "Resgate",
+  "ano": null,
+  "descricao": "Em Bangladesh, o mercenário Tyler Rake luta para sobreviver durante uma missão para resgatar o filho de um chefão do crime.",
+  "generos": [
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/LpYZMkgi7daTF1P1AxLVqqlyov.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
+  "tmdbId": 545609,
+  "nota": 7.293,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776638,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782899,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Extraction",
+  "dataLancamento": "2020-04-23"
+}

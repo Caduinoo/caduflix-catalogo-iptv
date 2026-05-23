@@ -1,0 +1,34 @@
+{
+  "id": "the-group",
+  "tipo": "filme",
+  "titulo": "O Grupo",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4oeVm3Tg24mf04D8IxZbh5mjLRt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ucSm33teUWa7Xm09qy6oygojnwu.jpg",
+  "tmdbId": 84278,
+  "nota": 5.734,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790187,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781517,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "The Group",
+  "dataLancamento": "1966-03-04"
+}

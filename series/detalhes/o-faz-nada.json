@@ -1,0 +1,87 @@
+{
+  "id": "o-faz-nada",
+  "tipo": "serie",
+  "titulo": "O Faz Nada",
+  "ano": null,
+  "descricao": "Manuel é um sofisticado crítico gastronômico de Buenos Aires, provocador e amante da arte, que, apesar de ser uma figura emblemática da cultura portenha, ficou sem dinheiro graças a uma vida de desperdício para manter seu estilo confortável.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4aO8Im1WR7Jg4BtAed11ETKwFW2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/p3iKi7aaD2bbpftrZpSshGEvajr.jpg",
+  "tmdbId": 201413,
+  "nota": 7.514,
+  "xtreamSeriesId": 1958,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10843925",
+          "tipo": "episodio",
+          "titulo": "O Faz Nada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10843925",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4aO8Im1WR7Jg4BtAed11ETKwFW2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10843926",
+          "tipo": "episodio",
+          "titulo": "O Faz Nada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10843926",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4aO8Im1WR7Jg4BtAed11ETKwFW2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10843927",
+          "tipo": "episodio",
+          "titulo": "O Faz Nada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10843927",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4aO8Im1WR7Jg4BtAed11ETKwFW2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10843928",
+          "tipo": "episodio",
+          "titulo": "O Faz Nada S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10843928",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4aO8Im1WR7Jg4BtAed11ETKwFW2.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10843929",
+          "tipo": "episodio",
+          "titulo": "O Faz Nada S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10843929",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4aO8Im1WR7Jg4BtAed11ETKwFW2.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Nada",
+  "dataLancamento": "2023-10-11"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "tamanho-real",
+  "tipo": "filme",
+  "titulo": "Tamanho Real",
+  "ano": null,
+  "descricao": "Lenore é uma adolescente plus size, insegura e com um grande talento para a moda. E, embora suas inseguranças a impeçam de usar suas próprias criações, seu talento a coloca sob os holofotes - e na mira de valentões e novos amigos.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4SLhCmYWNiHpfXWFLQLKSgrMmSS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/64e7pAhWWkls8BJAyNOpjom7256.jpg",
+  "tmdbId": 1048923,
+  "nota": 7.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034031,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034021,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050089,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Empire Waist",
+  "dataLancamento": "2024-09-27"
+}

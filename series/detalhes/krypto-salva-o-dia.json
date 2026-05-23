@@ -1,0 +1,60 @@
+{
+  "id": "krypto-salva-o-dia",
+  "tipo": "serie",
+  "titulo": "Krypto Salva o Dia",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 3625,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10890713",
+          "tipo": "episodio",
+          "titulo": "Krypto Salva o Dia S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10890713",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2emo8BnYYx8IBIO3aOxksJgnZMJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10890714",
+          "tipo": "episodio",
+          "titulo": "Krypto Salva o Dia S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10890714",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2emo8BnYYx8IBIO3aOxksJgnZMJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10890715",
+          "tipo": "episodio",
+          "titulo": "Krypto Salva o Dia S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10890715",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2emo8BnYYx8IBIO3aOxksJgnZMJ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3
+}

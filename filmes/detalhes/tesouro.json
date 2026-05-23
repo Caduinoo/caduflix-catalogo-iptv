@@ -1,0 +1,34 @@
+{
+  "id": "tesouro",
+  "tipo": "filme",
+  "titulo": "O Tesouro de Sarah",
+  "ano": null,
+  "descricao": "Uma jovem afro-americana, nascida no início do século XX, acredita que há petróleo em suas terras, e a intuição se confirma. Mas, quando chegam exploradores sem escrúpulos, ela precisa recorrer à sua família e a perfuradores independentes para manter o controle das terras.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vHIPqxm9qYMbXWkhSoFiGLraFvD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/43vbVQDJlY7VoY3VPo8MipicxXk.jpg",
+  "tmdbId": 1325678,
+  "nota": 7.789,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790084,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776855,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Sarah's Oil",
+  "dataLancamento": "2025-11-06"
+}

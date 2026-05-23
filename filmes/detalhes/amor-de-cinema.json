@@ -1,0 +1,34 @@
+{
+  "id": "amor-de-cinema",
+  "tipo": "filme",
+  "titulo": "Cinema de Amor",
+  "ano": null,
+  "descricao": "Casal de cineastas gays tenta sobreviver em um contexto de ascensão da extrema-direita no Brasil.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xmGYDkZOn9NYiy9Uc2cgSlFQT4P.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bxLKVDthpUK8br4jyEb9jMYaYeP.jpg",
+  "tmdbId": 762462,
+  "nota": 1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784122,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779030,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Cinema de Amor",
+  "dataLancamento": "2019-11-02"
+}

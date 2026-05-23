@@ -1,0 +1,63 @@
+{
+  "id": "fim-das-nacoes",
+  "tipo": "serie",
+  "titulo": "Fim das Nações",
+  "ano": null,
+  "descricao": "O que significa o século americano e por que ele pode estar chegando ao fim? A trilogia \"Fim das Nações\" te ajudará a entender a política internacional e a relação entre três grandes potências: Estados Unidos, China e Rússia.",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/z0EWZS5FtSTh5KmVAmcrzNP1HCj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2JuUbId0Kh9XxHgMV0YP57bKRJp.jpg",
+  "tmdbId": 211790,
+  "nota": 10,
+  "xtreamSeriesId": 1035,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817179",
+          "tipo": "episodio",
+          "titulo": "Fim Das Nações S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817179",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z0EWZS5FtSTh5KmVAmcrzNP1HCj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817180",
+          "tipo": "episodio",
+          "titulo": "Fim Das Nações S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817180",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z0EWZS5FtSTh5KmVAmcrzNP1HCj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817181",
+          "tipo": "episodio",
+          "titulo": "Fim Das Nações S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817181",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/z0EWZS5FtSTh5KmVAmcrzNP1HCj.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Fim das Nações",
+  "dataLancamento": "2020-10-03"
+}

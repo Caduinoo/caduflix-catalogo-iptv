@@ -1,0 +1,99 @@
+{
+  "id": "rumo-as-estrelas",
+  "tipo": "serie",
+  "titulo": "Rumo às Estrelas",
+  "ano": null,
+  "descricao": "A série segue Chris e toda a equipe que assume missões que arriscam a vida, membros e reputação pelo bem maior da humanidade. Junte-se a eles à medida que suas missões se desenvolvem.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/d2i50h29kl72iLhMsCSqvhf5lbd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/r2bRI4Lb7R4hejHRWB0zwd0ucRr.jpg",
+  "tmdbId": 133637,
+  "nota": 7.1,
+  "xtreamSeriesId": 2033,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10846398",
+          "tipo": "episodio",
+          "titulo": "Rumo às Estrelas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10846398",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d2i50h29kl72iLhMsCSqvhf5lbd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846399",
+          "tipo": "episodio",
+          "titulo": "Rumo às Estrelas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10846399",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d2i50h29kl72iLhMsCSqvhf5lbd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846400",
+          "tipo": "episodio",
+          "titulo": "Rumo às Estrelas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10846400",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d2i50h29kl72iLhMsCSqvhf5lbd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846401",
+          "tipo": "episodio",
+          "titulo": "Rumo às Estrelas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10846401",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d2i50h29kl72iLhMsCSqvhf5lbd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846402",
+          "tipo": "episodio",
+          "titulo": "Rumo às Estrelas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10846402",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d2i50h29kl72iLhMsCSqvhf5lbd.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10846403",
+          "tipo": "episodio",
+          "titulo": "Rumo às Estrelas S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10846403",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/d2i50h29kl72iLhMsCSqvhf5lbd.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Among the Stars",
+  "dataLancamento": "2021-10-06"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "meu-trabalho-no-cafe-yuri",
+  "tipo": "serie",
+  "titulo": "Meu Trabalho no Café Yuri",
+  "ano": null,
+  "descricao": "Hime é uma jovem que arranja um bico numa cafeteria muito estranha, onde as funcionárias fingem ser estudantes de um internato feminino. Ela se apaixona por sua colega de trabalho Mitsuki, que é sempre muito gentil com ela na frente dos outros clientes. Só tem um problema: a Mitsuki simplesmente não suporta a Hime!",
+  "generos": [
+    "ANIMES"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/Ac96k19TTO7KBdn3JigaagJHjvQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dWktdVHGKykJEGMc3Ex3aBfQq4d.jpg",
+  "tmdbId": 201949,
+  "nota": 6.172,
+  "xtreamSeriesId": 1152,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10820276",
+          "tipo": "episodio",
+          "titulo": "Meu Trabalho no Café Yuri S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10820276",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/Ac96k19TTO7KBdn3JigaagJHjvQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "私の百合はお仕事です！",
+  "dataLancamento": "2023-04-06"
+}

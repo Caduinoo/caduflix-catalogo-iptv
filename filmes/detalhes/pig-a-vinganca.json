@@ -1,0 +1,34 @@
+{
+  "id": "pig-a-vinganca",
+  "tipo": "filme",
+  "titulo": "Pig: A Vingança",
+  "ano": null,
+  "descricao": "Um caçador, que vive sozinho no deserto no Oregon, tem seu porco forrageiro sequestrado. Agora, ele deve viajar para Portland e revisitar seu passado, há muito abandonado, para recuperar seu melhor amigo.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ldSc98XLtjCSVPhzYjsFSJZlxux.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uFvueAhlKsXQacjiKxGBgnBqarf.jpg",
+  "tmdbId": 635731,
+  "nota": 6.626,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789040,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776500,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Pig",
+  "dataLancamento": "2021-07-16"
+}

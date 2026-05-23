@@ -1,0 +1,111 @@
+{
+  "id": "a-setima-arte",
+  "tipo": "serie",
+  "titulo": "A Sétima Arte",
+  "ano": null,
+  "descricao": "O último século restabeleceu a relação do homem com a arte. O cinema surgiu como a mais presente e disseminada forma de entreter, inspirar e educar informalmente as pessoas.  Com o aumento do consumo de filmes e séries, será que estamos cientes do impacto da Sétima Arte em nossas vidas?",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/syIud9KHZGtNjxD0ALTAa8WCUMs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/i2x0ZcanNEu6oB1nEGzx3ZpJI4V.jpg",
+  "tmdbId": 213118,
+  "nota": 10,
+  "xtreamSeriesId": 1024,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10816970",
+          "tipo": "episodio",
+          "titulo": "A Sétima Arte S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10816970",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/syIud9KHZGtNjxD0ALTAa8WCUMs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816971",
+          "tipo": "episodio",
+          "titulo": "A Sétima Arte S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10816971",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/syIud9KHZGtNjxD0ALTAa8WCUMs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816972",
+          "tipo": "episodio",
+          "titulo": "A Sétima Arte S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10816972",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/syIud9KHZGtNjxD0ALTAa8WCUMs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816973",
+          "tipo": "episodio",
+          "titulo": "A Sétima Arte S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10816973",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/syIud9KHZGtNjxD0ALTAa8WCUMs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816974",
+          "tipo": "episodio",
+          "titulo": "A Sétima Arte S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10816974",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/syIud9KHZGtNjxD0ALTAa8WCUMs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816975",
+          "tipo": "episodio",
+          "titulo": "A Sétima Arte S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10816975",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/syIud9KHZGtNjxD0ALTAa8WCUMs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10816976",
+          "tipo": "episodio",
+          "titulo": "A Sétima Arte S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10816976",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/syIud9KHZGtNjxD0ALTAa8WCUMs.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "A Sétima Arte",
+  "dataLancamento": "2021-11-07"
+}

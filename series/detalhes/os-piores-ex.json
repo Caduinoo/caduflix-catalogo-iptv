@@ -1,0 +1,75 @@
+{
+  "id": "os-piores-ex",
+  "tipo": "serie",
+  "titulo": "Os Piores Ex",
+  "ano": null,
+  "descricao": "De traições assustadoras até assassinatos, esta série documental de crimes reais esmiúça o lado sombrio do amor por meio de depoimentos de testemunhas.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/92QUDVsbIsgomngpBGg7ed68AE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dlM1JVL3TGHYaNvaRrxuHZLXLLy.jpg",
+  "tmdbId": 259259,
+  "nota": 7.776,
+  "xtreamSeriesId": 5053,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10919239",
+          "tipo": "episodio",
+          "titulo": "Os Piores Ex S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10919239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/92QUDVsbIsgomngpBGg7ed68AE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919240",
+          "tipo": "episodio",
+          "titulo": "Os Piores Ex S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10919240",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/92QUDVsbIsgomngpBGg7ed68AE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919241",
+          "tipo": "episodio",
+          "titulo": "Os Piores Ex S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10919241",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/92QUDVsbIsgomngpBGg7ed68AE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10919242",
+          "tipo": "episodio",
+          "titulo": "Os Piores Ex S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10919242",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/92QUDVsbIsgomngpBGg7ed68AE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Worst Ex Ever",
+  "dataLancamento": "2024-08-28"
+}

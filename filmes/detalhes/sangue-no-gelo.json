@@ -1,0 +1,34 @@
+{
+  "id": "sangue-no-gelo",
+  "tipo": "filme",
+  "titulo": "Sangue no Gelo",
+  "ano": null,
+  "descricao": "O detetive Jack Halcombe está investigando os crimes de Robert Hansen, um assassino em série que, há 13 anos, tem espalhado terror pelas ruas da cidade de Anchorage, no Alasca. Ele já sequestrou mais de 20 mulheres e as deixou na mata, só pelo prazer doentio de caçá-las. Cindy Paulson, uma jovem de 17 anos, consegue escapar das garras de Hansen e resolve ajudar o detetive Halcombe a prender o assassino.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/r4vU0m1u0qA13w80SCz18XPQIhW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xLW4UQ4zYf7fHrei9pqx4fJsfKy.jpg",
+  "tmdbId": 199373,
+  "nota": 6.277,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789582,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780053,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "The Frozen Ground",
+  "dataLancamento": "2013-07-11"
+}

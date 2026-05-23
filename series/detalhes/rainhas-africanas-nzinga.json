@@ -1,0 +1,75 @@
+{
+  "id": "rainhas-africanas-nzinga",
+  "tipo": "serie",
+  "titulo": "Rainhas Africanas: Nzinga",
+  "ano": null,
+  "descricao": "Combinando dramatização e documentário, esta série mostra a ascensão e o reinado da rainha Nzinga de Angola em meio a traições familiares e rivalidades políticas.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jUkRE6K3N70JH9u2DLHjAVXhtLE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6ZRNwdtjQN4MSS8MaudvTx1ZdOh.jpg",
+  "tmdbId": 218804,
+  "nota": 5.9,
+  "xtreamSeriesId": 5145,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10921111",
+          "tipo": "episodio",
+          "titulo": "Rainhas Africanas Nzinga S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10921111",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jUkRE6K3N70JH9u2DLHjAVXhtLE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921112",
+          "tipo": "episodio",
+          "titulo": "Rainhas Africanas Nzinga S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10921112",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jUkRE6K3N70JH9u2DLHjAVXhtLE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921113",
+          "tipo": "episodio",
+          "titulo": "Rainhas Africanas Nzinga S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10921113",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jUkRE6K3N70JH9u2DLHjAVXhtLE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10921114",
+          "tipo": "episodio",
+          "titulo": "Rainhas Africanas Nzinga S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10921114",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jUkRE6K3N70JH9u2DLHjAVXhtLE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "African Queens: Njinga",
+  "dataLancamento": "2023-02-15"
+}

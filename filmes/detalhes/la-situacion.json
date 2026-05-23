@@ -1,0 +1,34 @@
+{
+  "id": "la-situacion",
+  "tipo": "filme",
+  "titulo": "La Situación",
+  "ano": null,
+  "descricao": "Três amigas em busca de uma misteriosa herança na Argentina. Elas passam por uma sequência de perrengues e situações perigosas e ao mesmo tempo hilárias, ao se envolverem sem saber com traficantes locais.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3BNqD7CtGlEjwbSshW5cPAc3Qec.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qtybzU94tE1yD3SwpsKjo1J6e0c.jpg",
+  "tmdbId": 1004294,
+  "nota": 6.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786862,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772973,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "La Situación",
+  "dataLancamento": "2023-03-23"
+}

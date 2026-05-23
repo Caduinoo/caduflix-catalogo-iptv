@@ -1,0 +1,34 @@
+{
+  "id": "verdade-ou-desafio",
+  "tipo": "filme",
+  "titulo": "Verdade ou Desafio",
+  "ano": null,
+  "descricao": "Olivia, Lucas e um grupo de amigos viajam ao México como uma despedida antes da formatura. Lá, um estranho convence um dos estudantes a jogar um aparentemente inofensivo jogo de verdade ou desafio com os outros. Ao começar, o jogo desperta algo maligno - um demônio que força os amigos a compartilharem segredos sombrios e confrontarem seus medos mais profundos. A regra é simples, porém cruel: fale a verdade ou morra, faça o desafio ou morra, e se parar de jogar, também morre.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oEIeZE4oBSTKjBMxQWNdGdI13a0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eQ5xu2pQ5Kergubto5PbbUzey28.jpg",
+  "tmdbId": 460019,
+  "nota": 5.938,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790962,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780151,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Truth or Dare",
+  "dataLancamento": "2018-04-12"
+}

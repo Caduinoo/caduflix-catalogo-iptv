@@ -1,0 +1,34 @@
+{
+  "id": "o-trem-bala",
+  "tipo": "filme",
+  "titulo": "O Trem Bala",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xbfU1ivnFAPe0pzUNumV5n2XiBs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rD4ktz5ycjXos7fCk6oMrUx6Lbj.jpg",
+  "tmdbId": 47634,
+  "nota": 6.841,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788555,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770396,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "新幹線大爆破",
+  "dataLancamento": "1975-07-05"
+}

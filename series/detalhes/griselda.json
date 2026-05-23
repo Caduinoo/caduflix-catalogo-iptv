@@ -1,0 +1,99 @@
+{
+  "id": "griselda",
+  "tipo": "serie",
+  "titulo": "Griselda",
+  "ano": null,
+  "descricao": "Inspirado em eventos reais, este drama fictício retrata a jornada de Griselda Blanco desde Medelín até se tornar a \"Madrinha\" do império do tráfico de drogas de Miami.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nj06Yo0yVzI7jx6novjyGOyNQKC.jpg",
+  "tmdbId": 137893,
+  "nota": 7.3,
+  "xtreamSeriesId": 4569,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10909031",
+          "tipo": "episodio",
+          "titulo": "Griselda S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10909031",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909032",
+          "tipo": "episodio",
+          "titulo": "Griselda S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10909032",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909033",
+          "tipo": "episodio",
+          "titulo": "Griselda S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10909033",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909034",
+          "tipo": "episodio",
+          "titulo": "Griselda S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10909034",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909035",
+          "tipo": "episodio",
+          "titulo": "Griselda S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10909035",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10909036",
+          "tipo": "episodio",
+          "titulo": "Griselda S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10909036",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Griselda",
+  "dataLancamento": "2024-01-25"
+}

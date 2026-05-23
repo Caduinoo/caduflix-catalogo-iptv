@@ -1,0 +1,34 @@
+{
+  "id": "harold",
+  "tipo": "filme",
+  "titulo": "Harold",
+  "ano": null,
+  "descricao": "Um adolescente com um início precoce de calvície masculina faz amizade com o zelador do ensino médio.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iGM5plNRXY6ORJVK1ovf2sALNlx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/arNnHbtaPyfyBumPkeXZ6CK5aUL.jpg",
+  "tmdbId": 13578,
+  "nota": 5.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786344,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772873,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Harold",
+  "dataLancamento": "2008-07-13"
+}

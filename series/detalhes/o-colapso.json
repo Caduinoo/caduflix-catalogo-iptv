@@ -1,0 +1,39 @@
+{
+  "id": "o-colapso",
+  "tipo": "serie",
+  "titulo": "O Colapso",
+  "ano": null,
+  "descricao": "Acontecimentos dos quais desconhecemos as causas e origens, provocam o colapso da sociedade. Este é o gatilho que desencadeia um conjunto de histórias em diferentes locais, nascidas de perspectivas díspares, tendo como fio condutor o desespero de quem tenta sobreviver a qualquer custo.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2DKwGBkRxIy04rkcG8lLV1N7OdB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bmbIyOjzvbMyvbYX4zpY8GUa2fh.jpg",
+  "tmdbId": 95324,
+  "nota": 7.931,
+  "xtreamSeriesId": 6172,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10983429",
+          "tipo": "episodio",
+          "titulo": "O Colapso S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10983429",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2DKwGBkRxIy04rkcG8lLV1N7OdB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 1,
+  "tituloOriginal": "L'Effondrement",
+  "dataLancamento": "2019-11-11"
+}

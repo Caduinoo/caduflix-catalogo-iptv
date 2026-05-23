@@ -1,0 +1,75 @@
+{
+  "id": "sobrevivendo-a-jeffrey-epstein",
+  "tipo": "serie",
+  "titulo": "Sobrevivendo a Jeffrey Epstein",
+  "ano": null,
+  "descricao": "Sobreviventes dos abusos cometidos pelo multimilionário Jeffrey Epstein relatam suas histórias.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3BZS3xqniTSkAMjmvIAWsnaVZp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gELEpFvVT73EKoRVBDn8wjXXqZR.jpg",
+  "tmdbId": 106282,
+  "nota": 5,
+  "xtreamSeriesId": 6339,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10988417",
+          "tipo": "episodio",
+          "titulo": "Sobrevivendo a Jeffrey Epstein S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10988417",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3BZS3xqniTSkAMjmvIAWsnaVZp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988418",
+          "tipo": "episodio",
+          "titulo": "Sobrevivendo a Jeffrey Epstein S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10988418",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3BZS3xqniTSkAMjmvIAWsnaVZp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988419",
+          "tipo": "episodio",
+          "titulo": "Sobrevivendo a Jeffrey Epstein S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10988419",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3BZS3xqniTSkAMjmvIAWsnaVZp.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988420",
+          "tipo": "episodio",
+          "titulo": "Sobrevivendo a Jeffrey Epstein S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10988420",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/3BZS3xqniTSkAMjmvIAWsnaVZp.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Surviving Jeffrey Epstein",
+  "dataLancamento": "2020-08-09"
+}

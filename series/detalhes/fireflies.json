@@ -1,0 +1,122 @@
+{
+  "id": "fireflies",
+  "tipo": "serie",
+  "titulo": "Fireflies",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xAD0lsaQc8uUXvBCHnvQA0bA1u6.jpg",
+  "tmdbId": 16841,
+  "nota": 8,
+  "xtreamSeriesId": 292,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10798670",
+          "tipo": "episodio",
+          "titulo": "Fireflies S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10798670",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xAD0lsaQc8uUXvBCHnvQA0bA1u6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798671",
+          "tipo": "episodio",
+          "titulo": "Fireflies S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10798671",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xAD0lsaQc8uUXvBCHnvQA0bA1u6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798672",
+          "tipo": "episodio",
+          "titulo": "Fireflies S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10798672",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xAD0lsaQc8uUXvBCHnvQA0bA1u6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798673",
+          "tipo": "episodio",
+          "titulo": "Fireflies S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10798673",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xAD0lsaQc8uUXvBCHnvQA0bA1u6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798674",
+          "tipo": "episodio",
+          "titulo": "Fireflies S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10798674",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xAD0lsaQc8uUXvBCHnvQA0bA1u6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798675",
+          "tipo": "episodio",
+          "titulo": "Fireflies S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10798675",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xAD0lsaQc8uUXvBCHnvQA0bA1u6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798676",
+          "tipo": "episodio",
+          "titulo": "Fireflies S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10798676",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xAD0lsaQc8uUXvBCHnvQA0bA1u6.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10798677",
+          "tipo": "episodio",
+          "titulo": "Fireflies S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10798677",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xAD0lsaQc8uUXvBCHnvQA0bA1u6.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Fireflies",
+  "dataLancamento": "2004-02-01"
+}

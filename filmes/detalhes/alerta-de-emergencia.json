@@ -1,0 +1,34 @@
+{
+  "id": "alerta-de-emergencia",
+  "tipo": "filme",
+  "titulo": "Alerta de Emergência",
+  "ano": null,
+  "descricao": "Um homem misterioso embarca num avião com destino ao Havaí. Com o iminente ataque e enquanto o medo se espalha a bordo, as forças antiterrorismo tentam pousar o avião.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/E6ShgX7LL02hDqoKpK79M5HBzv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fI8hv1IqWUIUjx4YRfl6TWhdqHW.jpg",
+  "tmdbId": 626872,
+  "nota": 7.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784007,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769250,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "비상선언",
+  "dataLancamento": "2022-08-03"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "blondi",
+  "tipo": "filme",
+  "titulo": "Blondi",
+  "ano": null,
+  "descricao": "Blondi e Mirko são melhores amigos. Adoram viver juntos, ouvem as mesmas músicas, assistem aos mesmos filmes,ir a concertos, têm os mesmos amigos, tudo é perfeito entre eles… mas, embora parecem quase da mesma idade, Blondi é a mãe de Mirko.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dYzPbnxHB6Z5Opw6RESQepT7GBB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/91aka8N8LQL0tAkaiStbTtciejP.jpg",
+  "tmdbId": 982502,
+  "nota": 6.675,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784653,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772382,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Blondi",
+  "dataLancamento": "2023-06-01"
+}

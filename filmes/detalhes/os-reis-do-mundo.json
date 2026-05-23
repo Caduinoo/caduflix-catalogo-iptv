@@ -1,0 +1,34 @@
+{
+  "id": "os-reis-do-mundo",
+  "tipo": "filme",
+  "titulo": "Os Reis do Mundo",
+  "ano": null,
+  "descricao": "Cinco amigos deixam as ruas de Medellín e embarcam em uma jornada perigosa pela Colômbia para recuperar um terreno deixado pela avó de um deles.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/s4QmLssxhPS9BlUvUQFvyZnv91a.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rkUAAoBXsqlegp8bLTLZSIsRZbg.jpg",
+  "tmdbId": 848112,
+  "nota": 7.593,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788835,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776425,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Los reyes del mundo",
+  "dataLancamento": "2022-10-13"
+}

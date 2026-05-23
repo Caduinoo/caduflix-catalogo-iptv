@@ -1,0 +1,34 @@
+{
+  "id": "private-lesson",
+  "tipo": "filme",
+  "titulo": "Chuck Norris: Private Lesson",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/stoD62pKod77nbTWqqqiNurRbf0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pgTR86jfhkGBJ77RCCoeaJE22Cg.jpg",
+  "tmdbId": 274315,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789169,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776538,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Chuck Norris: Private Lesson",
+  "dataLancamento": "1997-01-01"
+}

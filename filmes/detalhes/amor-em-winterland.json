@@ -1,0 +1,34 @@
+{
+  "id": "amor-em-winterland",
+  "tipo": "filme",
+  "titulo": "Amor em Winterland",
+  "ano": null,
+  "descricao": "Ally, uma finalista em um programa de namoro, deve enfrentar seu namorado do colégio quando ela é escolhida para um encontro em sua cidade natal.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fsz2G4zwjsRMdhod6L9ZRS7ILvO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lCwreSN077FKOciOttNxlz7Swp3.jpg",
+  "tmdbId": 631430,
+  "nota": 6.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784144,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779038,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Love in Winterland",
+  "dataLancamento": "2020-01-11"
+}

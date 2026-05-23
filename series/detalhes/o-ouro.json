@@ -1,0 +1,99 @@
+{
+  "id": "o-ouro",
+  "tipo": "serie",
+  "titulo": "O Ouro",
+  "ano": null,
+  "descricao": "Um novo e emocionante drama inspirado na icônica história real do roubo da Brinks Mat e nas longas décadas de eventos que se seguiram.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8HNLXxJsdyu4Rg1TnF8pW4ZtN1W.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rp0f5vHNiAbe5EEIaw7XhJHQ7og.jpg",
+  "tmdbId": 218351,
+  "nota": 7.294,
+  "xtreamSeriesId": 507,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10803648",
+          "tipo": "episodio",
+          "titulo": "O Ouro S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10803648",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8HNLXxJsdyu4Rg1TnF8pW4ZtN1W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10803649",
+          "tipo": "episodio",
+          "titulo": "O Ouro S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10803649",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8HNLXxJsdyu4Rg1TnF8pW4ZtN1W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10803650",
+          "tipo": "episodio",
+          "titulo": "O Ouro S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10803650",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8HNLXxJsdyu4Rg1TnF8pW4ZtN1W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10803651",
+          "tipo": "episodio",
+          "titulo": "O Ouro S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10803651",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8HNLXxJsdyu4Rg1TnF8pW4ZtN1W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10803652",
+          "tipo": "episodio",
+          "titulo": "O Ouro S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10803652",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8HNLXxJsdyu4Rg1TnF8pW4ZtN1W.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10803653",
+          "tipo": "episodio",
+          "titulo": "O Ouro S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10803653",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8HNLXxJsdyu4Rg1TnF8pW4ZtN1W.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Gold",
+  "dataLancamento": "2023-02-12"
+}

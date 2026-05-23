@@ -1,0 +1,63 @@
+{
+  "id": "o-reino-do-lobo-branco",
+  "tipo": "serie",
+  "titulo": "O Reino do Lobo-Branco",
+  "ano": null,
+  "descricao": "Ronan Donovan, pesquisador da National Geographic, viaja para o Ártico para estudar lobos. O pesquisador desvenda a fascinante vida do lobo branco, que possui duas camadas de proteção que o mantém quente em condições frias e seguro à prova d'água.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/195lUgtW73NZTWKoSOXgXhjoXXz.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f23RyFkgRo0RzfZJ27hLUBx3Fkv.jpg",
+  "tmdbId": 92894,
+  "nota": 7.5,
+  "xtreamSeriesId": 2147,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10849652",
+          "tipo": "episodio",
+          "titulo": "O Reino do Lobo Branco S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10849652",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/195lUgtW73NZTWKoSOXgXhjoXXz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849653",
+          "tipo": "episodio",
+          "titulo": "O Reino do Lobo Branco S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10849653",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/195lUgtW73NZTWKoSOXgXhjoXXz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10849654",
+          "tipo": "episodio",
+          "titulo": "O Reino do Lobo Branco S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10849654",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/195lUgtW73NZTWKoSOXgXhjoXXz.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Kingdom of the White Wolf",
+  "dataLancamento": "2019-08-25"
+}

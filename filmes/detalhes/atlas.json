@@ -1,0 +1,42 @@
+{
+  "id": "atlas",
+  "tipo": "filme",
+  "titulo": "A Viagem",
+  "ano": null,
+  "descricao": "O filme percorre séculos para revelar a formação das almas e o impacto duradouro das ações. Um escravo em fuga ajuda um advogado em 1849; um compositor na Inglaterra antes da Segunda Guerra tenta terminar a sua obra-prima; um trabalhador geneticamente modificado em 2144 sente o peso da consciência.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hf7Mqgy79fyhgKJ5JmEuyWgh6LA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cHm1lWAok12vwnTHqzprbPTk49q.jpg",
+  "tmdbId": 83542,
+  "nota": 6.894,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784416,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777697,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782103,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Cloud Atlas",
+  "dataLancamento": "2012-10-26"
+}

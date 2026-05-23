@@ -1,0 +1,51 @@
+{
+  "id": "ed-stafford-vida-de-cigano",
+  "tipo": "serie",
+  "titulo": "Ed Stafford: Vida de Cigano",
+  "ano": null,
+  "descricao": "O explorador Ed Stafford passa dois meses com comunidades ciganas e viajantes, mergulha além dos estereótipos e revela os desafios de morar na Grã-Bretanha moderna.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/isNtH4vyDdctJx1tkOTExS3Q4YU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/m1OJJw7rEVLJuWdwMu0PQQUWNj5.jpg",
+  "tmdbId": 157234,
+  "nota": 7,
+  "xtreamSeriesId": 1424,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10829150",
+          "tipo": "episodio",
+          "titulo": "Ed Stafford Vida de Cigano S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10829150",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/isNtH4vyDdctJx1tkOTExS3Q4YU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10829151",
+          "tipo": "episodio",
+          "titulo": "Ed Stafford Vida de Cigano S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10829151",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/isNtH4vyDdctJx1tkOTExS3Q4YU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "60 Days with the Gypsies",
+  "dataLancamento": "2022-02-07"
+}

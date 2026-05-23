@@ -1,0 +1,75 @@
+{
+  "id": "bob-burnquist-a-lenda-do-skate",
+  "tipo": "serie",
+  "titulo": "Bob Burnquist: A Lenda do Skate",
+  "ano": null,
+  "descricao": "Docusérie que explora os 30 anos de carreira do skatista brasileiro Bob Burnquist, destacando seu impacto global, sua incrível capacidade de se reerguer após cada queda e seu reconhecimento entre nomes como Tony Hawk e Ben Harper.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pIdw0q4WUSPzG0KLJK6GJLeT8VN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7btloMklxvcx0Mg8YEXM6oc6ZdH.jpg",
+  "tmdbId": 260703,
+  "nota": 10,
+  "xtreamSeriesId": 128,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10794699",
+          "tipo": "episodio",
+          "titulo": "Bob Burnquist A Lenda do Skate S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10794699",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pIdw0q4WUSPzG0KLJK6GJLeT8VN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794700",
+          "tipo": "episodio",
+          "titulo": "Bob Burnquist A Lenda do Skate S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10794700",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pIdw0q4WUSPzG0KLJK6GJLeT8VN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794701",
+          "tipo": "episodio",
+          "titulo": "Bob Burnquist A Lenda do Skate S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10794701",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pIdw0q4WUSPzG0KLJK6GJLeT8VN.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794702",
+          "tipo": "episodio",
+          "titulo": "Bob Burnquist A Lenda do Skate S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10794702",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pIdw0q4WUSPzG0KLJK6GJLeT8VN.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Bob Burnquist: A Lenda do Skate",
+  "dataLancamento": "2024-08-13"
+}

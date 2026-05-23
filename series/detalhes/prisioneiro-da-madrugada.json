@@ -1,0 +1,99 @@
+{
+  "id": "prisioneiro-da-madrugada",
+  "tipo": "serie",
+  "titulo": "Prisioneiro da Madrugada",
+  "ano": null,
+  "descricao": "Homens armados cercam uma prisão psiquiátrica e cortam todas as comunicações. O objetivo: capturar o serial killer Simón Lago. Seis episódios. Uma noite.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jU7a8gRJbt4FwaglqHDoie4cT8g.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fRKSA6N88lywGYUKkOAmyXhnpdB.jpg",
+  "tmdbId": 201331,
+  "nota": 6.8,
+  "xtreamSeriesId": 5110,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920728",
+          "tipo": "episodio",
+          "titulo": "Prisioneiro da Madrugada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920728",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jU7a8gRJbt4FwaglqHDoie4cT8g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920729",
+          "tipo": "episodio",
+          "titulo": "Prisioneiro da Madrugada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920729",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jU7a8gRJbt4FwaglqHDoie4cT8g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920730",
+          "tipo": "episodio",
+          "titulo": "Prisioneiro da Madrugada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920730",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jU7a8gRJbt4FwaglqHDoie4cT8g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920731",
+          "tipo": "episodio",
+          "titulo": "Prisioneiro da Madrugada S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920731",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jU7a8gRJbt4FwaglqHDoie4cT8g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920732",
+          "tipo": "episodio",
+          "titulo": "Prisioneiro da Madrugada S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10920732",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jU7a8gRJbt4FwaglqHDoie4cT8g.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920733",
+          "tipo": "episodio",
+          "titulo": "Prisioneiro da Madrugada S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10920733",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jU7a8gRJbt4FwaglqHDoie4cT8g.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "La noche más larga",
+  "dataLancamento": "2022-07-08"
+}

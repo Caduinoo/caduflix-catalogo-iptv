@@ -1,0 +1,41 @@
+{
+  "id": "joy",
+  "tipo": "filme",
+  "titulo": "Joy: O Nome do Sucesso",
+  "ano": null,
+  "descricao": "Joy é uma jovem mulher que constrói um império comercial e se torna uma matriarca. Os aliados se tornam adversários e os adversários se tornam aliados à medida que a vida interior de Joy e sua imaginação feroz a levam por um mundo de negócios voraz.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7icWz22RlPltHdIpR1iF95fuSrs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gwlx0r6NyWUuaI6MNajpYHPogZ1.jpg",
+  "tmdbId": 274479,
+  "nota": 6.551,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786749,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786752,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775671,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Joy",
+  "dataLancamento": "2015-12-24"
+}

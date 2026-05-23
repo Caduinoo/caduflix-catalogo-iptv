@@ -1,0 +1,34 @@
+{
+  "id": "o-amuleto-de-natal",
+  "tipo": "filme",
+  "titulo": "O Amuleto de Natal",
+  "ano": null,
+  "descricao": "Uma designer de joias encontra uma pulseira perdida e se junta a um repórter investigativo na esperança de encontrar o dono e devolvê-la na véspera do Natal.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AbEgk3q04HAWABMwhekbe6oJsMx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wErZklS61jzK1tNqST70d0Fa1FH.jpg",
+  "tmdbId": 746463,
+  "nota": 6.917,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787843,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778737,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "A Little Christmas Charm",
+  "dataLancamento": "2020-12-06"
+}

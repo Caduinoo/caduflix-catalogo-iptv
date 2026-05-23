@@ -1,0 +1,34 @@
+{
+  "id": "a-vida-de-chuck",
+  "tipo": "filme",
+  "titulo": "A Vida de Chuck",
+  "ano": null,
+  "descricao": "A história da vida de Charles Krantz ao contrário, começando com sua morte por um tumor cerebral aos 39 anos e terminando com sua infância em uma casa supostamente mal-assombrada.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xHPycdo2OOzsXf9GqdPp1zCEHuU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1SgD8XMa6dDSBKbPU4TDe2cmfGK.jpg",
+  "tmdbId": 842924,
+  "nota": 7.283,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783831,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774728,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Life of Chuck",
+  "dataLancamento": "2025-06-05"
+}

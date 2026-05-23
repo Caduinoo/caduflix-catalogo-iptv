@@ -1,0 +1,99 @@
+{
+  "id": "beach-life",
+  "tipo": "serie",
+  "titulo": "Beach Life",
+  "ano": null,
+  "descricao": "A atriz e apresentadora Monique Alfradique encontra amigos e mostra todo o life style de quem vive perto do mar. Passeios, bate-papos, esportes, risos e aventuras, tudo para comprovar o verdadeiro Beach Life.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pQWdHH0xPU45eFnACpxafgYmSY5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/r8i1xmk6dFveDUg774ZXxYNIO6c.jpg",
+  "tmdbId": 307616,
+  "nota": null,
+  "xtreamSeriesId": 129,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10794703",
+          "tipo": "episodio",
+          "titulo": "Beach Life S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10794703",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pQWdHH0xPU45eFnACpxafgYmSY5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794704",
+          "tipo": "episodio",
+          "titulo": "Beach Life S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10794704",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pQWdHH0xPU45eFnACpxafgYmSY5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794705",
+          "tipo": "episodio",
+          "titulo": "Beach Life S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10794705",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pQWdHH0xPU45eFnACpxafgYmSY5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794706",
+          "tipo": "episodio",
+          "titulo": "Beach Life S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10794706",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pQWdHH0xPU45eFnACpxafgYmSY5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794707",
+          "tipo": "episodio",
+          "titulo": "Beach Life S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10794707",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pQWdHH0xPU45eFnACpxafgYmSY5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794708",
+          "tipo": "episodio",
+          "titulo": "Beach Life S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10794708",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pQWdHH0xPU45eFnACpxafgYmSY5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Beach Life",
+  "dataLancamento": "2025-12-05"
+}

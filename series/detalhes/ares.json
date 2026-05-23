@@ -1,0 +1,123 @@
+{
+  "id": "ares",
+  "tipo": "serie",
+  "titulo": "ARES: live",
+  "ano": null,
+  "descricao": "Para fazer parte da elite de Amsterdã, uma universitária ambiciosa entra para uma sociedade fechada sem saber do segredo terrível que lá se esconde.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hftvg1uY3ocBseBHK2467KPIBLQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gWzpxDhY2OBJXlFjQIc0QJ4fCue.jpg",
+  "tmdbId": 81710,
+  "nota": 4.3,
+  "xtreamSeriesId": 4094,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901351",
+          "tipo": "episodio",
+          "titulo": "Ares S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901351",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVUiL32XmwQyba3EH2E3g77dXge.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901352",
+          "tipo": "episodio",
+          "titulo": "Ares S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901352",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVUiL32XmwQyba3EH2E3g77dXge.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901353",
+          "tipo": "episodio",
+          "titulo": "Ares S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901353",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVUiL32XmwQyba3EH2E3g77dXge.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901354",
+          "tipo": "episodio",
+          "titulo": "Ares S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10901354",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVUiL32XmwQyba3EH2E3g77dXge.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901355",
+          "tipo": "episodio",
+          "titulo": "Ares S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10901355",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVUiL32XmwQyba3EH2E3g77dXge.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901356",
+          "tipo": "episodio",
+          "titulo": "Ares S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10901356",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVUiL32XmwQyba3EH2E3g77dXge.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901357",
+          "tipo": "episodio",
+          "titulo": "Ares S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10901357",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVUiL32XmwQyba3EH2E3g77dXge.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901358",
+          "tipo": "episodio",
+          "titulo": "Ares S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10901358",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iVUiL32XmwQyba3EH2E3g77dXge.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "ARES: live",
+  "dataLancamento": "2015-06-07"
+}

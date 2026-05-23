@@ -1,0 +1,123 @@
+{
+  "id": "as-quatro-estacoes-do-ano",
+  "tipo": "serie",
+  "titulo": "As Quatro Estações do Ano",
+  "ano": null,
+  "descricao": "A amizade de décadas entre três casais é testada por um divórcio, que acaba atrapalhando a tradição de viajarem juntos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xJATsbyFLf4LMtJBOco08RNxqPE.jpg",
+  "tmdbId": 243316,
+  "nota": 6.549,
+  "xtreamSeriesId": 4113,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901735",
+          "tipo": "episodio",
+          "titulo": "As Quatro Estacoes do Ano S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901735",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901736",
+          "tipo": "episodio",
+          "titulo": "As Quatro Estacoes do Ano S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901736",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901737",
+          "tipo": "episodio",
+          "titulo": "As Quatro Estacoes do Ano S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901737",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901738",
+          "tipo": "episodio",
+          "titulo": "As Quatro Estacoes do Ano S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10901738",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901739",
+          "tipo": "episodio",
+          "titulo": "As Quatro Estacoes do Ano S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10901739",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901740",
+          "tipo": "episodio",
+          "titulo": "As Quatro Estacoes do Ano S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10901740",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901741",
+          "tipo": "episodio",
+          "titulo": "As Quatro Estacoes do Ano S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10901741",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901742",
+          "tipo": "episodio",
+          "titulo": "As Quatro Estacoes do Ano S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10901742",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bIAlUuBwLeAOmbREoh4NNa7KBrL.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "The Four Seasons",
+  "dataLancamento": "2025-05-01"
+}

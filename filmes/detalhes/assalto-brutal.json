@@ -1,0 +1,34 @@
+{
+  "id": "assalto-brutal",
+  "tipo": "filme",
+  "titulo": "Assalto Brutal",
+  "ano": null,
+  "descricao": "Um policial que perdeu o posto tem a chance de voltar à ativa se conseguir resolver um assalto a banco ajudando uma promotora.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gEpydgURgNqyYMLH6u7CG4y9N6v.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ycOPrw6Pr4i7GBvryrrgTNYiD5u.jpg",
+  "tmdbId": 1282138,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784374,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774256,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Napad",
+  "dataLancamento": "2024-10-15"
+}

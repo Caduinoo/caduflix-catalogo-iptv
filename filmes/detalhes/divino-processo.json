@@ -1,0 +1,34 @@
+{
+  "id": "divino-processo",
+  "tipo": "filme",
+  "titulo": "Divino Processo",
+  "ano": null,
+  "descricao": "Frank é um homem que pensa ter perdido tudo, até que sua casa é destruída por um tornado. Então, quando ele vai à seguradora, ele é informado de que não vai pagar porque o dano se enquadra na exclusão \"Ato de Deus\" em sua apólice. Sem mais nada e sem nada a perder, ele decide processar o próprio Deus por danos, nomeando representantes das religiões do mundo como réus no processo. O que começa como uma façanha ridícula, torna-se uma odisséia linda, engraçada e comovente na qual ele redescobre que o próprio amor... requer um salto de fé.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tCClur6bULHIZUqbiqwYTOs9BHu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/c9ydURmiqAE5rgCgyDcNWTR3v38.jpg",
+  "tmdbId": 257177,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033349,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11033892,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1775158445,
+  "tituloOriginal": "Frank vs. God",
+  "dataLancamento": "2014-02-19"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "the-idol",
+  "tipo": "serie",
+  "titulo": "The Idol",
+  "ano": null,
+  "descricao": "Conheça a história de amor mais sórdida de Hollywood já contada.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jbFkZSsmFFLjqZzxQHTBYyQb0RR.jpg",
+  "tmdbId": 135251,
+  "nota": 5.333,
+  "xtreamSeriesId": 3864,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10896654",
+          "tipo": "episodio",
+          "titulo": "The Idol S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10896654",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10896655",
+          "tipo": "episodio",
+          "titulo": "The Idol S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10896655",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10896656",
+          "tipo": "episodio",
+          "titulo": "The Idol S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10896656",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10896657",
+          "tipo": "episodio",
+          "titulo": "The Idol S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10896657",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10896658",
+          "tipo": "episodio",
+          "titulo": "The Idol S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10896658",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "The Idol",
+  "dataLancamento": "2023-06-04"
+}

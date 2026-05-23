@@ -1,0 +1,34 @@
+{
+  "id": "o-instituto",
+  "tipo": "filme",
+  "titulo": "O Instituto",
+  "ano": null,
+  "descricao": "Em Baltimore do século 19, Isabel Porter, uma garota em luto pela morte prematura de seus pais, interna-se voluntariamente no Instituto Rosewood. Utilizada como cobaia em cada vez mais violentos experimentos pseudo-científicos bizarros para alteração da personalidade, lavagem cerebral e controle da mente, ela deve escapar das garras de Rosewood ou se perderá para sempre.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dFenWW7lmcKx6ugdGe71DomecTe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hQkPNlwC86YfItSkzxt2qkOV5tv.jpg",
+  "tmdbId": 416166,
+  "nota": 4.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788194,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781119,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Institute",
+  "dataLancamento": "2017-03-03"
+}

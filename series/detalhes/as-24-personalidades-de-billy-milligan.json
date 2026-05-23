@@ -1,0 +1,75 @@
+{
+  "id": "as-24-personalidades-de-billy-milligan",
+  "tipo": "serie",
+  "titulo": "As 24 Personalidades de Billy Milligan",
+  "ano": null,
+  "descricao": "No final dos anos 1970, um homem acusado de estupros em série agita os EUA ao afirmar que várias personalidades ditam seu comportamento.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w4BvMx1wNVYFLeXHuGm66OENZEh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3YyEKgBBh1DOyQ22yiObLHwMRbO.jpg",
+  "tmdbId": 132105,
+  "nota": 6.975,
+  "xtreamSeriesId": 4100,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901477",
+          "tipo": "episodio",
+          "titulo": "As 24 Personalidades de Billy Milligan S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901477",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4BvMx1wNVYFLeXHuGm66OENZEh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901478",
+          "tipo": "episodio",
+          "titulo": "As 24 Personalidades de Billy Milligan S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901478",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4BvMx1wNVYFLeXHuGm66OENZEh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901479",
+          "tipo": "episodio",
+          "titulo": "As 24 Personalidades de Billy Milligan S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901479",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4BvMx1wNVYFLeXHuGm66OENZEh.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901480",
+          "tipo": "episodio",
+          "titulo": "As 24 Personalidades de Billy Milligan S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10901480",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w4BvMx1wNVYFLeXHuGm66OENZEh.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Monsters Inside: The 24 Faces of Billy Milligan",
+  "dataLancamento": "2021-09-22"
+}

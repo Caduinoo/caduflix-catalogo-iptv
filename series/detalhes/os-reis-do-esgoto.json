@@ -1,0 +1,99 @@
+{
+  "id": "os-reis-do-esgoto",
+  "tipo": "serie",
+  "titulo": "Os Reis do Esgoto",
+  "ano": null,
+  "descricao": "O sistema de esgoto dos Estados Unidos é muito antigo, e precisa de reparos constantes. O programa mostra os trabalhadores heróis que mantêm esse sistema funcionando para que o resto de nós possa ficar longe da sujeira.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1jB4tpR6COZ0VAsfR2Hv4gf9nsb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tbM0wroTJIHvjnmnW6f1KE2Reza.jpg",
+  "tmdbId": 217752,
+  "nota": 6,
+  "xtreamSeriesId": 1547,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10831575",
+          "tipo": "episodio",
+          "titulo": "Os Reis do Esgoto S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10831575",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1jB4tpR6COZ0VAsfR2Hv4gf9nsb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10831576",
+          "tipo": "episodio",
+          "titulo": "Os Reis do Esgoto S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10831576",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1jB4tpR6COZ0VAsfR2Hv4gf9nsb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10831577",
+          "tipo": "episodio",
+          "titulo": "Os Reis do Esgoto S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10831577",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1jB4tpR6COZ0VAsfR2Hv4gf9nsb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10831578",
+          "tipo": "episodio",
+          "titulo": "Os Reis do Esgoto S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10831578",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1jB4tpR6COZ0VAsfR2Hv4gf9nsb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10831579",
+          "tipo": "episodio",
+          "titulo": "Os Reis do Esgoto S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10831579",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1jB4tpR6COZ0VAsfR2Hv4gf9nsb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10831580",
+          "tipo": "episodio",
+          "titulo": "Os Reis do Esgoto S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10831580",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1jB4tpR6COZ0VAsfR2Hv4gf9nsb.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Sewer Divers",
+  "dataLancamento": "2023-01-01"
+}

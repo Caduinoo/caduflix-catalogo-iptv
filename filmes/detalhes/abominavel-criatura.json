@@ -1,0 +1,34 @@
+{
+  "id": "abominavel-criatura",
+  "tipo": "filme",
+  "titulo": "Abominável Criatura",
+  "ano": null,
+  "descricao": "As terríveis criaturas que habitam o inferno a mais de 300 anos que assombram uma mansão e quem lá chegar terá de enfrentar a fúria delas.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hJEB6KJKBfScwJEwUEf7oDqro3g.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ecZN1pCJeWAhYHrn0Oa5WGEIhjc.jpg",
+  "tmdbId": 40549,
+  "nota": 4.722,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783919,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780398,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Unnamable",
+  "dataLancamento": "1988-06-01"
+}

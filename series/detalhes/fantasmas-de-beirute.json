@@ -1,0 +1,75 @@
+{
+  "id": "fantasmas-de-beirute",
+  "tipo": "serie",
+  "titulo": "Fantasmas de Beirute",
+  "ano": null,
+  "descricao": "A série conta a história de origem de Mughniyeh, de 21 anos, um indescritível terrorista libanês que escapou da captura da CIA e do Mossad por duas décadas. Ele foi responsável por mais mortes americanas do que qualquer outro indivíduo antes do 11 de setembro.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yXdQg8vdi5RQTafryjE2XBYCqHu.jpg",
+  "tmdbId": 224009,
+  "nota": 6.721,
+  "xtreamSeriesId": 6537,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10995425",
+          "tipo": "episodio",
+          "titulo": "Fantasmas de Beirute S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10995425",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995426",
+          "tipo": "episodio",
+          "titulo": "Fantasmas de Beirute S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10995426",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995427",
+          "tipo": "episodio",
+          "titulo": "Fantasmas de Beirute S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10995427",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10995428",
+          "tipo": "episodio",
+          "titulo": "Fantasmas de Beirute S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10995428",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Ghosts of Beirut",
+  "dataLancamento": "2023-05-21"
+}

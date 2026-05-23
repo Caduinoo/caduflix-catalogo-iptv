@@ -1,0 +1,34 @@
+{
+  "id": "em-busca-do-paraiso",
+  "tipo": "filme",
+  "titulo": "Em Busca do Paraíso",
+  "ano": null,
+  "descricao": "Vivendo em um reino de escuridão, um jovem embarca numa épica jornada em busca da Cidade Celestial. Ele precisará enfrentar diversos perigos e provações apenas com a ajuda de um antigo livro. Inspirado no livro O Peregrino, de John Bunyan.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qpsjIxuGXRbiWPwRv0iDfOpXcwh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2ynv4tUJy3CiHzmzgR4JRjpwI1r.jpg",
+  "tmdbId": 634244,
+  "nota": 5.23,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785697,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769674,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Heavenquest: A Pilgrim's Progress",
+  "dataLancamento": "2020-01-28"
+}

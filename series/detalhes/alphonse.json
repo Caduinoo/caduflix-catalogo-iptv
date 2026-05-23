@@ -1,0 +1,99 @@
+{
+  "id": "alphonse",
+  "tipo": "serie",
+  "titulo": "Alphonse",
+  "ano": null,
+  "descricao": "Alphonse, um homem na casa dos 40 anos enfrentando uma crise profissional e no casamento, reconecta-se com um pai que mal conhecia e descobre uma vocação surpreendente. Ao longo do caminho, ele conhece uma constelação de mulheres, cada uma mais empolgante e peculiar do que a outra, lançando-o em uma jornada que é ao mesmo tempo perigosa e transgressora, mas repleta de bondade.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kd4xpSQZmrrnSlK0SLdF6iqDkEk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/x6XKuqxeCe2f3tVgw975tVB9iZx.jpg",
+  "tmdbId": 197436,
+  "nota": 6.4,
+  "xtreamSeriesId": 74,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10793273",
+          "tipo": "episodio",
+          "titulo": "Alphonse S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10793273",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kd4xpSQZmrrnSlK0SLdF6iqDkEk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793274",
+          "tipo": "episodio",
+          "titulo": "Alphonse S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10793274",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kd4xpSQZmrrnSlK0SLdF6iqDkEk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793275",
+          "tipo": "episodio",
+          "titulo": "Alphonse S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10793275",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kd4xpSQZmrrnSlK0SLdF6iqDkEk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793276",
+          "tipo": "episodio",
+          "titulo": "Alphonse S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10793276",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kd4xpSQZmrrnSlK0SLdF6iqDkEk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793277",
+          "tipo": "episodio",
+          "titulo": "Alphonse S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10793277",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kd4xpSQZmrrnSlK0SLdF6iqDkEk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793278",
+          "tipo": "episodio",
+          "titulo": "Alphonse S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10793278",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kd4xpSQZmrrnSlK0SLdF6iqDkEk.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Alphonse",
+  "dataLancamento": "2023-10-12"
+}

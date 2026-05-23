@@ -1,0 +1,34 @@
+{
+  "id": "eiffel",
+  "tipo": "filme",
+  "titulo": "Eiffel",
+  "ano": null,
+  "descricao": "Em Eiffel, a história acompanha o engenheiro civil, Gustave Eiffel, e sua busca por inspiração sob extrema pressão. Depois de sua elogiada colaboração com Auguste Bartholdi na Estátua da Liberdade, Gustave deve produzir uma obra espetacular para a Exposição Universitária de Paris de 1889.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mrHx1eQpG7d0Qz3PUkt1ceEP6YK.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AfrGOrPC85hte5sSb94zlSizalT.jpg",
+  "tmdbId": 655082,
+  "nota": 6.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785650,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779162,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Eiffel",
+  "dataLancamento": "2021-10-07"
+}

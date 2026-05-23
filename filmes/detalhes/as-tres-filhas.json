@@ -1,0 +1,34 @@
+{
+  "id": "as-tres-filhas",
+  "tipo": "filme",
+  "titulo": "As Três Filhas",
+  "ano": null,
+  "descricao": "Três irmãs distantes se reúnem em um pequeno apartamento em Nova York para cuidar do pai doente, e as emoções tomam conta.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lq3inNouIht3JMxLFcW5gIPcUtu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7QZCkr6hvQM0PDqsAOguUqOETNt.jpg",
+  "tmdbId": 1154762,
+  "nota": 6.822,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784357,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774923,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "His Three Daughters",
+  "dataLancamento": "2024-09-05"
+}

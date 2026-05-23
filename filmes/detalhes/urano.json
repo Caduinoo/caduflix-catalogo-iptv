@@ -1,0 +1,26 @@
+{
+  "id": "urano",
+  "tipo": "filme",
+  "titulo": "Urano",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ggxZ5Uc2uEkVwBK38CuNBaA6MlQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/duw70XDZhv8cyDCFyB6l2zjYNmM.jpg",
+  "tmdbId": 41930,
+  "nota": 6.667,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790913,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Uranus",
+  "dataLancamento": "1990-12-12"
+}

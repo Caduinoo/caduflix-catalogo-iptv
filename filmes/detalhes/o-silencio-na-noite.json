@@ -1,0 +1,34 @@
+{
+  "id": "o-silencio-na-noite",
+  "tipo": "filme",
+  "titulo": "O Silêncio na Noite",
+  "ano": null,
+  "descricao": "Um estudo de personagem que explora a dinâmica de uma pequena cidade de Iowa de setembro a dezembro de 1944, durante a Segunda Guerra Mundial.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tnIl6PPOVUS2uPTWpZYZ09UgXhp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ztG0yz8yzRsTgD78ZRr8RBZnxCl.jpg",
+  "tmdbId": 1066895,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788513,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778045,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Silent Night in Algona",
+  "dataLancamento": "2022-12-09"
+}

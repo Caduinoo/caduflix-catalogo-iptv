@@ -1,0 +1,34 @@
+{
+  "id": "brian-e-charles",
+  "tipo": "filme",
+  "titulo": "Brian e Charles",
+  "ano": null,
+  "descricao": "Depois de um inverno bastante rigoroso, Brian entra em profunda depressão; completamente isolado e sem companhia para conversar, Brian faz o que qualquer pessoa sã faria diante de uma situação tão melancólica. Ele constrói um robô.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9xe0MYtsoitXJgsKpY4GgB02lbx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sT0c22syDUXXz85Gg0E7dzZzCaA.jpg",
+  "tmdbId": 913814,
+  "nota": 6.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784715,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772389,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Brian and Charles",
+  "dataLancamento": "2022-06-17"
+}

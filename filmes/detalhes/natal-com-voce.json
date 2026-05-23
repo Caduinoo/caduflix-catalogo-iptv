@@ -1,0 +1,34 @@
+{
+  "id": "natal-com-voce",
+  "tipo": "filme",
+  "titulo": "Natal com Você",
+  "ano": null,
+  "descricao": "Em busca de inspiração musical, uma pop star decide realizar o desejo de Natal de uma fã e acaba encontrando uma chance no amor.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rU2sCry1YzuBoeMj06eWqTfponC.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1ZnbzMbxgSqKuCh9aOQCvv1mAyN.jpg",
+  "tmdbId": 936960,
+  "nota": 5.831,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787614,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778692,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Christmas with You",
+  "dataLancamento": "2022-11-17"
+}

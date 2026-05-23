@@ -1,0 +1,75 @@
+{
+  "id": "garavito-o-monstro-serial",
+  "tipo": "serie",
+  "titulo": "Garavito: O Monstro Serial",
+  "ano": null,
+  "descricao": "Os investigadores que participaram da captura e condenação do colombiano Luis Alfredo Garavito, o maior assassino e estuprador de crianças da história da humanidade, narram em primeira pessoa a mórbida crônica do Monstro de Génova.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/s22KxIcJFQnDLSI1nBY2RyIWU07.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3X3a9kdi5CgGTmDqZJWH6YDq5AI.jpg",
+  "tmdbId": 237845,
+  "nota": 7.12,
+  "xtreamSeriesId": 3567,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10889020",
+          "tipo": "episodio",
+          "titulo": "Garavito O Monstro Serial S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10889020",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/s22KxIcJFQnDLSI1nBY2RyIWU07.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889021",
+          "tipo": "episodio",
+          "titulo": "Garavito O Monstro Serial S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10889021",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/s22KxIcJFQnDLSI1nBY2RyIWU07.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889022",
+          "tipo": "episodio",
+          "titulo": "Garavito O Monstro Serial S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10889022",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/s22KxIcJFQnDLSI1nBY2RyIWU07.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889023",
+          "tipo": "episodio",
+          "titulo": "Garavito O Monstro Serial S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10889023",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/s22KxIcJFQnDLSI1nBY2RyIWU07.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Garavito: La bestia serial",
+  "dataLancamento": "2023-10-20"
+}

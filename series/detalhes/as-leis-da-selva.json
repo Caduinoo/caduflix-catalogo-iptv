@@ -1,0 +1,123 @@
+{
+  "id": "as-leis-da-selva",
+  "tipo": "serie",
+  "titulo": "As Leis da Selva",
+  "ano": null,
+  "descricao": "Doze pessoas largadas na selva precisam trabalhar em equipe ou sabotar umas às outras se quiserem ganhar o prêmio. Afinal, dizem por aí que todo mundo tem seu preço.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/j4q960FWI6zyLzQk71qUcqMZFxb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bpGKTHlBybKPpzgA2UUHJmyB6oG.jpg",
+  "tmdbId": 221744,
+  "nota": 5.4,
+  "xtreamSeriesId": 4114,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901743",
+          "tipo": "episodio",
+          "titulo": "As Leis da Selva S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901743",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j4q960FWI6zyLzQk71qUcqMZFxb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901744",
+          "tipo": "episodio",
+          "titulo": "As Leis da Selva S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901744",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j4q960FWI6zyLzQk71qUcqMZFxb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901745",
+          "tipo": "episodio",
+          "titulo": "As Leis da Selva S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10901745",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j4q960FWI6zyLzQk71qUcqMZFxb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901746",
+          "tipo": "episodio",
+          "titulo": "As Leis da Selva S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10901746",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j4q960FWI6zyLzQk71qUcqMZFxb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901747",
+          "tipo": "episodio",
+          "titulo": "As Leis da Selva S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10901747",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j4q960FWI6zyLzQk71qUcqMZFxb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901748",
+          "tipo": "episodio",
+          "titulo": "As Leis da Selva S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10901748",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j4q960FWI6zyLzQk71qUcqMZFxb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901749",
+          "tipo": "episodio",
+          "titulo": "As Leis da Selva S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10901749",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j4q960FWI6zyLzQk71qUcqMZFxb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901750",
+          "tipo": "episodio",
+          "titulo": "As Leis da Selva S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10901750",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j4q960FWI6zyLzQk71qUcqMZFxb.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "La ley de la selva",
+  "dataLancamento": "2023-03-15"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "combinacao-perfeita",
+  "tipo": "filme",
+  "titulo": "Combinação Perfeita",
+  "ano": null,
+  "descricao": "Para conquistar uma cliente, a ambiciosa Lola viaja de Los Angeles até uma fazenda na Austrália, onde se interessa por um homem rústico e intrigante.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xBdOs8RqlOAhhgVuqvDDCv4xzsU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6fRVz7ZIZIGFEOq4THY2pdBBhfS.jpg",
+  "tmdbId": 934761,
+  "nota": 6.836,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785007,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772480,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782212,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "A Perfect Pairing",
+  "dataLancamento": "2022-05-19"
+}

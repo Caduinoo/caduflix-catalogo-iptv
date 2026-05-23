@@ -1,0 +1,34 @@
+{
+  "id": "todo-o-silencio",
+  "tipo": "filme",
+  "titulo": "Todo o Silêncio",
+  "ano": null,
+  "descricao": "De manhã, Miriam leciona língua de sinais. À tarde, participa da montagem de um grupo teatral profissional. Tudo isso enquanto mantém uma relação estável e apaixonada com sua namorada, Lola. Apesar de Miriam levar uma vida bastante similar à de uma pessoa surda, seu mundo começa a desmoronar quando descobre que está realmente perdendo o sentido da audição.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w8Cm2osJM9BAQ80QuDDvKL0LUCF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2L0APmmSkTks5QOYHx2jRcDEZEW.jpg",
+  "tmdbId": 1131443,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790374,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776890,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Todo el silencio",
+  "dataLancamento": "2023-10-06"
+}

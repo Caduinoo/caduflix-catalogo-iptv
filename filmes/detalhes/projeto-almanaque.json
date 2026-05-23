@@ -1,0 +1,26 @@
+{
+  "id": "projeto-almanaque",
+  "tipo": "filme",
+  "titulo": "Projeto Almanaque",
+  "ano": null,
+  "descricao": "Um grupo de jovens acaba descobrindo instruções secretas para montar uma máquina do tempo, e decidem construir o aparelho. No entanto, os efeitos são muito diferentes do que esperavam.",
+  "generos": [
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2krLUKMsKbnZk6j647IlkqlMZ2u.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eyJk5LTMLIeAN2kVsP0yXrPZJfl.jpg",
+  "tmdbId": 227719,
+  "nota": 6.787,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777457,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567054,
+  "tituloOriginal": "Project Almanac",
+  "dataLancamento": "2015-01-28"
+}

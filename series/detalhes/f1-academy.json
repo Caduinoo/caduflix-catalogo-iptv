@@ -1,0 +1,111 @@
+{
+  "id": "f1-academy",
+  "tipo": "serie",
+  "titulo": "F1 Academy",
+  "ano": null,
+  "descricao": "Quinze jovens pilotas rompem barreiras em um dos esportes mais exigentes do mundo na tentativa de levar uma mulher de volta ao grid da Fórmula 1.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mxV9DnfxuX9LsQjVrh9ZF0RBueQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8tcT312sB5hu6AhS9u06jntFaGJ.jpg",
+  "tmdbId": 289742,
+  "nota": 6.4,
+  "xtreamSeriesId": 4494,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907648",
+          "tipo": "episodio",
+          "titulo": "F1 Academy S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907648",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mxV9DnfxuX9LsQjVrh9ZF0RBueQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907649",
+          "tipo": "episodio",
+          "titulo": "F1 Academy S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907649",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mxV9DnfxuX9LsQjVrh9ZF0RBueQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907650",
+          "tipo": "episodio",
+          "titulo": "F1 Academy S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907650",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mxV9DnfxuX9LsQjVrh9ZF0RBueQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907651",
+          "tipo": "episodio",
+          "titulo": "F1 Academy S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907651",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mxV9DnfxuX9LsQjVrh9ZF0RBueQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907652",
+          "tipo": "episodio",
+          "titulo": "F1 Academy S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907652",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mxV9DnfxuX9LsQjVrh9ZF0RBueQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907653",
+          "tipo": "episodio",
+          "titulo": "F1 Academy S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907653",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mxV9DnfxuX9LsQjVrh9ZF0RBueQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907654",
+          "tipo": "episodio",
+          "titulo": "F1 Academy S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10907654",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/mxV9DnfxuX9LsQjVrh9ZF0RBueQ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "F1: The Academy",
+  "dataLancamento": "2025-05-28"
+}

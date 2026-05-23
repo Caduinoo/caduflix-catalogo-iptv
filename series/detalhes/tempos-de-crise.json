@@ -1,0 +1,99 @@
+{
+  "id": "tempos-de-crise",
+  "tipo": "serie",
+  "titulo": "Tempos de Crise",
+  "ano": null,
+  "descricao": "O banqueiro Paul Grangier é vítima de uma overdose de insulina e acaba em coma. Acidente, esgotamento ou suicídio? Apenas a sua irmã Elisabeth acredita que foi uma tentativa de assassinato.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8Njgd4vFSjJpKpT3sqNrY6NDspl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1HoAo5TXP8Ds6UjCxSR4TdTRNNj.jpg",
+  "tmdbId": 75159,
+  "nota": 5.9,
+  "xtreamSeriesId": 6373,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10989289",
+          "tipo": "episodio",
+          "titulo": "Tempos de Crise S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10989289",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8Njgd4vFSjJpKpT3sqNrY6NDspl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989290",
+          "tipo": "episodio",
+          "titulo": "Tempos de Crise S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10989290",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8Njgd4vFSjJpKpT3sqNrY6NDspl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989291",
+          "tipo": "episodio",
+          "titulo": "Tempos de Crise S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10989291",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8Njgd4vFSjJpKpT3sqNrY6NDspl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989292",
+          "tipo": "episodio",
+          "titulo": "Tempos de Crise S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10989292",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8Njgd4vFSjJpKpT3sqNrY6NDspl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989293",
+          "tipo": "episodio",
+          "titulo": "Tempos de Crise S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10989293",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8Njgd4vFSjJpKpT3sqNrY6NDspl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10989294",
+          "tipo": "episodio",
+          "titulo": "Tempos de Crise S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10989294",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/8Njgd4vFSjJpKpT3sqNrY6NDspl.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Quartier des banques",
+  "dataLancamento": "2017-11-17"
+}

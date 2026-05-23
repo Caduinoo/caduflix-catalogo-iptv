@@ -1,0 +1,34 @@
+{
+  "id": "butch-cassidy",
+  "tipo": "filme",
+  "titulo": "Butch Cassidy",
+  "ano": null,
+  "descricao": "Dois amigos inseparáveis, Butch Cassidy e Sundance Kid, lideram o Bando do Buraco na Parede e vivem de assaltar trens e bancos. Quando são caçados por todo o país resolvem ir para a Bolívia e juntamente com Etta, a namorada de Sundance, rumam para a América do Sul. Mas esta decisão não lhes proporcionará grandes assaltos ou uma vida mais tranqüila.",
+  "generos": [
+    "LEGENDADOS",
+    "FAROESTE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/919bDobVHWQYGDAP8ZXXGkHKlO8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+  "tmdbId": 642,
+  "nota": 7.616,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791295,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791275,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Butch Cassidy and the Sundance Kid",
+  "dataLancamento": "1969-09-23"
+}

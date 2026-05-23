@@ -1,0 +1,34 @@
+{
+  "id": "unidade-ranger",
+  "tipo": "filme",
+  "titulo": "Unidade Ranger",
+  "ano": null,
+  "descricao": "Enfrentando perigos cada vez maiores, um pequeno, mas determinado grupo de soldados americanos se aventura no perigoso território inimigo em uma missão para impedir que uma unidade alemã em avanço rompa a linha aliada.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2ImC59wJCZ7Rx19el83c4nX8YTF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fyGsmCm6op6c90WVYxhGxziOp3P.jpg",
+  "tmdbId": 559578,
+  "nota": 4.063,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790898,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770891,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Alone We Fight",
+  "dataLancamento": "2018-11-06"
+}

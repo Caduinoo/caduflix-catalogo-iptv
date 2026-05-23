@@ -1,0 +1,99 @@
+{
+  "id": "oceanxplorers",
+  "tipo": "serie",
+  "titulo": "OceanXplorers",
+  "ano": null,
+  "descricao": "Acompanha as missões do OceanXplorer, o navio de pesquisa científica e exploração de última geração da OceanX. A embarcação investiga as fronteiras mais distantes dos oceanos do mundo, 80% das quais são totalmente desconhecidas.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ftrhUtFMrNI0MlJOs3XEe3rmWA3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qw3qGD7T72k0KjsGb133VMLbufA.jpg",
+  "tmdbId": 118477,
+  "nota": 7.9,
+  "xtreamSeriesId": 1970,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10844369",
+          "tipo": "episodio",
+          "titulo": "OceanXplorers S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10844369",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ftrhUtFMrNI0MlJOs3XEe3rmWA3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844370",
+          "tipo": "episodio",
+          "titulo": "OceanXplorers S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10844370",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ftrhUtFMrNI0MlJOs3XEe3rmWA3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844371",
+          "tipo": "episodio",
+          "titulo": "OceanXplorers S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10844371",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ftrhUtFMrNI0MlJOs3XEe3rmWA3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844372",
+          "tipo": "episodio",
+          "titulo": "OceanXplorers S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10844372",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ftrhUtFMrNI0MlJOs3XEe3rmWA3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844373",
+          "tipo": "episodio",
+          "titulo": "OceanXplorers S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10844373",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ftrhUtFMrNI0MlJOs3XEe3rmWA3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844374",
+          "tipo": "episodio",
+          "titulo": "OceanXplorers S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10844374",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ftrhUtFMrNI0MlJOs3XEe3rmWA3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "OceanXplorers",
+  "dataLancamento": "2024-08-18"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "as-irmas-macaluso",
+  "tipo": "filme",
+  "titulo": "As Irmãs Macaluso",
+  "ano": null,
+  "descricao": "Maria, Pinuccia, Lia, Katia e Antonella são cinco irmãs que vivem em um apartamento em Palermo. Quando Antonella morre acidentalmente, as relações das irmãs mudam para o resto de suas vidas.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/y9Rw0ke2EiSExK86CLXACrNGiNh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lbmAcK9e3qec2wJXOZZG70kbjem.jpg",
+  "tmdbId": 606865,
+  "nota": 7.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11035601,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11032869,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1776246173,
+  "tituloOriginal": "Le sorelle Macaluso",
+  "dataLancamento": "2020-09-10"
+}

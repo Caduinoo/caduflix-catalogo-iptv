@@ -1,0 +1,63 @@
+{
+  "id": "o-misterio-da-rota-20",
+  "tipo": "serie",
+  "titulo": "O Mistério da Rota 20",
+  "ano": null,
+  "descricao": "Quando uma jornalista local descobre um documento judicial selado, ela descobre um rastro de mulheres desaparecidas e assassinadas no deserto de Oregon e um assassino que usou um trecho desolado da estrada para esconder segredos obscuros.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fLy2FsDrlUXwLhcqAeLuutjdVN4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/1zi58eWuN1rHaHKxwGYxZeZcBOn.jpg",
+  "tmdbId": 238938,
+  "nota": 8.2,
+  "xtreamSeriesId": 7070,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11016442",
+          "tipo": "episodio",
+          "titulo": "O Misterio da Rota 20 S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11016442",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fLy2FsDrlUXwLhcqAeLuutjdVN4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016443",
+          "tipo": "episodio",
+          "titulo": "O Misterio da Rota 20 S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11016443",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fLy2FsDrlUXwLhcqAeLuutjdVN4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11016444",
+          "tipo": "episodio",
+          "titulo": "O Misterio da Rota 20 S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11016444",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fLy2FsDrlUXwLhcqAeLuutjdVN4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Lost Women of Highway 20",
+  "dataLancamento": "2023-11-05"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "magnum",
+  "tipo": "serie",
+  "titulo": "Magnum",
+  "ano": null,
+  "descricao": "Thomas Magnum é um ex-militar e veterano de operações especiais que se torna um investigador particular no Havaí. Com uma personalidade descontraída e um instinto afiado para desvendar casos complexos, Magnum utiliza suas habilidades únicas para resolver crimes enquanto desfruta da vida na bela ilha. Auxiliado por seus amigos leais, Rick e T.C., e sob a supervisão do rigoroso Higgins, Magnum desvenda enigmas, desafia perigos e mergulha em um mundo de intriga, ação e surpresas inesperadas.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ht0dsKCZxbPawKdTPLeNtnnbxim.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9YDtTrYUe3zan2GEkFiwtlGLMVS.jpg",
+  "tmdbId": 734,
+  "nota": 7.33,
+  "xtreamSeriesId": 6987,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11015340",
+          "tipo": "episodio",
+          "titulo": "Magnum S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11015340",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ht0dsKCZxbPawKdTPLeNtnnbxim.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015341",
+          "tipo": "episodio",
+          "titulo": "Magnum S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11015341",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ht0dsKCZxbPawKdTPLeNtnnbxim.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015342",
+          "tipo": "episodio",
+          "titulo": "Magnum S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11015342",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ht0dsKCZxbPawKdTPLeNtnnbxim.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015343",
+          "tipo": "episodio",
+          "titulo": "Magnum S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11015343",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ht0dsKCZxbPawKdTPLeNtnnbxim.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015344",
+          "tipo": "episodio",
+          "titulo": "Magnum S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11015344",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ht0dsKCZxbPawKdTPLeNtnnbxim.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015345",
+          "tipo": "episodio",
+          "titulo": "Magnum S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11015345",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ht0dsKCZxbPawKdTPLeNtnnbxim.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015346",
+          "tipo": "episodio",
+          "titulo": "Magnum S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "11015346",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ht0dsKCZxbPawKdTPLeNtnnbxim.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015347",
+          "tipo": "episodio",
+          "titulo": "Magnum S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "11015347",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ht0dsKCZxbPawKdTPLeNtnnbxim.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Magnum, P.I.",
+  "dataLancamento": "1980-12-11"
+}

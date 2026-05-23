@@ -1,0 +1,99 @@
+{
+  "id": "motorvalley",
+  "tipo": "serie",
+  "titulo": "Motorvalley",
+  "ano": null,
+  "descricao": "Desesperada para assumir o império da família, uma herdeira contrata uma pilota arrojada e um treinador de passado atribulado para competir no Gran Turismo.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zyMMXRpCZoMLYIret8seCZyIlr6.jpg",
+  "tmdbId": 283370,
+  "nota": 7.121,
+  "xtreamSeriesId": 7019,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11015795",
+          "tipo": "episodio",
+          "titulo": "Motorvalley S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11015795",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015796",
+          "tipo": "episodio",
+          "titulo": "Motorvalley S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11015796",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015797",
+          "tipo": "episodio",
+          "titulo": "Motorvalley S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11015797",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015798",
+          "tipo": "episodio",
+          "titulo": "Motorvalley S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11015798",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015799",
+          "tipo": "episodio",
+          "titulo": "Motorvalley S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11015799",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11015800",
+          "tipo": "episodio",
+          "titulo": "Motorvalley S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11015800",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Motorvalley",
+  "dataLancamento": "2026-02-10"
+}

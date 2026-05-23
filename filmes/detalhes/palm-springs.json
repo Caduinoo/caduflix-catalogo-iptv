@@ -1,0 +1,34 @@
+{
+  "id": "palm-springs",
+  "tipo": "filme",
+  "titulo": "Palm Springs",
+  "ano": null,
+  "descricao": "Nyles é um cara despreocupado que conhece Sarah num casamento em Palm Springs. Mas tudo se complica quando ambos ficaram presos em um loop temporal.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
+  "tmdbId": 587792,
+  "nota": 7.339,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788900,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773590,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Palm Springs",
+  "dataLancamento": "2020-07-10"
+}

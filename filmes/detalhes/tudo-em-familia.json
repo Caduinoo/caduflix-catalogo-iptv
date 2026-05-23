@@ -1,0 +1,42 @@
+{
+  "id": "tudo-em-familia",
+  "tipo": "filme",
+  "titulo": "Tudo em Família",
+  "ano": null,
+  "descricao": "Tem algo pior do que trabalhar para um astro do cinema todo mimado que não leva você a sério? Sim: descobrir que ele está a fim da sua mãe.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/m0QwAYKD5WmI6xZ36ZmawcGlMad.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ngLxW9WqQAkTCBTcjOSt2Pnz5qZ.jpg",
+  "tmdbId": 987686,
+  "nota": 5.733,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790489,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779418,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10783044,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "A Family Affair",
+  "dataLancamento": "2024-06-27"
+}

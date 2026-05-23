@@ -1,0 +1,34 @@
+{
+  "id": "plano-b",
+  "tipo": "filme",
+  "titulo": "Plano B",
+  "ano": null,
+  "descricao": "Contando com curtos depoimentos e reflexões de personalidades e personagens diversos, que vão desde pescadores locais e índios pataxós da Aldeia Mãe Barra Velha a empresários peso-pesado internacionais e executivos de empresas multinacionais, passando por artistas plásticos, cantoras, atrizes globais, músicos, esportistas, chefs de cozinha, nobres europeus como a Princesa da Prússia e outros, o filme traz uma visão otimista do delicado momento da pandemia de Covid-19.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yCzwV4a5SYEYLImbVfG0cSqhtoD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vjgMvcgwZwYdB4YZwvaVeanYJ2M.jpg",
+  "tmdbId": 1092711,
+  "nota": 9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789073,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779329,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Plano B",
+  "dataLancamento": "2020-10-02"
+}

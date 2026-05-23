@@ -1,0 +1,42 @@
+{
+  "id": "ihostage",
+  "tipo": "filme",
+  "titulo": "iHostage",
+  "ano": null,
+  "descricao": "Um homem armado entra em uma Apple Store no centro de Amsterdã, e a polícia enfrenta um desafio muito complexo para resolver a questão.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/a607w49404wz7O5vvn5cgoj7DOQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
+  "tmdbId": 1371202,
+  "nota": 5.907,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786512,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774320,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782445,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "iHostage",
+  "dataLancamento": "2025-04-18"
+}

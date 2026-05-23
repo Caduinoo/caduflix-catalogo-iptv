@@ -1,0 +1,99 @@
+{
+  "id": "ss-gb",
+  "tipo": "serie",
+  "titulo": "SS-GB: Remontando a Segunda Guerra",
+  "ano": null,
+  "descricao": "O SS-GB é uma série dramática britânica de 2017 produzida para a BBC e baseada no romance de 1978 de mesmo nome de Len Deighton. Está ambientado em uma linha do tempo alternativa de 1941 em que o Reino Unido é ocupado pela Alemanha nazista durante a Segunda Guerra Mundial.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jf7K081EEjuypr2uQLB0X0Z1kvw.jpg",
+  "tmdbId": 68003,
+  "nota": 6.223,
+  "xtreamSeriesId": 6353,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10988735",
+          "tipo": "episodio",
+          "titulo": "SS GB S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10988735",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988736",
+          "tipo": "episodio",
+          "titulo": "SS GB S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10988736",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988737",
+          "tipo": "episodio",
+          "titulo": "SS GB S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10988737",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988738",
+          "tipo": "episodio",
+          "titulo": "SS GB S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10988738",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988739",
+          "tipo": "episodio",
+          "titulo": "SS GB S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10988739",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10988740",
+          "tipo": "episodio",
+          "titulo": "SS GB S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10988740",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "SS-GB",
+  "dataLancamento": "2017-02-19"
+}

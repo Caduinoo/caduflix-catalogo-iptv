@@ -1,0 +1,34 @@
+{
+  "id": "igualzinha-a-mim",
+  "tipo": "filme",
+  "titulo": "Igualzinha a Mim",
+  "ano": null,
+  "descricao": "A despreocupada vida de Freddy muda inesperadamente quando uma jovem aparece em sua porta dizendo ser sua filha. Como se isso não bastasse, recebe outra grande notícia: ele será avô.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fSiAuFe1zdvMjqfnjLdTq8AkyEb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/modvB5VGfsv0mu5ZzR3bk0qVwv2.jpg",
+  "tmdbId": 49073,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786511,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772907,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Igualita a mí",
+  "dataLancamento": "2010-08-12"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "tattoo-fail",
+  "tipo": "serie",
+  "titulo": "Tattoo Fail",
+  "ano": null,
+  "descricao": "Os melhores artistas transformam desastres de tatuagem em encobrimentos impressionantes, com designs escolhidos pelos entes queridos dos clientes.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sV7AIQdzBujypvXfK0k0SGivMlj.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/knfCNmBIMGotuctiY2PrKphzpaC.jpg",
+  "tmdbId": 128254,
+  "nota": 5.7,
+  "xtreamSeriesId": 5327,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10925349",
+          "tipo": "episodio",
+          "titulo": "Tattoo Fail S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10925349",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sV7AIQdzBujypvXfK0k0SGivMlj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925350",
+          "tipo": "episodio",
+          "titulo": "Tattoo Fail S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10925350",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sV7AIQdzBujypvXfK0k0SGivMlj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925351",
+          "tipo": "episodio",
+          "titulo": "Tattoo Fail S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10925351",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sV7AIQdzBujypvXfK0k0SGivMlj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925352",
+          "tipo": "episodio",
+          "titulo": "Tattoo Fail S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10925352",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sV7AIQdzBujypvXfK0k0SGivMlj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925353",
+          "tipo": "episodio",
+          "titulo": "Tattoo Fail S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10925353",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sV7AIQdzBujypvXfK0k0SGivMlj.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925354",
+          "tipo": "episodio",
+          "titulo": "Tattoo Fail S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10925354",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sV7AIQdzBujypvXfK0k0SGivMlj.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Tattoo Redo",
+  "dataLancamento": "2021-07-28"
+}

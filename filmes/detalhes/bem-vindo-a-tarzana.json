@@ -1,0 +1,34 @@
+{
+  "id": "bem-vindo-a-tarzana",
+  "tipo": "filme",
+  "titulo": "Bem-vindo à Tarzana",
+  "ano": null,
+  "descricao": "Depois de descobrir que sua empresa estava espionando, coletando e vendendo dados ilicitamente sobre eles, três amigos milenares se unem para lutar contra um chefe lascivo e o CEO maníaco da empresa obcecado por Tarzan.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/11jOjHMorE3JCrEfaLheGFijOFg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/726BEVWGb2wnVBSdQPJJ3psTFpV.jpg",
+  "tmdbId": 787738,
+  "nota": 7.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11022221,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11022193,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1774006615,
+  "tituloOriginal": "Take Me to Tarzana",
+  "dataLancamento": "2021-02-19"
+}

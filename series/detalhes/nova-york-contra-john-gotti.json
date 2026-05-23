@@ -1,0 +1,63 @@
+{
+  "id": "nova-york-contra-john-gotti",
+  "tipo": "serie",
+  "titulo": "Nova York Contra John Gotti",
+  "ano": null,
+  "descricao": "Esta série documental dos criadores de Nova York Contra a Máfia mostra os dois lados da batalha do FBI para derrubar o mafioso John Gotti.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5YzSLpq7UMyimeO4HX6pdFgcHoI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bW20pAvhZbEkmK4XxrsTuAXsDjd.jpg",
+  "tmdbId": 236006,
+  "nota": 7.232,
+  "xtreamSeriesId": 4884,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10915700",
+          "tipo": "episodio",
+          "titulo": "Nova York Contra John Gotti S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10915700",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5YzSLpq7UMyimeO4HX6pdFgcHoI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915701",
+          "tipo": "episodio",
+          "titulo": "Nova York Contra John Gotti S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10915701",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5YzSLpq7UMyimeO4HX6pdFgcHoI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10915702",
+          "tipo": "episodio",
+          "titulo": "Nova York Contra John Gotti S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10915702",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5YzSLpq7UMyimeO4HX6pdFgcHoI.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Get Gotti",
+  "dataLancamento": "2023-10-24"
+}

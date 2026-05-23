@@ -1,0 +1,34 @@
+{
+  "id": "sangue-e-ouro",
+  "tipo": "filme",
+  "titulo": "Sangue e Ouro",
+  "ano": null,
+  "descricao": "No fim da Segunda Guerra Mundial, um desertor alemão e uma jovem se envolvem em uma batalha sangrenta com um grupo de nazistas em busca de ouro escondido.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1YZT69IKGRUV620PZFmniAGoVrG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aCqsz1Wol8QImZPa3AjecpZPCpy.jpg",
+  "tmdbId": 1098110,
+  "nota": 6.669,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789581,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778067,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Blood & Gold",
+  "dataLancamento": "2023-04-21"
+}

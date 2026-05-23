@@ -1,0 +1,99 @@
+{
+  "id": "o-homem-das-castanhas",
+  "tipo": "serie",
+  "titulo": "O Homem das Castanhas",
+  "ano": null,
+  "descricao": "Ela foi assassinada em um playground de Copenhague. Perto do corpo, um bonequinho de castanhas pode ser a chave do mistério. Baseada no best-seller nórdico",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bKo9d4eFhytfIWm3ptsJd5pHdK2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
+  "tmdbId": 127865,
+  "nota": 7.5,
+  "xtreamSeriesId": 4941,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10916339",
+          "tipo": "episodio",
+          "titulo": "O Homem das Castanhas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10916339",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lt5HCXVH7LptUtA2IgKwk0uBD8v.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916340",
+          "tipo": "episodio",
+          "titulo": "O Homem das Castanhas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10916340",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lt5HCXVH7LptUtA2IgKwk0uBD8v.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916341",
+          "tipo": "episodio",
+          "titulo": "O Homem das Castanhas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10916341",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lt5HCXVH7LptUtA2IgKwk0uBD8v.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916342",
+          "tipo": "episodio",
+          "titulo": "O Homem das Castanhas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10916342",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lt5HCXVH7LptUtA2IgKwk0uBD8v.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916343",
+          "tipo": "episodio",
+          "titulo": "O Homem das Castanhas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10916343",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lt5HCXVH7LptUtA2IgKwk0uBD8v.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10916344",
+          "tipo": "episodio",
+          "titulo": "O Homem das Castanhas S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10916344",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lt5HCXVH7LptUtA2IgKwk0uBD8v.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Kastanjemanden",
+  "dataLancamento": "2021-09-29"
+}

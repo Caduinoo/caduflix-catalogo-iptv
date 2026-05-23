@@ -1,0 +1,34 @@
+{
+  "id": "um-mundo-normal",
+  "tipo": "filme",
+  "titulo": "Um Mundo Normal",
+  "ano": null,
+  "descricao": "Ernesto Caral é um diretor de teatro que prometeu à sua mãe doente que quando ela morresse, seu corpo seria jogado no mar de sua cidade natal. Quando esse dia chega e sua família decide enterrá-la em um cemitério, Ernesto rouba o caixão e embarca em uma viagem para realizar o último desejo de sua mãe.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jcPayF1psLKsxTkK2Korvub8Ymp.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Av2c2TfE1oD5U6d3UBnMVdTgsAP.jpg",
+  "tmdbId": 679891,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790655,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776982,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Un mundo normal",
+  "dataLancamento": "2020-09-11"
+}

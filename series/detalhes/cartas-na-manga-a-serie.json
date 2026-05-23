@@ -1,0 +1,75 @@
+{
+  "id": "cartas-na-manga-a-serie",
+  "tipo": "serie",
+  "titulo": "Cartas na Manga: A Série",
+  "ano": null,
+  "descricao": "No deserto e na cidade, esta antologia de humor conta quatro histórias singulares envolvendo ambição, desejo e aqueles que cedem à tentação.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iEJMW2zGXyhXPBPxwJLeWBQdxuV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zEkUDuzflg6yDWBGqrqCXDksqYL.jpg",
+  "tmdbId": 318188,
+  "nota": 9,
+  "xtreamSeriesId": 7224,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11034190",
+          "tipo": "episodio",
+          "titulo": "Cartas na Manga A Serie S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11034190",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5t1g6ramHYGQd75jSwugoCvpw5e.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11034191",
+          "tipo": "episodio",
+          "titulo": "Cartas na Manga A Serie S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11034191",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5t1g6ramHYGQd75jSwugoCvpw5e.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11034192",
+          "tipo": "episodio",
+          "titulo": "Cartas na Manga A Serie S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11034192",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5t1g6ramHYGQd75jSwugoCvpw5e.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11034193",
+          "tipo": "episodio",
+          "titulo": "Cartas na Manga A Serie S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11034193",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5t1g6ramHYGQd75jSwugoCvpw5e.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "الخلاط+",
+  "dataLancamento": "2026-04-02"
+}

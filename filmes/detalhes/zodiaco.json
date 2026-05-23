@@ -1,0 +1,34 @@
+{
+  "id": "zodiaco",
+  "tipo": "filme",
+  "titulo": "Zodíaco",
+  "ano": null,
+  "descricao": "Durante os anos 60 e 70, o medo aumenta em São Francisco com os ataques de um assassino maníaco chamado Zodíaco. Investigadores e jornalistas tentam descobrir a identidade do assassino e levá-lo à justiça. Enquanto isso, Zodíaco provoca as autoridades com mensagens crípticas, cifras e telefonemas ameaçadores.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+  "tmdbId": 1949,
+  "nota": 7.528,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791203,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780166,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Zodiac",
+  "dataLancamento": "2007-03-02"
+}

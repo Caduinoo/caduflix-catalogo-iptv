@@ -1,0 +1,42 @@
+{
+  "id": "ligacao-sombria",
+  "tipo": "filme",
+  "titulo": "Ligação Sombria",
+  "ano": null,
+  "descricao": "Um motorista vê sua vida sair do controle ao ser forçado, sob a mira de uma arma, a transportar um passageiro misterioso e imprevisível. Isolado em seu próprio carro, ele é obrigado a seguir regras sádicas impostas pelo sequestrador enquanto cruzam a noite. No entanto, conforme a tensão aumenta, eventos inesperados revelam que nem tudo é o que parece, transformando o trajeto em um jogo psicológico onde as verdadeiras intenções de ambos começam a emergir.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fQ8CQlejkIzbd26W5NQEjaG1syB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/g2EUWSPVSLyzIkrKdxuHSF2wGWh.jpg",
+  "tmdbId": 1030987,
+  "nota": 5.922,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786962,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770009,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782525,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Sympathy for the Devil",
+  "dataLancamento": "2023-07-20"
+}

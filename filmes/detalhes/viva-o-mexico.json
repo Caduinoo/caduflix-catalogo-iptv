@@ -1,0 +1,34 @@
+{
+  "id": "viva-o-mexico",
+  "tipo": "filme",
+  "titulo": "Viva o México!",
+  "ano": null,
+  "descricao": "Pancho volta à sua cidade natal com a esposa e os filhos para receber a herança deixada pelo avô. Mas seus parentes não vão deixar barato.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mZWLkJQeVy990LMFGlFJphOaioh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yRz2GuDYxUIkj1atbXpEETKYnV8.jpg",
+  "tmdbId": 868985,
+  "nota": 7.302,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791056,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777106,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "¡Que viva México!",
+  "dataLancamento": "2023-03-23"
+}

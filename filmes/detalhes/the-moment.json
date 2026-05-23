@@ -1,0 +1,42 @@
+{
+  "id": "the-moment",
+  "tipo": "filme",
+  "titulo": "O Momento",
+  "ano": null,
+  "descricao": "Uma estrela pop em ascensão lida com a complexidade da fama e as pressões da indústria enquanto se prepara para sua primeira turnê de arena.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/br52pIFl1dLvoDwMtFtmm6BapIH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
+  "tmdbId": 1422562,
+  "nota": 6.336,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034519,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11034482,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050092,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "The Moment",
+  "dataLancamento": "2026-01-30"
+}

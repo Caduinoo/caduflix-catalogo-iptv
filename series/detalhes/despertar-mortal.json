@@ -1,0 +1,48 @@
+{
+  "id": "despertar-mortal",
+  "tipo": "serie",
+  "titulo": "Despertar Mortal",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 229,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10797059",
+          "tipo": "episodio",
+          "titulo": "Despertar Mortal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10797059",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2GD6yW9V83Lxmas7ZqSit4R9UL1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10797060",
+          "tipo": "episodio",
+          "titulo": "Despertar Mortal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10797060",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2GD6yW9V83Lxmas7ZqSit4R9UL1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2
+}

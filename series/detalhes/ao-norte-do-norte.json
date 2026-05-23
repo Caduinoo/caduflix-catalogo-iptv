@@ -1,0 +1,123 @@
+{
+  "id": "ao-norte-do-norte",
+  "tipo": "serie",
+  "titulo": "Ao Norte do Norte",
+  "ano": null,
+  "descricao": "Uma jovem otimista tenta se reinventar em uma cidadezinha do Ártico onde todo mundo se conhece.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nyCmPCge5OvV80HIRj3tTJBVnE3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/w3mBUviE0R9jYHoPLP5IP8vAbJ8.jpg",
+  "tmdbId": 249023,
+  "nota": 6.917,
+  "xtreamSeriesId": 4071,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10900896",
+          "tipo": "episodio",
+          "titulo": "Ao Norte do Norte S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10900896",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nyCmPCge5OvV80HIRj3tTJBVnE3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900897",
+          "tipo": "episodio",
+          "titulo": "Ao Norte do Norte S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10900897",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nyCmPCge5OvV80HIRj3tTJBVnE3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900898",
+          "tipo": "episodio",
+          "titulo": "Ao Norte do Norte S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10900898",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nyCmPCge5OvV80HIRj3tTJBVnE3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900899",
+          "tipo": "episodio",
+          "titulo": "Ao Norte do Norte S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10900899",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nyCmPCge5OvV80HIRj3tTJBVnE3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900900",
+          "tipo": "episodio",
+          "titulo": "Ao Norte do Norte S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10900900",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nyCmPCge5OvV80HIRj3tTJBVnE3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900901",
+          "tipo": "episodio",
+          "titulo": "Ao Norte do Norte S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10900901",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nyCmPCge5OvV80HIRj3tTJBVnE3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900902",
+          "tipo": "episodio",
+          "titulo": "Ao Norte do Norte S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10900902",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nyCmPCge5OvV80HIRj3tTJBVnE3.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900903",
+          "tipo": "episodio",
+          "titulo": "Ao Norte do Norte S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10900903",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nyCmPCge5OvV80HIRj3tTJBVnE3.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "North of North",
+  "dataLancamento": "2025-01-07"
+}

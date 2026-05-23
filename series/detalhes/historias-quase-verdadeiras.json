@@ -1,0 +1,75 @@
+{
+  "id": "historias-quase-verdadeiras",
+  "tipo": "serie",
+  "titulo": "Histórias Quase Verdadeiras",
+  "ano": null,
+  "descricao": "Quatro pequenas esquetes cujo tema central é a mentira, suas motivações e consequências. As histórias são baseadas nos causos contados por Ariano Suassuna em suas aulas mestras.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sr0yYbldpFPWrjKWQz6bhbUv8Z.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9mYIlkioHU3is4jOebFBjOtmlX5.jpg",
+  "tmdbId": 217082,
+  "nota": 3.5,
+  "xtreamSeriesId": 3040,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10871275",
+          "tipo": "episodio",
+          "titulo": "Histórias Quase Verdadeiras S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10871275",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sr0yYbldpFPWrjKWQz6bhbUv8Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10871276",
+          "tipo": "episodio",
+          "titulo": "Histórias Quase Verdadeiras S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10871276",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sr0yYbldpFPWrjKWQz6bhbUv8Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10871277",
+          "tipo": "episodio",
+          "titulo": "Histórias Quase Verdadeiras S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10871277",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sr0yYbldpFPWrjKWQz6bhbUv8Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10871278",
+          "tipo": "episodio",
+          "titulo": "Histórias Quase Verdadeiras S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10871278",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sr0yYbldpFPWrjKWQz6bhbUv8Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Histórias Quase Verdadeiras",
+  "dataLancamento": "2023-01-02"
+}

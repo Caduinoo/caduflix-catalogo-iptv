@@ -1,0 +1,123 @@
+{
+  "id": "os-eleitos",
+  "tipo": "serie",
+  "titulo": "Os Eleitos",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iZ74Jk6tzLeT36q0l15zkCB38FF.jpg",
+  "tmdbId": 240992,
+  "nota": 7.2,
+  "xtreamSeriesId": 1986,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10844730",
+          "tipo": "episodio",
+          "titulo": "Os Eleitos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10844730",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844731",
+          "tipo": "episodio",
+          "titulo": "Os Eleitos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10844731",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844732",
+          "tipo": "episodio",
+          "titulo": "Os Eleitos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10844732",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844733",
+          "tipo": "episodio",
+          "titulo": "Os Eleitos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10844733",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844734",
+          "tipo": "episodio",
+          "titulo": "Os Eleitos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10844734",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844735",
+          "tipo": "episodio",
+          "titulo": "Os Eleitos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10844735",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844736",
+          "tipo": "episodio",
+          "titulo": "Os Eleitos S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10844736",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844737",
+          "tipo": "episodio",
+          "titulo": "Os Eleitos S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10844737",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Os Eleitos",
+  "dataLancamento": "2023-12-29"
+}

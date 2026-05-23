@@ -1,0 +1,34 @@
+{
+  "id": "operacao-matador",
+  "tipo": "filme",
+  "titulo": "Operação Matador",
+  "ano": null,
+  "descricao": "Um grupo de soldados parte em uma perigosa missão para localizar um depósito secreto de munição japonesa. Mas ao adentrarem os pântanos da Ilha Ramree, se deparam com crocodilos famintos, transformando a missão em uma luta desesperada por sobrevivência.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oET7xoEmZQfwvsQDCr33JTGXwFA.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wBzZ9UObvREIeP2mbstll7sYWs3.jpg",
+  "tmdbId": 811646,
+  "nota": 5.769,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788709,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778052,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Saltwater: The Battle for Ramree Island",
+  "dataLancamento": "2021-06-01"
+}

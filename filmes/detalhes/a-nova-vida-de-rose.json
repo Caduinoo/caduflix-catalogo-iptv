@@ -1,0 +1,34 @@
+{
+  "id": "a-nova-vida-de-rose",
+  "tipo": "filme",
+  "titulo": "A Nova Vida de Rose",
+  "ano": null,
+  "descricao": "Rose é uma mulher de 78 anos que acabou de perder seu marido. Mas quando o luto se transforma em um poderoso impulso de vida, ela se redescobre como uma nova mulher.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AhtYR3pwh2PeG4R6UWoIZj0oR9s.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/19JHF5pkqCg8TQigSVZsTq4gajC.jpg",
+  "tmdbId": 846864,
+  "nota": 5.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783688,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774658,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Rose",
+  "dataLancamento": "2021-12-08"
+}

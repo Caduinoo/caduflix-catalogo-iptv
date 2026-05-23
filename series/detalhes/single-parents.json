@@ -1,0 +1,99 @@
+{
+  "id": "single-parents",
+  "tipo": "serie",
+  "titulo": "Single Parents",
+  "ano": null,
+  "descricao": "Um grupo de pais solteiros formam o seu próprio sistema de apoio à medida que criam os seus filhos e tentam iniciar novos relacionamentos.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qL2MIOtTNLEKXGFZ0oKBqwbujIi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vKJGkOo3yqbpbZBv6133r8F3eUt.jpg",
+  "tmdbId": 81127,
+  "nota": 6.9,
+  "xtreamSeriesId": 972,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10815980",
+          "tipo": "episodio",
+          "titulo": "Single Parents S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10815980",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qL2MIOtTNLEKXGFZ0oKBqwbujIi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815981",
+          "tipo": "episodio",
+          "titulo": "Single Parents S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10815981",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qL2MIOtTNLEKXGFZ0oKBqwbujIi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815982",
+          "tipo": "episodio",
+          "titulo": "Single Parents S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10815982",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qL2MIOtTNLEKXGFZ0oKBqwbujIi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815983",
+          "tipo": "episodio",
+          "titulo": "Single Parents S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10815983",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qL2MIOtTNLEKXGFZ0oKBqwbujIi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815984",
+          "tipo": "episodio",
+          "titulo": "Single Parents S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10815984",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qL2MIOtTNLEKXGFZ0oKBqwbujIi.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815985",
+          "tipo": "episodio",
+          "titulo": "Single Parents S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10815985",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qL2MIOtTNLEKXGFZ0oKBqwbujIi.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Single Parents",
+  "dataLancamento": "2018-09-26"
+}

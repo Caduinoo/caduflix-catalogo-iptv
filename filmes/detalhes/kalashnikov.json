@@ -1,0 +1,26 @@
+{
+  "id": "kalashnikov",
+  "tipo": "filme",
+  "titulo": "Kalashnikov",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lEOA1Hy9mpmRNeufKGCsz6CM3Cx.jpg",
+  "banner": null,
+  "tmdbId": 399621,
+  "nota": 3.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786790,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Kalashnikov",
+  "dataLancamento": "2014-02-10"
+}

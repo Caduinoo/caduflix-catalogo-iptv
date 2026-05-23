@@ -1,0 +1,34 @@
+{
+  "id": "o-pretendente",
+  "tipo": "filme",
+  "titulo": "O Pretendente",
+  "ano": null,
+  "descricao": "Uma história de romance da virada do século baseada no romance homônimo de Géza Gárdonyi. Seu pai encontra um marido para Ida, de dezenove anos, por meio de um anúncio de emprego, mas o casamento contratual pode se transformar em amor?",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bPlPJn8ruIwovyYeKjghbnYJs5Y.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kB9Iii9sZYVwE4xCDmHf64rYtug.jpg",
+  "tmdbId": 1016661,
+  "nota": 6.671,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788381,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779284,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Ida regénye",
+  "dataLancamento": "2022-07-11"
+}

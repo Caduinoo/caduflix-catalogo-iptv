@@ -1,0 +1,99 @@
+{
+  "id": "antracite",
+  "tipo": "serie",
+  "titulo": "Antracite",
+  "ano": null,
+  "descricao": "Um antigo caso é reaberto depois que um repórter desaparece, levando a filha dele a investigar uma cidadezinha assombrada por uma seita, segredos e mortes.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qK9dvXKBbgFOXg7O5hAvIobNVLu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bunYPPsfbdnc5oerCW0oyDE6RVq.jpg",
+  "tmdbId": 244431,
+  "nota": 6.2,
+  "xtreamSeriesId": 4074,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10900914",
+          "tipo": "episodio",
+          "titulo": "Antracite S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10900914",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qK9dvXKBbgFOXg7O5hAvIobNVLu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900915",
+          "tipo": "episodio",
+          "titulo": "Antracite S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10900915",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qK9dvXKBbgFOXg7O5hAvIobNVLu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900916",
+          "tipo": "episodio",
+          "titulo": "Antracite S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10900916",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qK9dvXKBbgFOXg7O5hAvIobNVLu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900917",
+          "tipo": "episodio",
+          "titulo": "Antracite S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10900917",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qK9dvXKBbgFOXg7O5hAvIobNVLu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900918",
+          "tipo": "episodio",
+          "titulo": "Antracite S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10900918",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qK9dvXKBbgFOXg7O5hAvIobNVLu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900919",
+          "tipo": "episodio",
+          "titulo": "Antracite S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10900919",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qK9dvXKBbgFOXg7O5hAvIobNVLu.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Anthracite",
+  "dataLancamento": "2024-04-10"
+}

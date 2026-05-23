@@ -1,0 +1,75 @@
+{
+  "id": "doutor-castor",
+  "tipo": "serie",
+  "titulo": "Doutor Castor",
+  "ano": null,
+  "descricao": "Poderoso chefão do jogo do bicho, Castor de Andrade usou o futebol e o carnaval para legitimar sua imagem. Sedutor, carismático e violento, ele construiu um império de crimes no RJ.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/j11ZZgDJtr2TdAB0N2v2IByx54Z.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/A0vBgsDaKzle4zKi7WoEYfgTq47.jpg",
+  "tmdbId": 118585,
+  "nota": 8.4,
+  "xtreamSeriesId": 2980,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10869396",
+          "tipo": "episodio",
+          "titulo": "Doutor Castor S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10869396",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j11ZZgDJtr2TdAB0N2v2IByx54Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869397",
+          "tipo": "episodio",
+          "titulo": "Doutor Castor S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10869397",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j11ZZgDJtr2TdAB0N2v2IByx54Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869398",
+          "tipo": "episodio",
+          "titulo": "Doutor Castor S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10869398",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j11ZZgDJtr2TdAB0N2v2IByx54Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869399",
+          "tipo": "episodio",
+          "titulo": "Doutor Castor S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10869399",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/j11ZZgDJtr2TdAB0N2v2IByx54Z.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Doutor Castor",
+  "dataLancamento": "2021-02-11"
+}

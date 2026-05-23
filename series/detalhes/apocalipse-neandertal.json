@@ -1,0 +1,48 @@
+{
+  "id": "apocalipse-neandertal",
+  "tipo": "serie",
+  "titulo": "Apocalipse Neandertal",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": null,
+  "tmdbId": null,
+  "nota": 0,
+  "xtreamSeriesId": 4087,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10901147",
+          "tipo": "episodio",
+          "titulo": "Apocalipse Neandertal S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10901147",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUrJ1LPVW3p8K4yKC9dIePSlyGG.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10901148",
+          "tipo": "episodio",
+          "titulo": "Apocalipse Neandertal S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10901148",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/tUrJ1LPVW3p8K4yKC9dIePSlyGG.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2
+}

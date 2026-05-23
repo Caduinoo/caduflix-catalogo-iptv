@@ -1,0 +1,42 @@
+{
+  "id": "mikaela",
+  "tipo": "filme",
+  "titulo": "Mikaela",
+  "ano": null,
+  "descricao": "Quando uma nevasca bloqueia uma estrada, uma gangue de ladrões aproveita para roubar um carro-forte, estragando a noite de um policial que só queria chegar em casa.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/u6wH4qL0Hi611QoChzFXm7KoHYY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ynobPVes7NfhaBI020POWQ4oFfn.jpg",
+  "tmdbId": 1315988,
+  "nota": 6.167,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787332,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11041309,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050029,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "Mikaela",
+  "dataLancamento": "2025-01-31"
+}

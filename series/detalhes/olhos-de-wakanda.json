@@ -1,0 +1,75 @@
+{
+  "id": "olhos-de-wakanda",
+  "tipo": "serie",
+  "titulo": "Olhos de Wakanda",
+  "ano": null,
+  "descricao": "Acompanha as aventuras de corajosos Cães de Guerra da organização secreta dos Hatut Zeraze ao longo da história. Nessa aventura itinerante, eles precisam enfrentar missões perigosas para recuperar artefatos de Vibranium perdidos no mundo.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fcK54YvKdMTAugHOsBBK4kfrjb4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
+  "tmdbId": 241388,
+  "nota": 6.19,
+  "xtreamSeriesId": 1976,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10844465",
+          "tipo": "episodio",
+          "titulo": "Olhos de Wakanda S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10844465",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcK54YvKdMTAugHOsBBK4kfrjb4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844466",
+          "tipo": "episodio",
+          "titulo": "Olhos de Wakanda S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10844466",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcK54YvKdMTAugHOsBBK4kfrjb4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844467",
+          "tipo": "episodio",
+          "titulo": "Olhos de Wakanda S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10844467",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcK54YvKdMTAugHOsBBK4kfrjb4.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10844468",
+          "tipo": "episodio",
+          "titulo": "Olhos de Wakanda S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10844468",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fcK54YvKdMTAugHOsBBK4kfrjb4.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Eyes of Wakanda",
+  "dataLancamento": "2025-08-01"
+}

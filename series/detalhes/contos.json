@@ -1,0 +1,75 @@
+{
+  "id": "contos",
+  "tipo": "serie",
+  "titulo": "Grimm: Contos de Terror",
+  "ano": null,
+  "descricao": "Nick Burkhardt é um detetive de homicídios que recebe novas responsabilidades após descobrir que é descendente de Grimm, uma sociedade secreta. O seu principal objetivo é conseguir encontrar um ponto de equilíbrio entre a vida real e a mitologia. A nova rotina traz desafios e perigos, sobretudo à noiva de Nick, Juliette Silverton, e ao colega de trabalho, Hank Griffin.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
+  "tmdbId": 39351,
+  "nota": 8.265,
+  "xtreamSeriesId": 7189,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11032170",
+          "tipo": "episodio",
+          "titulo": "Contos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11032170",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11032171",
+          "tipo": "episodio",
+          "titulo": "Contos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11032171",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11032172",
+          "tipo": "episodio",
+          "titulo": "Contos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11032172",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11032173",
+          "tipo": "episodio",
+          "titulo": "Contos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11032173",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/5hC8CertBqHbXNPcfm1LZ18VcjD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Grimm",
+  "dataLancamento": "2011-10-28"
+}

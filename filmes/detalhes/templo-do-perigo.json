@@ -1,0 +1,34 @@
+{
+  "id": "templo-do-perigo",
+  "tipo": "filme",
+  "titulo": "Templo do Perigo",
+  "ano": null,
+  "descricao": "Estamos em 1985 e o aventureiro, Jonathan Danger, cai em uma ilha em busca de um templo que contém seu bilhete para viajar no tempo, mas ele deve alcançá-lo antes que os soviéticos coloquem suas mãos na máquina e alterem a história.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bqwFMsRPTXIBCnFj82EIpCjDO85.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/djd9qgZjmIRBYedxiwUeoRIezXq.jpg",
+  "tmdbId": 812654,
+  "nota": 4.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790033,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770771,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Danger! Danger!",
+  "dataLancamento": "2021-03-15"
+}

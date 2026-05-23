@@ -1,0 +1,75 @@
+{
+  "id": "onde-esta-tim-lopes",
+  "tipo": "serie",
+  "titulo": "Onde Está Tim Lopes?",
+  "ano": null,
+  "descricao": "Amigos e colegas apresentam o estilo único de Tim Lopes fazer jornalismo. Por meio das matérias de jornal e TV, o jornalista conquistou o público leitor e telespectador.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/XUpcPUHP5lwVXLv1Q3CnBRw1rR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/t36JXf3Bn33oYftvOuw6oNQ700n.jpg",
+  "tmdbId": 227639,
+  "nota": 10,
+  "xtreamSeriesId": 3158,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10875779",
+          "tipo": "episodio",
+          "titulo": "Onde Está Tim Lopes S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10875779",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/XUpcPUHP5lwVXLv1Q3CnBRw1rR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875780",
+          "tipo": "episodio",
+          "titulo": "Onde Está Tim Lopes S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10875780",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/XUpcPUHP5lwVXLv1Q3CnBRw1rR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875781",
+          "tipo": "episodio",
+          "titulo": "Onde Está Tim Lopes S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10875781",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/XUpcPUHP5lwVXLv1Q3CnBRw1rR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10875782",
+          "tipo": "episodio",
+          "titulo": "Onde Está Tim Lopes S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10875782",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/XUpcPUHP5lwVXLv1Q3CnBRw1rR.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Onde Está Tim Lopes?",
+  "dataLancamento": "2023-06-29"
+}

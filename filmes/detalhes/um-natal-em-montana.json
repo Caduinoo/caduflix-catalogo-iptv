@@ -1,0 +1,34 @@
+{
+  "id": "um-natal-em-montana",
+  "tipo": "filme",
+  "titulo": "Um Natal em Montana",
+  "ano": null,
+  "descricao": "Merry é dona de um rancho e não teve sorte no amor, mas isso está prestes a mudar quando um pai solteiro, Mark, e seus dois filhos reservam o rancho para a semana de Natal.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jkpveROjtuiuKJRJSWo6tXayrfH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ms9T1wyLdleZSj5qBywR2jwAjvJ.jpg",
+  "tmdbId": 881857,
+  "nota": 5.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790673,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778807,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Mistletoe in Montana",
+  "dataLancamento": "2021-12-17"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-homem-da-cabana",
+  "tipo": "filme",
+  "titulo": "O Homem da Cabana",
+  "ano": null,
+  "descricao": "Nas profundezas da floresta, um caminhante perdido tropeça na cabana de um velho errático e recluso. O que começa como uma conversa cordial logo se torna perigoso quando fica claro que um ou ambos podem estar escondendo um segredo aterrorizante.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/njTeSfX4j6ahuijngzq9PnrC5UQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oBxslht0UsJURwFfpPN1arURnJ8.jpg",
+  "tmdbId": 766220,
+  "nota": 5.739,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788157,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781113,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Old Man",
+  "dataLancamento": "2022-10-14"
+}

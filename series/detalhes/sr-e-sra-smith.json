@@ -1,0 +1,123 @@
+{
+  "id": "sr-e-sra-smith",
+  "tipo": "serie",
+  "titulo": "Sr. & Sra. Smith",
+  "ano": null,
+  "descricao": "Conheçam os Smiths: dois desconhecidos solitários, John e Jane, que abriram mão de suas vidas e identidades para se tornarem parceiros – tanto na espionagem quanto no casamento.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5mC90b2FrJMe3Xr26cL0HeWcrvG.jpg",
+  "tmdbId": 118642,
+  "nota": 6.532,
+  "xtreamSeriesId": 647,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10807654",
+          "tipo": "episodio",
+          "titulo": "Sr. e Sra. Smith S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10807654",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807655",
+          "tipo": "episodio",
+          "titulo": "Sr. e Sra. Smith S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10807655",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807656",
+          "tipo": "episodio",
+          "titulo": "Sr. e Sra. Smith S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10807656",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807657",
+          "tipo": "episodio",
+          "titulo": "Sr. e Sra. Smith S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10807657",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807658",
+          "tipo": "episodio",
+          "titulo": "Sr. e Sra. Smith S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10807658",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807659",
+          "tipo": "episodio",
+          "titulo": "Sr. e Sra. Smith S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10807659",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807660",
+          "tipo": "episodio",
+          "titulo": "Sr. e Sra. Smith S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10807660",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10807661",
+          "tipo": "episodio",
+          "titulo": "Sr. e Sra. Smith S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10807661",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Mr. & Mrs. Smith",
+  "dataLancamento": "2024-02-01"
+}

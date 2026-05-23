@@ -1,0 +1,75 @@
+{
+  "id": "catherine-the-great",
+  "tipo": "serie",
+  "titulo": "Catarina, A Grande",
+  "ano": null,
+  "descricao": "Por entre escândalos, intriga e muito conflito, a imperatriz russa Catarina, a Grande, desenvolve uma relação fervorosa e singular com Grigory Potemkin enquanto ambos vencem adversários e agem como os arquitetos da Rússia moderna.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/urNIL8B91rzdwwgvJafGEMBiTSF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2bfdpmknShJgvczyJO76sNARQJF.jpg",
+  "tmdbId": 76692,
+  "nota": 6.705,
+  "xtreamSeriesId": 2918,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10865415",
+          "tipo": "episodio",
+          "titulo": "Catherine the Great S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10865415",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/urNIL8B91rzdwwgvJafGEMBiTSF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865416",
+          "tipo": "episodio",
+          "titulo": "Catherine the Great S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10865416",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/urNIL8B91rzdwwgvJafGEMBiTSF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865417",
+          "tipo": "episodio",
+          "titulo": "Catherine the Great S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10865417",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/urNIL8B91rzdwwgvJafGEMBiTSF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865418",
+          "tipo": "episodio",
+          "titulo": "Catherine the Great S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10865418",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/urNIL8B91rzdwwgvJafGEMBiTSF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Catherine the Great",
+  "dataLancamento": "2019-10-03"
+}

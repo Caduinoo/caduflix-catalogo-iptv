@@ -1,0 +1,99 @@
+{
+  "id": "as-ginastas",
+  "tipo": "serie",
+  "titulo": "As Ginastas",
+  "ano": null,
+  "descricao": "Um thriller ambientado no mundo da ginástica feminina, em uma história de competição feroz, amizade e segredos.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cbZ3hBynkwonuEnv9iglmUVuksg.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Ae78rzlpRJuSLAUh2oivB4vDnHW.jpg",
+  "tmdbId": 213228,
+  "nota": 7.5,
+  "xtreamSeriesId": 109,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10794361",
+          "tipo": "episodio",
+          "titulo": "As Ginastas S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10794361",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cbZ3hBynkwonuEnv9iglmUVuksg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794362",
+          "tipo": "episodio",
+          "titulo": "As Ginastas S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10794362",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cbZ3hBynkwonuEnv9iglmUVuksg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794363",
+          "tipo": "episodio",
+          "titulo": "As Ginastas S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10794363",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cbZ3hBynkwonuEnv9iglmUVuksg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794364",
+          "tipo": "episodio",
+          "titulo": "As Ginastas S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10794364",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cbZ3hBynkwonuEnv9iglmUVuksg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794365",
+          "tipo": "episodio",
+          "titulo": "As Ginastas S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10794365",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cbZ3hBynkwonuEnv9iglmUVuksg.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10794366",
+          "tipo": "episodio",
+          "titulo": "As Ginastas S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10794366",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cbZ3hBynkwonuEnv9iglmUVuksg.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Corpo Libero",
+  "dataLancamento": "2022-10-26"
+}

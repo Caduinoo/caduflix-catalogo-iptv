@@ -1,0 +1,34 @@
+{
+  "id": "minha-vida-incomoda-muita-gente",
+  "tipo": "filme",
+  "titulo": "Minha Vida Incomoda Muita Gente",
+  "ano": null,
+  "descricao": "De coração partido e desempregada, Leyla decide se reinventar e buscar a felicidade enquanto a família tenta arranjar um marido para ela.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9ZA1Nc7B6z6MuGZz289YUTmAvOR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/izC8D4Bc9ebeupZB020cWUOgDez.jpg",
+  "tmdbId": 841764,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787373,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773180,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Meskina",
+  "dataLancamento": "2021-07-15"
+}

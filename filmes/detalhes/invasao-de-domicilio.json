@@ -1,0 +1,34 @@
+{
+  "id": "invasao-de-domicilio",
+  "tipo": "filme",
+  "titulo": "Invasão de Domicílio",
+  "ano": null,
+  "descricao": "Casey deve sobreviver à noite após um grupo de intrusos, liderados por Rose, invadir a casa de sua família para roubar suas obras de arte inestimáveis.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/x2jy6PV0uoPMG7L8bLEfkE9iMrH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pFnEAK3eN8xX9AeggG9ISFYr1OO.jpg",
+  "tmdbId": 835551,
+  "nota": 5.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786619,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779785,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Masquerade",
+  "dataLancamento": "2021-07-30"
+}

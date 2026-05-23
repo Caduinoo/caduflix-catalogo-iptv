@@ -1,0 +1,42 @@
+{
+  "id": "super-mario-bros-o-filme",
+  "tipo": "filme",
+  "titulo": "Super Mario Bros. O Filme",
+  "ano": null,
+  "descricao": "Transportados do Brooklyn para o Reino Cogumelo num passe de mágica, dois corajosos encanadores conhecem uma princesa e combatem um tirano que cospe fogo.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ij8sapIEbLf2g8npOu6XgsQS2w0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+  "tmdbId": 502356,
+  "nota": 7.599,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789958,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771816,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782980,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "The Super Mario Bros. Movie",
+  "dataLancamento": "2023-04-05"
+}

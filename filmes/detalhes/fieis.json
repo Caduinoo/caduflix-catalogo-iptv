@@ -1,0 +1,34 @@
+{
+  "id": "fieis",
+  "tipo": "filme",
+  "titulo": "Fiéis",
+  "ano": null,
+  "descricao": "Duas amigas criam uma complicada rede de mentiras, mas tudo vem à tona depois que uma delas desaparece.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tRIiyvty7h6d9F5Al2nxcxwI09f.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wM7Q43bXytzDAvgsu0zNwNtBx1r.jpg",
+  "tmdbId": 1030613,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786024,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779742,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Faithfully Yours",
+  "dataLancamento": "2022-12-22"
+}

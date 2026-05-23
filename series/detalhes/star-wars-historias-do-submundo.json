@@ -1,0 +1,99 @@
+{
+  "id": "star-wars-historias-do-submundo",
+  "tipo": "serie",
+  "titulo": "Star Wars: Histórias do Submundo",
+  "ano": null,
+  "descricao": "Dois bandidos devem passar pelo submundo perigoso da galáxia enquanto planejam seus destinos.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/phktSbh2mnaBw8qUgzTO8yK3jih.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hMMWtinDnIjvUeiWKmvpkmnxGnK.jpg",
+  "tmdbId": 288055,
+  "nota": 7.225,
+  "xtreamSeriesId": 2065,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10847296",
+          "tipo": "episodio",
+          "titulo": "Star Wars Historias do Submundo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10847296",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/phktSbh2mnaBw8qUgzTO8yK3jih.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847297",
+          "tipo": "episodio",
+          "titulo": "Star Wars Historias do Submundo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10847297",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/phktSbh2mnaBw8qUgzTO8yK3jih.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847298",
+          "tipo": "episodio",
+          "titulo": "Star Wars Historias do Submundo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10847298",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/phktSbh2mnaBw8qUgzTO8yK3jih.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847299",
+          "tipo": "episodio",
+          "titulo": "Star Wars Historias do Submundo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10847299",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/phktSbh2mnaBw8qUgzTO8yK3jih.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847300",
+          "tipo": "episodio",
+          "titulo": "Star Wars Historias do Submundo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10847300",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/phktSbh2mnaBw8qUgzTO8yK3jih.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10847301",
+          "tipo": "episodio",
+          "titulo": "Star Wars Historias do Submundo S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10847301",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/phktSbh2mnaBw8qUgzTO8yK3jih.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Star Wars: Tales of the Underworld",
+  "dataLancamento": "2025-05-04"
+}

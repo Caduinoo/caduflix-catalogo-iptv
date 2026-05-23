@@ -1,0 +1,34 @@
+{
+  "id": "o-ninho",
+  "tipo": "filme",
+  "titulo": "O Ninho",
+  "ano": null,
+  "descricao": "Ao fazer uma reforma em seu ninho, uma cegonha macho acidentalmente derruba um dos ovos de sua companheira.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nCOw4LTjXrLvlberzLTRLHGYi6I.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f3X1KZZVIRButVE6WyfJL3YICQS.jpg",
+  "tmdbId": 1398584,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788324,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781166,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "O Ninho",
+  "dataLancamento": "2008-05-29"
+}

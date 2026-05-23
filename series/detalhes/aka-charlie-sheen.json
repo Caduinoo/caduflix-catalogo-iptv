@@ -1,0 +1,51 @@
+{
+  "id": "aka-charlie-sheen",
+  "tipo": "serie",
+  "titulo": "aka Charlie Sheen",
+  "ano": null,
+  "descricao": "Charlie Sheen conta sua história neste documentário em duas partes, que acompanha sua ascensão em Hollywood, os escândalos e o caminho para a recuperação.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qSxabAdLMiJWIJUb7hbSVvwMm4s.jpg",
+  "tmdbId": 298234,
+  "nota": 7.4,
+  "xtreamSeriesId": 4044,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10900519",
+          "tipo": "episodio",
+          "titulo": "aka Charlie Sheen S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10900519",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10900520",
+          "tipo": "episodio",
+          "titulo": "aka Charlie Sheen S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10900520",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "aka Charlie Sheen",
+  "dataLancamento": "2025-09-10"
+}

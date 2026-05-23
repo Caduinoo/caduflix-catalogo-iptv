@@ -1,0 +1,26 @@
+{
+  "id": "emma",
+  "tipo": "filme",
+  "titulo": "Emma",
+  "ano": null,
+  "descricao": "Emma Woodhouse é uma jovem rica e inteligente, que não tem pretensões de se casar tão cedo, para ficar sempre perto do pai. Porém, isso não a impede de dar uma de 'casamenteira', tentando juntar casais que considere apropriados entre seus conhecidos, sem perceber os problemas causados com sua imaginação e teimosia.",
+  "generos": [
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rzVlyZRQQnYe0rDuLrHSnVtDD3j.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg",
+  "tmdbId": 556678,
+  "nota": 7.014,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772703,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567048,
+  "tituloOriginal": "Emma.",
+  "dataLancamento": "2020-02-13"
+}

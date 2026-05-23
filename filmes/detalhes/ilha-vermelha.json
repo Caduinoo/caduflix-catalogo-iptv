@@ -1,0 +1,26 @@
+{
+  "id": "ilha-vermelha",
+  "tipo": "filme",
+  "titulo": "Ilha Vermelha",
+  "ano": null,
+  "descricao": "Um casal angustiado fica preso em uma ilha isolada e é caçado por uma força inesperada.",
+  "generos": [
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5nigCzkT9LiOoLfGgnLWqehDy4A.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gRghyEUbqfeyYJtcExJwfeYvqNE.jpg",
+  "tmdbId": 592660,
+  "nota": 4.1,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780819,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567058,
+  "tituloOriginal": "Red Island",
+  "dataLancamento": "2018-12-01"
+}

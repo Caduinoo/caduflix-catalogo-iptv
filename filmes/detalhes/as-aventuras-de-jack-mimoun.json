@@ -1,0 +1,34 @@
+{
+  "id": "as-aventuras-de-jack-mimoun",
+  "tipo": "filme",
+  "titulo": "As Aventuras de Jack Mimoun",
+  "ano": null,
+  "descricao": "O aventureiro Jack Minoun terá que voltar a uma ilha selvagem depois de se tornar uma estrela. Ao lado de um grupo imprevisível, viverá uma caça ao tesouro em busca de uma espada pirata.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/u9Rl3giIdVM2ag25AFjjfzOpskV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iGOKCV5I9kFOLRDL1w4oKIO7YP3.jpg",
+  "tmdbId": 893369,
+  "nota": 5.293,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784300,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772292,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Jack Mimoun et les secrets de Val Verde",
+  "dataLancamento": "2022-10-12"
+}

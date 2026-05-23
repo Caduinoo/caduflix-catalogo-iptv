@@ -1,0 +1,121 @@
+{
+  "id": "coliseu",
+  "tipo": "serie",
+  "titulo": "Coliseu",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXuLNDG9UICDXqG0ciyQpjuW4SX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hFlvQRRZYtOlv41pChaFdya0CVV.jpg",
+  "tmdbId": null,
+  "nota": 7,
+  "xtreamSeriesId": 1387,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10828138",
+          "tipo": "episodio",
+          "titulo": "Coliseu S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10828138",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qXuLNDG9UICDXqG0ciyQpjuW4SX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828139",
+          "tipo": "episodio",
+          "titulo": "Coliseu S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10828139",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qXuLNDG9UICDXqG0ciyQpjuW4SX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828140",
+          "tipo": "episodio",
+          "titulo": "Coliseu S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10828140",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qXuLNDG9UICDXqG0ciyQpjuW4SX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828141",
+          "tipo": "episodio",
+          "titulo": "Coliseu S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10828141",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qXuLNDG9UICDXqG0ciyQpjuW4SX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828142",
+          "tipo": "episodio",
+          "titulo": "Coliseu S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10828142",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qXuLNDG9UICDXqG0ciyQpjuW4SX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828143",
+          "tipo": "episodio",
+          "titulo": "Coliseu S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10828143",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qXuLNDG9UICDXqG0ciyQpjuW4SX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828144",
+          "tipo": "episodio",
+          "titulo": "Coliseu S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10828144",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qXuLNDG9UICDXqG0ciyQpjuW4SX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10828145",
+          "tipo": "episodio",
+          "titulo": "Coliseu S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10828145",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qXuLNDG9UICDXqG0ciyQpjuW4SX.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8
+}

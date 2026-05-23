@@ -1,0 +1,99 @@
+{
+  "id": "black-knight",
+  "tipo": "serie",
+  "titulo": "Black Knight",
+  "ano": null,
+  "descricao": "Em um 2071 distópico, quando o mundo está devastado pela poluição, um refugiado luta para ser entregador, conseguir comida e sobreviver.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/u7uMGI5snUDMOzaHC3J59wFPSqW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qVNACrSwu8RCgf9loLKfTv0mDeq.jpg",
+  "tmdbId": 137040,
+  "nota": 7.408,
+  "xtreamSeriesId": 4185,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10902945",
+          "tipo": "episodio",
+          "titulo": "Black Knight S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10902945",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u7uMGI5snUDMOzaHC3J59wFPSqW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902946",
+          "tipo": "episodio",
+          "titulo": "Black Knight S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10902946",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u7uMGI5snUDMOzaHC3J59wFPSqW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902947",
+          "tipo": "episodio",
+          "titulo": "Black Knight S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10902947",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u7uMGI5snUDMOzaHC3J59wFPSqW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902948",
+          "tipo": "episodio",
+          "titulo": "Black Knight S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10902948",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u7uMGI5snUDMOzaHC3J59wFPSqW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902949",
+          "tipo": "episodio",
+          "titulo": "Black Knight S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10902949",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u7uMGI5snUDMOzaHC3J59wFPSqW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902950",
+          "tipo": "episodio",
+          "titulo": "Black Knight S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10902950",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/u7uMGI5snUDMOzaHC3J59wFPSqW.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "택배기사",
+  "dataLancamento": "2023-05-12"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "as-grandes-minorias",
+  "tipo": "serie",
+  "titulo": "As Grandes Minorias",
+  "ano": null,
+  "descricao": "As minorias ganharam as capas dos jornais e moldaram a opinião pública. Muito se fala sobre o que esses movimentos criticam, pouco se discute sobre suas origens e propostas. Você já conhece As Grandes Minorias?",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2iTobROW3oOYJyjAIFK2UnK76Ay.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9QiG5YMZGUR7xjOiipYzE1w6bNd.jpg",
+  "tmdbId": 211789,
+  "nota": 10,
+  "xtreamSeriesId": 1029,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817099",
+          "tipo": "episodio",
+          "titulo": "As Grandes Minorias S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817099",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2iTobROW3oOYJyjAIFK2UnK76Ay.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817100",
+          "tipo": "episodio",
+          "titulo": "As Grandes Minorias S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817100",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2iTobROW3oOYJyjAIFK2UnK76Ay.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817101",
+          "tipo": "episodio",
+          "titulo": "As Grandes Minorias S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817101",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2iTobROW3oOYJyjAIFK2UnK76Ay.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "As Grandes Minorias",
+  "dataLancamento": "2021-10-05"
+}

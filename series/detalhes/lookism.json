@@ -1,0 +1,123 @@
+{
+  "id": "lookism",
+  "tipo": "serie",
+  "titulo": "Lookism",
+  "ano": null,
+  "descricao": "Em uma sociedade que favorece a beleza, um estudante leva uma vida dupla, alternando entre dois corpos de aparências totalmente opostas.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vjvL4LCLMxOcFOuaYLPQMtAEFJ0.jpg",
+  "tmdbId": 210942,
+  "nota": 8.3,
+  "xtreamSeriesId": 4751,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10914090",
+          "tipo": "episodio",
+          "titulo": "Lookism S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10914090",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914091",
+          "tipo": "episodio",
+          "titulo": "Lookism S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10914091",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914092",
+          "tipo": "episodio",
+          "titulo": "Lookism S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10914092",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914093",
+          "tipo": "episodio",
+          "titulo": "Lookism S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10914093",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914094",
+          "tipo": "episodio",
+          "titulo": "Lookism S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10914094",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914095",
+          "tipo": "episodio",
+          "titulo": "Lookism S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10914095",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914096",
+          "tipo": "episodio",
+          "titulo": "Lookism S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10914096",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914097",
+          "tipo": "episodio",
+          "titulo": "Lookism S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10914097",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "외모지상주의",
+  "dataLancamento": "2022-12-08"
+}

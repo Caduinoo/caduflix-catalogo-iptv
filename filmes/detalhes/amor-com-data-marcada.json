@@ -1,0 +1,34 @@
+{
+  "id": "amor-com-data-marcada",
+  "tipo": "filme",
+  "titulo": "Amor com Data Marcada",
+  "ano": null,
+  "descricao": "Sloane é uma jovem sarcástica que acredita estar bem sozinha. Jackson é um solteiro divertido que procura companhia sem romance. Os dois fazem um acordo: ser o par um do outro em ocasiões especiais. Mas o que fazer quando sentimentos aparecem para complicar tudo?",
+  "generos": [
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vsuhSOLAaEoZGR4paPFgxE29jIn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8veOfB9RbSzFki0Rq3IQIGsFfhC.jpg",
+  "tmdbId": 615665,
+  "nota": 6.972,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772244,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782046,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Holidate",
+  "dataLancamento": "2020-10-27"
+}

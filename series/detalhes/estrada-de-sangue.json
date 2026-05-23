@@ -1,0 +1,99 @@
+{
+  "id": "estrada-de-sangue",
+  "tipo": "serie",
+  "titulo": "Estrada de Sangue",
+  "ano": null,
+  "descricao": "Policial luta para manter a família unida e a paz na cidade onde cresceu. Após uma tragédia, ele faz uma aliança com membros perigosos da tribo que voltam para caçar os envolvidos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lhhx5hd30cTTbNReFdjFpq4z2N1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fbXNQg3JMet86Ju41KM3TNamrwV.jpg",
+  "tmdbId": 57273,
+  "nota": 6.71,
+  "xtreamSeriesId": 4468,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907318",
+          "tipo": "episodio",
+          "titulo": "Estrada de Sangue S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907318",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lhhx5hd30cTTbNReFdjFpq4z2N1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907319",
+          "tipo": "episodio",
+          "titulo": "Estrada de Sangue S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907319",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lhhx5hd30cTTbNReFdjFpq4z2N1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907320",
+          "tipo": "episodio",
+          "titulo": "Estrada de Sangue S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907320",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lhhx5hd30cTTbNReFdjFpq4z2N1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907321",
+          "tipo": "episodio",
+          "titulo": "Estrada de Sangue S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907321",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lhhx5hd30cTTbNReFdjFpq4z2N1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907322",
+          "tipo": "episodio",
+          "titulo": "Estrada de Sangue S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907322",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lhhx5hd30cTTbNReFdjFpq4z2N1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907323",
+          "tipo": "episodio",
+          "titulo": "Estrada de Sangue S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907323",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/lhhx5hd30cTTbNReFdjFpq4z2N1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Red Road",
+  "dataLancamento": "2014-02-27"
+}

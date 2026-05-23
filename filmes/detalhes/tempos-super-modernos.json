@@ -1,0 +1,34 @@
+{
+  "id": "tempos-super-modernos",
+  "tipo": "filme",
+  "titulo": "Tempos Super Modernos",
+  "ano": null,
+  "descricao": "Sem saber, Arturo cria um algoritmo para sua empresa que acaba tornando inútil o seu próprio trabalho. Após ser demitido e ainda perder os amigos e a namorada, ele começa a trabalhar em uma multinacional de tecnologia. Agora, sua única companhia para evitar a solidão é Stella, um holograma inteligente criado pela própria empresa. Mas, quando o período de teste grátis do serviço acaba, Arturo precisa encontrar uma maneira de custear a presença de Stella, enquanto repensa seus conceitos sobre amor e liberdade.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/n2lmXVxfXcTk9lnlGbWUuS8JTNF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mVdQlzKKLXlErVSqmBwgtwAqF4D.jpg",
+  "tmdbId": 647809,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790039,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773906,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "E noi come stronzi rimanemmo a guardare",
+  "dataLancamento": "2021-10-25"
+}

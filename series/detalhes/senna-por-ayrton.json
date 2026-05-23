@@ -1,0 +1,63 @@
+{
+  "id": "senna-por-ayrton",
+  "tipo": "serie",
+  "titulo": "Senna por Ayrton",
+  "ano": null,
+  "descricao": "Ayrton Senna conta sua própria história. O início da carreira, o auge na F1, as rivalidades, o tri mundial e a consagração como o maior ídolo de uma geração de brasileiros.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jWB7ocxSX55Q6IYFsQPTEqcA5tW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7yiIHv7cFUPScrKFjGoDUnMlaHp.jpg",
+  "tmdbId": 253225,
+  "nota": 7,
+  "xtreamSeriesId": 3248,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10879053",
+          "tipo": "episodio",
+          "titulo": "Senna por Ayrton S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10879053",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jWB7ocxSX55Q6IYFsQPTEqcA5tW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10879054",
+          "tipo": "episodio",
+          "titulo": "Senna por Ayrton S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10879054",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jWB7ocxSX55Q6IYFsQPTEqcA5tW.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10879055",
+          "tipo": "episodio",
+          "titulo": "Senna por Ayrton S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10879055",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jWB7ocxSX55Q6IYFsQPTEqcA5tW.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Senna por Ayrton",
+  "dataLancamento": "2024-05-01"
+}

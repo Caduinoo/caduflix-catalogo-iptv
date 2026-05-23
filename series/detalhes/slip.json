@@ -1,0 +1,111 @@
+{
+  "id": "slip",
+  "tipo": "serie",
+  "titulo": "Slip",
+  "ano": null,
+  "descricao": "Segue Mae Cannon enquanto ela se encontra inquieta dentro de um casamento que funciona totalmente. Uma nova jornada fantástica a levará a universos paralelos.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cVTI4ZkfO54PJMMEC94sGeuGGRI.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9eaYiY2EYD8YVTxUCCBIVlLCb43.jpg",
+  "tmdbId": 221908,
+  "nota": 6.273,
+  "xtreamSeriesId": 6616,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10999761",
+          "tipo": "episodio",
+          "titulo": "Slip S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10999761",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cVTI4ZkfO54PJMMEC94sGeuGGRI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999762",
+          "tipo": "episodio",
+          "titulo": "Slip S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10999762",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cVTI4ZkfO54PJMMEC94sGeuGGRI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999763",
+          "tipo": "episodio",
+          "titulo": "Slip S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10999763",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cVTI4ZkfO54PJMMEC94sGeuGGRI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999764",
+          "tipo": "episodio",
+          "titulo": "Slip S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10999764",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cVTI4ZkfO54PJMMEC94sGeuGGRI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999765",
+          "tipo": "episodio",
+          "titulo": "Slip S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10999765",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cVTI4ZkfO54PJMMEC94sGeuGGRI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999766",
+          "tipo": "episodio",
+          "titulo": "Slip S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10999766",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cVTI4ZkfO54PJMMEC94sGeuGGRI.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10999767",
+          "tipo": "episodio",
+          "titulo": "Slip S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10999767",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/cVTI4ZkfO54PJMMEC94sGeuGGRI.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "Slip",
+  "dataLancamento": "2023-04-21"
+}

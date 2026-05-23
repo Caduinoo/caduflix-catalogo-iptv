@@ -1,0 +1,99 @@
+{
+  "id": "territory",
+  "tipo": "serie",
+  "titulo": "Territory",
+  "ano": null,
+  "descricao": "Quando a maior fazenda de gado do mundo fica sem uma liderança definida, facções rivais tentam tomar o controle, e uma luta entre gerações ameaça o futuro dessa terra.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dfRvmXp4sdMd052ZV9jYZkuLpc2.jpg",
+  "tmdbId": 243396,
+  "nota": 6.846,
+  "xtreamSeriesId": 5328,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10925355",
+          "tipo": "episodio",
+          "titulo": "Territory S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10925355",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925356",
+          "tipo": "episodio",
+          "titulo": "Territory S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10925356",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925357",
+          "tipo": "episodio",
+          "titulo": "Territory S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10925357",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925358",
+          "tipo": "episodio",
+          "titulo": "Territory S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10925358",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925359",
+          "tipo": "episodio",
+          "titulo": "Territory S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10925359",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10925360",
+          "tipo": "episodio",
+          "titulo": "Territory S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10925360",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Territory",
+  "dataLancamento": "2024-10-24"
+}

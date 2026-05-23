@@ -1,0 +1,87 @@
+{
+  "id": "banco-central-sob-ataque",
+  "tipo": "serie",
+  "titulo": "Banco Central sob Ataque",
+  "ano": null,
+  "descricao": "Espanha, 1981: homens armados assaltam um banco, fazendo centenas de reféns. Uma jornalista tenta descobrir a verdadeira motivação do assalto, indo contra as autoridades.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w9ZuACmkXZUUNGQO2rr07fzEXHX.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bodPktpIZRsMbM2FBhdHBQqedZC.jpg",
+  "tmdbId": 236449,
+  "nota": 6.7,
+  "xtreamSeriesId": 4139,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10902088",
+          "tipo": "episodio",
+          "titulo": "Banco Central sob Ataque S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10902088",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w9ZuACmkXZUUNGQO2rr07fzEXHX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902089",
+          "tipo": "episodio",
+          "titulo": "Banco Central sob Ataque S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10902089",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w9ZuACmkXZUUNGQO2rr07fzEXHX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902090",
+          "tipo": "episodio",
+          "titulo": "Banco Central sob Ataque S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10902090",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w9ZuACmkXZUUNGQO2rr07fzEXHX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902091",
+          "tipo": "episodio",
+          "titulo": "Banco Central sob Ataque S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10902091",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w9ZuACmkXZUUNGQO2rr07fzEXHX.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902092",
+          "tipo": "episodio",
+          "titulo": "Banco Central sob Ataque S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10902092",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/w9ZuACmkXZUUNGQO2rr07fzEXHX.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Asalto al Banco Central",
+  "dataLancamento": "2024-11-08"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "heranca-maldita",
+  "tipo": "filme",
+  "titulo": "Herança Maldita",
+  "ano": null,
+  "descricao": "Um jovem de dez anos, Jimmy, é forçado a proteger seus irmãos de um mal inevitável, que os ameaça em uma tranquila fazenda.",
+  "generos": [
+    "SUSPENSE | TERROR | THRILLER",
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6CthGEm4pPQXnCBBQCZwlTHwYuV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jIQpY0P9I5h8dm2HkbzJSKfDpXR.jpg",
+  "tmdbId": 14795,
+  "nota": 6.02,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780799,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786378,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "Baby Blues",
+  "dataLancamento": "2008-08-05"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "chefs-table-macarrao",
+  "tipo": "serie",
+  "titulo": "Chef's Table: Macarrão",
+  "ano": null,
+  "descricao": "Descubra a arte do preparo do macarrão com chefs renomados, que compartilham suas jornadas culinárias e as histórias por trás de seus pratos exclusivos.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/aCwplm9wjkqc6gi2O16O9AqjZpY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8JfWy50q4h6DgqIZDytae7xfU0d.jpg",
+  "tmdbId": 270480,
+  "nota": 7.8,
+  "xtreamSeriesId": 4270,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904629",
+          "tipo": "episodio",
+          "titulo": "Chefs Table Macarrao S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904629",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aCwplm9wjkqc6gi2O16O9AqjZpY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904630",
+          "tipo": "episodio",
+          "titulo": "Chefs Table Macarrao S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904630",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aCwplm9wjkqc6gi2O16O9AqjZpY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904631",
+          "tipo": "episodio",
+          "titulo": "Chefs Table Macarrao S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904631",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aCwplm9wjkqc6gi2O16O9AqjZpY.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904632",
+          "tipo": "episodio",
+          "titulo": "Chefs Table Macarrao S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904632",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/aCwplm9wjkqc6gi2O16O9AqjZpY.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Chef's Table: Noodles",
+  "dataLancamento": "2024-10-02"
+}

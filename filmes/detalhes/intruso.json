@@ -1,0 +1,42 @@
+{
+  "id": "intruso",
+  "tipo": "filme",
+  "titulo": "Intruso",
+  "ano": null,
+  "descricao": "Henrietta e Junior cultivam um pedaço de terra isolado que está na família de Junior há gerações, mas sua vida tranquila é transformada em tumulto quando um estranho indesejado aparece à sua porta com uma proposta surpreendente. Eles arriscarão seu relacionamento e identidade pessoal por uma chance de sobreviver em um novo mundo?",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7he2IBkpbedIOJiBBq5LjY4ZCC5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vWr6CxlFVhkDcBjz7R5gBsCAU9I.jpg",
+  "tmdbId": 760245,
+  "nota": 5.783,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786612,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777793,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782464,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Foe",
+  "dataLancamento": "2023-10-06"
+}

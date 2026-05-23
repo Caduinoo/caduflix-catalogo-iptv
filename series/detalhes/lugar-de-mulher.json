@@ -1,0 +1,75 @@
+{
+  "id": "lugar-de-mulher",
+  "tipo": "serie",
+  "titulo": "Lugar de Mulher",
+  "ano": null,
+  "descricao": "As comediantes brasileiras Bruna Louise, Micheli Machado, Cintia Rosini e Carol Zoccoli provam, com muito humor, que lugar de mulher é onde ela quiser.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9VUh1tbBubznBdjV5OomzupyCgL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/z047lUdDWg0q0gH03sn4iBcOQwq.jpg",
+  "tmdbId": 95927,
+  "nota": 5.7,
+  "xtreamSeriesId": 4752,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10914098",
+          "tipo": "episodio",
+          "titulo": "Lugar de Mulher S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10914098",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9VUh1tbBubznBdjV5OomzupyCgL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914099",
+          "tipo": "episodio",
+          "titulo": "Lugar de Mulher S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10914099",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9VUh1tbBubznBdjV5OomzupyCgL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914100",
+          "tipo": "episodio",
+          "titulo": "Lugar de Mulher S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10914100",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9VUh1tbBubznBdjV5OomzupyCgL.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10914101",
+          "tipo": "episodio",
+          "titulo": "Lugar de Mulher S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10914101",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/9VUh1tbBubznBdjV5OomzupyCgL.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Lugar de Mulher",
+  "dataLancamento": "2019-11-28"
+}

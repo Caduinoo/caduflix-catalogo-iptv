@@ -1,0 +1,34 @@
+{
+  "id": "procurando-figaro",
+  "tipo": "filme",
+  "titulo": "Procurando Fígaro",
+  "ano": null,
+  "descricao": "Descontente com seu emprego e seu namorado de longa-data, uma jovem (Danielle Macdonald) decide largar tudo e correr atrás de seu antigo sonho de virar cantora de ópera.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1BbYdVTS395PLwtpCrTR1S6iMYB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/j2erUAgKSYvoId0G2IpSKHVdeBU.jpg",
+  "tmdbId": 508444,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789176,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779336,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Falling for Figaro",
+  "dataLancamento": "2021-10-01"
+}

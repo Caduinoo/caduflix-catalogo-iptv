@@ -1,0 +1,75 @@
+{
+  "id": "kill-blue",
+  "tipo": "serie",
+  "titulo": "KILL BLUE",
+  "ano": null,
+  "descricao": "O lendário assassino Juzo Ogami jamais falhou em uma missão. Mas, após uma delas, ele é picado por uma vespa misteriosa e acorda no corpo de um garoto de 13 anos. E para tornar as coisas ainda mais estranhas, ele recebe uma nova e bizarra ordem: infiltrar-se em uma escola de ensino fundamental. Agora, o outrora temido assassino precisa equilibrar o caos da vida escolar com seu trabalho mortal, tudo isso enquanto busca uma maneira de recuperar seu corpo adulto.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1hzamo8nOZmurGQQ7P2uqpsGHek.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jOxZVOYxghHw6ofH1QFG6ZQUt2V.jpg",
+  "tmdbId": 300131,
+  "nota": 9,
+  "xtreamSeriesId": 7322,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11036671",
+          "tipo": "episodio",
+          "titulo": "KILL BLUE S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11036671",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1hzamo8nOZmurGQQ7P2uqpsGHek.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11040784",
+          "tipo": "episodio",
+          "titulo": "KILL BLUE S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11040784",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1hzamo8nOZmurGQQ7P2uqpsGHek.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11041618",
+          "tipo": "episodio",
+          "titulo": "KILL BLUE S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11041618",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1hzamo8nOZmurGQQ7P2uqpsGHek.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11052602",
+          "tipo": "episodio",
+          "titulo": "KILL BLUE S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11052602",
+          "container": "mp4",
+          "capa": null,
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "キルアオ",
+  "dataLancamento": "2026-04-11"
+}

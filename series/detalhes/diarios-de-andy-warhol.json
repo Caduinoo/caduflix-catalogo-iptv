@@ -1,0 +1,99 @@
+{
+  "id": "diarios-de-andy-warhol",
+  "tipo": "serie",
+  "titulo": "Diários de Andy Warhol",
+  "ano": null,
+  "descricao": "Após levar um tiro em 1968, Andy Warhol começa a registrar a vida e os sentimentos em diários que, junto com esta série, revelam os segredos por trás do artista.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/22mG0oB7VRBqMuhgiYctdNOUDMo.jpg",
+  "tmdbId": 158233,
+  "nota": 6.729,
+  "xtreamSeriesId": 4425,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10906789",
+          "tipo": "episodio",
+          "titulo": "Diários de Andy Warhol S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10906789",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906790",
+          "tipo": "episodio",
+          "titulo": "Diários de Andy Warhol S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10906790",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906791",
+          "tipo": "episodio",
+          "titulo": "Diários de Andy Warhol S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10906791",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906792",
+          "tipo": "episodio",
+          "titulo": "Diários de Andy Warhol S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10906792",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906793",
+          "tipo": "episodio",
+          "titulo": "Diários de Andy Warhol S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10906793",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10906794",
+          "tipo": "episodio",
+          "titulo": "Diários de Andy Warhol S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10906794",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "The Andy Warhol Diaries",
+  "dataLancamento": "2022-03-09"
+}

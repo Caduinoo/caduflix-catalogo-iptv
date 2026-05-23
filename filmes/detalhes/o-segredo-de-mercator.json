@@ -1,0 +1,34 @@
+{
+  "id": "o-segredo-de-mercator",
+  "tipo": "filme",
+  "titulo": "O Segredo de Mercator",
+  "ano": null,
+  "descricao": "Ao completar 18 anos, Benjamin herda uma caixa repleta de artefatos antigos, incluindo um misterioso mapa que pertenceu ao cartógrafo Mercator.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/S7F1B9HyltgbxAVPtErmRx8zmq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tKk62n7MIXGhs0SNtJZUQ0Y2GVh.jpg",
+  "tmdbId": 767852,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788482,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771980,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Zeppos: Het Mercatorspoor",
+  "dataLancamento": "2022-03-30"
+}

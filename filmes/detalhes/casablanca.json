@@ -1,0 +1,34 @@
+{
+  "id": "casablanca",
+  "tipo": "filme",
+  "titulo": "Casablanca",
+  "ano": null,
+  "descricao": "Durante a Segunda Guerra Mundial, muitos fugitivos tentavam escapar dos nazistas por uma rota que passava pela cidade de Casablanca. O exilado americano Rick Blaine encontrou refúgio na cidade, dirigindo uma das principais casas noturnas da região. Clandestinamente, tentando despistar o Capitão Renault, ele ajuda refugiados, possibilitando que eles fujam para os Estados Unidos. Quando um casal pede sua ajuda para deixar o país, ele reencontra uma grande paixão do passado, a bela Ilsa. Este amor vai encontrar uma nova vida e eles vão lutar para fugir juntos.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/g8dt5DAhICrzSxH0v67ADS3259O.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+  "tmdbId": 289,
+  "nota": 8.14,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784826,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775057,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Casablanca",
+  "dataLancamento": "1943-01-15"
+}

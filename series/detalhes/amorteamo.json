@@ -1,0 +1,87 @@
+{
+  "id": "amorteamo",
+  "tipo": "serie",
+  "titulo": "Amorteamo",
+  "ano": null,
+  "descricao": "No Recife do século 20, Chico e Arlinda vivem um romance proibido, pois ela é casada com Aragão, que descobre o caso e mata o amante de sua esposa. Deste amor clandestino nasce Gabriel, que é impedido de viver sua paixão por Lena acreditando que ela é sua irmã.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gDjA6ABTs04PdlCRwvdHUJrSlJl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/d4pUcJ2rQP9dR1LbEDiSoICfN9y.jpg",
+  "tmdbId": 119510,
+  "nota": 6.9,
+  "xtreamSeriesId": 5803,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10971620",
+          "tipo": "episodio",
+          "titulo": "Amorteamo S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10971620",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fCnGe5lE97HyQ80aFvSNWZ4xuEu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971621",
+          "tipo": "episodio",
+          "titulo": "Amorteamo S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10971621",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fCnGe5lE97HyQ80aFvSNWZ4xuEu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971622",
+          "tipo": "episodio",
+          "titulo": "Amorteamo S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10971622",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fCnGe5lE97HyQ80aFvSNWZ4xuEu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971623",
+          "tipo": "episodio",
+          "titulo": "Amorteamo S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10971623",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fCnGe5lE97HyQ80aFvSNWZ4xuEu.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10971624",
+          "tipo": "episodio",
+          "titulo": "Amorteamo S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10971624",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fCnGe5lE97HyQ80aFvSNWZ4xuEu.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Amorteamo",
+  "dataLancamento": "2015-05-08"
+}

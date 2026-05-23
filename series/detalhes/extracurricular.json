@@ -1,0 +1,147 @@
+{
+  "id": "extracurricular",
+  "tipo": "serie",
+  "titulo": "Extracurricular",
+  "ano": null,
+  "descricao": "Um aluno exemplar leva uma vida dupla entre a escola e o mundo do crime, mas uma colega de classe pode colocar tudo a perder. Assista o quanto quiser",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/nQAyoR7kmyiQCC9EAJLb12ZDS2.jpg",
+  "tmdbId": 90814,
+  "nota": 8.1,
+  "xtreamSeriesId": 4491,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907619",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907619",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907620",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907620",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907621",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907621",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907622",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907622",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907623",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907623",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907624",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907624",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907625",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10907625",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907626",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10907626",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907627",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10907627",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907628",
+          "tipo": "episodio",
+          "titulo": "Extracurricular S01E10",
+          "numero": 10,
+          "temporada": 1,
+          "xtreamId": "10907628",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1njufegWZktcwJ85SeArXwl3HK8.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 10,
+  "tituloOriginal": "인간수업",
+  "dataLancamento": "2020-04-29"
+}

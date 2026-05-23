@@ -1,0 +1,34 @@
+{
+  "id": "operacao-tempestade",
+  "tipo": "filme",
+  "titulo": "Operação Tempestade",
+  "ano": null,
+  "descricao": "Uma equipe de fuzileiros navais chega a uma ilha do Mar Adriático com ordens de capturar o terrorista Stavro Latos. Mas as coisas não vão bem desde o início. O chefe da operação, Rick Jeffries, e seus amigos caem numa emboscada armada pelos homens de Stavro. Quando a fumaça se dissipa, homens de ambos os lados estão mortos. Stavro consegue escapar. Um navio da marinha é alvo de um ataque suicida e afunda com toda a tripulação, inclusive o capitão Steve Jeffries, irmão de Rick. Logo, Rick e seus homens embarcam em uma missão impossível de vingança: eles têm que achar uma arma nuclear russa roubada, pegá-la de volta e usá-la como isca para apanhar Stavro Latos.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zEIizk8khK3xaLBsXaiP1S8SCIq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cNYrrHrX9tNSwy0KRlvyzeXbnwU.jpg",
+  "tmdbId": 75605,
+  "nota": 4.231,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788722,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778054,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Frogmen Operation Stormbringer",
+  "dataLancamento": "2002-12-03"
+}

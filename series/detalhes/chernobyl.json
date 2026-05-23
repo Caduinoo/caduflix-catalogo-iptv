@@ -1,0 +1,87 @@
+{
+  "id": "chernobyl",
+  "tipo": "serie",
+  "titulo": "Chernobyl",
+  "ano": null,
+  "descricao": "Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
+  "tmdbId": 87108,
+  "nota": 8.709,
+  "xtreamSeriesId": 167,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10795622",
+          "tipo": "episodio",
+          "titulo": "Chernobyl S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10795622",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wRS5xwa9ilqof1vPi9jFTCipTH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10795623",
+          "tipo": "episodio",
+          "titulo": "Chernobyl S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10795623",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wRS5xwa9ilqof1vPi9jFTCipTH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10795624",
+          "tipo": "episodio",
+          "titulo": "Chernobyl S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10795624",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wRS5xwa9ilqof1vPi9jFTCipTH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10795625",
+          "tipo": "episodio",
+          "titulo": "Chernobyl S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10795625",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wRS5xwa9ilqof1vPi9jFTCipTH.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10795626",
+          "tipo": "episodio",
+          "titulo": "Chernobyl S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10795626",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4wRS5xwa9ilqof1vPi9jFTCipTH.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Chernobyl",
+  "dataLancamento": "2019-05-06"
+}

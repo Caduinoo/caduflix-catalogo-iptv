@@ -1,0 +1,135 @@
+{
+  "id": "identidade-fragmentada",
+  "tipo": "serie",
+  "titulo": "Identidade Fragmentada",
+  "ano": null,
+  "descricao": "Ao acordar de um coma, uma mulher bem-sucedida se vê em uma realidade alternativa, onde precisa revisitar um terrível trauma de infância.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5ElJK6FzxqpCVIFblighIMwNNlQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rYXKPouvunsNDChsp7DSRBXokZj.jpg",
+  "tmdbId": 197235,
+  "nota": 7.8,
+  "xtreamSeriesId": 4625,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10910995",
+          "tipo": "episodio",
+          "titulo": "Identidade Fragmentada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10910995",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iaQxXd1WRs0J0sIXIseV2JqudRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910996",
+          "tipo": "episodio",
+          "titulo": "Identidade Fragmentada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10910996",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iaQxXd1WRs0J0sIXIseV2JqudRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910997",
+          "tipo": "episodio",
+          "titulo": "Identidade Fragmentada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10910997",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iaQxXd1WRs0J0sIXIseV2JqudRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910998",
+          "tipo": "episodio",
+          "titulo": "Identidade Fragmentada S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10910998",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iaQxXd1WRs0J0sIXIseV2JqudRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10910999",
+          "tipo": "episodio",
+          "titulo": "Identidade Fragmentada S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10910999",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iaQxXd1WRs0J0sIXIseV2JqudRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911000",
+          "tipo": "episodio",
+          "titulo": "Identidade Fragmentada S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10911000",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iaQxXd1WRs0J0sIXIseV2JqudRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911001",
+          "tipo": "episodio",
+          "titulo": "Identidade Fragmentada S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10911001",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iaQxXd1WRs0J0sIXIseV2JqudRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911002",
+          "tipo": "episodio",
+          "titulo": "Identidade Fragmentada S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10911002",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iaQxXd1WRs0J0sIXIseV2JqudRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10911003",
+          "tipo": "episodio",
+          "titulo": "Identidade Fragmentada S01E09",
+          "numero": 9,
+          "temporada": 1,
+          "xtreamId": "10911003",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/iaQxXd1WRs0J0sIXIseV2JqudRU.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 9,
+  "tituloOriginal": "她和她的她",
+  "dataLancamento": "2022-10-28"
+}

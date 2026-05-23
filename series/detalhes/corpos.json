@@ -1,0 +1,123 @@
+{
+  "id": "corpos",
+  "tipo": "serie",
+  "titulo": "Corpos",
+  "ano": null,
+  "descricao": "Quatro detetives, quatro linhas do tempo, um corpo. Para salvar o futuro da Grã-Bretanha, será preciso resolver primeiro o assassinato que mudou o rumo da história.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wmvbYCRtdV6YwgyaikV2o94CoCl.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zdE0HzIFadTkGliGyh8DbMuZ3IH.jpg",
+  "tmdbId": 233629,
+  "nota": 7.12,
+  "xtreamSeriesId": 4332,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10905238",
+          "tipo": "episodio",
+          "titulo": "Corpos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10905238",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1mjgqGldntl1BID0OknNMgDjaEl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905239",
+          "tipo": "episodio",
+          "titulo": "Corpos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10905239",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1mjgqGldntl1BID0OknNMgDjaEl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905240",
+          "tipo": "episodio",
+          "titulo": "Corpos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10905240",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1mjgqGldntl1BID0OknNMgDjaEl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905241",
+          "tipo": "episodio",
+          "titulo": "Corpos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10905241",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1mjgqGldntl1BID0OknNMgDjaEl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905242",
+          "tipo": "episodio",
+          "titulo": "Corpos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10905242",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1mjgqGldntl1BID0OknNMgDjaEl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905243",
+          "tipo": "episodio",
+          "titulo": "Corpos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10905243",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1mjgqGldntl1BID0OknNMgDjaEl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905244",
+          "tipo": "episodio",
+          "titulo": "Corpos S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10905244",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1mjgqGldntl1BID0OknNMgDjaEl.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10905245",
+          "tipo": "episodio",
+          "titulo": "Corpos S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10905245",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1mjgqGldntl1BID0OknNMgDjaEl.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Bodies",
+  "dataLancamento": "2023-10-19"
+}

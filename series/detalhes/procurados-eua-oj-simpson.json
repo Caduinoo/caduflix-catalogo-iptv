@@ -1,0 +1,75 @@
+{
+  "id": "procurados-eua-oj-simpson",
+  "tipo": "serie",
+  "titulo": "Procurados - EUA: O.J. Simpson",
+  "ano": null,
+  "descricao": "O carro branco, as luvas, o julgamento do século. Esta série documental investiga o caso de assassinato chocante que virou fenômeno cultural.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fLboA57w0NtHbFwik0UrEOR2RQc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/yYVuH0O5GXmuLw0C06jRz98qVup.jpg",
+  "tmdbId": 282405,
+  "nota": 7.183,
+  "xtreamSeriesId": 5116,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920767",
+          "tipo": "episodio",
+          "titulo": "Procurados EUA OJ Simpson S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920767",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fLboA57w0NtHbFwik0UrEOR2RQc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920768",
+          "tipo": "episodio",
+          "titulo": "Procurados EUA OJ Simpson S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920768",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fLboA57w0NtHbFwik0UrEOR2RQc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920769",
+          "tipo": "episodio",
+          "titulo": "Procurados EUA OJ Simpson S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920769",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fLboA57w0NtHbFwik0UrEOR2RQc.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920770",
+          "tipo": "episodio",
+          "titulo": "Procurados EUA OJ Simpson S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920770",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fLboA57w0NtHbFwik0UrEOR2RQc.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "American Manhunt: O.J. Simpson",
+  "dataLancamento": "2025-01-29"
+}

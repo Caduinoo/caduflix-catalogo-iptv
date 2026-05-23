@@ -1,0 +1,99 @@
+{
+  "id": "operacao-fbi",
+  "tipo": "serie",
+  "titulo": "Operação FBI",
+  "ano": null,
+  "descricao": "As táticas engenhosas e os julgamentos difíceis que fazem do FBI a agência de combate ao crime de elite do mundo.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7wwo2IJZExNEDDSkvKrf2S8BBlD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sFs3DIc4GNLwrijEfuyjYEr9W8w.jpg",
+  "tmdbId": 238699,
+  "nota": 6.5,
+  "xtreamSeriesId": 3757,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10894295",
+          "tipo": "episodio",
+          "titulo": "Operacao FBI S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10894295",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7wwo2IJZExNEDDSkvKrf2S8BBlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894296",
+          "tipo": "episodio",
+          "titulo": "Operacao FBI S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10894296",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7wwo2IJZExNEDDSkvKrf2S8BBlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894297",
+          "tipo": "episodio",
+          "titulo": "Operacao FBI S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10894297",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7wwo2IJZExNEDDSkvKrf2S8BBlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894298",
+          "tipo": "episodio",
+          "titulo": "Operacao FBI S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10894298",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7wwo2IJZExNEDDSkvKrf2S8BBlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894299",
+          "tipo": "episodio",
+          "titulo": "Operacao FBI S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10894299",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7wwo2IJZExNEDDSkvKrf2S8BBlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10894300",
+          "tipo": "episodio",
+          "titulo": "Operacao FBI S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10894300",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/7wwo2IJZExNEDDSkvKrf2S8BBlD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "FEDS",
+  "dataLancamento": "2023-11-08"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "conte-tudo-para-mim",
+  "tipo": "serie",
+  "titulo": "Conte Tudo Para Mim",
+  "ano": null,
+  "descricao": "Com depressão aos 16 anos, Jonny precisa lidar com os desafios da adolescência em um mundo cada vez mais conectado e perigoso devido à internet.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6dHdJubEOxMJZ9saMlxNuELf7y5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/z5yDlVNujtuiRKRd3gNVxUwdRhy.jpg",
+  "tmdbId": 214063,
+  "nota": 6.7,
+  "xtreamSeriesId": 2954,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10868047",
+          "tipo": "episodio",
+          "titulo": "Conte Tudo Para Mim S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10868047",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6dHdJubEOxMJZ9saMlxNuELf7y5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10868048",
+          "tipo": "episodio",
+          "titulo": "Conte Tudo Para Mim S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10868048",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6dHdJubEOxMJZ9saMlxNuELf7y5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10868049",
+          "tipo": "episodio",
+          "titulo": "Conte Tudo Para Mim S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10868049",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6dHdJubEOxMJZ9saMlxNuELf7y5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10868050",
+          "tipo": "episodio",
+          "titulo": "Conte Tudo Para Mim S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10868050",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6dHdJubEOxMJZ9saMlxNuELf7y5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10868051",
+          "tipo": "episodio",
+          "titulo": "Conte Tudo Para Mim S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10868051",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6dHdJubEOxMJZ9saMlxNuELf7y5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10868052",
+          "tipo": "episodio",
+          "titulo": "Conte Tudo Para Mim S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10868052",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/6dHdJubEOxMJZ9saMlxNuELf7y5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Tell Me Everything",
+  "dataLancamento": "2022-12-06"
+}

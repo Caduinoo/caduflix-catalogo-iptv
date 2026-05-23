@@ -1,0 +1,87 @@
+{
+  "id": "cafe-com-chef",
+  "tipo": "serie",
+  "titulo": "Café com Chef",
+  "ano": null,
+  "descricao": "Venha com Guilherme Temperani, Antonio Maiolica, Marcelo Marani e Raul Lemos explorar a gastronomia da cidade em um programa irresistível e cheio de sabor.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/oS7snYHKstmFWZvj4n9RtLZs5C1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f8mJwZzAStdLNfjSDpWIt8Xlmhd.jpg",
+  "tmdbId": 277974,
+  "nota": null,
+  "xtreamSeriesId": 5857,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10973429",
+          "tipo": "episodio",
+          "titulo": "Cafe com Chef S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10973429",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oS7snYHKstmFWZvj4n9RtLZs5C1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973430",
+          "tipo": "episodio",
+          "titulo": "Cafe com Chef S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10973430",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oS7snYHKstmFWZvj4n9RtLZs5C1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973431",
+          "tipo": "episodio",
+          "titulo": "Cafe com Chef S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10973431",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oS7snYHKstmFWZvj4n9RtLZs5C1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973432",
+          "tipo": "episodio",
+          "titulo": "Cafe com Chef S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10973432",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oS7snYHKstmFWZvj4n9RtLZs5C1.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973433",
+          "tipo": "episodio",
+          "titulo": "Cafe com Chef S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10973433",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/oS7snYHKstmFWZvj4n9RtLZs5C1.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Café com Chef",
+  "dataLancamento": "2024-11-10"
+}

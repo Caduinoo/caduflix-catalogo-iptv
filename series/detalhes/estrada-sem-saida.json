@@ -1,0 +1,99 @@
+{
+  "id": "estrada-sem-saida",
+  "tipo": "serie",
+  "titulo": "Estrada sem Saída",
+  "ano": null,
+  "descricao": "Com tanto dinheiro em jogo, estas quatro pessoas desesperadas vão fazer de tudo pela grana. Até mesmo enfrentar um criminoso que não pensa duas vezes antes de matar.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1AeJ24ZEdQV0nIblPIRbaiUT2Ks.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/eFkaDLCP2GJiAp54kwPqKnkELU5.jpg",
+  "tmdbId": 214258,
+  "nota": 6.167,
+  "xtreamSeriesId": 4471,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907335",
+          "tipo": "episodio",
+          "titulo": "Estrada sem Saída S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907335",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1AeJ24ZEdQV0nIblPIRbaiUT2Ks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907336",
+          "tipo": "episodio",
+          "titulo": "Estrada sem Saída S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907336",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1AeJ24ZEdQV0nIblPIRbaiUT2Ks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907337",
+          "tipo": "episodio",
+          "titulo": "Estrada sem Saída S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907337",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1AeJ24ZEdQV0nIblPIRbaiUT2Ks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907338",
+          "tipo": "episodio",
+          "titulo": "Estrada sem Saída S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907338",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1AeJ24ZEdQV0nIblPIRbaiUT2Ks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907339",
+          "tipo": "episodio",
+          "titulo": "Estrada sem Saída S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907339",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1AeJ24ZEdQV0nIblPIRbaiUT2Ks.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907340",
+          "tipo": "episodio",
+          "titulo": "Estrada sem Saída S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907340",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/1AeJ24ZEdQV0nIblPIRbaiUT2Ks.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Pewnego razu na krajowej jedynce",
+  "dataLancamento": "2022-12-01"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "o-rei-macaco",
+  "tipo": "filme",
+  "titulo": "O Rei Macaco",
+  "ano": null,
+  "descricao": "O Rei Macaco é uma comédia de ação para toda a família sobre um Macaco cheio de carisma e seu Bastão mágico que embarcam em uma aventura épica contra cem demônios, um excêntrico Rei Dragão e o maior inimigo do Macaco: seu próprio ego! No caminho, uma jovem desafia o egocentrismo dele e mostra que até a menor pedrinha de todas pode ter um grande efeito no mundo.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/b3XDlfPDFMrjGgei0PTJLdBeyn7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+  "tmdbId": 832502,
+  "nota": 6.531,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788441,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771563,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "The Monkey King",
+  "dataLancamento": "2023-07-30"
+}

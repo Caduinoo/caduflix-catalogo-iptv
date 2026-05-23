@@ -1,0 +1,34 @@
+{
+  "id": "garcia-e-garcia",
+  "tipo": "filme",
+  "titulo": "Garcia & Garcia",
+  "ano": null,
+  "descricao": "Uma companhia aérea passando por dificuldades financeiras decide contratar um consultor e um mecânico, mas ambos possuem o mesmo nome e sobrenome, o que acaba fazendo com que os seus respectivos empregos sejam trocados.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/h5KrcYPCL7w41gGbq0ejzCVPJx2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gClp7xkbQGUlLdGPFRgeE4rw5Iy.jpg",
+  "tmdbId": 774456,
+  "nota": 5.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10786177,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772827,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567064,
+  "tituloOriginal": "García y García",
+  "dataLancamento": "2021-08-27"
+}

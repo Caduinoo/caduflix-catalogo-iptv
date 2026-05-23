@@ -1,0 +1,34 @@
+{
+  "id": "namorada-de-aluguel",
+  "tipo": "filme",
+  "titulo": "Namorada de Aluguel",
+  "ano": null,
+  "descricao": "Ronald Miller é um jovem que cansou de ser visto como perdedor na escola. Quando uma menina popular precisa comprar um vestido, ele vê a oportunidade de pagar a garota para que ela se passe por sua namorada. A partir de então, Ronald passa por confusões e dilemas tentando se enturmar com os populares.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/cvC59NDRUAQrCdHnUASFSjePCDF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/orSiH0y4r0BwFxNdWhNKkgPocQx.jpg",
+  "tmdbId": 12919,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787590,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775940,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "Can't Buy Me Love",
+  "dataLancamento": "1987-08-14"
+}

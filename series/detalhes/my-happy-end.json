@@ -1,0 +1,51 @@
+{
+  "id": "my-happy-end",
+  "tipo": "serie",
+  "titulo": "Meu Final Feliz",
+  "ano": null,
+  "descricao": "Conta a história de Seo Jae Won, que é obcecada e persegue o sucesso, pois teve uma infância infeliz, tentando escapar de seus desejos e obsessões prejudiciais.",
+  "generos": [
+    "DORAMAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nj2HjjwjnrkVH3xgehUF9VRsVv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oAWnDT3tIvw0KN2LoNtWRlaaTRs.jpg",
+  "tmdbId": 233277,
+  "nota": 7.1,
+  "xtreamSeriesId": 2505,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10856599",
+          "tipo": "episodio",
+          "titulo": "My Happy End [L] S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10856599",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nj2HjjwjnrkVH3xgehUF9VRsVv.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10856600",
+          "tipo": "episodio",
+          "titulo": "My Happy End [L] S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10856600",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nj2HjjwjnrkVH3xgehUF9VRsVv.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 2,
+  "tituloOriginal": "나의 해피엔드",
+  "dataLancamento": "2023-12-30"
+}

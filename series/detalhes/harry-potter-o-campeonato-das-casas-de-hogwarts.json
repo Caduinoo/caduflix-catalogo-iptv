@@ -1,0 +1,75 @@
+{
+  "id": "harry-potter-o-campeonato-das-casas-de-hogwarts",
+  "tipo": "serie",
+  "titulo": "Harry Potter: O Campeonato das Casas de Hogwarts",
+  "ano": null,
+  "descricao": "Este evento especial de quatro partes revelará fãs do mundo bruxo que estão dispostos a colocar seus conhecimentos sobre Harry Potter à prova para receber a grande honra de ser nomeado campeão da Taça das Casas.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/93yokFX7LQQDN4IwhtZqByvtzGx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/saCYLtfiYHxvnQzAQTP4mc6YHtX.jpg",
+  "tmdbId": 133723,
+  "nota": 7.274,
+  "xtreamSeriesId": 3581,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10889386",
+          "tipo": "episodio",
+          "titulo": "Harry Potter O Campeonato das Casas de Hogwarts S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10889386",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/93yokFX7LQQDN4IwhtZqByvtzGx.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889387",
+          "tipo": "episodio",
+          "titulo": "Harry Potter O Campeonato das Casas de Hogwarts S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10889387",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/93yokFX7LQQDN4IwhtZqByvtzGx.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889388",
+          "tipo": "episodio",
+          "titulo": "Harry Potter O Campeonato das Casas de Hogwarts S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10889388",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/93yokFX7LQQDN4IwhtZqByvtzGx.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10889389",
+          "tipo": "episodio",
+          "titulo": "Harry Potter O Campeonato das Casas de Hogwarts S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10889389",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/93yokFX7LQQDN4IwhtZqByvtzGx.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Harry Potter: Hogwarts Tournament of Houses",
+  "dataLancamento": "2021-11-28"
+}

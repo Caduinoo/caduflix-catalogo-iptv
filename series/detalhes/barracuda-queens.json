@@ -1,0 +1,99 @@
+{
+  "id": "barracuda-queens",
+  "tipo": "serie",
+  "titulo": "Barracuda Queens",
+  "ano": null,
+  "descricao": "Ao se afundar em uma dívida gigantesca, um grupo de garotas de um bairro rico de Estocolmo passa a roubar as casas vizinhas. Inspirada em uma história real.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ib8oVZJlhfmnMko4EJJVOnOVX52.jpg",
+  "tmdbId": 225152,
+  "nota": 5.7,
+  "xtreamSeriesId": 4151,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10902313",
+          "tipo": "episodio",
+          "titulo": "Barracuda Queens S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10902313",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902314",
+          "tipo": "episodio",
+          "titulo": "Barracuda Queens S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10902314",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902315",
+          "tipo": "episodio",
+          "titulo": "Barracuda Queens S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10902315",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902316",
+          "tipo": "episodio",
+          "titulo": "Barracuda Queens S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10902316",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902317",
+          "tipo": "episodio",
+          "titulo": "Barracuda Queens S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10902317",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10902318",
+          "tipo": "episodio",
+          "titulo": "Barracuda Queens S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10902318",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Barracuda Queens",
+  "dataLancamento": "2023-06-05"
+}

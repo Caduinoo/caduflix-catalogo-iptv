@@ -1,0 +1,34 @@
+{
+  "id": "a-mansao-do-horror",
+  "tipo": "filme",
+  "titulo": "A Mansão do Horror",
+  "ano": null,
+  "descricao": "Quando uma família se muda para uma pacata cidade do interior, eles descobrem uma casa mal-assombrada. O local viralizou na internet, atraindo turistas curiosos em busca de uma experiência assustadora. No entanto, a família percebe um detalhe perturbador: nem todos que entram na casa saem de lá.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sIA26QzQv15rD61qgQbzBVwQZYN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sNaHSpl00mvpHjYc95AxQRlqYQK.jpg",
+  "tmdbId": 854640,
+  "nota": 3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783617,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780314,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Bundy Manor",
+  "dataLancamento": "2022-11-16"
+}

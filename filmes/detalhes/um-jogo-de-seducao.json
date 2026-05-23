@@ -1,0 +1,34 @@
+{
+  "id": "um-jogo-de-seducao",
+  "tipo": "filme",
+  "titulo": "Um Jogo de Sedução",
+  "ano": null,
+  "descricao": "Um grupo de esperançosos é convidado para jogar um game show erótico.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8hz0wNOmjlhpLolmND3e471K5T5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/uqSGAT3hsRGSs7EXyYw8SNvcwnv.jpg",
+  "tmdbId": 901454,
+  "nota": 4.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790627,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779446,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567069,
+  "tituloOriginal": "Dirty Games",
+  "dataLancamento": "2022-02-06"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ford-vs-ferrari",
+  "tipo": "filme",
+  "titulo": "Ford vs Ferrari",
+  "ano": null,
+  "descricao": "O designer de carros americano Carroll Shelby e o destemido piloto britânico Ken Miles juntos combatem a interferência corporativa e as leis da física para construir um carro de corrida revolucionário e enfrentar Enzo Ferrari nas 24 horas de Le Mans na França em 1966.",
+  "generos": [
+    "4K",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/t8L9dqNMclXJHP0TesPsPS2RvB1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+  "tmdbId": 359724,
+  "nota": 8.006,
+  "opcoes": [
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782375,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782376,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775466,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "Ford v Ferrari",
+  "dataLancamento": "2019-11-13"
+}

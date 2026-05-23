@@ -1,0 +1,34 @@
+{
+  "id": "rock-n-roll-vivendo-no-limite",
+  "tipo": "filme",
+  "titulo": "Rock N' Roll:  Vivendo no Limite",
+  "ano": null,
+  "descricao": "Aaron é vocalista de uma banda de rock e tem tudo que sempre quis: sucesso, amigos e mulheres.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yCcjsaluNc1p55q5xphKpJ3jvH2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bylL6XIKe0eFe289ZjnBGMU2yTV.jpg",
+  "tmdbId": 759893,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789506,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776659,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "South of the River",
+  "dataLancamento": "2020-11-02"
+}

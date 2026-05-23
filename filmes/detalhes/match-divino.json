@@ -1,0 +1,34 @@
+{
+  "id": "match-divino",
+  "tipo": "filme",
+  "titulo": "Um Romance Cristão",
+  "ano": null,
+  "descricao": "Após conhecer um rapaz em um site de namoro cristão, uma executiva focada na carreira começa a questionar os próprios valores.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mEiA8L1sQxTieYySWquaF60zb0M.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/DG4OvlSDL75Rl2WedGXrtK7BiC.jpg",
+  "tmdbId": 296456,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787187,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779212,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "Christian Mingle",
+  "dataLancamento": "2014-10-10"
+}

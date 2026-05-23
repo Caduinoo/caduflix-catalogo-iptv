@@ -1,0 +1,87 @@
+{
+  "id": "febre-do-ouro-america-do-sul",
+  "tipo": "serie",
+  "titulo": "Febre do Ouro: América do Sul",
+  "ano": null,
+  "descricao": "Todd Hoffman, Fred \"Dakota\" Hurt e Parker Schnabel vão em busca de ouro na América do Sul.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qwQTAuGn1cIxtI0W5kL2DUF5lSF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wgDTvxRVSIqEdXhtR2yJXXs900a.jpg",
+  "tmdbId": 83527,
+  "nota": 7,
+  "xtreamSeriesId": 3528,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10887829",
+          "tipo": "episodio",
+          "titulo": "Febre do Ouro America do Sul S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10887829",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qwQTAuGn1cIxtI0W5kL2DUF5lSF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887830",
+          "tipo": "episodio",
+          "titulo": "Febre do Ouro America do Sul S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10887830",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qwQTAuGn1cIxtI0W5kL2DUF5lSF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887831",
+          "tipo": "episodio",
+          "titulo": "Febre do Ouro America do Sul S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10887831",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qwQTAuGn1cIxtI0W5kL2DUF5lSF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887832",
+          "tipo": "episodio",
+          "titulo": "Febre do Ouro America do Sul S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10887832",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qwQTAuGn1cIxtI0W5kL2DUF5lSF.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10887833",
+          "tipo": "episodio",
+          "titulo": "Febre do Ouro America do Sul S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10887833",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/qwQTAuGn1cIxtI0W5kL2DUF5lSF.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "Gold Rush: South America",
+  "dataLancamento": "2013-08-02"
+}

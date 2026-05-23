@@ -1,0 +1,42 @@
+{
+  "id": "manobra-arriscada",
+  "tipo": "filme",
+  "titulo": "Manobra Arriscada",
+  "ano": null,
+  "descricao": "Um soldado dispensado de forma desonrosa procura seu pai distante para ajudá-lo a realizar seu sonho de correr no campeonato SuperSport.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/7oxk7Qic7F6iISvNG5rt8DGbrWV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/QflfyU07MiQXSqTUCmG9Xfq0Ws.jpg",
+  "tmdbId": 1281826,
+  "nota": 6.646,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787125,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770052,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782550,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567065,
+  "tituloOriginal": "One Fast Move",
+  "dataLancamento": "2024-08-07"
+}

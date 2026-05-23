@@ -1,0 +1,34 @@
+{
+  "id": "radioactive",
+  "tipo": "filme",
+  "titulo": "Radioactive",
+  "ano": null,
+  "descricao": "Movida por uma mente brilhante e uma grande paixão, Marie Curie embarca em uma jornada científica com o marido, Pierre. Suas descobertas vão mudar o mundo.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/akHIQu8W3rOgT28r25ggXaKcQIr.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/iFFC0ILEzcCGI8fJzixI9lI5n8o.jpg",
+  "tmdbId": 480857,
+  "nota": 6.587,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789329,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776601,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Radioactive",
+  "dataLancamento": "2020-03-11"
+}

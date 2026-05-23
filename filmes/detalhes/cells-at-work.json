@@ -1,0 +1,34 @@
+{
+  "id": "cells-at-work",
+  "tipo": "filme",
+  "titulo": "Cells at Work!",
+  "ano": null,
+  "descricao": "Um glóbulo vermelho novato e um glóbulo branco incansável trabalham em conjunto para proteger sua humana contra germes invasores, patógenos e outras ameaças.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dtZopDmeDReFTfgi9nPqNF84SHv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/f2Tf5s2j6HK7VzquJ3yMVj94i0e.jpg",
+  "tmdbId": 1303162,
+  "nota": 7.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784879,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769478,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "はたらく細胞",
+  "dataLancamento": "2024-12-13"
+}

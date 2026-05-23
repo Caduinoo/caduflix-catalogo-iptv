@@ -1,0 +1,34 @@
+{
+  "id": "o-segredo-de-lyla",
+  "tipo": "filme",
+  "titulo": "O Segredo de Lyla",
+  "ano": null,
+  "descricao": "Um marido leva sua família para passar alguns dias em uma cabana, buscando concluir seu primeiro livro. Durante a viagem, ele luta para manter o foco e a sanidade após receber visitas de estranhos que parecem conhecê-lo muito bem.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kzbKcWmge20gbD1hnsUVILHRvsv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tnDTStvwIS8ISROLoPjJkXvJhlx.jpg",
+  "tmdbId": 1135223,
+  "nota": 3.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788480,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779938,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Lyla",
+  "dataLancamento": "2022-02-28"
+}

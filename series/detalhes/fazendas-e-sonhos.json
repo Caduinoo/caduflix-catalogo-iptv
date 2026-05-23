@@ -1,0 +1,99 @@
+{
+  "id": "fazendas-e-sonhos",
+  "tipo": "serie",
+  "titulo": "Fazendas e Sonhos",
+  "ano": null,
+  "descricao": "A especialista em agricultura Indy Officinalis visita agricultores e fazendas iniciantes que precisam de ajuda para realizar seus sonhos.",
+  "generos": [
+    "DISNEY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nixNlJOHN9jkPcPyql1I8c2AElb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qFFvgg0ImykoDZ2WsHegPdwHp5m.jpg",
+  "tmdbId": 202142,
+  "nota": 7,
+  "xtreamSeriesId": 1817,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10839764",
+          "tipo": "episodio",
+          "titulo": "Fazendas e Sonhos S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10839764",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nixNlJOHN9jkPcPyql1I8c2AElb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839765",
+          "tipo": "episodio",
+          "titulo": "Fazendas e Sonhos S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10839765",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nixNlJOHN9jkPcPyql1I8c2AElb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839766",
+          "tipo": "episodio",
+          "titulo": "Fazendas e Sonhos S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10839766",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nixNlJOHN9jkPcPyql1I8c2AElb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839767",
+          "tipo": "episodio",
+          "titulo": "Fazendas e Sonhos S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10839767",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nixNlJOHN9jkPcPyql1I8c2AElb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839768",
+          "tipo": "episodio",
+          "titulo": "Fazendas e Sonhos S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10839768",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nixNlJOHN9jkPcPyql1I8c2AElb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10839769",
+          "tipo": "episodio",
+          "titulo": "Fazendas e Sonhos S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10839769",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nixNlJOHN9jkPcPyql1I8c2AElb.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Farm Dreams",
+  "dataLancamento": "2023-07-29"
+}

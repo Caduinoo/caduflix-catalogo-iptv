@@ -1,0 +1,99 @@
+{
+  "id": "day-one",
+  "tipo": "serie",
+  "titulo": "Um Dia",
+  "ano": null,
+  "descricao": "Após passarem a noite de formatura juntos, Emma e Dexter seguem caminhos diferentes, mas suas vidas continuam interligadas.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/smBWt8rHCCavV88C5gQVjh0NUFa.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4zP0CfrUBQFWMlWoB4p8aS4D4IA.jpg",
+  "tmdbId": 240667,
+  "nota": 7.674,
+  "xtreamSeriesId": 7138,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11017249",
+          "tipo": "episodio",
+          "titulo": "Day One S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11017249",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fumf21EdFlDqqUFsGEVXNF03ng9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11017250",
+          "tipo": "episodio",
+          "titulo": "Day One S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11017250",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fumf21EdFlDqqUFsGEVXNF03ng9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11017251",
+          "tipo": "episodio",
+          "titulo": "Day One S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11017251",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fumf21EdFlDqqUFsGEVXNF03ng9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11017252",
+          "tipo": "episodio",
+          "titulo": "Day One S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11017252",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fumf21EdFlDqqUFsGEVXNF03ng9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11017253",
+          "tipo": "episodio",
+          "titulo": "Day One S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "11017253",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fumf21EdFlDqqUFsGEVXNF03ng9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11017254",
+          "tipo": "episodio",
+          "titulo": "Day One S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "11017254",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fumf21EdFlDqqUFsGEVXNF03ng9.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "One Day",
+  "dataLancamento": "2024-02-08"
+}

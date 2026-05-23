@@ -1,0 +1,34 @@
+{
+  "id": "chamado-noturno",
+  "tipo": "filme",
+  "titulo": "Chamado Noturno",
+  "ano": null,
+  "descricao": "Para Mady, estudante de dia e chaveiro à noite, essa parecia ser só mais uma noite comum. Mas Claire, a jovem enigmática que ele ajuda, não é quem diz ser. Agora, Mady tem apenas uma noite para provar sua inocência em uma cidade em colapso.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3yavtkwWRbq0bJ4fRIV4dEyQAC7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/Eeuq1qmv8UEsd4sX6BSrGNYR19.jpg",
+  "tmdbId": 1001274,
+  "nota": 6.877,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784892,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779650,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "La Nuit se traîne",
+  "dataLancamento": "2024-08-28"
+}

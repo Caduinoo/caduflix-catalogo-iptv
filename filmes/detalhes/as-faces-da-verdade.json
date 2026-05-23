@@ -1,0 +1,34 @@
+{
+  "id": "as-faces-da-verdade",
+  "tipo": "filme",
+  "titulo": "As Faces da Verdade",
+  "ano": null,
+  "descricao": "Um arquiteto é diagnosticado com uma doença ocular rara, o que o insere em uma realidade surreal na qual ele vê os verdadeiros motivos das pessoas.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bPrySz5s1lqmw6DAnNWUMr5142Q.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/93V9gaqP4nklfFajQ7MUIRto7nr.jpg",
+  "tmdbId": 717682,
+  "nota": 5.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784322,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774906,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "The Other Me",
+  "dataLancamento": "2022-02-04"
+}

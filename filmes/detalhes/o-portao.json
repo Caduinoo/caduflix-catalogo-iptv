@@ -1,0 +1,34 @@
+{
+  "id": "o-portao",
+  "tipo": "filme",
+  "titulo": "O Portão",
+  "ano": null,
+  "descricao": "Garotos descobrem, no quintal de casa, um buraco (de onde foi retirada uma árvore) que pode ser uma passagem para o inferno.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vQRcDd8rAQ8S9rbtWNp6WldIRvb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vxRUX12ZXoTwffLcqS7RAZqcknj.jpg",
+  "tmdbId": 6917,
+  "nota": 6.073,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788377,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781179,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Gate",
+  "dataLancamento": "1987-04-21"
+}

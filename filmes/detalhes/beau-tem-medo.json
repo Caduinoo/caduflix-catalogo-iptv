@@ -1,0 +1,34 @@
+{
+  "id": "beau-tem-medo",
+  "tipo": "filme",
+  "titulo": "Beau Tem Medo",
+  "ano": null,
+  "descricao": "Um homem paranoico embarca em uma odisseia épica para voltar para casa e encontrar sua mãe.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fGS1HtHWngXyw5k9Zs2dVH8HuzL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/atvEgnjjXN5QvFDThXVz4nyU9yi.jpg",
+  "tmdbId": 798286,
+  "nota": 6.708,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784557,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772353,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Beau Is Afraid",
+  "dataLancamento": "2023-04-14"
+}

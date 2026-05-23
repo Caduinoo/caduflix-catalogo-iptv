@@ -1,0 +1,42 @@
+{
+  "id": "a-maquina-infernal",
+  "tipo": "filme",
+  "titulo": "A Máquina Infernal",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rviuptqBu6Ek3t5oBTxBVPxJht1.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xI6CQfv2zEm5JGNrvuPiixV1Yqr.jpg",
+  "tmdbId": 846807,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783662,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779548,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781977,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "A Máquina Infernal",
+  "dataLancamento": "2021-08-07"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "fora-de-orbita",
+  "tipo": "serie",
+  "titulo": "Fora de Órbita",
+  "ano": null,
+  "descricao": "Em 2045, duas crianças nascidas na Lua e três da Terra precisam fazer de tudo para sobreviver após um acidente na estação espacial.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/i1ROfeOW34wJ2vaOSgf0GHGlR8h.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/a69AAQO2cHTYiR50Z8SmHwIF8rD.jpg",
+  "tmdbId": 138190,
+  "nota": 7.333,
+  "xtreamSeriesId": 4523,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10908212",
+          "tipo": "episodio",
+          "titulo": "Fora de Órbita S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10908212",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i1ROfeOW34wJ2vaOSgf0GHGlR8h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908213",
+          "tipo": "episodio",
+          "titulo": "Fora de Órbita S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10908213",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i1ROfeOW34wJ2vaOSgf0GHGlR8h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908214",
+          "tipo": "episodio",
+          "titulo": "Fora de Órbita S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10908214",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i1ROfeOW34wJ2vaOSgf0GHGlR8h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908215",
+          "tipo": "episodio",
+          "titulo": "Fora de Órbita S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10908215",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i1ROfeOW34wJ2vaOSgf0GHGlR8h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908216",
+          "tipo": "episodio",
+          "titulo": "Fora de Órbita S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10908216",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i1ROfeOW34wJ2vaOSgf0GHGlR8h.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10908217",
+          "tipo": "episodio",
+          "titulo": "Fora de Órbita S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10908217",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/i1ROfeOW34wJ2vaOSgf0GHGlR8h.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "地球外少年少女",
+  "dataLancamento": "2022-01-28"
+}

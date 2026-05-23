@@ -1,0 +1,34 @@
+{
+  "id": "freaky-tales",
+  "tipo": "filme",
+  "titulo": "Freaky Tales",
+  "ano": null,
+  "descricao": "Quatro histórias interconectadas ambientadas em 1987 em Oakland, CA., o filme contará sobre o amor pela música, filmes, pessoas, lugares e memórias além do nosso universo conhecível.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
+  "tmdbId": 979660,
+  "nota": 6.284,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791302,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791256,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "Freaky Tales",
+  "dataLancamento": "2025-04-04"
+}

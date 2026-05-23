@@ -1,0 +1,34 @@
+{
+  "id": "assine-aqui",
+  "tipo": "filme",
+  "titulo": "Assine Aquí",
+  "ano": null,
+  "descricao": "O amor eterno é impossível. Por isso existe um algoritmo que designa um parceiro a alguém a cada quatro anos. Fran conhece Roque, com quem vivencia algo inimaginável. Seria trágico se eles ousassem ficar juntos por mais de quatro anos?",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/1joXhDL9C4GU0yQP0hltyVHp2Ez.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dEVrGUhTnvk5FMH4SAucEzTSblj.jpg",
+  "tmdbId": 675009,
+  "nota": 7.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784395,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774933,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Firma Aquí",
+  "dataLancamento": "2024-05-09"
+}

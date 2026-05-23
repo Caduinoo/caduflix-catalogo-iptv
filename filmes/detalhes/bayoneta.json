@@ -1,0 +1,34 @@
+{
+  "id": "bayoneta",
+  "tipo": "filme",
+  "titulo": "Bayoneta",
+  "ano": null,
+  "descricao": "Sozinho na Finlândia, um boxeador mexicano aposentado vive sob o peso de um passado de agonia, até ter a chance de se redimir no ringue.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gxIEbUNuBOshzcBGmnax0KlL12x.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/5RyJix67mu99Pumw5f4yydUv3n.jpg",
+  "tmdbId": 495659,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784548,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774965,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Bayoneta",
+  "dataLancamento": "2018-11-09"
+}

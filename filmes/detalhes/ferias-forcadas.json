@@ -1,0 +1,34 @@
+{
+  "id": "ferias-forcadas",
+  "tipo": "filme",
+  "titulo": "Férias Forçadas",
+  "ano": null,
+  "descricao": "Duas famílias opostas, juntamente com um editor e uma influencer, precisam superar suas diferenças ao compartilhar a mesma casa de férias.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/j6DLrKZ9Y9jOWUvwiH3KvVdoDd2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/u6mxPP2NOsOjC06MiVLZTEUUvFJ.jpg",
+  "tmdbId": 1284505,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791431,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791426,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Vacances forcées",
+  "dataLancamento": "2025-06-11"
+}

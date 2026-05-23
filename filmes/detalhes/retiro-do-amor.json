@@ -1,0 +1,34 @@
+{
+  "id": "retiro-do-amor",
+  "tipo": "filme",
+  "titulo": "Retiro do Amor",
+  "ano": null,
+  "descricao": "Abby e Sean têm uma segunda chance de se reconectar em um retiro de bem-estar.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/naKyAOql9YdcEoFslzdWXvMjHGY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/8481YafIEAMQR2OdmfqD0GNWNdC.jpg",
+  "tmdbId": 1158693,
+  "nota": 7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789449,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779361,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Retreat to You",
+  "dataLancamento": "2023-09-23"
+}

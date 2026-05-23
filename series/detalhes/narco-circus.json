@@ -1,0 +1,75 @@
+{
+  "id": "narco-circus",
+  "tipo": "serie",
+  "titulo": "Narcotráfico Mexicano: Uma Guerra de Poder",
+  "ano": null,
+  "descricao": "O jornalista Romain Bolzinger se infiltra no Cartel de Sinaloa e descobre algo chocante: a famosa \"Guerra às Drogas\" é uma farsa.",
+  "generos": [
+    "HBO MAX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eHBt8yLRHD56C2QKpCsh5DSw1Qe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jFtbrC4mOHrPueJ6Tsnj7qticFG.jpg",
+  "tmdbId": 236580,
+  "nota": 6.9,
+  "xtreamSeriesId": 3701,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10892527",
+          "tipo": "episodio",
+          "titulo": "Narco Circus S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10892527",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eHBt8yLRHD56C2QKpCsh5DSw1Qe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892528",
+          "tipo": "episodio",
+          "titulo": "Narco Circus S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10892528",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eHBt8yLRHD56C2QKpCsh5DSw1Qe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892529",
+          "tipo": "episodio",
+          "titulo": "Narco Circus S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10892529",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eHBt8yLRHD56C2QKpCsh5DSw1Qe.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10892530",
+          "tipo": "episodio",
+          "titulo": "Narco Circus S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10892530",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/eHBt8yLRHD56C2QKpCsh5DSw1Qe.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Narco Circus",
+  "dataLancamento": "2023-10-06"
+}

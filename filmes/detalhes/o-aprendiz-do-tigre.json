@@ -1,0 +1,42 @@
+{
+  "id": "o-aprendiz-do-tigre",
+  "tipo": "filme",
+  "titulo": "O Aprendiz do Tigre",
+  "ano": null,
+  "descricao": "Conta a história de Tom, um menino que se torna aprendiz de feiticeiro ao conhecer o tigre falante Mr. Hu. O animal muda de forma e leva o garoto a um mundo mágico com outros seres mitológicos, como a fênix e o dragão.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dJOIVQoyjoK0hPlmh0nDFsFROvW.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jXDIBCyGPEqdxGi5M6eC0fL3xf4.jpg",
+  "tmdbId": 598387,
+  "nota": 7.295,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787852,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771496,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782672,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Tiger's Apprentice",
+  "dataLancamento": "2024-02-16"
+}

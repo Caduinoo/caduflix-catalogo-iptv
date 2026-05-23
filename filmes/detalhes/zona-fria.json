@@ -1,0 +1,26 @@
+{
+  "id": "zona-fria",
+  "tipo": "filme",
+  "titulo": "Zona Fria",
+  "ano": null,
+  "descricao": "Uma tempestade gelada está chegando. Ninguém podia prever. Uma família deve lutar pela sobrevivência nessa zona gelada.",
+  "generos": [
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/c47vzme1QvFdSYaVJuyy8rtJdBB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sh4rXuam1Gd9lriKbDOKMw9p1Ti.jpg",
+  "tmdbId": 437463,
+  "nota": 4.7,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770973,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567046,
+  "tituloOriginal": "Cold Zone",
+  "dataLancamento": "2017-05-16"
+}

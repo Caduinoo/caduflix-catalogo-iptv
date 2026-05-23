@@ -1,0 +1,99 @@
+{
+  "id": "desventuras-de-amor-em-paris",
+  "tipo": "serie",
+  "titulo": "Desventuras de Amor em Paris",
+  "ano": null,
+  "descricao": "Ao ser demitida e terminar um relacionamento, Jul vive uma crise interna. Ela se envolve em muitas loucuras em Paris, tentando fazer um homem desconhecido se apaixonar por ela.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/P8z9esP4cV4ZGSP75O6bnBK1X.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tadyAfkhePijee0OEBMsSZZYGnU.jpg",
+  "tmdbId": 155659,
+  "nota": 7,
+  "xtreamSeriesId": 2972,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10869279",
+          "tipo": "episodio",
+          "titulo": "Desventuras de Amor em Paris S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10869279",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/P8z9esP4cV4ZGSP75O6bnBK1X.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869280",
+          "tipo": "episodio",
+          "titulo": "Desventuras de Amor em Paris S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10869280",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/P8z9esP4cV4ZGSP75O6bnBK1X.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869281",
+          "tipo": "episodio",
+          "titulo": "Desventuras de Amor em Paris S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10869281",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/P8z9esP4cV4ZGSP75O6bnBK1X.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869282",
+          "tipo": "episodio",
+          "titulo": "Desventuras de Amor em Paris S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10869282",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/P8z9esP4cV4ZGSP75O6bnBK1X.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869283",
+          "tipo": "episodio",
+          "titulo": "Desventuras de Amor em Paris S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10869283",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/P8z9esP4cV4ZGSP75O6bnBK1X.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10869284",
+          "tipo": "episodio",
+          "titulo": "Desventuras de Amor em Paris S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10869284",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/P8z9esP4cV4ZGSP75O6bnBK1X.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "L'Amour (presque) parfait",
+  "dataLancamento": "2022-01-19"
+}

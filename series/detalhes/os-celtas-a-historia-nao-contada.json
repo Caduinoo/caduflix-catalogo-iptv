@@ -1,0 +1,63 @@
+{
+  "id": "os-celtas-a-historia-nao-contada",
+  "tipo": "serie",
+  "titulo": "Os Celtas: A História Não Contada",
+  "ano": null,
+  "descricao": "Descubra a história desconhecida dos Celtas, um povo que não deixou registros escritos, mas que comunicava o seu passado através de canções e histórias, que veio da Europa Central e se espalhou por todo o continente.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hKfiEONp0FU0rZBbzJlkLLr03c9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mBZlx4hSEWQR8dytbUGyTgCSoGn.jpg",
+  "tmdbId": 214924,
+  "nota": 6,
+  "xtreamSeriesId": 6224,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10984723",
+          "tipo": "episodio",
+          "titulo": "Os Celtas A Historia Nao Contada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10984723",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hKfiEONp0FU0rZBbzJlkLLr03c9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10984724",
+          "tipo": "episodio",
+          "titulo": "Os Celtas A Historia Nao Contada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10984724",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hKfiEONp0FU0rZBbzJlkLLr03c9.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10984725",
+          "tipo": "episodio",
+          "titulo": "Os Celtas A Historia Nao Contada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10984725",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/hKfiEONp0FU0rZBbzJlkLLr03c9.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Celts: The Untold Story",
+  "dataLancamento": "2022-06-26"
+}

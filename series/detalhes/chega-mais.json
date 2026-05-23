@@ -1,0 +1,99 @@
+{
+  "id": "chega-mais",
+  "tipo": "serie",
+  "titulo": "Chega Mais",
+  "ano": null,
+  "descricao": "Mesmo após ser abandonada no altar, Gelly dá uma chance ao amor e reata com Tom. O casal enfrenta todas as dificuldades.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dN6lkmUjiZhtc3Hx1Gc1shwVBpD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/z5aPmRBKQLYxBhn86SMjjFT1nWp.jpg",
+  "tmdbId": 244546,
+  "nota": 6.7,
+  "xtreamSeriesId": 2928,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10865656",
+          "tipo": "episodio",
+          "titulo": "Chega Mais S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10865656",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dN6lkmUjiZhtc3Hx1Gc1shwVBpD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865657",
+          "tipo": "episodio",
+          "titulo": "Chega Mais S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10865657",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dN6lkmUjiZhtc3Hx1Gc1shwVBpD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865658",
+          "tipo": "episodio",
+          "titulo": "Chega Mais S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10865658",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dN6lkmUjiZhtc3Hx1Gc1shwVBpD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865659",
+          "tipo": "episodio",
+          "titulo": "Chega Mais S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10865659",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dN6lkmUjiZhtc3Hx1Gc1shwVBpD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865660",
+          "tipo": "episodio",
+          "titulo": "Chega Mais S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10865660",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dN6lkmUjiZhtc3Hx1Gc1shwVBpD.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10865661",
+          "tipo": "episodio",
+          "titulo": "Chega Mais S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10865661",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dN6lkmUjiZhtc3Hx1Gc1shwVBpD.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Chega Mais",
+  "dataLancamento": "1980-03-03"
+}

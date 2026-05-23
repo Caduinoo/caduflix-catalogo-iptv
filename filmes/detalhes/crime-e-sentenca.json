@@ -1,0 +1,34 @@
+{
+  "id": "crime-e-sentenca",
+  "tipo": "filme",
+  "titulo": "Crime e Sentença",
+  "ano": null,
+  "descricao": "Na década de 1960, um jovem judeu não consegue fazer com que o antigo comandante do campo nazista que torturou seus pais seja punido e decide fazer justiça com as próprias mãos.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5nqM9gRElByVA5IPRhLzIzEuHYQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fIet12tUHmFuH5dX32MqEgKrFM7.jpg",
+  "tmdbId": 933943,
+  "nota": 4.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785171,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775168,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Schächten",
+  "dataLancamento": "2022-07-30"
+}

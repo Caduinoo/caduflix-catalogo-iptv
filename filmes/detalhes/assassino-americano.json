@@ -1,0 +1,34 @@
+{
+  "id": "assassino-americano",
+  "tipo": "filme",
+  "titulo": "Assassino Americano Amnésico",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/v2vJ5wlSHvZZklIyzGP3AuUUIaC.jpg",
+  "banner": null,
+  "tmdbId": 1110147,
+  "nota": 3.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784384,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774257,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Assassino Americano Amnésico",
+  "dataLancamento": "2023-04-22"
+}

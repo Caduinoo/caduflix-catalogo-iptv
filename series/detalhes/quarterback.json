@@ -1,0 +1,123 @@
+{
+  "id": "quarterback",
+  "tipo": "serie",
+  "titulo": "Quarterback",
+  "ano": null,
+  "descricao": "Esta série documental intimista acompanha de perto Patrick Mahomes, Kirk Cousins e Marcus Mariota durante a temporada 2022-23 da NFL.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ykz2UQqagUVnUQbQPKON8zsS7N.jpg",
+  "tmdbId": 220998,
+  "nota": 7.893,
+  "xtreamSeriesId": 5122,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10920813",
+          "tipo": "episodio",
+          "titulo": "Quarterback S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10920813",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920814",
+          "tipo": "episodio",
+          "titulo": "Quarterback S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10920814",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920815",
+          "tipo": "episodio",
+          "titulo": "Quarterback S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10920815",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920816",
+          "tipo": "episodio",
+          "titulo": "Quarterback S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10920816",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920817",
+          "tipo": "episodio",
+          "titulo": "Quarterback S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10920817",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920818",
+          "tipo": "episodio",
+          "titulo": "Quarterback S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10920818",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920819",
+          "tipo": "episodio",
+          "titulo": "Quarterback S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10920819",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10920820",
+          "tipo": "episodio",
+          "titulo": "Quarterback S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10920820",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Quarterback",
+  "dataLancamento": "2023-07-12"
+}

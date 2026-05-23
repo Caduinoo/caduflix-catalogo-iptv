@@ -1,0 +1,34 @@
+{
+  "id": "curiosa",
+  "tipo": "filme",
+  "titulo": "Curiosa",
+  "ano": null,
+  "descricao": "Pierre Louÿs (Niels Schneider) é um poeta parisiense que decide fugir para a Argélia ao descobrir que o amor de sua vida, Marie de Regnier (Noémie Merlant), se casa com o seu melhor amigo, Henri De Régnier, em busca de melhor posição social. Lá, ele conhece Zohar (Camélia Jordana), com quem ele compartilha uma paixão pela fotografia erótica. Ao voltar para Paris com Zohar ele reencontra Marie, que confessa que ainda o ama. Eles iniciam um caso que tem como pano de fundo a fotografia erótica de Paris, em um jogo de gato e rato com as pessoas que envolvem suas vidas e quebrando os códigos estabelecidos pela sociedade.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/217eCKJQBzk4FIcqWgP1sT3Gzxt.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/p6BABpsKhAgFsULPpziZ6HukblJ.jpg",
+  "tmdbId": 487616,
+  "nota": 5.8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785205,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775175,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Curiosa",
+  "dataLancamento": "2019-04-03"
+}

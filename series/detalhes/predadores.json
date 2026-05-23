@@ -1,0 +1,111 @@
+{
+  "id": "predadores",
+  "tipo": "serie",
+  "titulo": "Predadores",
+  "ano": null,
+  "descricao": "Esta incrível série explora o mundo dos predadores como nunca feito antes. Veja as incríveis estratégias dos caçadores, explore os desafios que os animais enfrentam e as táticas que eles desenvolvem.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gX4M77uChRYo6jXoXg2GSrtG4Ox.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bZIZJEGCpxWdM3U8HDhxrLBpi2V.jpg",
+  "tmdbId": 64313,
+  "nota": 8.285,
+  "xtreamSeriesId": 6268,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10986730",
+          "tipo": "episodio",
+          "titulo": "Predadores S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10986730",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10986731",
+          "tipo": "episodio",
+          "titulo": "Predadores S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10986731",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10986732",
+          "tipo": "episodio",
+          "titulo": "Predadores S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10986732",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10986733",
+          "tipo": "episodio",
+          "titulo": "Predadores S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10986733",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10986734",
+          "tipo": "episodio",
+          "titulo": "Predadores S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10986734",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10986735",
+          "tipo": "episodio",
+          "titulo": "Predadores S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10986735",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10986736",
+          "tipo": "episodio",
+          "titulo": "Predadores S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10986736",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 7,
+  "tituloOriginal": "The Hunt",
+  "dataLancamento": "2015-11-01"
+}

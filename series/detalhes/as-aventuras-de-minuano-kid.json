@@ -1,0 +1,75 @@
+{
+  "id": "as-aventuras-de-minuano-kid",
+  "tipo": "serie",
+  "titulo": "As Aventuras de Minuano Kid",
+  "ano": null,
+  "descricao": "Juninho é um garoto que possui um amigo imaginário chamado Minuano Kid, um super-herói com medo do escuro.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/nLnEfdy7grpbJRTFSvBXELe5GML.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9TYCOlyKvFNsAFOGHwqp0oqfXRR.jpg",
+  "tmdbId": 279199,
+  "nota": 3,
+  "xtreamSeriesId": 98,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10793846",
+          "tipo": "episodio",
+          "titulo": "As Aventuras de Minuano Kid S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10793846",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nLnEfdy7grpbJRTFSvBXELe5GML.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793847",
+          "tipo": "episodio",
+          "titulo": "As Aventuras de Minuano Kid S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10793847",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nLnEfdy7grpbJRTFSvBXELe5GML.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793848",
+          "tipo": "episodio",
+          "titulo": "As Aventuras de Minuano Kid S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10793848",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nLnEfdy7grpbJRTFSvBXELe5GML.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10793849",
+          "tipo": "episodio",
+          "titulo": "As Aventuras de Minuano Kid S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10793849",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/nLnEfdy7grpbJRTFSvBXELe5GML.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "As Aventuras de Minuano Kid",
+  "dataLancamento": "2016-01-02"
+}

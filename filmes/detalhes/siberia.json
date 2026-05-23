@@ -1,0 +1,34 @@
+{
+  "id": "siberia",
+  "tipo": "filme",
+  "titulo": "Sibéria",
+  "ano": null,
+  "descricao": "Um comerciante de diamantes viaja da Rússia para a América para vender raras pedras azuis de origem questionável. À medida que seu negócio começa a entrar em colapso, ele passa a se envolver com uma russa, dona de um pequeno café na Sibéria. A paixão cresce e ele não consegue se livrar do negócio de diamantes, deixando brechas para que ambos entrem em colisão num ambiente sem saída.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rOO56dJIPoBaNXdYVMTMPznr4ag.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rp6aXM2EWkaUdq6zbSlhUOY2869.jpg",
+  "tmdbId": 438689,
+  "nota": 4.732,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789743,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776750,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Siberia",
+  "dataLancamento": "2018-07-13"
+}

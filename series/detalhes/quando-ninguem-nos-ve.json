@@ -1,0 +1,123 @@
+{
+  "id": "quando-ninguem-nos-ve",
+  "tipo": "serie",
+  "titulo": "Quando Ninguém Nos Vê",
+  "ano": null,
+  "descricao": "Maribel Verdú e Mariela Garriga estrelam este suspense como duas policiais que investigam uma série de crimes durante a Semana Santa.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/kIoKKpLxW9DdrzWeeQdtGqNSmgk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tUAZh1KxRgT7a5tWNZ3ktOCYsHt.jpg",
+  "tmdbId": 229513,
+  "nota": 6.581,
+  "xtreamSeriesId": 576,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10805535",
+          "tipo": "episodio",
+          "titulo": "Quando Ninguem Nos Ve S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10805535",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kIoKKpLxW9DdrzWeeQdtGqNSmgk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805536",
+          "tipo": "episodio",
+          "titulo": "Quando Ninguem Nos Ve S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10805536",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kIoKKpLxW9DdrzWeeQdtGqNSmgk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805537",
+          "tipo": "episodio",
+          "titulo": "Quando Ninguem Nos Ve S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10805537",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kIoKKpLxW9DdrzWeeQdtGqNSmgk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805538",
+          "tipo": "episodio",
+          "titulo": "Quando Ninguem Nos Ve S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10805538",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kIoKKpLxW9DdrzWeeQdtGqNSmgk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805539",
+          "tipo": "episodio",
+          "titulo": "Quando Ninguem Nos Ve S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10805539",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kIoKKpLxW9DdrzWeeQdtGqNSmgk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805540",
+          "tipo": "episodio",
+          "titulo": "Quando Ninguem Nos Ve S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10805540",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kIoKKpLxW9DdrzWeeQdtGqNSmgk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805541",
+          "tipo": "episodio",
+          "titulo": "Quando Ninguem Nos Ve S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10805541",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kIoKKpLxW9DdrzWeeQdtGqNSmgk.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10805542",
+          "tipo": "episodio",
+          "titulo": "Quando Ninguem Nos Ve S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10805542",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/kIoKKpLxW9DdrzWeeQdtGqNSmgk.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Cuando nadie nos ve",
+  "dataLancamento": "2025-03-07"
+}

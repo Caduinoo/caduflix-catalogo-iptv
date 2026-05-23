@@ -1,0 +1,34 @@
+{
+  "id": "o-ourives",
+  "tipo": "filme",
+  "titulo": "O Ourives",
+  "ano": null,
+  "descricao": "Um trio de criminosos invade a casa de campo de um ourives e sua esposa. No entanto, eles logo descobrem que os alvos escolhidos não são tão inofensivos quanto imaginavam.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2CKqzCpqK1tRxWsT9NoV43EDkNY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sBk6nzxhtTkrn9JZj32vaRki0QG.jpg",
+  "tmdbId": 999278,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788334,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781173,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "L'Orafo",
+  "dataLancamento": "2022-10-08"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "cidade-dos-campeoes",
+  "tipo": "serie",
+  "titulo": "Cidade dos Campeões",
+  "ano": null,
+  "descricao": "Em uma cidade da Geórgia que respira futebol americano, um time de estudantes luta por um título e enfrenta problemas dentro e fora do campo.",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3wfH3yvwS5Ib6ha01126kv0Nq4y.jpg",
+  "tmdbId": 131114,
+  "nota": 6.1,
+  "xtreamSeriesId": 4286,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10904761",
+          "tipo": "episodio",
+          "titulo": "Cidade dos Campeões S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10904761",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904762",
+          "tipo": "episodio",
+          "titulo": "Cidade dos Campeões S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10904762",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904763",
+          "tipo": "episodio",
+          "titulo": "Cidade dos Campeões S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10904763",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904764",
+          "tipo": "episodio",
+          "titulo": "Cidade dos Campeões S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10904764",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904765",
+          "tipo": "episodio",
+          "titulo": "Cidade dos Campeões S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10904765",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904766",
+          "tipo": "episodio",
+          "titulo": "Cidade dos Campeões S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10904766",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904767",
+          "tipo": "episodio",
+          "titulo": "Cidade dos Campeões S01E07",
+          "numero": 7,
+          "temporada": 1,
+          "xtreamId": "10904767",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10904768",
+          "tipo": "episodio",
+          "titulo": "Cidade dos Campeões S01E08",
+          "numero": 8,
+          "temporada": 1,
+          "xtreamId": "10904768",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 8,
+  "tituloOriginal": "Titletown High",
+  "dataLancamento": "2021-08-27"
+}

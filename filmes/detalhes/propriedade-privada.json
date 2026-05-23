@@ -1,0 +1,34 @@
+{
+  "id": "propriedade-privada",
+  "tipo": "filme",
+  "titulo": "Propriedade Privada",
+  "ano": null,
+  "descricao": "Kathryn, uma atriz esforçada e dona de casa insatisfeita, se envolve com seu novo jardineiro, Ben. À medida que ele dá a ela a atenção e a sensibilidade que ela deseja, eles começam a se apaixonar. Mas Ben não é o que parece.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2qyX994JMYLrjsTPcig5NwcbmNh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rdTqe7zpT8zuldEIfSCUURj6cOY.jpg",
+  "tmdbId": 860860,
+  "nota": 4.6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789195,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776547,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Private Property",
+  "dataLancamento": "2022-05-13"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "best-sellers",
+  "tipo": "filme",
+  "titulo": "Best Sellers: A Última Turnê",
+  "ano": null,
+  "descricao": "Lucy Standbridge herdou uma editora de seu pai, um ambicioso editor que quase foi a falência com títulos ruins. Ela descobre que deve um livro de Harris Shaw, um autor solitário, rabugento e embriagado que colocou a empresa no mapa décadas antes. Como uma última tentativa de salvar a editora, Lucy e Harris publicam seu novo livro e saem em uma turnê infernal que os mudará de maneira inimaginável.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/r1HH6Se2KKpLqBJDsM4Uvw8uJqm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oqtAlHqntNqjzDXbwu2KCkSkKxz.jpg",
+  "tmdbId": 669659,
+  "nota": 6.359,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784602,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772366,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567062,
+  "tituloOriginal": "Best Sellers",
+  "dataLancamento": "2021-09-09"
+}

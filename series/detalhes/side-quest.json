@@ -1,0 +1,75 @@
+{
+  "id": "side-quest",
+  "tipo": "serie",
+  "titulo": "Side Quest",
+  "ano": null,
+  "descricao": "Aprofunde-se no universo de Mythic Quest nessas quatro histórias independentes. Siga as vidas de jogadores, donos de lojas de quadrinhos, músicos de orquestras itinerantes e membros do departamento de arte enquanto eles buscam por comunidade, sucesso e amor.",
+  "generos": [
+    "APPLE+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/IPCrLpAZVkPk9VzWqYtQCpOGaf.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jJGs55psP46D5rT5kFtGRsBQRz4.jpg",
+  "tmdbId": 216412,
+  "nota": 5.5,
+  "xtreamSeriesId": 966,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10815883",
+          "tipo": "episodio",
+          "titulo": "Side Quest S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10815883",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/IPCrLpAZVkPk9VzWqYtQCpOGaf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815884",
+          "tipo": "episodio",
+          "titulo": "Side Quest S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10815884",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/IPCrLpAZVkPk9VzWqYtQCpOGaf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815885",
+          "tipo": "episodio",
+          "titulo": "Side Quest S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10815885",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/IPCrLpAZVkPk9VzWqYtQCpOGaf.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10815886",
+          "tipo": "episodio",
+          "titulo": "Side Quest S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10815886",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/IPCrLpAZVkPk9VzWqYtQCpOGaf.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Side Quest",
+  "dataLancamento": "2025-03-25"
+}

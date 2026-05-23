@@ -1,0 +1,63 @@
+{
+  "id": "a-primeira-arte",
+  "tipo": "serie",
+  "titulo": "A Primeira Arte",
+  "ano": null,
+  "descricao": "Para produzir este documentário, muitos especialistas foram entrevistados, como:  Juntos eles abordam aspectos da história da música, dos efeitos da música no cérebro, incluindo os efeitos da música em bebês na barriga da mãe ou em recém nascidos e do envolvimento da música na construção da personalidade humana em geral.",
+  "generos": [
+    "BRASIL PARALELO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uz4XCuKxN2o47NWoqy6Jn5JUoB7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fCKwdrF3QAmdi7pMpCxFs6XiHva.jpg",
+  "tmdbId": 128264,
+  "nota": 9,
+  "xtreamSeriesId": 1028,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10817096",
+          "tipo": "episodio",
+          "titulo": "A Primeira Arte S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10817096",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uz4XCuKxN2o47NWoqy6Jn5JUoB7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817097",
+          "tipo": "episodio",
+          "titulo": "A Primeira Arte S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10817097",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uz4XCuKxN2o47NWoqy6Jn5JUoB7.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10817098",
+          "tipo": "episodio",
+          "titulo": "A Primeira Arte S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10817098",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/uz4XCuKxN2o47NWoqy6Jn5JUoB7.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "A Primeira Arte",
+  "dataLancamento": "2021-04-14"
+}

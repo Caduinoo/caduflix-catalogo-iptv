@@ -1,0 +1,34 @@
+{
+  "id": "o-engenheiro",
+  "tipo": "filme",
+  "titulo": "O Engenheiro",
+  "ano": null,
+  "descricao": "Segue a maior caçada na história de Israel para encontrar Yahya Ayyash, o mentor da bomba que supervisionou um grupo de soldados suicidas em Israel em meados da década de 1990.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/daEvqdnGCrbk5yMkYkxoDpNuCkP.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ddiw4IcAtPIY7unuCZoDXYJDH2X.jpg",
+  "tmdbId": 1156255,
+  "nota": 6.005,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788057,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770259,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Engineer",
+  "dataLancamento": "2023-08-18"
+}

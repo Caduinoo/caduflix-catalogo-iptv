@@ -1,0 +1,34 @@
+{
+  "id": "totalmente-sem-rumo",
+  "tipo": "filme",
+  "titulo": "Totalmente Sem Rumo",
+  "ano": null,
+  "descricao": "Três jovens rapazes partem numa viagem para a selva do Oregon em busca de um tesouro. Para chegar lá, eles embarcam numa canoa, mas tudo dá errado. Caçados por fazendeiros, eles encontram animais ameaçadores, hippies e um homem maluco que vive nas montanhas.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dP9gh0XqCQz5b8NTAZMf0B5z0RB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vEEEKiUJOXmOJXW7X8P3kCgsm9p.jpg",
+  "tmdbId": 10762,
+  "nota": 5.629,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040193,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040138,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778019647,
+  "tituloOriginal": "Without a Paddle",
+  "dataLancamento": "2004-08-20"
+}

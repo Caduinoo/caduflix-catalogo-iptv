@@ -1,0 +1,34 @@
+{
+  "id": "o-duque",
+  "tipo": "filme",
+  "titulo": "O Duque",
+  "ano": null,
+  "descricao": "Em 1961, um taxista de 60 anos roubou o retrato de Goya do duque de Wellington da National Gallery de Londres. Foi o primeiro (e continua sendo o único) roubo na história da Galeria. O que aconteceu a seguir se tornou uma lenda.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dm448B6qDSYS1OyhshHTLOlqvFD.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wddNG1To5jUwmX8gwcGjZSpckwg.jpg",
+  "tmdbId": 645689,
+  "nota": 6.955,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788041,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10773360,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "The Duke",
+  "dataLancamento": "2021-07-23"
+}

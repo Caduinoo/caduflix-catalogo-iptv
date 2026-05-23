@@ -1,0 +1,85 @@
+{
+  "id": "cartas-para-eva",
+  "tipo": "serie",
+  "titulo": "Cartas Para Eva",
+  "ano": null,
+  "descricao": "Em 1947, Eva Péron fez sua primeira visita oficial à Espanha e foi recebida por Carmen Polo, esposa do ditador Francisco Franco. Durante sua visita, Eva teve a oportunidade de ajudar Juana Doña, uma mulher sentenciada à morte.",
+  "generos": [
+    "OUTRAS PRODUTORAS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3mOul9E5dBoPq10y5o8zg9m3mR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/mk8WdkLwgeqxybG9oN7n6Y7hnjo.jpg",
+  "tmdbId": null,
+  "nota": 6,
+  "xtreamSeriesId": 5864,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10973511",
+          "tipo": "episodio",
+          "titulo": "Cartas Para Eva S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10973511",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3mOul9E5dBoPq10y5o8zg9m3mR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973512",
+          "tipo": "episodio",
+          "titulo": "Cartas Para Eva S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10973512",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3mOul9E5dBoPq10y5o8zg9m3mR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973513",
+          "tipo": "episodio",
+          "titulo": "Cartas Para Eva S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10973513",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3mOul9E5dBoPq10y5o8zg9m3mR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973514",
+          "tipo": "episodio",
+          "titulo": "Cartas Para Eva S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10973514",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3mOul9E5dBoPq10y5o8zg9m3mR.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10973515",
+          "tipo": "episodio",
+          "titulo": "Cartas Para Eva S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10973515",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/h3mOul9E5dBoPq10y5o8zg9m3mR.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5
+}

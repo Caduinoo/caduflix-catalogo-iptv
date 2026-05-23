@@ -1,0 +1,87 @@
+{
+  "id": "um-planeta-perfeito",
+  "tipo": "serie",
+  "titulo": "Um Planeta Perfeito",
+  "ano": null,
+  "descricao": "Em cinco episódios, a série explica como o planeta funciona, mostrando como forças da natureza - o clima, as correntes oceânicas, a energia solar e os vulcões – moldam e mantêm a grande diversidade de vida na terra.",
+  "generos": [
+    "DISCOVERY+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2kptTpwMIwikKsIV1HAIIReiEq5.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vLmR4e0XP2ecCTFBzauNwQt40Bp.jpg",
+  "tmdbId": 115194,
+  "nota": 8.7,
+  "xtreamSeriesId": 1618,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10833410",
+          "tipo": "episodio",
+          "titulo": "Um Planeta Perfeito S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10833410",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2kptTpwMIwikKsIV1HAIIReiEq5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833411",
+          "tipo": "episodio",
+          "titulo": "Um Planeta Perfeito S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10833411",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2kptTpwMIwikKsIV1HAIIReiEq5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833412",
+          "tipo": "episodio",
+          "titulo": "Um Planeta Perfeito S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10833412",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2kptTpwMIwikKsIV1HAIIReiEq5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833413",
+          "tipo": "episodio",
+          "titulo": "Um Planeta Perfeito S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10833413",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2kptTpwMIwikKsIV1HAIIReiEq5.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10833414",
+          "tipo": "episodio",
+          "titulo": "Um Planeta Perfeito S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10833414",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/2kptTpwMIwikKsIV1HAIIReiEq5.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "A Perfect Planet",
+  "dataLancamento": "2021-01-03"
+}

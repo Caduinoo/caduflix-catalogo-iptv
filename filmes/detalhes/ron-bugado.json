@@ -1,0 +1,42 @@
+{
+  "id": "ron-bugado",
+  "tipo": "filme",
+  "titulo": "Ron Bugado",
+  "ano": null,
+  "descricao": "A história de Barney, um garoto de 11 anos que se torna amigo de um robô que não funciona direito. A dupla vai se aventurar em um mundo onde robôs falam, andam e são melhores amigos dos humanos.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dEsDFCqKWhSB7ydFZzrKERGeHIh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/40WhgHxqkVPJeFIGeVFF48DB5e5.jpg",
+  "tmdbId": 482321,
+  "nota": 7.861,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10789516,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777910,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782918,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567068,
+  "tituloOriginal": "Ron's Gone Wrong",
+  "dataLancamento": "2021-10-14"
+}

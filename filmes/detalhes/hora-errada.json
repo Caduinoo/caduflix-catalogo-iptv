@@ -1,0 +1,34 @@
+{
+  "id": "hora-errada",
+  "tipo": "filme",
+  "titulo": "Amor Certo, Hora Errada",
+  "ano": null,
+  "descricao": "Quando Leo Palamino se separa de sua esposa, ela fica tão nervosa que escreve um blog, chamado \"Porque você é uma droga\". O blog torna-se um sucesso, dando origem a um livro que revela a todos os principais defeitos de Leo. Para piorar, o trabalho como escritor não dá certo, e ele se transforma em lavador de pratos. Apesar da má sorte, Leo conhece a mulher dos seus sonhos. O problema é que ela está prestes a se casar com outro homem.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qw3cFdCxLOP4cENuhHemrVzwfOh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/YIuw3ZjNbEGVKLXKSr6nM4yPYl.jpg",
+  "tmdbId": 209406,
+  "nota": 5.835,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791552,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791570,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "The Right Kind of Wrong",
+  "dataLancamento": "2013-10-11"
+}

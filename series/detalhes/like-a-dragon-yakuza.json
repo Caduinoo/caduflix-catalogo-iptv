@@ -1,0 +1,99 @@
+{
+  "id": "like-a-dragon-yakuza",
+  "tipo": "serie",
+  "titulo": "Like a Dragon: Yakuza",
+  "ano": null,
+  "descricao": "Ambientada na fictícia cidade de Kamurocho, a trama se desenrola através de duas linhas de tempo que se alternam - 1995 e 2005. Em 1995, quatro amigos ansiosos para escapar da austera vida em um orfanato mergulham no submundo controlado pela Yakuza. Enquanto isso, em 2005, a amizade deles está deteriorada, ao mesmo tempo em que a tensão entre o clã Tojo e o clã Omi está atingindo o limite.",
+  "generos": [
+    "AMAZON PRIME"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/39DH8VaGI5E0gsu8uLJfPKNGvvk.jpg",
+  "tmdbId": 256116,
+  "nota": 6.085,
+  "xtreamSeriesId": 381,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10800535",
+          "tipo": "episodio",
+          "titulo": "Like a Dragon Yakuza S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10800535",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10800536",
+          "tipo": "episodio",
+          "titulo": "Like a Dragon Yakuza S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10800536",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10800537",
+          "tipo": "episodio",
+          "titulo": "Like a Dragon Yakuza S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10800537",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10800538",
+          "tipo": "episodio",
+          "titulo": "Like a Dragon Yakuza S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10800538",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10800539",
+          "tipo": "episodio",
+          "titulo": "Like a Dragon Yakuza S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10800539",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10800540",
+          "tipo": "episodio",
+          "titulo": "Like a Dragon Yakuza S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10800540",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/4uFt0lyo2UrMkTKCXH2VgxWz2jE.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Like a Dragon: Yakuza",
+  "dataLancamento": "2024-10-24"
+}

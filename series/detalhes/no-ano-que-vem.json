@@ -1,0 +1,87 @@
+{
+  "id": "no-ano-que-vem",
+  "tipo": "serie",
+  "titulo": "No Ano Que Vem",
+  "ano": null,
+  "descricao": "Ana e Bel se tornaram amigas no Ano Novo, elas passam por traumas transformadores e decidem romper os nós de suas vidas. Juntas, encaram o peso da liberdade.",
+  "generos": [
+    "GLOBOPLAY"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fiU3vVF6Xcsp9thXy9eCHOhtACB.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/A931o7jbgh1gP3Ivu068Jp0iHnw.jpg",
+  "tmdbId": 248129,
+  "nota": 8,
+  "xtreamSeriesId": 3119,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10874665",
+          "tipo": "episodio",
+          "titulo": "No Ano Que Vem S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10874665",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fiU3vVF6Xcsp9thXy9eCHOhtACB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10874666",
+          "tipo": "episodio",
+          "titulo": "No Ano Que Vem S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10874666",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fiU3vVF6Xcsp9thXy9eCHOhtACB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10874667",
+          "tipo": "episodio",
+          "titulo": "No Ano Que Vem S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10874667",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fiU3vVF6Xcsp9thXy9eCHOhtACB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10874668",
+          "tipo": "episodio",
+          "titulo": "No Ano Que Vem S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10874668",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fiU3vVF6Xcsp9thXy9eCHOhtACB.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10874669",
+          "tipo": "episodio",
+          "titulo": "No Ano Que Vem S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10874669",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fiU3vVF6Xcsp9thXy9eCHOhtACB.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 5,
+  "tituloOriginal": "No Ano Que Vem",
+  "dataLancamento": "2024-03-04"
+}

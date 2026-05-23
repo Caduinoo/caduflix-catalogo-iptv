@@ -1,6 +1,6 @@
 {
-  "total": 1000,
-  "paginas": 4,
+  "total": 16771,
+  "paginas": 56,
   "tamanhoPagina": 300,
   "todos": {
     "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/todos/page-1.json"
@@ -9,114 +9,149 @@
     {
       "slug": "4k",
       "nome": "4K",
-      "total": 90,
-      "paginas": 1,
+      "total": 1350,
+      "paginas": 5,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/4k/page-1.json"
     },
     {
       "slug": "acao-crime-guerra",
       "nome": "AÇÃO | CRIME | GUERRA",
-      "total": 132,
-      "paginas": 1,
+      "total": 2532,
+      "paginas": 9,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/acao-crime-guerra/page-1.json"
     },
     {
       "slug": "animacao-infantil-familia",
       "nome": "ANIMAÇÃO | INFANTIL | FAMILIA",
-      "total": 64,
-      "paginas": 1,
+      "total": 1229,
+      "paginas": 5,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/animacao-infantil-familia/page-1.json"
+    },
+    {
+      "slug": "animes",
+      "nome": "ANIMES",
+      "total": 297,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/animes/page-1.json"
     },
     {
       "slug": "aventura-ficcao-fantasia",
       "nome": "AVENTURA | FICÇÃO | FANTASIA",
-      "total": 72,
-      "paginas": 1,
+      "total": 844,
+      "paginas": 3,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/aventura-ficcao-fantasia/page-1.json"
+    },
+    {
+      "slug": "cinema-ruim-cam-propaganda",
+      "nome": "CINEMA | RUIM | CAM | PROPAGANDA",
+      "total": 57,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/cinema-ruim-cam-propaganda/page-1.json"
     },
     {
       "slug": "comedia",
       "nome": "COMÉDIA",
-      "total": 145,
-      "paginas": 1,
+      "total": 2414,
+      "paginas": 9,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/comedia/page-1.json"
     },
     {
       "slug": "documentarios",
       "nome": "DOCUMENTARIOS",
-      "total": 1,
+      "total": 7,
       "paginas": 1,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/documentarios/page-1.json"
     },
     {
       "slug": "drama",
       "nome": "DRAMA",
-      "total": 201,
-      "paginas": 1,
+      "total": 2954,
+      "paginas": 10,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/drama/page-1.json"
+    },
+    {
+      "slug": "dramas-curtos",
+      "nome": "DRAMAS CURTOS",
+      "total": 37,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/dramas-curtos/page-1.json"
     },
     {
       "slug": "faroeste",
       "nome": "FAROESTE",
-      "total": 5,
+      "total": 149,
       "paginas": 1,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/faroeste/page-1.json"
     },
     {
+      "slug": "herois-marvel-dc",
+      "nome": "HEROIS | MARVEL | DC",
+      "total": 1,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/herois-marvel-dc/page-1.json"
+    },
+    {
       "slug": "lancamentos",
       "nome": "LANÇAMENTOS",
-      "total": 18,
+      "total": 217,
       "paginas": 1,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/lancamentos/page-1.json"
     },
     {
       "slug": "legendados",
       "nome": "LEGENDADOS",
-      "total": 522,
-      "paginas": 2,
+      "total": 8895,
+      "paginas": 30,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/legendados/page-1.json"
     },
     {
       "slug": "nacionais",
       "nome": "NACIONAIS",
-      "total": 21,
-      "paginas": 1,
+      "total": 717,
+      "paginas": 3,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/nacionais/page-1.json"
     },
     {
       "slug": "natalino",
       "nome": "NATALINO",
-      "total": 7,
+      "total": 191,
       "paginas": 1,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/natalino/page-1.json"
     },
     {
       "slug": "oscar",
       "nome": "OSCAR",
-      "total": 1,
+      "total": 19,
       "paginas": 1,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/oscar/page-1.json"
     },
     {
       "slug": "religiosos",
       "nome": "RELIGIOSOS",
-      "total": 11,
+      "total": 98,
       "paginas": 1,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/religiosos/page-1.json"
     },
     {
       "slug": "romance",
       "nome": "ROMANCE",
-      "total": 37,
-      "paginas": 1,
+      "total": 602,
+      "paginas": 3,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/romance/page-1.json"
     },
     {
       "slug": "suspense-terror-thriller",
       "nome": "SUSPENSE | TERROR | THRILLER",
-      "total": 203,
-      "paginas": 1,
+      "total": 2386,
+      "paginas": 8,
       "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/suspense-terror-thriller/page-1.json"
+    },
+    {
+      "slug": "top-10",
+      "nome": "TOP 10",
+      "total": 8,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/top-10/page-1.json"
     }
   ],
   "destaques": {

@@ -1,0 +1,34 @@
+{
+  "id": "amor-artificial",
+  "tipo": "filme",
+  "titulo": "Amor Artificial",
+  "ano": null,
+  "descricao": "Após uma falha no sistema, um programa de inteligência artificial se apaixona por uma mulher e invade o corpo de um homem para tentar conquistá-la.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/soTOyI7d5vAWSNKv4XonEo0rn5p.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/AfWtIzrdB0HMQ0Swequza4Jo1Kh.jpg",
+  "tmdbId": 928769,
+  "nota": 6.22,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10784115,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777690,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "เอไอหัวใจโอเวอร์โหลด",
+  "dataLancamento": "2022-02-15"
+}

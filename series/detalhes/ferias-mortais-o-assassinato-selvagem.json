@@ -1,0 +1,75 @@
+{
+  "id": "ferias-mortais-o-assassinato-selvagem",
+  "tipo": "serie",
+  "titulo": "Férias Mortais: O Assassino Selvagem",
+  "ano": null,
+  "descricao": "A história de um dos assassinatos mais notórios já cometidos em um Parque Nacional. A série acompanha a Agente Especial Beth Shott, do Grupo de Serviços Investigativos (a equipe de detetives de elite do Serviço Nacional de Parques), e sua equipe durante os três anos de busca pelo suspeito.",
+  "generos": [
+    "STAR+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fYlP51y2NTHPXdo8IWjcJ9SSVbb.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/40XTcfaSkmasfKJlkl8HIVPpYb9.jpg",
+  "tmdbId": 135134,
+  "nota": 6.4,
+  "xtreamSeriesId": 6718,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-11004452",
+          "tipo": "episodio",
+          "titulo": "Férias Mortais O Assassinato Selvagem S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "11004452",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fYlP51y2NTHPXdo8IWjcJ9SSVbb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11004453",
+          "tipo": "episodio",
+          "titulo": "Férias Mortais O Assassinato Selvagem S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "11004453",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fYlP51y2NTHPXdo8IWjcJ9SSVbb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11004454",
+          "tipo": "episodio",
+          "titulo": "Férias Mortais O Assassinato Selvagem S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "11004454",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fYlP51y2NTHPXdo8IWjcJ9SSVbb.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-11004455",
+          "tipo": "episodio",
+          "titulo": "Férias Mortais O Assassinato Selvagem S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "11004455",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/fYlP51y2NTHPXdo8IWjcJ9SSVbb.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 4,
+  "tituloOriginal": "Wild Crime",
+  "dataLancamento": "2021-09-28"
+}

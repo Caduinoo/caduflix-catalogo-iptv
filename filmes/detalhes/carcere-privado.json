@@ -1,0 +1,34 @@
+{
+  "id": "carcere-privado",
+  "tipo": "filme",
+  "titulo": "Cárcere Privado",
+  "ano": null,
+  "descricao": "Stella mora com o pai e as duas irmãs em uma casa isolada. Devido a uma explosão solar que aconteceu anos antes, o pai é o único que pode sair de casa. Mas as meninas começam a duvidar se a versão que ele conta é realmente verdadeira.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/q6VBMQ0r1kP8iYcVNmFpw9yWxae.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/9g7sO11PoNC6c438lidYATzb24s.jpg",
+  "tmdbId": 641849,
+  "nota": 4.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10785213,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10775177,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567063,
+  "tituloOriginal": "Buio",
+  "dataLancamento": "2019-10-20"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "um-show-de-matar",
+  "tipo": "filme",
+  "titulo": "Um Show de Matar",
+  "ano": null,
+  "descricao": "Um comediante de stand-up à beira do sucesso deve fazer uma escolha terrível quando descobre um assassino à solta no teatro onde ele está prestes a realizar seu maior show.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yYkHCZX1O4ODZWM8jm3Om9c8Q3d.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/y8K6y5Zs1Ty1gNtzL6Rl7vNV15o.jpg",
+  "tmdbId": 735580,
+  "nota": 4.625,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10790713,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781562,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "The Last Laugh",
+  "dataLancamento": "2020-09-15"
+}

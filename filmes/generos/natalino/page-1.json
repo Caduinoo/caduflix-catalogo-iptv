@@ -104,5 +104,2701 @@
     "nota": 7.2,
     "tmdbId": 626318,
     "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-cidade-do-natal.json"
+  },
+  {
+    "id": "a-noite-antes-do-natal",
+    "tipo": "filme",
+    "titulo": "A Noite Antes do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r8pITK3uJdfBgQGiHNwiLpBcB7R.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7sXnIzZ256XwAicYw5js2KCHG4k.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.157,
+    "tmdbId": 1028547,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-noite-antes-do-natal.json"
+  },
+  {
+    "id": "a-volta-do-espirito-de-natal",
+    "tipo": "filme",
+    "titulo": "A Volta do Espírito de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/idzfcrP4USlCM8LSBZTP9qQtdEs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rkasXMPBdOXtIEx67KHsOsRlwwS.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6,
+    "tmdbId": 483548,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-volta-do-espirito-de-natal.json"
+  },
+  {
+    "id": "ajudante-de-natal",
+    "tipo": "filme",
+    "titulo": "Ajudante de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8M5ZpNI9LGUM25hqNKcu7Vq2eZV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zcAp3HYUCUdjMhulJagyOuKF3pg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.316,
+    "tmdbId": 961769,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ajudante-de-natal.json"
+  },
+  {
+    "id": "amor-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Amor de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aiUndc7sVtfQDbpLpwwuqVZml1x.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": null,
+    "tmdbId": 1066561,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-de-natal.json"
+  },
+  {
+    "id": "amor-na-mesa-de-natal",
+    "tipo": "filme",
+    "titulo": "Amor na Mesa de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/18LJXoAWza7ZpePbCLap0W6YANO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zJNsd28ULtzKTw74uDMN2VBvKo0.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.8,
+    "tmdbId": 150015,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/amor-na-mesa-de-natal.json"
+  },
+  {
+    "id": "aquela-cancao-de-natal",
+    "tipo": "filme",
+    "titulo": "Aquela Canção de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/czbebgWqCJ7Nv0aHNGUCWh1caRq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6eY3V5Exj0kEriaS2aLNHssi0je.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 962367,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/aquela-cancao-de-natal.json"
+  },
+  {
+    "id": "batalha-de-natal",
+    "tipo": "filme",
+    "titulo": "A Batalha de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7xz7evAsp4wqwSBSZLnNd13wBZt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.938,
+    "tmdbId": 1022964,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/batalha-de-natal.json"
+  },
+  {
+    "id": "beethoven-aventura-de-natal",
+    "tipo": "filme",
+    "titulo": "Beethoven: Aventura de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vW5MjIsekVyGA8BugPQKCl8Nidb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/62LEJEDTkzNLP1Qswl9FrAfhx7C.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.984,
+    "tmdbId": 78080,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/beethoven-aventura-de-natal.json"
+  },
+  {
+    "id": "brincando-com-o-natal",
+    "tipo": "filme",
+    "titulo": "Brincando com o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1S7JONfCpdBGg3IWq4wl9vqmfwm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fXcPupsMZkXBQwmEPf2LQI3ApBr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.2,
+    "tmdbId": 878384,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/brincando-com-o-natal.json"
+  },
+  {
+    "id": "cartoes-de-natal",
+    "tipo": "filme",
+    "titulo": "Cartões de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7flqAGmYvZArxgNNfD3HNJ4Yur1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iumitnLEf97nK2iA9o23BjirT4l.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.87,
+    "tmdbId": 626319,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cartoes-de-natal.json"
+  },
+  {
+    "id": "chef-e-natal",
+    "tipo": "filme",
+    "titulo": "Sim, Chef! É Natal!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mY5xOXBOqGJNjVKmUS7wbr1Z6fA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vNcTGp7mWRmon3Hne9MbbE3Zgp7.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1132189,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/chef-e-natal.json"
+  },
+  {
+    "id": "confissoes-de-natal",
+    "tipo": "filme",
+    "titulo": "Confissões de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ibOiihYdlUj3BuVxmFJfE2f0JHs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/d4whg8LIr2g74RY8elMlXEgfhKO.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.775,
+    "tmdbId": 362886,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/confissoes-de-natal.json"
+  },
+  {
+    "id": "conhecendo-o-sr-natal",
+    "tipo": "filme",
+    "titulo": "Conhecendo o Sr. Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gpdksPQN8Zt6GSQtHS5Mp3GjQhJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9KuCxJiywf0sRQfAQoQoUJubKQm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.5,
+    "tmdbId": 1032364,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/conhecendo-o-sr-natal.json"
+  },
+  {
+    "id": "cronicas-de-natal",
+    "tipo": "filme",
+    "titulo": "Crônicas de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5I4CIFCK1sqORlmM2xvkYmcucYN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zQVsXIPXU040BnFtBmzoOfYGcDu.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 7.16,
+    "tmdbId": 527435,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/cronicas-de-natal.json"
+  },
+  {
+    "id": "dancando-no-natal",
+    "tipo": "filme",
+    "titulo": "Dançando no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/expnctcoCzV68K0NhL96lyJP9U7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o4aKk8AgFnAGZV5j8Iqd79ZHAMT.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 879111,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/dancando-no-natal.json"
+  },
+  {
+    "id": "decorando-o-natal",
+    "tipo": "filme",
+    "titulo": "Decorando o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ucK4VLFZ4pdEsC04c5kOmxuqfXq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xLh9J0Zo6HAaYPjuiBhHzWGlXS8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 604553,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/decorando-o-natal.json"
+  },
+  {
+    "id": "desejo-de-natal-em-hudson",
+    "tipo": "filme",
+    "titulo": "Desejo de Natal em Hudson",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7y9lKUZ59rzaWyQ0f3AICCaon3J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3rTgo38VcAihT2u8ECmReqc4RXF.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.1,
+    "tmdbId": 874204,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desejo-de-natal-em-hudson.json"
+  },
+  {
+    "id": "desfile-de-natal",
+    "tipo": "filme",
+    "titulo": "Desfile de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wYJYdbeapc6uZf6po0x7qAh3AaW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gO4JBwYXNI84Xsy7ikeC9jcwbxI.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.9,
+    "tmdbId": 565926,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/desfile-de-natal.json"
+  },
+  {
+    "id": "doce-natal",
+    "tipo": "filme",
+    "titulo": "Doce Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wLQHInojxu6QmMkXPxK43eZGd63.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gBBszwESj29pOXJBQr7mTnaqRcK.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.7,
+    "tmdbId": 910760,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/doce-natal.json"
+  },
+  {
+    "id": "e-hora-de-passar-o-natal-em-casa",
+    "tipo": "filme",
+    "titulo": "É Hora de Passar o Natal em Casa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wT1tSNQlSCEe0tuvWtxIOuDTHTa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9t0NtTrHxNYM2L8xmCLjmiIpAZe.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 874230,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/e-hora-de-passar-o-natal-em-casa.json"
+  },
+  {
+    "id": "edicao-de-natal",
+    "tipo": "filme",
+    "titulo": "Edição de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mAolypqzydrbITmBCsbAf3HlpY2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/r48q56iLCm79WtNH0nmocw5lSex.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.8,
+    "tmdbId": 744937,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/edicao-de-natal.json"
+  },
+  {
+    "id": "elliot-uma-historia-de-natal",
+    "tipo": "filme",
+    "titulo": "Elliot: Uma História de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hic80IBkrc5ZnCcIx6Hyb9ovldl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ysCrwd7MuF52KLxxEt5wsPwAUzi.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.7,
+    "tmdbId": 455842,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/elliot-uma-historia-de-natal.json"
+  },
+  {
+    "id": "em-casa-para-o-dia-de-natal",
+    "tipo": "filme",
+    "titulo": "Em Casa para o Dia de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9QazDNXcOdlPbISOHEN7DG5SN4U.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/36mFzeNWBkhRBiGPIoCdTHVT8a7.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.944,
+    "tmdbId": 453217,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/em-casa-para-o-dia-de-natal.json"
+  },
+  {
+    "id": "encontro-de-natal",
+    "tipo": "filme",
+    "titulo": "Encontro de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5pD4um7lCiNX5qxbauXZN7UW3FJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/JiWdosr3iCo64KmqzUqxUo5aCo.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 744952,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/encontro-de-natal.json"
+  },
+  {
+    "id": "entrando-no-clima-do-natal",
+    "tipo": "filme",
+    "titulo": "Entrando no Clima do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lVQ1F1H5BCqDNjHIfmScpuTUnCh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iZaY57bypV7q7S27PgfaMA25OCe.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.7,
+    "tmdbId": 1031046,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/entrando-no-clima-do-natal.json"
+  },
+  {
+    "id": "especial-de-natal-porta-dos-fundos-a-primeira-tentacao-de-cristo",
+    "tipo": "filme",
+    "titulo": "Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/znAUgmoJKXDrCzkju51zyhtTZeN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uUPsIfuQVDTijFg3sSh1AhVA7gh.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.6,
+    "tmdbId": 652020,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/especial-de-natal-porta-dos-fundos-a-primeira-tentacao-de-cristo.json"
+  },
+  {
+    "id": "esqueceram-de-mim-5-sozinho-no-natal",
+    "tipo": "filme",
+    "titulo": "Esqueceram de Mim 5 - Sozinho no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uJtQ6uZNZ6KSzdrL7y01wXTEzBI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4ydw24y7Wd0UJZOrd2FuRFqkfs.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.102,
+    "tmdbId": 134375,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/esqueceram-de-mim-5-sozinho-no-natal.json"
+  },
+  {
+    "id": "estarei-em-casa-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Estarei em Casa para o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rVZlGfQRDARwvi6NAfkehl5ked5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zKmZvgLUZ77xdWUtuTkmyriU3n1.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.157,
+    "tmdbId": 421632,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/estarei-em-casa-para-o-natal.json"
+  },
+  {
+    "id": "estrada-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Estrada Para o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lw7J55hRYXF0LC0ZxgRWvMQkMLv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ni4ejIhMkBvdUNA5i1Eo2qYOuMO.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 550017,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/estrada-para-o-natal.json"
+  },
+  {
+    "id": "expresso-de-natal",
+    "tipo": "filme",
+    "titulo": "Expresso de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8e5D2P6bfc3wxtaHWe4J7YLsZuP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mKV5bggK8jOfAEmxePlmvYbqn16.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.8,
+    "tmdbId": 737780,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/expresso-de-natal.json"
+  },
+  {
+    "id": "flores-de-natal",
+    "tipo": "filme",
+    "titulo": "Flores de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z7fp09XBMKdC9vby1fA69DbNhIU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/t0IS1hcXFufwvDW2vGP0XNms1Md.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 542602,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/flores-de-natal.json"
+  },
+  {
+    "id": "infiltrada-no-natal",
+    "tipo": "filme",
+    "titulo": "Infiltrada no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e1DAk0YPuvFSgeFpaxUTPvqCaD0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yEki6hNUr4Jyu91uYfaGLGCB2CQ.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.652,
+    "tmdbId": 627471,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/infiltrada-no-natal.json"
+  },
+  {
+    "id": "inspiracao-de-natal",
+    "tipo": "filme",
+    "titulo": "Inspiração de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mqnFg0fIUec2i8TIiOnjfudhT6J.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hdsdQADn3omGt33sG26LTieBkG8.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.7,
+    "tmdbId": 1032591,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/inspiracao-de-natal.json"
+  },
+  {
+    "id": "jack-chega-a-tempo-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Jack Chega A Tempo Para O Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rArOcRAVyrFwy1kcCpLLpZJWycY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/135pnESJqaitPL1DTaGXXq3Lvlu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 4.897,
+    "tmdbId": 1388232,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/jack-chega-a-tempo-para-o-natal.json"
+  },
+  {
+    "id": "lista-de-desejos-de-natal",
+    "tipo": "filme",
+    "titulo": "Lista de Desejos de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3eezsAYkURLq3kwUPKiiw0zt5KV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bLaoov3N0ZtcaIuxbmNT3tjCi24.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.3,
+    "tmdbId": 314283,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/lista-de-desejos-de-natal.json"
+  },
+  {
+    "id": "luccas-neto-em-um-natal-muito-atrapalhado",
+    "tipo": "filme",
+    "titulo": "Luccas Neto em: Um Natal Muito Atrapalhado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/biXaoEHitB8v5tkQJUjDNx6Z1fn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ykPsPLknjlhMuDrSCjwlFGU5vXf.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 7.9,
+    "tmdbId": 769064,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/luccas-neto-em-um-natal-muito-atrapalhado.json"
+  },
+  {
+    "id": "mas-pouco",
+    "tipo": "filme",
+    "titulo": "Natal, mas Pouco",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dQemuRJRsksRbA7ivPVqRBm3Ou4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3vkpM0Ao1CXpwFiXsSSm1CgDfn.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7.6,
+    "tmdbId": 882098,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mas-pouco.json"
+  },
+  {
+    "id": "match-de-natal",
+    "tipo": "filme",
+    "titulo": "Match de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p9hrgUEBYt15f9KQk1PpSdxjbRM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eEhYQf0mrOT7aSmhJmzV7mW6bbW.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.478,
+    "tmdbId": 744939,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/match-de-natal.json"
+  },
+  {
+    "id": "memorias-de-natal",
+    "tipo": "filme",
+    "titulo": "Memórias de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9eQLagVtoievYdM46B81F7BiGk7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e6kaAG9gnKlc7Twpu6AUVCWcyYB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.8,
+    "tmdbId": 1027431,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/memorias-de-natal.json"
+  },
+  {
+    "id": "minha-arvore-de-natal-favorita",
+    "tipo": "filme",
+    "titulo": "Minha Árvore de Natal Favorita",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rVTwt20p32b9m04lP0I0QWtuT7e.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1KbikgBZHATEaDCqL7OWOC62UYy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 971464,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/minha-arvore-de-natal-favorita.json"
+  },
+  {
+    "id": "minha-familia-de-natal",
+    "tipo": "filme",
+    "titulo": "Minha Família de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kdSxd78qJDHp0CxXOK5wrO9MwW9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fZSRQcr4AcNg0jlcUptY7JvQSFX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.5,
+    "tmdbId": 1028558,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/minha-familia-de-natal.json"
+  },
+  {
+    "id": "missao-baile-de-natal",
+    "tipo": "filme",
+    "titulo": "Missão Baile de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3BbAPhAZm1iUqQUYqwu92aEG309.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dQOpfSesO9bDsACU0eB7i1pMptD.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6,
+    "tmdbId": 832128,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-baile-de-natal.json"
+  },
+  {
+    "id": "missao-presente-de-natal",
+    "tipo": "filme",
+    "titulo": "Missão Presente de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cgwD1GYGoNsWNRqVgAOMrUcciC4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/q9ZLjqti3UTt5ZC3qQMZhRNueGc.jpg",
+    "generos": [
+      "NATALINO",
+      "4K"
+    ],
+    "nota": 6.394,
+    "tmdbId": 738646,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/missao-presente-de-natal.json"
+  },
+  {
+    "id": "mucho-locos-no-natal",
+    "tipo": "filme",
+    "titulo": "Mucho Locos no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xJEJP8efhKgqu6z4dpe8P845VE7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/evIqJy4BCZi86ry7CSu4gEE9ujb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 4.9,
+    "tmdbId": 1026624,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/mucho-locos-no-natal.json"
+  },
+  {
+    "id": "muito-perto-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Muito Perto para o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bzZttssj1AvKFC8njdV5RE07BqU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/k7rxfxdroEsfzHx3P3ADYx2xm6I.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.8,
+    "tmdbId": 764104,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/muito-perto-para-o-natal.json"
+  },
+  {
+    "id": "natal-ao-vivo",
+    "tipo": "filme",
+    "titulo": "Natal (Ao Vivo)",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vI3ICLMa4hZGBmKpXpXflyIjIgm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/thbHjBn8DR8YbV27kv7jFbwz42u.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.8,
+    "tmdbId": 1054864,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-ao-vivo.json"
+  },
+  {
+    "id": "natal-caseiro",
+    "tipo": "filme",
+    "titulo": "Natal Caseiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ybvbEKTzvQubMDV2CziqB1lnBCK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/88JrasKgR3lXivLP2kAIKSrIZO5.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 4.9,
+    "tmdbId": 550030,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-caseiro.json"
+  },
+  {
+    "id": "natal-com-voce",
+    "tipo": "filme",
+    "titulo": "Natal com Você",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rU2sCry1YzuBoeMj06eWqTfponC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1ZnbzMbxgSqKuCh9aOQCvv1mAyN.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.831,
+    "tmdbId": 936960,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-com-voce.json"
+  },
+  {
+    "id": "natal-dos-sonhos",
+    "tipo": "filme",
+    "titulo": "Natal dos Sonhos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uP0q3jgvUKX0PhnWQFCCgFaLycw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eorf3sWLqpEWmIl7P02zy2nQHNt.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.9,
+    "tmdbId": 854146,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-dos-sonhos.json"
+  },
+  {
+    "id": "natal-em-8-bits",
+    "tipo": "filme",
+    "titulo": "Natal Em 8 Bits",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jbk9yoeAVkcpzt49s8Inbnz6iNw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lMudh9ouUHsJ1jhKVSbx2ErGdzf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.423,
+    "tmdbId": 802217,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-8-bits.json"
+  },
+  {
+    "id": "natal-em-boa-forma",
+    "tipo": "filme",
+    "titulo": "Natal em Boa Forma",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tuoVeTYfR2DZMpntRwsjuJHivFG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/utiZl7zWP1pxE0fZTlFqDt4cTSm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.429,
+    "tmdbId": 1033528,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-boa-forma.json"
+  },
+  {
+    "id": "natal-em-conway",
+    "tipo": "filme",
+    "titulo": "Natal em Conway",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zShsIT6uIejw6pKM8vW4YOcCyTi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/owFK2ZO4fTQz5IyPWUzUX6lxYUd.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.8,
+    "tmdbId": 240820,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-conway.json"
+  },
+  {
+    "id": "natal-em-coyote-creek",
+    "tipo": "filme",
+    "titulo": "Natal em Coyote Creek",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5jL8B3E2OtDDIvrACO3yLdUFOt8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v59wFHussnLzNS1mkyOxqtaCat6.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.1,
+    "tmdbId": 874127,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-coyote-creek.json"
+  },
+  {
+    "id": "natal-em-dobro",
+    "tipo": "filme",
+    "titulo": "Natal em Dobro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qoRIFCzPFixm9upkNf1rwrEk9Q3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pwtYl3O8ID1k4OxhEotc7pV1Hy3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 737782,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-dobro.json"
+  },
+  {
+    "id": "natal-em-evergreen-boas-noticias",
+    "tipo": "filme",
+    "titulo": "Natal em Evergreen: Boas Notícias",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/b8oX9jbPe7z3sqZYwA06x33pbgx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kuEjG5Zt5HwGlCgHyYbAoFihIH4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.8,
+    "tmdbId": 630921,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-evergreen-boas-noticias.json"
+  },
+  {
+    "id": "natal-em-familia",
+    "tipo": "filme",
+    "titulo": "Um Natal em Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cvMkGmr9FqlT4Tz5uEH4frZYHp9.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": null,
+    "tmdbId": 1612572,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-familia.json"
+  },
+  {
+    "id": "natal-em-grand-valley",
+    "tipo": "filme",
+    "titulo": "Natal em Grand Valley",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2KpZJ2FYFn7JfIg2nuqVvi8Xlz.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xlRj6Bitk7eInieVAjyHgYD1iMT.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 550024,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-grand-valley.json"
+  },
+  {
+    "id": "natal-em-harmonia",
+    "tipo": "filme",
+    "titulo": "Natal em Harmonia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nCUN0VPubY818v0F3mPtNrFj4MQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5Qtb47jSlBnzeOzIZqMmlRLV63Q.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.713,
+    "tmdbId": 1028935,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-harmonia.json"
+  },
+  {
+    "id": "natal-em-holly-lodge",
+    "tipo": "filme",
+    "titulo": "Natal em Holly Lodge",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4XL70hoHU8z2G7p7qbXU1NAUUyE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/et4SRNzVJWc5fYYmi6LVM599Tn6.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.9,
+    "tmdbId": 480622,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-holly-lodge.json"
+  },
+  {
+    "id": "natal-em-hollywood",
+    "tipo": "filme",
+    "titulo": "Natal em Hollywood",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4BSOsZLMDO6sCNAqwFKwvTXo1BM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/WqN2eD2R2GOGds5iiZDJcHh7JS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.031,
+    "tmdbId": 1028938,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-hollywood.json"
+  },
+  {
+    "id": "natal-em-londres",
+    "tipo": "filme",
+    "titulo": "Natal em Londres",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3EVgNgf4tpBq8Fg3oyRmjTL1ny7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iG58Wk7WHnaFvSAgkeBMrPyPTPz.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.612,
+    "tmdbId": 974213,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-londres.json"
+  },
+  {
+    "id": "natal-em-pemberley-manor",
+    "tipo": "filme",
+    "titulo": "Natal em Pemberley Manor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/47zWvvOdamKuYSXnijzUgfwQl5V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cqHhxwW6aUx6cBbbQLbzW69BPXf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.2,
+    "tmdbId": 549301,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-pemberley-manor.json"
+  },
+  {
+    "id": "natal-em-springdale",
+    "tipo": "filme",
+    "titulo": "Natal em Springdale",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5B4sXI6lKjCAvr200EOSr6HDBDI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/As0eyHzF4dGhSBsVHAX8nLZxzCe.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 555277,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-em-springdale.json"
+  },
+  {
+    "id": "natal-entre-amigos",
+    "tipo": "filme",
+    "titulo": "Natal Entre Amigos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/alfRBF1GLGu8oq6OTXXgYeVRSy7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yrKkHnGZRpTbCOijU1vgrZz99Ch.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.2,
+    "tmdbId": 1027358,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-entre-amigos.json"
+  },
+  {
+    "id": "natal-entre-irmas-de-volta-para-casa",
+    "tipo": "filme",
+    "titulo": "Natal Entre Irmãs: De Volta para Casa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uNNX7HxDSgXWuuRzmCw5EUcI6f7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4cKsnfHx3BYtQJ8SdPj8uPUB7Np.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.9,
+    "tmdbId": 866665,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-entre-irmas-de-volta-para-casa.json"
+  },
+  {
+    "id": "natal-entre-irmas-na-cidade",
+    "tipo": "filme",
+    "titulo": "Natal Entre Irmãs: Na Cidade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j2RrxXEUbMTQHZsm3GN9otWdRaq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/k1Z9MtEJObB4q4dzkXCLP554CnT.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.1,
+    "tmdbId": 866669,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-entre-irmas-na-cidade.json"
+  },
+  {
+    "id": "natal-entre-vizinhos",
+    "tipo": "filme",
+    "titulo": "Natal Entre Vizinhos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sy5VxDXBVIGPxsLiRL1WOqIM2Ps.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/29qiSnPp8LN1vUomrMN3MMVwlUH.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.064,
+    "tmdbId": 1028556,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-entre-vizinhos.json"
+  },
+  {
+    "id": "natal-fora-do-tempo",
+    "tipo": "filme",
+    "titulo": "Natal Fora do Tempo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qHYX09eUpQ3WnBHpvl5ZlNaHADh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mDVOXpuQ6ImM0jrmts3VbY511dh.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.421,
+    "tmdbId": 746039,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-fora-do-tempo.json"
+  },
+  {
+    "id": "natal-na-montanha-blue-ridge",
+    "tipo": "filme",
+    "titulo": "Natal na Montanha Blue Ridge",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sLWT1KPBJ1gm5TAb3yIgOfpG9jv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9EWzXeoJtBiU2Zi9dnBvn2wllD9.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 630898,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-na-montanha-blue-ridge.json"
+  },
+  {
+    "id": "natal-na-realeza",
+    "tipo": "filme",
+    "titulo": "Natal na Realeza",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rB7Pp0Cp3q2OzLNDFaX2SHopEyP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jijTbvaz8q8Fpega331tBFwQm3s.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.671,
+    "tmdbId": 299582,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-na-realeza.json"
+  },
+  {
+    "id": "natal-nas-montanhas-rochosas",
+    "tipo": "filme",
+    "titulo": "Natal nas Montanhas Rochosas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aTH0VxNYeg5HFm7piT7I4raySiy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eZgexs88GCfhH7TuvGilN9Rcy7y.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 491761,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-nas-montanhas-rochosas.json"
+  },
+  {
+    "id": "natal-no-cine-drive-in",
+    "tipo": "filme",
+    "titulo": "Natal no Cine Drive-In",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aoa69mYwtpoaB5KT1hRrnLNAoGM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yp9ws1rWcvpwYkV9jOHzX8H7qHf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.754,
+    "tmdbId": 1026941,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-no-cine-drive-in.json"
+  },
+  {
+    "id": "natal-no-hotel-plaza",
+    "tipo": "filme",
+    "titulo": "Natal no Hotel Plaza",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iNgQzpc1mDmt8j60FizkqwMOmv1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/A4NuuRScGc4WmtBMOQpP5eap5HW.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.398,
+    "tmdbId": 630916,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-no-hotel-plaza.json"
+  },
+  {
+    "id": "natal-no-interior",
+    "tipo": "filme",
+    "titulo": "Natal no Interior",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1QgIdZQCPwr8xw3ECgNh0xF42qw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/p3ng10hZIysyDgCyrqlFgMJCUpZ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.962,
+    "tmdbId": 971503,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-no-interior.json"
+  },
+  {
+    "id": "natal-no-lago",
+    "tipo": "filme",
+    "titulo": "Natal no Lago",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/KNAWQI1H8UZGFs9euU8NHSECiR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ezfRE2Pd58kIOKWZaCa4m5JNXAm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.6,
+    "tmdbId": 962589,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-no-lago.json"
+  },
+  {
+    "id": "natal-no-palacio",
+    "tipo": "filme",
+    "titulo": "Natal no Palácio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rFj6VAhoX7tJuiLiVkc6EVhcMyT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7v8axUqFZIsbvzDWY4acQ5uXCf8.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 550023,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-no-palacio.json"
+  },
+  {
+    "id": "natal-no-paraiso",
+    "tipo": "filme",
+    "titulo": "Natal no Paraíso",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oGmEWfSuzuqWjqJa2KMuQnK9BqG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yjHW0yskXpv4oiadHfXXQnKD0e1.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 4.283,
+    "tmdbId": 1037391,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-no-paraiso.json"
+  },
+  {
+    "id": "natal-no-restaurante-chines",
+    "tipo": "filme",
+    "titulo": "Natal no Restaurante Chinês",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gvWai64abofTjpZERA4xh6APzH5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6a8j99krgLPq7z01rKzFgYRYxht.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.238,
+    "tmdbId": 1028186,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-no-restaurante-chines.json"
+  },
+  {
+    "id": "natal-outra-vez",
+    "tipo": "filme",
+    "titulo": "Natal Outra Vez?",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/u8cbfqsFcXBgoJhnsajx9tMTpTp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8uyJzaiGbiezZ9K48Cy5wXeqnYw.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.652,
+    "tmdbId": 1053419,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-outra-vez.json"
+  },
+  {
+    "id": "natal-para-sempre",
+    "tipo": "filme",
+    "titulo": "Natal Para Sempre",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hsSqM0ZX1o7qBW46Qq9CUxQnXPi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/57m1VoLxN2dfY8Pss3Qb1f4N3Hj.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.5,
+    "tmdbId": 744948,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-para-sempre.json"
+  },
+  {
+    "id": "natal-por-escrito",
+    "tipo": "filme",
+    "titulo": "Natal por Escrito",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/75A7CYrZ2DwLBkOExDmqsDD09I2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/snWw3PIFQsmjQuCuVRjyGr1TWWX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.1,
+    "tmdbId": 746048,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-por-escrito.json"
+  },
+  {
+    "id": "natal-s-a",
+    "tipo": "filme",
+    "titulo": "Natal S.A.",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wyS88bXotiZWkRHqZYTvj7EX83Z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2xGY6f1e1KYPsWxTndYVQsATvhs.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 7.1,
+    "tmdbId": 26528,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-s-a.json"
+  },
+  {
+    "id": "natal-sem-filtro",
+    "tipo": "filme",
+    "titulo": "Natal sem Filtro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ovsE4gTvEetIRaZQnCa52otOVU9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qwREqLTeSUh2LsvSi1worZnHQK3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 1032454,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-sem-filtro.json"
+  },
+  {
+    "id": "natal-sempre-e-para-sempre",
+    "tipo": "filme",
+    "titulo": "Natal Sempre e Para Sempre",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/w9JKc9hmB5AsNtINi6BvLYUhH61.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oTcDRWXS9tbCDiTqELT5apTs1L4.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.7,
+    "tmdbId": 627466,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-sempre-e-para-sempre.json"
+  },
+  {
+    "id": "natal-sob-fogo-cruzado",
+    "tipo": "filme",
+    "titulo": "Natal Sob Fogo Cruzado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7yE9Iz8EDKloNEsOdc2WvGm6ZtG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zMcEalkxEiRjvmijliLBk0sYern.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 4.704,
+    "tmdbId": 765123,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-sob-fogo-cruzado.json"
+  },
+  {
+    "id": "natal-sob-medida",
+    "tipo": "filme",
+    "titulo": "Natal Sob Medida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ptE7SKe0uo1NM6W2fa1On30sPau.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2i0ezDoSSpkdHXQbjGpY3l2LXle.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.11,
+    "tmdbId": 550035,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal-sob-medida.json"
+  },
+  {
+    "id": "no-ritmo-do-natal",
+    "tipo": "filme",
+    "titulo": "No Ritmo do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nDca3DKfHqD2NHZF8vmtOWYxqjc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cgH0j8T5NG5VBzok8erdP8mq0SI.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.81,
+    "tmdbId": 1290486,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/no-ritmo-do-natal.json"
+  },
+  {
+    "id": "no-seu-natal-ou-no-meu",
+    "tipo": "filme",
+    "titulo": "No Seu Natal ou no Meu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/el4PUAp4GyLri08Qn9zrfQ4V0QE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pZxSWMjfjSSujRVj8xk8YlIZKoX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.384,
+    "tmdbId": 865559,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/no-seu-natal-ou-no-meu.json"
+  },
+  {
+    "id": "no-seu-natal-ou-no-meu-2",
+    "tipo": "filme",
+    "titulo": "No Seu Natal ou no Meu 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uHGyCnATtIc2tLS84sXDgDuJaQX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qF0q4ea83N1zwfStSsTCXvplY5I.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.189,
+    "tmdbId": 1176139,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/no-seu-natal-ou-no-meu-2.json"
+  },
+  {
+    "id": "nunca-beije-um-homem-em-um-sueter-de-natal",
+    "tipo": "filme",
+    "titulo": "Nunca Beije um Homem em um Suéter de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/Pys1wA5QX4oUl6SuABl4en2Yhc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cJb04VJ0dmb49UKRfvmTEZMh7Gj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.579,
+    "tmdbId": 746034,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/nunca-beije-um-homem-em-um-sueter-de-natal.json"
+  },
+  {
+    "id": "o-acampamento-de-natal",
+    "tipo": "filme",
+    "titulo": "O Acampamento de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6MaMhd0PNKmKnwSVOyuaBMuP76e.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i5dXn8cVZbiYaLly7XBiLOaJZY6.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6,
+    "tmdbId": 983224,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-acampamento-de-natal.json"
+  },
+  {
+    "id": "o-amuleto-de-natal",
+    "tipo": "filme",
+    "titulo": "O Amuleto de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AbEgk3q04HAWABMwhekbe6oJsMx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wErZklS61jzK1tNqST70d0Fa1FH.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.917,
+    "tmdbId": 746463,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-amuleto-de-natal.json"
+  },
+  {
+    "id": "o-comeco-do-natal",
+    "tipo": "filme",
+    "titulo": "O Começo do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j4RVAtM99Q4gJX7xrp6rVzOZCzA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ayEMeQUUvwtHzzA9Qurw4bc1oVy.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.1,
+    "tmdbId": 613080,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-comeco-do-natal.json"
+  },
+  {
+    "id": "o-desfile-de-natal",
+    "tipo": "filme",
+    "titulo": "O Trem de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/icNMfI2UhFXHWGgWC9PksNeI1hs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2h12mUzzNoXZVCAomnJPmrbEjP7.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.4,
+    "tmdbId": 1180406,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-desfile-de-natal.json"
+  },
+  {
+    "id": "o-espirito-do-natal",
+    "tipo": "filme",
+    "titulo": "O Espírito do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jdPcQsTEeOR7yfDawowwtS4gltp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5sHRV02gfk1JMwGjhJSMHr5MoWJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 4.5,
+    "tmdbId": 1055800,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-espirito-do-natal.json"
+  },
+  {
+    "id": "o-feitico-do-natal",
+    "tipo": "filme",
+    "titulo": "O Feitiço do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nK1HlQmh7876NPFXzHqVZQJgYFp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iobccQ0P5vs75rj33n2qbDKPN2Y.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.62,
+    "tmdbId": 555850,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-feitico-do-natal.json"
+  },
+  {
+    "id": "o-homem-que-inventou-o-natal",
+    "tipo": "filme",
+    "titulo": "O Homem Que Inventou o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dtUfJuikCE7bhgYZapTtnWgmoR5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hm8Gux0946IfeJ1PZwztOo6lVHH.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.845,
+    "tmdbId": 450322,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-homem-que-inventou-o-natal.json"
+  },
+  {
+    "id": "o-melhor-espetaculo-de-natal-de-todos-os-tempos",
+    "tipo": "filme",
+    "titulo": "O Melhor Espetáculo de Natal de Todos os Tempos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4fnJJTyuMgBvRFgLfSMKz8qkO1z.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1AIwhOIMktmgesIqNcwUsQWYLl5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO",
+      "4K"
+    ],
+    "nota": 6.9,
+    "tmdbId": 1206617,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-melhor-espetaculo-de-natal-de-todos-os-tempos.json"
+  },
+  {
+    "id": "o-melhor-natal-de-todos-os-tempos",
+    "tipo": "filme",
+    "titulo": "Cocoricó - O melhor Natal de Todos os Tempos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0YngdEGePc247DS6cSLvCzIbKy.jpg",
+    "banner": null,
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.2,
+    "tmdbId": 300215,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-melhor-natal-de-todos-os-tempos.json"
+  },
+  {
+    "id": "o-melhor-presente-de-natal",
+    "tipo": "filme",
+    "titulo": "O Melhor Presente de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/znN0lRVxzALsLrrtgc4ehur1uFp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7Kn5odkwaWlWuGw4XGQDQb1wNtf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 744936,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-melhor-presente-de-natal.json"
+  },
+  {
+    "id": "o-melhor-natal-de-todos",
+    "tipo": "filme",
+    "titulo": "Cocoricó - O melhor Natal de Todos os Tempos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRAnhet28w3ipeCOJvv2BIW3A1P.jpg",
+    "banner": null,
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO",
+      "4K"
+    ],
+    "nota": 5.2,
+    "tmdbId": 300215,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-melhor-natal-de-todos.json"
+  },
+  {
+    "id": "o-natal-de-costume",
+    "tipo": "filme",
+    "titulo": "O Natal de Costume",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i4CQkH3BFqhwQxJIDQLJLmiDubV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/j63Clh2P6PKQQNDSruu3z7NPeNu.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.902,
+    "tmdbId": 1202584,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-de-costume.json"
+  },
+  {
+    "id": "o-natal-de-dennis-o-pimentinha",
+    "tipo": "filme",
+    "titulo": "O Natal de Dennis o Pimentinha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1MEnonlDjYqgOkq2x8eONQBNsYT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eCHTvzQVj7D7XQjdFh3NxKl9094.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.546,
+    "tmdbId": 13358,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-de-dennis-o-pimentinha.json"
+  },
+  {
+    "id": "o-natal-de-heidi",
+    "tipo": "filme",
+    "titulo": "O Natal de Heidi",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1x4tqn90oBqi6qtqMzn69dkziOg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jG1BseaXCcQeXPKY3tk9p1RiGDY.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.964,
+    "tmdbId": 550032,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-de-heidi.json"
+  },
+  {
+    "id": "o-natal-de-james-e-bob",
+    "tipo": "filme",
+    "titulo": "O Natal de James & Bob",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pjgQKH3Zpy7KBvCINakx5vtDmRb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oKtuit0R4v4i6colEDeYpdTKKqS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.71,
+    "tmdbId": 673737,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-de-james-e-bob.json"
+  },
+  {
+    "id": "o-natal-de-madea",
+    "tipo": "filme",
+    "titulo": "O Natal de Madea",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tbwm8GptynNoxbkC5AhjYMYfnn7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bBnVwaiLBXBkwq9zSZUzDNWUHW5.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.449,
+    "tmdbId": 175555,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-de-madea.json"
+  },
+  {
+    "id": "o-natal-dos-darlingtons",
+    "tipo": "filme",
+    "titulo": "O Natal dos Darlingtons",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/h18hQf5ZZ2qrX6b7wMF5pPDmiSk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vH5ANgDUXDbf4QZLjHA60h74Ujv.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7,
+    "tmdbId": 746032,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-dos-darlingtons.json"
+  },
+  {
+    "id": "o-natal-dos-liddle",
+    "tipo": "filme",
+    "titulo": "O Natal dos Liddle",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5ZCMRlHfVypB8CKdngt4zHK3OH6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gn4xk4nGSRkspBZVFCrYQcao1Vg.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7.042,
+    "tmdbId": 627475,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-dos-liddle.json"
+  },
+  {
+    "id": "o-natal-dos-liddle-o-casamento",
+    "tipo": "filme",
+    "titulo": "O Natal dos Liddle: O Casamento",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9Yk7w4okcMiLcT14yDBhtKZupNE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5e8f5rMMxTuRWzojybRdIMbzTVR.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7.375,
+    "tmdbId": 744942,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-dos-liddle-o-casamento.json"
+  },
+  {
+    "id": "o-natal-dos-mitchell",
+    "tipo": "filme",
+    "titulo": "O Natal dos Mitchell",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/27hK7sxZw3F0oQ8D2m0e2bpVMzj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4W3Ai2ZbUZ78NI89dvR8rYi0tpY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6,
+    "tmdbId": 746042,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-dos-mitchell.json"
+  },
+  {
+    "id": "o-natal-dos-mitchell-2-a-competicao",
+    "tipo": "filme",
+    "titulo": "O Natal dos Mitchell 2: A Competição",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jp5rosMiQnStobFM2T2PZ6cmp3r.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xz3hZViv1AwAZDlwhu9dE8yVCmX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.4,
+    "tmdbId": 874196,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-dos-mitchell-2-a-competicao.json"
+  },
+  {
+    "id": "o-natal-esta-no-ar",
+    "tipo": "filme",
+    "titulo": "O Natal Está no Ar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kCJahwmxvjZFpmDfQdEgHYTaYB3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1NSjj7AnAbAUXHAJv3a14yC3h4E.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.618,
+    "tmdbId": 639609,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-esta-no-ar.json"
+  },
+  {
+    "id": "o-natal-extraordinario-de-zoey",
+    "tipo": "filme",
+    "titulo": "O Natal Extraordinário de Zoey",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/g9y1PDZQ4MBV9OQ0dLi92Ft7u3m.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3dfqQHaM2zfuX3bfqgp4aF4c6Xm.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.37,
+    "tmdbId": 872130,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-natal-extraordinario-de-zoey.json"
+  },
+  {
+    "id": "o-primeiro-natal-do-mundo",
+    "tipo": "filme",
+    "titulo": "O Primeiro Natal do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8UOl0hlPFyWiJprpMxYRkhi2vSq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1ALeWh8dv7X1lu21DdQ9KUTGOQ3.jpg",
+    "generos": [
+      "NATALINO",
+      "4K"
+    ],
+    "nota": 7.4,
+    "tmdbId": 1103787,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-primeiro-natal-do-mundo.json"
+  },
+  {
+    "id": "o-principe-do-natal",
+    "tipo": "filme",
+    "titulo": "O Príncipe do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hSfOYaqgCOVs7XIb8L6WaQVAQyY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mNjoA9jDNbxPJqeYmeETLStpYZF.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.604,
+    "tmdbId": 483104,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-principe-do-natal.json"
+  },
+  {
+    "id": "o-principe-do-natal-o-bebe-real",
+    "tipo": "filme",
+    "titulo": "O Príncipe do Natal: O Bebê Real",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3K0pmPNutVzuZ0gmy4din6kMKhw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uuCj46exjP6UOo976MAWACWFv1X.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.272,
+    "tmdbId": 587693,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-principe-do-natal-o-bebe-real.json"
+  },
+  {
+    "id": "o-retiro-de-natal",
+    "tipo": "filme",
+    "titulo": "O Retiro de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wJWZMjTvJATghILwpLBQwmYoIpL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i7aYkpatEJX9e6wDXxwKfTPGXWH.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 1003485,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-retiro-de-natal.json"
+  },
+  {
+    "id": "o-trem-de-natal",
+    "tipo": "filme",
+    "titulo": "O Trem de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/icNMfI2UhFXHWGgWC9PksNeI1hs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2h12mUzzNoXZVCAomnJPmrbEjP7.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.4,
+    "tmdbId": 1180406,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-trem-de-natal.json"
+  },
+  {
+    "id": "o-trem-do-natal",
+    "tipo": "filme",
+    "titulo": "O Trem do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7SwCx911iDRATeaXusVmnHt5JP7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yVs8AUOIQ2ymKcbmEbVaSqg5793.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 474982,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/o-trem-do-natal.json"
+  },
+  {
+    "id": "operacao-feliz-natal-o-golpe-dos-duendes",
+    "tipo": "filme",
+    "titulo": "Operação Feliz Natal: O Golpe dos Duendes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e4ovmSAP2hTG1uARTxIYKi1qlbs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Ae9sZjblxsyGF0cwFBGc85OpZMx.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7.1,
+    "tmdbId": 914241,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/operacao-feliz-natal-o-golpe-dos-duendes.json"
+  },
+  {
+    "id": "operacao-natal",
+    "tipo": "filme",
+    "titulo": "Operação Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zX2UeAmF8XDBJM3sZ0RS0jLQ8Gg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO",
+      "4K"
+    ],
+    "nota": 6.99,
+    "tmdbId": 845781,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/operacao-natal.json"
+  },
+  {
+    "id": "presente-de-natal",
+    "tipo": "filme",
+    "titulo": "Presente de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mSmFm8KkCnF0eOaOgmmJDDN7gse.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gIkgGIwF1YTZYXpmxMFeAJDgJC3.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 8,
+    "tmdbId": 1172532,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/presente-de-natal.json"
+  },
+  {
+    "id": "quando-eu-penso-no-natal",
+    "tipo": "filme",
+    "titulo": "Quando Eu Penso no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oRRJWmHBjkIozNsnrv3lIAQwcZ1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/buocftzkXVbxvMHtQXVVu08Cuz5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.211,
+    "tmdbId": 1028543,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/quando-eu-penso-no-natal.json"
+  },
+  {
+    "id": "querido-natal",
+    "tipo": "filme",
+    "titulo": "Querido Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zJPQ98VPVWWQIN8WGfDXSZxJCwJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sbr49JL9xSkM9u8hKXqDxvh70FY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.535,
+    "tmdbId": 744941,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/querido-natal.json"
+  },
+  {
+    "id": "rainha-do-natal",
+    "tipo": "filme",
+    "titulo": "Rainha do Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2EiFqwRpT434FFdKYD6wIZAqlM1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pgSHldnH24OJzCb5i8R6y602q0h.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.1,
+    "tmdbId": 826451,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/rainha-do-natal.json"
+  },
+  {
+    "id": "reencontro-de-natal",
+    "tipo": "filme",
+    "titulo": "Reencontro de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2kzSqmCmQxlRqF4oDavZb3qx57g.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2N0XZxyPB8WSPcmijVSywyezV1e.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.7,
+    "tmdbId": 479614,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/reencontro-de-natal.json"
+  },
+  {
+    "id": "reforma-e-amor",
+    "tipo": "filme",
+    "titulo": "Natal, Reforma e Amor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qMCtOm0GNaO4qUeV76XEPwzyhLJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2IXHE1FnosIDX0iBUH2HQdzGkmz.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.8,
+    "tmdbId": 1015169,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/reforma-e-amor.json"
+  },
+  {
+    "id": "reuniao-de-familia-natal-especial",
+    "tipo": "filme",
+    "titulo": "Reunião de Família: Natal Especial",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6sMtqajAz8N7tKVlYUpXNaWboSy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2XmXiRq1GRC0thJN0YUzzYiGLBY.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.862,
+    "tmdbId": 654580,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/reuniao-de-familia-natal-especial.json"
+  },
+  {
+    "id": "ritmo-de-natal",
+    "tipo": "filme",
+    "titulo": "Ritmo de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yVw1ZoyQ6dF6qVRFsD36Ye3ifdH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rSLY7RGZ8yxkZTt1zQwVyrdZfX8.jpg",
+    "generos": [
+      "NATALINO",
+      "4K"
+    ],
+    "nota": 7.1,
+    "tmdbId": 1175787,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/ritmo-de-natal.json"
+  },
+  {
+    "id": "se-o-natal-fosse-meu",
+    "tipo": "filme",
+    "titulo": "Se o Natal Fosse Meu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lZTggXyozIH2NeKIZQqVSwJL5yQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/itnQ5bodu4ecKM8J6u3AkpdVgI2.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.6,
+    "tmdbId": 737766,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/se-o-natal-fosse-meu.json"
+  },
+  {
+    "id": "sem-dormir-ate-o-natal",
+    "tipo": "filme",
+    "titulo": "Sem Dormir Até o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5yl9YbCYqHBVm20Qd22g9cVrJmw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mEoQaQV5mWxvD7xuHHVeTFHsSk9.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.825,
+    "tmdbId": 550097,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sem-dormir-ate-o-natal.json"
+  },
+  {
+    "id": "sintonia-de-natal",
+    "tipo": "filme",
+    "titulo": "Sintonia de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oMjYBzQmR4D4A4sajf846iDreGG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.321,
+    "tmdbId": 1104171,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/sintonia-de-natal.json"
+  },
+  {
+    "id": "spirited-um-conto-natalino",
+    "tipo": "filme",
+    "titulo": "Spirited: Um Conto Natalino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/j0TT2kXydiAtpbwz0qhiKjxhMcv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fHDvGGPFry65ou79WLi6JsjCZrM.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.848,
+    "tmdbId": 632856,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/spirited-um-conto-natalino.json"
+  },
+  {
+    "id": "surpresa-de-amor-no-natal",
+    "tipo": "filme",
+    "titulo": "Surpresa de Amor no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/s5kjRYKf4coe7Hifbg7y16NsLB4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y0ME0VzA3jRD0wQY9lgGBWQCWsC.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 626276,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/surpresa-de-amor-no-natal.json"
+  },
+  {
+    "id": "the-loud-house-um-natal-muito-loud",
+    "tipo": "filme",
+    "titulo": "The Loud House: Um Natal Muito Loud",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kfJ5CTqYwC094H5HoVH4FnjJ514.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hhkoj6ozKkseTrQXIOAia1pr8Gi.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 7.1,
+    "tmdbId": 674610,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/the-loud-house-um-natal-muito-loud.json"
+  },
+  {
+    "id": "torneio-de-natal-de-volta-ao-lar",
+    "tipo": "filme",
+    "titulo": "Torneio de Natal: De Volta ao Lar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cMcHGdL9zgn9HtAoR5DAmliHDn6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/21Mh1T60DwagIe8EPmUgwyRho8W.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.676,
+    "tmdbId": 1012288,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/torneio-de-natal-de-volta-ao-lar.json"
+  },
+  {
+    "id": "tres-babas-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Três Babás Para o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lyjqss9UkCB9J4H3iFCCWZ7kB2P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iCltdG8lcYsL2tWAc0DZdFaVXBX.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7.548,
+    "tmdbId": 1028541,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tres-babas-para-o-natal.json"
+  },
+  {
+    "id": "triangulo-de-natal",
+    "tipo": "filme",
+    "titulo": "Triângulo de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hL9QAA51Hr3nTcp4b7SXYv6hZCW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ou3PlMNBW7SUSExG4c6JZukBrNQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.913,
+    "tmdbId": 971511,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/triangulo-de-natal.json"
+  },
+  {
+    "id": "troca-de-natal",
+    "tipo": "filme",
+    "titulo": "Troca de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sGDtvTTULLaoggwS6aETFBr2IJH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6ic1CVzOFrnlWp1g6tPgAXUAjVb.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.028,
+    "tmdbId": 238749,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/troca-de-natal.json"
+  },
+  {
+    "id": "tudo-bem-no-natal-que-vem",
+    "tipo": "filme",
+    "titulo": "Tudo Bem no Natal Que Vem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7gCwW0My3JCjhXeqHnBrfZK3bbk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/36xTkr5CxVGKqe55q6lxVa8LyK3.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 7.323,
+    "tmdbId": 755339,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tudo-bem-no-natal-que-vem.json"
+  },
+  {
+    "id": "tudo-menos-natal",
+    "tipo": "filme",
+    "titulo": "Tudo Menos Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rrK5pcnpVRE9ayKmyXNr03F1ul4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rhlIBgCF1zviBR4igbxfxnGkaGj.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.284,
+    "tmdbId": 852590,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/tudo-menos-natal.json"
+  },
+  {
+    "id": "turma-reunida-no-natal",
+    "tipo": "filme",
+    "titulo": "Turma Reunida no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3hGT2qtlSPMj1smIFgNftQvs7pc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gycBJ7rtVZyfR9ijkhAzNEunleI.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.727,
+    "tmdbId": 1028537,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/turma-reunida-no-natal.json"
+  },
+  {
+    "id": "um-amor-real-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Amor Real de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/s4rnQyZVfyCjJ0sgVsBSo5qTX0g.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wwDZQv0X86y5JT8U1ASWoxFltK3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.915,
+    "tmdbId": 1142780,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-amor-real-de-natal.json"
+  },
+  {
+    "id": "um-brinde-ao-natal",
+    "tipo": "filme",
+    "titulo": "Um Brinde Ao Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oI8gJrsVVJ0i5c96KOMufKISUvw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cwWPWhdnqOBvGz3zRzD9zbhQQLZ.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.407,
+    "tmdbId": 768520,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-brinde-ao-natal.json"
+  },
+  {
+    "id": "um-buque-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Buquê de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/14YhALby42jtkumLFcr6payQvko.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1kcXrF7ozXM9N5TssTpAbCZfBQ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 737763,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-buque-de-natal.json"
+  },
+  {
+    "id": "um-castelo-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Um Castelo para o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xqbD1Gztt7kUUUzJhztNbkRtzUd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7O6yp5DoR6uQlJVqfxkI4Vt8Wan.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6,
+    "tmdbId": 758879,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-castelo-para-o-natal.json"
+  },
+  {
+    "id": "um-crush-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Um Crush para o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pv7QI2fQOZIG0QSbHv7Ot65O8YN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2r0O6rOOSfsZ3bIpWTOt0Xabxkf.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.425,
+    "tmdbId": 810873,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-crush-para-o-natal.json"
+  },
+  {
+    "id": "um-doce-natal",
+    "tipo": "filme",
+    "titulo": "Um Doce Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q1DfwbInLa4EpBCfi3Gu8H3N0OQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pfuLljw9tNNIPABwYgHo30cQhLH.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 474972,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-doce-natal.json"
+  },
+  {
+    "id": "um-espetaculo-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Espetáculo de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vPxmGhwZr3xgSZNW3frw1yAkBcD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Aq5pvd4AFVtD9HMYtrRLz9Fb3oK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.774,
+    "tmdbId": 1022685,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-espetaculo-de-natal.json"
+  },
+  {
+    "id": "um-maluco-no-natal",
+    "tipo": "filme",
+    "titulo": "Um Maluco no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7H9RBaGKCNsSpXuj0uwHKyXgoke.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dDcimMQyNL0cTXGcxJD9XHI4xdn.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.7,
+    "tmdbId": 550651,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-maluco-no-natal.json"
+  },
+  {
+    "id": "um-misterio-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Mistério de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2NXBuV3xsweIIZeE89O8qFkoZDZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fLDo1GXZWuBpMRkrzITYzBufath.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.442,
+    "tmdbId": 987919,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-misterio-de-natal.json"
+  },
+  {
+    "id": "um-namorado-de-natal-pra-mamae",
+    "tipo": "filme",
+    "titulo": "Um Namorado de Natal pra Mamãe",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bgifGSK0RtBIUmfA8ITCHrj4u6h.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ryHWArykyg9jnH5RJ14vNJCUTZY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.9,
+    "tmdbId": 1183990,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-namorado-de-natal-pra-mamae.json"
+  },
+  {
+    "id": "um-natal-5-estrelas",
+    "tipo": "filme",
+    "titulo": "Um Natal 5 Estrelas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rg2qXwnGHm6H2kYiy66yJqDo0Sh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/goPs7BcYBOrGMPjPwnqf3tMJI7G.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.135,
+    "tmdbId": 1029578,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-5-estrelas.json"
+  },
+  {
+    "id": "um-natal-apaixonado",
+    "tipo": "filme",
+    "titulo": "Um Natal Apaixonado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7T41eP3T9l1TGVU3QNOr4o6wwIa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/an81PRNlpgSOvpMzrb9QKARH12e.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.6,
+    "tmdbId": 626313,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-apaixonado.json"
+  },
+  {
+    "id": "um-natal-bem-casado",
+    "tipo": "filme",
+    "titulo": "Um Natal Bem Casado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kkELOZkOPpbltQwuElpvMTItJYO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/94hfGX8TSFJdgN0Upq3xnQVAoNW.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.162,
+    "tmdbId": 1027338,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-bem-casado.json"
+  },
+  {
+    "id": "um-natal-brilhante",
+    "tipo": "filme",
+    "titulo": "Um Natal Brilhante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fNNBSfqZesgq0lYKqBB8CeHabKq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lVSj3d2dvTaK3qO9K2aD1W4L7R0.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.6,
+    "tmdbId": 9969,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-brilhante.json"
+  },
+  {
+    "id": "um-natal-cheio-de-graca",
+    "tipo": "filme",
+    "titulo": "Um Natal Cheio de Graça",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8TDwAtynfhER7CXb7J61l4SyTCV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wvIV32bGg6HC4dOCyXIHk9q4Lgt.jpg",
+    "generos": [
+      "NATALINO",
+      "4K"
+    ],
+    "nota": 5.787,
+    "tmdbId": 1042984,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-cheio-de-graca.json"
+  },
+  {
+    "id": "um-natal-cinco-estrelas",
+    "tipo": "filme",
+    "titulo": "Um Natal Cinco Estrelas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/g8Ty5eJU1f3IfkQaL65Kw3KiKb0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/84ObTe22XWcDgNBFEodziAyLfYw.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.865,
+    "tmdbId": 746060,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-cinco-estrelas.json"
+  },
+  {
+    "id": "um-natal-com-amor-e-vinho",
+    "tipo": "filme",
+    "titulo": "Um Natal com Amor e Vinho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zdxRxeGGBXxOErI3C9QrAYcxSa9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fV3QcOrxIgW4GoBDIw24fb6y5C3.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.4,
+    "tmdbId": 879227,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-com-amor-e-vinho.json"
+  },
+  {
+    "id": "um-natal-de-descobertas",
+    "tipo": "filme",
+    "titulo": "Um Natal de Descobertas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jvHNZ9sdlUwK3WEG3EChyTAN1xM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1o9hhza17nZ5Lu05MFKtat99JBK.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.86,
+    "tmdbId": 299584,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-de-descobertas.json"
+  },
+  {
+    "id": "um-natal-de-uniao",
+    "tipo": "filme",
+    "titulo": "Um Natal de União",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sUXxr92XcgGiKZ5TrHl1oTLPmGF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7xvZLHOlW9B1HXE6oX05RGW0YOl.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.7,
+    "tmdbId": 631402,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-de-uniao.json"
+  },
+  {
+    "id": "um-natal-em-familia",
+    "tipo": "filme",
+    "titulo": "Um Natal em Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cvMkGmr9FqlT4Tz5uEH4frZYHp9.jpg",
+    "banner": null,
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": null,
+    "tmdbId": 1612572,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-em-familia.json"
+  },
+  {
+    "id": "um-natal-em-montana",
+    "tipo": "filme",
+    "titulo": "Um Natal em Montana",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jkpveROjtuiuKJRJSWo6tXayrfH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ms9T1wyLdleZSj5qBywR2jwAjvJ.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.4,
+    "tmdbId": 881857,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-em-montana.json"
+  },
+  {
+    "id": "um-natal-especial",
+    "tipo": "filme",
+    "titulo": "Um Natal Especial",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6nKEgbysI0qjsCReB43Am8dWA9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qUTY0w0ZQ15siNdu3Nfa88T5gqV.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.545,
+    "tmdbId": 15250,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-especial.json"
+  },
+  {
+    "id": "um-natal-estrelado",
+    "tipo": "filme",
+    "titulo": "Um Natal Estrelado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2HU7uH66drcqfDJAHf5SqNlBGMy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mCZiAnFHMuqPA4MCNDyPzOpJVSY.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.5,
+    "tmdbId": 299574,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-estrelado.json"
+  },
+  {
+    "id": "um-natal-improvavel",
+    "tipo": "filme",
+    "titulo": "Um Natal Improvável",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/i2ECy1dTvKwrmQzGeOgDFxJgCSc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/g9qUF1N8D7oTJOAUYmHPBqLRCyx.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7.045,
+    "tmdbId": 1029208,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-improvavel.json"
+  },
+  {
+    "id": "um-natal-no-castelo",
+    "tipo": "filme",
+    "titulo": "Um Natal no Castelo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cafDiRUSN2l5e351s7fjk0eXYGN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ojsxr2OXLmmMDNK0dYhcJbEynII.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.265,
+    "tmdbId": 737779,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-no-castelo.json"
+  },
+  {
+    "id": "um-natal-para-a-familia",
+    "tipo": "filme",
+    "titulo": "Um Natal para a Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uwpHc6LwpbQOLT8KMo0rNr6iYWf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9iPY1nZhSDRPldDjckFfEzQW8hO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.1,
+    "tmdbId": 1180798,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-natal-para-a-familia.json"
+  },
+  {
+    "id": "um-novo-conto-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Novo Conto de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6ffAnG1WGjeImcq7N6dN0PsErjq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tA5gJmhIl7slq3rFtQjZtamL9HE.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.3,
+    "tmdbId": 1048771,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-novo-conto-de-natal.json"
+  },
+  {
+    "id": "um-par-perfeito-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Combinação do Azevinho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/s4PlDSJN6IwtuB91BNzkDL1oNae.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ipDFjrJBQoCcN28uKHV7a56QIBO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 5.5,
+    "tmdbId": 1003469,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-par-perfeito-para-o-natal.json"
+  },
+  {
+    "id": "um-reencontro-natalino",
+    "tipo": "filme",
+    "titulo": "Um Reencontro Natalino",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ep92klyhq5ePnHxsm7Psn6UPDF8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eGGOiri87zdNMWA57U2HlsrU470.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7.091,
+    "tmdbId": 1028539,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-reencontro-natalino.json"
+  },
+  {
+    "id": "um-sonho-de-natal",
+    "tipo": "filme",
+    "titulo": "Um Sonho de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vwYoyk5w4oeNuh2yaxouGSbv4l.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6JUAhsIAcqnYHcbjuBASEIDKtur.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO",
+      "LANÇAMENTOS"
+    ],
+    "nota": 4,
+    "tmdbId": 1389821,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/um-sonho-de-natal.json"
+  },
+  {
+    "id": "uma-cancao-de-natal",
+    "tipo": "filme",
+    "titulo": "Uma Canção de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/syTTt6NF0IYvGRSVA1OWsnUmfUR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/561MNVX34MCadXsuLTOwxc3jRGt.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.1,
+    "tmdbId": 489755,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-cancao-de-natal.json"
+  },
+  {
+    "id": "uma-conexao-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Uma Conexão para o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dnPeY0D2Y5kOZVxJo5AuJ4gqJX2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sHKxtL22xzrrwGhyYns9oMXqtjD.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6,
+    "tmdbId": 474994,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-conexao-para-o-natal.json"
+  },
+  {
+    "id": "uma-entrega-para-o-natal",
+    "tipo": "filme",
+    "titulo": "Uma Entrega para o Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e2mjkmKglJDXci50P6mNFCEMpW0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ynjC4jKmbGQ04z0G8IxRCww0wHd.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.5,
+    "tmdbId": 737777,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-entrega-para-o-natal.json"
+  },
+  {
+    "id": "uma-esperanca-no-natal",
+    "tipo": "filme",
+    "titulo": "Uma Esperança no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/AgKQC5mPm9TWT1cIZmdv3vBw8D4.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2RDB4DRWwGYJL79u1lS5IZjRYLC.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5,
+    "tmdbId": 567296,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-esperanca-no-natal.json"
+  },
+  {
+    "id": "uma-historia-de-cinderela-um-desejo-de-natal",
+    "tipo": "filme",
+    "titulo": "A Nova Cinderela: Milagre de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/doo45Z1rtyByhN69yfUsqtzeg7M.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9O79JFP9C2DY8eQ653A2gDcrwkx.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.428,
+    "tmdbId": 606117,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-historia-de-cinderela-um-desejo-de-natal.json"
+  },
+  {
+    "id": "uma-noite-de-natal",
+    "tipo": "filme",
+    "titulo": "Uma Noite de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tWWZQIaOMjxaZoaehjtTM0vpBGd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3NervP4JDzJeuri6jPGcI8bOvKw.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 5.774,
+    "tmdbId": 300187,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-noite-de-natal.json"
+  },
+  {
+    "id": "uma-paixao-no-natal",
+    "tipo": "filme",
+    "titulo": "Uma Paixão no Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gL1rxXHD1igT15kw1WBnit55er0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vLdjQT1euGDe59GNPPJs1OSciJI.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 4.5,
+    "tmdbId": 1038803,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-paixao-no-natal.json"
+  },
+  {
+    "id": "uma-proposta-natalina",
+    "tipo": "filme",
+    "titulo": "Uma Proposta Natalina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gPttcRkH6hnw8TXsLorHIcGj3Mc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6eUC9PgcJ8Wzb5Puj3UMu7uxnM4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.569,
+    "tmdbId": 890757,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-proposta-natalina.json"
+  },
+  {
+    "id": "uma-quedinha-de-natal",
+    "tipo": "filme",
+    "titulo": "Uma Quedinha de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p9wwj23RF3Nqjj0EzxsDx0s2aV7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iVtpnbPE91vmi3LmcOXycEblwPA.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.219,
+    "tmdbId": 833097,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-quedinha-de-natal.json"
+  },
+  {
+    "id": "uma-surpresa-de-natal",
+    "tipo": "filme",
+    "titulo": "Uma Surpresa de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qqPICDdPdaNULZ8joclywLwX5ON.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/A73tcsaqr0Kt71ol9of7hE6AoiI.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 6.4,
+    "tmdbId": 999602,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/uma-surpresa-de-natal.json"
+  },
+  {
+    "id": "valsa-de-natal",
+    "tipo": "filme",
+    "titulo": "Valsa de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/q7j7D50cNqYe0dILye3ASAIOMel.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5xlPkbp46bmtnS26bAwzuNjmob6.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO"
+    ],
+    "nota": 7,
+    "tmdbId": 733032,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/valsa-de-natal.json"
+  },
+  {
+    "id": "zoe-e-raven-os-doze-presentes-de-natal",
+    "tipo": "filme",
+    "titulo": "Zoe e Raven: Os Doze Presentes de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/o8lQpqYMY9CW4MvhLbb9sesXZxy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/r6SsPXO9xWanCR8X8oxoYlBsCA4.jpg",
+    "generos": [
+      "NATALINO"
+    ],
+    "nota": 6.697,
+    "tmdbId": 567145,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/zoe-e-raven-os-doze-presentes-de-natal.json"
   }
 ]

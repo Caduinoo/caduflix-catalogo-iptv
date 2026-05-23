@@ -1,0 +1,99 @@
+{
+  "id": "estilo-a-beira-da-estrada",
+  "tipo": "serie",
+  "titulo": "Estilo à Beira da Estrada",
+  "ano": null,
+  "descricao": "Duas amigas e sócias partem em uma missão no meio da pandemia: transformar um motel decadente de beira de estrada em um refúgio perfeito",
+  "generos": [
+    "NETFLIX"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vexpYRBziqzQQ9HI8f5kKrI6u3C.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cnYKA3MUSgGxOlO73p9Cd290EBd.jpg",
+  "tmdbId": 130044,
+  "nota": 4.1,
+  "xtreamSeriesId": 4477,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10907382",
+          "tipo": "episodio",
+          "titulo": "Estilo à Beira da Estrada S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10907382",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vexpYRBziqzQQ9HI8f5kKrI6u3C.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907383",
+          "tipo": "episodio",
+          "titulo": "Estilo à Beira da Estrada S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10907383",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vexpYRBziqzQQ9HI8f5kKrI6u3C.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907384",
+          "tipo": "episodio",
+          "titulo": "Estilo à Beira da Estrada S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10907384",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vexpYRBziqzQQ9HI8f5kKrI6u3C.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907385",
+          "tipo": "episodio",
+          "titulo": "Estilo à Beira da Estrada S01E04",
+          "numero": 4,
+          "temporada": 1,
+          "xtreamId": "10907385",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vexpYRBziqzQQ9HI8f5kKrI6u3C.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907386",
+          "tipo": "episodio",
+          "titulo": "Estilo à Beira da Estrada S01E05",
+          "numero": 5,
+          "temporada": 1,
+          "xtreamId": "10907386",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vexpYRBziqzQQ9HI8f5kKrI6u3C.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10907387",
+          "tipo": "episodio",
+          "titulo": "Estilo à Beira da Estrada S01E06",
+          "numero": 6,
+          "temporada": 1,
+          "xtreamId": "10907387",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/vexpYRBziqzQQ9HI8f5kKrI6u3C.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 6,
+  "tituloOriginal": "Motel Makeover",
+  "dataLancamento": "2021-08-25"
+}

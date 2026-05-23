@@ -1,0 +1,42 @@
+{
+  "id": "o-reformatorio-nickel",
+  "tipo": "filme",
+  "titulo": "O Reformatório Nickel",
+  "ano": null,
+  "descricao": "Acompanha dois adolescentes negros em um reformatório juvenil. A amizade deles gera transformação e desperta esperança.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hlTuZinZ2EvrkTKpW66z2RXySmE.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
+  "tmdbId": 1028196,
+  "nota": 6.66,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10788428,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10776269,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10782755,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567067,
+  "tituloOriginal": "Nickel Boys",
+  "dataLancamento": "2024-12-13"
+}

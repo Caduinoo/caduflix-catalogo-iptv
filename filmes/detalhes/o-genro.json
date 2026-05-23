@@ -1,0 +1,42 @@
+{
+  "id": "o-genro",
+  "tipo": "filme",
+  "titulo": "O Genro",
+  "ano": null,
+  "descricao": "Depois de seguir um caminho difícil, José Sánchez se torna um temido operador político. Mas, desta vez, seu bigode marcante e a língua afiada não serão suficientes.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pS1hk20bUfGZ4tFf9r0Ws0gGPoZ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hGgXH6s3klnWW3x2cbQYlrSVg0U.jpg",
+  "tmdbId": 1651233,
+  "nota": 5.667,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11039820,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11039815,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11050046,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "El yerno",
+  "dataLancamento": "2026-04-18"
+}

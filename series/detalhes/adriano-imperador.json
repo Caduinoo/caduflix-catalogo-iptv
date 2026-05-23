@@ -1,0 +1,63 @@
+{
+  "id": "adriano-imperador",
+  "tipo": "serie",
+  "titulo": "Adriano Imperador",
+  "ano": null,
+  "descricao": "No auge de sua carreira, Adriano Leite Ribeiro, jogador consagrado Imperador pela torcida da Inter de Milão, abre mão de contratos milionários para ir em busca de seu bem mais valioso: a felicidade.",
+  "generos": [
+    "PARAMOUNT+"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xUT8smWNpwDGF6IDcFGkker2gZy.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3apZ9TfDnT7tS9KBLiujFQ1RstQ.jpg",
+  "tmdbId": 205426,
+  "nota": 6.7,
+  "xtreamSeriesId": 6491,
+  "temporadas": [
+    {
+      "numero": 1,
+      "nome": "Temporada 1",
+      "episodios": [
+        {
+          "id": "ep-10993027",
+          "tipo": "episodio",
+          "titulo": "Adriano Imperador S01E01",
+          "numero": 1,
+          "temporada": 1,
+          "xtreamId": "10993027",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xUT8smWNpwDGF6IDcFGkker2gZy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10993028",
+          "tipo": "episodio",
+          "titulo": "Adriano Imperador S01E02",
+          "numero": 2,
+          "temporada": 1,
+          "xtreamId": "10993028",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xUT8smWNpwDGF6IDcFGkker2gZy.jpg",
+          "duracao": null,
+          "descricao": ""
+        },
+        {
+          "id": "ep-10993029",
+          "tipo": "episodio",
+          "titulo": "Adriano Imperador S01E03",
+          "numero": 3,
+          "temporada": 1,
+          "xtreamId": "10993029",
+          "container": "mp4",
+          "capa": "http://image.tmdb.org/t/p/w227_and_h127_bestv2/xUT8smWNpwDGF6IDcFGkker2gZy.jpg",
+          "duracao": null,
+          "descricao": ""
+        }
+      ]
+    }
+  ],
+  "totalTemporadas": 1,
+  "totalEpisodios": 3,
+  "tituloOriginal": "Adriano Imperador",
+  "dataLancamento": "2022-07-21"
+}
