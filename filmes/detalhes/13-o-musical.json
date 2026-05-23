@@ -1,0 +1,34 @@
+{
+  "id": "13-o-musical",
+  "tipo": "filme",
+  "titulo": "13: O Musical",
+  "ano": null,
+  "descricao": "Após o divórcio dos pais, um pré-adolescente deixa Nova York e se muda para Indiana, onde decide organizar um grande Bar Mitzvah.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3ndpRWh8iOvckVtHptIsD4OtayN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/bE1AJOGtcvjegirI5Np6sTUO0gz.jpg",
+  "tmdbId": 673271,
+  "nota": 6,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783190,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781706,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "13: The Musical",
+  "dataLancamento": "2022-08-12"
+}

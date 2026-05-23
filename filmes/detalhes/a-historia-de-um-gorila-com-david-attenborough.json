@@ -1,0 +1,41 @@
+{
+  "id": "a-historia-de-um-gorila-com-david-attenborough",
+  "tipo": "filme",
+  "titulo": "A História de Um Gorila com David Attenborough",
+  "ano": null,
+  "descricao": "Neste documentário intimista, David Attenborough revisita um dos momentos mais marcantes de sua vida: o primeiro encontro com um bebê gorila chamado Pablo, nas montanhas de Ruanda, há quase 50 anos. Mesclando imagens raras de arquivo com gravações atuais, o naturalista acompanha os descendentes de Pablo e revela comportamentos extraordinários dos gorilas que nunca haviam sido filmados antes. É uma história emocionante sobre legado, conexão, esperança e alegria.",
+  "generos": [
+    "LEGENDADOS",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/jdbhjmDymtYdcYfzsmBlQEsOExV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ereCtRiOnMEGlFWJF51cWIKlNCS.jpg",
+  "tmdbId": 1623125,
+  "nota": 7.409,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11036326,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049846,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049936,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "A Gorilla Story: Told by David Attenborough",
+  "dataLancamento": "2026-04-16"
+}

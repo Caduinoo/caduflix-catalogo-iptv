@@ -1,0 +1,42 @@
+{
+  "id": "a-chamada",
+  "tipo": "filme",
+  "titulo": "A Chamada",
+  "ano": null,
+  "descricao": "Cinco amigos fazem uma reunião virtual após um ano de um grave incidente que envolveu todos eles.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wK3TtT1xoeaXjb0Rn2UA5Df0TU4.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/7kf9F9UqGfjMHcYx5YX02jGXUpn.jpg",
+  "tmdbId": 830790,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783337,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769133,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781921,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "A Chamada",
+  "dataLancamento": "2021-03-12"
+}

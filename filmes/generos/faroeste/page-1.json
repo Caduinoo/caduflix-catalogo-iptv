@@ -1,0 +1,73 @@
+[
+  {
+    "id": "a-balada-de-buster-scruggs",
+    "tipo": "filme",
+    "titulo": "A Balada de Buster Scruggs",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nb4crpD43qLIlNj3k5mqC0izPCk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg",
+    "generos": [
+      "FAROESTE"
+    ],
+    "nota": 7.134,
+    "tmdbId": 537996,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-balada-de-buster-scruggs.json"
+  },
+  {
+    "id": "a-balada-do-pistoleiro",
+    "tipo": "filme",
+    "titulo": "A Balada do Pistoleiro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8zU4zWkSgERwg4AhnloW1oAyXRg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rWFLgIRGXzECIbczgo7dmnwq55q.jpg",
+    "generos": [
+      "FAROESTE"
+    ],
+    "nota": 6.9,
+    "tmdbId": 8068,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-balada-do-pistoleiro.json"
+  },
+  {
+    "id": "a-floresta-do-escalpe",
+    "tipo": "filme",
+    "titulo": "A Floresta do Escalpe",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2qEDjNFCgPJqr5Ur6ZeJOVgVBWl.jpg",
+    "generos": [
+      "FAROESTE"
+    ],
+    "nota": 6.7,
+    "tmdbId": 753477,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-floresta-do-escalpe.json"
+  },
+  {
+    "id": "a-furia-dos-peles-vermelhas",
+    "tipo": "filme",
+    "titulo": "A Fúria dos Peles Vermelhas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cfvIkrZqBzU8sAoKD0tK3w1axbW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tto0ozJ8k5i8kOi1MLCNbR29E0G.jpg",
+    "generos": [
+      "FAROESTE"
+    ],
+    "nota": 6.333,
+    "tmdbId": 337602,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-furia-dos-peles-vermelhas.json"
+  },
+  {
+    "id": "a-leste-de-wall",
+    "tipo": "filme",
+    "titulo": "A Leste de Wall",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/QdVvAZ7K8LLude9Oum94iVR0xO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fUil9M4RVOGkF9gx9BukFvqkP9m.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "FAROESTE"
+    ],
+    "nota": 5.962,
+    "tmdbId": 1398911,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-leste-de-wall.json"
+  }
+]

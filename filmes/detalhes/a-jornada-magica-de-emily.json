@@ -1,0 +1,34 @@
+{
+  "id": "a-jornada-magica-de-emily",
+  "tipo": "filme",
+  "titulo": "A Jornada Mágica de Emily",
+  "ano": null,
+  "descricao": "Depois da morte de seu pai, a pequena Emily tenta ajudar sua mãe a reencontrar a felicidade e aprender sobre o pai que nunca conheceu. Um dia, a menina encontra um baú misterioso que a transporta para um mundo mágico em que tudo é possível, onde ela conhece fadas fantásticas e criaturas míticas. Mas, para completar sua jornada e salvar a vida de seus novos amigos, Emily terá que enfrentar seu pior medo.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/8bhp4YgYqHFMgEVdUOouDjqZ2bu.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gKDRp9MSiHOViaiNOrYDPQaL3zp.jpg",
+  "tmdbId": 734624,
+  "nota": 5.75,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783537,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777179,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Emily och den magiska resan",
+  "dataLancamento": "2020-09-17"
+}

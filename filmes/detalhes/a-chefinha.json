@@ -1,0 +1,34 @@
+{
+  "id": "a-chefinha",
+  "tipo": "filme",
+  "titulo": "A Chefinha",
+  "ano": null,
+  "descricao": "Saturada e cansada de sua rotineira vida adulta, uma mulher de meia-idade ganha a oportunidade mágica de voltar no tempo e ser jovem novamente. Vendo-se finalmente livre de todas as responsabilidades, ela logo aprende que até mesmo a jovialidade cobra o seu preço.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4qP1KMrkvVS5240HotxADSMbUMe.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zbPVujc7qIEqpqkG70t2NpNvHOa.jpg",
+  "tmdbId": 526050,
+  "nota": 6.842,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783340,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772050,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Little",
+  "dataLancamento": "2019-04-04"
+}

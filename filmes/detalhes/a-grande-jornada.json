@@ -1,0 +1,33 @@
+{
+  "id": "a-grande-jornada",
+  "tipo": "filme",
+  "titulo": "A Grande Jornada",
+  "ano": null,
+  "descricao": "Nesta inspiradora história real, um professor reúne um grupo de jovens rebeldes para uma jornada de bicicleta de mil quilômetros até o Grand Canyon. Mas durante o desafio, eles acabam pedalando rumo a um novo futuro.",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AmwymHofrhlyYl0QI9SfQn4zLj3.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/6oM1Im24YnH6RTmziatTIcxRRG5.jpg",
+  "tmdbId": 1009679,
+  "nota": 6.75,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783488,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783489,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Hard Miles",
+  "dataLancamento": "2024-04-19"
+}

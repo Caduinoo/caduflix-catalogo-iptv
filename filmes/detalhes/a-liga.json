@@ -1,0 +1,42 @@
+{
+  "id": "a-liga",
+  "tipo": "filme",
+  "titulo": "A Liga",
+  "ano": null,
+  "descricao": "Recrutado para uma missão inesperada, um cara comum que trabalha como empreiteiro vira espião.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/epzHc7RNjgpj9e2IVH88g7cr7DG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg",
+  "tmdbId": 704239,
+  "nota": 6.075,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783563,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769173,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781962,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Union",
+  "dataLancamento": "2024-08-15"
+}

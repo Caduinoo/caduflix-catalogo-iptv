@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9-1-1-lone-star",
+    "tipo": "serie",
+    "titulo": "9-1-1: Lone Star",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/BOTITv548LYGB4xRD3rHfbwkqm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bBziqQXj6ELvVCpPfxGM9OWJpWa.jpg",
+    "generos": [
+      "STAR+"
+    ],
+    "nota": 8,
+    "tmdbId": 89393,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/9-1-1-lone-star.json"
+  },
+  {
+    "id": "a-batalha-das-pizzas",
+    "tipo": "serie",
+    "titulo": "A Batalha das Pizzas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wrqlHXTLpSbsXM5ZDzV99MrmQo1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gpIjHdM7sQfB1mMupz46LaXHWBq.jpg",
+    "generos": [
+      "STAR+"
+    ],
+    "nota": 5.8,
+    "tmdbId": 205971,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-das-pizzas.json"
+  },
+  {
+    "id": "a-historia-de-deus-com-morgan-freeman",
+    "tipo": "serie",
+    "titulo": "A História de Deus com Morgan Freeman",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mKyqyZdXZ985PJ3UsajZnqKUZ6q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7pnGtMK5JYlXUQ2gwKORnX6sap1.jpg",
+    "generos": [
+      "STAR+"
+    ],
+    "nota": 7.5,
+    "tmdbId": 66185,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-historia-de-deus-com-morgan-freeman.json"
+  }
+]

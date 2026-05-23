@@ -1,0 +1,34 @@
+{
+  "id": "a-conferencia",
+  "tipo": "filme",
+  "titulo": "A Conferência",
+  "ano": null,
+  "descricao": "Em 20 de janeiro de 1942, representantes de alto escalão do regime nazista alemão se reuniram em uma idílica vila no Great Wannsee, no sudoeste de Berlim, para uma reunião que ficou para a história como a Conferência de Wannsee, por causa de seu alcance, fatalidade e consequências, talvez a conferência mais terrível da história humana. Eles foram convidados por Reinhard Heydrich, chefe da polícia de segurança nazista, para planejar o assassinato em massa sistemático de milhões de judeus em toda a Europa.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/A3xi46qJs9kGAgsPrUj8DgGjjhc.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/c2uZuqjdt2KjkoRz1AgNCwZ7ung.jpg",
+  "tmdbId": 910365,
+  "nota": 6.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783356,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774525,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Die Wannseekonferenz",
+  "dataLancamento": "2022-05-06"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-caminho-de-casa",
+  "tipo": "filme",
+  "titulo": "A Caminho de Casa",
+  "ano": null,
+  "descricao": "Depois de presenciar uma briga de trânsito, Alice, uma menina de 12 anos, se sente desprotegida e busca uma nova maneira de se relacionar com seu pai e de compreender o mundo à sua volta.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWUTDVedmpG4RTFZ8oTy5IyG1jh.jpg",
+  "banner": null,
+  "tmdbId": 1241137,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783312,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774511,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "A Caminho de Casa",
+  "dataLancamento": "2014-01-01"
+}

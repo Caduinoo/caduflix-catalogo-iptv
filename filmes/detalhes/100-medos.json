@@ -1,0 +1,34 @@
+{
+  "id": "100-medos",
+  "tipo": "filme",
+  "titulo": "100 Medos",
+  "ano": null,
+  "descricao": "Inspirado no livro de mesmo nome, é a história de Sole, jovem que tenta superar todos os seus grandes medos após a morte da melhor amiga. Dirigido por Andrea Jublin e estrelado por Federica Torchetti, Lorenzo Richelmy, Cristiano Caccamo, Celeste Savino, Anna Ferruzzo e Massimiliano Gallo",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/6RTZ5w0ZSal4pvy8vE4gZOPyhk9.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tLZlhfGH7riAgzSKo1lJXxAN7ZK.jpg",
+  "tmdbId": 1024426,
+  "nota": 5.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783173,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772009,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Per lanciarsi dalle stelle",
+  "dataLancamento": "2022-10-05"
+}

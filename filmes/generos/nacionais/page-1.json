@@ -1,0 +1,305 @@
+[
+  {
+    "id": "des-controle",
+    "tipo": "filme",
+    "titulo": "(Des)controle",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/scl6uVD0YZc46WZHgXbEcaH2zYw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kskuAryLOhMTtsb8QIngE1H4XmJ.jpg",
+    "generos": [
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 6.9,
+    "tmdbId": 1369243,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/des-controle.json"
+  },
+  {
+    "id": "eagoraoque",
+    "tipo": "filme",
+    "titulo": "#eagoraoque",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pxLHtMGnLf22iBmmwtCvVlHdjDR.jpg",
+    "banner": null,
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 9,
+    "tmdbId": 752652,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/eagoraoque.json"
+  },
+  {
+    "id": "salverosa",
+    "tipo": "filme",
+    "titulo": "#SalveRosa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nCivukZVNGjvj7VGwsPMFFHq0Zx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zSMwzgkGzAGsu8JnnGvOIodBLdN.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NACIONAIS",
+      "4K"
+    ],
+    "nota": 6.526,
+    "tmdbId": 1280234,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/salverosa.json"
+  },
+  {
+    "id": "13-sentimentos",
+    "tipo": "filme",
+    "titulo": "13 Sentimentos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dpZgJHBTG7GRr6BpmIhrKfq8BpP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lREwJEc3rT30jbaFlJ87QSG6KXK.jpg",
+    "generos": [
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 3.9,
+    "tmdbId": 1125953,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-sentimentos.json"
+  },
+  {
+    "id": "400-contra-1-uma-historia-do-crime-organizado",
+    "tipo": "filme",
+    "titulo": "400 Contra 1: A História do Comando Vermelho",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vYjpX0uLBCtjJBf42zJk4OxepPx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/17JGuSzDinYR42T7vSOvp6yio0v.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5.5,
+    "tmdbId": 49821,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/400-contra-1-uma-historia-do-crime-organizado.json"
+  },
+  {
+    "id": "5-casas",
+    "tipo": "filme",
+    "titulo": "5 Casas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wjnwXm6Ypj0IhyugxJAHvuCUYfp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yWgDApthw5JqadE0iWp1QimSSDH.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5,
+    "tmdbId": 767379,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/5-casas.json"
+  },
+  {
+    "id": "a-arvore-que-chorava-sangue",
+    "tipo": "filme",
+    "titulo": "A Árvore Que Chorava Sangue",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eGPrd0tOYLToHpLFZ78X4rITnE1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wLgXcMkDCiMga3R6EbZs8J00zKr.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NACIONAIS",
+      "LANÇAMENTOS"
+    ],
+    "nota": 1,
+    "tmdbId": 1014601,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-arvore-que-chorava-sangue.json"
+  },
+  {
+    "id": "a-cabeca-de-gumercindo-saraiva",
+    "tipo": "filme",
+    "titulo": "A Cabeça de Gumercindo Saraiva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kQd0KoqaRswX6fmw153Lnpbfx9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eN0Xzmmvg0bjYUKEbqrACEUJb7N.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 4.9,
+    "tmdbId": 555890,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-cabeca-de-gumercindo-saraiva.json"
+  },
+  {
+    "id": "a-casa-da-arvore",
+    "tipo": "filme",
+    "titulo": "A Casa da Árvore",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gG7OCpt6hwp8DA2cfYs2kFhtpcZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wGlJoQL1nEFVmqBq2wqMyXHd9Ir.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 1186398,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-casa-da-arvore.json"
+  },
+  {
+    "id": "a-cidade-imaginaria",
+    "tipo": "filme",
+    "titulo": "A Cidade Imaginária",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e59TGPKe7MJsxF2B99SQqGKy8qS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lDMIRWwCg32pVz7CDInWuDLXbHG.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 864152,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-cidade-imaginaria.json"
+  },
+  {
+    "id": "a-esperanca-e-a-ultima-que-morre",
+    "tipo": "filme",
+    "titulo": "A Esperança É a Última que Morre",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pkmYjmADOIn6knfYZUebn0zqqw1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uhAT5qTJgiS0LWmyPmRSdIzHO88.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5.5,
+    "tmdbId": 227964,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-esperanca-e-a-ultima-que-morre.json"
+  },
+  {
+    "id": "a-esperanca-se-chama-liberdade",
+    "tipo": "filme",
+    "titulo": "A Esperança se Chama Liberdade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lxkW6iWDesq0OsRkWcTBEMPg2M9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n4U1Oa9alDrkwoe2qlIcNufzUkx.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 1614612,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-esperanca-se-chama-liberdade.json"
+  },
+  {
+    "id": "a-familia-craft-em-o-impostor",
+    "tipo": "filme",
+    "titulo": "A Familia Craft em O Impostor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zDhSf2RhV4GnuroTLu21fzjvmEX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s7YeAlB61QfAUUJXpEUvukH8MDu.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 919566,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-familia-craft-em-o-impostor.json"
+  },
+  {
+    "id": "a-festa-de-leo",
+    "tipo": "filme",
+    "titulo": "A Festa de Léo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/M9mKw9YVssnrf04tOj67UPDYBQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4Q3Y3Q1jKMxGrskORNnZlwOTajG.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NACIONAIS"
+    ],
+    "nota": 6.3,
+    "tmdbId": 1008795,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-festa-de-leo.json"
+  },
+  {
+    "id": "a-filha-dos-trapalhoes",
+    "tipo": "filme",
+    "titulo": "A Filha dos Trapalhões",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qgDl0lZlkvKfPFTuivnGtqi2AOc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s1DTPCb7fevdhTE1eyQqEs0wA00.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 5.1,
+    "tmdbId": 309310,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-filha-dos-trapalhoes.json"
+  },
+  {
+    "id": "a-garota",
+    "tipo": "filme",
+    "titulo": "Tati, a Garota",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zxxs3Rziadj60ZZP60wsmitMd0v.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s5L8lVxAfYlwm0Vmy1TJ8IYxb8J.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 6.4,
+    "tmdbId": 335063,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-garota.json"
+  },
+  {
+    "id": "a-heranca",
+    "tipo": "filme",
+    "titulo": "A Herança",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2Sb0yG6f5CQYntAazEL2ELgmROV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h6kIHp6My2gftT15yzgbtUHbpJ4.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NACIONAIS",
+      "4K"
+    ],
+    "nota": 7.2,
+    "tmdbId": 143918,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-heranca.json"
+  },
+  {
+    "id": "a-historia-de-daniel",
+    "tipo": "filme",
+    "titulo": "A História de Daniel",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aTG0jw336YpAHMBkPO6kFwokiaV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/shHICn5S53L83RECVHayf58b1UG.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 1263513,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-historia-de-daniel.json"
+  },
+  {
+    "id": "a-lenda-dos-cavaleiros-da-agua",
+    "tipo": "filme",
+    "titulo": "A Lenda dos Cavaleiros da Água",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/BicyBZ6oP0V7Bf3HynvMCsAUza.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/plhVRckEQ1sTOtI1p4y8JqMqm8p.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": null,
+    "tmdbId": 1310744,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-dos-cavaleiros-da-agua.json"
+  },
+  {
+    "id": "a-lira-do-delirio",
+    "tipo": "filme",
+    "titulo": "A Lira do Delírio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yAov71HrzIW4l3fpQrtDAdC5vUk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5mVkx0gNM50rF8KsafWcZO9lu3K.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 7,
+    "tmdbId": 194849,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lira-do-delirio.json"
+  },
+  {
+    "id": "a-lista",
+    "tipo": "filme",
+    "titulo": "A Lista de Schindler",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jbnF7dVi8iu80zTsWAC0Om8ZYOu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+    "generos": [
+      "NACIONAIS"
+    ],
+    "nota": 8.569,
+    "tmdbId": 424,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lista.json"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a-caverna-encantada",
+    "tipo": "serie",
+    "titulo": "A Caverna Encantada",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5GhlwbZ8ogQUf2Xuq8tE2lX7gk7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rydgjijtjdfs4Aedi59a9gV5M65.jpg",
+    "generos": [
+      "SBT+"
+    ],
+    "nota": 5.7,
+    "tmdbId": 259172,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-caverna-encantada.json"
+  },
+  {
+    "id": "a-escolinha-do-golias",
+    "tipo": "serie",
+    "titulo": "A Escolinha do Golias",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/z1N7zVjUucICckvNXT0qohoKfxI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cvNoeKtzkkYdbnbpccPlHNz58BE.jpg",
+    "generos": [
+      "SBT+"
+    ],
+    "nota": 8.2,
+    "tmdbId": 31791,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-escolinha-do-golias.json"
+  }
+]

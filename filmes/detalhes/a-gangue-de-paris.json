@@ -1,0 +1,34 @@
+{
+  "id": "a-gangue-de-paris",
+  "tipo": "filme",
+  "titulo": "A Gangue de Paris",
+  "ano": null,
+  "descricao": "Bébé e cinco amigos que vivem no conjunto habitacional Temple Woods, nos arredores de Paris, pertencem a uma gangue local que planeja roubar o comboio de um príncipe árabe.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ttmO5HG61wHghCuBujBHQbvTAQd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tni11mZ88b7mDLEb1TbKnVCxLMR.jpg",
+  "tmdbId": 1000517,
+  "nota": 5.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783458,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779522,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Le Gang des bois du temple",
+  "dataLancamento": "2022-10-16"
+}

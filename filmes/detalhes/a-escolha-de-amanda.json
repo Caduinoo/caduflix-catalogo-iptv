@@ -1,0 +1,34 @@
+{
+  "id": "a-escolha-de-amanda",
+  "tipo": "filme",
+  "titulo": "A Escolha de Amanda",
+  "ano": null,
+  "descricao": "Amanda não tem uma vida fácil. Ela tem que lidar com uma chefe que ameaça demiti-la do trabalho, um namorado que rouba o seu dinheiro e um proprietário que se recusa a consertar sua casa.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/mojsnlsjaxsBAElNsFBFw7ev247.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4UjGiyxyOLwdi6kMoGhnNNBGVtc.jpg",
+  "tmdbId": 970691,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783395,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774553,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Damaged Goods",
+  "dataLancamento": "2021-10-01"
+}

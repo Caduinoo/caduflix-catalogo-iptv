@@ -1,0 +1,34 @@
+{
+  "id": "a-altura",
+  "tipo": "filme",
+  "titulo": "À Altura",
+  "ano": null,
+  "descricao": "Ao perder seu título para um antigo amigo e pupilo, um famoso mestre de Go entra em uma batalha de inteligência e habilidade para recuperá-lo.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/rNZo3T6VMz3oqUy4FcZGLoS5WYU.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg",
+  "tmdbId": 760497,
+  "nota": 7.348,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791216,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777142,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567070,
+  "tituloOriginal": "승부",
+  "dataLancamento": "2025-03-26"
+}

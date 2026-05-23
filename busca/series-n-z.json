@@ -1,0 +1,65 @@
+[
+  {
+    "id": "12-monkeys",
+    "tipo": "serie",
+    "titulo": "Os 12 Macacos",
+    "tituloNormalizado": "os 12 macacos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lnLlxi9GcPNyLcmvt6uVipI73m5.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/12-monkeys.json"
+  },
+  {
+    "id": "3",
+    "tipo": "serie",
+    "titulo": "O Problema dos 3 Corpos",
+    "tituloNormalizado": "o problema dos 3 corpos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rqMYUtyrRJrZ1zKQvBfLgPh1c0T.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/3.json"
+  },
+  {
+    "id": "4-elements-the-water",
+    "tipo": "serie",
+    "titulo": "Os Quatro Elementos da Água",
+    "tituloNormalizado": "os quatro elementos da agua",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mAVCtYw1rE5Jjzuler417vgVZQE.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/4-elements-the-water.json"
+  },
+  {
+    "id": "4-elements-the-water-2026",
+    "tipo": "serie",
+    "titulo": "Os Quatro Elementos da Água",
+    "tituloNormalizado": "os quatro elementos da agua",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/mAVCtYw1rE5Jjzuler417vgVZQE.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/4-elements-the-water-2026.json"
+  },
+  {
+    "id": "a-aprendiz-de-feiticeira",
+    "tipo": "serie",
+    "titulo": "Sabrina, a Aprendiz de Feiticeira",
+    "tituloNormalizado": "sabrina, a aprendiz de feiticeira",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vVZbJeahxbLWRkEV32miB5xYfQi.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-aprendiz-de-feiticeira.json"
+  },
+  {
+    "id": "a-boss-and-a-babe",
+    "tipo": "serie",
+    "titulo": "Um Chefe e Um Bebê",
+    "tituloNormalizado": "um chefe e um bebe",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gZWFoNQkZZF6fHIV3A8MBuiFIaf.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-boss-and-a-babe.json"
+  },
+  {
+    "id": "a-costa-do-mosquito",
+    "tipo": "serie",
+    "titulo": "The Mosquito Coast",
+    "tituloNormalizado": "the mosquito coast",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iU68GlKpRbSXBeLLeRRZsxJNlHU.jpg",
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-costa-do-mosquito.json"
+  }
+]

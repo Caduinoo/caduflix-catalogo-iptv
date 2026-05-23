@@ -1,0 +1,34 @@
+{
+  "id": "a-confeiteira",
+  "tipo": "filme",
+  "titulo": "A Confeiteira",
+  "ano": null,
+  "descricao": "Zhamilya é uma talentosa confeiteira que torna a vida de todas as pessoas mais doce, mas que não possui o mesmo talento para encontrar um grande amor. Sua vida mudará para sempre quando um jovem começa a frequentar sua confeitaria para comer sempre o mesmo bolo.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AncWOJSNAkGzpFGAzTFEhscKPep.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/w5Fpabqxa2XdyRl5d59rb8ROUN3.jpg",
+  "tmdbId": 1088130,
+  "nota": 7.7,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783353,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774528,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Молочная девочка",
+  "dataLancamento": "2021-08-10"
+}

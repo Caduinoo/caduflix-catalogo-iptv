@@ -1,0 +1,34 @@
+{
+  "id": "comvoce-volume-1",
+  "tipo": "filme",
+  "titulo": "#ComVocê: Volume: 1",
+  "ano": null,
+  "descricao": "O conceito é bastante simples: usando um aparelho smartphone ou qualquer outro recurso disponível, várias histórias foram registradas ao longo dos dias de isolamento provocado pela pandemia da COVID-19. Cada segmento traz um ponto de vista único, mostrando como as vidas das pessoas passaram por mudanças e o público pode acompanhar eventos reais sob a ótica de pessoas de diferentes origens e classes durante tempos complexos sem contato social.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dEgBV4Tuo9jFZh7rFiQEbiY91sT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/okGPsMjrqCWGIPJUZs751lzOvqv.jpg",
+  "tmdbId": 838480,
+  "nota": 3.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783150,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771999,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "With/In Volume 1",
+  "dataLancamento": "2021-06-13"
+}

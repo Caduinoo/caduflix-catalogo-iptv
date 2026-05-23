@@ -1,0 +1,34 @@
+{
+  "id": "a-escolha-de-summer",
+  "tipo": "filme",
+  "titulo": "A Escolha de Summer",
+  "ano": null,
+  "descricao": "Para escapar da cidade grande, Summer decide passar algumas semanas na casa de sua avó, onde ela redescobrirá sua verdadeira identidade. Agora Summer precisa decidir se deseja voltar a viver sua antiga vida ou seguir os seus instintos.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/vPJsbtWuTvmBaINSD4Khbnpyobv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qnbDiFEXCzWjl9w7sqNtP2GrpXL.jpg",
+  "tmdbId": 1032377,
+  "nota": 5.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783397,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778978,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Summer at Charlotte's",
+  "dataLancamento": "2023-07-18"
+}

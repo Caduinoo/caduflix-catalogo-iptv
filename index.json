@@ -1,0 +1,16 @@
+{
+  "nome": "Caduflix",
+  "versao": "1.0.0",
+  "atualizadoEm": "2026-05-23T04:21:14.999Z",
+  "modulos": {
+    "filmes": "https://caduinoo.github.io/caduflix-catalogo/filmes/index.json",
+    "series": "https://caduinoo.github.io/caduflix-catalogo/series/index.json",
+    "canais": "https://caduinoo.github.io/caduflix-catalogo/canais/index.json",
+    "busca": "https://caduinoo.github.io/caduflix-catalogo/busca/index.json"
+  },
+  "resumo": {
+    "filmes": 1000,
+    "series": 300,
+    "canais": 200
+  }
+}

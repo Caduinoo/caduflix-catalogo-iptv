@@ -1,0 +1,34 @@
+{
+  "id": "10dance",
+  "tipo": "filme",
+  "titulo": "10DANCE",
+  "ano": null,
+  "descricao": "Dois dançarinos opostos em tudo menos na arte concordam em treinar juntos para uma competição. Primeiro eles batem de frente, mas logo sentem uma atração poderosa.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/hsuT5b5EcDAVCY3Oe0Iyez2lTES.jpg",
+  "tmdbId": 1400032,
+  "nota": 7.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783177,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049756,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842360,
+  "tituloOriginal": "10DANCE",
+  "dataLancamento": "2025-12-17"
+}

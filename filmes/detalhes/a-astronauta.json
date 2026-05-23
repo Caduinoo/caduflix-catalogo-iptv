@@ -1,0 +1,34 @@
+{
+  "id": "a-astronauta",
+  "tipo": "filme",
+  "titulo": "A Astronauta",
+  "ano": null,
+  "descricao": "Quando uma astronauta cai de volta à Terra após um acidente, um General a coloca em quarentena para reabilitação e testes. À medida que eventos perturbadores começam a acontecer, ela teme que algo extraterrestre tenha a seguido até em casa.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/wrfj52LgmanNAunu203UXxTLwD7.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
+  "tmdbId": 1086260,
+  "nota": 6.159,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783276,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791598,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "The Astronaut",
+  "dataLancamento": "2025-09-26"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-forca-do-vento",
+  "tipo": "filme",
+  "titulo": "A Força do Vento",
+  "ano": null,
+  "descricao": "Luna é uma jovem engenheira que chega da Alemanha para desenvolver um parque eólico em uma cidade rural da França. Mas o uso da energia eólica parece dividir as famílias da região.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/86y2s6gGzvEn4udf9E8LzsAap2P.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/xzHmsIg6MitWHj5RsBp4rqOZdus.jpg",
+  "tmdbId": 1324640,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783445,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774575,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Grand ciel",
+  "dataLancamento": "2022-07-18"
+}

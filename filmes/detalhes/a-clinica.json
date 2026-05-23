@@ -1,0 +1,34 @@
+{
+  "id": "a-clinica",
+  "tipo": "filme",
+  "titulo": "A Clínica",
+  "ano": null,
+  "descricao": "A jovem grávida Beth viaja pelo país ao lado do seu noivo, Cameron, quando acorda em uma noite após passar por uma situação terrivelmente inusitada: seu filho foi sequestrado e ela está presa em uma clínica isolada, juntamente com um grupo de outras seis mães. E agora? Até onde ela está disposta a ir para sair deste lugar e salvar o seu bebê?",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/lD7DQyw9AU3WKWcBLMQcb7SEWz6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/r5ec8FpxaWv31v6tQ3q6ZnxzTYT.jpg",
+  "tmdbId": 57749,
+  "nota": 5.52,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783349,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779511,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "The Clinic",
+  "dataLancamento": "2010-10-10"
+}

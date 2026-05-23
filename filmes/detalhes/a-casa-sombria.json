@@ -1,0 +1,34 @@
+{
+  "id": "a-casa-sombria",
+  "tipo": "filme",
+  "titulo": "A Casa Sombria",
+  "ano": null,
+  "descricao": "Cambaleando com a morte inesperada de seu marido, Beth é deixada sozinha na casa à beira do lago que ele construiu para ela. Logo ela começa a descobrir segredos perturbadores de seu marido recentemente falecido.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/sDbo3qnxxMnC1f4RMfmUlcKNNST.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg",
+  "tmdbId": 547565,
+  "nota": 6.564,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783333,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780219,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "The Night House",
+  "dataLancamento": "2021-07-15"
+}

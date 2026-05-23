@@ -1,0 +1,34 @@
+{
+  "id": "a-casa-entre-cactos",
+  "tipo": "filme",
+  "titulo": "A Casa Entre Cactos",
+  "ano": null,
+  "descricao": "Uma comunidade de cultivadores de cactos, composta por Rosa, Emilio e suas filhas, vive em harmonia, guardando um grande segredo. Mas a tranquilidade desse paraíso é abalada pela chegada de um homem enigmático.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dg8FSbFpHJecWA7RGjKjDwaWrJO.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/dMb7y5yphsgV2RJbiT6g9ofVJT9.jpg",
+  "tmdbId": 895957,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783327,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774518,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "La casa entre los cactus",
+  "dataLancamento": "2022-09-16"
+}

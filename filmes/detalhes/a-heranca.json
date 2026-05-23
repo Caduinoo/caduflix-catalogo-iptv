@@ -1,0 +1,42 @@
+{
+  "id": "a-heranca",
+  "tipo": "filme",
+  "titulo": "A Herança",
+  "ano": null,
+  "descricao": "Uma adaptação experimental de Hamlet para as áreas rurais do Brasil.\r Adaptação da história clássica de \"Hamlet\" para o ambiente rural brasileiro. Filho de um fazendeiro retorna para casa após a morte de seu pai e não suporta a idéia de que sua mãe quer se casar com seu tio.",
+  "generos": [
+    "LEGENDADOS",
+    "NACIONAIS",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2Sb0yG6f5CQYntAazEL2ELgmROV.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/h6kIHp6My2gftT15yzgbtUHbpJ4.jpg",
+  "tmdbId": 143918,
+  "nota": 7.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783498,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778143,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781952,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "A Herança",
+  "dataLancamento": "1970-11-05"
+}

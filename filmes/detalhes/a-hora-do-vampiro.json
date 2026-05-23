@@ -1,0 +1,42 @@
+{
+  "id": "a-hora-do-vampiro",
+  "tipo": "filme",
+  "titulo": "A Hora do Vampiro",
+  "ano": null,
+  "descricao": "Ben Mears (David Soul) é um romancista natural da pequena cidade de Jerusalem's Lot - ou, como os habitantes locais a chamavam, Salem's Lot. Enquanto volta para casa em busca de inspiração para sua próxima obra, ele descobre que há um novo morador em uma casa que permaneceu vazia por décadas, um vendedor de antiguidades chamado Barlow. Nenhum dos habitantes da cidade conhece o tal Barlow, e sim o seu charmoso representante, Straker. Mas quando pessoas começam a morrer de repente, as coisas ficam ainda mais estranhas.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ybGTVT8kDF4vUi2iew9e2RPvJWm.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jf1V00dZdNkVfEq7VPk8frrlELk.jpg",
+  "tmdbId": 748230,
+  "nota": 6.017,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783509,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780268,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781954,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Salem's Lot",
+  "dataLancamento": "2024-10-03"
+}

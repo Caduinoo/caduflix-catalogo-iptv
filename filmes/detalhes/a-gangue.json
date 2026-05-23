@@ -1,0 +1,34 @@
+{
+  "id": "a-gangue",
+  "tipo": "filme",
+  "titulo": "A Gangue",
+  "ano": null,
+  "descricao": "Cercados pela violência, mas unidos pela amizade, três amigos de infância encontram uma válvula de escape em uma noitada descontrolada. Mas quando a violência acaba, começa a retaliação nessa história intensa e tempestuosa.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/pR6rang5RjOFjCYc1K497cY9Rlo.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/oU4eqTDVaDPMbb7kzsOKa1qMH3L.jpg",
+  "tmdbId": 514995,
+  "nota": 4.971,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783457,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774578,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Gully",
+  "dataLancamento": "2021-06-04"
+}

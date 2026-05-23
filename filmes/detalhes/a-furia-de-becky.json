@@ -1,0 +1,34 @@
+{
+  "id": "a-furia-de-becky",
+  "tipo": "filme",
+  "titulo": "A Fúria de Becky",
+  "ano": null,
+  "descricao": "Dois anos depois de escapar de um ataque violento, uma adolescente deve se defender contra uma célula terrorista.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/l3fBun1ZXnSU8NVNEr5CQRNSegR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ymDCdsobG8P4S3epFvT0CLDvEhP.jpg",
+  "tmdbId": 986070,
+  "nota": 6.344,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783455,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780250,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Wrath of Becky",
+  "dataLancamento": "2023-05-26"
+}

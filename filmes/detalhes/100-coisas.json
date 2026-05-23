@@ -1,0 +1,34 @@
+{
+  "id": "100-coisas",
+  "tipo": "filme",
+  "titulo": "100 Coisas",
+  "ano": null,
+  "descricao": "Completamente apegados a seus bens materiais, os melhores amigos Toni (Matthias Schweighöfer) e Paul (Florian David Fitz) decidem fazer uma experiência: os dois abrirão mão de todas as suas posses durante 100 dias. E durante cada dia, eles vão recebendo de volta os seus pertences um a um, mas no meio do caminho eles percebem que existem coisas muito mais importantes na vida.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/9PWSRATzT9Bu27BhqsIqMp7LcqS.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/fqb1odEjdxDrwicf6DZVCKZvrAr.jpg",
+  "tmdbId": 546630,
+  "nota": 6.559,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783164,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772006,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "100 Dinge",
+  "dataLancamento": "2018-12-06"
+}

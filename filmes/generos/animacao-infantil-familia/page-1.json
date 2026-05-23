@@ -1,0 +1,933 @@
+[
+  {
+    "id": "natal",
+    "tipo": "filme",
+    "titulo": "Natal em Alto Mar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/5URTjJVVfX6Z5M48PiRqoWCFhY6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wlmkOvDesGlhXZF8TXwEihHtlWW.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "NATALINO",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.793,
+    "tmdbId": 746467,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/natal.json"
+  },
+  {
+    "id": "100-lobo",
+    "tipo": "filme",
+    "titulo": "100% Lobo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n1oFUoYmj4JuJl5T417VQnZNCgB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7TxeZVg2evMG42p0uSbMJpWNQ8A.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.109,
+    "tmdbId": 520946,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/100-lobo.json"
+  },
+  {
+    "id": "101-dalmatas",
+    "tipo": "filme",
+    "titulo": "101 Dálmatas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aq0MURghFbEKgHYGWyurtuwGzdx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yqh3mb9jd3GTTs09ZlnW4mxS95z.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 5.943,
+    "tmdbId": 11674,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/101-dalmatas.json"
+  },
+  {
+    "id": "13-o-musical",
+    "tipo": "filme",
+    "titulo": "13: O Musical",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3ndpRWh8iOvckVtHptIsD4OtayN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bE1AJOGtcvjegirI5Np6sTUO0gz.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6,
+    "tmdbId": 673271,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/13-o-musical.json"
+  },
+  {
+    "id": "31-minutos-natal-escaldante",
+    "tipo": "filme",
+    "titulo": "31 Minutos: Natal Escaldante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lt0IpOhrvhPOzQkQOvg2xK25bZ1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3NNoi1GC26017b40g38QBQDZCe5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.8,
+    "tmdbId": 1237082,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/31-minutos-natal-escaldante.json"
+  },
+  {
+    "id": "50-aniversarios-celebremos",
+    "tipo": "filme",
+    "titulo": "50 Aniversários: Celebremos!",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uCyvUaHPaVe9nc58n0mBEV74YXC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n242zHtRZbZcx2mP9FmWurpMVCG.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 9.3,
+    "tmdbId": 646317,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/50-aniversarios-celebremos.json"
+  },
+  {
+    "id": "a-abelha-maya-o-filme",
+    "tipo": "filme",
+    "titulo": "A Abelha Maya: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/smg2Uf596BuwztwQmb8lt2wAzDk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hvpOSrtyrqjPMrh2OtVnApqwgSC.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.195,
+    "tmdbId": 261103,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-abelha-maya-o-filme.json"
+  },
+  {
+    "id": "a-abelhinha-maya-e-o-ovo-dourado",
+    "tipo": "filme",
+    "titulo": "A Abelhinha Maya e O Ovo Dourado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nA6Jg8fLhJtabQYozYOUM3GzXs7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v4xnYIVz91OtUZKDdBvJjFhFXTU.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.6,
+    "tmdbId": 681260,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-abelhinha-maya-e-o-ovo-dourado.json"
+  },
+  {
+    "id": "a-abelhinha-maya-o-filme",
+    "tipo": "filme",
+    "titulo": "A Abelhinha Maya: O Filme",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/68ot38BwgfZjkIYRiuvXCtKDxCL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e8IIrS4NksVOebS9YEQmzm7eJe0.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.632,
+    "tmdbId": 499088,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-abelhinha-maya-o-filme.json"
+  },
+  {
+    "id": "a-arvore-dos-desejos",
+    "tipo": "filme",
+    "titulo": "A Árvore dos Desejos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yBJ0FHxG6m5OQvNwduZ9gJQTban.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zWDQMwNDEjZ56Td3GV0RxTn1Gbq.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 5.775,
+    "tmdbId": 144725,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-arvore-dos-desejos.json"
+  },
+  {
+    "id": "a-bela-adormecida",
+    "tipo": "filme",
+    "titulo": "A Bela Adormecida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2MjuCYa6RkhNHmNDl4MqktxK8XH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.943,
+    "tmdbId": 10882,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-bela-adormecida.json"
+  },
+  {
+    "id": "a-bela-e-a-fera",
+    "tipo": "filme",
+    "titulo": "A Bela e a Fera",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/is4c02QuP70BCVLp27SSlDeByoe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.7,
+    "tmdbId": 10020,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-bela-e-a-fera.json"
+  },
+  {
+    "id": "a-bela-e-a-fera-1991",
+    "tipo": "filme",
+    "titulo": "A Bela e a Fera",
+    "ano": 1991,
+    "capa": "https://image.tmdb.org/t/p/w500/is4c02QuP70BCVLp27SSlDeByoe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.728,
+    "tmdbId": 10020,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-bela-e-a-fera-1991.json"
+  },
+  {
+    "id": "a-caminho-da-lua",
+    "tipo": "filme",
+    "titulo": "A Caminho da Lua",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3ufzsrhrIIdvkP1jz0t7ipppQil.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.182,
+    "tmdbId": 560050,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-caminho-da-lua.json"
+  },
+  {
+    "id": "a-carta-de-natal",
+    "tipo": "filme",
+    "titulo": "A Carta de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kU9HRH9WLoFc6GQNyYsNzkaVns2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/x2WmIj5I5lmur68ZqrDkeQwJhrc.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.155,
+    "tmdbId": 1325888,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-carta-de-natal.json"
+  },
+  {
+    "id": "a-casa-monstro",
+    "tipo": "filme",
+    "titulo": "A Casa Monstro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hVtsIdJ9CogLz0NuqMKnfIu1uzR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3otAGduCHdqdEIVC1HOOLb5Qnp2.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.711,
+    "tmdbId": 9297,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-casa-monstro.json"
+  },
+  {
+    "id": "a-charlie-brown-celebration",
+    "tipo": "filme",
+    "titulo": "A Charlie Brown Celebration",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2FJLTvWErabgabH6Z7jibqMj5jq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4iELFdZfMdtOEPP47wBxahgw3Tb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.7,
+    "tmdbId": 102973,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-charlie-brown-celebration.json"
+  },
+  {
+    "id": "a-cidade-sem-luz",
+    "tipo": "filme",
+    "titulo": "Monster High: Scaris,  a Cidade Sem Luz",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hqh1lONDj2JClXmOCKXbPu1PsJr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3QeyBMo2PmS1rOUciSkKzsFLugf.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.8,
+    "tmdbId": 192911,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-cidade-sem-luz.json"
+  },
+  {
+    "id": "a-concha-de-sapatos",
+    "tipo": "filme",
+    "titulo": "Marcel, a Concha de Sapatos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8hIj0OJI6NDMqOQTt9miZlAVIQP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1PRWW60yQparK1I8Soyy9Evf7Dv.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 7.65,
+    "tmdbId": 869626,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-concha-de-sapatos.json"
+  },
+  {
+    "id": "a-corrida-dos-100-metros",
+    "tipo": "filme",
+    "titulo": "A Corrida dos 100 Metros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ftUHKZfXONnjuOGGpNeFCeAXbYF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hKy4J8jbiOBmSKs0NlcHP1hLWYl.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.827,
+    "tmdbId": 1295026,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-corrida-dos-100-metros.json"
+  },
+  {
+    "id": "a-cozinheira-curiosa-receita-assassina",
+    "tipo": "filme",
+    "titulo": "A Cozinheira Curiosa: Receita Assassina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wJjloWiEQ3HJcUFU8gpwK0kdRkM.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.667,
+    "tmdbId": 936897,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-cozinheira-curiosa-receita-assassina.json"
+  },
+  {
+    "id": "a-dama-e-o-vagabundo",
+    "tipo": "filme",
+    "titulo": "A Dama e o Vagabundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qKBA03V9LvfpvcNfUgAwdydRSA1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 7.1,
+    "tmdbId": 10340,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-dama-e-o-vagabundo.json"
+  },
+  {
+    "id": "a-danca-dos-esqueletos",
+    "tipo": "filme",
+    "titulo": "A Dança dos Esqueletos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/m1qjVAp4AeOQF79QwinIxZDbUAN.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kw44acMdZBc1NAvuHAdMRO4i4pi.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.382,
+    "tmdbId": 88018,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-danca-dos-esqueletos.json"
+  },
+  {
+    "id": "a-elefanta-do-magico",
+    "tipo": "filme",
+    "titulo": "A Elefanta do Mágico",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/g7weieVLynnkcFqOWA5WAmjffNB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gNOyIDGW8YY6AYbz6nMvrVSHSXs.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.778,
+    "tmdbId": 776835,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-elefanta-do-magico.json"
+  },
+  {
+    "id": "a-era-do-gelo",
+    "tipo": "filme",
+    "titulo": "A Era do Gelo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dlqC2gJs02gc23XvyOjoz52ToRI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.374,
+    "tmdbId": 425,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-era-do-gelo.json"
+  },
+  {
+    "id": "a-era-do-gelo-2",
+    "tipo": "filme",
+    "titulo": "A Era do Gelo 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r4SOh2EJQe2QEfcDsrOMeKyZD05.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.718,
+    "tmdbId": 950,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-era-do-gelo-2.json"
+  },
+  {
+    "id": "a-era-do-gelo-3",
+    "tipo": "filme",
+    "titulo": "A Era do Gelo 3",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kaXQMlurbJ6n5u33TRePTXWxPHY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6Ybbh8TrO8bkEfQXDedekLwVDfA.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.765,
+    "tmdbId": 8355,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-era-do-gelo-3.json"
+  },
+  {
+    "id": "a-era-do-gelo-4",
+    "tipo": "filme",
+    "titulo": "A Era do Gelo 4",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/jhkLlbACjti51Pkh0tt0UaS7ij2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/liiPM38H376CDqxJ7VeQjan5YUy.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.387,
+    "tmdbId": 57800,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-era-do-gelo-4.json"
+  },
+  {
+    "id": "a-era-do-gelo-as-aventuras-de-buck",
+    "tipo": "filme",
+    "titulo": "A Era do Gelo: As Aventuras de Buck",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hHZjD7IXKlFfMt2UHLj0qaTg06j.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tleIOY1MS8DIe6v7x6gg7lRCOfA.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.6,
+    "tmdbId": 774825,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-era-do-gelo-as-aventuras-de-buck.json"
+  },
+  {
+    "id": "a-era-do-gelo-especial-de-natal",
+    "tipo": "filme",
+    "titulo": "A Era do Gelo:  Especial de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tNJDdFZozVL4JWc7pYbAsnbeF4K.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fHGrJK08XuVlfiCaUkWYOn3L7QA.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.455,
+    "tmdbId": 79218,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-era-do-gelo-especial-de-natal.json"
+  },
+  {
+    "id": "a-era-do-gelo-o-big-bang",
+    "tipo": "filme",
+    "titulo": "A Era do Gelo: O Big Bang",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e7R8ULZLdiKO2uYtXqifwf2pJfy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wQoe0j7ZDk7LWexC0XhwkK4brIb.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.112,
+    "tmdbId": 278154,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-era-do-gelo-o-big-bang.json"
+  },
+  {
+    "id": "a-escolha-de-natal",
+    "tipo": "filme",
+    "titulo": "A Escolha de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/r5JITKriiBoNm9Y9zYiqATWwSDE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9U3AszNHOXKUiHaiyllDGpGAsJB.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.571,
+    "tmdbId": 1203695,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-escolha-de-natal.json"
+  },
+  {
+    "id": "a-espada-era-a-lei",
+    "tipo": "filme",
+    "titulo": "A Espada Era a Lei",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/skbkDIP7QW1QJzT8P778bmqxp2Y.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uMe6McFXAPEhkasGVlaLTOuhfnl.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.222,
+    "tmdbId": 9078,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-espada-era-a-lei.json"
+  },
+  {
+    "id": "a-espada-magica-a-lenda-de-camelot",
+    "tipo": "filme",
+    "titulo": "A Espada Mágica: A Lenda de Camelot",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/kcCQvWUBRQzKB3kgjnJm4I6RRy5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/m58yUAi6CuHJ61eYGtSOaV996qn.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.846,
+    "tmdbId": 18937,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-espada-magica-a-lenda-de-camelot.json"
+  },
+  {
+    "id": "a-estrela-de-natal",
+    "tipo": "filme",
+    "titulo": "A Estrela de Natal",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/l3pBKlZXOMLhtIpfxz0TYHLKCo7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/KFznnwDYq1YndMshL9OBQW3gYi.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 5.636,
+    "tmdbId": 13705,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-estrela-de-natal.json"
+  },
+  {
+    "id": "a-fada-do-dente",
+    "tipo": "filme",
+    "titulo": "A Fada do Dente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7Biyu5aP0o86GjxnffsHThYN4h1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/p4o1xEIHdQVuchXzkFSQORh3gWx.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.125,
+    "tmdbId": 681303,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-fada-do-dente.json"
+  },
+  {
+    "id": "a-familia-addams",
+    "tipo": "filme",
+    "titulo": "A Família Addams",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sFwaszCIbVXGnsJG6dg6WUY7d6P.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.066,
+    "tmdbId": 2907,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-familia-addams.json"
+  },
+  {
+    "id": "a-familia-do-futuro",
+    "tipo": "filme",
+    "titulo": "A Família do Futuro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uR9rV69x4saB2vh9yfgQ5PA5E0r.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tuqrSxkhPfIXoPWBNaUM4tZEYKA.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.942,
+    "tmdbId": 1267,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-familia-do-futuro.json"
+  },
+  {
+    "id": "a-familia-mitchell-e-a-revolta-das-maquinas",
+    "tipo": "filme",
+    "titulo": "A Família Mitchell e a Revolta das Máquinas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/k1p10mLm1uM1jqR7RlzB0SalD00.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.846,
+    "tmdbId": 501929,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-familia-mitchell-e-a-revolta-das-maquinas.json"
+  },
+  {
+    "id": "a-familia-noel-2",
+    "tipo": "filme",
+    "titulo": "A Família Noel 2",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3ZiZxmhQqxzPir29zf3JvKYlWDS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 881180,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-familia-noel-2.json"
+  },
+  {
+    "id": "a-fera-do-mar",
+    "tipo": "filme",
+    "titulo": "A Fera do Mar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4MIUmy5Qp32xznFo6gSR0m2mD1W.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.326,
+    "tmdbId": 560057,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-fera-do-mar.json"
+  },
+  {
+    "id": "a-festa-do-garfield",
+    "tipo": "filme",
+    "titulo": "A Festa do Garfield",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cXetPAQ9m9g6OiVeV9kmDU7DcoJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wlK3OUI676ozMOkSsnU6bQNOZLB.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 4.991,
+    "tmdbId": 26728,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-festa-do-garfield.json"
+  },
+  {
+    "id": "a-fuga-das-galinhas",
+    "tipo": "filme",
+    "titulo": "A Fuga das Galinhas",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hp5shw8xyuYId322rT9am3HrKCQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.841,
+    "tmdbId": 7443,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-fuga-das-galinhas.json"
+  },
+  {
+    "id": "a-fuga-das-galinhas-a-ameaca-dos-nuggets",
+    "tipo": "filme",
+    "titulo": "A Fuga das Galinhas - A Ameaça dos Nuggets",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8O7qM2ue5VHPsu1FFbZSRMpCqwY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 6.937,
+    "tmdbId": 520758,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-fuga-das-galinhas-a-ameaca-dos-nuggets.json"
+  },
+  {
+    "id": "a-galinha-turuleca",
+    "tipo": "filme",
+    "titulo": "A Galinha Turuleca",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cf3LFFa8BSJvQnPyZhCHmKUpptX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tyKtvW3bTv8qTL5eIN8iY8VZBcD.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.1,
+    "tmdbId": 653247,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-galinha-turuleca.json"
+  },
+  {
+    "id": "a-ganha-pao",
+    "tipo": "filme",
+    "titulo": "A Ganha-Pão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n97gnpuOEyYixtYBQPkzW194Si5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fRtQdiESAdt9rjXCvZhvkmprvac.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.842,
+    "tmdbId": 435129,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ganha-pao.json"
+  },
+  {
+    "id": "a-garota-que-conquistou-o-tempo",
+    "tipo": "filme",
+    "titulo": "A Garota que Conquistou o Tempo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/30oCcoLheZqjscBaXJIKFFLWGVh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.8,
+    "tmdbId": 14069,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-garota-que-conquistou-o-tempo.json"
+  },
+  {
+    "id": "a-grande-aventura-de-blue-na-cidade",
+    "tipo": "filme",
+    "titulo": "A Grande Aventura de Blue na Cidade",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sAYBC3WhhiX25629HLpCvkpGk9q.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/17sIiv4LGapYnyvdpKxA1vozBqY.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.159,
+    "tmdbId": 939210,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-grande-aventura-de-blue-na-cidade.json"
+  },
+  {
+    "id": "a-guarda-do-leao-um-novo-rugido",
+    "tipo": "filme",
+    "titulo": "A Guarda do Leão: Um Novo Rugido",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cHBE11YIWes6N0iKzdK8HpGGhJj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sYbdAWcTqcdLtpAnwIWjrIw6t0r.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.72,
+    "tmdbId": 359983,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-guarda-do-leao-um-novo-rugido.json"
+  },
+  {
+    "id": "a-guerra-dos-botoes",
+    "tipo": "filme",
+    "titulo": "A Guerra dos Botões",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4uNeCTtiNeEhqxxXKcoS9yZZx0C.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o0vdiPmh1oEpyZ1hSSPnb6tKPRd.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.247,
+    "tmdbId": 10421,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-guerra-dos-botoes.json"
+  },
+  {
+    "id": "a-guerra-dos-deuses",
+    "tipo": "filme",
+    "titulo": "A Guerra dos Deuses",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/n9BAAbc28r4jubft6XpNKC6tlxR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zxIXvhF5PSZwQ9tvlLIzhcwi7IO.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.484,
+    "tmdbId": 844075,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-guerra-dos-deuses.json"
+  },
+  {
+    "id": "a-historia-de-nessie",
+    "tipo": "filme",
+    "titulo": "A História de Nessie",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pvSdPkQSsXVHCLWE92RMvZcB8GA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qXB3EyXyCis0FrIFBdTb3hwm9q.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.7,
+    "tmdbId": 76346,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-historia-de-nessie.json"
+  },
+  {
+    "id": "a-ideia-mais-magnifica-do-mundo",
+    "tipo": "filme",
+    "titulo": "A Ideia Mais Magnífica do Mundo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/A6U4TVaLkQKcOlZD9FMFzlv520n.jpg",
+    "banner": null,
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 8.6,
+    "tmdbId": 644984,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-ideia-mais-magnifica-do-mundo.json"
+  },
+  {
+    "id": "a-incrivel-historia-da-pera-gigante",
+    "tipo": "filme",
+    "titulo": "A Incrível História da Pera Gigante",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yFfWd5TkLOLemoqf0tdO4kGz71Y.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cX9apUyXuuNXkoBa3oBzMO7K6OW.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.5,
+    "tmdbId": 469310,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-incrivel-historia-da-pera-gigante.json"
+  },
+  {
+    "id": "a-jogada-de-chang",
+    "tipo": "filme",
+    "titulo": "A Jogada de Chang",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uepvV4FlHUf8jzZ1yPKr5eJkCBS.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "4K"
+    ],
+    "nota": 6.681,
+    "tmdbId": 776098,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-jogada-de-chang.json"
+  },
+  {
+    "id": "a-lenda-da-serpente",
+    "tipo": "filme",
+    "titulo": "A Lenda da Serpente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jIAyjJMrEIDjojxQDdZemDwqr82.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.692,
+    "tmdbId": 573699,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-da-serpente.json"
+  },
+  {
+    "id": "a-lenda-de-beowulf",
+    "tipo": "filme",
+    "titulo": "A Lenda de Beowulf",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oVjkoLfiR8fScXQAS7nMiu6RxH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lIruQxRCxw5ZI3CmBL6VxwpKtUe.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 5.915,
+    "tmdbId": 2310,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-beowulf.json"
+  },
+  {
+    "id": "a-lenda-de-lady-dragon",
+    "tipo": "filme",
+    "titulo": "Miraculous World: Xangai, a Lenda de Ladydragon",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qStibJTjjgriA7nqrA1LVCeNMIu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7.9,
+    "tmdbId": 726684,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-de-lady-dragon.json"
+  },
+  {
+    "id": "a-lenda-do-dragao-milenar",
+    "tipo": "filme",
+    "titulo": "A Lenda do Dragão Milenar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4J1ls4gSwdkyloNoed5EKupIigC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7aWPhsfiiEFIIojF1UndzfGYni5.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.133,
+    "tmdbId": 74842,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-do-dragao-milenar.json"
+  },
+  {
+    "id": "a-lenda-do-pato-sol",
+    "tipo": "filme",
+    "titulo": "A Lenda do Pato Sol",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/efFenszsONkgeqBU0rjG9jA6g6x.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jfJm7JrRW3eSv68MXR11Bd3W1Xt.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 4.9,
+    "tmdbId": 377878,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-do-pato-sol.json"
+  },
+  {
+    "id": "a-lenda-dos-guardioes",
+    "tipo": "filme",
+    "titulo": "A Lenda dos Guardiões",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zWx7qwzT0WDRUaJafnotACJDX3e.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s1aCCFPCRl4Zw2EBHLGK1dAHs1L.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.827,
+    "tmdbId": 41216,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lenda-dos-guardioes.json"
+  },
+  {
+    "id": "a-liga-de-monstros",
+    "tipo": "filme",
+    "titulo": "A Liga de Monstros",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oFD3haaWBJe4tMxUAEtcGMioayC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e9o00kc7Fg5hA7SubfoZSseHOo2.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.784,
+    "tmdbId": 598331,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-liga-de-monstros.json"
+  },
+  {
+    "id": "a-lua",
+    "tipo": "filme",
+    "titulo": "Como Vender a Lua",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vGLp898JntN7s5KABbiJ7PCS3ZL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4ItXEyVPj6wb9AdhsltcqYE6f5f.jpg",
+    "generos": [
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 6.808,
+    "tmdbId": 956842,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-lua.json"
+  },
+  {
+    "id": "a-magia-comeca-na-rocha-encantada",
+    "tipo": "filme",
+    "titulo": "A Magia Começa na Rocha Encantada",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uw4AM4MBb1UgpGJeFBnshNf9LSv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h5hCdU9KvcCbBihSNfn3vtML7tV.jpg",
+    "generos": [
+      "LEGENDADOS",
+      "ANIMAÇÃO | INFANTIL | FAMILIA"
+    ],
+    "nota": 7,
+    "tmdbId": 1566269,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/filmes/detalhes/a-magia-comeca-na-rocha-encantada.json"
+  }
+]

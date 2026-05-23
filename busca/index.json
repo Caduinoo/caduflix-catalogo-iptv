@@ -1,0 +1,16 @@
+{
+  "filmes": {
+    "a-m": "https://caduinoo.github.io/caduflix-catalogo/busca/filmes-a-m.json",
+    "n-z": "https://caduinoo.github.io/caduflix-catalogo/busca/filmes-n-z.json",
+    "total": 1000
+  },
+  "series": {
+    "a-m": "https://caduinoo.github.io/caduflix-catalogo/busca/series-a-m.json",
+    "n-z": "https://caduinoo.github.io/caduflix-catalogo/busca/series-n-z.json",
+    "total": 300
+  },
+  "canais": {
+    "arquivo": "https://caduinoo.github.io/caduflix-catalogo/busca/canais.json",
+    "total": 200
+  }
+}

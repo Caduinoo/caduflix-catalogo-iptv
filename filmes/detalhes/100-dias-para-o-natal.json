@@ -1,0 +1,34 @@
+{
+  "id": "100-dias-para-o-natal",
+  "tipo": "filme",
+  "titulo": "100 Dias para o Natal",
+  "ano": null,
+  "descricao": "Uma boy band do momento procura por um hit natalino e se depara com uma música escrita pelo baixista de uma banda de metal. Tudo dá errado quando a banda de metal também quer a música, já que ela foi escrita originalmente para a sobrinha do baixista que está hospitalizada.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/imU6zKtkhcH49Ph4Etx7Np2w7nv.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/h0QfGN4PjovosbfsvEn3Tujf56z.jpg",
+  "tmdbId": 878111,
+  "nota": 5.536,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783170,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778643,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "A Christmas Number One",
+  "dataLancamento": "2021-12-10"
+}

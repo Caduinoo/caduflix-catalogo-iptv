@@ -1,0 +1,42 @@
+{
+  "id": "a-extorsao",
+  "tipo": "filme",
+  "titulo": "A Extorsão",
+  "ano": null,
+  "descricao": "Murilo, um bem-sucedido homem de negócios, é chantageado por ter um caso extraconjugal com Laura. Como não cede às pressões, tem a filha raptada.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xvD63NNnNySiOVOjWPCuZciEayq.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/61dMlWNzOUnMAvLZy2Q8IlxbYre.jpg",
+  "tmdbId": 542936,
+  "nota": 8,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783406,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779516,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781931,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "A Extorsão",
+  "dataLancamento": "1975-11-06"
+}

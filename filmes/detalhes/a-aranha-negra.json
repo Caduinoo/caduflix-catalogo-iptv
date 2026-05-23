@@ -1,0 +1,34 @@
+{
+  "id": "a-aranha-negra",
+  "tipo": "filme",
+  "titulo": "A Aranha Negra",
+  "ano": null,
+  "descricao": "Christine faz um pacto com o diabo para salvar sua aldeia do terror brutal dos Cavaleiros Teutônicos. Mas quando a vila é devastada pela praga da aranha, ela se torna o bode expiatório e, portanto, a caça.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/AkwflqboRNXvwwdY9d5fHijztjL.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/jpFrCKa0ssa7Sm7l8J5fZcDRiwX.jpg",
+  "tmdbId": 916283,
+  "nota": 5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783269,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779506,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Die Schwarze Spinne",
+  "dataLancamento": "2022-03-10"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-disputa",
+  "tipo": "filme",
+  "titulo": "A Disputa",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/24X7BJzbgjYWKZBIsajJuR5ec5G.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/trsxoYnF132Rh2qLS7aK2UjOOaJ.jpg",
+  "tmdbId": 399896,
+  "nota": 6.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783376,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10777981,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Class Rank",
+  "dataLancamento": "2017-04-21"
+}

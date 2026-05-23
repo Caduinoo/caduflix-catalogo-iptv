@@ -1,0 +1,127 @@
+{
+  "total": 1000,
+  "paginas": 4,
+  "tamanhoPagina": 300,
+  "todos": {
+    "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/todos/page-1.json"
+  },
+  "generos": [
+    {
+      "slug": "4k",
+      "nome": "4K",
+      "total": 90,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/4k/page-1.json"
+    },
+    {
+      "slug": "acao-crime-guerra",
+      "nome": "AÇÃO | CRIME | GUERRA",
+      "total": 132,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/acao-crime-guerra/page-1.json"
+    },
+    {
+      "slug": "animacao-infantil-familia",
+      "nome": "ANIMAÇÃO | INFANTIL | FAMILIA",
+      "total": 64,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/animacao-infantil-familia/page-1.json"
+    },
+    {
+      "slug": "aventura-ficcao-fantasia",
+      "nome": "AVENTURA | FICÇÃO | FANTASIA",
+      "total": 72,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/aventura-ficcao-fantasia/page-1.json"
+    },
+    {
+      "slug": "comedia",
+      "nome": "COMÉDIA",
+      "total": 145,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/comedia/page-1.json"
+    },
+    {
+      "slug": "documentarios",
+      "nome": "DOCUMENTARIOS",
+      "total": 1,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/documentarios/page-1.json"
+    },
+    {
+      "slug": "drama",
+      "nome": "DRAMA",
+      "total": 201,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/drama/page-1.json"
+    },
+    {
+      "slug": "faroeste",
+      "nome": "FAROESTE",
+      "total": 5,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/faroeste/page-1.json"
+    },
+    {
+      "slug": "lancamentos",
+      "nome": "LANÇAMENTOS",
+      "total": 18,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/lancamentos/page-1.json"
+    },
+    {
+      "slug": "legendados",
+      "nome": "LEGENDADOS",
+      "total": 522,
+      "paginas": 2,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/legendados/page-1.json"
+    },
+    {
+      "slug": "nacionais",
+      "nome": "NACIONAIS",
+      "total": 21,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/nacionais/page-1.json"
+    },
+    {
+      "slug": "natalino",
+      "nome": "NATALINO",
+      "total": 7,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/natalino/page-1.json"
+    },
+    {
+      "slug": "oscar",
+      "nome": "OSCAR",
+      "total": 1,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/oscar/page-1.json"
+    },
+    {
+      "slug": "religiosos",
+      "nome": "RELIGIOSOS",
+      "total": 11,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/religiosos/page-1.json"
+    },
+    {
+      "slug": "romance",
+      "nome": "ROMANCE",
+      "total": 37,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/romance/page-1.json"
+    },
+    {
+      "slug": "suspense-terror-thriller",
+      "nome": "SUSPENSE | TERROR | THRILLER",
+      "total": 203,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/filmes/generos/suspense-terror-thriller/page-1.json"
+    }
+  ],
+  "destaques": {
+    "recentes": "https://caduinoo.github.io/caduflix-catalogo/filmes/destaques/recentes.json",
+    "populares": "https://caduinoo.github.io/caduflix-catalogo/filmes/destaques/populares.json",
+    "melhoresAvaliados": "https://caduinoo.github.io/caduflix-catalogo/filmes/destaques/melhores-avaliados.json"
+  }
+}

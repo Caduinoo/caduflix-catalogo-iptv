@@ -1,0 +1,34 @@
+{
+  "id": "a-cancao-do-sul",
+  "tipo": "filme",
+  "titulo": "A Canção do Sul",
+  "ano": null,
+  "descricao": "Morando com os avós, depois que os pais se separaram, garoto só encontra a alegria nas histórias contadas por velho empregado da fazenda, plenas do rico folclore do Sul dos EUA. Filme produzido por Walt Disney que mistura desenho e atores reais.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/en2EQM7Iv5VMcCN3tWPV5mf7plh.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/gfOYEKGz5wHlZTggfHbf5CLJ8zB.jpg",
+  "tmdbId": 13850,
+  "nota": 6.508,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040154,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11040131,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778019647,
+  "tituloOriginal": "Song of the South",
+  "dataLancamento": "1946-11-20"
+}

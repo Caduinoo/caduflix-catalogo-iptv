@@ -1,0 +1,127 @@
+{
+  "total": 300,
+  "paginas": 1,
+  "tamanhoPagina": 300,
+  "todos": {
+    "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/todos/page-1.json"
+  },
+  "generos": [
+    {
+      "slug": "amazon-prime",
+      "nome": "AMAZON PRIME",
+      "total": 32,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/amazon-prime/page-1.json"
+    },
+    {
+      "slug": "animes",
+      "nome": "ANIMES",
+      "total": 8,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/animes/page-1.json"
+    },
+    {
+      "slug": "apple",
+      "nome": "APPLE+",
+      "total": 9,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/apple/page-1.json"
+    },
+    {
+      "slug": "brasil-paralelo",
+      "nome": "BRASIL PARALELO",
+      "total": 2,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/brasil-paralelo/page-1.json"
+    },
+    {
+      "slug": "discovery",
+      "nome": "DISCOVERY+",
+      "total": 23,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/discovery/page-1.json"
+    },
+    {
+      "slug": "disney",
+      "nome": "DISNEY+",
+      "total": 21,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/disney/page-1.json"
+    },
+    {
+      "slug": "doramas",
+      "nome": "DORAMAS",
+      "total": 37,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/doramas/page-1.json"
+    },
+    {
+      "slug": "globoplay",
+      "nome": "GLOBOPLAY",
+      "total": 14,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/globoplay/page-1.json"
+    },
+    {
+      "slug": "hbo-max",
+      "nome": "HBO MAX",
+      "total": 25,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/hbo-max/page-1.json"
+    },
+    {
+      "slug": "netflix",
+      "nome": "NETFLIX",
+      "total": 57,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/netflix/page-1.json"
+    },
+    {
+      "slug": "novelas",
+      "nome": "NOVELAS",
+      "total": 12,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/novelas/page-1.json"
+    },
+    {
+      "slug": "outras-produtoras",
+      "nome": "OUTRAS PRODUTORAS",
+      "total": 35,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/outras-produtoras/page-1.json"
+    },
+    {
+      "slug": "paramount",
+      "nome": "PARAMOUNT+",
+      "total": 12,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/paramount/page-1.json"
+    },
+    {
+      "slug": "sbt",
+      "nome": "SBT+",
+      "total": 2,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/sbt/page-1.json"
+    },
+    {
+      "slug": "star",
+      "nome": "STAR+",
+      "total": 3,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/star/page-1.json"
+    },
+    {
+      "slug": "turcas-mexicanas",
+      "nome": "TURCAS | MEXICANAS²",
+      "total": 10,
+      "paginas": 1,
+      "primeiraPagina": "https://caduinoo.github.io/caduflix-catalogo/series/generos/turcas-mexicanas/page-1.json"
+    }
+  ],
+  "destaques": {
+    "recentes": "https://caduinoo.github.io/caduflix-catalogo/series/destaques/recentes.json",
+    "populares": "https://caduinoo.github.io/caduflix-catalogo/series/destaques/populares.json",
+    "melhoresAvaliados": "https://caduinoo.github.io/caduflix-catalogo/series/destaques/melhores-avaliados.json"
+  }
+}

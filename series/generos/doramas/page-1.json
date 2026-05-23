@@ -1,0 +1,520 @@
+[
+  {
+    "id": "100-memorias",
+    "tipo": "serie",
+    "titulo": "100 Memórias",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3Op0AfmFB32friSOlmKChPsImZu.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/k46AmUVAj6BCIBu074uLuvi1w70.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.4,
+    "tmdbId": 271889,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/100-memorias.json"
+  },
+  {
+    "id": "20th-century-boy-and-girl",
+    "tipo": "serie",
+    "titulo": "20th Century Boy and Girl",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uJkpZsWZ0zHddColxLQh3ONXnTZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3Pfg0IZeb5kHP21hhYWqIc558R7.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 6.182,
+    "tmdbId": 74000,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/20th-century-boy-and-girl.json"
+  },
+  {
+    "id": "365-repita-o-ano",
+    "tipo": "serie",
+    "titulo": "365: Repita o Ano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hivTCkAfb2tc5RhlnJl3j37KsRI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/valKkzJxBlP0WGx3qyRfQqJ3L9x.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.455,
+    "tmdbId": 99479,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/365-repita-o-ano.json"
+  },
+  {
+    "id": "4-elements-the-water",
+    "tipo": "serie",
+    "titulo": "Os Quatro Elementos da Água",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mAVCtYw1rE5Jjzuler417vgVZQE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dwnJMaGvRZqwZi3jKVlYvTC8ww0.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 9,
+    "tmdbId": 287114,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/4-elements-the-water.json"
+  },
+  {
+    "id": "4-elements-the-water-2026",
+    "tipo": "serie",
+    "titulo": "Os Quatro Elementos da Água",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/mAVCtYw1rE5Jjzuler417vgVZQE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dwnJMaGvRZqwZi3jKVlYvTC8ww0.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 9,
+    "tmdbId": 287114,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/4-elements-the-water-2026.json"
+  },
+  {
+    "id": "4-minutes",
+    "tipo": "serie",
+    "titulo": "4 Minutes",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rJpN87XowDwoLhb5eYX8eik7q2A.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/FaOu2CM6WNMdO4WVtdLmNetDWS.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.111,
+    "tmdbId": 218623,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/4-minutes.json"
+  },
+  {
+    "id": "a-antartida",
+    "tipo": "serie",
+    "titulo": "A Antártida",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/aRkUBWGqvjRkl7bNHFciS9RKxRL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/h35BT1TdAthotKWjXxxVfzLJCbM.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.3,
+    "tmdbId": 41825,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-antartida.json"
+  },
+  {
+    "id": "a-bela-e-o-sr-romantico",
+    "tipo": "serie",
+    "titulo": "A Bela e o Sr. Romantico",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sS2JAfIqrLzwOavYsIYPDdsYUck.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5u99NHyKzaz8n0aPuxFyYkSSSnO.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7,
+    "tmdbId": 242503,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bela-e-o-sr-romantico.json"
+  },
+  {
+    "id": "a-boss-and-a-babe",
+    "tipo": "serie",
+    "titulo": "Um Chefe e Um Bebê",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gZWFoNQkZZF6fHIV3A8MBuiFIaf.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6O61I61rrnwxxZMkW5eTvjJpoIS.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8,
+    "tmdbId": 217806,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-boss-and-a-babe.json"
+  },
+  {
+    "id": "a-brava-yong-su-jeong",
+    "tipo": "serie",
+    "titulo": "A Brava Yong Su Jeong",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wTl2C0dFJLSI89obqq9AA1vADoc.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iF1W066gp2pkPMAqNDCLpqcCXIW.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 248155,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-brava-yong-su-jeong.json"
+  },
+  {
+    "id": "a-bruxa",
+    "tipo": "serie",
+    "titulo": "A Bruxa",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/og0OiVyVAMySNNSRYiBKXMDYjw5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eMNbpi34w4PJTR6mWDqVF8aZzxj.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.636,
+    "tmdbId": 200794,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bruxa.json"
+  },
+  {
+    "id": "a-bruxa-j-da-porta-ao-lado",
+    "tipo": "serie",
+    "titulo": "A bruxa J da porta ao lado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gAUDm8HB78XnNMeX16t0dzy2egO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/atwKnwc3WwZRTk4pFy1GbfwtiJj.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 3.5,
+    "tmdbId": 126782,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bruxa-j-da-porta-ao-lado.json"
+  },
+  {
+    "id": "a-cadela-sabichona",
+    "tipo": "serie",
+    "titulo": "A Cadela Sabichona",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/wm0zAzPD6xMjf7YUpAMqyyDsvKe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a3JN5IeUuoVuxT8An0j3iLBdayT.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.8,
+    "tmdbId": 260835,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-cadela-sabichona.json"
+  },
+  {
+    "id": "a-casa-da-rainha",
+    "tipo": "serie",
+    "titulo": "A Casa da Rainha",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dMVxwze2I2wId6rqrT6GF0uXLVC.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3gwZomnMVDQFTElsVKsk9RvxbHj.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7,
+    "tmdbId": 287267,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-casa-da-rainha.json"
+  },
+  {
+    "id": "a-chuva",
+    "tipo": "serie",
+    "titulo": "Foi-se Com a Chuva",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/22KjIq6BsawA6xuMSqj4qgWZtGQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4KZbMaNXJh0PEVT3YiYy6KRIfcr.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 10,
+    "tmdbId": 227955,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-chuva.json"
+  },
+  {
+    "id": "a-coroa-perfeita",
+    "tipo": "serie",
+    "titulo": "A Coroa Perfeita",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/vS70MWKvCb6bT9kYj8OTmumcsWq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.958,
+    "tmdbId": 278573,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-coroa-perfeita.json"
+  },
+  {
+    "id": "a-coroa-perfeita-2026",
+    "tipo": "serie",
+    "titulo": "A Coroa Perfeita",
+    "ano": 2026,
+    "capa": "https://image.tmdb.org/t/p/w500/vS70MWKvCb6bT9kYj8OTmumcsWq.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.958,
+    "tmdbId": 278573,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-coroa-perfeita-2026.json"
+  },
+  {
+    "id": "a-cozinha-de-fermat",
+    "tipo": "serie",
+    "titulo": "A Cozinha de Fermat",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.4,
+    "tmdbId": 283704,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-cozinha-de-fermat.json"
+  },
+  {
+    "id": "a-cozinha-do-jinny",
+    "tipo": "serie",
+    "titulo": "A Cozinha do Jinny",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8EXnqy0hXdgRkpda7Rik7wdNxDw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ndeRxa6RHxPQsLiHITMOva67TWP.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.95,
+    "tmdbId": 214250,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-cozinha-do-jinny.json"
+  },
+  {
+    "id": "a-desesperada-sra-seon-ju",
+    "tipo": "serie",
+    "titulo": "A Desesperada Sra. Seon Ju",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ptb9knqEQmHQUT7YzITadm0gYIi.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/s41aHDgGza66JSwEc0poXSuBrmx.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 6.5,
+    "tmdbId": 261121,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-desesperada-sra-seon-ju.json"
+  },
+  {
+    "id": "a-emissaria-divina",
+    "tipo": "serie",
+    "titulo": "A Emissária Divina",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/9SgcRAdDRgtiCUob1RrIunl7RZG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pyBCqwXR8edxVGMtMytUvYxxg8Z.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": null,
+    "tmdbId": 252141,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-emissaria-divina.json"
+  },
+  {
+    "id": "a-esposa-do-meu-marido-japao",
+    "tipo": "serie",
+    "titulo": "A Esposa do Meu Marido: Japão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/huaaMI7pUu2UIQppUg8vUqXzvpd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/z0Ic9Thd5tBfXb1rZyhMyVZV4Cw.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.059,
+    "tmdbId": 290160,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-esposa-do-meu-marido-japao.json"
+  },
+  {
+    "id": "a-estrada-de-lichia",
+    "tipo": "serie",
+    "titulo": "A Estrada de Lichia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tr9Xkdxsualrb4b2L2LMyHxCS31.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/fXpsbFfQkIsj1MF3FRJh9JgO6Qq.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.3,
+    "tmdbId": 203367,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-estrada-de-lichia.json"
+  },
+  {
+    "id": "a-fada-e-o-pastor",
+    "tipo": "serie",
+    "titulo": "A Fada e o Pastor",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rksnG5F19305j4zAyhlcdGhqHvh.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jpxN1QHRSG660Ql62EHZvZzeaCA.jpg",
+    "generos": [
+      "AMAZON PRIME",
+      "DORAMAS"
+    ],
+    "nota": 8.6,
+    "tmdbId": 258025,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-fada-e-o-pastor.json"
+  },
+  {
+    "id": "a-fuga-dos-sete-ressurreicao",
+    "tipo": "serie",
+    "titulo": "A Fuga dos Sete Ressurreicao",
+    "ano": null,
+    "capa": null,
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 0,
+    "tmdbId": null,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-fuga-dos-sete-ressurreicao.json"
+  },
+  {
+    "id": "a-garota-do-cigarro",
+    "tipo": "serie",
+    "titulo": "A Garota do Cigarro",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2h3Fkouz0jE60iUWumjZD5TOBcZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3mTFPI4gRTrRKg28H1hHRnVRWFF.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.024,
+    "tmdbId": 228957,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-garota-do-cigarro.json"
+  },
+  {
+    "id": "a-gente-tenta",
+    "tipo": "serie",
+    "titulo": "A Gente Tenta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/16SSyjUjhqQLfntsq5qbrDq3kF3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.6,
+    "tmdbId": 289424,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-gente-tenta.json"
+  },
+  {
+    "id": "a-historia-da-garota-perola",
+    "tipo": "serie",
+    "titulo": "A História da Garota Pérola",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/p03dM1qR97RrncK3yReUOWFMoU2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.25,
+    "tmdbId": 240440,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-historia-da-garota-perola.json"
+  },
+  {
+    "id": "a-historia-de-bihyung-mestre-encantado-dos-goblins",
+    "tipo": "serie",
+    "titulo": "A História de Bihyung: Mestre Encantado dos Goblins",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bHwGNEKXGXk8jTnj0GwCNnR2SXI.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3udtKVbIsLiTGSNefdj9xoaVTKN.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.3,
+    "tmdbId": 300432,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-historia-de-bihyung-mestre-encantado-dos-goblins.json"
+  },
+  {
+    "id": "a-jogadora-2025",
+    "tipo": "serie",
+    "titulo": "A Jogadora",
+    "ano": 2025,
+    "capa": "https://image.tmdb.org/t/p/w500/vyvsJk2eBoLPYUgy4Y5fbjCrqgH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AcWD3xRx0nXVF178vqlL7Qtoa0N.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 6.143,
+    "tmdbId": 291459,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-jogadora-2025.json"
+  },
+  {
+    "id": "a-jornada-da-lenda",
+    "tipo": "serie",
+    "titulo": "A Jornada da Lenda",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6w63DQzFY7S5dg9e0L57S9LfLSn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7dH63uoQDQu6pfYJLNKQYLXJ38m.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7,
+    "tmdbId": 263034,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-jornada-da-lenda.json"
+  },
+  {
+    "id": "a-juiza-do-inferno",
+    "tipo": "serie",
+    "titulo": "A Juíza do Inferno",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/iRbJ9bPnoLDgvmsVJcp4cpPzWIJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.519,
+    "tmdbId": 235577,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-juiza-do-inferno.json"
+  },
+  {
+    "id": "a-killer-paradox",
+    "tipo": "serie",
+    "titulo": "A Killer Paradox",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dNZyFS8iviJQiBTieLe76iatcxn.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/viQZtznvR20oTTSbXp6MPAWkGB2.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 7.369,
+    "tmdbId": 202783,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-killer-paradox.json"
+  },
+  {
+    "id": "a-lenda-da-generala",
+    "tipo": "serie",
+    "titulo": "A Lenda da Generala",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/u30rXyglmxL2U0YLIhjBsHrEjtE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mwiG510fVcOrzWUSDSV7B5tRMrb.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.029,
+    "tmdbId": 240686,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-da-generala.json"
+  },
+  {
+    "id": "a-lenda-de-shenli",
+    "tipo": "serie",
+    "titulo": "A Lenda de ShenLi",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/33P9LPNomp3qJsoXwOPvpBSrPCF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.5,
+    "tmdbId": 207668,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-shenli.json"
+  },
+  {
+    "id": "a-lenda-de-zhuohua",
+    "tipo": "serie",
+    "titulo": "A Lenda de Zhuohua",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ql2IbB0Fo40m2wORPTgpxNM8rKx.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/176XSgarT3rc4qwvlx6MhBY7fxI.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 6.6,
+    "tmdbId": 229210,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-lenda-de-zhuohua.json"
+  },
+  {
+    "id": "a-licao",
+    "tipo": "serie",
+    "titulo": "A Lição",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/bnTXjwOwdUz8MKFyQCNf0hG4fdL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
+    "generos": [
+      "DORAMAS"
+    ],
+    "nota": 8.464,
+    "tmdbId": 136283,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-licao.json"
+  }
+]

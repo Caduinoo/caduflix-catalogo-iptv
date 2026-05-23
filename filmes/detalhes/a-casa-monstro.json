@@ -1,0 +1,34 @@
+{
+  "id": "a-casa-monstro",
+  "tipo": "filme",
+  "titulo": "A Casa Monstro",
+  "ano": null,
+  "descricao": "D.J. Walters é um garoto de 12 anos que acredita que há algo de estranho na casa do velho Epaminondas, localizada do outro lado da rua. Tudo que passa perto da casa simplesmente desaparece, incluindo triciclos, brinquedos e animais de estimação. Na véspera do Dia das Bruxas, D.J. e seu amigo Bocão deixam a bola de basquete com a qual estão jogando cair no terreno de Epaminondas, que logo some misteriosamente. Logo em seguida, a casa tenta devorar Jenny, uma vendedora de doces, que é salva do ataque. Eles tentam avisar a todos do perigo que é a casa, mas ninguém acredita neles.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hVtsIdJ9CogLz0NuqMKnfIu1uzR.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3otAGduCHdqdEIVC1HOOLb5Qnp2.jpg",
+  "tmdbId": 9297,
+  "nota": 6.711,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11032101,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10770993,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1774469006,
+  "tituloOriginal": "Monster House",
+  "dataLancamento": "2006-06-30"
+}

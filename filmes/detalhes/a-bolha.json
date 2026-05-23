@@ -1,0 +1,34 @@
+{
+  "id": "a-bolha",
+  "tipo": "filme",
+  "titulo": "A Bolha",
+  "ano": null,
+  "descricao": "O elenco e a equipe de um filme de ação de sucesso quebram as regras durante a quarentena em um hotel de luxo para filmar uma sequência da produção.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uog089YZqlMAplQwg68GQ4sexdY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/s54domZlnNGxfFzUdODxO7Ll8rO.jpg",
+  "tmdbId": 765119,
+  "nota": 4.608,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783298,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778968,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "The Bubble",
+  "dataLancamento": "2022-03-25"
+}

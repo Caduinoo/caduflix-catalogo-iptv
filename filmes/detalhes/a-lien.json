@@ -1,0 +1,26 @@
+{
+  "id": "a-lien",
+  "tipo": "filme",
+  "titulo": "A Lien",
+  "ano": null,
+  "descricao": "",
+  "generos": [
+    "LEGENDADOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qq2GkS7J9GR7sUEt58sc6T8mTY.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/4dkcWZdTSjJVVH8YMout8hOLENj.jpg",
+  "tmdbId": 1118941,
+  "nota": 7.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783564,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "A Lien",
+  "dataLancamento": "2023-01-23"
+}

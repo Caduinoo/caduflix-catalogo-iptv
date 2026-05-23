@@ -1,0 +1,34 @@
+{
+  "id": "a-maldicao-do-boneco",
+  "tipo": "filme",
+  "titulo": "A Maldição do Boneco",
+  "ano": null,
+  "descricao": "Depois da morte do pai, uma jovem problemática se muda com a família e encontra na nova casa um boneco amaldiçoado que aterroriza a vida de todos.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/gvzB7AyfhaGzJ4aRDbEAjf2ZjdN.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/cjMrwXhlNIPB3ChN23SFUks0KKu.jpg",
+  "tmdbId": 555252,
+  "nota": 4.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783603,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10780304,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Killer Under The Bed",
+  "dataLancamento": "2018-10-20"
+}

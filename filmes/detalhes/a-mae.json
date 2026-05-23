@@ -1,0 +1,42 @@
+{
+  "id": "a-mae",
+  "tipo": "filme",
+  "titulo": "A Mãe",
+  "ano": null,
+  "descricao": "Perseguida por inimigos perigosos, uma assassina foragida sai do esconderijo para proteger a filha que abandonou anos atrás.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ytfWQcleGhSE4yXYQjungE2BDMG.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/n5NSF8wZeWQHHZtuWgbRAVpqXFR.jpg",
+  "tmdbId": 552688,
+  "nota": 6.626,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783667,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769182,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781978,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Mother",
+  "dataLancamento": "2023-05-04"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "27-noites",
+  "tipo": "filme",
+  "titulo": "27 Noites",
+  "ano": null,
+  "descricao": "Uma mulher é internada em uma clínica psiquiátrica pelas filhas por seu comportamento. Agora, cabe a um especialista julgar se ela está doente ou só quer curtir a vida.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fo2MUxHn8sTaNYldpBCd5Q4Nu1y.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/28xIxuw60UNZ3Tsz1tT5Gg7MS67.jpg",
+  "tmdbId": 1327769,
+  "nota": 6.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783207,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772015,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781897,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "27 noches",
+  "dataLancamento": "2025-09-19"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2-pais",
+  "tipo": "filme",
+  "titulo": "1 Dia, 2 Pais",
+  "ano": null,
+  "descricao": "Jack Lawrence é um advogado de sucesso, com uma esposa adorável e uma vida organizada. Seu único problema é não ter muita paciência com problemas. Dale Putley é um escritor que está desesperado em busca de trabalho e possui todos os tipos de neuroses da vida moderna. Dois homens completamente diferentes, cujos caminhos irão se cruzar por um único motivo: um deles é o pai do jovem Scott... e o garoto desapareceu! A mãe Colette não tem certeza sobre a paternidade do menino, então decide pedir a ajuda dos dois para encontrá-lo. Se descobrir por onde anda um filho na ensolarada Colifórnia já é difícil, imagine para essa dupla de pais novatos.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/3mJ7Qxfqwor8uVWdTXPnmvkgzDF.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/r6OIUKbFs92aDjaMa25EPaX1RaA.jpg",
+  "tmdbId": 12499,
+  "nota": 5.5,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791539,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10791524,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567071,
+  "tituloOriginal": "Fathers' Day",
+  "dataLancamento": "1997-05-09"
+}

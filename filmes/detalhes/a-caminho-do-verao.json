@@ -1,0 +1,42 @@
+{
+  "id": "a-caminho-do-verao",
+  "tipo": "filme",
+  "titulo": "A Caminho do Verão",
+  "ano": null,
+  "descricao": "No verão antes da faculdade, a estudiosa Auden conhece o misterioso Eli, que a ensina a levar uma vida mais leve e despreocupada.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/rOunAU2rF7C0eU58X9VKHY79EIq.jpg",
+  "tmdbId": 778106,
+  "nota": 6.683,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783315,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778967,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781927,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Along for the Ride",
+  "dataLancamento": "2022-05-06"
+}

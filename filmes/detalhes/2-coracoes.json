@@ -1,0 +1,34 @@
+{
+  "id": "2-coracoes",
+  "tipo": "filme",
+  "titulo": "2 Corações",
+  "ano": null,
+  "descricao": "Quando a doença atinge duas pessoas que são opostas polares, a vida e a morte os unem de maneiras surpreendentes.",
+  "generos": [
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/zpujQ6Wd4UuAykFpgoICJVJ9s1f.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sSalNFInZxGi0bmmIKJoDz5jI6n.jpg",
+  "tmdbId": 710356,
+  "nota": 7.241,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778956,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781894,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "2 Hearts",
+  "dataLancamento": "2020-10-16"
+}

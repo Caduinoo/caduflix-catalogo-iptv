@@ -1,0 +1,42 @@
+{
+  "id": "a-casa",
+  "tipo": "filme",
+  "titulo": "A Casa dos Pássaros Mortos",
+  "ano": null,
+  "descricao": "Assaltantes foragidos buscam refúgio numa casa abandonada no meio de uma plantação no Alabama. À medida que a noite avança, o grupo é perseguido por visões terríveis das atrocidades cometidas no local, tornando-se reféns de forças malignas.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/uKqFS7LoYDZa8LP0CeCxZH19L06.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/WyCraJdklEeet3hTJiAjzhmhWx.jpg",
+  "tmdbId": 19592,
+  "nota": 5.677,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783317,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774517,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781918,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Dead Birds",
+  "dataLancamento": "2005-04-22"
+}

@@ -1,0 +1,800 @@
+[
+  {
+    "id": "a-mar",
+    "tipo": "serie",
+    "titulo": "A.mar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pOLUJiKWSmq4PUmcd1QxDNbS6Me.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wstv4u10ylaMdnnPi50lMx8f9le.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.25,
+    "tmdbId": 274971,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-mar.json"
+  },
+  {
+    "id": "des-encanto",
+    "tipo": "serie",
+    "titulo": "(Des)encanto",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hHEqDPbO6z4Xje5tOf3Wm1mdMtI.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.411,
+    "tmdbId": 73021,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/des-encanto.json"
+  },
+  {
+    "id": "100-humanos",
+    "tipo": "serie",
+    "titulo": "100 Humanos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/zKrJv2vIAaq3kRAPgvVcFNY3UU5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yZchL8hEZgpRB0uotYrErbBtXbr.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.018,
+    "tmdbId": 100429,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/100-humanos.json"
+  },
+  {
+    "id": "13-reasons-why",
+    "tipo": "serie",
+    "titulo": "13 Reasons Why",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8eUJQK8wRiBvGqiqMKEcYmAnESQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c4CSgKL6QfkJxsWcGYDyTxpbzpW.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.542,
+    "tmdbId": 66788,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/13-reasons-why.json"
+  },
+  {
+    "id": "28-dias-assombrados",
+    "tipo": "serie",
+    "titulo": "28 Dias Assombrados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1MxVHXE8woWTQaprkQ1gFR2HDln.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6ESvUtiCv3XqJRTU9d32I4R0Ckq.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.6,
+    "tmdbId": 210922,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/28-dias-assombrados.json"
+  },
+  {
+    "id": "3",
+    "tipo": "serie",
+    "titulo": "O Problema dos 3 Corpos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rqMYUtyrRJrZ1zKQvBfLgPh1c0T.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ciizJ9Okzt9tBBGK7Q3T14LFT2j.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.473,
+    "tmdbId": 108545,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/3.json"
+  },
+  {
+    "id": "4-contra-o-apocalipse",
+    "tipo": "serie",
+    "titulo": "4 Contra o Apocalipse",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hKEYfa0oWRKIY5o4CqBtPFRYlav.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8mNQpab95fhyR2JF4nJ6dIORwKJ.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.163,
+    "tmdbId": 92684,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/4-contra-o-apocalipse.json"
+  },
+  {
+    "id": "42-dias-de-escuridao",
+    "tipo": "serie",
+    "titulo": "42 Dias de Escuridão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/cLEF0d66x6UC9tJ5KYI8OlEU4DR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/e47hkgnEGOGA0n4TRSf67T2QaTH.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.38,
+    "tmdbId": 197190,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/42-dias-de-escuridao.json"
+  },
+  {
+    "id": "44-gatos",
+    "tipo": "serie",
+    "titulo": "44 Gatos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/dGz27tMZsHpaRve3ANfXQR3bnZe.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sdFzJ3hkbfvNjErrzt7D6hyXgYY.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.7,
+    "tmdbId": 89387,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/44-gatos.json"
+  },
+  {
+    "id": "60-dias-infiltrados-na-prisao",
+    "tipo": "serie",
+    "titulo": "60 Dias Infiltrados na Prisão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/7QChRelKcBg6ofta6iQ769qaz3A.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/Al7MuxbllBokRhIQwvwzKgnz3Is.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.609,
+    "tmdbId": 65854,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/60-dias-infiltrados-na-prisao.json"
+  },
+  {
+    "id": "7-seeds",
+    "tipo": "serie",
+    "titulo": "7Seeds",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/d84XDdYib5nEKvHm2HAh2itIgBY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8cc6ywx1b9F22GIx5yimd4zl4pT.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.686,
+    "tmdbId": 85940,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/7-seeds.json"
+  },
+  {
+    "id": "900-dias-sem-anabel",
+    "tipo": "serie",
+    "titulo": "900 Dias Sem Anabel",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qEKXbBYUmAhqhglNXCzwdnlspEs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jCQOJy8GipYvb6m4rymOOUi3Mkd.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.789,
+    "tmdbId": 274905,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/900-dias-sem-anabel.json"
+  },
+  {
+    "id": "9mm-sao-paulo",
+    "tipo": "serie",
+    "titulo": "9mm: São Paulo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mfLN1TUHSHKcRq2pEAVYITgYFfy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pf3QZFlCii0fV6UIaQARbEmMarJ.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 9.5,
+    "tmdbId": 36222,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/9mm-sao-paulo.json"
+  },
+  {
+    "id": "a-agente",
+    "tipo": "serie",
+    "titulo": "A Agente",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/yk44xZCWWzcgmwlyCWCQyFyxVIw.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/n9YnfHabjCNwCHUXfT6DPxzFa3e.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.177,
+    "tmdbId": 262920,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-agente.json"
+  },
+  {
+    "id": "a-arte-de-sarah",
+    "tipo": "serie",
+    "titulo": "A Arte de Sarah",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/rh2rnwJo9V3OWL5awQWBuUUBkau.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/i9qVwQ2sNDkudbiApSXnUkZDolK.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.429,
+    "tmdbId": 273977,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-arte-de-sarah.json"
+  },
+  {
+    "id": "a-artista-da-enganacao",
+    "tipo": "serie",
+    "titulo": "A Artista da Enganação",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/4MQN4YkyJNw17RxziTzEvzwxIXs.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/yLg78hbxldTCDWj4UfKp1E8J93b.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.3,
+    "tmdbId": 205657,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-artista-da-enganacao.json"
+  },
+  {
+    "id": "a-batalha-dos-100",
+    "tipo": "serie",
+    "titulo": "A Batalha dos 100: Ásia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eil4HqrB6LXko0E6ec7yAsleEQA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/823qOjKt0V0N9S6h2uoqu1IA15f.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.43,
+    "tmdbId": 293613,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-dos-100.json"
+  },
+  {
+    "id": "a-batalha-dos-100-asia",
+    "tipo": "serie",
+    "titulo": "A Batalha dos 100: Ásia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/eil4HqrB6LXko0E6ec7yAsleEQA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/823qOjKt0V0N9S6h2uoqu1IA15f.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.43,
+    "tmdbId": 293613,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-dos-100-asia.json"
+  },
+  {
+    "id": "a-batalha-dos-chefs-raiz",
+    "tipo": "serie",
+    "titulo": "A Batalha dos Chefs Raiz",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xzSLJB0FWBKevAr7UtO4Fw2KVoE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/piBJiKuxFuoYKKI7arI7mPUgbcF.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.5,
+    "tmdbId": 258923,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-batalha-dos-chefs-raiz.json"
+  },
+  {
+    "id": "a-beira-do-caos",
+    "tipo": "serie",
+    "titulo": "À Beira do Caos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/59288xuObda3dsxWQ6lWXCYlxhG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bpmZTJwyXlK0UfUQplIfnNe7TxN.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 4.7,
+    "tmdbId": 127108,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-beira-do-caos.json"
+  },
+  {
+    "id": "a-beleza-secreta-dos-animais",
+    "tipo": "serie",
+    "titulo": "A Beleza Secreta dos Animais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/2L7YNEVhuiWWl52Smpa6RPbG9d3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tExscftlsu5gxID7hZ1NNZLjvTJ.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.1,
+    "tmdbId": 137646,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-beleza-secreta-dos-animais.json"
+  },
+  {
+    "id": "a-biblia",
+    "tipo": "serie",
+    "titulo": "A Bíblia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gJbc4XJOHclHJCKuOxPGh9p2yiA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/aJ4asBNuiyLVhgpE267AbVBF1iV.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.369,
+    "tmdbId": 43899,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-biblia.json"
+  },
+  {
+    "id": "a-bilionaria-o-mordomo-e-o-namorado",
+    "tipo": "serie",
+    "titulo": "A Bilionária, o Mordomo e o Namorado",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6259lqrFdxTYtzdqQI9C7QkazY8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qqKhe0QFEDjG9COTyRbME9gkr8N.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.841,
+    "tmdbId": 238091,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bilionaria-o-mordomo-e-o-namorado.json"
+  },
+  {
+    "id": "a-bruxa-do-bem",
+    "tipo": "serie",
+    "titulo": "A Bruxa do Bem",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gucXOzZm9iDky8hL8hSIDzRNEft.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/eLNcBfr3212D09aYx0VChy1EpDY.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.7,
+    "tmdbId": 61864,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-bruxa-do-bem.json"
+  },
+  {
+    "id": "a-caca-ao-tesouro-de-fenn",
+    "tipo": "serie",
+    "titulo": "A Caça ao Tesouro de Fenn",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1dwFP0t5LHPLdX2hBkaeezGcyIU.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wXlMjRWFduQZDKT1Tlo6a5dOkve.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.5,
+    "tmdbId": 285380,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-caca-ao-tesouro-de-fenn.json"
+  },
+  {
+    "id": "a-caminho-do-ceu",
+    "tipo": "serie",
+    "titulo": "A Caminho do Céu",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/fhfXsPou90rCy1Nw4oyP28jyPVl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.968,
+    "tmdbId": 96571,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-caminho-do-ceu.json"
+  },
+  {
+    "id": "a-casa-magica-da-gabby",
+    "tipo": "serie",
+    "titulo": "A Casa Mágica da Gabby",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6KV0mbZrn197zdQiH7rE65cHvNF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qR4tS0urUUaFh6mlRhVUkDZGN5j.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.856,
+    "tmdbId": 111474,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-casa-magica-da-gabby.json"
+  },
+  {
+    "id": "a-catedral-do-mar",
+    "tipo": "serie",
+    "titulo": "A Catedral do Mar",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ogUB0lkoQ6VHVQ40H3uYIxptsEo.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/jxAVpqWPfNHoAmYgdWD2lrVDaAY.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.7,
+    "tmdbId": 72613,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-catedral-do-mar.json"
+  },
+  {
+    "id": "a-colina-do-cao",
+    "tipo": "serie",
+    "titulo": "A Colina do Cão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/3V9wQ4McbDJmmV66KWJxcdkQem0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hOrMnYizPOfh9w2SMYoeezCCFSV.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.611,
+    "tmdbId": 230127,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-colina-do-cao.json"
+  },
+  {
+    "id": "a-comida-de-amanha",
+    "tipo": "serie",
+    "titulo": "A Comida de Amanhã",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/65eAXqnum6wm6T4mnwiHLPQaqLg.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6GN2kFbAFoMmK8qf46KwjoYHHDI.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": null,
+    "tmdbId": 261970,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-comida-de-amanha.json"
+  },
+  {
+    "id": "a-concierge-pokemon",
+    "tipo": "serie",
+    "titulo": "A Concierge Pokémon",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ySSivX1z5n7ALFF0082sbsCasK2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sk0nsB5oynmwZTFqVIC5uCvRugi.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.506,
+    "tmdbId": 221301,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-concierge-pokemon.json"
+  },
+  {
+    "id": "a-crise-dos-caras",
+    "tipo": "serie",
+    "titulo": "A Crise dos Caras",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/hOq7UDe4W9g3K3NFHDCvzJVPih8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/l1fYY1YpDHL0GsC5pz0IP9E6ivC.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.2,
+    "tmdbId": 298699,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-crise-dos-caras.json"
+  },
+  {
+    "id": "a-dama-de-companhia",
+    "tipo": "serie",
+    "titulo": "A Dama de Companhia",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xcuMd6VPimaVh917Vhn4IXo1EDM.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/dxzWQ4Keg2lyUgYk3OSXIjbd2c2.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.39,
+    "tmdbId": 280890,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-dama-de-companhia.json"
+  },
+  {
+    "id": "a-desordem-que-ficou",
+    "tipo": "serie",
+    "titulo": "A Desordem que Ficou",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/qBkpU4dhfE36BgwQ0hT2xQ8tAZ0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nNU0oaZv8jeLlcrPFGnVae8ZpnW.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.915,
+    "tmdbId": 94413,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-desordem-que-ficou.json"
+  },
+  {
+    "id": "a-diplomata",
+    "tipo": "serie",
+    "titulo": "A Diplomata",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/1DoshncExMCGK9skDMA7iddHalJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.552,
+    "tmdbId": 203857,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-diplomata.json"
+  },
+  {
+    "id": "a-dona-da-bola",
+    "tipo": "serie",
+    "titulo": "A Dona da Bola",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/pLQcjP9ttSsxdHGHpnbfbYvOoI9.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1FmJKBjmp1o3fwhlnrrePnqdWbc.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.3,
+    "tmdbId": 244623,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-dona-da-bola.json"
+  },
+  {
+    "id": "a-era-dos-dados",
+    "tipo": "serie",
+    "titulo": "A Era dos Dados",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wbS5gQCwfl5Psa8PEyVNH89tBWY.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.3,
+    "tmdbId": 106525,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-era-dos-dados.json"
+  },
+  {
+    "id": "a-escola-amaldicoada",
+    "tipo": "serie",
+    "titulo": "A Escola Amaldiçoada",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/mQhR6dkZ5iFr6c8uIwd3cp8oJr1.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bLYnZikRUJw3lMVcYo9kSOeWBS9.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.353,
+    "tmdbId": 203502,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-escola-amaldicoada.json"
+  },
+  {
+    "id": "a-filha-do-mariachi",
+    "tipo": "serie",
+    "titulo": "A Filha do Mariachi",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/uKEqgvD1HQMGsmrolRbg8tHyITR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xfdyy0iP8Ro6EiS5RoMcdUa2oM2.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": null,
+    "tmdbId": 292233,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-filha-do-mariachi.json"
+  },
+  {
+    "id": "a-flor-mais-bela",
+    "tipo": "serie",
+    "titulo": "A Flor Mais Bela",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/oIiDdWpR0zsFgdzzgVjEDZ8xrsl.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/b8Lb8FOxfYwDLSbpwdLsN2u8NSK.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.302,
+    "tmdbId": 214454,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-flor-mais-bela.json"
+  },
+  {
+    "id": "a-furia-de-paris",
+    "tipo": "serie",
+    "titulo": "A Fúria de Paris",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/evaMWqg2TbIs9neUW0YS1gLV4eX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gvn6HS0uLKqk1KVXp4UKY3SkPTi.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.125,
+    "tmdbId": 212588,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-furia-de-paris.json"
+  },
+  {
+    "id": "a-gangue-da-luva-verde",
+    "tipo": "serie",
+    "titulo": "A Gangue da Luva Verde",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sFqwIgB35MWb1DzamP2joQVfSjV.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o5pRYanQse63H2HDvxsE6eSQNP.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.2,
+    "tmdbId": 210750,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-gangue-da-luva-verde.json"
+  },
+  {
+    "id": "a-garota-de-oslo",
+    "tipo": "serie",
+    "titulo": "A Garota de Oslo",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/waq8q1Kl6VtqZhmzmqRr6THmc0I.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gDSrDsX6xPyrUILEHdDNKJbrcKv.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": null,
+    "tmdbId": 121241,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-garota-de-oslo.json"
+  },
+  {
+    "id": "a-garota-desaparecida-do-vaticano",
+    "tipo": "serie",
+    "titulo": "A Garota Desaparecida do Vaticano",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ytWjMPudblp3fPM6Jyas5Z4H8jK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/thgykQy47lsWBPwzVcickaeNtfo.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.459,
+    "tmdbId": 212186,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-garota-desaparecida-do-vaticano.json"
+  },
+  {
+    "id": "a-garota-na-fita",
+    "tipo": "serie",
+    "titulo": "A Garota na Fita",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/nD5QFEJspTGB3aiuQ2e1LmEK09x.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y8pTB7knYgwHxNSMOyGNTPqGL1S.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.185,
+    "tmdbId": 215333,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-garota-na-fita.json"
+  },
+  {
+    "id": "a-grande-descoberta",
+    "tipo": "serie",
+    "titulo": "A Grande Descoberta",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xMuTaOGVjXcBIa7etcw4abudbjZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mBXz4HWt205dH2rHAkvG1eDZzqo.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.012,
+    "tmdbId": 279283,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-grande-descoberta.json"
+  },
+  {
+    "id": "a-grande-ilusao",
+    "tipo": "serie",
+    "titulo": "A Grande Ilusão",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/6vz0VvDYCyGNMMrvjyFldcd62i0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/v9OgLxYCq5newNdtF8dQAFENs4l.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.142,
+    "tmdbId": 220801,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-grande-ilusao.json"
+  },
+  {
+    "id": "a-guerra-dos-samurais",
+    "tipo": "serie",
+    "titulo": "A Guerra dos Samurais",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/h1kkluX8eQdJlx9VKxhU4oMkJRO.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/ooq4qnr6ZCcc7ziJMOw6LTtMyoO.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.125,
+    "tmdbId": 93736,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-guerra-dos-samurais.json"
+  },
+  {
+    "id": "a-herdeira",
+    "tipo": "serie",
+    "titulo": "A Herdeira",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/8xHSJNPhdhCFQ8IkhAs6Xbl6jno.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kJeXTvZGoxS1XQQStD6uDBdsskY.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7,
+    "tmdbId": 212553,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-herdeira.json"
+  },
+  {
+    "id": "a-historia-da-minha-familia",
+    "tipo": "serie",
+    "titulo": "A História da Minha Família",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/e6bcTQjI1Whkhk4UkrDKaFMKpnK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/renyXumdrJNBrQZo7UEWxL0Lkdr.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.2,
+    "tmdbId": 281679,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-historia-da-minha-familia.json"
+  },
+  {
+    "id": "a-hospede",
+    "tipo": "serie",
+    "titulo": "A Hóspede",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/xIMIuajGzzVqG2W2oWfXYif2b2W.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/wJBYXpzKHZNWnkfMuXhr40daPan.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.564,
+    "tmdbId": 297464,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-hospede.json"
+  },
+  {
+    "id": "a-ilha-da-caveira",
+    "tipo": "serie",
+    "titulo": "A Ilha da Caveira",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/tPBIO31w2P7KlLofrcykomT5QOR.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tGum8pp4gImTfFbWjnk1efTZirR.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.044,
+    "tmdbId": 117678,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-ilha-da-caveira.json"
+  },
+  {
+    "id": "a-imperatriz",
+    "tipo": "serie",
+    "titulo": "A Imperatriz",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/sNdVmmHAjYGJiVVQDYTfi2nLEKm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.64,
+    "tmdbId": 131488,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-imperatriz.json"
+  },
+  {
+    "id": "a-incrivel-vida-dos-nossos-bichinhos",
+    "tipo": "serie",
+    "titulo": "A Incrível Vida dos Nossos Bichinhos",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/gTyNGygrJafshR5plpb0NnwAIBE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AuFTBI51u1hTgTnfgG0MeJVysav.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.4,
+    "tmdbId": 155973,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-incrivel-vida-dos-nossos-bichinhos.json"
+  },
+  {
+    "id": "a-influenciadora",
+    "tipo": "serie",
+    "titulo": "A Influenciadora",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/Dc3GQZJ33rM2meCOKE00w87xmy.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/uuhkEDb1AG7kH7wJzxoGNKPNouV.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 7.7,
+    "tmdbId": 241455,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-influenciadora.json"
+  },
+  {
+    "id": "a-inundacao-do-milenio",
+    "tipo": "serie",
+    "titulo": "A Inundação do Milênio",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/siALqcr4el9rHhvxfx5oXX4WIX6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/786hICnGF8TYBykbFJ9Q8sRMH0I.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 6.776,
+    "tmdbId": 130477,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-inundacao-do-milenio.json"
+  },
+  {
+    "id": "a-jogada-da-vitoria",
+    "tipo": "serie",
+    "titulo": "A Jogada da Vitória",
+    "ano": null,
+    "capa": "https://image.tmdb.org/t/p/w500/ilYn5vYyhigN6wmVBs7dH2TJ7LS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c7hvVM7wky5XdsnWSdAOGrQbaaC.jpg",
+    "generos": [
+      "NETFLIX"
+    ],
+    "nota": 8.586,
+    "tmdbId": 250463,
+    "detalhesUrl": "https://caduinoo.github.io/caduflix-catalogo/series/detalhes/a-jogada-da-vitoria.json"
+  }
+]

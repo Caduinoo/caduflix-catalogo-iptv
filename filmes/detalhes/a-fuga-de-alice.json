@@ -1,0 +1,34 @@
+{
+  "id": "a-fuga-de-alice",
+  "tipo": "filme",
+  "titulo": "A Fuga de Alice",
+  "ano": null,
+  "descricao": "Uma mulher problemática encontra refúgio em uma fazenda isolada, com a ajuda de seus donos idealísticos - até que uma figura violenta de seu passado a alcança.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5LM3AZZAVSVVu3Nea0y3AP0oXte.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/29syn0r3MJ30BEvRLuCZ6togD1r.jpg",
+  "tmdbId": 552317,
+  "nota": 4.9,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783451,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779521,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Alice Fades Away",
+  "dataLancamento": "2021-02-15"
+}

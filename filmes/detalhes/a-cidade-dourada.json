@@ -1,0 +1,34 @@
+{
+  "id": "a-cidade-dourada",
+  "tipo": "filme",
+  "titulo": "A Cidade Dourada",
+  "ano": null,
+  "descricao": "Assombrado pela morte do pai, um homem se junta a sua ex-namorada para procurar por um artista vivendo em uma ocupação rebelde no meio da floresta amazônica do Peru, onde espíritos demoníacos protegem a lendária cidade de El Dorado.",
+  "generos": [
+    "LEGENDADOS",
+    "AVENTURA | FICÇÃO | FANTASIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fbcuQoaHYcapCnAKgHy8r9rZq7E.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kjEuAN3isnjGlxcNWmL7SStBa10.jpg",
+  "tmdbId": 540914,
+  "nota": 5.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783344,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771934,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "The City of Gold",
+  "dataLancamento": "2018-12-04"
+}

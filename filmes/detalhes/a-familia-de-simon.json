@@ -1,0 +1,34 @@
+{
+  "id": "a-familia-de-simon",
+  "tipo": "filme",
+  "titulo": "A Família de Simon",
+  "ano": null,
+  "descricao": "Simon é um garoto que leva uma vida feliz junto de seus pais adotivos e de seus dois irmãos. Mas a vida desta família irá virar de cabeça para baixo quando o pai biológico de Simon aparece querendo recuperar a sua guarda.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/k9mGGOOsRVRqW4NzD7gqpH6mcAH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qhVkFu0MKAhyfe9TU8PGPttlGMw.jpg",
+  "tmdbId": 860700,
+  "nota": 7.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783416,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774565,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "La Vraie Famille",
+  "dataLancamento": "2022-02-16"
+}

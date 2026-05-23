@@ -1,0 +1,34 @@
+{
+  "id": "a-fera-do-mar",
+  "tipo": "filme",
+  "titulo": "A Fera do Mar",
+  "ano": null,
+  "descricao": "Uma menina entra escondida no navio de um grande caçador de monstros marinhos. Juntos, eles iniciam uma jornada épica por águas desconhecidas.",
+  "generos": [
+    "LEGENDADOS",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/4MIUmy5Qp32xznFo6gSR0m2mD1W.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
+  "tmdbId": 560057,
+  "nota": 7.326,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783424,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10771012,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Sea Beast",
+  "dataLancamento": "2022-06-24"
+}

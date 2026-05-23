@@ -1,0 +1,114 @@
+{
+  "total": 200,
+  "todos": "https://caduinoo.github.io/caduflix-catalogo/canais/todos.json",
+  "categorias": [
+    {
+      "slug": "a-casa-do-patrao",
+      "nome": "A CASA DO PATRAO",
+      "total": 2,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/a-casa-do-patrao.json"
+    },
+    {
+      "slug": "abertos",
+      "nome": "ABERTOS",
+      "total": 10,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/abertos.json"
+    },
+    {
+      "slug": "band",
+      "nome": "BAND",
+      "total": 19,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/band.json"
+    },
+    {
+      "slug": "canais-4k",
+      "nome": "CANAIS 4K",
+      "total": 9,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/canais-4k.json"
+    },
+    {
+      "slug": "cine-desenhos-hd-24hrs",
+      "nome": "CINE DESENHOS HD 24HRS",
+      "total": 53,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/cine-desenhos-hd-24hrs.json"
+    },
+    {
+      "slug": "cine-especial-hd-24hrs",
+      "nome": "CINE ESPECIAL HD 24HRS",
+      "total": 3,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/cine-especial-hd-24hrs.json"
+    },
+    {
+      "slug": "cine-filmes-hd-24hrs",
+      "nome": "CINE FILMES HD 24HRS",
+      "total": 12,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/cine-filmes-hd-24hrs.json"
+    },
+    {
+      "slug": "cine-novelas-hd-24hrs",
+      "nome": "CINE NOVELAS HD 24HRS",
+      "total": 14,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/cine-novelas-hd-24hrs.json"
+    },
+    {
+      "slug": "cine-series-hd-24hrs",
+      "nome": "CINE SERIES HD 24HRS",
+      "total": 21,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/cine-series-hd-24hrs.json"
+    },
+    {
+      "slug": "cine-series-natal-hd-24hrs",
+      "nome": "CINE SERIES NATAL HD 24HRS",
+      "total": 1,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/cine-series-natal-hd-24hrs.json"
+    },
+    {
+      "slug": "documentarios",
+      "nome": "DOCUMENTÁRIOS",
+      "total": 5,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/documentarios.json"
+    },
+    {
+      "slug": "esportes",
+      "nome": "ESPORTES",
+      "total": 3,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/esportes.json"
+    },
+    {
+      "slug": "esportes-ppv",
+      "nome": "ESPORTES PPV",
+      "total": 5,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/esportes-ppv.json"
+    },
+    {
+      "slug": "filmes-e-series",
+      "nome": "FILMES E SERIES",
+      "total": 19,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/filmes-e-series.json"
+    },
+    {
+      "slug": "jogos-do-dia",
+      "nome": "JOGOS DO DIA",
+      "total": 12,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/jogos-do-dia.json"
+    },
+    {
+      "slug": "noticias",
+      "nome": "NOTICIAS",
+      "total": 4,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/noticias.json"
+    },
+    {
+      "slug": "religiosos",
+      "nome": "RELIGIOSOS",
+      "total": 1,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/religiosos.json"
+    },
+    {
+      "slug": "variedades",
+      "nome": "VARIEDADES",
+      "total": 7,
+      "arquivo": "https://caduinoo.github.io/caduflix-catalogo/canais/categorias/variedades.json"
+    }
+  ]
+}

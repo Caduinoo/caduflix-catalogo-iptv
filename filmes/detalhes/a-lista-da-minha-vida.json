@@ -1,0 +1,42 @@
+{
+  "id": "a-lista-da-minha-vida",
+  "tipo": "filme",
+  "titulo": "A Lista da Minha Vida",
+  "ano": null,
+  "descricao": "Numa jornada para realizar seus sonhos de adolescência a pedido da mãe, uma jovem desvenda segredos familiares, encontra o amor e redescobre suas raízes.",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/2zrVB7SQe9UZNRABpca66lObH0n.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/sulUXRukzh7WSK34y8mnaUcHo3y.jpg",
+  "tmdbId": 1254786,
+  "nota": 6.958,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783567,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778988,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781963,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Life List",
+  "dataLancamento": "2025-03-27"
+}

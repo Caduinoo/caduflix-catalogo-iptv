@@ -1,0 +1,34 @@
+{
+  "id": "a-fuga",
+  "tipo": "filme",
+  "titulo": "A Fuga das Galinhas",
+  "ano": null,
+  "descricao": "No galinheiro de uma fazenda inglesa dos anos 1950, galinhas cumprem sua função e vivem pacatamente sonhando com uma vida melhor. Uma delas, Ginger, sonha com a liberdade e planeja sair voando dali junto com suas companheiras.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/hp5shw8xyuYId322rT9am3HrKCQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
+  "tmdbId": 7443,
+  "nota": 6.841,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783450,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769152,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "Chicken Run",
+  "dataLancamento": "2000-06-23"
+}

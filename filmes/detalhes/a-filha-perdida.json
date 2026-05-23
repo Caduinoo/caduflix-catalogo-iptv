@@ -1,0 +1,34 @@
+{
+  "id": "a-filha-perdida",
+  "tipo": "filme",
+  "titulo": "A Filha Perdida",
+  "ano": null,
+  "descricao": "As férias na praia começam a dar errado quando a obsessão por uma jovem mãe a força a confrontar segredos do passado. Com atuação de Olivia Colman.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/w5ZyodD6md3mmPWO3nSPGXklxLk.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/ue7p1gBxBZeM9KNtwcUnBzdlRHk.jpg",
+  "tmdbId": 554230,
+  "nota": 6.461,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783436,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774570,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567061,
+  "tituloOriginal": "The Lost Daughter",
+  "dataLancamento": "2021-12-15"
+}

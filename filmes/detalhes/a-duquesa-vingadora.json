@@ -1,0 +1,34 @@
+{
+  "id": "a-duquesa-vingadora",
+  "tipo": "filme",
+  "titulo": "A Duquesa Vingadora",
+  "ano": null,
+  "descricao": "Duchess, uma criminosa de pequena escala, tenta entrar no perigoso mundo do tráfico de diamantes e acaba dada como morta quando um negócio dá errado. Determinada a fazer justiça, ela inicia uma incansável busca para ajustar contas.",
+  "generos": [
+    "LEGENDADOS",
+    "AÇÃO | CRIME | GUERRA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/yOpm3V3Hde76UiW6Q4Q3OGpEdik.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/A6MQBEobDU0neBuKPqxkEYwD35K.jpg",
+  "tmdbId": 1005076,
+  "nota": 5.645,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783385,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10769142,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Duchess",
+  "dataLancamento": "2024-08-01"
+}

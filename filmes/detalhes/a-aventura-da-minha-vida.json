@@ -1,0 +1,34 @@
+{
+  "id": "a-aventura-da-minha-vida",
+  "tipo": "filme",
+  "titulo": "A Aventura da Minha Vida",
+  "ano": null,
+  "descricao": "Depois da morte de sua esposa, um especialista em borboletas decide desbravar uma das mais importantes áreas selvagens dos Estados Unidos. Sem qualquer experiência em trilhas, ele enfrenta diversos obstáculos pelo caminho, enquanto aprende mais sobre a natureza e sobre si mesmo.",
+  "generos": [
+    "LEGENDADOS",
+    "COMÉDIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/ug5Tf2beCLfaA97TZad8gHu7E2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/qhESBlsUWDuwXJl4X20M0TOGJ72.jpg",
+  "tmdbId": 681940,
+  "nota": 5.1,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783280,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772035,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "The Dark Divide",
+  "dataLancamento": "2020-03-28"
+}

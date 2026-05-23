@@ -1,0 +1,34 @@
+{
+  "id": "a-descoberta-perfeita",
+  "tipo": "filme",
+  "titulo": "A Descoberta Perfeita",
+  "ano": null,
+  "descricao": "Uma editora de moda vê seu retorno profissional ameaçado ao descobrir que o rapaz que ela beijou em uma festa é um colega de trabalho e, pior, filho da nova chefe!",
+  "generos": [
+    "LEGENDADOS",
+    "ROMANCE"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/xlN4vXWzvoZ2LCdhsyFv4zOZBY6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/kOUZcN5qDPmDszKpNq4uxUeHA6v.jpg",
+  "tmdbId": 561717,
+  "nota": 6.084,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783380,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778977,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "The Perfect Find",
+  "dataLancamento": "2023-06-23"
+}

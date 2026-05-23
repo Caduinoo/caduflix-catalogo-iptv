@@ -1,0 +1,49 @@
+{
+  "id": "natal",
+  "tipo": "filme",
+  "titulo": "Natal em Alto Mar",
+  "ano": null,
+  "descricao": "Maddie, uma jornalista do jornal de Norfolk, embarca num cruzeiro da Marinha durante a época de Natal onde conhece um charmoso oficial e se depara com um mistério na sala de arquivos do navio.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO",
+    "ANIMAÇÃO | INFANTIL | FAMILIA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/5URTjJVVfX6Z5M48PiRqoWCFhY6.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wlmkOvDesGlhXZF8TXwEihHtlWW.jpg",
+  "tmdbId": 746467,
+  "nota": 6.793,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783152,
+      "container": "mp4"
+    },
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10787650,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778641,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10781738,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567066,
+  "tituloOriginal": "USS Christmas",
+  "dataLancamento": "2020-11-28"
+}

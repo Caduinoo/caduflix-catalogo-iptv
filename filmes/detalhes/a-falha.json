@@ -1,0 +1,34 @@
+{
+  "id": "a-falha",
+  "tipo": "filme",
+  "titulo": "A Falha",
+  "ano": null,
+  "descricao": "Vinte e cinco anos após deixar a escola, um grupo de ex-alunos decide organizar uma reunião. Mas, ao contrário do que se esperava, esses \"velhos rapazes\" percebem que o tempo acentuou suas diferenças. O clima é tenso, a conversa tensa e os velhos rancores ressurgem em pouco tempo.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/qvNAGuzpWNV1vWpIwhx5D5AOCi2.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/vTZA3XxgxKhFZLmuJfARVKVg741.jpg",
+  "tmdbId": 471955,
+  "nota": 7.25,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783410,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10779517,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "A Falha",
+  "dataLancamento": "2002-10-24"
+}

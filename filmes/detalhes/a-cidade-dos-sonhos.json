@@ -1,0 +1,50 @@
+{
+  "id": "a-cidade-dos-sonhos",
+  "tipo": "filme",
+  "titulo": "A Cidade dos Sonhos",
+  "ano": null,
+  "descricao": "Vítima de tráfico humano e vendido a uma fábrica clandestina, um jovem que sonha ser jogador de futebol precisa lutar para recuperar a liberdade.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA",
+    "4K",
+    "LANÇAMENTOS"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/dp0jlDZv6z3nY23kbmasgNLFZyd.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/zL8BUUF5zc0BQAMmCGY01wEzxvL.jpg",
+  "tmdbId": 901059,
+  "nota": 6.4,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 11035940,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11032873,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 11035929,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049930,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778864786,
+  "tituloOriginal": "City of Dreams",
+  "dataLancamento": "2024-08-29"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-contadora-de-filmes",
+  "tipo": "filme",
+  "titulo": "A Contadora de Filmes",
+  "ano": null,
+  "descricao": "A CONTADORA DE FILMES conta a história de Maria Margarita, uma menina que encanta os moradores de uma pequena cidade no deserto do Atacama, no Chile, com seu talento para contar histórias. Caçula de quatro irmãos, o momento mais esperado por sua família é a ida ao cinema aos domingos. Mas quando seu pai sofre um acidente e a renda familiar diminui, apenas um filho pode continuar a frequentar o cinema. Maria, escolhida para assistir e narrar os filmes, revela um dom extraordinário, transformando sua vida e a de todos ao seu redor com sua sua maneira de contar histórias.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/tzCEvNVmVZVoCtVD2HnEQw6IEGn.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/wxTm7Fppm0XnpzuAmCtT0XvLpuE.jpg",
+  "tmdbId": 928118,
+  "nota": 6.46,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783357,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774526,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "La contadora de películas",
+  "dataLancamento": "2023-10-27"
+}

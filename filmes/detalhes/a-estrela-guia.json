@@ -1,0 +1,34 @@
+{
+  "id": "a-estrela-guia",
+  "tipo": "filme",
+  "titulo": "A Estrela Guia",
+  "ano": null,
+  "descricao": "Três Reis Magos de diferentes regiões do mundo viajam pelo deserto implacável na esperança de encontrar provas de uma antiga profecia. Mas os reis dos homens e dos anjos caídos não se deterão em nada para destruir os Reis Magos e o menino que eles amam. Esses males forçam os Magos a confrontar e fazer as pazes com os velhos demônios, a fim de se prepararem para a chegada do novo rei nascido.",
+  "generos": [
+    "LEGENDADOS",
+    "DRAMA"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/fTYiHftB3G8YkBiQMHF4jw5ZPnT.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/aW5QkoW1ajjfTjlz6UvUDIkBxkG.jpg",
+  "tmdbId": 581251,
+  "nota": 4.3,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783402,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10774560,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Chasing the Star",
+  "dataLancamento": "2017-09-05"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a-cidade-do-natal",
+  "tipo": "filme",
+  "titulo": "A Cidade do Natal",
+  "ano": null,
+  "descricao": "Lauren deixa tudo para trás para embarcar em uma nova aventura, mas um imprevisto a leva para a cidade de Grandon Falls. Lá, ela vive um capítulo inesperado de sua carreira.",
+  "generos": [
+    "LEGENDADOS",
+    "NATALINO"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/e2IWFu8vNPxUUqJx0sC2k1TCcFH.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/n688PpHrRjtzJfu5YEZ4S9iem39.jpg",
+  "tmdbId": 626318,
+  "nota": 7.2,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783343,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10778646,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567060,
+  "tituloOriginal": "Christmas Town",
+  "dataLancamento": "2019-12-01"
+}

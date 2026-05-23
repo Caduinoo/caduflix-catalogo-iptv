@@ -1,0 +1,34 @@
+{
+  "id": "a-festa-de-formatura",
+  "tipo": "filme",
+  "titulo": "A Festa de Formatura",
+  "ano": null,
+  "descricao": "Um grupo de atores veteranos da Broadway vão sem aviso a uma festa de final de ano de uma escola que não permitiu que uma de suas alunas fosse ao baile acompanhada de sua namorada.",
+  "generos": [
+    "COMÉDIA",
+    "4K"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/A5P45oHuKIuMD1YYtksPuJ7sveQ.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/pF4pEiMHKvCIqX3h582tTCoNkwC.jpg",
+  "tmdbId": 611213,
+  "nota": 6.1,
+  "opcoes": [
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 10772078,
+      "container": "mp4"
+    },
+    {
+      "nome": "4K",
+      "idioma": "Não informado",
+      "qualidade": "4K",
+      "xtreamId": 10781937,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1773567059,
+  "tituloOriginal": "The Prom",
+  "dataLancamento": "2020-12-02"
+}

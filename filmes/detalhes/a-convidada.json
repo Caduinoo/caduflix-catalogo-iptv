@@ -1,0 +1,34 @@
+{
+  "id": "a-convidada",
+  "tipo": "filme",
+  "titulo": "A Convidada",
+  "ano": null,
+  "descricao": "Após perder os pais, uma garota é acolhida pela família de sua melhor amiga, que mora no interior. O pai da amiga se envolve em um conflito de terras, despertando um antigo culto pagão que vê a garota órfã como a única opção para proteger o lugar.",
+  "generos": [
+    "LEGENDADOS",
+    "SUSPENSE | TERROR | THRILLER"
+  ],
+  "capa": "https://image.tmdb.org/t/p/w500/eVb7aEM4W0jTHZjSV5iRlRToRCx.jpg",
+  "banner": "https://image.tmdb.org/t/p/original/tesV5me5ZQGqWqm9TJbxASMfvEy.jpg",
+  "tmdbId": 1045249,
+  "nota": null,
+  "opcoes": [
+    {
+      "nome": "Legendado",
+      "idioma": "Legendado",
+      "qualidade": "Não informado",
+      "xtreamId": 10783359,
+      "container": "mp4"
+    },
+    {
+      "nome": "Padrão",
+      "idioma": "Não informado",
+      "qualidade": "Não informado",
+      "xtreamId": 11049801,
+      "container": "mp4"
+    }
+  ],
+  "dataCriacaoXtream": 1778842361,
+  "tituloOriginal": "La invitada",
+  "dataLancamento": "2023-12-21"
+}
