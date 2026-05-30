@@ -18,7 +18,7 @@ const config = {
     "futebol",
   ],
 
-  outputDir: path.join(__dirname, "caduflix-catalogo-completo", "canais"),
+  outputDir: path.join(__dirname, "canais"),
   outputFile: "jogos-do-dia.json",
 };
 
