@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-06-04T11:57:46.060Z",
-  "total": 5,
+  "atualizadoEm": "2026-06-04T17:47:06.892Z",
+  "total": 6,
   "categoria": "Jogos do Dia",
   "canais": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "id": "11159945",
-      "nome": "15h Congo X Dinamarca (Espn 4)",
+      "nome": "14h Andorra X Liechtenstein (Sportv 2)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
@@ -23,7 +23,7 @@
     },
     {
       "id": "11159946",
-      "nome": "15h45 Holanda X Argélia (Espn 1)",
+      "nome": "14h Suécia X Grécia (Espn 4)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
@@ -32,7 +32,7 @@
     },
     {
       "id": "11159947",
-      "nome": "15h45 Polônia X Nigéria (Sportv 1)",
+      "nome": "16h Espanha X Iraque (Espn 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
@@ -41,12 +41,21 @@
     },
     {
       "id": "11159958",
-      "nome": "22h Coreia do Sul x El Salvador (Sportv 1)",
+      "nome": "16h10 França X Costa do Marfim (Sportv 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
       "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159958"
+    },
+    {
+      "id": "11159959",
+      "nome": "21h República Tcheca X Guatemala (Sportv 1)",
+      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159959"
     }
   ]
 }
