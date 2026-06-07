@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-06-06T22:05:09.453Z",
-  "total": 15,
+  "atualizadoEm": "2026-06-07T11:11:04.389Z",
+  "total": 8,
   "categoria": "Jogos do Dia",
   "canais": [
     {
@@ -20,6 +20,15 @@
       "categoriaId": "2648",
       "tipo": "live",
       "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159945"
+    },
+    {
+      "id": "11159976",
+      "nome": "19h Turquia X Venezuela (Espn 4)",
+      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159976"
     },
     {
       "id": "11159946",
@@ -65,78 +74,6 @@
       "categoriaId": "2648",
       "tipo": "live",
       "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159975"
-    },
-    {
-      "id": "11159976",
-      "nome": "19h Turquia X Venezuela (Espn 4)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-      "categoria": "JOGOS DO DIA",
-      "categoriaId": "2648",
-      "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159976"
-    },
-    {
-      "id": "11159977",
-      "nome": "19h Brasil X Egito (Globo SP)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-      "categoria": "JOGOS DO DIA",
-      "categoriaId": "2648",
-      "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159977"
-    },
-    {
-      "id": "11159978",
-      "nome": "19h Brasil X Egito (Globo SP)*",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-      "categoria": "JOGOS DO DIA",
-      "categoriaId": "2648",
-      "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159978"
-    },
-    {
-      "id": "11159979",
-      "nome": "19h Brasil X Egito (Sportv 1)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-      "categoria": "JOGOS DO DIA",
-      "categoriaId": "2648",
-      "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159979"
-    },
-    {
-      "id": "11159980",
-      "nome": "19h Brasil X Egito (Sportv 1)*",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-      "categoria": "JOGOS DO DIA",
-      "categoriaId": "2648",
-      "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159980"
-    },
-    {
-      "id": "11159981",
-      "nome": "19h Brasil X Egito (GE TV)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-      "categoria": "JOGOS DO DIA",
-      "categoriaId": "2648",
-      "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159981"
-    },
-    {
-      "id": "11159982",
-      "nome": "21h Argentina X Honduras (XSports)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-      "categoria": "JOGOS DO DIA",
-      "categoriaId": "2648",
-      "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159982"
-    },
-    {
-      "id": "11159983",
-      "nome": "21h Argentina X Honduras (Caze TV)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
-      "categoria": "JOGOS DO DIA",
-      "categoriaId": "2648",
-      "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11159983"
     }
   ]
 }
