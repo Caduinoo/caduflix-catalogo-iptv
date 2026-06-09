@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-06-08T22:41:39.785Z",
-  "total": 6,
+  "atualizadoEm": "2026-06-09T12:07:19.712Z",
+  "total": 10,
   "categoria": "Jogos do Dia",
   "canais": [
     {
@@ -13,49 +13,85 @@
       "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11050119"
     },
     {
-      "id": "11412070",
-      "nome": "15h45 Holanda X Uzbequistão (Espn 1)",
+      "id": "11940106",
+      "nome": "13h Armênia X Moldávia (Sportv 2)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11412070"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11940106"
     },
     {
-      "id": "11412071",
-      "nome": "16h10 França X Irlanda do Norte (Sportv 1)",
+      "id": "11940107",
+      "nome": "14h Hungria X Cazaquistão (Sportv 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11412071"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11940107"
     },
     {
-      "id": "11412072",
-      "nome": "16h10 França X Irlanda do Norte (GE TV)",
+      "id": "11940108",
+      "nome": "15h Azerbaijão X San Marino (Sportv 2)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11412072"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11940108"
     },
     {
-      "id": "11412073",
-      "nome": "20h América X Atlético GO (Espn 4)",
+      "id": "11940109",
+      "nome": "16h Almeria X Castellon (Espn 2)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11412073"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11940109"
     },
     {
-      "id": "11412074",
-      "nome": "23h Peru X Espanha (Sportv 1)",
+      "id": "11940110",
+      "nome": "19h Náutico X Fortaleza (Sportv 1)",
       "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11412074"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11940110"
+    },
+    {
+      "id": "11940111",
+      "nome": "19h Ponte Preta X Cuiabá (Espn 1)",
+      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11940111"
+    },
+    {
+      "id": "11940113",
+      "nome": "21h Brasil (F) X EUA (F) (Sportv 1)",
+      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11940113"
+    },
+    {
+      "id": "11940114",
+      "nome": "22h Argentina X Islândia (Caze TV)",
+      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11940114"
+    },
+    {
+      "id": "11940115",
+      "nome": "22h Argentina X Islândia (X Sports)",
+      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11940115"
     }
   ]
 }
