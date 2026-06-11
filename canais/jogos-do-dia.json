@@ -1,6 +1,6 @@
 {
-  "atualizadoEm": "2026-06-10T22:53:05.925Z",
-  "total": 5,
+  "atualizadoEm": "2026-06-11T12:49:02.185Z",
+  "total": 14,
   "categoria": "Jogos do Dia",
   "canais": [
     {
@@ -13,40 +13,121 @@
       "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=11050119"
     },
     {
-      "id": "12234535",
-      "nome": "16h Málaga X Las Palmas (Espn 4)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "id": "12234572",
+      "nome": "14h30 Abertura Copa do Mundo (Globo)",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234535"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234572"
     },
     {
-      "id": "12234536",
-      "nome": "16h45 Portugal X Nigéria (Sportv 1)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "id": "12234573",
+      "nome": "14h30 Abertura Copa do Mundo (SBT)",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234536"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234573"
     },
     {
-      "id": "12234537",
-      "nome": "17h Inglaterra X Costa Rica (Espn 1)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "id": "12234561",
+      "nome": "16h México X África do Sul (Globo)",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234537"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234561"
     },
     {
-      "id": "12234538",
-      "nome": "20h Ceará X Avai (Espn 1)",
-      "logo": "https://images.icon-icons.com/861/PNG/512/Soccer_icon-icons.com_67819.png",
+      "id": "12234562",
+      "nome": "16h México X África do Sul (Globo)*",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
       "categoria": "JOGOS DO DIA",
       "categoriaId": "2648",
       "tipo": "live",
-      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234538"
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234562"
+    },
+    {
+      "id": "12234563",
+      "nome": "16h México X África do Sul (SBT)",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234563"
+    },
+    {
+      "id": "12234564",
+      "nome": "16h México X África do Sul (SBT)*",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234564"
+    },
+    {
+      "id": "12234565",
+      "nome": "16h México X África do Sul (Sportv 1)",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234565"
+    },
+    {
+      "id": "12234566",
+      "nome": "16h México X África do Sul (Sportv 1)*",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234566"
+    },
+    {
+      "id": "12234567",
+      "nome": "16h México X África do Sul (Caze TV)",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234567"
+    },
+    {
+      "id": "12234568",
+      "nome": "16h México X África do Sul (GE TV)",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234568"
+    },
+    {
+      "id": "12234569",
+      "nome": "16h México X África do Sul (NSports)",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234569"
+    },
+    {
+      "id": "12234570",
+      "nome": "23h Coreia do Sul X República Tcheca (Caze TV)",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234570"
+    },
+    {
+      "id": "12234571",
+      "nome": "23h Coreia do Sul X República Tcheca (Caze TV)*",
+      "logo": "https://i.ibb.co/ch3TwGrW/IMG-20260610-WA0005.jpg",
+      "categoria": "JOGOS DO DIA",
+      "categoriaId": "2648",
+      "tipo": "live",
+      "player": "https://caduflix-play.carloslopes4657.workers.dev/play?tipo=live&id=12234571"
     }
   ]
 }
