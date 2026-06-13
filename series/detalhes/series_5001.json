@@ -1,0 +1,54 @@
+{
+  "id": "series_5001",
+  "type": "series",
+  "title": "Testamento: A História de Moisés",
+  "originalTitle": "Testament: The Story of Moses",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/uVfRj5YElE42h4xBq1IyLnH9YTT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tKoO0zhN4ukIdCTWY1QNmYNsIHN.jpg",
+  "overview": "Esta série documental conta como foi a incrível vida de Moisés como príncipe, profeta e muito mais, com perspectivas de teólogos e historiadores.",
+  "rating": 7.3,
+  "genres": [
+    "documentario",
+    "drama",
+    "fantasia",
+    "ficcao",
+    "historia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 247441,
+  "xtream": {
+    "seriesId": 5001
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2511031",
+          "episodeId": 2511031,
+          "season": 1,
+          "episode": 1,
+          "title": "Testamento A Historia de Moises (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511032",
+          "episodeId": 2511032,
+          "season": 1,
+          "episode": 2,
+          "title": "Testamento A Historia de Moises (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511033",
+          "episodeId": 2511033,
+          "season": 1,
+          "episode": 3,
+          "title": "Testamento A Historia de Moises (2024) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

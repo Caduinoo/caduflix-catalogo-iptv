@@ -1,0 +1,45 @@
+{
+  "id": "movie_2582378",
+  "type": "movie",
+  "title": "Scarlet",
+  "originalTitle": "Scarlet",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/ooChlxAwQ57lS3gc1N8YzsqxK15.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 6,
+  "genres": [
+    "suspense",
+    "thriller",
+    "crime"
+  ],
+  "cast": [
+    {
+      "name": "Emil Österberg Hadziavdic",
+      "character": "Doc",
+      "profile": "https://image.tmdb.org/t/p/w185/ogvZRKZIWymntRlYpllqc9WHUU9.jpg"
+    },
+    {
+      "name": "Sofia Holm",
+      "character": "Scarlet",
+      "profile": ""
+    },
+    {
+      "name": "Elias Andersson",
+      "character": "The Narrator",
+      "profile": ""
+    },
+    {
+      "name": "Aris Miglis",
+      "character": "Bartender",
+      "profile": ""
+    }
+  ],
+  "director": "Alice Pedranti",
+  "tmdbId": 1484877,
+  "xtream": {
+    "streamId": 2582378,
+    "containerExtension": "mp4"
+  }
+}

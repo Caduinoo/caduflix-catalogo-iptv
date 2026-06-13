@@ -1,0 +1,112 @@
+{
+  "id": "series_1282",
+  "type": "series",
+  "title": "5x Comédia",
+  "originalTitle": "5x Comédia",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/wRql9XSg9EJRHJ88yVltCzBiB0q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7bKhVTDd1Ec8RPD0MlAIIom7tUb.jpg",
+  "overview": "Partindo de diferentes pontos de vista, 5X Comédia aborda questões como sexo, trabalho, relacionamentos, família, solidão, medo e desejo de viver em estado de isolamento. Questões como as diferenças de classes e privilégios da nossa sociedade também estão presentes na série, ampliando o debate e trazendo mais diversidade ao projeto. Com diálogos ágeis e humor muitas vezes ácido, os episódios também trazem momentos de emoção.",
+  "rating": 5.8,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 120592,
+  "xtream": {
+    "seriesId": 1282
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2404099",
+          "episodeId": 2404099,
+          "season": 1,
+          "episode": 1,
+          "title": "5x Comédia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404100",
+          "episodeId": 2404100,
+          "season": 1,
+          "episode": 2,
+          "title": "5x Comédia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404101",
+          "episodeId": 2404101,
+          "season": 1,
+          "episode": 3,
+          "title": "5x Comédia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404102",
+          "episodeId": 2404102,
+          "season": 1,
+          "episode": 4,
+          "title": "5x Comédia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404103",
+          "episodeId": 2404103,
+          "season": 1,
+          "episode": 5,
+          "title": "5x Comédia S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2404104",
+          "episodeId": 2404104,
+          "season": 2,
+          "episode": 1,
+          "title": "5x Comédia S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404105",
+          "episodeId": 2404105,
+          "season": 2,
+          "episode": 2,
+          "title": "5x Comédia S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404106",
+          "episodeId": 2404106,
+          "season": 2,
+          "episode": 3,
+          "title": "5x Comédia S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404107",
+          "episodeId": 2404107,
+          "season": 2,
+          "episode": 4,
+          "title": "5x Comédia S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404108",
+          "episodeId": 2404108,
+          "season": 2,
+          "episode": 5,
+          "title": "5x Comédia S02 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

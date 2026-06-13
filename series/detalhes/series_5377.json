@@ -1,0 +1,75 @@
+{
+  "id": "series_5377",
+  "type": "series",
+  "title": "Rebus",
+  "originalTitle": "Rebus",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/5zOMfiVSgJieF5hA2Tqh2i0Kzil.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kxXlSEdo8lYrjpMYEf5O1jANs7w.jpg",
+  "overview": "Inspetor John Rebus, um policial durão de Edimburgo com tendência a burlar as regras.",
+  "rating": 6.4,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 239946,
+  "xtream": {
+    "seriesId": 5377
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2518745",
+          "episodeId": 2518745,
+          "season": 1,
+          "episode": 1,
+          "title": "Rebus [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2518746",
+          "episodeId": 2518746,
+          "season": 1,
+          "episode": 2,
+          "title": "Rebus [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2518747",
+          "episodeId": 2518747,
+          "season": 1,
+          "episode": 3,
+          "title": "Rebus [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2518748",
+          "episodeId": 2518748,
+          "season": 1,
+          "episode": 4,
+          "title": "Rebus [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2518749",
+          "episodeId": 2518749,
+          "season": 1,
+          "episode": 5,
+          "title": "Rebus [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2518750",
+          "episodeId": 2518750,
+          "season": 1,
+          "episode": 6,
+          "title": "Rebus [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

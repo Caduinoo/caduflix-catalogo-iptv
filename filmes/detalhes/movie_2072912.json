@@ -1,0 +1,48 @@
+{
+  "id": "movie_2072912",
+  "type": "movie",
+  "title": "Barrabás",
+  "originalTitle": "Barrabas",
+  "year": 1919,
+  "poster": "https://image.tmdb.org/t/p/w500/fVHMCQN4Grwf2SPLwWAM3tlVchB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/agaKbpCwcvBmbGOkDIm08bYYxn1.jpg",
+  "overview": "",
+  "rating": 5.4,
+  "runtime": 489,
+  "genres": [
+    "crime"
+  ],
+  "cast": [
+    {
+      "name": "Fernand Herrmann",
+      "character": "L'avocat Jacques Varèse",
+      "profile": ""
+    },
+    {
+      "name": "Édouard Mathé",
+      "character": "Raoul de Nérac",
+      "profile": "https://image.tmdb.org/t/p/w185/mczsFE4xvwQuemE6Sb8KM6ziXTK.jpg"
+    },
+    {
+      "name": "Gaston Michel",
+      "character": "Rudolph Strélitz",
+      "profile": "https://image.tmdb.org/t/p/w185/nqHyTN4sPzPxrC60N1rlqengnZX.jpg"
+    },
+    {
+      "name": "Georges Biscot",
+      "character": "Biscotin",
+      "profile": "https://image.tmdb.org/t/p/w185/uS5VoUjixJEU2HTPow3yabYIsuD.jpg"
+    },
+    {
+      "name": "Blanche Montel",
+      "character": "Françoise Varèse",
+      "profile": "https://image.tmdb.org/t/p/w185/zYsihr8WD1jkVt3wxq2J8A3n9ux.jpg"
+    }
+  ],
+  "director": "Louis Feuillade",
+  "tmdbId": 202643,
+  "xtream": {
+    "streamId": 2072912,
+    "containerExtension": "mp4"
+  }
+}

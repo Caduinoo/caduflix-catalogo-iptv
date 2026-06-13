@@ -1,0 +1,79 @@
+{
+  "id": "series_4266",
+  "type": "series",
+  "title": "Time",
+  "originalTitle": "Time",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
+  "overview": "Um prisioneiro consumido pela culpa, um oficial com uma escolha impossível. O que é preciso para sobreviver? Uma história tensa de punição e princípios, estrelada por Sean Bean e Stephen Graham.",
+  "rating": 7.61,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 126116,
+  "xtream": {
+    "seriesId": 4266
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2492707",
+          "episodeId": 2492707,
+          "season": 1,
+          "episode": 1,
+          "title": "Time [L] (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2492708",
+          "episodeId": 2492708,
+          "season": 1,
+          "episode": 2,
+          "title": "Time [L] (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2492709",
+          "episodeId": 2492709,
+          "season": 1,
+          "episode": 3,
+          "title": "Time [L] (2021) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2492710",
+          "episodeId": 2492710,
+          "season": 2,
+          "episode": 1,
+          "title": "Time [L] (2021) S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2492711",
+          "episodeId": 2492711,
+          "season": 2,
+          "episode": 2,
+          "title": "Time [L] (2021) S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2492712",
+          "episodeId": 2492712,
+          "season": 2,
+          "episode": 3,
+          "title": "Time [L] (2021) S02 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

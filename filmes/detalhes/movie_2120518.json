@@ -1,0 +1,28 @@
+{
+  "id": "movie_2120518",
+  "type": "movie",
+  "title": "Private Lesson",
+  "originalTitle": "Private Lesson",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/7Oo86ErClTAOsjdVx45GHZ4LK47.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 8,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Tyler Fritz",
+      "character": "The Janitor",
+      "profile": "https://image.tmdb.org/t/p/w185/s5qX5nIEwjMVpmLbrZES1EyWfuP.jpg"
+    }
+  ],
+  "director": "Kal Bailey",
+  "tmdbId": 933762,
+  "xtream": {
+    "streamId": 2120518,
+    "containerExtension": "mp4"
+  }
+}

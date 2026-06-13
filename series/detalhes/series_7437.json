@@ -1,0 +1,83 @@
+{
+  "id": "series_7437",
+  "type": "series",
+  "title": "As Aventuras de Horton",
+  "originalTitle": "Dr. Seuss's Horton!",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/vglSyl3hjcrPOZQDyINt8fJvl4J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qFbjAPWpH4oQ4kJyLdu0qXUAGD6.jpg",
+  "overview": "Acompanha as aventuras fantásticas e cheias de imaginação do jovem Horton e seu melhor amigo Sérgio enquanto ajudam os moradores da Selva de Nool.",
+  "rating": 5,
+  "genres": [
+    "animacao",
+    "infantil"
+  ],
+  "producer": "netflix",
+  "tmdbId": 293205,
+  "xtream": {
+    "seriesId": 7437
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2565891",
+          "episodeId": 2565891,
+          "season": 1,
+          "episode": 1,
+          "title": "As Aventuras de Horton S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565892",
+          "episodeId": 2565892,
+          "season": 1,
+          "episode": 2,
+          "title": "As Aventuras de Horton S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565893",
+          "episodeId": 2565893,
+          "season": 1,
+          "episode": 3,
+          "title": "As Aventuras de Horton S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565894",
+          "episodeId": 2565894,
+          "season": 1,
+          "episode": 4,
+          "title": "As Aventuras de Horton S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565895",
+          "episodeId": 2565895,
+          "season": 1,
+          "episode": 5,
+          "title": "As Aventuras de Horton S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565896",
+          "episodeId": 2565896,
+          "season": 1,
+          "episode": 6,
+          "title": "As Aventuras de Horton S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565897",
+          "episodeId": 2565897,
+          "season": 1,
+          "episode": 7,
+          "title": "As Aventuras de Horton S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

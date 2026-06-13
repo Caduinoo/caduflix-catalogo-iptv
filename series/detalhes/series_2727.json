@@ -1,0 +1,78 @@
+{
+  "id": "series_2727",
+  "type": "series",
+  "title": "Contos de The Walking Dead",
+  "originalTitle": "Tales of the Walking Dead",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uFU4ItwbxHnFHxntb76ASnZbWTN.jpg",
+  "overview": "Série Antológica composta de episódios independentes focados em personagens novos e já apresentados do universo The Walking Dead.",
+  "rating": 6.961,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 136248,
+  "xtream": {
+    "seriesId": 2727
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2455091",
+          "episodeId": 2455091,
+          "season": 1,
+          "episode": 1,
+          "title": "Tales of the Walking Dead [L] (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2455092",
+          "episodeId": 2455092,
+          "season": 1,
+          "episode": 2,
+          "title": "Tales of the Walking Dead [L] (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2455093",
+          "episodeId": 2455093,
+          "season": 1,
+          "episode": 3,
+          "title": "Tales of the Walking Dead [L] (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2455094",
+          "episodeId": 2455094,
+          "season": 1,
+          "episode": 4,
+          "title": "Tales of the Walking Dead [L] (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2455095",
+          "episodeId": 2455095,
+          "season": 1,
+          "episode": 5,
+          "title": "Tales of the Walking Dead [L] (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2455096",
+          "episodeId": 2455096,
+          "season": 1,
+          "episode": 6,
+          "title": "Tales of the Walking Dead [L] (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

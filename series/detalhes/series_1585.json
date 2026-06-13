@@ -1,0 +1,50 @@
+{
+  "id": "series_1585",
+  "type": "series",
+  "title": "Mito e Magnata: John Delorean",
+  "originalTitle": "Myth & Mogul: John DeLorean",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/zlECyoV9XINpkunjOOoJDtOD8ew.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zFeRcJB4mcCtPDqE4FmwkIFo2mH.jpg",
+  "overview": "O documentário, dividido em três partes, cobre todos os aspectos importantes da vida de John e como sua fama desabou após o caso do tráfico de drogas.",
+  "rating": 6.429,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 128500,
+  "xtream": {
+    "seriesId": 1585
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2416880",
+          "episodeId": 2416880,
+          "season": 1,
+          "episode": 1,
+          "title": "Mito e Magnata: John Delorean (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2416881",
+          "episodeId": 2416881,
+          "season": 1,
+          "episode": 2,
+          "title": "Mito e Magnata: John Delorean (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2416882",
+          "episodeId": 2416882,
+          "season": 1,
+          "episode": 3,
+          "title": "Mito e Magnata: John Delorean (2021) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

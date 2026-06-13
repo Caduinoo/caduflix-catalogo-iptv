@@ -1,0 +1,62 @@
+{
+  "id": "series_8283",
+  "type": "series",
+  "title": "GHOST CONCERT : missing Songs",
+  "originalTitle": "ゴーストコンサート : missing Songs",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/yMt59KZr0OewyRs31Vd3zWuneeW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/heV7FqcSbz9zWerL0Uj8dAoyIXP.jpg",
+  "overview": "Em 2045, numa época em que cantar é proibido, uma estudante ouve uma voz fantasmagórica que a possui e lhe confere um grande poder.",
+  "rating": 6.25,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 303796,
+  "xtream": {
+    "seriesId": 8283
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2578885",
+          "episodeId": 2578885,
+          "season": 1,
+          "episode": 1,
+          "title": "GHOST CONCERT Missing Songs (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578886",
+          "episodeId": 2578886,
+          "season": 1,
+          "episode": 2,
+          "title": "GHOST CONCERT Missing Songs (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578887",
+          "episodeId": 2578887,
+          "season": 1,
+          "episode": 3,
+          "title": "GHOST CONCERT Missing Songs (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578888",
+          "episodeId": 2578888,
+          "season": 1,
+          "episode": 4,
+          "title": "GHOST CONCERT Missing Songs (2026) [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

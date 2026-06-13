@@ -1,0 +1,51 @@
+{
+  "id": "series_7952",
+  "type": "series",
+  "title": "Dança no Gelo: Rumo ao Ouro",
+  "originalTitle": "Glitter & Gold: Ice Dancing",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/irrdulKrIPIjUwpZMwdtoo80CLW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7oBYd2DIzxW1wtLa2pPl8FF9TPI.jpg",
+  "overview": "Conheça o intenso mundo da patinação artística, em que os melhores casais dançam pelo ouro e pela glória na preparação para os Jogos Olímpicos de Inverno de 2026.",
+  "rating": 8.5,
+  "genres": [
+    "documentario",
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 312046,
+  "xtream": {
+    "seriesId": 7952
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2574505",
+          "episodeId": 2574505,
+          "season": 1,
+          "episode": 1,
+          "title": "Danca no Gelo Rumo ao Ouro S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574506",
+          "episodeId": 2574506,
+          "season": 1,
+          "episode": 2,
+          "title": "Danca no Gelo Rumo ao Ouro S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574507",
+          "episodeId": 2574507,
+          "season": 1,
+          "episode": 3,
+          "title": "Danca no Gelo Rumo ao Ouro S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

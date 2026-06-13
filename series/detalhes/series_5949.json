@@ -1,0 +1,66 @@
+{
+  "id": "series_5949",
+  "type": "series",
+  "title": "Nossos Oceanos",
+  "originalTitle": "Our Oceans",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/u9XGxJld5xzObHhpVqdQaBMazcw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/79uppyAh8ZvQrm5DSdRsi9gQj9V.jpg",
+  "overview": "Descubra as histórias abaixo da superfície oceânica nesta série documental espetacular sobre a natureza, que explora cada um dos cinco oceanos da Terra.",
+  "rating": 7.426,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213611,
+  "xtream": {
+    "seriesId": 5949
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2534683",
+          "episodeId": 2534683,
+          "season": 1,
+          "episode": 1,
+          "title": "Nossos Oceanos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2534684",
+          "episodeId": 2534684,
+          "season": 1,
+          "episode": 2,
+          "title": "Nossos Oceanos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2534685",
+          "episodeId": 2534685,
+          "season": 1,
+          "episode": 3,
+          "title": "Nossos Oceanos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2534686",
+          "episodeId": 2534686,
+          "season": 1,
+          "episode": 4,
+          "title": "Nossos Oceanos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2534687",
+          "episodeId": 2534687,
+          "season": 1,
+          "episode": 5,
+          "title": "Nossos Oceanos S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "series_4563",
+  "type": "series",
+  "title": "Volume",
+  "originalTitle": "Volume",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/7D6Cu8vETQwlhubGnNZoLxk39p8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9nGrECpfcH6iQlr2NLa3n5uz2C0.jpg",
+  "overview": "",
+  "rating": 9,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 241945,
+  "xtream": {
+    "seriesId": 4563
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2501086",
+          "episodeId": 2501086,
+          "season": 1,
+          "episode": 1,
+          "title": "Volume [L] (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2501087",
+          "episodeId": 2501087,
+          "season": 1,
+          "episode": 2,
+          "title": "Volume [L] (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2501088",
+          "episodeId": 2501088,
+          "season": 1,
+          "episode": 3,
+          "title": "Volume [L] (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2501089",
+          "episodeId": 2501089,
+          "season": 1,
+          "episode": 4,
+          "title": "Volume [L] (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2501090",
+          "episodeId": 2501090,
+          "season": 1,
+          "episode": 5,
+          "title": "Volume [L] (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2501091",
+          "episodeId": 2501091,
+          "season": 1,
+          "episode": 6,
+          "title": "Volume [L] (2023) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

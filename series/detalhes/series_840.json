@@ -1,0 +1,75 @@
+{
+  "id": "series_840",
+  "type": "series",
+  "title": "The Head",
+  "originalTitle": "The Head",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/dMk8GHlr4VBaesc7eLqWYAt4hEr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8GAIpNkyVHorYZhCKYT4hC9C7Dv.jpg",
+  "overview": "Após perderem o contato com o exterior, membros de uma estação de pesquisa na Antártida aparecem mortos e cabe ao comandante Johan descobrir o que aconteceu.",
+  "rating": 7.046,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 102434,
+  "xtream": {
+    "seriesId": 840
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2386389",
+          "episodeId": 2386389,
+          "season": 1,
+          "episode": 1,
+          "title": "The Head [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386390",
+          "episodeId": 2386390,
+          "season": 1,
+          "episode": 2,
+          "title": "The Head [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386391",
+          "episodeId": 2386391,
+          "season": 1,
+          "episode": 3,
+          "title": "The Head [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386392",
+          "episodeId": 2386392,
+          "season": 1,
+          "episode": 4,
+          "title": "The Head [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386393",
+          "episodeId": 2386393,
+          "season": 1,
+          "episode": 5,
+          "title": "The Head [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386394",
+          "episodeId": 2386394,
+          "season": 1,
+          "episode": 6,
+          "title": "The Head [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

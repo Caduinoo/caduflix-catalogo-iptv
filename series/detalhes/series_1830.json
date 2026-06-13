@@ -1,0 +1,66 @@
+{
+  "id": "series_1830",
+  "type": "series",
+  "title": "Beartown",
+  "originalTitle": "Björnstad",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/aZzVvUKpXDAEok1o0pPJOUSaBzs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gistN9DovbelTJrUggubg839dP5.jpg",
+  "overview": "O hóquei é o último farol da esperança em Beartown, e ser responsável por isso é um fardo pesado. O dia da semifinal também é o catalisador de um ato violento que deixará uma jovem traumatizada e a cidade em tumulto.",
+  "rating": 6.5,
+  "genres": [
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 110173,
+  "xtream": {
+    "seriesId": 1830
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2429062",
+          "episodeId": 2429062,
+          "season": 1,
+          "episode": 1,
+          "title": "Beartown (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429063",
+          "episodeId": 2429063,
+          "season": 1,
+          "episode": 2,
+          "title": "Beartown (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429064",
+          "episodeId": 2429064,
+          "season": 1,
+          "episode": 3,
+          "title": "Beartown (2020) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429065",
+          "episodeId": 2429065,
+          "season": 1,
+          "episode": 4,
+          "title": "Beartown (2020) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429066",
+          "episodeId": 2429066,
+          "season": 1,
+          "episode": 5,
+          "title": "Beartown (2020) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

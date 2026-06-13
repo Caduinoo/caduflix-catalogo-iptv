@@ -1,0 +1,86 @@
+{
+  "id": "series_7600",
+  "type": "series",
+  "title": "Zomvivor",
+  "originalTitle": "มหาลัยคลั่ง",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/kKfDOByxyd4YLmmsWsh7u0tD1c4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ke3Ctn0jZru8oys8wAsY5oDIDX4.jpg",
+  "overview": "Quando a cidade é assolada por um vírus apocalíptico que transforma pessoas em zumbis, um grupo de adolescentes se refugia em uma escola e luta para sobreviver.",
+  "rating": 7.286,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 217837,
+  "xtream": {
+    "seriesId": 7600
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2568694",
+          "episodeId": 2568694,
+          "season": 1,
+          "episode": 1,
+          "title": "Zomvivor [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568695",
+          "episodeId": 2568695,
+          "season": 1,
+          "episode": 2,
+          "title": "Zomvivor [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568696",
+          "episodeId": 2568696,
+          "season": 1,
+          "episode": 3,
+          "title": "Zomvivor [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568697",
+          "episodeId": 2568697,
+          "season": 1,
+          "episode": 4,
+          "title": "Zomvivor [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568698",
+          "episodeId": 2568698,
+          "season": 1,
+          "episode": 5,
+          "title": "Zomvivor [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568699",
+          "episodeId": 2568699,
+          "season": 1,
+          "episode": 6,
+          "title": "Zomvivor [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568700",
+          "episodeId": 2568700,
+          "season": 1,
+          "episode": 7,
+          "title": "Zomvivor [L] S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

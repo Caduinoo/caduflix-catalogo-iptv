@@ -1,0 +1,93 @@
+{
+  "id": "series_2181",
+  "type": "series",
+  "title": "Amigos Sorridentes",
+  "originalTitle": "Smiling Friends",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/d0vwkQpKgBwZKHllNRV4nYJjLUs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qjHTkQ3QUlw6sxkIhugqNYsRJnR.jpg",
+  "overview": "As loucas aventuras dos funcionários de uma pequena empresa dedicada a levar felicidade para um mundo estranho, mas colorido.",
+  "rating": 8.539,
+  "genres": [
+    "animacao",
+    "comedia",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 126506,
+  "xtream": {
+    "seriesId": 2181
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2440986",
+          "episodeId": 2440986,
+          "season": 1,
+          "episode": 1,
+          "title": "Smiling Friends (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440987",
+          "episodeId": 2440987,
+          "season": 1,
+          "episode": 2,
+          "title": "Smiling Friends (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440988",
+          "episodeId": 2440988,
+          "season": 1,
+          "episode": 3,
+          "title": "Smiling Friends (2020) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440989",
+          "episodeId": 2440989,
+          "season": 1,
+          "episode": 4,
+          "title": "Smiling Friends (2020) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440990",
+          "episodeId": 2440990,
+          "season": 1,
+          "episode": 5,
+          "title": "Smiling Friends (2020) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440991",
+          "episodeId": 2440991,
+          "season": 1,
+          "episode": 6,
+          "title": "Smiling Friends (2020) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440992",
+          "episodeId": 2440992,
+          "season": 1,
+          "episode": 7,
+          "title": "Smiling Friends (2020) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440993",
+          "episodeId": 2440993,
+          "season": 1,
+          "episode": 8,
+          "title": "Smiling Friends (2020) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

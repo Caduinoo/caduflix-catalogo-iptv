@@ -1,0 +1,51 @@
+{
+  "id": "series_3362",
+  "type": "series",
+  "title": "Morte no Vale do Silício",
+  "originalTitle": "The Tetris Murders",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/m6U9akXZhCo7GMyCeeTJWXB1ttK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i5dIVF1eCX9n87SsM5MI9LcxfUy.jpg",
+  "overview": "Sandra Brown, uma investigadora aposentada de Palo Alto, faz descobertas surpreendentes ao retorna à cena do crime e decide provar que Vladimir Pokhilko não matou a sua família e depois se suicidou.",
+  "rating": 6.3,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 214646,
+  "xtream": {
+    "seriesId": 3362
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2470107",
+          "episodeId": 2470107,
+          "season": 1,
+          "episode": 1,
+          "title": "Morte no Vale do Silício (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2470108",
+          "episodeId": 2470108,
+          "season": 1,
+          "episode": 2,
+          "title": "Morte no Vale do Silício (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2470109",
+          "episodeId": 2470109,
+          "season": 1,
+          "episode": 3,
+          "title": "Morte no Vale do Silício (2022) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

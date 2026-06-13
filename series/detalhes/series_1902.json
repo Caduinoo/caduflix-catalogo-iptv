@@ -1,0 +1,50 @@
+{
+  "id": "series_1902",
+  "type": "series",
+  "title": "Arranjo de Natal",
+  "originalTitle": "Christmas Flow",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/n35vysDI3z4wsHSpElErNXKsAMX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/w12daIYCQnZJqCr9Eyha8QE6nUm.jpg",
+  "overview": "Um improvável romance de Natal brotou entre um rapper famoso e uma jornalista obstinada. Mas será que vai dar certo, apesar das diferenças?",
+  "rating": 6.388,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 135799,
+  "xtream": {
+    "seriesId": 1902
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2431495",
+          "episodeId": 2431495,
+          "season": 1,
+          "episode": 1,
+          "title": "Arranjo de Natal (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431496",
+          "episodeId": 2431496,
+          "season": 1,
+          "episode": 2,
+          "title": "Arranjo de Natal (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431497",
+          "episodeId": 2431497,
+          "season": 1,
+          "episode": 3,
+          "title": "Arranjo de Natal (2021) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

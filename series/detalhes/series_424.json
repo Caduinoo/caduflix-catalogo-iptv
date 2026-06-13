@@ -1,0 +1,59 @@
+{
+  "id": "series_424",
+  "type": "series",
+  "title": "Narcoworld: Histórias do Tráfico",
+  "originalTitle": "Narcoworld : Dope Stories",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/dHTdBhtG8fuj2X3Zj7r3RTkKDRQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oY19e2zQCtUAufnsO1YswcfLQUq.jpg",
+  "overview": "Acompanhe policiais perseguindo traficantes em diversos lugares do mundo, como um grande jogo de xadrez.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 95661,
+  "xtream": {
+    "seriesId": 424
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2361271",
+          "episodeId": 2361271,
+          "season": 1,
+          "episode": 1,
+          "title": "Narcoworld: Histórias do Tráfico S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361272",
+          "episodeId": 2361272,
+          "season": 1,
+          "episode": 2,
+          "title": "Narcoworld: Histórias do Tráfico S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361273",
+          "episodeId": 2361273,
+          "season": 1,
+          "episode": 3,
+          "title": "Narcoworld: Histórias do Tráfico S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361274",
+          "episodeId": 2361274,
+          "season": 1,
+          "episode": 4,
+          "title": "Narcoworld: Histórias do Tráfico S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

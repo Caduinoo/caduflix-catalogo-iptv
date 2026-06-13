@@ -1,0 +1,42 @@
+{
+  "id": "series_6932",
+  "type": "series",
+  "title": "A Coreia em um Prato",
+  "originalTitle": "삼겹살 랩소디",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/gpGgfxfgxJwWePkQuZYWpoO7QIW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nPjLYc2XPTs3gZAjOIm9fFLhDDg.jpg",
+  "overview": "Uma declaração de amor ao prato favorito dos coreanos de todas as idades: a barriga de porco.",
+  "rating": 7.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 115947,
+  "xtream": {
+    "seriesId": 6932
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2556987",
+          "episodeId": 2556987,
+          "season": 1,
+          "episode": 1,
+          "title": "A Coreia em um Prato [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2556988",
+          "episodeId": 2556988,
+          "season": 1,
+          "episode": 2,
+          "title": "A Coreia em um Prato [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

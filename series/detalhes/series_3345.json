@@ -1,0 +1,66 @@
+{
+  "id": "series_3345",
+  "type": "series",
+  "title": "Jubileu",
+  "originalTitle": "Jubilee",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/7EzI0KdpVUixd62yM44pCnQL27W.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kcUGZeooUBoq5N62374TlC96XyX.jpg",
+  "overview": "Em uma Índia recém-independente, um dono de estúdio, sua esposa estrela de cinema, um funcionário de confiança, uma dançarina e um refugiado terão seus caminhos cruzados em busca do estrelato e sucesso.",
+  "rating": 7.1,
+  "genres": [
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 222922,
+  "xtream": {
+    "seriesId": 3345
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2469738",
+          "episodeId": 2469738,
+          "season": 1,
+          "episode": 1,
+          "title": "Jubileu (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2469739",
+          "episodeId": 2469739,
+          "season": 1,
+          "episode": 2,
+          "title": "Jubileu (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2469740",
+          "episodeId": 2469740,
+          "season": 1,
+          "episode": 3,
+          "title": "Jubileu (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2469741",
+          "episodeId": 2469741,
+          "season": 1,
+          "episode": 4,
+          "title": "Jubileu (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2469742",
+          "episodeId": 2469742,
+          "season": 1,
+          "episode": 5,
+          "title": "Jubileu (2023) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

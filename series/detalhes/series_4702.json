@@ -1,0 +1,50 @@
+{
+  "id": "series_4702",
+  "type": "series",
+  "title": "O Assalto",
+  "originalTitle": "L'Attaque",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/20ZR2VLxTnInhXoaorSfwfbJ0mU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/usKX4mA65BPFv6n2G6gEfJYO7i6.jpg",
+  "overview": "Em uma manhã comum, um assalto a banco junta a vida de dezenas de pessoas. Elas vivem várias horas na companhia de quatro ladrões com perfis diferentes.",
+  "rating": 5,
+  "genres": [
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 100375,
+  "xtream": {
+    "seriesId": 4702
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2504698",
+          "episodeId": 2504698,
+          "season": 1,
+          "episode": 1,
+          "title": "O Assalto (2013) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2504699",
+          "episodeId": 2504699,
+          "season": 1,
+          "episode": 2,
+          "title": "O Assalto (2013) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2504700",
+          "episodeId": 2504700,
+          "season": 1,
+          "episode": 3,
+          "title": "O Assalto (2013) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

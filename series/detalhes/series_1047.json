@@ -1,0 +1,77 @@
+{
+  "id": "series_1047",
+  "type": "series",
+  "title": "Paranormal",
+  "originalTitle": "ما وراء الطبيعة",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/kibwnpITiWLpuqbpsyYesLEWnzJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/itsgqrk6WgKwKOsNLwsQD9WUihZ.jpg",
+  "overview": "Depois de se envolver em uma série de acontecimentos inexplicáveis, um médico cético se torna uma autoridade em investigações paranormais, mesmo contra sua vontade.",
+  "rating": 7.063,
+  "genres": [
+    "drama",
+    "misterio",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 106590,
+  "xtream": {
+    "seriesId": 1047
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2394969",
+          "episodeId": 2394969,
+          "season": 1,
+          "episode": 1,
+          "title": "Paranormal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394970",
+          "episodeId": 2394970,
+          "season": 1,
+          "episode": 2,
+          "title": "Paranormal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394971",
+          "episodeId": 2394971,
+          "season": 1,
+          "episode": 3,
+          "title": "Paranormal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394972",
+          "episodeId": 2394972,
+          "season": 1,
+          "episode": 4,
+          "title": "Paranormal S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394973",
+          "episodeId": 2394973,
+          "season": 1,
+          "episode": 5,
+          "title": "Paranormal S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394974",
+          "episodeId": 2394974,
+          "season": 1,
+          "episode": 6,
+          "title": "Paranormal S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

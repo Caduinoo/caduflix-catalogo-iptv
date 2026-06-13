@@ -1,0 +1,59 @@
+{
+  "id": "series_5198",
+  "type": "series",
+  "title": "Shardlake",
+  "originalTitle": "Shardlake",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/2sGolleKPiX4gCAuFWR2Yp7KZ1L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iVQxfdihQJifL2gVEnwEnH0G51C.jpg",
+  "overview": "Durante a dissolução dos mosteiros na era Tudor, Matthew Shardlake é enviado por Thomas Cromwell para investigar a morte de um comissário em uma remota cidade de Scarnsea.",
+  "rating": 6.76,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 223599,
+  "xtream": {
+    "seriesId": 5198
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2514860",
+          "episodeId": 2514860,
+          "season": 1,
+          "episode": 1,
+          "title": "Shardlake [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2514861",
+          "episodeId": 2514861,
+          "season": 1,
+          "episode": 2,
+          "title": "Shardlake [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2514862",
+          "episodeId": 2514862,
+          "season": 1,
+          "episode": 3,
+          "title": "Shardlake [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2514863",
+          "episodeId": 2514863,
+          "season": 1,
+          "episode": 4,
+          "title": "Shardlake [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "movie_2118627",
+  "type": "movie",
+  "title": "O Compositor",
+  "originalTitle": "O Compositor",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/sVCMJILgO2cHg1mTljkN9i1LjCh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yqKeNNWufCvlxDYlZidsxFKofsJ.jpg",
+  "overview": "",
+  "rating": 10,
+  "runtime": 18,
+  "genres": [
+    "drama",
+    "suspense",
+    "thriller",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Vicente Gil",
+      "character": "Mauro",
+      "profile": "https://image.tmdb.org/t/p/w185/wmdfNcKTN4dLwYrw8gPCFEIDm0J.jpg"
+    },
+    {
+      "name": "Filipe Vargas",
+      "character": "Álvaro",
+      "profile": "https://image.tmdb.org/t/p/w185/abKebqQaHjsOv7JPavRDUUyNmXr.jpg"
+    }
+  ],
+  "director": "Rodrigo Motty",
+  "tmdbId": 1315992,
+  "xtream": {
+    "streamId": 2118627,
+    "containerExtension": "mp4"
+  }
+}

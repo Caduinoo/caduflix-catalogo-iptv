@@ -1,0 +1,59 @@
+{
+  "id": "series_6146",
+  "type": "series",
+  "title": "A Grande Descoberta",
+  "originalTitle": "Genombrottet",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/xMuTaOGVjXcBIa7etcw4abudbjZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mBXz4HWt205dH2rHAkvG1eDZzqo.jpg",
+  "overview": "Com um duplo homicídio sem solução por 16 anos, um detetive e um genealogista decidem trabalhar juntos para pegar o assassino antes que o caso seja arquivado.",
+  "rating": 7,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 279283,
+  "xtream": {
+    "seriesId": 6146
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2539081",
+          "episodeId": 2539081,
+          "season": 1,
+          "episode": 1,
+          "title": "A Grande Descoberta S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2539082",
+          "episodeId": 2539082,
+          "season": 1,
+          "episode": 2,
+          "title": "A Grande Descoberta S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2539083",
+          "episodeId": 2539083,
+          "season": 1,
+          "episode": 3,
+          "title": "A Grande Descoberta S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2539084",
+          "episodeId": 2539084,
+          "season": 1,
+          "episode": 4,
+          "title": "A Grande Descoberta S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

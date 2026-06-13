@@ -1,0 +1,58 @@
+{
+  "id": "series_2485",
+  "type": "series",
+  "title": "Gaslit",
+  "originalTitle": "Gaslit",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/o8LBdstmN18UapAojYSzIxSIAxs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iKP3QEN2yK6bs8zURf17rN4UE8g.jpg",
+  "overview": "Uma visão moderna do escândalo político de Watergate dos anos 1970, centrado em histórias não contadas e personagens esquecidos da época.",
+  "rating": 6.889,
+  "genres": [
+    "drama"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 107407,
+  "xtream": {
+    "seriesId": 2485
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2449192",
+          "episodeId": 2449192,
+          "season": 1,
+          "episode": 1,
+          "title": "Gaslit (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2449193",
+          "episodeId": 2449193,
+          "season": 1,
+          "episode": 2,
+          "title": "Gaslit (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2449194",
+          "episodeId": 2449194,
+          "season": 1,
+          "episode": 3,
+          "title": "Gaslit (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2449195",
+          "episodeId": 2449195,
+          "season": 1,
+          "episode": 4,
+          "title": "Gaslit (2022) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

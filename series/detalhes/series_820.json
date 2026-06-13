@@ -1,0 +1,70 @@
+{
+  "id": "series_820",
+  "type": "series",
+  "title": "As Grandes Férias Grandes",
+  "originalTitle": "Les Grandes Grandes Vacances",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/gABnFCaKiP0ZAMUTP6eFNq7MUzu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tqAFds9bskJIDh9E5ovMlh6HH6V.jpg",
+  "overview": "No verão de 1939, Colette e Ernest são recebidos pelos seus avós maternos, em uma aldeia fictícia chamada Grangeville, perto de Dieppe, na Normandia. As grandes férias são prolongadas na casa devido a mudança de seu pai e os problemas de saúde de sua mãe que é obrigada a ir fazer um tratamento em um sanatório. Os dois pequenos parisienses vão descobrir a vida no campo, mas também as diferentes fases da Segunda Guerra Mundial, muitas vezes trágica e angustiante.",
+  "rating": 8.675,
+  "genres": [
+    "animacao",
+    "drama",
+    "familia",
+    "infantil",
+    "guerra"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 70331,
+  "xtream": {
+    "seriesId": 820
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2385618",
+          "episodeId": 2385618,
+          "season": 1,
+          "episode": 1,
+          "title": "As Grandes Ferias Grandes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385619",
+          "episodeId": 2385619,
+          "season": 1,
+          "episode": 2,
+          "title": "As Grandes Ferias Grandes S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385620",
+          "episodeId": 2385620,
+          "season": 1,
+          "episode": 3,
+          "title": "As Grandes Ferias Grandes S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385621",
+          "episodeId": 2385621,
+          "season": 1,
+          "episode": 4,
+          "title": "As Grandes Ferias Grandes S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385622",
+          "episodeId": 2385622,
+          "season": 1,
+          "episode": 5,
+          "title": "As Grandes Ferias Grandes S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

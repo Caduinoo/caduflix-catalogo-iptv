@@ -1,0 +1,77 @@
+{
+  "id": "series_8381",
+  "type": "series",
+  "title": "Personas",
+  "originalTitle": "Legends",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/1tw2EFfNwwolr4woy3INWCNsAW2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4CtOMphAmfHJ6cztlAYjkdStkHP.jpg",
+  "overview": "Reino Unido, década de 1990. Nas ruas inundadas de drogas, um grupo de funcionários públicos se infiltra em gangues para acabar com elas.",
+  "rating": 7.7,
+  "genres": [
+    "acao",
+    "aventura",
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 262280,
+  "xtream": {
+    "seriesId": 8381
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2580564",
+          "episodeId": 2580564,
+          "season": 1,
+          "episode": 1,
+          "title": "Personas (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580565",
+          "episodeId": 2580565,
+          "season": 1,
+          "episode": 2,
+          "title": "Personas (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580566",
+          "episodeId": 2580566,
+          "season": 1,
+          "episode": 3,
+          "title": "Personas (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580567",
+          "episodeId": 2580567,
+          "season": 1,
+          "episode": 4,
+          "title": "Personas (2026) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580568",
+          "episodeId": 2580568,
+          "season": 1,
+          "episode": 5,
+          "title": "Personas (2026) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580569",
+          "episodeId": 2580569,
+          "season": 1,
+          "episode": 6,
+          "title": "Personas (2026) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

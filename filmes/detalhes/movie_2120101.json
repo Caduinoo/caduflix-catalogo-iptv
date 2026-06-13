@@ -1,0 +1,85 @@
+{
+  "id": "movie_2120101",
+  "type": "movie",
+  "title": "Notre-Dame: Desastre em Paris",
+  "originalTitle": "Notre-Dame brûle",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/4Qe6fhD4seSPhprEx6VPTjfIXWo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/n5QLk1pm2Z4EW3PM1BYFgxSXbP8.jpg",
+  "overview": "Um relato do dia em que a catedral mais famosa do mundo pegou fogo. Combinando cenas reais e ficção, o filme mostra o trabalho árduo dos bombeiros e envolvidos em salvar o monumento cultural e religioso de Notre-Dame, em Paris.",
+  "rating": 6.6,
+  "runtime": 110,
+  "genres": [
+    "drama",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Samuel Labarthe",
+      "character": "General Gontier",
+      "profile": "https://image.tmdb.org/t/p/w185/ud26oMB8L7pXeHYmSu6vnmcbWQs.jpg"
+    },
+    {
+      "name": "Jean-Paul Bordes",
+      "character": "General Gallet",
+      "profile": "https://image.tmdb.org/t/p/w185/vObdK9D1BH2fmT7PvkAZBBsb3Bb.jpg"
+    },
+    {
+      "name": "Mickaël Chirinian",
+      "character": "Laurent Prades",
+      "profile": "https://image.tmdb.org/t/p/w185/fueddo3hQc9kNigb5tC18wW3BfW.jpg"
+    },
+    {
+      "name": "Jérémie Laheurte",
+      "character": "Chief Adjutant Joël",
+      "profile": "https://image.tmdb.org/t/p/w185/hTT4FsVEOFbcPt3r2N12Oj3cszr.jpg"
+    },
+    {
+      "name": "Maximilien Seweryn",
+      "character": "Chief Sergeant Reynald",
+      "profile": "https://image.tmdb.org/t/p/w185/cmI4gHnoRepcSE2l2T0mPXdAfGC.jpg"
+    },
+    {
+      "name": "Garlan Le Martelot",
+      "character": "Aurélien, young manager",
+      "profile": "https://image.tmdb.org/t/p/w185/Ak4sjOtSo9nhpDvAElGNSNLhly4.jpg"
+    },
+    {
+      "name": "Dimitri Storoge",
+      "character": "Captain Francis",
+      "profile": "https://image.tmdb.org/t/p/w185/iOKXXQW3bn1BKAZQbTaztWfw8sJ.jpg"
+    },
+    {
+      "name": "Pierre Lottin",
+      "character": "Lieutenant Alexandre",
+      "profile": "https://image.tmdb.org/t/p/w185/1d0CBRIjScO7AUkQAqPcaRuC9Mg.jpg"
+    },
+    {
+      "name": "Jules Sadoughi",
+      "character": "Chief Sergeant Jordan",
+      "profile": "https://image.tmdb.org/t/p/w185/6efZ2tt7iQxLLyl8AWvDangGOST.jpg"
+    },
+    {
+      "name": "Chloé Jouannet",
+      "character": "Chief Corporal Marianne",
+      "profile": "https://image.tmdb.org/t/p/w185/txb7rsuDWXeTK1i27pVIcO175Z5.jpg"
+    },
+    {
+      "name": "Vassili Schneider",
+      "character": "Corporal Sandro",
+      "profile": "https://image.tmdb.org/t/p/w185/hYy6OgeSjCrcZXNnrb2ITlbufiU.jpg"
+    },
+    {
+      "name": "Ava Baya",
+      "character": "Novice firefighter Marie-Eve",
+      "profile": "https://image.tmdb.org/t/p/w185/8aTqpiRhXzrjpgj9ztNPwf6VN03.jpg"
+    }
+  ],
+  "director": "Jean-Jacques Annaud",
+  "tmdbId": 811596,
+  "xtream": {
+    "streamId": 2120101,
+    "containerExtension": "mp4"
+  }
+}

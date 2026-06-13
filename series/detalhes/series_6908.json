@@ -1,0 +1,66 @@
+{
+  "id": "series_6908",
+  "type": "series",
+  "title": "National Geographic: As Várias Faces da Terra",
+  "originalTitle": "Earth Moods",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/dI84EWPQFXoYhjEmCHSkojpFasU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/djhj7k6HIMW5ltFXImZOHynNzXT.jpg",
+  "overview": "Fuja da rotina com As Várias Faces da Terra. Relaxe e restaure suas energias numa jornada por geleiras azuis, dunas rodopiantes, cidades vibrantes e exuberantes florestas tropicais.",
+  "rating": 8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 120907,
+  "xtream": {
+    "seriesId": 6908
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2555843",
+          "episodeId": 2555843,
+          "season": 1,
+          "episode": 1,
+          "title": "National Geographic As Varias Faces da Terra S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2555844",
+          "episodeId": 2555844,
+          "season": 1,
+          "episode": 2,
+          "title": "National Geographic As Varias Faces da Terra S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2555845",
+          "episodeId": 2555845,
+          "season": 1,
+          "episode": 3,
+          "title": "National Geographic As Varias Faces da Terra S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2555846",
+          "episodeId": 2555846,
+          "season": 1,
+          "episode": 4,
+          "title": "National Geographic As Varias Faces da Terra S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2555847",
+          "episodeId": 2555847,
+          "season": 1,
+          "episode": 5,
+          "title": "National Geographic As Varias Faces da Terra S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

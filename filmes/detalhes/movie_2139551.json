@@ -1,0 +1,38 @@
+{
+  "id": "movie_2139551",
+  "type": "movie",
+  "title": "Rec",
+  "originalTitle": "Rec",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/7pZDYaQSDA0S6RdDYYzhktxeiAa.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5.6,
+  "runtime": 4,
+  "genres": [
+    "terror",
+    "crime",
+    "misterio",
+    "suspense",
+    "thriller",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Taya Sian",
+      "character": "Phoebe",
+      "profile": ""
+    },
+    {
+      "name": "Ryan McSorley",
+      "character": "The Intruder",
+      "profile": ""
+    }
+  ],
+  "director": "Mika Turpin",
+  "tmdbId": 1061422,
+  "xtream": {
+    "streamId": 2139551,
+    "containerExtension": "mp4"
+  }
+}

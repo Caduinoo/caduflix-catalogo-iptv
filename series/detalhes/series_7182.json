@@ -1,0 +1,67 @@
+{
+  "id": "series_7182",
+  "type": "series",
+  "title": "Homens Sem Lei",
+  "originalTitle": "Homens Sem Lei",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/vvYAMh38y43jt2nSEHVXGI7TYwh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AlterS0XYiK5IzDqUapiJSdT5m2.jpg",
+  "overview": "Eles foram temidos… e ovacionados. Homens Sem Lei revela a impressionante história real da Scuderie Le Cocq o grupo que deu origem às milícias no Brasil. Um poder capaz de unir polícia, governo, população… e até conquistar nomes como Frank Sinatra e Pelé.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 298570,
+  "xtream": {
+    "seriesId": 7182
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2561245",
+          "episodeId": 2561245,
+          "season": 1,
+          "episode": 1,
+          "title": "Homens Sem Lei S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561246",
+          "episodeId": 2561246,
+          "season": 1,
+          "episode": 2,
+          "title": "Homens Sem Lei S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561247",
+          "episodeId": 2561247,
+          "season": 1,
+          "episode": 3,
+          "title": "Homens Sem Lei S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561248",
+          "episodeId": 2561248,
+          "season": 1,
+          "episode": 4,
+          "title": "Homens Sem Lei S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561249",
+          "episodeId": 2561249,
+          "season": 1,
+          "episode": 5,
+          "title": "Homens Sem Lei S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

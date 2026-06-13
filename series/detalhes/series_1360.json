@@ -1,0 +1,66 @@
+{
+  "id": "series_1360",
+  "type": "series",
+  "title": "Pet Stars",
+  "originalTitle": "Pet Stars",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/8tKNS1XV0DlhT1FIOLqTYOtrF0p.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m592cjYFNIDlKEcRzF7vT5hGcCD.jpg",
+  "overview": "Este reality show acompanha o trabalho da Pets on Q, que gerencia as carreiras dos bichinhos de estimação que são verdadeiras celebridades nas redes sociais.",
+  "rating": 5.9,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 121629,
+  "xtream": {
+    "seriesId": 1360
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2406592",
+          "episodeId": 2406592,
+          "season": 1,
+          "episode": 1,
+          "title": "Pet Stars S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406593",
+          "episodeId": 2406593,
+          "season": 1,
+          "episode": 2,
+          "title": "Pet Stars S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406594",
+          "episodeId": 2406594,
+          "season": 1,
+          "episode": 3,
+          "title": "Pet Stars S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406595",
+          "episodeId": 2406595,
+          "season": 1,
+          "episode": 4,
+          "title": "Pet Stars S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406596",
+          "episodeId": 2406596,
+          "season": 1,
+          "episode": 5,
+          "title": "Pet Stars S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

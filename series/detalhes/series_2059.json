@@ -1,0 +1,58 @@
+{
+  "id": "series_2059",
+  "type": "series",
+  "title": "The Choe Show",
+  "originalTitle": "The Choe Show",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/imn7l8Y8sXXZba2w1G4tB9AwoLh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rcKC8BbA5stDMgaDCUERZNh59of.jpg",
+  "overview": "O artista internacional renomado David Choe transforma sua visão do mundo excêntrica, compassiva e perturbadora em uma lente para o público provar sentir empatia por outras pessoas. Através da arte e brincadeira, David Choe leva seus convidados em uma jornada emocional.",
+  "rating": 5.2,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "apple_tv_plus",
+  "tmdbId": 127393,
+  "xtream": {
+    "seriesId": 2059
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2436708",
+          "episodeId": 2436708,
+          "season": 1,
+          "episode": 1,
+          "title": "The Choe Show (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436709",
+          "episodeId": 2436709,
+          "season": 1,
+          "episode": 2,
+          "title": "The Choe Show (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436710",
+          "episodeId": 2436710,
+          "season": 1,
+          "episode": 3,
+          "title": "The Choe Show (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436711",
+          "episodeId": 2436711,
+          "season": 1,
+          "episode": 4,
+          "title": "The Choe Show (2021) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

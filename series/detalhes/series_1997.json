@@ -1,0 +1,74 @@
+{
+  "id": "series_1997",
+  "type": "series",
+  "title": "Bem-vindos à Terra",
+  "originalTitle": "Welcome to Earth",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/6tJMH9Qjbefj5kLoIeNcyR6Z4Ep.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/be8s04cLyXXEqjBT24YPYdDSZKB.jpg",
+  "overview": "Will Smith, cuja curiosidade e admiração são positivamente infecciosas, é guiado por exploradores da National Geographic viajando para diferentes cantos do mundo para se aproximar dos espetáculos mais estranhos, incomuns, perigosos e emocionantes do planeta.",
+  "rating": 7.628,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 127700,
+  "xtream": {
+    "seriesId": 1997
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2434542",
+          "episodeId": 2434542,
+          "season": 1,
+          "episode": 1,
+          "title": "Bem-vindos à Terra (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434543",
+          "episodeId": 2434543,
+          "season": 1,
+          "episode": 2,
+          "title": "Bem-vindos à Terra (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434544",
+          "episodeId": 2434544,
+          "season": 1,
+          "episode": 3,
+          "title": "Bem-vindos à Terra (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434545",
+          "episodeId": 2434545,
+          "season": 1,
+          "episode": 4,
+          "title": "Bem-vindos à Terra (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434546",
+          "episodeId": 2434546,
+          "season": 1,
+          "episode": 5,
+          "title": "Bem-vindos à Terra (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434547",
+          "episodeId": 2434547,
+          "season": 1,
+          "episode": 6,
+          "title": "Bem-vindos à Terra (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

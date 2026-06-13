@@ -1,0 +1,58 @@
+{
+  "id": "series_3988",
+  "type": "series",
+  "title": "Encontros Extraterrestres",
+  "originalTitle": "Encounters",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nZB7xjP3njvAQg1FbzzXUsRUAod.jpg",
+  "overview": "Esta série documental investiga misteriosas aparições de OVNIs nos últimos 50 anos, com testemunhos, entrevistas com especialistas e novas evidências.",
+  "rating": 6.967,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 232811,
+  "xtream": {
+    "seriesId": 3988
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2485544",
+          "episodeId": 2485544,
+          "season": 1,
+          "episode": 1,
+          "title": "Encontros Extraterrestres (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485545",
+          "episodeId": 2485545,
+          "season": 1,
+          "episode": 2,
+          "title": "Encontros Extraterrestres (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485546",
+          "episodeId": 2485546,
+          "season": 1,
+          "episode": 3,
+          "title": "Encontros Extraterrestres (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485547",
+          "episodeId": 2485547,
+          "season": 1,
+          "episode": 4,
+          "title": "Encontros Extraterrestres (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

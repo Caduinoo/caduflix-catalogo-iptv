@@ -1,0 +1,64 @@
+{
+  "id": "movie_2104379",
+  "type": "movie",
+  "title": "O Preço da Família",
+  "originalTitle": "Natale a tutti i costi",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/LajfxwKDkZlbKacfLvrzLMIocQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nLRKNsG9GpeIs5mSS0Lq0r82i1o.jpg",
+  "overview": "Triste por não receber a visita dos filhos, um casal cria um esquema elaborado para juntar a família no Natal.",
+  "rating": 6.423,
+  "runtime": 90,
+  "genres": [
+    "comedia",
+    "familia"
+  ],
+  "cast": [
+    {
+      "name": "Christian De Sica",
+      "character": "Carlo Delle Fave",
+      "profile": "https://image.tmdb.org/t/p/w185/1FwVC0L29NWD92hh99cE4uvyWQ7.jpg"
+    },
+    {
+      "name": "Angela Finocchiaro",
+      "character": "Anna Delle Fave",
+      "profile": "https://image.tmdb.org/t/p/w185/4ZgMeXRcZOBDwDLmucIB9gUkslP.jpg"
+    },
+    {
+      "name": "Dharma Mangia Woods",
+      "character": "Alessandra Delle Fave",
+      "profile": "https://image.tmdb.org/t/p/w185/myrHxn2gyDoX6msZIfHlfq0P3NG.jpg"
+    },
+    {
+      "name": "Claudio Colica",
+      "character": "Emilio Delle Fave",
+      "profile": "https://image.tmdb.org/t/p/w185/3NjYUpoJdpsnkX8C5p1BjdFPYW2.jpg"
+    },
+    {
+      "name": "Iaia Forte",
+      "character": "Loredana",
+      "profile": "https://image.tmdb.org/t/p/w185/xJPwCODM1Onk0iSeffseIpUBe0k.jpg"
+    },
+    {
+      "name": "Fioretta Mari",
+      "character": "Giuliana",
+      "profile": "https://image.tmdb.org/t/p/w185/e9PiYlot4zGPC2lueFuS2F5u1im.jpg"
+    },
+    {
+      "name": "Francesco Marioni",
+      "character": "Rocco",
+      "profile": "https://image.tmdb.org/t/p/w185/duC45qRniuQt92s7jDfLOIRKNHD.jpg"
+    },
+    {
+      "name": "Alessandro Betti",
+      "character": "Azeglio de Francescobaldi",
+      "profile": "https://image.tmdb.org/t/p/w185/nPHx1JH7mLto6rXCaEnpWB21Gst.jpg"
+    }
+  ],
+  "director": "Giovanni Bognetti",
+  "tmdbId": 1000938,
+  "xtream": {
+    "streamId": 2104379,
+    "containerExtension": "mp4"
+  }
+}

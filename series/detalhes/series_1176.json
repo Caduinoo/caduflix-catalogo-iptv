@@ -1,0 +1,77 @@
+{
+  "id": "series_1176",
+  "type": "series",
+  "title": "Soulmates",
+  "originalTitle": "Soulmates",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/g2mvINQCGACb9sswdKXh1KwpwzB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7bpQnv93kbYhbhzmJnEjbE8aMof.jpg",
+  "overview": "O Teste de Almas Gêmeas afeta a vida de seis personagens: Nikki duvida do casamento, David tem um caso, Libby ama a alma gêmea e o marido, Mateo tem uma aventura selvagem, a alma gêmea de Kurt está morta, Caitlin questiona se o casamento dela é bom para ela.",
+  "rating": 6.07,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "crime",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 100771,
+  "xtream": {
+    "seriesId": 1176
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2399127",
+          "episodeId": 2399127,
+          "season": 1,
+          "episode": 1,
+          "title": "Soulmates S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399128",
+          "episodeId": 2399128,
+          "season": 1,
+          "episode": 2,
+          "title": "Soulmates S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399129",
+          "episodeId": 2399129,
+          "season": 1,
+          "episode": 3,
+          "title": "Soulmates S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399130",
+          "episodeId": 2399130,
+          "season": 1,
+          "episode": 4,
+          "title": "Soulmates S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399131",
+          "episodeId": 2399131,
+          "season": 1,
+          "episode": 5,
+          "title": "Soulmates S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399132",
+          "episodeId": 2399132,
+          "season": 1,
+          "episode": 6,
+          "title": "Soulmates S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

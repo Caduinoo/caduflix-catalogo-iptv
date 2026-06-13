@@ -1,0 +1,75 @@
+{
+  "id": "series_8538",
+  "type": "series",
+  "title": "Alice and Steve",
+  "originalTitle": "Alice and Steve",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/m6kzq1EMrDhY5RKhhxqW3okyfCx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1mN5cydNUFqd7MHfOwhcHZzLnvT.jpg",
+  "overview": "Uma comédia dramática britânica peculiar acompanha dois amigos improváveis.",
+  "rating": 7.3,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 318203,
+  "xtream": {
+    "seriesId": 8538
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2582406",
+          "episodeId": 2582406,
+          "season": 1,
+          "episode": 1,
+          "title": "Alice and Steve (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582407",
+          "episodeId": 2582407,
+          "season": 1,
+          "episode": 2,
+          "title": "Alice and Steve (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582408",
+          "episodeId": 2582408,
+          "season": 1,
+          "episode": 3,
+          "title": "Alice and Steve (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582409",
+          "episodeId": 2582409,
+          "season": 1,
+          "episode": 4,
+          "title": "Alice and Steve (2026) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582410",
+          "episodeId": 2582410,
+          "season": 1,
+          "episode": 5,
+          "title": "Alice and Steve (2026) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582411",
+          "episodeId": 2582411,
+          "season": 1,
+          "episode": 6,
+          "title": "Alice and Steve (2026) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "series_7840",
+  "type": "series",
+  "title": "Big Little Brawlers",
+  "originalTitle": "Big Little Brawlers",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w780/bp0r9LrZeC4Rd0D4BBKnl1sIEYO.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 8,
+  "genres": [],
+  "producer": "prime_video",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7840
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2573054",
+          "episodeId": 2573054,
+          "season": 1,
+          "episode": 1,
+          "title": "Big Little Brawlers S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573055",
+          "episodeId": 2573055,
+          "season": 1,
+          "episode": 2,
+          "title": "Big Little Brawlers S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573056",
+          "episodeId": 2573056,
+          "season": 1,
+          "episode": 3,
+          "title": "Big Little Brawlers S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573057",
+          "episodeId": 2573057,
+          "season": 1,
+          "episode": 4,
+          "title": "Big Little Brawlers S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573058",
+          "episodeId": 2573058,
+          "season": 1,
+          "episode": 5,
+          "title": "Big Little Brawlers S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573059",
+          "episodeId": 2573059,
+          "season": 1,
+          "episode": 6,
+          "title": "Big Little Brawlers S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

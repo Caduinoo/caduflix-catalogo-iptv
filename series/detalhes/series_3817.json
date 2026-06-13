@@ -1,0 +1,76 @@
+{
+  "id": "series_3817",
+  "type": "series",
+  "title": "O Eleito",
+  "originalTitle": "El elegido",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/fJWNp3LyN1IiuglO3lnuKqjkjta.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tHUTky5uZdpngfChbJzUgrrcCOW.jpg",
+  "overview": "Jodie, um garoto de doze anos que mora no México, descobre que tem poderes parecidos com os de Jesus. Agora, cabe a ele aceitar ou não esse chamado.",
+  "rating": 6.3,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 223400,
+  "xtream": {
+    "seriesId": 3817
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2482162",
+          "episodeId": 2482162,
+          "season": 1,
+          "episode": 1,
+          "title": "O Eleito (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482163",
+          "episodeId": 2482163,
+          "season": 1,
+          "episode": 2,
+          "title": "O Eleito (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482164",
+          "episodeId": 2482164,
+          "season": 1,
+          "episode": 3,
+          "title": "O Eleito (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482165",
+          "episodeId": 2482165,
+          "season": 1,
+          "episode": 4,
+          "title": "O Eleito (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482166",
+          "episodeId": 2482166,
+          "season": 1,
+          "episode": 5,
+          "title": "O Eleito (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482167",
+          "episodeId": 2482167,
+          "season": 1,
+          "episode": 6,
+          "title": "O Eleito (2023) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

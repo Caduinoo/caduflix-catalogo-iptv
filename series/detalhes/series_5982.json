@@ -1,0 +1,58 @@
+{
+  "id": "series_5982",
+  "type": "series",
+  "title": "Narco Circus Europe",
+  "originalTitle": "Narco Circus Europe",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/pg0lW1mtTPIXH5CTV66n6r1mVVB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/A3sl0idSXJlqba8BPFh4q0VfhLH.jpg",
+  "overview": "O jornalista Romain Bolzinger se infiltra no Cartel de Sinaloa e descobre algo chocante: a famosa \"Guerra às Drogas\" é uma farsa.",
+  "rating": 0,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 307883,
+  "xtream": {
+    "seriesId": 5982
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2535501",
+          "episodeId": 2535501,
+          "season": 1,
+          "episode": 1,
+          "title": "Narco Circus S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535502",
+          "episodeId": 2535502,
+          "season": 1,
+          "episode": 2,
+          "title": "Narco Circus S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535503",
+          "episodeId": 2535503,
+          "season": 1,
+          "episode": 3,
+          "title": "Narco Circus S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535504",
+          "episodeId": 2535504,
+          "season": 1,
+          "episode": 4,
+          "title": "Narco Circus S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

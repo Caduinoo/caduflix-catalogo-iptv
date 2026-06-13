@@ -1,0 +1,56 @@
+{
+  "id": "series_1306",
+  "type": "series",
+  "title": "Home Economics",
+  "originalTitle": "Home Economics",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w780/19q2YkukG4keapdVqMIFp864PXm.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "A série aborda a relação entre três irmãos: um empresário de sucesso, um escritor de classe média e uma terapeuta infantil desempregada.",
+  "rating": 7,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 1306
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2404924",
+          "episodeId": 2404924,
+          "season": 1,
+          "episode": 1,
+          "title": "Home Economics [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404925",
+          "episodeId": 2404925,
+          "season": 1,
+          "episode": 2,
+          "title": "Home Economics [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404926",
+          "episodeId": 2404926,
+          "season": 1,
+          "episode": 3,
+          "title": "Home Economics [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404927",
+          "episodeId": 2404927,
+          "season": 1,
+          "episode": 4,
+          "title": "Home Economics [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

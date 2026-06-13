@@ -1,0 +1,85 @@
+{
+  "id": "movie_2146642",
+  "type": "movie",
+  "title": "O Clube do Tesouro",
+  "originalTitle": "Treasure Trackers",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/shKztvANU0Lqo1WB4QU6wT0cuft.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/34gFNJQ5zT2rqH7iPbIN7Yp8oz7.jpg",
+  "overview": "Leah, uma curiosa garota de 12 anos, recruta seus colegas de escola Marshy e Tessa para caçar o mítico tesouro de sua cidade, mas eles logo descobrem que a lenda esconde segredos muito mais complexos do que imaginavam.",
+  "rating": 4,
+  "runtime": 92,
+  "genres": [
+    "aventura",
+    "familia",
+    "infantil"
+  ],
+  "cast": [
+    {
+      "name": "Charity Rose",
+      "character": "Leah",
+      "profile": "https://image.tmdb.org/t/p/w185/6jXwkELOxHf1b47Eyzu6Y5B8B4o.jpg"
+    },
+    {
+      "name": "Amelia Salazar",
+      "character": "Tessa",
+      "profile": "https://image.tmdb.org/t/p/w185/zmCSiZP4cYHekVGDIbfsGhlhzG2.jpg"
+    },
+    {
+      "name": "Sean Jay",
+      "character": "Marshy",
+      "profile": ""
+    },
+    {
+      "name": "Sam Coffelt",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/rZjrSjtKirE4RWzy8kKTUEdmA07.jpg"
+    },
+    {
+      "name": "Kim Sandwich",
+      "character": "",
+      "profile": ""
+    },
+    {
+      "name": "Cooper Tomlinson",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
+    },
+    {
+      "name": "Zephaniah Terry",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/p5URg56KJo5Rm5VD4pDau1mChwm.jpg"
+    },
+    {
+      "name": "Jaymee Vowell",
+      "character": "",
+      "profile": ""
+    },
+    {
+      "name": "Mike Stanley",
+      "character": "Uncle Beau",
+      "profile": ""
+    },
+    {
+      "name": "Jim Johnson",
+      "character": "Mr. Bigsby",
+      "profile": ""
+    },
+    {
+      "name": "Matthew Tarricone",
+      "character": "Jack",
+      "profile": ""
+    },
+    {
+      "name": "Constance Reynolds",
+      "character": "",
+      "profile": ""
+    }
+  ],
+  "director": "Drew Garcia",
+  "tmdbId": 1352582,
+  "xtream": {
+    "streamId": 2146642,
+    "containerExtension": "mp4"
+  }
+}

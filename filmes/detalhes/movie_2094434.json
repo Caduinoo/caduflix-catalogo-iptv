@@ -1,0 +1,35 @@
+{
+  "id": "movie_2094434",
+  "type": "movie",
+  "title": "Anónimo",
+  "originalTitle": "Anónimo",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/sOtMAx7SiFKq9d8IMYwdkLGfmi5.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 10,
+  "runtime": 5,
+  "genres": [
+    "suspense",
+    "thriller",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Yue Colin García",
+      "character": "Leslie Hernández",
+      "profile": ""
+    },
+    {
+      "name": "Nahum R. Maya",
+      "character": "Hombre Enmascarado",
+      "profile": "https://image.tmdb.org/t/p/w185/ifrSAkOw8q7oOVIUN32Si1RGDAy.jpg"
+    }
+  ],
+  "director": "Nahum R. Maya",
+  "tmdbId": 795633,
+  "xtream": {
+    "streamId": 2094434,
+    "containerExtension": "mp4"
+  }
+}

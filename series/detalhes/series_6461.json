@@ -1,0 +1,91 @@
+{
+  "id": "series_6461",
+  "type": "series",
+  "title": "Good Cop, Bad Cop",
+  "originalTitle": "Good Cop, Bad Cop",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/jRLXkqdG59R6dntOP2NvWfk3kTH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j4urVtymo77pYFJryXGfLsHjrGI.jpg",
+  "overview": "",
+  "rating": 7,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 239393,
+  "xtream": {
+    "seriesId": 6461
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2547004",
+          "episodeId": 2547004,
+          "season": 1,
+          "episode": 1,
+          "title": "Good Cop Bad Cop [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547005",
+          "episodeId": 2547005,
+          "season": 1,
+          "episode": 2,
+          "title": "Good Cop Bad Cop [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547006",
+          "episodeId": 2547006,
+          "season": 1,
+          "episode": 3,
+          "title": "Good Cop Bad Cop [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547007",
+          "episodeId": 2547007,
+          "season": 1,
+          "episode": 4,
+          "title": "Good Cop Bad Cop [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547008",
+          "episodeId": 2547008,
+          "season": 1,
+          "episode": 5,
+          "title": "Good Cop Bad Cop [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547009",
+          "episodeId": 2547009,
+          "season": 1,
+          "episode": 6,
+          "title": "Good Cop Bad Cop [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547010",
+          "episodeId": 2547010,
+          "season": 1,
+          "episode": 7,
+          "title": "Good Cop Bad Cop [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547011",
+          "episodeId": 2547011,
+          "season": 1,
+          "episode": 8,
+          "title": "Good Cop Bad Cop [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

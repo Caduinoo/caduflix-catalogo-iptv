@@ -1,0 +1,43 @@
+{
+  "id": "series_726",
+  "type": "series",
+  "title": "The Red Line: Vidas Cruzadas",
+  "originalTitle": "The Red Line",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/nCWJL4ky03pg5tLclM34gWKHqST.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nnbR4yktSO6ej305rl8zMxeoUFI.jpg",
+  "overview": "Um policial branco mata por engano um médico negro em Chicago. Após esse acontecimento, três famílias conectadas ao caso revelam suas perspectivas sobre o ocorrido.",
+  "rating": 7.1,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 86365,
+  "xtream": {
+    "seriesId": 726
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2372898",
+          "episodeId": 2372898,
+          "season": 1,
+          "episode": 1,
+          "title": "The Red Line Vidas Cruzadas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2372899",
+          "episodeId": 2372899,
+          "season": 1,
+          "episode": 2,
+          "title": "The Red Line Vidas Cruzadas S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

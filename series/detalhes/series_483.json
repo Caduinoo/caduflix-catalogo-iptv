@@ -1,0 +1,58 @@
+{
+  "id": "series_483",
+  "type": "series",
+  "title": "Dinheiro Sujo",
+  "originalTitle": "Dark Money",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/sYCOQbb7bXra6BMgV8HQfNO1YNu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xnDlsAAZdf4OhcYcd6yjww6OVAH.jpg",
+  "overview": "Recém-chegado de Hollywood, o pequeno Isaac revela que foi vítima de abuso de um famoso cineasta. Seus pais ficam divididos entre tornar o caso público ou preservar a criança.",
+  "rating": 5.238,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 90833,
+  "xtream": {
+    "seriesId": 483
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2363505",
+          "episodeId": 2363505,
+          "season": 1,
+          "episode": 1,
+          "title": "Dinheiro Sujo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2363506",
+          "episodeId": 2363506,
+          "season": 1,
+          "episode": 2,
+          "title": "Dinheiro Sujo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2363507",
+          "episodeId": 2363507,
+          "season": 1,
+          "episode": 3,
+          "title": "Dinheiro Sujo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2363508",
+          "episodeId": 2363508,
+          "season": 1,
+          "episode": 4,
+          "title": "Dinheiro Sujo S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "series_3897",
+  "type": "series",
+  "title": "B.O.",
+  "originalTitle": "B.O.",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mWoDkCl7mbaOw8mlxOwydLNOpPP.jpg",
+  "overview": "Depois de assumir a função de delegado em um novo distrito, o tímido Suzano precisa provar seu valor para a equipe.",
+  "rating": 7.7,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 232644,
+  "xtream": {
+    "seriesId": 3897
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2483862",
+          "episodeId": 2483862,
+          "season": 1,
+          "episode": 1,
+          "title": "B.O. (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483863",
+          "episodeId": 2483863,
+          "season": 1,
+          "episode": 2,
+          "title": "B.O. (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483864",
+          "episodeId": 2483864,
+          "season": 1,
+          "episode": 3,
+          "title": "B.O. (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483865",
+          "episodeId": 2483865,
+          "season": 1,
+          "episode": 4,
+          "title": "B.O. (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483866",
+          "episodeId": 2483866,
+          "season": 1,
+          "episode": 5,
+          "title": "B.O. (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483867",
+          "episodeId": 2483867,
+          "season": 1,
+          "episode": 6,
+          "title": "B.O. (2023) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483868",
+          "episodeId": 2483868,
+          "season": 1,
+          "episode": 7,
+          "title": "B.O. (2023) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483869",
+          "episodeId": 2483869,
+          "season": 1,
+          "episode": 8,
+          "title": "B.O. (2023) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

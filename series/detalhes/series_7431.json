@@ -1,0 +1,82 @@
+{
+  "id": "series_7431",
+  "type": "series",
+  "title": "Afterglow",
+  "originalTitle": "Etterglød",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/qTwu6aeJjapbZMDx7V1LNJejddB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bZeF7BBkHKsFG1J11Hb7e29UZJR.jpg",
+  "overview": "Quando Ester descobre que está gravemente doente, ela e seus amigos decidem aproveitar a vida ao máximo, porque ela pode acabar a qualquer momento.",
+  "rating": 6.8,
+  "genres": [
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 211007,
+  "xtream": {
+    "seriesId": 7431
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2565850",
+          "episodeId": 2565850,
+          "season": 1,
+          "episode": 1,
+          "title": "Afterglow S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565851",
+          "episodeId": 2565851,
+          "season": 1,
+          "episode": 2,
+          "title": "Afterglow S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565852",
+          "episodeId": 2565852,
+          "season": 1,
+          "episode": 3,
+          "title": "Afterglow S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565853",
+          "episodeId": 2565853,
+          "season": 1,
+          "episode": 4,
+          "title": "Afterglow S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565854",
+          "episodeId": 2565854,
+          "season": 1,
+          "episode": 5,
+          "title": "Afterglow S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565855",
+          "episodeId": 2565855,
+          "season": 1,
+          "episode": 6,
+          "title": "Afterglow S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565856",
+          "episodeId": 2565856,
+          "season": 1,
+          "episode": 7,
+          "title": "Afterglow S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

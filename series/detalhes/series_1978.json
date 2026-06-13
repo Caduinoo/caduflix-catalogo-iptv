@@ -1,0 +1,66 @@
+{
+  "id": "series_1978",
+  "type": "series",
+  "title": "Os Sustos Ocultos de Frankelda",
+  "originalTitle": "Los sustos ocultos de Frankelda",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/kV09Ni2ua20Z5C3xcpLBL9rFVS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nZeNGxCLzQTDLjMdRrgDYsnzCWv.jpg",
+  "overview": "Frankelda, uma misteriosa escritora fantasma, com a ajuda de seu rabugento livro encantado, conta histórias aterrorizantes, nas quais meninos e meninas têm encontros com monstros que os farão encarar seus maiores medos.",
+  "rating": 8.6,
+  "genres": [
+    "animacao"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 137720,
+  "xtream": {
+    "seriesId": 1978
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2434040",
+          "episodeId": 2434040,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Sustos Ocultos de Frankelda (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434041",
+          "episodeId": 2434041,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Sustos Ocultos de Frankelda (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434042",
+          "episodeId": 2434042,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Sustos Ocultos de Frankelda (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434043",
+          "episodeId": 2434043,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Sustos Ocultos de Frankelda (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434044",
+          "episodeId": 2434044,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Sustos Ocultos de Frankelda (2021) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

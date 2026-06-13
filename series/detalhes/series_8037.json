@@ -1,0 +1,59 @@
+{
+  "id": "series_8037",
+  "type": "series",
+  "title": "Banksters",
+  "originalTitle": "Banksters",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/wQeq62HAOLCjza4M5ztFsDQbPYA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gvINiAkXh2s9TpYm05KmAGga6HW.jpg",
+  "overview": "Quando o jovem Yusuf é preso por uma série de assaltos a bancos, sua irmã tenta devolver o dinheiro e descobrir quem o traiu.",
+  "rating": 6,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 312073,
+  "xtream": {
+    "seriesId": 8037
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575469",
+          "episodeId": 2575469,
+          "season": 1,
+          "episode": 1,
+          "title": "Banksters S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575470",
+          "episodeId": 2575470,
+          "season": 1,
+          "episode": 2,
+          "title": "Banksters S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575471",
+          "episodeId": 2575471,
+          "season": 1,
+          "episode": 3,
+          "title": "Banksters S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575472",
+          "episodeId": 2575472,
+          "season": 1,
+          "episode": 4,
+          "title": "Banksters S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

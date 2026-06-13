@@ -1,0 +1,51 @@
+{
+  "id": "series_2721",
+  "type": "series",
+  "title": "House of Hammer: Segredos de Família",
+  "originalTitle": "House of Hammer",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/nUIhSJ3BxL0d1LhWz4RnRFUKYbf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1jgR2LI3MxmbG5lMpMUCF02sOz.jpg",
+  "overview": "Um escândalo chocante em Hollywood destrói a fachada perfeita da família Hammer. De alegações de estupro contra Armie Hammer a anos de engano nas mãos de seu bisavô, os segredos sombrios da família finalmente vêm à tona.",
+  "rating": 6.7,
+  "genres": [
+    "documentario",
+    "familia"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 207836,
+  "xtream": {
+    "seriesId": 2721
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2454994",
+          "episodeId": 2454994,
+          "season": 1,
+          "episode": 1,
+          "title": "House of Hammer: Segredos de Família (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2454995",
+          "episodeId": 2454995,
+          "season": 1,
+          "episode": 2,
+          "title": "House of Hammer: Segredos de Família (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2454996",
+          "episodeId": 2454996,
+          "season": 1,
+          "episode": 3,
+          "title": "House of Hammer: Segredos de Família (2022) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

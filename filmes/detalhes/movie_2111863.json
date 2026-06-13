@@ -1,0 +1,85 @@
+{
+  "id": "movie_2111863",
+  "type": "movie",
+  "title": "Brincando com Fogo",
+  "originalTitle": "Playing with Fire",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/208tLx5mT93a42ydPvNcI2wHKmN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5ukCAyXdRYmQEZ3CbSD695Y70Zz.jpg",
+  "overview": "Jake Carson é um bombeiro extremamente dedicado e rigoroso, que não aceita que algo ocorra fora das regras impostas pela corporação. Ao resgatarem as crianças Bryan, Zoey e Will, Jake e seus companheiros de trabalho enfrentam um enorme desafio: como não conseguem localizar os pais do trio, precisam eles mesmos cuidar das crianças, mesmo sem ter o menor talento para a função.",
+  "rating": 6.581,
+  "runtime": 96,
+  "genres": [
+    "familia",
+    "infantil",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "John Cena",
+      "character": "Jake",
+      "profile": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+      "name": "Keegan-Michael Key",
+      "character": "Mark",
+      "profile": "https://image.tmdb.org/t/p/w185/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "character": "Rodrigo",
+      "profile": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "name": "Tyler Mane",
+      "character": "Axe",
+      "profile": "https://image.tmdb.org/t/p/w185/3M8oXR5bBsnOJX29SGrQ1vx9L7R.jpg"
+    },
+    {
+      "name": "Brianna Hildebrand",
+      "character": "Brynn",
+      "profile": "https://image.tmdb.org/t/p/w185/8lGwV4rMQReWMlsXhLBYMRTYzTA.jpg"
+    },
+    {
+      "name": "Christian Convery",
+      "character": "Will",
+      "profile": "https://image.tmdb.org/t/p/w185/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg"
+    },
+    {
+      "name": "Finley Rose Slater",
+      "character": "Zoey",
+      "profile": "https://image.tmdb.org/t/p/w185/tFboYsJd77BOaaBopGYYuFQ8mwi.jpg"
+    },
+    {
+      "name": "Judy Greer",
+      "character": "Dr. Amy Hicks",
+      "profile": "https://image.tmdb.org/t/p/w185/pTLjIjh83R424RGxIfq4U0yx947.jpg"
+    },
+    {
+      "name": "Dennis Haysbert",
+      "character": "Commander Richards",
+      "profile": "https://image.tmdb.org/t/p/w185/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+    },
+    {
+      "name": "Daniel Cudmore",
+      "character": "Burly Smoke Jumper #1",
+      "profile": "https://image.tmdb.org/t/p/w185/zX4bU9mIUNQqNqppF3GbvSzkNCo.jpg"
+    },
+    {
+      "name": "Tommy Europe",
+      "character": "Burly Smoke Jumper #2",
+      "profile": "https://image.tmdb.org/t/p/w185/bEbhNmof8kgHBDEGXX9LJTEJS9b.jpg"
+    },
+    {
+      "name": "Chris Webb",
+      "character": "Burly Smoke Jumper #3",
+      "profile": "https://image.tmdb.org/t/p/w185/lEDEd4EGe3hNNOnW5KlR7TPfwqK.jpg"
+    }
+  ],
+  "director": "Andy Fickman",
+  "tmdbId": 554241,
+  "xtream": {
+    "streamId": 2111863,
+    "containerExtension": "mp4"
+  }
+}

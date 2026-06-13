@@ -1,0 +1,51 @@
+{
+  "id": "series_4433",
+  "type": "series",
+  "title": "Se eu fosse Luísa Sonza",
+  "originalTitle": "Se eu fosse Luísa Sonza",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/uQPWq2D9GrsjMONgtdQKtlKAVqb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pAi087u9NtJUPGgGpUljUTQsJDP.jpg",
+  "overview": "Nesta série documental, a cantora pop mais polêmica do Brasil fala sobre a vida amorosa, carreira, controvérsias e a criação de um novo álbum.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 234255,
+  "xtream": {
+    "seriesId": 4433
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2496874",
+          "episodeId": 2496874,
+          "season": 1,
+          "episode": 1,
+          "title": "Se eu fosse Luisa Sonza (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2496875",
+          "episodeId": 2496875,
+          "season": 1,
+          "episode": 2,
+          "title": "Se eu fosse Luisa Sonza (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2496876",
+          "episodeId": 2496876,
+          "season": 1,
+          "episode": 3,
+          "title": "Se eu fosse Luisa Sonza (2023) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

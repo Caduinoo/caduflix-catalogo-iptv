@@ -1,0 +1,48 @@
+{
+  "id": "series_7630",
+  "type": "series",
+  "title": "Cancoes de Halloween do Mickey e da Minnie",
+  "originalTitle": "Cancoes de Halloween do Mickey e da Minnie",
+  "year": null,
+  "poster": "https://image.tmdb.org//t/p/w600_and_h900_bestv2/5S29KvRPWoebERt6qLGnLutwlUp.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "genres": [],
+  "producer": "disney_plus",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7630
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2569050",
+          "episodeId": 2569050,
+          "season": 1,
+          "episode": 1,
+          "title": "Cancoes de Halloween do Mickey e da Minnie S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569051",
+          "episodeId": 2569051,
+          "season": 1,
+          "episode": 2,
+          "title": "Cancoes de Halloween do Mickey e da Minnie S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569052",
+          "episodeId": 2569052,
+          "season": 1,
+          "episode": 3,
+          "title": "Cancoes de Halloween do Mickey e da Minnie S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

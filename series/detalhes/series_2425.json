@@ -1,0 +1,91 @@
+{
+  "id": "series_2425",
+  "type": "series",
+  "title": "The Kids in the Hall",
+  "originalTitle": "The Kids in the Hall",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/cy5WLoE5QvyWAqOpaAytq70Xyvp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/17F9HPRAMQp91oKqa1PnTHcnLtz.jpg",
+  "overview": "Uma nova temporada empolgante traz um novo lote de personagens divertidos e favoritos já amados, com esquetes que dão um soco satírico, misturados com a comédia ousada e destemida da qual os Kids são sinônimos.",
+  "rating": 6.6,
+  "genres": [
+    "comedia",
+    "infantil"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 199918,
+  "xtream": {
+    "seriesId": 2425
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2447752",
+          "episodeId": 2447752,
+          "season": 1,
+          "episode": 1,
+          "title": "The Kids in the Hall (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447753",
+          "episodeId": 2447753,
+          "season": 1,
+          "episode": 2,
+          "title": "The Kids in the Hall (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447754",
+          "episodeId": 2447754,
+          "season": 1,
+          "episode": 3,
+          "title": "The Kids in the Hall (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447755",
+          "episodeId": 2447755,
+          "season": 1,
+          "episode": 4,
+          "title": "The Kids in the Hall (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447756",
+          "episodeId": 2447756,
+          "season": 1,
+          "episode": 5,
+          "title": "The Kids in the Hall (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447757",
+          "episodeId": 2447757,
+          "season": 1,
+          "episode": 6,
+          "title": "The Kids in the Hall (2022) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447758",
+          "episodeId": 2447758,
+          "season": 1,
+          "episode": 7,
+          "title": "The Kids in the Hall (2022) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447759",
+          "episodeId": 2447759,
+          "season": 1,
+          "episode": 8,
+          "title": "The Kids in the Hall (2022) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

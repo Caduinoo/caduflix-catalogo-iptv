@@ -1,0 +1,75 @@
+{
+  "id": "series_5424",
+  "type": "series",
+  "title": "Blackshore",
+  "originalTitle": "Blackshore",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/wK8yhGy6aAbBeqCgv4GHzf5REiy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5gTNAG5DiRSO3XtV6tS96ukqxcm.jpg",
+  "overview": "Uma detetive de polícia retorna à sua cidade natal e se envolve em um caso de pessoa desaparecida, que está ligado ao seu passado traumático e à história sombria da cidade.",
+  "rating": 6.7,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 245547,
+  "xtream": {
+    "seriesId": 5424
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2520326",
+          "episodeId": 2520326,
+          "season": 1,
+          "episode": 1,
+          "title": "Blackshore [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520327",
+          "episodeId": 2520327,
+          "season": 1,
+          "episode": 2,
+          "title": "Blackshore [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520328",
+          "episodeId": 2520328,
+          "season": 1,
+          "episode": 3,
+          "title": "Blackshore [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520329",
+          "episodeId": 2520329,
+          "season": 1,
+          "episode": 4,
+          "title": "Blackshore [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520330",
+          "episodeId": 2520330,
+          "season": 1,
+          "episode": 5,
+          "title": "Blackshore [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520331",
+          "episodeId": 2520331,
+          "season": 1,
+          "episode": 6,
+          "title": "Blackshore [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

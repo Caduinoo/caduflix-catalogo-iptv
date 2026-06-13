@@ -1,0 +1,67 @@
+{
+  "id": "series_7950",
+  "type": "series",
+  "title": "A Vida dos Santos",
+  "originalTitle": "A Vida dos Santos",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/2gwzb1c6cRe8xzm5PwxtKvGmPd5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dJr7YWlRUdYezgcRA6KhBPhUe4B.jpg",
+  "overview": "Mais do que figuras históricas, os santos oferecem um roteiro para a virtude. Conhecer suas biografias é essencial para quem busca luz sobre as incertezas da vida atual. \"A Vida dos Santos\" apresenta relatos de pessoas comuns que, em meio a provações e contextos diversos, escolheram viver com fé e humildade, servindo como exemplos atemporais de superação.",
+  "rating": 9,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 312919,
+  "xtream": {
+    "seriesId": 7950
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2574472",
+          "episodeId": 2574472,
+          "season": 1,
+          "episode": 1,
+          "title": "A Vida dos Santos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574473",
+          "episodeId": 2574473,
+          "season": 1,
+          "episode": 2,
+          "title": "A Vida dos Santos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574474",
+          "episodeId": 2574474,
+          "season": 1,
+          "episode": 3,
+          "title": "A Vida dos Santos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574475",
+          "episodeId": 2574475,
+          "season": 1,
+          "episode": 4,
+          "title": "A Vida dos Santos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574476",
+          "episodeId": 2574476,
+          "season": 1,
+          "episode": 5,
+          "title": "A Vida dos Santos S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

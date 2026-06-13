@@ -1,0 +1,81 @@
+{
+  "id": "series_5974",
+  "type": "series",
+  "title": "The Crime",
+  "originalTitle": "Zbrodnia",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/hI3oXXjSD65zzUUdAQ4yyrQNJi7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u2b7oHmXVLcrlDCnSHo9jVUBbCs.jpg",
+  "overview": "Uma série de crimes macabros abala a vida tranquila dos moradores de uma cidade litorânea paradisíaca.",
+  "rating": 5.9,
+  "genres": [
+    "acao",
+    "aventura",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 73419,
+  "xtream": {
+    "seriesId": 5974
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2535422",
+          "episodeId": 2535422,
+          "season": 1,
+          "episode": 1,
+          "title": "The Crime [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535423",
+          "episodeId": 2535423,
+          "season": 1,
+          "episode": 2,
+          "title": "The Crime [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535424",
+          "episodeId": 2535424,
+          "season": 1,
+          "episode": 3,
+          "title": "The Crime [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2535425",
+          "episodeId": 2535425,
+          "season": 2,
+          "episode": 1,
+          "title": "The Crime [L] S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535426",
+          "episodeId": 2535426,
+          "season": 2,
+          "episode": 2,
+          "title": "The Crime [L] S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535427",
+          "episodeId": 2535427,
+          "season": 2,
+          "episode": 3,
+          "title": "The Crime [L] S02 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

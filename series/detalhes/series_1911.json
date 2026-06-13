@@ -1,0 +1,34 @@
+{
+  "id": "series_1911",
+  "type": "series",
+  "title": "The Music Box",
+  "originalTitle": "The Music Box",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w780/8BBN9BZSBQNF7OKted42k99wD43.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "genres": [
+    "musica"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 47426,
+  "xtream": {
+    "seriesId": 1911
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2431649",
+          "episodeId": 2431649,
+          "season": 1,
+          "episode": 1,
+          "title": "Music Box (2021) S01 E01",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

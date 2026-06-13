@@ -1,0 +1,94 @@
+{
+  "id": "series_6582",
+  "type": "series",
+  "title": "Devil May Cry",
+  "originalTitle": "Devil May Cry",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/75KximV3WhtvlWFneTrf1Pw61cu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+  "overview": "Nesta batalha épica do bem contra o mal, as linhas não estão nada claras. E as esperanças de salvação estão nas mãos de um caçador de demônios diabolicamente bonito.",
+  "rating": 8.259,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 235930,
+  "xtream": {
+    "seriesId": 6582
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2549072",
+          "episodeId": 2549072,
+          "season": 1,
+          "episode": 1,
+          "title": "Devil May Cry S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549073",
+          "episodeId": 2549073,
+          "season": 1,
+          "episode": 2,
+          "title": "Devil May Cry S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549074",
+          "episodeId": 2549074,
+          "season": 1,
+          "episode": 3,
+          "title": "Devil May Cry S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549075",
+          "episodeId": 2549075,
+          "season": 1,
+          "episode": 4,
+          "title": "Devil May Cry S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549076",
+          "episodeId": 2549076,
+          "season": 1,
+          "episode": 5,
+          "title": "Devil May Cry S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549077",
+          "episodeId": 2549077,
+          "season": 1,
+          "episode": 6,
+          "title": "Devil May Cry S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549078",
+          "episodeId": 2549078,
+          "season": 1,
+          "episode": 7,
+          "title": "Devil May Cry S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549079",
+          "episodeId": 2549079,
+          "season": 1,
+          "episode": 8,
+          "title": "Devil May Cry S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

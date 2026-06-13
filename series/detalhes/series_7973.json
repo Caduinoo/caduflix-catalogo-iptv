@@ -1,0 +1,77 @@
+{
+  "id": "series_7973",
+  "type": "series",
+  "title": "Unfamiliar",
+  "originalTitle": "Unfamiliar",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/fX0Kvvo6hj9feqS3JyFpVmscz2Y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qDq3dG4ElRohih5fUGNQRLHuBaC.jpg",
+  "overview": "Quando o passado bate à porta de um casal de ex-espiões, o maior desafio não são as perseguições, os tiroteios e as brigas... é contar a verdade um ao outro.",
+  "rating": 7,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 274776,
+  "xtream": {
+    "seriesId": 7973
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2574785",
+          "episodeId": 2574785,
+          "season": 1,
+          "episode": 1,
+          "title": "Unfamiliar S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574786",
+          "episodeId": 2574786,
+          "season": 1,
+          "episode": 2,
+          "title": "Unfamiliar S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574787",
+          "episodeId": 2574787,
+          "season": 1,
+          "episode": 3,
+          "title": "Unfamiliar S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574788",
+          "episodeId": 2574788,
+          "season": 1,
+          "episode": 4,
+          "title": "Unfamiliar S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574789",
+          "episodeId": 2574789,
+          "season": 1,
+          "episode": 5,
+          "title": "Unfamiliar S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574790",
+          "episodeId": 2574790,
+          "season": 1,
+          "episode": 6,
+          "title": "Unfamiliar S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

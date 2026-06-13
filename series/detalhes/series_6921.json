@@ -1,0 +1,75 @@
+{
+  "id": "series_6921",
+  "type": "series",
+  "title": "Action",
+  "originalTitle": "Action",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/moqf9hZo4aDmyKHxXE7eh4Qgmkj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gkO1Qnwve0TUyegcQ11FbkCN1T8.jpg",
+  "overview": "Série documental cheia de adrenalina que coloca a equipe de dublês da 87North sob o holofote, revelando histórias cativantes de pessoas comuns que foram atraídas para o mundo eletrizante de esportes radicais, artes marciais, motocross e muito mais.",
+  "rating": 9,
+  "genres": [
+    "documentario",
+    "acao"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 252748,
+  "xtream": {
+    "seriesId": 6921
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2556725",
+          "episodeId": 2556725,
+          "season": 1,
+          "episode": 1,
+          "title": "Action S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2556726",
+          "episodeId": 2556726,
+          "season": 1,
+          "episode": 2,
+          "title": "Action S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2556727",
+          "episodeId": 2556727,
+          "season": 1,
+          "episode": 3,
+          "title": "Action S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2556728",
+          "episodeId": 2556728,
+          "season": 1,
+          "episode": 4,
+          "title": "Action S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2556729",
+          "episodeId": 2556729,
+          "season": 1,
+          "episode": 5,
+          "title": "Action S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2556730",
+          "episodeId": 2556730,
+          "season": 1,
+          "episode": 6,
+          "title": "Action S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

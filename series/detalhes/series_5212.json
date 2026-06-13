@@ -1,0 +1,45 @@
+{
+  "id": "series_5212",
+  "type": "series",
+  "title": "Kevin Spacey: A História Não Contada",
+  "originalTitle": "Spacey Unmasked",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/2emo8BnYYx8IBIO3aOxksJgnZMJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gzcCXao5xuDP1aVFjSw3oZgefIV.jpg",
+  "overview": "O programa aborda as acusações de aliciamento, assédio sexual e abuso contra Kevin Spacey, um dos atores mais poderosos e respeitados do mundo.",
+  "rating": 5.3,
+  "genres": [
+    "documentario",
+    "drama",
+    "crime",
+    "historia"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 252727,
+  "xtream": {
+    "seriesId": 5212
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2515102",
+          "episodeId": 2515102,
+          "season": 1,
+          "episode": 1,
+          "title": "Kevin Spacey A Historia Nao Contada S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515103",
+          "episodeId": 2515103,
+          "season": 1,
+          "episode": 2,
+          "title": "Kevin Spacey A Historia Nao Contada S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

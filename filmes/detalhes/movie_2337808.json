@@ -1,0 +1,33 @@
+{
+  "id": "movie_2337808",
+  "type": "movie",
+  "title": "Blue Box",
+  "originalTitle": "Blue Box",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/dMFk6ZhIsoetlSbTdB3nWEqdH06.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/40LVJuMtShjAiEWGWJIh4JPXCZp.jpg",
+  "overview": "",
+  "rating": 8.3,
+  "runtime": 79,
+  "genres": [
+    "documentario"
+  ],
+  "cast": [
+    {
+      "name": "Dror Keren",
+      "character": "Joseph Weitz",
+      "profile": "https://image.tmdb.org/t/p/w185/9iKdVHBHm44peRHL8bdOoHlCWNU.jpg"
+    },
+    {
+      "name": "Michal Weits",
+      "character": "Self",
+      "profile": ""
+    }
+  ],
+  "director": "Michal Weits",
+  "tmdbId": 823379,
+  "xtream": {
+    "streamId": 2337808,
+    "containerExtension": "mp4"
+  }
+}

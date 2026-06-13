@@ -1,0 +1,60 @@
+{
+  "id": "series_5539",
+  "type": "series",
+  "title": "Vidas Bandidas",
+  "originalTitle": "Vidas Bandidas",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/qpbxBtMPmxFe4iVhK5eEtMjPDMc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f1Lpjbq43TIkPG9MfHQWL1FyQYL.jpg",
+  "overview": "Serginho e Raimundo são parceiros no crime que trabalham para a quadrilha de Bruna assaltando turistas no Rio de Janeiro. Um assalto ambicioso que dá muito errado é o ponto de partida de muitos planos de vingança para vidas que não seguem plano nenhum.",
+  "rating": 8.2,
+  "genres": [
+    "crime",
+    "drama",
+    "nacional"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 221392,
+  "xtream": {
+    "seriesId": 5539
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2523749",
+          "episodeId": 2523749,
+          "season": 1,
+          "episode": 1,
+          "title": "Vidas Bandidas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523750",
+          "episodeId": 2523750,
+          "season": 1,
+          "episode": 2,
+          "title": "Vidas Bandidas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523751",
+          "episodeId": 2523751,
+          "season": 1,
+          "episode": 3,
+          "title": "Vidas Bandidas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523752",
+          "episodeId": 2523752,
+          "season": 1,
+          "episode": 4,
+          "title": "Vidas Bandidas S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

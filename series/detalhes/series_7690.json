@@ -1,0 +1,72 @@
+{
+  "id": "series_7690",
+  "type": "series",
+  "title": "London Film Club",
+  "originalTitle": "London Film Club",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w780/5koeXuj7klU2vfVEbLqYUfd0gqK.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Evie e Noa foram feitos um para o outro, mas ainda não sabem. Amigos inseparáveis, compartilham tudo, inclusive o amor por filmes. Mas quando Noa se muda por trabalho, o roteiro da vida deles pode mudar de gênero para sempre.",
+  "rating": 0,
+  "genres": [],
+  "producer": "prime_video",
+  "tmdbId": 229063,
+  "xtream": {
+    "seriesId": 7690
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2570280",
+          "episodeId": 2570280,
+          "season": 1,
+          "episode": 1,
+          "title": "Film Club S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570281",
+          "episodeId": 2570281,
+          "season": 1,
+          "episode": 2,
+          "title": "Film Club S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570282",
+          "episodeId": 2570282,
+          "season": 1,
+          "episode": 3,
+          "title": "Film Club S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570283",
+          "episodeId": 2570283,
+          "season": 1,
+          "episode": 4,
+          "title": "Film Club S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570284",
+          "episodeId": 2570284,
+          "season": 1,
+          "episode": 5,
+          "title": "Film Club S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570285",
+          "episodeId": 2570285,
+          "season": 1,
+          "episode": 6,
+          "title": "Film Club S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

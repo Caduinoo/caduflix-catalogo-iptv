@@ -1,0 +1,75 @@
+{
+  "id": "series_403",
+  "type": "series",
+  "title": "Mytho",
+  "originalTitle": "Mytho",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/qLTYhndA8cFTRcEyNRSrY1GexmE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mT5VGt7jluqBDBcWREBSEVALO8m.jpg",
+  "overview": "Exausta no trabalho e sentindo-se pouco valorizada em casa, uma mulher tenta chamar a atenção do marido fingindo que está doente.",
+  "rating": 6.22,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 87778,
+  "xtream": {
+    "seriesId": 403
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2360859",
+          "episodeId": 2360859,
+          "season": 1,
+          "episode": 1,
+          "title": "Mythomaniac S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360860",
+          "episodeId": 2360860,
+          "season": 1,
+          "episode": 2,
+          "title": "Mythomaniac S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360861",
+          "episodeId": 2360861,
+          "season": 1,
+          "episode": 3,
+          "title": "Mythomaniac S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360862",
+          "episodeId": 2360862,
+          "season": 1,
+          "episode": 4,
+          "title": "Mythomaniac S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360863",
+          "episodeId": 2360863,
+          "season": 1,
+          "episode": 5,
+          "title": "Mythomaniac S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360864",
+          "episodeId": 2360864,
+          "season": 1,
+          "episode": 6,
+          "title": "Mythomaniac S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

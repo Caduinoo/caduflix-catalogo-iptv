@@ -1,0 +1,59 @@
+{
+  "id": "series_4782",
+  "type": "series",
+  "title": "Equal",
+  "originalTitle": "Equal",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/jemRF1PL5uy3foi7OS2Ei3xKlMw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tSZpY8xsHmwTICpcNpPxLpcsY3W.jpg",
+  "overview": "Essa dinâmica série documental com quatro episódios mostra eventos marcantes e heróis esquecidos do movimento LGBTQ+ pelos direitos civis.",
+  "rating": 1.3,
+  "genres": [
+    "documentario",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 110430,
+  "xtream": {
+    "seriesId": 4782
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2506769",
+          "episodeId": 2506769,
+          "season": 1,
+          "episode": 1,
+          "title": "Equal [L] (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2506770",
+          "episodeId": 2506770,
+          "season": 1,
+          "episode": 2,
+          "title": "Equal [L] (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2506771",
+          "episodeId": 2506771,
+          "season": 1,
+          "episode": 3,
+          "title": "Equal [L] (2020) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2506772",
+          "episodeId": 2506772,
+          "season": 1,
+          "episode": 4,
+          "title": "Equal [L] (2020) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

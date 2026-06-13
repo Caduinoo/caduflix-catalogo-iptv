@@ -1,0 +1,59 @@
+{
+  "id": "series_6312",
+  "type": "series",
+  "title": "Procurados - EUA: O.J. Simpson",
+  "originalTitle": "American Manhunt: O.J. Simpson",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/fLboA57w0NtHbFwik0UrEOR2RQc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yYVuH0O5GXmuLw0C06jRz98qVup.jpg",
+  "overview": "O carro branco, as luvas, o julgamento do século. Esta série documental investiga o caso de assassinato chocante que virou fenômeno cultural.",
+  "rating": 7.202,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 282405,
+  "xtream": {
+    "seriesId": 6312
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2543263",
+          "episodeId": 2543263,
+          "season": 1,
+          "episode": 1,
+          "title": "Procurados EUA OJ Simpson S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543264",
+          "episodeId": 2543264,
+          "season": 1,
+          "episode": 2,
+          "title": "Procurados EUA OJ Simpson S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543265",
+          "episodeId": 2543265,
+          "season": 1,
+          "episode": 3,
+          "title": "Procurados EUA OJ Simpson S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543266",
+          "episodeId": 2543266,
+          "season": 1,
+          "episode": 4,
+          "title": "Procurados EUA OJ Simpson S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

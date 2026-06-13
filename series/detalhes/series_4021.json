@@ -1,0 +1,51 @@
+{
+  "id": "series_4021",
+  "type": "series",
+  "title": "Complexo de Salvador",
+  "originalTitle": "Savior Complex",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/55gLVj0GnWFLni4B5XKB11f9zjA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/57LVM4SAMWN2vjZIV2yL0xmhxz4.jpg",
+  "overview": "Documentário da HBO sobre Renee Bach, uma missionária sem formação médica acusada da morte de centenas de crianças tratadas em sua clínica em Uganda.",
+  "rating": 6.5,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 233600,
+  "xtream": {
+    "seriesId": 4021
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2486293",
+          "episodeId": 2486293,
+          "season": 1,
+          "episode": 1,
+          "title": "Complexo do Salvador [L] (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2486294",
+          "episodeId": 2486294,
+          "season": 1,
+          "episode": 2,
+          "title": "Complexo do Salvador [L] (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2486295",
+          "episodeId": 2486295,
+          "season": 1,
+          "episode": 3,
+          "title": "Complexo do Salvador [L] (2023) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

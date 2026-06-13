@@ -1,0 +1,75 @@
+{
+  "id": "series_5151",
+  "type": "series",
+  "title": "Areia Movediça",
+  "originalTitle": "Störst av allt",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/qEQe5rV6XNRytj24aTa8Z34qaWz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hommfvABPU02k99lihPyxjDjBNK.jpg",
+  "overview": "Após a tragédia numa escola abalar um rico subúrbio de Estocolmo, uma garota aparentemente normal vai a julgamento por assassinato.",
+  "rating": 7.1,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 86621,
+  "xtream": {
+    "seriesId": 5151
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2513903",
+          "episodeId": 2513903,
+          "season": 1,
+          "episode": 1,
+          "title": "Areia Movedica S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513904",
+          "episodeId": 2513904,
+          "season": 1,
+          "episode": 2,
+          "title": "Areia Movedica S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513905",
+          "episodeId": 2513905,
+          "season": 1,
+          "episode": 3,
+          "title": "Areia Movedica S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513906",
+          "episodeId": 2513906,
+          "season": 1,
+          "episode": 4,
+          "title": "Areia Movedica S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513907",
+          "episodeId": 2513907,
+          "season": 1,
+          "episode": 5,
+          "title": "Areia Movedica S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513908",
+          "episodeId": 2513908,
+          "season": 1,
+          "episode": 6,
+          "title": "Areia Movedica S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

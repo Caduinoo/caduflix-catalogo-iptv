@@ -1,0 +1,48 @@
+{
+  "id": "movie_2310702",
+  "type": "movie",
+  "title": "Daddio",
+  "originalTitle": "Daddio",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/hW7RXODeUDUJgP9a29qDQ7B63jE.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6.5,
+  "runtime": 18,
+  "genres": [
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Michael McKean",
+      "character": "Paul",
+      "profile": "https://image.tmdb.org/t/p/w185/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg"
+    },
+    {
+      "name": "Casey Wilson",
+      "character": "Abby",
+      "profile": "https://image.tmdb.org/t/p/w185/byeNihBQQUSWtEUpQMFnnQ0aEOV.jpg"
+    },
+    {
+      "name": "June Diane Raphael",
+      "character": "Lilly",
+      "profile": "https://image.tmdb.org/t/p/w185/lAwKmADejWaxNCwraNJO6tbfItb.jpg"
+    },
+    {
+      "name": "Adam Pally",
+      "character": "Andrew",
+      "profile": "https://image.tmdb.org/t/p/w185/yY13PEaVbPoXT5MkitVxTfdAZnU.jpg"
+    },
+    {
+      "name": "Blair Beeken",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/mImTvRyGtJE6mGbtrrzXq2tIXgZ.jpg"
+    }
+  ],
+  "director": "Casey Wilson",
+  "tmdbId": 624815,
+  "xtream": {
+    "streamId": 2310702,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "series_4252",
+  "type": "series",
+  "title": "JFK: O Dia em que o Mundo Parou",
+  "originalTitle": "JFK: One Day in America",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/wydZ0nx2ExjT4jpbJZCx57LKHhH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dc5ADwN2cz0JZph0KFto60JzPNZ.jpg",
+  "overview": "No dia 22 de Novembro de 1963, o presidente dos Estados Unidos da América, John F. Kennedy, foi assassinado. No 60º aniversário da data, esta série nos leva àquele dia quase em tempo real. Em três episódios, veremos o assassinato presidencial, a enorme caçada humana, o assassinato de um policial e a morte do assassino. A série oferece de uma maneira totalmente nova perspectivas sobre os múltiplos ângulos do dia, esclarecendo pontos e atraindo a audiência em todo o mundo.",
+  "rating": 7.2,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 230228,
+  "xtream": {
+    "seriesId": 4252
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2492342",
+          "episodeId": 2492342,
+          "season": 1,
+          "episode": 1,
+          "title": "JFK One Day In America (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2492343",
+          "episodeId": 2492343,
+          "season": 1,
+          "episode": 2,
+          "title": "JFK One Day In America (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2492344",
+          "episodeId": 2492344,
+          "season": 1,
+          "episode": 3,
+          "title": "JFK One Day In America (2023) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

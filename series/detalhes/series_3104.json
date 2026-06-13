@@ -1,0 +1,60 @@
+{
+  "id": "series_3104",
+  "type": "series",
+  "title": "Histórias Quase Verdadeiras",
+  "originalTitle": "Histórias Quase Verdadeiras",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/sr0yYbldpFPWrjKWQz6bhbUv8Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9mYIlkioHU3is4jOebFBjOtmlX5.jpg",
+  "overview": "Quatro pequenas esquetes cujo tema central é a mentira, suas motivações e consequências. As histórias são baseadas nos causos contados por Ariano Suassuna em suas aulas mestras.",
+  "rating": 3.5,
+  "genres": [
+    "comedia",
+    "drama",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 217082,
+  "xtream": {
+    "seriesId": 3104
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2464200",
+          "episodeId": 2464200,
+          "season": 1,
+          "episode": 1,
+          "title": "Histórias Quase Verdadeiras (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2464201",
+          "episodeId": 2464201,
+          "season": 1,
+          "episode": 2,
+          "title": "Histórias Quase Verdadeiras (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2464202",
+          "episodeId": 2464202,
+          "season": 1,
+          "episode": 3,
+          "title": "Histórias Quase Verdadeiras (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2464203",
+          "episodeId": 2464203,
+          "season": 1,
+          "episode": 4,
+          "title": "Histórias Quase Verdadeiras (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

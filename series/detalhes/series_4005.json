@@ -1,0 +1,58 @@
+{
+  "id": "series_4005",
+  "type": "series",
+  "title": "The Virtues",
+  "originalTitle": "The Virtues",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/xj6eGPbkGGoGW8vSTZdSF2svBZt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q9QM21F9FBKWyN0wt7h51ETJp1I.jpg",
+  "overview": "",
+  "rating": 7.828,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 87932,
+  "xtream": {
+    "seriesId": 4005
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2486007",
+          "episodeId": 2486007,
+          "season": 1,
+          "episode": 1,
+          "title": "The Virtues [L] (2019) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2486008",
+          "episodeId": 2486008,
+          "season": 1,
+          "episode": 2,
+          "title": "The Virtues [L] (2019) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2486009",
+          "episodeId": 2486009,
+          "season": 1,
+          "episode": 3,
+          "title": "The Virtues [L] (2019) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2486010",
+          "episodeId": 2486010,
+          "season": 1,
+          "episode": 4,
+          "title": "The Virtues [L] (2019) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

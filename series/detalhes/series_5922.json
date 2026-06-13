@@ -1,0 +1,51 @@
+{
+  "id": "series_5922",
+  "type": "series",
+  "title": "Sweetpea",
+  "originalTitle": "Sweetpea",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+  "overview": "Sweetpea é a história bombástica de Rhiannon Lewis, uma moça tímida e invisível que é levada ao extremo quando seu pai morre e sua agressora dos tempos de escola volta para a cidade.",
+  "rating": 7.489,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 218347,
+  "xtream": {
+    "seriesId": 5922
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2534177",
+          "episodeId": 2534177,
+          "season": 1,
+          "episode": 1,
+          "title": "Sweetpea [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2534178",
+          "episodeId": 2534178,
+          "season": 1,
+          "episode": 2,
+          "title": "Sweetpea [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2534179",
+          "episodeId": 2534179,
+          "season": 1,
+          "episode": 3,
+          "title": "Sweetpea [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

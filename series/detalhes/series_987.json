@@ -1,0 +1,91 @@
+{
+  "id": "series_987",
+  "type": "series",
+  "title": "Cold Courage",
+  "originalTitle": "Cold Courage",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/4F54hdqsbPhPCO4x3sNwLgOa5fx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eo2dMSK7r5dJJ4eHAtj7tl8SICJ.jpg",
+  "overview": "Duas jovens finlandesas que moram em Londres participam de um grupo clandestino dedicado a levar justiça a quem está fora da lei.",
+  "rating": 5.7,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 102970,
+  "xtream": {
+    "seriesId": 987
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2390930",
+          "episodeId": 2390930,
+          "season": 1,
+          "episode": 1,
+          "title": "Cold Courage [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390931",
+          "episodeId": 2390931,
+          "season": 1,
+          "episode": 2,
+          "title": "Cold Courage [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390932",
+          "episodeId": 2390932,
+          "season": 1,
+          "episode": 3,
+          "title": "Cold Courage [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390933",
+          "episodeId": 2390933,
+          "season": 1,
+          "episode": 4,
+          "title": "Cold Courage [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390934",
+          "episodeId": 2390934,
+          "season": 1,
+          "episode": 5,
+          "title": "Cold Courage [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390935",
+          "episodeId": 2390935,
+          "season": 1,
+          "episode": 6,
+          "title": "Cold Courage [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390936",
+          "episodeId": 2390936,
+          "season": 1,
+          "episode": 7,
+          "title": "Cold Courage [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390937",
+          "episodeId": 2390937,
+          "season": 1,
+          "episode": 8,
+          "title": "Cold Courage [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "movie_2146400",
+  "type": "movie",
+  "title": "Perdas e Ganhos",
+  "originalTitle": "The Farm",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/3aeazBA3eNR9fAD0N0dwn4R9etO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wmsLctglsHWhMGRhg8WELMhvpSr.jpg",
+  "overview": "Tom e Catherine são um casal que experimenta as decepções e alegrias da vida após herdarem uma fazenda com sérios problemas financeiros.",
+  "rating": 10,
+  "runtime": 89,
+  "genres": [
+    "drama",
+    "familia",
+    "infantil"
+  ],
+  "cast": [
+    {
+      "name": "Austin Chunn",
+      "character": "Tom",
+      "profile": "https://image.tmdb.org/t/p/w185/4IflAmHUA5OD2d4B6Bo5OQpNDpK.jpg"
+    },
+    {
+      "name": "Alicia Kelley",
+      "character": "Catherine",
+      "profile": "https://image.tmdb.org/t/p/w185/zR6AEQW9thXriqrtnqGKzVviOpD.jpg"
+    }
+  ],
+  "director": "Ryan Pace",
+  "tmdbId": 1131499,
+  "xtream": {
+    "streamId": 2146400,
+    "containerExtension": "mp4"
+  }
+}

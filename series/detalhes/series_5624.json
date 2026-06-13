@@ -1,0 +1,131 @@
+{
+  "id": "series_5624",
+  "type": "series",
+  "title": "Vienna Blood",
+  "originalTitle": "Vienna Blood",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/wHIkllx1obFjEeI7z558QLoRhiU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2zg0XXoZFqF4XmxwNJHR3lbvctY.jpg",
+  "overview": "Max Liebermann, aluno de Sigmund Freud, ajuda o detetive Rheinhardt na investigação de uma série de assassinatos perturbadores em torno dos grandes cafés e óperas da Viena de 1900.",
+  "rating": 7.3,
+  "genres": [
+    "crime",
+    "drama",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 94000,
+  "xtream": {
+    "seriesId": 5624
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2525791",
+          "episodeId": 2525791,
+          "season": 1,
+          "episode": 1,
+          "title": "Vienna Blood [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525792",
+          "episodeId": 2525792,
+          "season": 1,
+          "episode": 2,
+          "title": "Vienna Blood [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525793",
+          "episodeId": 2525793,
+          "season": 1,
+          "episode": 3,
+          "title": "Vienna Blood [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2525794",
+          "episodeId": 2525794,
+          "season": 2,
+          "episode": 1,
+          "title": "Vienna Blood [L] S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525795",
+          "episodeId": 2525795,
+          "season": 2,
+          "episode": 2,
+          "title": "Vienna Blood [L] S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525796",
+          "episodeId": 2525796,
+          "season": 2,
+          "episode": 3,
+          "title": "Vienna Blood [L] S02 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "episodes": [
+        {
+          "id": "episode_2525797",
+          "episodeId": 2525797,
+          "season": 3,
+          "episode": 1,
+          "title": "Vienna Blood [L] S03 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525798",
+          "episodeId": 2525798,
+          "season": 3,
+          "episode": 2,
+          "title": "Vienna Blood [L] S03 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525799",
+          "episodeId": 2525799,
+          "season": 3,
+          "episode": 3,
+          "title": "Vienna Blood [L] S03 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "episodes": [
+        {
+          "id": "episode_2525800",
+          "episodeId": 2525800,
+          "season": 4,
+          "episode": 1,
+          "title": "Vienna Blood [L] S04 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525801",
+          "episodeId": 2525801,
+          "season": 4,
+          "episode": 2,
+          "title": "Vienna Blood [L] S04 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

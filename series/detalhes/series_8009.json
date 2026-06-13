@@ -1,0 +1,51 @@
+{
+  "id": "series_8009",
+  "type": "series",
+  "title": "Assassinos Indianos: O Monstro de Bangalore",
+  "originalTitle": "Beast of Bangalore: Indian Predator",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/n6uk2wUZl9DCLQ2NQXQcm6xjRBb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/b7e2wnA1Fe8omvEyVhpT3BuYUAs.jpg",
+  "overview": "Uma força policial despreparada enfrenta uma caçada pelo cruel assassino de mulheres que aterroriza todo o estado.",
+  "rating": 5.667,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 215871,
+  "xtream": {
+    "seriesId": 8009
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575183",
+          "episodeId": 2575183,
+          "season": 1,
+          "episode": 1,
+          "title": "Assassinos Indianos O Monstro de Bangalore S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575184",
+          "episodeId": 2575184,
+          "season": 1,
+          "episode": 2,
+          "title": "Assassinos Indianos O Monstro de Bangalore S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575185",
+          "episodeId": 2575185,
+          "season": 1,
+          "episode": 3,
+          "title": "Assassinos Indianos O Monstro de Bangalore S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

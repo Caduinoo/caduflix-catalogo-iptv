@@ -1,0 +1,51 @@
+{
+  "id": "series_4679",
+  "type": "series",
+  "title": "Um Pesadelo Americano",
+  "originalTitle": "American Nightmare",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/mjQjE6Zyz219uNQxKEMAJa85uBF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tlD0m7SiX6Cep5gQEr9JnFyvG38.jpg",
+  "overview": "Nesta série sobre um crime real de 2015, um casal é acusado de forjar uma invasão à própria residência e um sequestro após o reaparecimento da vítima.",
+  "rating": 7.445,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 242845,
+  "xtream": {
+    "seriesId": 4679
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2503953",
+          "episodeId": 2503953,
+          "season": 1,
+          "episode": 1,
+          "title": "Um Pesadelo Americano (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2503954",
+          "episodeId": 2503954,
+          "season": 1,
+          "episode": 2,
+          "title": "Um Pesadelo Americano (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2503955",
+          "episodeId": 2503955,
+          "season": 1,
+          "episode": 3,
+          "title": "Um Pesadelo Americano (2024) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

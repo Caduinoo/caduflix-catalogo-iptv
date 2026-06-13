@@ -1,0 +1,75 @@
+{
+  "id": "series_4370",
+  "type": "series",
+  "title": "Olóládé",
+  "originalTitle": "Olóládé",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/nITszxZ1CDwu2Ml1xFvnDF81sbV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6yuWs5ZM7aVMLh9bstcwPcPBKM3.jpg",
+  "overview": "Dois amigos ficam ricos de repente, de um jeito inesperado. Parece bom demais para ser verdade, até que eles se envolvem em um esquema de lavagem de dinheiro.",
+  "rating": 8,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 240196,
+  "xtream": {
+    "seriesId": 4370
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2495570",
+          "episodeId": 2495570,
+          "season": 1,
+          "episode": 1,
+          "title": "Ololade (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2495571",
+          "episodeId": 2495571,
+          "season": 1,
+          "episode": 2,
+          "title": "Ololade (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2495572",
+          "episodeId": 2495572,
+          "season": 1,
+          "episode": 3,
+          "title": "Ololade (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2495573",
+          "episodeId": 2495573,
+          "season": 1,
+          "episode": 4,
+          "title": "Ololade (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2495574",
+          "episodeId": 2495574,
+          "season": 1,
+          "episode": 5,
+          "title": "Ololade (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2495575",
+          "episodeId": 2495575,
+          "season": 1,
+          "episode": 6,
+          "title": "Ololade (2023) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

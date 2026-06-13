@@ -1,0 +1,33 @@
+{
+  "id": "movie_2311555",
+  "type": "movie",
+  "title": "A Rainha do Xadrez",
+  "originalTitle": "Queen of Chess",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/fAckgewEBm7lPkYDaqmBvxlcWf2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y5haKgSz1hCDatwIOMuqZ1CFKPW.jpg",
+  "overview": "Fenômeno do xadrez, Judit Polgár enfrenta dúvidas, preconceitos e o invencível Garry Kasparov para ocupar seu lugar entre os melhores da história.",
+  "rating": 7.517,
+  "runtime": 93,
+  "genres": [
+    "documentario"
+  ],
+  "cast": [
+    {
+      "name": "Judit Polgar",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/zJeC4Y3RGRmEgdB1i5mWBHWegab.jpg"
+    },
+    {
+      "name": "Garry Kasparov",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/vOE9BQVsU6kYQjK2zRdexDNLZBH.jpg"
+    }
+  ],
+  "director": "Rory Kennedy",
+  "tmdbId": 1596291,
+  "xtream": {
+    "streamId": 2311555,
+    "containerExtension": "mp4"
+  }
+}

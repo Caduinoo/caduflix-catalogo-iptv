@@ -1,0 +1,52 @@
+{
+  "id": "series_7090",
+  "type": "series",
+  "title": "O Assassinato do Ator Rafael Miguel",
+  "originalTitle": "O Assassinato do Ator Rafael Miguel",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/8lyJInrHk5a6Dg2z55SK3512tHN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v5aGgmKr4wdMYuyS7ILshTaYwFT.jpg",
+  "overview": "Docussérie sobre o crime brutal que chocou o Brasil em 2019: o assassinato do ator Rafael Miguel, de 22 anos, pelas mãos de seu sogro Paulo Cupertino, um ato motivado por ciúmes e obsessão, e a perseguição implacável que o caso desencadeou.",
+  "rating": 9.4,
+  "genres": [
+    "documentario",
+    "crime",
+    "nacional"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 293647,
+  "xtream": {
+    "seriesId": 7090
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2559866",
+          "episodeId": 2559866,
+          "season": 1,
+          "episode": 1,
+          "title": "O Assassinato do Ator Rafael Miguel S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559867",
+          "episodeId": 2559867,
+          "season": 1,
+          "episode": 2,
+          "title": "O Assassinato do Ator Rafael Miguel S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559868",
+          "episodeId": 2559868,
+          "season": 1,
+          "episode": 3,
+          "title": "O Assassinato do Ator Rafael Miguel S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

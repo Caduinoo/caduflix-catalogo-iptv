@@ -1,0 +1,55 @@
+{
+  "id": "movie_2084885",
+  "type": "movie",
+  "title": "Slender Man",
+  "originalTitle": "Slender Man",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/upnq3REL8fPcn0gzRcgQiNxdzqe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lDDX6wRh2Q0WBlzfXfVAznbtX0a.jpg",
+  "overview": "",
+  "rating": 2,
+  "runtime": 10,
+  "genres": [
+    "terror",
+    "misterio",
+    "suspense"
+  ],
+  "cast": [
+    {
+      "name": "Everett Ray Aponte",
+      "character": "Narrator",
+      "profile": ""
+    },
+    {
+      "name": "David Brückner",
+      "character": "David",
+      "profile": "https://image.tmdb.org/t/p/w185/zA9bTpZHSJsyo8Ms2o6zeRDRUrI.jpg"
+    },
+    {
+      "name": "Aron Elrond Erler",
+      "character": "Slender Man",
+      "profile": ""
+    },
+    {
+      "name": "Sabrina King",
+      "character": "Sabrina",
+      "profile": ""
+    },
+    {
+      "name": "Michael Krug",
+      "character": "Michael",
+      "profile": "https://image.tmdb.org/t/p/w185/9USEKgJJ6t8wcl1qJMy32fl2n93.jpg"
+    },
+    {
+      "name": "Andy Möhler",
+      "character": "Andy",
+      "profile": ""
+    }
+  ],
+  "director": "David Brückner",
+  "tmdbId": 756673,
+  "xtream": {
+    "streamId": 2084885,
+    "containerExtension": "mp4"
+  }
+}

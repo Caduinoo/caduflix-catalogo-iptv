@@ -1,0 +1,58 @@
+{
+  "id": "series_6962",
+  "type": "series",
+  "title": "Mix Tape",
+  "originalTitle": "Mix Tape",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/3M1P5qla8gpaPZQkyZmAI7p08CW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pilSzXl6oXc5OpFsRiBtnIRIK9u.jpg",
+  "overview": "Daniel e Alison se conheceram em Sheffield, em 1989, e se apaixonaram na adolescência, antes que a vida os levasse em direções diferentes. Anos depois, eles se reencontram por meio de memórias musicais compartilhadas.",
+  "rating": 6.778,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 286056,
+  "xtream": {
+    "seriesId": 6962
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2557556",
+          "episodeId": 2557556,
+          "season": 1,
+          "episode": 1,
+          "title": "Mix Tape [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557557",
+          "episodeId": 2557557,
+          "season": 1,
+          "episode": 2,
+          "title": "Mix Tape [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557558",
+          "episodeId": 2557558,
+          "season": 1,
+          "episode": 3,
+          "title": "Mix Tape [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557559",
+          "episodeId": 2557559,
+          "season": 1,
+          "episode": 4,
+          "title": "Mix Tape [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

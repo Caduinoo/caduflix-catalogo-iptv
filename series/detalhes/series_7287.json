@@ -1,0 +1,51 @@
+{
+  "id": "series_7287",
+  "type": "series",
+  "title": "As Maldições",
+  "originalTitle": "Las maldiciones",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/dOtOuKeZmb6BiNgRBAUNXRRPrL2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8QTkUVluzNNmd3YE7hNlV37rwby.jpg",
+  "overview": "No momento mais importante da carreira de um governador, a filha dele desaparece. Agora, ele terá que escolher entre a política ou a segurança da família.",
+  "rating": 5.9,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 261617,
+  "xtream": {
+    "seriesId": 7287
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2563428",
+          "episodeId": 2563428,
+          "season": 1,
+          "episode": 1,
+          "title": "As Maldicoes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2563429",
+          "episodeId": 2563429,
+          "season": 1,
+          "episode": 2,
+          "title": "As Maldicoes S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2563430",
+          "episodeId": 2563430,
+          "season": 1,
+          "episode": 3,
+          "title": "As Maldicoes S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

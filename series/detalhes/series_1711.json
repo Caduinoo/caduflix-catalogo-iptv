@@ -1,0 +1,66 @@
+{
+  "id": "series_1711",
+  "type": "series",
+  "title": "Fernando",
+  "originalTitle": "Fernando",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/qKmHxrhlQPLz9TaLhvlzMVrRtQj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wJSFsPo1b3MRAnqpcwteKF8RJw6.jpg",
+  "overview": "A equipe de \"Fernando\" tem o privilégio de testemunhar a etapa mais extraordinária da carreira do piloto das Astúrias. Em 2019 e no início de 2020, Fernando Alonso almeja disputar as corridas mais lendárias do mundo. O primeiro objetivo é a Tríplice Coroa. Somente um piloto a conseguiu: Graham Hill, em 1972.",
+  "rating": 7.1,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 107543,
+  "xtream": {
+    "seriesId": 1711
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2424796",
+          "episodeId": 2424796,
+          "season": 1,
+          "episode": 1,
+          "title": "Fernando [L] (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2424797",
+          "episodeId": 2424797,
+          "season": 1,
+          "episode": 2,
+          "title": "Fernando [L] (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2424798",
+          "episodeId": 2424798,
+          "season": 1,
+          "episode": 3,
+          "title": "Fernando [L] (2020) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2424799",
+          "episodeId": 2424799,
+          "season": 1,
+          "episode": 4,
+          "title": "Fernando [L] (2020) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2424800",
+          "episodeId": 2424800,
+          "season": 1,
+          "episode": 5,
+          "title": "Fernando [L] (2020) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_8483",
+  "type": "series",
+  "title": "Guerra de Gangues: Motoqueiros Bandidos",
+  "originalTitle": "Brutalt Broderskab: Bandidos",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/1n062QQt035XeM2Pes7RNpJ0ccG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/l0j61RCKcwrAfxnfOLUU4AZk0s8.jpg",
+  "overview": "Esta eletrizante série documental traça a evolução do notório clube de motociclistas dinamarquês, os Bandidos, e o esforço para bani-los permanentemente.",
+  "rating": 10,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 321211,
+  "xtream": {
+    "seriesId": 8483
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2581598",
+          "episodeId": 2581598,
+          "season": 1,
+          "episode": 1,
+          "title": "Gang War Bandidos (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581599",
+          "episodeId": 2581599,
+          "season": 1,
+          "episode": 2,
+          "title": "Gang War Bandidos (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581600",
+          "episodeId": 2581600,
+          "season": 1,
+          "episode": 3,
+          "title": "Gang War Bandidos (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581601",
+          "episodeId": 2581601,
+          "season": 1,
+          "episode": 4,
+          "title": "Gang War Bandidos (2026) [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_479",
+  "type": "series",
+  "title": "The Goop Lab",
+  "originalTitle": "The Goop Lab",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/33F17SSRglzIdBH1zsGA6Rv5QT1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v8BZeC77kUCsmTEI0fNtIwFItpg.jpg",
+  "overview": "Gwyneth Paltrow e a equipe do goop exploram drogas psicodélicas, manipulação de energias, mediunidade e outras terapias alternativas (e polêmicas).",
+  "rating": 2.94,
+  "genres": [
+    "documentario",
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 97390,
+  "xtream": {
+    "seriesId": 479
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2363390",
+          "episodeId": 2363390,
+          "season": 1,
+          "episode": 1,
+          "title": "The Goop Lab S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2363391",
+          "episodeId": 2363391,
+          "season": 1,
+          "episode": 2,
+          "title": "The Goop Lab S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2363392",
+          "episodeId": 2363392,
+          "season": 1,
+          "episode": 3,
+          "title": "The Goop Lab S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2363393",
+          "episodeId": 2363393,
+          "season": 1,
+          "episode": 4,
+          "title": "The Goop Lab S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2363394",
+          "episodeId": 2363394,
+          "season": 1,
+          "episode": 5,
+          "title": "The Goop Lab S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2363395",
+          "episodeId": 2363395,
+          "season": 1,
+          "episode": 6,
+          "title": "The Goop Lab S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

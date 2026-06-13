@@ -1,0 +1,66 @@
+{
+  "id": "series_7948",
+  "type": "series",
+  "title": "Star Search",
+  "originalTitle": "Star Search",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/rchRdbpf4Of7A4rGl4UD4tv1J1O.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/g7UMVHvj0RRiosQNrNvMSkINs5e.jpg",
+  "overview": "A famosa série de competição está de volta, com talentos ainda maiores, apostas mais altas e votação em tempo real nos EUA.",
+  "rating": 8.5,
+  "genres": [
+    "reality"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 306657,
+  "xtream": {
+    "seriesId": 7948
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2574455",
+          "episodeId": 2574455,
+          "season": 1,
+          "episode": 1,
+          "title": "Star Search [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574456",
+          "episodeId": 2574456,
+          "season": 1,
+          "episode": 2,
+          "title": "Star Search [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574457",
+          "episodeId": 2574457,
+          "season": 1,
+          "episode": 3,
+          "title": "Star Search [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574458",
+          "episodeId": 2574458,
+          "season": 1,
+          "episode": 4,
+          "title": "Star Search [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574459",
+          "episodeId": 2574459,
+          "season": 1,
+          "episode": 5,
+          "title": "Star Search [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

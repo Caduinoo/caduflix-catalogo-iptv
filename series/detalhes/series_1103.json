@@ -1,0 +1,50 @@
+{
+  "id": "series_1103",
+  "type": "series",
+  "title": "Japão de Norte a Sul",
+  "originalTitle": "Le Japon, entre terre et ciel",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/mDLrwTKgJ8KWhQNyEJbsDAyJMqg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xwXo9aHDWwYKqviP9a6KKCvShWx.jpg",
+  "overview": "O Japão, a Terra do Sol Nascente, com seus panoramas emoldurados por vulcões e tradições, é uma poderosa potência econômica internacional.",
+  "rating": 7.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 81792,
+  "xtream": {
+    "seriesId": 1103
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2396675",
+          "episodeId": 2396675,
+          "season": 1,
+          "episode": 1,
+          "title": "Japão de Norte a Sul S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396676",
+          "episodeId": 2396676,
+          "season": 1,
+          "episode": 2,
+          "title": "Japão de Norte a Sul S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396677",
+          "episodeId": 2396677,
+          "season": 1,
+          "episode": 3,
+          "title": "Japão de Norte a Sul S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

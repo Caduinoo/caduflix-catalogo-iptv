@@ -1,0 +1,51 @@
+{
+  "id": "series_3334",
+  "type": "series",
+  "title": "Marinheiro de Guerra",
+  "originalTitle": "Krigsseileren",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/mz8zD8adyQ07dMPbXqHWEVmYyUp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sJUpyAZyo2DwbUcontG9Zxoml6Z.jpg",
+  "overview": "Em meio à Segunda Guerra Mundial, dois marinheiros enfrentam situações terríveis em um navio norueguês enquanto lutam para sobreviver.",
+  "rating": 7.72,
+  "genres": [
+    "drama",
+    "guerra"
+  ],
+  "producer": "netflix",
+  "tmdbId": 220538,
+  "xtream": {
+    "seriesId": 3334
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2469629",
+          "episodeId": 2469629,
+          "season": 1,
+          "episode": 1,
+          "title": "Marinheiro de Guerra (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2469630",
+          "episodeId": 2469630,
+          "season": 1,
+          "episode": 2,
+          "title": "Marinheiro de Guerra (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2469631",
+          "episodeId": 2469631,
+          "season": 1,
+          "episode": 3,
+          "title": "Marinheiro de Guerra (2023) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

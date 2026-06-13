@@ -1,0 +1,52 @@
+{
+  "id": "series_8058",
+  "type": "series",
+  "title": "O Mistério da Rota 20",
+  "originalTitle": "Lost Women of Highway 20",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/fLy2FsDrlUXwLhcqAeLuutjdVN4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1zi58eWuN1rHaHKxwGYxZeZcBOn.jpg",
+  "overview": "Quando uma jornalista local descobre um documento judicial selado, ela descobre um rastro de mulheres desaparecidas e assassinadas no deserto de Oregon e um assassino que usou um trecho desolado da estrada para esconder segredos obscuros.",
+  "rating": 8.2,
+  "genres": [
+    "documentario",
+    "crime",
+    "misterio"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 238938,
+  "xtream": {
+    "seriesId": 8058
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575801",
+          "episodeId": 2575801,
+          "season": 1,
+          "episode": 1,
+          "title": "O Misterio da Rota 20 S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575802",
+          "episodeId": 2575802,
+          "season": 1,
+          "episode": 2,
+          "title": "O Misterio da Rota 20 S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575803",
+          "episodeId": 2575803,
+          "season": 1,
+          "episode": 3,
+          "title": "O Misterio da Rota 20 S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

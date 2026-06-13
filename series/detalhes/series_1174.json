@@ -1,0 +1,91 @@
+{
+  "id": "series_1174",
+  "type": "series",
+  "title": "Hache",
+  "originalTitle": "Hache",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/yScOKZTBlug31LF89M3Dccymw5b.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kGGsdnUzbPNQPxiQqzV3tOQkM6U.jpg",
+  "overview": "Barcelona, anos 60. Helena conquista o amor e confiança de um perigoso traficante de heroína e aprende o que é preciso para ascender no cartel.",
+  "rating": 6.4,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 84112,
+  "xtream": {
+    "seriesId": 1174
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2399097",
+          "episodeId": 2399097,
+          "season": 1,
+          "episode": 1,
+          "title": "Hache S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399098",
+          "episodeId": 2399098,
+          "season": 1,
+          "episode": 2,
+          "title": "Hache S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399099",
+          "episodeId": 2399099,
+          "season": 1,
+          "episode": 3,
+          "title": "Hache S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399100",
+          "episodeId": 2399100,
+          "season": 1,
+          "episode": 4,
+          "title": "Hache S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399101",
+          "episodeId": 2399101,
+          "season": 1,
+          "episode": 5,
+          "title": "Hache S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399102",
+          "episodeId": 2399102,
+          "season": 1,
+          "episode": 6,
+          "title": "Hache S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399103",
+          "episodeId": 2399103,
+          "season": 1,
+          "episode": 7,
+          "title": "Hache S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2399104",
+          "episodeId": 2399104,
+          "season": 1,
+          "episode": 8,
+          "title": "Hache S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

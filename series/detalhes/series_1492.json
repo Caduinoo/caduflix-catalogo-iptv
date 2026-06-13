@@ -1,0 +1,83 @@
+{
+  "id": "series_1492",
+  "type": "series",
+  "title": "Solos",
+  "originalTitle": "Solos",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/fcmHjfvk1c32dqwfgEdmoUck4L5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1CCzfY6VL8VmPBd2fuRKi6ldN8u.jpg",
+  "overview": "",
+  "rating": 5.5,
+  "genres": [
+    "reality",
+    "comedia"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 219408,
+  "xtream": {
+    "seriesId": 1492
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2412560",
+          "episodeId": 2412560,
+          "season": 1,
+          "episode": 1,
+          "title": "Solos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412561",
+          "episodeId": 2412561,
+          "season": 1,
+          "episode": 2,
+          "title": "Solos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412562",
+          "episodeId": 2412562,
+          "season": 1,
+          "episode": 3,
+          "title": "Solos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412563",
+          "episodeId": 2412563,
+          "season": 1,
+          "episode": 4,
+          "title": "Solos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412564",
+          "episodeId": 2412564,
+          "season": 1,
+          "episode": 5,
+          "title": "Solos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412565",
+          "episodeId": 2412565,
+          "season": 1,
+          "episode": 6,
+          "title": "Solos S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412566",
+          "episodeId": 2412566,
+          "season": 1,
+          "episode": 7,
+          "title": "Solos S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

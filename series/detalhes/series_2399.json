@@ -1,0 +1,75 @@
+{
+  "id": "series_2399",
+  "type": "series",
+  "title": "Clark",
+  "originalTitle": "Clark",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/2ysvG4hRZpmxoDXfZKr53Izmmtw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/l9c0dZ0HDgoAKhCpusS3WOso4iG.jpg",
+  "overview": "Bill Skarsgård estrela esta série inspirada na vida de Clark Olofsson, o famoso bandido por trás do termo \"Síndrome de Estocolmo\" que se tornou um ícone na Suécia.",
+  "rating": 6.838,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 157008,
+  "xtream": {
+    "seriesId": 2399
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2447471",
+          "episodeId": 2447471,
+          "season": 1,
+          "episode": 1,
+          "title": "Clark (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447472",
+          "episodeId": 2447472,
+          "season": 1,
+          "episode": 2,
+          "title": "Clark (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447473",
+          "episodeId": 2447473,
+          "season": 1,
+          "episode": 3,
+          "title": "Clark (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447474",
+          "episodeId": 2447474,
+          "season": 1,
+          "episode": 4,
+          "title": "Clark (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447475",
+          "episodeId": 2447475,
+          "season": 1,
+          "episode": 5,
+          "title": "Clark (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447476",
+          "episodeId": 2447476,
+          "season": 1,
+          "episode": 6,
+          "title": "Clark (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

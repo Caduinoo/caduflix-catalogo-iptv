@@ -1,0 +1,107 @@
+{
+  "id": "series_2273",
+  "type": "series",
+  "title": "Amsterdam",
+  "originalTitle": "Amsterdam",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/7IOVhYuSeEnhiF4QrzvInJ0w6k1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vO3I7ZpSQIZXVeRfexxbvkqQjZE.jpg",
+  "overview": "Nadia e Martín são um casal há tanto tempo que já esqueceram o que os uniu em primeiro lugar. Ambos querem se separar, mas há um grande problema: quem fica com Amsterdam, o cachorrinho que eles resgataram da rua?",
+  "rating": 4,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 158336,
+  "xtream": {
+    "seriesId": 2273
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2444009",
+          "episodeId": 2444009,
+          "season": 1,
+          "episode": 1,
+          "title": "Amsterdam S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2444010",
+          "episodeId": 2444010,
+          "season": 1,
+          "episode": 2,
+          "title": "Amsterdam S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2444011",
+          "episodeId": 2444011,
+          "season": 1,
+          "episode": 3,
+          "title": "Amsterdam S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2444012",
+          "episodeId": 2444012,
+          "season": 1,
+          "episode": 4,
+          "title": "Amsterdam S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2444013",
+          "episodeId": 2444013,
+          "season": 1,
+          "episode": 5,
+          "title": "Amsterdam S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2444014",
+          "episodeId": 2444014,
+          "season": 1,
+          "episode": 6,
+          "title": "Amsterdam S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2444015",
+          "episodeId": 2444015,
+          "season": 1,
+          "episode": 7,
+          "title": "Amsterdam S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2444016",
+          "episodeId": 2444016,
+          "season": 1,
+          "episode": 8,
+          "title": "Amsterdam S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2444017",
+          "episodeId": 2444017,
+          "season": 1,
+          "episode": 9,
+          "title": "Amsterdam S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2444018",
+          "episodeId": 2444018,
+          "season": 1,
+          "episode": 10,
+          "title": "Amsterdam S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

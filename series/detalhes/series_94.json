@@ -1,0 +1,76 @@
+{
+  "id": "series_94",
+  "type": "series",
+  "title": "O Bosque",
+  "originalTitle": "La Forêt",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/zkBJMXgZiQyHNa5qxwCvurWTKao.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8cV3WrozXarNPavckTcqUBE1ter.jpg",
+  "overview": "Uma garota desaparece na floresta próxima a um vilarejo na França. Durante a busca, a polícia e uma professora descobrem uma teia de segredos inquietantes.",
+  "rating": 6.872,
+  "genres": [
+    "crime",
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 71967,
+  "xtream": {
+    "seriesId": 94
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2346683",
+          "episodeId": 2346683,
+          "season": 1,
+          "episode": 1,
+          "title": "O Bosque S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2346684",
+          "episodeId": 2346684,
+          "season": 1,
+          "episode": 2,
+          "title": "O Bosque S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2346685",
+          "episodeId": 2346685,
+          "season": 1,
+          "episode": 3,
+          "title": "O Bosque S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2346686",
+          "episodeId": 2346686,
+          "season": 1,
+          "episode": 4,
+          "title": "O Bosque S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2346687",
+          "episodeId": 2346687,
+          "season": 1,
+          "episode": 5,
+          "title": "O Bosque S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2346688",
+          "episodeId": 2346688,
+          "season": 1,
+          "episode": 6,
+          "title": "O Bosque S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

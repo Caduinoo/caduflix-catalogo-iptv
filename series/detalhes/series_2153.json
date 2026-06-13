@@ -1,0 +1,76 @@
+{
+  "id": "series_2153",
+  "type": "series",
+  "title": "Murderville",
+  "originalTitle": "Murderville",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/q55FVqMOG5C091tGENGixgRggcx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wZ6r2aTwQeezt3QtKYO6czFEEWv.jpg",
+  "overview": "O excêntrico detetive Terry Seattle e convidados famosos investigam vários assassinatos nesta comédia de improviso sobre crimes. Eles não têm noção do que vai acontecer!",
+  "rating": 6.37,
+  "genres": [
+    "comedia",
+    "crime",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 155594,
+  "xtream": {
+    "seriesId": 2153
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2440359",
+          "episodeId": 2440359,
+          "season": 1,
+          "episode": 1,
+          "title": "Murderville (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440360",
+          "episodeId": 2440360,
+          "season": 1,
+          "episode": 2,
+          "title": "Murderville (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440361",
+          "episodeId": 2440361,
+          "season": 1,
+          "episode": 3,
+          "title": "Murderville (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440362",
+          "episodeId": 2440362,
+          "season": 1,
+          "episode": 4,
+          "title": "Murderville (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440363",
+          "episodeId": 2440363,
+          "season": 1,
+          "episode": 5,
+          "title": "Murderville (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440364",
+          "episodeId": 2440364,
+          "season": 1,
+          "episode": 6,
+          "title": "Murderville (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

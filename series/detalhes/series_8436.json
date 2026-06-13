@@ -1,0 +1,51 @@
+{
+  "id": "series_8436",
+  "type": "series",
+  "title": "Rancho Dutton",
+  "originalTitle": "Dutton Ranch",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/aJVroxZZKReiSlASpODQ23qrdGa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+  "overview": "Rip Wheeler e Beth Dutton apostam tudo em uma nova vida no sul do Texas, mas a promessa de construir um futuro longe dos fantasmas de Yellowstone rapidamente se choca com novas e brutais realidades e com um rancho rival que não medirá esforços para proteger seu império.",
+  "rating": 9.333,
+  "genres": [
+    "faroeste",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 299167,
+  "xtream": {
+    "seriesId": 8436
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2581122",
+          "episodeId": 2581122,
+          "season": 1,
+          "episode": 1,
+          "title": "Rancho Dutton (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581123",
+          "episodeId": 2581123,
+          "season": 1,
+          "episode": 2,
+          "title": "Rancho Dutton (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581124",
+          "episodeId": 2581124,
+          "season": 1,
+          "episode": 3,
+          "title": "Rancho Dutton (2026) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

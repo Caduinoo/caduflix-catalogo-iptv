@@ -1,0 +1,58 @@
+{
+  "id": "series_5066",
+  "type": "series",
+  "title": "Planeta Vivo",
+  "originalTitle": "Our Living World",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/1xUhIpdJOna0vGmUohTC9hnWaRj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9PIHPiRpbzypAogGzS3iAfIEVOr.jpg",
+  "overview": "Esta série incrível sobre a natureza analisa a inteligência, a criatividade e a interconexão da vida no nosso planeta. Com narração de Cate Blanchett na versão em inglês.",
+  "rating": 8.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213612,
+  "xtream": {
+    "seriesId": 5066
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2512316",
+          "episodeId": 2512316,
+          "season": 1,
+          "episode": 1,
+          "title": "Planeta Vivo (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2512317",
+          "episodeId": 2512317,
+          "season": 1,
+          "episode": 2,
+          "title": "Planeta Vivo (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2512318",
+          "episodeId": 2512318,
+          "season": 1,
+          "episode": 3,
+          "title": "Planeta Vivo (2024) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2512319",
+          "episodeId": 2512319,
+          "season": 1,
+          "episode": 4,
+          "title": "Planeta Vivo (2024) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

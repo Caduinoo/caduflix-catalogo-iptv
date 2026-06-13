@@ -1,0 +1,69 @@
+{
+  "id": "series_5889",
+  "type": "series",
+  "title": "Banco Central sob Ataque",
+  "originalTitle": "Asalto al Banco Central",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/w9ZuACmkXZUUNGQO2rr07fzEXHX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bodPktpIZRsMbM2FBhdHBQqedZC.jpg",
+  "overview": "Espanha, 1981: homens armados assaltam um banco, fazendo centenas de reféns. Uma jornalista tenta descobrir a verdadeira motivação do assalto, indo contra as autoridades.",
+  "rating": 6.7,
+  "genres": [
+    "crime",
+    "drama",
+    "acao",
+    "aventura"
+  ],
+  "producer": "netflix",
+  "tmdbId": 236449,
+  "xtream": {
+    "seriesId": 5889
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2533613",
+          "episodeId": 2533613,
+          "season": 1,
+          "episode": 1,
+          "title": "Banco Central sob Ataque S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533614",
+          "episodeId": 2533614,
+          "season": 1,
+          "episode": 2,
+          "title": "Banco Central sob Ataque S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533615",
+          "episodeId": 2533615,
+          "season": 1,
+          "episode": 3,
+          "title": "Banco Central sob Ataque S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533616",
+          "episodeId": 2533616,
+          "season": 1,
+          "episode": 4,
+          "title": "Banco Central sob Ataque S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533617",
+          "episodeId": 2533617,
+          "season": 1,
+          "episode": 5,
+          "title": "Banco Central sob Ataque S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

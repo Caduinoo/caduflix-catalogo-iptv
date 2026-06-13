@@ -1,0 +1,35 @@
+{
+  "id": "movie_2175240",
+  "type": "movie",
+  "title": "Death Valley",
+  "originalTitle": "Death Valley",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/tEh4s6cJxV8972BLvmmTrJTVeQy.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 11,
+  "genres": [
+    "ficcao",
+    "fantasia",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Norma Kuhling",
+      "character": "Zadie",
+      "profile": "https://image.tmdb.org/t/p/w185/iYDlDCZO1D2MeZm5RPLBPyrPJVO.jpg"
+    },
+    {
+      "name": "Tallie Medel",
+      "character": "Tallie",
+      "profile": "https://image.tmdb.org/t/p/w185/8IiG5GcOfYr9tz2uC9DyFTgm8uZ.jpg"
+    }
+  ],
+  "director": "Grace Sloan",
+  "tmdbId": 857077,
+  "xtream": {
+    "streamId": 2175240,
+    "containerExtension": "mp4"
+  }
+}

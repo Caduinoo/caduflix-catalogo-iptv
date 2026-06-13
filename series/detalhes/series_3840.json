@@ -1,0 +1,125 @@
+{
+  "id": "series_3840",
+  "type": "series",
+  "title": "A Torre",
+  "originalTitle": "The Tower",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/wyXmoUdvkNNoIttws6uzPpg8lAr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pFp7O5yDav4xWw8FXzO6uigOGOt.jpg",
+  "overview": "Um policial veterano e uma adolescente caem para a morte de um prédio no sudeste de Londres, deixando um menino de cinco anos e uma policial novata Lizzie Griffiths no telhado, apenas para eles desaparecerem. A detetive sargento Sarah Collins é convocada para investigar, trabalhando para encontrar Lizzie antes que ela sofra um acidente grave, mas também para descobrir a verdade por trás das terríveis mortes no bloco de torres.",
+  "rating": 6.8,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 138181,
+  "xtream": {
+    "seriesId": 3840
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2482604",
+          "episodeId": 2482604,
+          "season": 1,
+          "episode": 1,
+          "title": "A Torre [L] (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482605",
+          "episodeId": 2482605,
+          "season": 1,
+          "episode": 2,
+          "title": "A Torre [L] (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482606",
+          "episodeId": 2482606,
+          "season": 1,
+          "episode": 3,
+          "title": "A Torre [L] (2021) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2482607",
+          "episodeId": 2482607,
+          "season": 2,
+          "episode": 1,
+          "title": "A Torre [L] (2021) S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482608",
+          "episodeId": 2482608,
+          "season": 2,
+          "episode": 2,
+          "title": "A Torre [L] (2021) S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482609",
+          "episodeId": 2482609,
+          "season": 2,
+          "episode": 3,
+          "title": "A Torre [L] (2021) S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482610",
+          "episodeId": 2482610,
+          "season": 2,
+          "episode": 4,
+          "title": "A Torre [L] (2021) S02 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "episodes": [
+        {
+          "id": "episode_2482611",
+          "episodeId": 2482611,
+          "season": 3,
+          "episode": 1,
+          "title": "A Torre [L] S03 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482612",
+          "episodeId": 2482612,
+          "season": 3,
+          "episode": 2,
+          "title": "A Torre [L] S03 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482613",
+          "episodeId": 2482613,
+          "season": 3,
+          "episode": 3,
+          "title": "A Torre [L] S03 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2482614",
+          "episodeId": 2482614,
+          "season": 3,
+          "episode": 4,
+          "title": "A Torre [L] S03 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

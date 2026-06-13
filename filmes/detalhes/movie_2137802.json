@@ -1,0 +1,56 @@
+{
+  "id": "movie_2137802",
+  "type": "movie",
+  "title": "Maldição da Floresta",
+  "originalTitle": "In the Earth",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/xbid31YaAyhekE9rpf3IiNONzYi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fjRlDPqo2qqMBoUItMtTDZe9kvZ.jpg",
+  "overview": "Enquanto o mundo busca pela cura de um desastroso vírus, um cientista e uma escoteira se aventuram pela floresta, mas sua viagem toma rumos cada vez mais aterrorizantes à medida que a noite cai e o bosque parece ganhar vida em volta deles.",
+  "rating": 5.604,
+  "runtime": 108,
+  "genres": [
+    "terror",
+    "ficcao",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Joel Fry",
+      "character": "Dr. Martin Lowery",
+      "profile": "https://image.tmdb.org/t/p/w185/4nEKEWJpaTHncCTv6zeP98V0qGI.jpg"
+    },
+    {
+      "name": "Ellora Torchia",
+      "character": "Alma",
+      "profile": "https://image.tmdb.org/t/p/w185/xGeOoLNne2U3rViaL8adlT7Hhpl.jpg"
+    },
+    {
+      "name": "Hayley Squires",
+      "character": "Dr. Olivia Wendle",
+      "profile": "https://image.tmdb.org/t/p/w185/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
+    },
+    {
+      "name": "Reece Shearsmith",
+      "character": "Zach Whitehead",
+      "profile": "https://image.tmdb.org/t/p/w185/4RJLh3e4Ha4K2ET8ruPcoaL2gqt.jpg"
+    },
+    {
+      "name": "John Hollingworth",
+      "character": "Lord James Karel",
+      "profile": "https://image.tmdb.org/t/p/w185/7aT6wgl1xYfBHtW2q3oADUuAwMM.jpg"
+    },
+    {
+      "name": "Mark Monero",
+      "character": "Dr. Frank Jarrek",
+      "profile": "https://image.tmdb.org/t/p/w185/pfCEeqdFyfMm2Mo2Qkn7aBhzzUP.jpg"
+    }
+  ],
+  "director": "Ben Wheatley",
+  "tmdbId": 748853,
+  "xtream": {
+    "streamId": 2137802,
+    "containerExtension": "mp4"
+  }
+}

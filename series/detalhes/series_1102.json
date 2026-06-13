@@ -1,0 +1,76 @@
+{
+  "id": "series_1102",
+  "type": "series",
+  "title": "Equinox",
+  "originalTitle": "Equinox",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/bnU3Rz3nR844WZNOyrCk8W52DUs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1IO3hNWCeGStVuCopf6bJnazWyz.jpg",
+  "overview": "Vinte anos depois de ter visto um ônibus desaparecer sem deixar vestígios, Astrid reconhece uma das vítimas e resolve investigar o caso.",
+  "rating": 7.115,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 113600,
+  "xtream": {
+    "seriesId": 1102
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2396669",
+          "episodeId": 2396669,
+          "season": 1,
+          "episode": 1,
+          "title": "Equinox S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396670",
+          "episodeId": 2396670,
+          "season": 1,
+          "episode": 2,
+          "title": "Equinox S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396671",
+          "episodeId": 2396671,
+          "season": 1,
+          "episode": 3,
+          "title": "Equinox S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396672",
+          "episodeId": 2396672,
+          "season": 1,
+          "episode": 4,
+          "title": "Equinox S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396673",
+          "episodeId": 2396673,
+          "season": 1,
+          "episode": 5,
+          "title": "Equinox S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396674",
+          "episodeId": 2396674,
+          "season": 1,
+          "episode": 6,
+          "title": "Equinox S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

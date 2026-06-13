@@ -1,0 +1,72 @@
+{
+  "id": "series_1073",
+  "type": "series",
+  "title": "I Know This Much Is True",
+  "originalTitle": "I Know This Much Is True",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w780/y6bjZiYZa1U8UJ2KxgJuU0B8M5K.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Dominick vive um relação extremamente complicada com seu irmão gêmeo, Thomas Birdsey. Sofrendo de esquizofrenia, Thomas está disposto a tudo para sair do asilo em que se encontra, e conta com a ajuda de Dominick para alcançar seu objetivo.",
+  "rating": 8,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 1073
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2395959",
+          "episodeId": 2395959,
+          "season": 1,
+          "episode": 1,
+          "title": "I Know This Much Is True S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395960",
+          "episodeId": 2395960,
+          "season": 1,
+          "episode": 2,
+          "title": "I Know This Much Is True S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395961",
+          "episodeId": 2395961,
+          "season": 1,
+          "episode": 3,
+          "title": "I Know This Much Is True S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395962",
+          "episodeId": 2395962,
+          "season": 1,
+          "episode": 4,
+          "title": "I Know This Much Is True S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395963",
+          "episodeId": 2395963,
+          "season": 1,
+          "episode": 5,
+          "title": "I Know This Much Is True S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395964",
+          "episodeId": 2395964,
+          "season": 1,
+          "episode": 6,
+          "title": "I Know This Much Is True S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

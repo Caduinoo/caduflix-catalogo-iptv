@@ -1,0 +1,75 @@
+{
+  "id": "series_3472",
+  "type": "series",
+  "title": "Os 20 Dias de Lázaro",
+  "originalTitle": "Os 20 Dias de Lázaro",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/i6S0nnk0PuNhTAvfh7PlxE062ke.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a3fFPwEDks4Cg7F7M32AJ0O7TMA.jpg",
+  "overview": "Relembre a trajetória de Lázaro Barbosa, criminoso que aterrorizou o Distrito Federal em 2021, de sua infância no sertão da Bahia até a perseguição que mobilizou centenas de policiais, com imagens e detalhes inéditos da investigação.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 230273,
+  "xtream": {
+    "seriesId": 3472
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2472824",
+          "episodeId": 2472824,
+          "season": 1,
+          "episode": 1,
+          "title": "Os 20 dias de Lazaro S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2472825",
+          "episodeId": 2472825,
+          "season": 1,
+          "episode": 2,
+          "title": "Os 20 dias de Lazaro S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2472826",
+          "episodeId": 2472826,
+          "season": 1,
+          "episode": 3,
+          "title": "Os 20 dias de Lazaro S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2472827",
+          "episodeId": 2472827,
+          "season": 1,
+          "episode": 4,
+          "title": "Os 20 dias de Lazaro S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2472828",
+          "episodeId": 2472828,
+          "season": 1,
+          "episode": 5,
+          "title": "Os 20 dias de Lazaro S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2472829",
+          "episodeId": 2472829,
+          "season": 1,
+          "episode": 6,
+          "title": "Os 20 dias de Lazaro S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

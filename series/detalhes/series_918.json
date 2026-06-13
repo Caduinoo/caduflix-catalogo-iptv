@@ -1,0 +1,50 @@
+{
+  "id": "series_918",
+  "type": "series",
+  "title": "Sou um Assassino: Em Liberdade",
+  "originalTitle": "A Killer Uncaged",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/4bdGCNpdAbU20oLpVVRCkCusoJm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i8nJvOhHmJN26PRdUnjV9FA6cEI.jpg",
+  "overview": "Nesta série documental, um prisioneiro condenado à morte por homicídio ganha o direito à condicional depois de 30 anos. E então faz uma confissão surpreendente.",
+  "rating": 6.4,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 108347,
+  "xtream": {
+    "seriesId": 918
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2388572",
+          "episodeId": 2388572,
+          "season": 1,
+          "episode": 1,
+          "title": "Sou um Assassino Em Liberdade S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388573",
+          "episodeId": 2388573,
+          "season": 1,
+          "episode": 2,
+          "title": "Sou um Assassino Em Liberdade S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388574",
+          "episodeId": 2388574,
+          "season": 1,
+          "episode": 3,
+          "title": "Sou um Assassino Em Liberdade S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_7191",
+  "type": "series",
+  "title": "Madame Aema",
+  "originalTitle": "애마",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/b2AdfnAUrADOZD93kcwadFcaAm4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Kl07j8DsHfAwkODBblg81mjcGc.jpg",
+  "overview": "Na Coreia dos anos 1980, uma estrela e uma atriz iniciante ousam desafiar as regras de uma indústria masculina e a corrupção dos bastidores ao filmar o polêmico Aema.",
+  "rating": 7.6,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 229958,
+  "xtream": {
+    "seriesId": 7191
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2561343",
+          "episodeId": 2561343,
+          "season": 1,
+          "episode": 1,
+          "title": "Madame Aema S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561344",
+          "episodeId": 2561344,
+          "season": 1,
+          "episode": 2,
+          "title": "Madame Aema S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561345",
+          "episodeId": 2561345,
+          "season": 1,
+          "episode": 3,
+          "title": "Madame Aema S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561346",
+          "episodeId": 2561346,
+          "season": 1,
+          "episode": 4,
+          "title": "Madame Aema S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561347",
+          "episodeId": 2561347,
+          "season": 1,
+          "episode": 5,
+          "title": "Madame Aema S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561348",
+          "episodeId": 2561348,
+          "season": 1,
+          "episode": 6,
+          "title": "Madame Aema S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

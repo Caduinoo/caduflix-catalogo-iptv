@@ -1,0 +1,41 @@
+{
+  "id": "movie_2130597",
+  "type": "movie",
+  "title": "O Anjo",
+  "originalTitle": "O Anjo",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/zOSC4WWSiKEOy1pvtQqtZPxa8md.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 11,
+  "genres": [
+    "drama",
+    "suspense",
+    "thriller",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Ruben Pereira",
+      "character": "Henrique dos Santos",
+      "profile": ""
+    },
+    {
+      "name": "Ana Abreu",
+      "character": "Madalena",
+      "profile": ""
+    },
+    {
+      "name": "Rita Jardim",
+      "character": "Sandra",
+      "profile": "https://image.tmdb.org/t/p/w185/80MZZKTKgM5vi2JhTSrBIBpNpeq.jpg"
+    }
+  ],
+  "director": "André Marques",
+  "tmdbId": 216622,
+  "xtream": {
+    "streamId": 2130597,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "series_4067",
+  "type": "series",
+  "title": "O Faz Nada",
+  "originalTitle": "Nada",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/4aO8Im1WR7Jg4BtAed11ETKwFW2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p3iKi7aaD2bbpftrZpSshGEvajr.jpg",
+  "overview": "Manuel é um sofisticado crítico gastronômico de Buenos Aires, provocador e amante da arte, que, apesar de ser uma figura emblemática da cultura portenha, ficou sem dinheiro graças a uma vida de desperdício para manter seu estilo confortável.",
+  "rating": 7.581,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 201413,
+  "xtream": {
+    "seriesId": 4067
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2488244",
+          "episodeId": 2488244,
+          "season": 1,
+          "episode": 1,
+          "title": "O Faz Nada (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2488245",
+          "episodeId": 2488245,
+          "season": 1,
+          "episode": 2,
+          "title": "O Faz Nada (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2488246",
+          "episodeId": 2488246,
+          "season": 1,
+          "episode": 3,
+          "title": "O Faz Nada (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2488247",
+          "episodeId": 2488247,
+          "season": 1,
+          "episode": 4,
+          "title": "O Faz Nada (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2488248",
+          "episodeId": 2488248,
+          "season": 1,
+          "episode": 5,
+          "title": "O Faz Nada (2023) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

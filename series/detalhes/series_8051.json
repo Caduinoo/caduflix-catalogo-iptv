@@ -1,0 +1,74 @@
+{
+  "id": "series_8051",
+  "type": "series",
+  "title": "Receita da Boa",
+  "originalTitle": "Cooked With Cannabis",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/jyQ2DISRo2KjzJB8pQEGG4PCRlz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oRc5RoOcCExVuBfE7f0xaJmDlgW.jpg",
+  "overview": "Chefs competem para ver quem consegue deixar apresentadores e convidados especiais rindo à toa com seus sofisticados pratos feitos com cannabis.",
+  "rating": 6.2,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 102246,
+  "xtream": {
+    "seriesId": 8051
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575614",
+          "episodeId": 2575614,
+          "season": 1,
+          "episode": 1,
+          "title": "Receita da Boa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575615",
+          "episodeId": 2575615,
+          "season": 1,
+          "episode": 2,
+          "title": "Receita da Boa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575616",
+          "episodeId": 2575616,
+          "season": 1,
+          "episode": 3,
+          "title": "Receita da Boa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575617",
+          "episodeId": 2575617,
+          "season": 1,
+          "episode": 4,
+          "title": "Receita da Boa S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575618",
+          "episodeId": 2575618,
+          "season": 1,
+          "episode": 5,
+          "title": "Receita da Boa S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575619",
+          "episodeId": 2575619,
+          "season": 1,
+          "episode": 6,
+          "title": "Receita da Boa S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

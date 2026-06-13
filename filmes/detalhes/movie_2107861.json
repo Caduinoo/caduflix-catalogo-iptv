@@ -1,0 +1,39 @@
+{
+  "id": "movie_2107861",
+  "type": "movie",
+  "title": "Loca",
+  "originalTitle": "Loca",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/iVMXt9L0gsirLXK0rekecKhAy85.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6,
+  "runtime": 15,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Mercedes Castro",
+      "character": "Sofía",
+      "profile": ""
+    },
+    {
+      "name": "Gonzalo Ramos",
+      "character": "Iván",
+      "profile": "https://image.tmdb.org/t/p/w185/f0mNAaH6am3jHyQZGHY0phWcMVI.jpg"
+    },
+    {
+      "name": "Susana Monje",
+      "character": "Audiolibro (voice)",
+      "profile": ""
+    }
+  ],
+  "director": "Maria Salgado Gispert",
+  "tmdbId": 834821,
+  "xtream": {
+    "streamId": 2107861,
+    "containerExtension": "mp4"
+  }
+}

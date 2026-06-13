@@ -1,0 +1,42 @@
+{
+  "id": "series_7297",
+  "type": "series",
+  "title": "aka Charlie Sheen",
+  "originalTitle": "aka Charlie Sheen",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/pHAM8Fzek7xwTbqmaxPXAjCAjz1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qSxabAdLMiJWIJUb7hbSVvwMm4s.jpg",
+  "overview": "Charlie Sheen conta sua história neste documentário em duas partes, que acompanha sua ascensão em Hollywood, os escândalos e o caminho para a recuperação.",
+  "rating": 7.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 298234,
+  "xtream": {
+    "seriesId": 7297
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2563656",
+          "episodeId": 2563656,
+          "season": 1,
+          "episode": 1,
+          "title": "aka Charlie Sheen S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2563657",
+          "episodeId": 2563657,
+          "season": 1,
+          "episode": 2,
+          "title": "aka Charlie Sheen S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

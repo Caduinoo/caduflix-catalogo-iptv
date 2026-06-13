@@ -1,0 +1,52 @@
+{
+  "id": "series_550",
+  "type": "series",
+  "title": "Jo",
+  "originalTitle": "Jo",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/l0UHTjvEwpsbJlLyQbVTupcR9lU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1DPozNzFsq7AfDwxujZmqIEXiGh.jpg",
+  "overview": "Um brilhante policial parisiense investiga o submundo da cidade e tenta derrotar qualquer assassino em série que entre em seu caminho.",
+  "rating": 6.316,
+  "genres": [
+    "acao",
+    "aventura",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 47144,
+  "xtream": {
+    "seriesId": 550
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2366825",
+          "episodeId": 2366825,
+          "season": 1,
+          "episode": 1,
+          "title": "Jo S01 E00",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366826",
+          "episodeId": 2366826,
+          "season": 1,
+          "episode": 2,
+          "title": "Jo S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366827",
+          "episodeId": 2366827,
+          "season": 1,
+          "episode": 3,
+          "title": "Jo S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

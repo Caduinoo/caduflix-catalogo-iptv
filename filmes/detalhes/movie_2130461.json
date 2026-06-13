@@ -1,0 +1,41 @@
+{
+  "id": "movie_2130461",
+  "type": "movie",
+  "title": "Stuck",
+  "originalTitle": "Stuck",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/7M6MaA7xQyYEcxtfzGnLVMpVIgx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qFlDBjbOCrHHo4OT9JLWRWXQ2hW.jpg",
+  "overview": "",
+  "rating": 5.833,
+  "runtime": 14,
+  "genres": [
+    "terror",
+    "suspense",
+    "thriller",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Nicola Lambo",
+      "character": "Coach",
+      "profile": "https://image.tmdb.org/t/p/w185/xwpLr3fsEAMe2OdqbvaTajilXmG.jpg"
+    },
+    {
+      "name": "Davey Johnson",
+      "character": "Man",
+      "profile": "https://image.tmdb.org/t/p/w185/iez4oEjV4TG0orLjUL23qfqCCY3.jpg"
+    },
+    {
+      "name": "Tara DiNinno",
+      "character": "Becky",
+      "profile": ""
+    }
+  ],
+  "director": "David Mikalson",
+  "tmdbId": 741635,
+  "xtream": {
+    "streamId": 2130461,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "series_6970",
+  "type": "series",
+  "title": "O Reino do Lobo-Branco",
+  "originalTitle": "Kingdom of the White Wolf",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/195lUgtW73NZTWKoSOXgXhjoXXz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f23RyFkgRo0RzfZJ27hLUBx3Fkv.jpg",
+  "overview": "Ronan Donovan, pesquisador da National Geographic, viaja para o Ártico para estudar lobos. O pesquisador desvenda a fascinante vida do lobo branco, que possui duas camadas de proteção que o mantém quente em condições frias e seguro à prova d'água.",
+  "rating": 7.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 92894,
+  "xtream": {
+    "seriesId": 6970
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2557650",
+          "episodeId": 2557650,
+          "season": 1,
+          "episode": 1,
+          "title": "O Reino do Lobo Branco [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557651",
+          "episodeId": 2557651,
+          "season": 1,
+          "episode": 2,
+          "title": "O Reino do Lobo Branco [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557652",
+          "episodeId": 2557652,
+          "season": 1,
+          "episode": 3,
+          "title": "O Reino do Lobo Branco [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

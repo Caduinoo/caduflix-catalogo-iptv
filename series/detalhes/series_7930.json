@@ -1,0 +1,40 @@
+{
+  "id": "series_7930",
+  "type": "series",
+  "title": "Miracle",
+  "originalTitle": "Miracle",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/k5Xggx5qOY0PvZL0Xx4ve0Lx38u.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 8,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": 312509,
+  "xtream": {
+    "seriesId": 7930
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2574239",
+          "episodeId": 2574239,
+          "season": 1,
+          "episode": 1,
+          "title": "Miracle [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574240",
+          "episodeId": 2574240,
+          "season": 1,
+          "episode": 2,
+          "title": "Miracle [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

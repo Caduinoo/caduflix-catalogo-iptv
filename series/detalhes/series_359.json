@@ -1,0 +1,92 @@
+{
+  "id": "series_359",
+  "type": "series",
+  "title": "11.22.63",
+  "originalTitle": "11.22.63",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/1fH41ccMKvgDTbbcCxWWH6fznah.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qVBExiGdG8uiPK9BcWD0881u8uh.jpg",
+  "overview": "Um modesto professor se depara com um portal do tempo que o leva ao dia 9 de setembro de 1958. Ele inicia uma jornada para tentar evitar o assassinato de John F. Kennedy.",
+  "rating": 7.755,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 64464,
+  "xtream": {
+    "seriesId": 359
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2360123",
+          "episodeId": 2360123,
+          "season": 1,
+          "episode": 1,
+          "title": "11.22.63 S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360124",
+          "episodeId": 2360124,
+          "season": 1,
+          "episode": 2,
+          "title": "11.22.63 S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360125",
+          "episodeId": 2360125,
+          "season": 1,
+          "episode": 3,
+          "title": "11.22.63 S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360126",
+          "episodeId": 2360126,
+          "season": 1,
+          "episode": 4,
+          "title": "11.22.63 S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360127",
+          "episodeId": 2360127,
+          "season": 1,
+          "episode": 5,
+          "title": "11.22.63 S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360128",
+          "episodeId": 2360128,
+          "season": 1,
+          "episode": 6,
+          "title": "11.22.63 S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360129",
+          "episodeId": 2360129,
+          "season": 1,
+          "episode": 7,
+          "title": "11.22.63 S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360130",
+          "episodeId": 2360130,
+          "season": 1,
+          "episode": 8,
+          "title": "11.22.63 S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

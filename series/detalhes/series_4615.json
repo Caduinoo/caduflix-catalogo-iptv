@@ -1,0 +1,69 @@
+{
+  "id": "series_4615",
+  "type": "series",
+  "title": "Eco",
+  "originalTitle": "Echo",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/6Khp1QR8IsRBCfMxeMoDNAxPEL4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u3ySnWqSjM3jedYgJZTR7RWRDDm.jpg",
+  "overview": "Perseguida pelo criminoso Fisk, Maya volta para casa, onde confrontará sua família e seu legado.",
+  "rating": 6.063,
+  "genres": [
+    "acao",
+    "aventura",
+    "crime",
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 122226,
+  "xtream": {
+    "seriesId": 4615
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2502387",
+          "episodeId": 2502387,
+          "season": 1,
+          "episode": 1,
+          "title": "Eco (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2502388",
+          "episodeId": 2502388,
+          "season": 1,
+          "episode": 2,
+          "title": "Eco (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2502389",
+          "episodeId": 2502389,
+          "season": 1,
+          "episode": 3,
+          "title": "Eco (2024) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2502390",
+          "episodeId": 2502390,
+          "season": 1,
+          "episode": 4,
+          "title": "Eco (2024) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2502391",
+          "episodeId": 2502391,
+          "season": 1,
+          "episode": 5,
+          "title": "Eco (2024) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

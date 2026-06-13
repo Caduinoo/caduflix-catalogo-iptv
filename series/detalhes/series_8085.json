@@ -1,0 +1,74 @@
+{
+  "id": "series_8085",
+  "type": "series",
+  "title": "Gypsy",
+  "originalTitle": "Gypsy",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/9dtm1ExRh6ihPGYIaAxEygOnl6G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wrbaPpqAeHHPiYDcSwYTDPXBsiE.jpg",
+  "overview": "A série segue a vida da terapeuta Jean Holloway (Naomi Watts), uma mulher que, no papel, tem a vida perfeita: uma carreira notável, uma casa espaçosa nos subúrbios de Connecticut, um marido advogado bem-sucedido (Billy Crudup) e uma criança brilhante. O que lhe falta, entretanto, é a contenção. A insaciável curiosidade de Jean acaba por vê-la contornando as linhas éticas e borrando as fronteiras da realidade profissional e da fantasia pessoal, juntando os fragmentos das admissões de seus pacientes e furtivamente forjando relações proibidas – algumas mais físicas do que outras – com as pessoas em suas vidas.",
+  "rating": 6.624,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 66939,
+  "xtream": {
+    "seriesId": 8085
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2576235",
+          "episodeId": 2576235,
+          "season": 1,
+          "episode": 1,
+          "title": "Gypsy S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576236",
+          "episodeId": 2576236,
+          "season": 1,
+          "episode": 2,
+          "title": "Gypsy S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576237",
+          "episodeId": 2576237,
+          "season": 1,
+          "episode": 3,
+          "title": "Gypsy S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576238",
+          "episodeId": 2576238,
+          "season": 1,
+          "episode": 4,
+          "title": "Gypsy S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576239",
+          "episodeId": 2576239,
+          "season": 1,
+          "episode": 5,
+          "title": "Gypsy S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576240",
+          "episodeId": 2576240,
+          "season": 1,
+          "episode": 6,
+          "title": "Gypsy S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

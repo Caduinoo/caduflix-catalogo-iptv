@@ -1,0 +1,43 @@
+{
+  "id": "series_6147",
+  "type": "series",
+  "title": "Jerry Springer: Brigas, Câmera, Ação",
+  "originalTitle": "Jerry Springer: Fights, Camera, Action",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/yuqohMB3z4dxl0OYeAdsOsYeQt4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Dn1900cQXd1Bzc0FUweQEeV3Lm.jpg",
+  "overview": "Esta série documental chocante mostra os bastidores do talk show mais polêmico dos EUA, expondo seus maiores escândalos na frente e por trás das câmeras.",
+  "rating": 6.7,
+  "genres": [
+    "documentario",
+    "acao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 276292,
+  "xtream": {
+    "seriesId": 6147
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2539085",
+          "episodeId": 2539085,
+          "season": 1,
+          "episode": 1,
+          "title": "Jerry Springer Brigas Camera Acao S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2539086",
+          "episodeId": 2539086,
+          "season": 1,
+          "episode": 2,
+          "title": "Jerry Springer Brigas Camera Acao S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "movie_2120690",
+  "type": "movie",
+  "title": "Memory Box",
+  "originalTitle": "Memory Box",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/bAxqKCebp2fb3FTsyLFUmz2DeTM.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 16,
+  "genres": [
+    "drama",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Corbin Bernsen",
+      "character": "Father (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/zkftLlEO5fmKmcKienRKw9Gx0U9.jpg"
+    },
+    {
+      "name": "Hazel Ditzler",
+      "character": "Young Theodora",
+      "profile": ""
+    },
+    {
+      "name": "Jessica Dube",
+      "character": "Theodora",
+      "profile": ""
+    },
+    {
+      "name": "Jane Hostetler",
+      "character": "Young Charlotte",
+      "profile": ""
+    },
+    {
+      "name": "Jason James",
+      "character": "Leonoid T.",
+      "profile": ""
+    },
+    {
+      "name": "Ferelith Young",
+      "character": "Charlotte",
+      "profile": "https://image.tmdb.org/t/p/w185/420Nedauaegpa7xkBkqAOpOh4d5.jpg"
+    }
+  ],
+  "director": "Oliver Bernsen",
+  "tmdbId": 1356818,
+  "xtream": {
+    "streamId": 2120690,
+    "containerExtension": "mp4"
+  }
+}

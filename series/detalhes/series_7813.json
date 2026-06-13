@@ -1,0 +1,52 @@
+{
+  "id": "series_7813",
+  "type": "series",
+  "title": "O Mistério de Varginha",
+  "originalTitle": "O Mistério de Varginha",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/7z9b79JSFR5wiLPuAH2NOTA16OB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7o96TnS5Mqert8wtr2jSQ1PTmQa.jpg",
+  "overview": "Esta produção reúne depoimentos inéditos, além de documentos e áudios nunca exibidos, fruto de uma investigação que resgata diferentes versões do que teria acontecido há 30 anos na cidade do interior de Minas Gerais.",
+  "rating": 9,
+  "genres": [
+    "misterio",
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 309693,
+  "xtream": {
+    "seriesId": 7813
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2572583",
+          "episodeId": 2572583,
+          "season": 1,
+          "episode": 1,
+          "title": "O Misterio de Varginha S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2572584",
+          "episodeId": 2572584,
+          "season": 1,
+          "episode": 2,
+          "title": "O Misterio de Varginha S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2572585",
+          "episodeId": 2572585,
+          "season": 1,
+          "episode": 3,
+          "title": "O Misterio de Varginha S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "series_1163",
+  "type": "series",
+  "title": "O Cavalo Amarelo",
+  "originalTitle": "The Pale Horse",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/oumBpMfOQ36IYYHd4kmpaFiYJbB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8gYgZeVddiiAvDzanZudU0D5OPv.jpg",
+  "overview": "Baseada no livro de Agatha Christie publicado em 1961, \"O Cavalo Amarelo\", a minissérie segue a história de uma investigação onde uma misteriosa lista de nomes é encontrada no sapato de uma mulher morta.",
+  "rating": 5.8,
+  "genres": [
+    "misterio"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 93705,
+  "xtream": {
+    "seriesId": 1163
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2398273",
+          "episodeId": 2398273,
+          "season": 1,
+          "episode": 1,
+          "title": "O Cavalo Amarelo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398274",
+          "episodeId": 2398274,
+          "season": 1,
+          "episode": 2,
+          "title": "O Cavalo Amarelo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398275",
+          "episodeId": 2398275,
+          "season": 1,
+          "episode": 3,
+          "title": "O Cavalo Amarelo S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

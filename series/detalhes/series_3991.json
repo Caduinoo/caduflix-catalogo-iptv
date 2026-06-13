@@ -1,0 +1,77 @@
+{
+  "id": "series_3991",
+  "type": "series",
+  "title": "L-Pop",
+  "originalTitle": "L-Pop",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/iFTbJLOCVUs5Z67FLz5aamqDH8G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1kQH1Pybs4OaRuBXkboD2cfTiWE.jpg",
+  "overview": "Andrea, fã de K-pop, forma seu próprio grupo de dança cover após ser expulsa do seu grupo anterior. Ela então deve decidir entre ser dentista ou seguir seu verdadeiro sonho: preparar-se para ser cantora profissional no mesmo lugar que todos os seus ídolos fizeram - na Coreia. Tudo isso sob o olhar atento de sua irmã Pau, que dirige um documentário sobre suas aventuras.",
+  "rating": 8.2,
+  "genres": [
+    "comedia",
+    "drama",
+    "familia",
+    "infantil"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 206017,
+  "xtream": {
+    "seriesId": 3991
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2485612",
+          "episodeId": 2485612,
+          "season": 1,
+          "episode": 1,
+          "title": "L Pop (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485613",
+          "episodeId": 2485613,
+          "season": 1,
+          "episode": 2,
+          "title": "L Pop (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485614",
+          "episodeId": 2485614,
+          "season": 1,
+          "episode": 3,
+          "title": "L Pop (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485615",
+          "episodeId": 2485615,
+          "season": 1,
+          "episode": 4,
+          "title": "L Pop (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485616",
+          "episodeId": 2485616,
+          "season": 1,
+          "episode": 5,
+          "title": "L Pop (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485617",
+          "episodeId": 2485617,
+          "season": 1,
+          "episode": 6,
+          "title": "L Pop (2023) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

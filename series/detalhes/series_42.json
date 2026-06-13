@@ -1,0 +1,106 @@
+{
+  "id": "series_42",
+  "type": "series",
+  "title": "Drácula",
+  "originalTitle": "Dracula",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/oQUU8LKVl10ejpxJC0qfsSuPZeF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rK4eB1UGp5KXKVWZYtrBwZ6TEdA.jpg",
+  "overview": "Uma reimaginação do clássico romance de Bram Stoker, esta nova série se passa na década de 1890 e acompanha a história de Drácula (interpretado por Jonathan Rhys Meyers, de The Tudors), um homem que vive uma vida dupla em Londres: ele diz ser Allen Grayson, um empresário americano interessado em trazer a ciência moderna para a sociedade vitoriana; mas, na verdade, ele quer se vingar de quem lhe fez mal há centenas de anos. No entanto, seus planos podem ir por água abaixo quando ele conhece Mina Murray (interpretada por Jessica DeGouw, de Arrow), uma garota que parece ser a reencarnação de sua falecida esposa.",
+  "rating": 7.1,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 58928,
+  "xtream": {
+    "seriesId": 42
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2342883",
+          "episodeId": 2342883,
+          "season": 1,
+          "episode": 1,
+          "title": "Dracula S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2342884",
+          "episodeId": 2342884,
+          "season": 1,
+          "episode": 2,
+          "title": "Dracula S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2342885",
+          "episodeId": 2342885,
+          "season": 1,
+          "episode": 3,
+          "title": "Dracula S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2342886",
+          "episodeId": 2342886,
+          "season": 1,
+          "episode": 4,
+          "title": "Dracula S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2342887",
+          "episodeId": 2342887,
+          "season": 1,
+          "episode": 5,
+          "title": "Dracula S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2342888",
+          "episodeId": 2342888,
+          "season": 1,
+          "episode": 6,
+          "title": "Dracula S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2342889",
+          "episodeId": 2342889,
+          "season": 1,
+          "episode": 7,
+          "title": "Dracula S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2342890",
+          "episodeId": 2342890,
+          "season": 1,
+          "episode": 8,
+          "title": "Dracula S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2342891",
+          "episodeId": 2342891,
+          "season": 1,
+          "episode": 9,
+          "title": "Dracula S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2342892",
+          "episodeId": 2342892,
+          "season": 1,
+          "episode": 10,
+          "title": "Dracula S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

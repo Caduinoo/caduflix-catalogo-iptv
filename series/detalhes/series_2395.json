@@ -1,0 +1,42 @@
+{
+  "id": "series_2395",
+  "type": "series",
+  "title": "Phoenix Rising: Renascendo das Cinzas",
+  "originalTitle": "Phoenix Rising",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/ejphWemrY0mC6prQbDJuaoyjr7B.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j7VWVJLVxEWEdteqyDkEMFVD2Q0.jpg",
+  "overview": "Um documentário em que a atriz e ativista Evan Rachel Wood reflete sobre sua experiência de abuso doméstico.",
+  "rating": 7.1,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 158320,
+  "xtream": {
+    "seriesId": 2395
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2447433",
+          "episodeId": 2447433,
+          "season": 1,
+          "episode": 1,
+          "title": "Phoenix Rising: Renascendo das Cinzas (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2447434",
+          "episodeId": 2447434,
+          "season": 1,
+          "episode": 2,
+          "title": "Phoenix Rising: Renascendo das Cinzas (2022) S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

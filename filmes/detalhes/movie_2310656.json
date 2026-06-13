@@ -1,0 +1,34 @@
+{
+  "id": "movie_2310656",
+  "type": "movie",
+  "title": "Latency",
+  "originalTitle": "Latency",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/zfyspQdOULiEEMj3Cd5FB7KmtV6.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Quando Hana, uma gamer profissional que sofre de agorafobia aguda, recebe um novo equipamento que melhora seu jogo, ela começa a se perguntar se ele está lendo sua mente - ou controlando-a.",
+  "rating": 6,
+  "runtime": 5,
+  "genres": [
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Reid Emmons",
+      "character": "Gamer",
+      "profile": "https://image.tmdb.org/t/p/w185/52G4hYUXvDRJ6FEN1K2wY8hkRjP.jpg"
+    },
+    {
+      "name": "Torsten Johnson",
+      "character": "Thief",
+      "profile": "https://image.tmdb.org/t/p/w185/cAasTrcZgRyH0s8rCEtSmR58Uro.jpg"
+    }
+  ],
+  "director": "Mark Mazur",
+  "tmdbId": 572539,
+  "xtream": {
+    "streamId": 2310656,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "movie_2336300",
+  "type": "movie",
+  "title": "Ghostlight FM",
+  "originalTitle": "Ghostlight FM",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/8mZhsmF5YJMeJzxs8DVHQUft6gg.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 5,
+  "genres": [
+    "drama",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Grace Winter",
+      "character": "Emma",
+      "profile": ""
+    },
+    {
+      "name": "Drew Bartley",
+      "character": "Oliver",
+      "profile": ""
+    },
+    {
+      "name": "Benjamin Strathmore",
+      "character": "Ben",
+      "profile": ""
+    }
+  ],
+  "director": "Alex Fletcher",
+  "tmdbId": 1275630,
+  "xtream": {
+    "streamId": 2336300,
+    "containerExtension": "mp4"
+  }
+}

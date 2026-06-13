@@ -1,0 +1,74 @@
+{
+  "id": "series_6001",
+  "type": "series",
+  "title": "Corrida na Lama",
+  "originalTitle": "Mud Madness",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/sTrMMf011UwGLDi8kKectIJ4SZQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7A1FbfcMbsyKevIepPWGGES1ssK.jpg",
+  "overview": "Pilotos se preparam para o circuito de outono no mundo fascinante das corridas automotivas na lama. Com muito dinheiro em jogo, a competição é acirrada e as rivalidades são intensas.",
+  "rating": 10,
+  "genres": [
+    "reality"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 251265,
+  "xtream": {
+    "seriesId": 6001
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2535870",
+          "episodeId": 2535870,
+          "season": 1,
+          "episode": 1,
+          "title": "Corrida na Lama S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535871",
+          "episodeId": 2535871,
+          "season": 1,
+          "episode": 2,
+          "title": "Corrida na Lama S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535872",
+          "episodeId": 2535872,
+          "season": 1,
+          "episode": 3,
+          "title": "Corrida na Lama S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535873",
+          "episodeId": 2535873,
+          "season": 1,
+          "episode": 4,
+          "title": "Corrida na Lama S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535874",
+          "episodeId": 2535874,
+          "season": 1,
+          "episode": 5,
+          "title": "Corrida na Lama S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535875",
+          "episodeId": 2535875,
+          "season": 1,
+          "episode": 6,
+          "title": "Corrida na Lama S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_5902",
+  "type": "series",
+  "title": "Nightsleeper",
+  "originalTitle": "Nightsleeper",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5mKnTUZQ74nLvj1D8Ms2F42V8q2.jpg",
+  "overview": "Localizada em um trem que vai de Glasgow para Londres, uma agência governamental intervém em eventos recorrentes a bordo. Dois desconhecidos trabalham juntos para salvar passageiros enquanto o trem avança em direção ao desastre.",
+  "rating": 6.66,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 225221,
+  "xtream": {
+    "seriesId": 5902
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2533765",
+          "episodeId": 2533765,
+          "season": 1,
+          "episode": 1,
+          "title": "Nightsleeper S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533766",
+          "episodeId": 2533766,
+          "season": 1,
+          "episode": 2,
+          "title": "Nightsleeper S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533767",
+          "episodeId": 2533767,
+          "season": 1,
+          "episode": 3,
+          "title": "Nightsleeper S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533768",
+          "episodeId": 2533768,
+          "season": 1,
+          "episode": 4,
+          "title": "Nightsleeper S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533769",
+          "episodeId": 2533769,
+          "season": 1,
+          "episode": 5,
+          "title": "Nightsleeper S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533770",
+          "episodeId": 2533770,
+          "season": 1,
+          "episode": 6,
+          "title": "Nightsleeper S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

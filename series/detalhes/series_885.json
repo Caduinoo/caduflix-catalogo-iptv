@@ -1,0 +1,75 @@
+{
+  "id": "series_885",
+  "type": "series",
+  "title": "HIGH SCORE",
+  "originalTitle": "HIGH SCORE",
+  "year": 2011,
+  "poster": "https://image.tmdb.org/t/p/w500/5NYXyNKU9GyyTCsY7qIPSeeW0FH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/seMabE6MOM4ADBFFsKELLVkzCqC.jpg",
+  "overview": "",
+  "rating": 6,
+  "genres": [
+    "animacao",
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 79033,
+  "xtream": {
+    "seriesId": 885
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2387502",
+          "episodeId": 2387502,
+          "season": 1,
+          "episode": 1,
+          "title": "High Score S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387503",
+          "episodeId": 2387503,
+          "season": 1,
+          "episode": 2,
+          "title": "High Score S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387504",
+          "episodeId": 2387504,
+          "season": 1,
+          "episode": 3,
+          "title": "High Score S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387505",
+          "episodeId": 2387505,
+          "season": 1,
+          "episode": 4,
+          "title": "High Score S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387506",
+          "episodeId": 2387506,
+          "season": 1,
+          "episode": 5,
+          "title": "High Score S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387507",
+          "episodeId": 2387507,
+          "season": 1,
+          "episode": 6,
+          "title": "High Score S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

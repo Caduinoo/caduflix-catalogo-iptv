@@ -1,0 +1,58 @@
+{
+  "id": "series_6556",
+  "type": "series",
+  "title": "Side Quest",
+  "originalTitle": "Side Quest",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/IPCrLpAZVkPk9VzWqYtQCpOGaf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jJGs55psP46D5rT5kFtGRsBQRz4.jpg",
+  "overview": "Aprofunde-se no universo de Mythic Quest nessas quatro histórias independentes. Siga as vidas de jogadores, donos de lojas de quadrinhos, músicos de orquestras itinerantes e membros do departamento de arte enquanto eles buscam por comunidade, sucesso e amor.",
+  "rating": 5.538,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "apple_tv_plus",
+  "tmdbId": 216412,
+  "xtream": {
+    "seriesId": 6556
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2548669",
+          "episodeId": 2548669,
+          "season": 1,
+          "episode": 1,
+          "title": "Side Quest S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548670",
+          "episodeId": 2548670,
+          "season": 1,
+          "episode": 2,
+          "title": "Side Quest S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548671",
+          "episodeId": 2548671,
+          "season": 1,
+          "episode": 3,
+          "title": "Side Quest S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548672",
+          "episodeId": 2548672,
+          "season": 1,
+          "episode": 4,
+          "title": "Side Quest S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

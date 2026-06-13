@@ -1,0 +1,51 @@
+{
+  "id": "series_4948",
+  "type": "series",
+  "title": "O Ninho: Futebol e Tragédia",
+  "originalTitle": "O Ninho: Futebol e Tragédia",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/6dicEOqno2MgHzETa0lUqztotmQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f58zM86ZorLZHMOmRiDlLnDsJuW.jpg",
+  "overview": "Após uma tragédia em um centro de treinamento de futebol para jovens, as famílias em luto exigem respostas e justiça de um dos times mais famosos do Brasil.",
+  "rating": 8.1,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 248114,
+  "xtream": {
+    "seriesId": 4948
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2509824",
+          "episodeId": 2509824,
+          "season": 1,
+          "episode": 1,
+          "title": "O Ninho Futebol e Tragedia (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2509825",
+          "episodeId": 2509825,
+          "season": 1,
+          "episode": 2,
+          "title": "O Ninho Futebol e Tragedia (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2509826",
+          "episodeId": 2509826,
+          "season": 1,
+          "episode": 3,
+          "title": "O Ninho Futebol e Tragedia (2024) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "series_4141",
+  "type": "series",
+  "title": "Planeta Tubarão",
+  "originalTitle": "Planet Shark",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/dFPBg3orqxUnt40aB2g3Dsnx04r.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mkaMpPRyOXNufWMWozZ3IaSjava.jpg",
+  "overview": "Mergulhe no deslumbrante mundo subaquático dos tubarões e examine o que torna esses predadores tão bem-sucedidos e mortais. Conheça uma fascinante variedade de espécies de tubarões, incluindo um que brilha no escuro e outro que vive por até 400 anos.",
+  "rating": 8.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 204210,
+  "xtream": {
+    "seriesId": 4141
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2490251",
+          "episodeId": 2490251,
+          "season": 1,
+          "episode": 1,
+          "title": "Planeta Tubarao (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2490252",
+          "episodeId": 2490252,
+          "season": 1,
+          "episode": 2,
+          "title": "Planeta Tubarao (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2490253",
+          "episodeId": 2490253,
+          "season": 1,
+          "episode": 3,
+          "title": "Planeta Tubarao (2022) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

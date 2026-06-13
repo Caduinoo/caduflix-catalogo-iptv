@@ -1,0 +1,60 @@
+{
+  "id": "series_6039",
+  "type": "series",
+  "title": "O Amanhã e Eu",
+  "originalTitle": "อนาฅต",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/kssU4ff0HAl5HR6Ls9ebvpSTNkH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vjJgGM9NqSN0OmUYK2KqYjxWU3I.jpg",
+  "overview": "Esta série retrata uma Tailândia em um futuro distópico, em que a tecnologia desafia antigas tradições e revela as fragilidades da cultura.",
+  "rating": 6.7,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 271001,
+  "xtream": {
+    "seriesId": 6039
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2536431",
+          "episodeId": 2536431,
+          "season": 1,
+          "episode": 1,
+          "title": "O Amanha e Eu S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2536432",
+          "episodeId": 2536432,
+          "season": 1,
+          "episode": 2,
+          "title": "O Amanha e Eu S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2536433",
+          "episodeId": 2536433,
+          "season": 1,
+          "episode": 3,
+          "title": "O Amanha e Eu S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2536434",
+          "episodeId": 2536434,
+          "season": 1,
+          "episode": 4,
+          "title": "O Amanha e Eu S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

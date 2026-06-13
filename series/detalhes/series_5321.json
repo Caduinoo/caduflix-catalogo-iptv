@@ -1,0 +1,59 @@
+{
+  "id": "series_5321",
+  "type": "series",
+  "title": "Meu Filho Jeffrey: As Gravações da Família Dahmer",
+  "originalTitle": "My Son Jeffrey: The Dahmer Family Tapes",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/r0MrF66ZvZLSTiJcYhg1L9Jx17F.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wFoWXOUffsLZ7luI8IMuWKq9Dic.jpg",
+  "overview": "Quatro partes de conversas nunca antes ouvidas entre o assassino em série/canibal Jeffrey Dahmer e o seu pai Lionel.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "familia"
+  ],
+  "producer": "paramount",
+  "tmdbId": 235452,
+  "xtream": {
+    "seriesId": 5321
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2517439",
+          "episodeId": 2517439,
+          "season": 1,
+          "episode": 1,
+          "title": "My Son Jeffrey The Dahmer Family Tapes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2517440",
+          "episodeId": 2517440,
+          "season": 1,
+          "episode": 2,
+          "title": "My Son Jeffrey The Dahmer Family Tapes S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2517441",
+          "episodeId": 2517441,
+          "season": 1,
+          "episode": 3,
+          "title": "My Son Jeffrey The Dahmer Family Tapes S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2517442",
+          "episodeId": 2517442,
+          "season": 1,
+          "episode": 4,
+          "title": "My Son Jeffrey The Dahmer Family Tapes S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

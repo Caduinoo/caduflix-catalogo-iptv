@@ -1,0 +1,51 @@
+{
+  "id": "series_2926",
+  "type": "series",
+  "title": "A Queda Argentina",
+  "originalTitle": "A Queda Argentina",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/kILCM0KarbX9F58kCYfsiADxmp5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lVjjzCTdDyQtrWwBxJAp8YnVTUl.jpg",
+  "overview": "O país que já foi conhecido como a Europa da América Latina, hoje, é sinônimo de pobreza. O Brasil pode ser a próxima peça?",
+  "rating": 9,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 128266,
+  "xtream": {
+    "seriesId": 2926
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2459933",
+          "episodeId": 2459933,
+          "season": 1,
+          "episode": 1,
+          "title": "A Queda Argentina (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2459934",
+          "episodeId": 2459934,
+          "season": 1,
+          "episode": 2,
+          "title": "A Queda Argentina (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2459935",
+          "episodeId": 2459935,
+          "season": 1,
+          "episode": 3,
+          "title": "A Queda Argentina (2021) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

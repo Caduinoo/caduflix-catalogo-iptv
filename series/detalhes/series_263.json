@@ -1,0 +1,66 @@
+{
+  "id": "series_263",
+  "type": "series",
+  "title": "Patrick Melrose",
+  "originalTitle": "Patrick Melrose",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/t6ubZ1Bpu0elTzA8tT2mxkrfpxA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u2D2NlCGWi5HwNOJqDMdsvxT2ud.jpg",
+  "overview": "Baseado na aclamada série de novelas semi-autobiográficas de Edward St. Aubyn, \"Patrick Melrose \" narra a odisseia angustiante de Patrick, de sua infância profundamente traumática, ao abuso de substâncias na fase adulta e, por fim, em sua recuperação.",
+  "rating": 7.536,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 72787,
+  "xtream": {
+    "seriesId": 263
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2356855",
+          "episodeId": 2356855,
+          "season": 1,
+          "episode": 1,
+          "title": "Patrick Melrose S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356856",
+          "episodeId": 2356856,
+          "season": 1,
+          "episode": 2,
+          "title": "Patrick Melrose S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356857",
+          "episodeId": 2356857,
+          "season": 1,
+          "episode": 3,
+          "title": "Patrick Melrose S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356858",
+          "episodeId": 2356858,
+          "season": 1,
+          "episode": 4,
+          "title": "Patrick Melrose S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356859",
+          "episodeId": 2356859,
+          "season": 1,
+          "episode": 5,
+          "title": "Patrick Melrose S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "series_1625",
+  "type": "series",
+  "title": "Desaparecido para Sempre",
+  "originalTitle": "Disparu à jamais",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/faBCgiN749OKfTcVdpN8dSGxZvW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/x8PCBu4FuBNB00Saq9FZE3ht023.jpg",
+  "overview": "Dez anos após perder as duas pessoas que mais amava, um homem se envolve em mais um mistério depois que a namorada desaparece.",
+  "rating": 5.7,
+  "genres": [
+    "crime",
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 128068,
+  "xtream": {
+    "seriesId": 1625
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2420254",
+          "episodeId": 2420254,
+          "season": 1,
+          "episode": 1,
+          "title": "Desaparecido para Sempre (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2420255",
+          "episodeId": 2420255,
+          "season": 1,
+          "episode": 2,
+          "title": "Desaparecido para Sempre (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2420256",
+          "episodeId": 2420256,
+          "season": 1,
+          "episode": 3,
+          "title": "Desaparecido para Sempre (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2420257",
+          "episodeId": 2420257,
+          "season": 1,
+          "episode": 4,
+          "title": "Desaparecido para Sempre (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2420258",
+          "episodeId": 2420258,
+          "season": 1,
+          "episode": 5,
+          "title": "Desaparecido para Sempre (2021) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

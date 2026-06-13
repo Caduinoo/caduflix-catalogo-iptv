@@ -1,0 +1,74 @@
+{
+  "id": "series_1648",
+  "type": "series",
+  "title": "O Mundo dos Animais",
+  "originalTitle": "Growing Up Animal",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/3t22emoD5FpDCHKVmdY4ISCbNag.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uJlX6B08fkmBiphoRuuve3EWTd5.jpg",
+  "overview": "A aventura íntima e extraordinária de bebês animais, da segurança do útero às incertezas do nascimento e as tentativas de seus primeiros passos. Cada episódio mostra a incrível transformação de um animal icônico diferente, pleno de maravilhas e emoções.",
+  "rating": 7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 126794,
+  "xtream": {
+    "seriesId": 1648
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2420656",
+          "episodeId": 2420656,
+          "season": 1,
+          "episode": 1,
+          "title": "O Mundo dos Animais (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2420657",
+          "episodeId": 2420657,
+          "season": 1,
+          "episode": 2,
+          "title": "O Mundo dos Animais (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2420658",
+          "episodeId": 2420658,
+          "season": 1,
+          "episode": 3,
+          "title": "O Mundo dos Animais (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2420659",
+          "episodeId": 2420659,
+          "season": 1,
+          "episode": 4,
+          "title": "O Mundo dos Animais (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2420660",
+          "episodeId": 2420660,
+          "season": 1,
+          "episode": 5,
+          "title": "O Mundo dos Animais (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2420661",
+          "episodeId": 2420661,
+          "season": 1,
+          "episode": 6,
+          "title": "O Mundo dos Animais (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

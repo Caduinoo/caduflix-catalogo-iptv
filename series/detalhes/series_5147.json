@@ -1,0 +1,79 @@
+{
+  "id": "series_5147",
+  "type": "series",
+  "title": "SPRIGGAN",
+  "originalTitle": "スプリガン",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/bY7OyHeL3AIhCedifoANMEm5QYz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8v1flw4wcx1I7cIBxavaMsQqLou.jpg",
+  "overview": "As relíquias de uma antiga civilização guardam poderes perigosos. Ainda bem que os agentes Spriggan estão prontos para evitar que elas caiam nas mãos erradas.",
+  "rating": 6.7,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "guerra",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 94925,
+  "xtream": {
+    "seriesId": 5147
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2513869",
+          "episodeId": 2513869,
+          "season": 1,
+          "episode": 1,
+          "title": "SPRIGGAN S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513870",
+          "episodeId": 2513870,
+          "season": 1,
+          "episode": 2,
+          "title": "SPRIGGAN S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513871",
+          "episodeId": 2513871,
+          "season": 1,
+          "episode": 3,
+          "title": "SPRIGGAN S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513872",
+          "episodeId": 2513872,
+          "season": 1,
+          "episode": 4,
+          "title": "SPRIGGAN S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513873",
+          "episodeId": 2513873,
+          "season": 1,
+          "episode": 5,
+          "title": "SPRIGGAN S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513874",
+          "episodeId": 2513874,
+          "season": 1,
+          "episode": 6,
+          "title": "SPRIGGAN S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

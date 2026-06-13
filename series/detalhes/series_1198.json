@@ -1,0 +1,59 @@
+{
+  "id": "series_1198",
+  "type": "series",
+  "title": "Predestinado",
+  "originalTitle": "Predestinado",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/pXPLaOh6SyNDlaE2mIfMcamcG0U.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/z0EQRDF0dVzP2zIxNaZkhjcWn5S.jpg",
+  "overview": "Um mergulho na origem do jogador Gabriel Barbosa, o Gabigol, para entender seu comportamento, sua capacidade de encantar o público infantil, e sua fúria atrás do lance mais importante do futebol: o gol",
+  "rating": 7.8,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 119759,
+  "xtream": {
+    "seriesId": 1198
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2400473",
+          "episodeId": 2400473,
+          "season": 1,
+          "episode": 1,
+          "title": "Predestinado S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2400474",
+          "episodeId": 2400474,
+          "season": 1,
+          "episode": 2,
+          "title": "Predestinado S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2400475",
+          "episodeId": 2400475,
+          "season": 1,
+          "episode": 3,
+          "title": "Predestinado S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2400476",
+          "episodeId": 2400476,
+          "season": 1,
+          "episode": 4,
+          "title": "Predestinado S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

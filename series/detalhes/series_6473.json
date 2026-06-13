@@ -1,0 +1,74 @@
+{
+  "id": "series_6473",
+  "type": "series",
+  "title": "O Leopardo",
+  "originalTitle": "Il Gattopardo",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/6Ys3rd7Zb1Kj4aG8mbT8O29VZgy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aHjnX5tFWwjpUiKsaBHKDYfpNV2.jpg",
+  "overview": "Em meio à unificação da Itália nos anos 1860, um príncipe siciliano enfrenta o conflito entre os antigos privilégios de sua família e as mudanças causadas pela revolução.",
+  "rating": 7.7,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 225399,
+  "xtream": {
+    "seriesId": 6473
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2547133",
+          "episodeId": 2547133,
+          "season": 1,
+          "episode": 1,
+          "title": "O Leopardo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547134",
+          "episodeId": 2547134,
+          "season": 1,
+          "episode": 2,
+          "title": "O Leopardo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547135",
+          "episodeId": 2547135,
+          "season": 1,
+          "episode": 3,
+          "title": "O Leopardo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547136",
+          "episodeId": 2547136,
+          "season": 1,
+          "episode": 4,
+          "title": "O Leopardo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547137",
+          "episodeId": 2547137,
+          "season": 1,
+          "episode": 5,
+          "title": "O Leopardo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547138",
+          "episodeId": 2547138,
+          "season": 1,
+          "episode": 6,
+          "title": "O Leopardo S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_7849",
+  "type": "series",
+  "title": "The Tech Bro Murders",
+  "originalTitle": "The Tech Bro Murders",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/h7ehsWCIsx318qVFGP2s3VkzoGJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5HSqIvNb7WGArNrAS9mLM9N2WKu.jpg",
+  "overview": "",
+  "rating": 6,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 299090,
+  "xtream": {
+    "seriesId": 7849
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2573208",
+          "episodeId": 2573208,
+          "season": 1,
+          "episode": 1,
+          "title": "The Tech Bro Murders S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573209",
+          "episodeId": 2573209,
+          "season": 1,
+          "episode": 2,
+          "title": "The Tech Bro Murders S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573210",
+          "episodeId": 2573210,
+          "season": 1,
+          "episode": 3,
+          "title": "The Tech Bro Murders S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573211",
+          "episodeId": 2573211,
+          "season": 1,
+          "episode": 4,
+          "title": "The Tech Bro Murders S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573212",
+          "episodeId": 2573212,
+          "season": 1,
+          "episode": 5,
+          "title": "The Tech Bro Murders S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573213",
+          "episodeId": 2573213,
+          "season": 1,
+          "episode": 6,
+          "title": "The Tech Bro Murders S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

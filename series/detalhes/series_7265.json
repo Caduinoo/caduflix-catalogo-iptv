@@ -1,0 +1,59 @@
+{
+  "id": "series_7265",
+  "type": "series",
+  "title": "Sr. e Sra. Assassinato",
+  "originalTitle": "Mr. & Mrs. Murder",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/gUjrECw1xcEBM7RXKhkZkqKvk1I.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zJVAbPSX4kXiPPu9RvTZwrCfqCh.jpg",
+  "overview": "A vida perfeita de quatro amigos desmorona após um deles desaparecer em uma caçada. Vinte anos depois, a verdade vem à tona com consequências devastadoras.",
+  "rating": 6.5,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 294835,
+  "xtream": {
+    "seriesId": 7265
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2562669",
+          "episodeId": 2562669,
+          "season": 1,
+          "episode": 1,
+          "title": "Sr e Sra Assassinato [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562670",
+          "episodeId": 2562670,
+          "season": 1,
+          "episode": 2,
+          "title": "Sr e Sra Assassinato [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562671",
+          "episodeId": 2562671,
+          "season": 1,
+          "episode": 3,
+          "title": "Sr e Sra Assassinato [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562672",
+          "episodeId": 2562672,
+          "season": 1,
+          "episode": 4,
+          "title": "Sr e Sra Assassinato [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

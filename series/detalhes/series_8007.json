@@ -1,0 +1,50 @@
+{
+  "id": "series_8007",
+  "type": "series",
+  "title": "900 Dias Sem Anabel",
+  "originalTitle": "900 días sin Anabel",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/qEKXbBYUmAhqhglNXCzwdnlspEs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jCQOJy8GipYvb6m4rymOOUi3Mkd.jpg",
+  "overview": "O sequestro de Anabel Segura manteve a Espanha em suspense durante 900 dias. Esta série documental explora o caso e apresenta gravações inéditas dos sequestradores.",
+  "rating": 7.762,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 274905,
+  "xtream": {
+    "seriesId": 8007
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575172",
+          "episodeId": 2575172,
+          "season": 1,
+          "episode": 1,
+          "title": "900 Dias Sem Anabel S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575173",
+          "episodeId": 2575173,
+          "season": 1,
+          "episode": 2,
+          "title": "900 Dias Sem Anabel S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575174",
+          "episodeId": 2575174,
+          "season": 1,
+          "episode": 3,
+          "title": "900 Dias Sem Anabel S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

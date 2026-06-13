@@ -1,0 +1,44 @@
+{
+  "id": "movie_2158264",
+  "type": "movie",
+  "title": "Hollow",
+  "originalTitle": "Hollow",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/lk1PQ1AHNsSd02si4i0adsUVHWI.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5,
+  "runtime": 30,
+  "genres": [
+    "drama",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Laura Bayston",
+      "character": "Laura Ryan",
+      "profile": "https://image.tmdb.org/t/p/w185/YtzcGKSa9JsvqETBoM18dv00Yv.jpg"
+    },
+    {
+      "name": "Kris Hitchen",
+      "character": "Niall Lavin",
+      "profile": "https://image.tmdb.org/t/p/w185/7HBX75MKwwoiFnLFMS2YKtiPQIB.jpg"
+    },
+    {
+      "name": "Angie Adler",
+      "character": "Denise",
+      "profile": ""
+    },
+    {
+      "name": "Karl Collins",
+      "character": "Father Hill",
+      "profile": "https://image.tmdb.org/t/p/w185/xmKa1IZN5H4TUflTsUZzIAdApMp.jpg"
+    }
+  ],
+  "director": "Paul Holbrook",
+  "tmdbId": 892989,
+  "xtream": {
+    "streamId": 2158264,
+    "containerExtension": "mp4"
+  }
+}

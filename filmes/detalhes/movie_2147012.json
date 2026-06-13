@@ -1,0 +1,50 @@
+{
+  "id": "movie_2147012",
+  "type": "movie",
+  "title": "Jogos Sombrios",
+  "originalTitle": "Wicked Games",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/7huzfsCTNlodWqZdIgbQoRiFs8b.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fwtsPMJDKrKPm3eZTWqRf36JjhQ.jpg",
+  "overview": "Harley decide passar o Dia das Bruxas na casa da família de seu namorado, mas o local é invadido por um grupo de pessoas mascaradas que os obrigam a participar de um jogo sinistro.",
+  "rating": 3.9,
+  "runtime": 87,
+  "genres": [
+    "terror",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Christine Spang",
+      "character": "Harley",
+      "profile": "https://image.tmdb.org/t/p/w185/yCQExCAVGgvRwfei49LU7Zude45.jpg"
+    },
+    {
+      "name": "Michael Shenefelt",
+      "character": "Rhodes",
+      "profile": "https://image.tmdb.org/t/p/w185/iXtU3eB98g8fj3dh4LOXd8XFJwi.jpg"
+    },
+    {
+      "name": "Conner Ann Waterman",
+      "character": "Colton",
+      "profile": "https://image.tmdb.org/t/p/w185/nuSyzK6wo8flwfB7S8hMvqIfweR.jpg"
+    },
+    {
+      "name": "Markus Silbiger",
+      "character": "Kiel",
+      "profile": "https://image.tmdb.org/t/p/w185/oy0jor0yK4rEtVKxArCAo0HUnih.jpg"
+    },
+    {
+      "name": "Jody Matzer",
+      "character": "Sheriff 1",
+      "profile": "https://image.tmdb.org/t/p/w185/dFr2TyAbPTOuxWG6aGjUrzIBHwE.jpg"
+    }
+  ],
+  "director": "Teddy Grennan",
+  "tmdbId": 880004,
+  "xtream": {
+    "streamId": 2147012,
+    "containerExtension": "mp4"
+  }
+}

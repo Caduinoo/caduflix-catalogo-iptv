@@ -1,0 +1,39 @@
+{
+  "id": "movie_2175863",
+  "type": "movie",
+  "title": "Sombras à Luz do Dia",
+  "originalTitle": "Shadows",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/8dmMVp93TmSbL1s3N6cMmp61zVi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cjqvU7wEtH41brkMX2PGzpSxH1e.jpg",
+  "overview": "Duas irmãs vivem na floresta junto de sua mãe, uma mulher rígida que as protege de uma misteriosa ameaça que aparece na luz do dia. Mas após participarem de uma caçada, Alma e Alex descobrem que a floresta guarda muitos outros segredos.",
+  "rating": 5.7,
+  "runtime": 102,
+  "genres": [
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Saskia Reeves",
+      "character": "Mother",
+      "profile": "https://image.tmdb.org/t/p/w185/1NM6rp95ec83tPa2Tnq66RV6Frc.jpg"
+    },
+    {
+      "name": "Lola Petticrew",
+      "character": "Alex",
+      "profile": "https://image.tmdb.org/t/p/w185/ykw2gQrbHmL07Eb17jYcG4RxVTn.jpg"
+    },
+    {
+      "name": "Mia Threapleton",
+      "character": "Alma",
+      "profile": "https://image.tmdb.org/t/p/w185/e7nskqaIMmSk6Zx9QADZ0EliwxE.jpg"
+    }
+  ],
+  "director": "Carlo Lavagna",
+  "tmdbId": 650597,
+  "xtream": {
+    "streamId": 2175863,
+    "containerExtension": "mp4"
+  }
+}

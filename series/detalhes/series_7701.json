@@ -1,0 +1,59 @@
+{
+  "id": "series_7701",
+  "type": "series",
+  "title": "Choque de Cultura: A Série",
+  "originalTitle": "Choque de Cultura: A Série",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/b5Dj79y5ohvV5mxVpa9fQImdKtw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f4c7sFNN1YuIuzv9DJvBESgxAEG.jpg",
+  "overview": "Os quatro maiores motoristas do transporte alternativo do Brasil se reencontram após um longo período separados. Rogerinho do Ingá, agora vidente das tartarugas, Maurílio dos Anjos, o mais novo diretor brasileiro, Renan de Almeida, com sua nova empresa de transporte de famosos, e Julinho da Van, o mais novo empreendedor desempregado, se veem em uma situação perigosa, que envolve a apresentadora Luciana Gimenez, o ator Cauã Reymond e um sequestro inesperado, com reviravoltas inesperadas.",
+  "rating": 8.5,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 308218,
+  "xtream": {
+    "seriesId": 7701
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2570506",
+          "episodeId": 2570506,
+          "season": 1,
+          "episode": 1,
+          "title": "Choque de Cultura A Serie S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570507",
+          "episodeId": 2570507,
+          "season": 1,
+          "episode": 2,
+          "title": "Choque de Cultura A Serie S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570508",
+          "episodeId": 2570508,
+          "season": 1,
+          "episode": 3,
+          "title": "Choque de Cultura A Serie S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570509",
+          "episodeId": 2570509,
+          "season": 1,
+          "episode": 4,
+          "title": "Choque de Cultura A Serie S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

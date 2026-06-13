@@ -1,0 +1,66 @@
+{
+  "id": "series_1488",
+  "type": "series",
+  "title": "Jiva!",
+  "originalTitle": "Jiva!",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/vPPZCbycpfdD6XjmizTIFnkLBZF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bTWws9gHSIfvG8vkC8u69fArav3.jpg",
+  "overview": "Para realizar seus sonhos, uma talentosa dançarina sul-africana precisa enfrentar os próprios medos e a oposição da família.",
+  "rating": 7.2,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 127940,
+  "xtream": {
+    "seriesId": 1488
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2412525",
+          "episodeId": 2412525,
+          "season": 1,
+          "episode": 1,
+          "title": "Jiva! S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412526",
+          "episodeId": 2412526,
+          "season": 1,
+          "episode": 2,
+          "title": "Jiva! S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412527",
+          "episodeId": 2412527,
+          "season": 1,
+          "episode": 3,
+          "title": "Jiva! S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412528",
+          "episodeId": 2412528,
+          "season": 1,
+          "episode": 4,
+          "title": "Jiva! S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412529",
+          "episodeId": 2412529,
+          "season": 1,
+          "episode": 5,
+          "title": "Jiva! S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

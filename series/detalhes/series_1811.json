@@ -1,0 +1,91 @@
+{
+  "id": "series_1811",
+  "type": "series",
+  "title": "Galera FC",
+  "originalTitle": "Galera FC",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/hKbyTz94MsfVtTtIGblfhXw6UTh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o9ZxWbAcAgzCCiG2Bnbhb4gUPRu.jpg",
+  "overview": "A história de Elton, um craque que quer largar o futebol, mas que não sabe fazer outra coisa. Elton tentará anular o contrato sem prejudicar seus entes queridos e sem pagar a multa milionária que o deixaria na bancarrota.",
+  "rating": 2,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 128140,
+  "xtream": {
+    "seriesId": 1811
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2428665",
+          "episodeId": 2428665,
+          "season": 1,
+          "episode": 1,
+          "title": "Galera FC (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2428666",
+          "episodeId": 2428666,
+          "season": 1,
+          "episode": 2,
+          "title": "Galera FC (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2428667",
+          "episodeId": 2428667,
+          "season": 1,
+          "episode": 3,
+          "title": "Galera FC (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2428668",
+          "episodeId": 2428668,
+          "season": 1,
+          "episode": 4,
+          "title": "Galera FC (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2428669",
+          "episodeId": 2428669,
+          "season": 1,
+          "episode": 5,
+          "title": "Galera FC (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2428670",
+          "episodeId": 2428670,
+          "season": 1,
+          "episode": 6,
+          "title": "Galera FC (2021) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2428671",
+          "episodeId": 2428671,
+          "season": 1,
+          "episode": 7,
+          "title": "Galera FC (2021) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2428672",
+          "episodeId": 2428672,
+          "season": 1,
+          "episode": 8,
+          "title": "Galera FC (2021) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "series_7329",
+  "type": "series",
+  "title": "Suplicium",
+  "originalTitle": "Suplicium",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/gVcJpSiK74uXMQmV7IVEggDpCjV.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Um decadente escritor de histórias fantásticas reúne velhos amigos para uma noite de contação de histórias. Com a promessa de dividir os lucros da venda do livro com essas histórias, em segredo pretende roubar as narrativas dos amigos.",
+  "rating": 0,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "misterio",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 229435,
+  "xtream": {
+    "seriesId": 7329
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2564258",
+          "episodeId": 2564258,
+          "season": 1,
+          "episode": 1,
+          "title": "Suplicium S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564259",
+          "episodeId": 2564259,
+          "season": 1,
+          "episode": 2,
+          "title": "Suplicium S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564260",
+          "episodeId": 2564260,
+          "season": 1,
+          "episode": 3,
+          "title": "Suplicium S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564261",
+          "episodeId": 2564261,
+          "season": 1,
+          "episode": 4,
+          "title": "Suplicium S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564262",
+          "episodeId": 2564262,
+          "season": 1,
+          "episode": 5,
+          "title": "Suplicium S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564263",
+          "episodeId": 2564263,
+          "season": 1,
+          "episode": 6,
+          "title": "Suplicium S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

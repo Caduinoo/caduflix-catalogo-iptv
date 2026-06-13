@@ -1,0 +1,74 @@
+{
+  "id": "series_7451",
+  "type": "series",
+  "title": "Amsterdam Central 24/7",
+  "originalTitle": "Amsterdam Centraal 24/7",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/jiTuiX7cnnusPmYioaZpe0k6Xx7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jJaHeozfSIsUdK7UxuqoGri3rTC.jpg",
+  "overview": "900 homens e mulheres dedicados fazem o máximo todos os dias para manter tudo funcionando perfeitamente.",
+  "rating": 8.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 285622,
+  "xtream": {
+    "seriesId": 7451
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2566038",
+          "episodeId": 2566038,
+          "season": 1,
+          "episode": 1,
+          "title": "Amsterdam Central 24 7 [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566039",
+          "episodeId": 2566039,
+          "season": 1,
+          "episode": 2,
+          "title": "Amsterdam Central 24 7 [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566040",
+          "episodeId": 2566040,
+          "season": 1,
+          "episode": 3,
+          "title": "Amsterdam Central 24 7 [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566041",
+          "episodeId": 2566041,
+          "season": 1,
+          "episode": 4,
+          "title": "Amsterdam Central 24 7 [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566042",
+          "episodeId": 2566042,
+          "season": 1,
+          "episode": 5,
+          "title": "Amsterdam Central 24 7 [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566043",
+          "episodeId": 2566043,
+          "season": 1,
+          "episode": 6,
+          "title": "Amsterdam Central 24 7 [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

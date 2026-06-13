@@ -1,0 +1,43 @@
+{
+  "id": "series_8468",
+  "type": "series",
+  "title": "E.T. - Edu e Tatá",
+  "originalTitle": "E.T. - Edu e Tatá",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/bUtCxtYPaSm7LdbrBA3Zk8CqVt9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pKzvS5DerPHCirVJYcdYaEH3WCN.jpg",
+  "overview": "Edu Sterblitch e Tatá Werneck apresentam, comentam e recriam o próprio programa enquanto ele acontece, com esquetes, paródias de internet e comerciais que ninguém pediu.",
+  "rating": 0,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 323069,
+  "xtream": {
+    "seriesId": 8468
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2581422",
+          "episodeId": 2581422,
+          "season": 1,
+          "episode": 1,
+          "title": "E.T. Edu e Tata (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581423",
+          "episodeId": 2581423,
+          "season": 1,
+          "episode": 2,
+          "title": "E.T. Edu e Tata (2026) S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

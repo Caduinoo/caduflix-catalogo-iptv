@@ -1,0 +1,50 @@
+{
+  "id": "series_4300",
+  "type": "series",
+  "title": "Os Celtas: A História Não Contada",
+  "originalTitle": "Celts: The Untold Story",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/hKfiEONp0FU0rZBbzJlkLLr03c9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mBZlx4hSEWQR8dytbUGyTgCSoGn.jpg",
+  "overview": "Descubra a história desconhecida dos Celtas, um povo que não deixou registros escritos, mas que comunicava o seu passado através de canções e histórias, que veio da Europa Central e se espalhou por todo o continente.",
+  "rating": 6,
+  "genres": [
+    "historia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 214924,
+  "xtream": {
+    "seriesId": 4300
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2493407",
+          "episodeId": 2493407,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Celtas A Historia Nao Contada (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2493408",
+          "episodeId": 2493408,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Celtas A Historia Nao Contada (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2493409",
+          "episodeId": 2493409,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Celtas A Historia Nao Contada (2022) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

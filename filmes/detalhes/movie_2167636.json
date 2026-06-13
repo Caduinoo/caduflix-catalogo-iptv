@@ -1,0 +1,43 @@
+{
+  "id": "movie_2167636",
+  "type": "movie",
+  "title": "Szelídek",
+  "originalTitle": "Szelídek",
+  "year": 1997,
+  "poster": "https://image.tmdb.org/t/p/w780/gQj5UXiJmp0ZoAiFFchTMCGzX0O.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 9,
+  "runtime": 91,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Peter Connelly",
+      "character": "Eszbe",
+      "profile": ""
+    },
+    {
+      "name": "Széles Tamás",
+      "character": "Eszebe",
+      "profile": "https://image.tmdb.org/t/p/w185/7tWvGpprIgkQFajHsggyRSA8neI.jpg"
+    },
+    {
+      "name": "Erika Marozsán",
+      "character": "Lilla",
+      "profile": "https://image.tmdb.org/t/p/w185/tH09OsjXtQ9jcNdRqBWS5Jr3xFU.jpg"
+    },
+    {
+      "name": "György Fehér",
+      "character": "Dani",
+      "profile": ""
+    }
+  ],
+  "director": "Zsolt Balogh",
+  "tmdbId": 1244288,
+  "xtream": {
+    "streamId": 2167636,
+    "containerExtension": "mp4"
+  }
+}

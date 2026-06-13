@@ -1,0 +1,52 @@
+{
+  "id": "series_2527",
+  "type": "series",
+  "title": "Entre Lobos",
+  "originalTitle": "Entre Lobos",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/kXnLyY8ggBsfPyvoSb54fCpvZbm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mY8w5geIRKkYDqGlcGrAcgr8oQp.jpg",
+  "overview": "A segurança pública do Brasil está em frangalhos. O prejuízo é imenso, contabilizado em milhões de dólares e milhares de vidas perdidas para sempre” Documentário Brasil Paralelo 2022.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "crime",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 204966,
+  "xtream": {
+    "seriesId": 2527
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2450101",
+          "episodeId": 2450101,
+          "season": 1,
+          "episode": 1,
+          "title": "Entre Lobos (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450102",
+          "episodeId": 2450102,
+          "season": 1,
+          "episode": 2,
+          "title": "Entre Lobos (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450103",
+          "episodeId": 2450103,
+          "season": 1,
+          "episode": 3,
+          "title": "Entre Lobos (2022) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

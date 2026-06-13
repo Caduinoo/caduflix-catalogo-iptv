@@ -1,0 +1,38 @@
+{
+  "id": "movie_2111122",
+  "type": "movie",
+  "title": "Síndrome de Estocolmo",
+  "originalTitle": "Síndrome de Estocolmo",
+  "year": 2012,
+  "poster": "https://image.tmdb.org/t/p/w500/qjjBoBPUQgw7MhbCefyObLa8yTG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sCTiuAyE1d4VHjuOFmIRKYpbUK5.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 0,
+  "genres": [
+    "crime",
+    "drama",
+    "suspense",
+    "thriller",
+    "comedia",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Pedro Barroso",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/h9BRJ6mAPV8Wda0GGlh5Xl83HBc.jpg"
+    },
+    {
+      "name": "Mariana Monteiro",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/ymrJMspQufwLgh5JEs8vu3naonx.jpg"
+    }
+  ],
+  "director": "Nuno Franco",
+  "tmdbId": 1184827,
+  "xtream": {
+    "streamId": 2111122,
+    "containerExtension": "mp4"
+  }
+}

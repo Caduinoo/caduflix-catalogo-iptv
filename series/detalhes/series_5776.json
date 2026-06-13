@@ -1,0 +1,90 @@
+{
+  "id": "series_5776",
+  "type": "series",
+  "title": "A Franquia",
+  "originalTitle": "The Franchise",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/2JqfBDYBWAsZ0DyZ4yxciih1JKD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5bkxQ4fXDMhfF8CAToNxmz0gC7O.jpg",
+  "overview": "Nesta comédia da HBO, a equipe de uma saga de filmes de super-heróis pouco apreciada luta por um lugar no mundo selvagem do cinema.",
+  "rating": 6.461,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 216619,
+  "xtream": {
+    "seriesId": 5776
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2529571",
+          "episodeId": 2529571,
+          "season": 1,
+          "episode": 1,
+          "title": "A Franquia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2529572",
+          "episodeId": 2529572,
+          "season": 1,
+          "episode": 2,
+          "title": "A Franquia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2529573",
+          "episodeId": 2529573,
+          "season": 1,
+          "episode": 3,
+          "title": "A Franquia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2529574",
+          "episodeId": 2529574,
+          "season": 1,
+          "episode": 4,
+          "title": "A Franquia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2529575",
+          "episodeId": 2529575,
+          "season": 1,
+          "episode": 5,
+          "title": "A Franquia S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2529576",
+          "episodeId": 2529576,
+          "season": 1,
+          "episode": 6,
+          "title": "A Franquia S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2529577",
+          "episodeId": 2529577,
+          "season": 1,
+          "episode": 7,
+          "title": "A Franquia S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2529578",
+          "episodeId": 2529578,
+          "season": 1,
+          "episode": 8,
+          "title": "A Franquia S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

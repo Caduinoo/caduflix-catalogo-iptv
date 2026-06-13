@@ -1,0 +1,46 @@
+{
+  "id": "movie_2080725",
+  "type": "movie",
+  "title": "Star Wars - 4K77",
+  "originalTitle": "Star Wars - 4K77",
+  "year": 1977,
+  "poster": "https://image.tmdb.org/t/p/w500/jYPSDwnOSOiqhHden4pqoi8q2L4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3i8XW7s2IT3Oii4tVtbxWzSIcOP.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 121,
+  "genres": [
+    "aventura",
+    "acao",
+    "ficcao",
+    "fantasia"
+  ],
+  "cast": [
+    {
+      "name": "Mark Hamill",
+      "character": "Luke Skywalker",
+      "profile": "https://image.tmdb.org/t/p/w185/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "name": "Carrie Fisher",
+      "character": "Princess Leia Organa",
+      "profile": "https://image.tmdb.org/t/p/w185/of4yHmryKPy92eeskUQ7MRmjC3l.jpg"
+    },
+    {
+      "name": "Alec Guinness",
+      "character": "Obi-Wan \"Ben\" Kenobi",
+      "profile": "https://image.tmdb.org/t/p/w185/q9QgiNDEO6lbi7uMAOw0OgWn8DG.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "character": "Han Solo",
+      "profile": "https://image.tmdb.org/t/p/w185/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    }
+  ],
+  "director": "George Lucas",
+  "tmdbId": 1711999,
+  "xtream": {
+    "streamId": 2080725,
+    "containerExtension": "mp4"
+  }
+}

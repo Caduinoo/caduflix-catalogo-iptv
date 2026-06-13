@@ -1,0 +1,68 @@
+{
+  "id": "series_3226",
+  "type": "series",
+  "title": "Last Light",
+  "originalTitle": "Last Light",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f7IxKWg4isIIsR1kC4EjgVE7GU4.jpg",
+  "overview": "Separados por continentes, o petroquímico Andy Yeats e sua família devem sobreviver aos efeitos mortais de uma súbita crise global do petróleo e encontrar o responsável por trás de tudo.",
+  "rating": 6,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 195821,
+  "xtream": {
+    "seriesId": 3226
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2467240",
+          "episodeId": 2467240,
+          "season": 1,
+          "episode": 1,
+          "title": "Last Light (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2467241",
+          "episodeId": 2467241,
+          "season": 1,
+          "episode": 2,
+          "title": "Last Light (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2467242",
+          "episodeId": 2467242,
+          "season": 1,
+          "episode": 3,
+          "title": "Last Light (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2467243",
+          "episodeId": 2467243,
+          "season": 1,
+          "episode": 4,
+          "title": "Last Light (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2467244",
+          "episodeId": 2467244,
+          "season": 1,
+          "episode": 5,
+          "title": "Last Light (2022) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

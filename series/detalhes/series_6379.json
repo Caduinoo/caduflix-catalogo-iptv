@@ -1,0 +1,50 @@
+{
+  "id": "series_6379",
+  "type": "series",
+  "title": "Rivais do Críquete: Índia x Paquistão",
+  "originalTitle": "The Greatest Rivalry: India vs Pakistan",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/zJGdESNIRq7rXBcqACqrkmrWdb6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s0eW6fwZ9ciAUXNpxpcsdSIpoof.jpg",
+  "overview": "Analisando a rivalidade no críquete entre Índia e Paquistão, esta série documental mostra como o passado complexo e o presente incerto das nações se reflete em campo.",
+  "rating": 7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 247833,
+  "xtream": {
+    "seriesId": 6379
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2545447",
+          "episodeId": 2545447,
+          "season": 1,
+          "episode": 1,
+          "title": "Rivais do Criquete India x Paquistao [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2545448",
+          "episodeId": 2545448,
+          "season": 1,
+          "episode": 2,
+          "title": "Rivais do Criquete India x Paquistao [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2545449",
+          "episodeId": 2545449,
+          "season": 1,
+          "episode": 3,
+          "title": "Rivais do Criquete India x Paquistao [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

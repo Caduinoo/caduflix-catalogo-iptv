@@ -1,0 +1,30 @@
+{
+  "id": "movie_2071683",
+  "type": "movie",
+  "title": "Um Dia",
+  "originalTitle": "Um Dia",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/coc0wvqvYIFq7kTVQk5DzRdVqg4.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Marcelo vive um dia nublado no Rio.",
+  "rating": 0,
+  "runtime": 20,
+  "genres": [
+    "documentario",
+    "romance",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Marcelo Freixo",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/coX3cZuXgOhrPmezUuNUEZOw0Ln.jpg"
+    }
+  ],
+  "director": "Angelo Defanti",
+  "tmdbId": 1245492,
+  "xtream": {
+    "streamId": 2071683,
+    "containerExtension": "mp4"
+  }
+}

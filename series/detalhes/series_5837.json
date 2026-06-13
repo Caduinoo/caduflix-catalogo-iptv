@@ -1,0 +1,93 @@
+{
+  "id": "series_5837",
+  "type": "series",
+  "title": "Teacup - O Impostor",
+  "originalTitle": "Teacup",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/klF3ya3c7EZctvWiHDhLdnyo1ZK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3zo3YWYb78twGI3bC7kNrnV3GRJ.jpg",
+  "overview": "Um grupo enfrenta uma ameaça sobrenatural em um rancho no Texas. Para sobreviver, precisam superar rivalidades e unir forças.",
+  "rating": 7.007,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "misterio",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 247721,
+  "xtream": {
+    "seriesId": 5837
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2531409",
+          "episodeId": 2531409,
+          "season": 1,
+          "episode": 1,
+          "title": "Teacup [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531410",
+          "episodeId": 2531410,
+          "season": 1,
+          "episode": 2,
+          "title": "Teacup [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531411",
+          "episodeId": 2531411,
+          "season": 1,
+          "episode": 3,
+          "title": "Teacup [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531412",
+          "episodeId": 2531412,
+          "season": 1,
+          "episode": 4,
+          "title": "Teacup [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531413",
+          "episodeId": 2531413,
+          "season": 1,
+          "episode": 5,
+          "title": "Teacup [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531414",
+          "episodeId": 2531414,
+          "season": 1,
+          "episode": 6,
+          "title": "Teacup [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531415",
+          "episodeId": 2531415,
+          "season": 1,
+          "episode": 7,
+          "title": "Teacup [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531416",
+          "episodeId": 2531416,
+          "season": 1,
+          "episode": 8,
+          "title": "Teacup [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

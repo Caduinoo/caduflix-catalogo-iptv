@@ -1,0 +1,58 @@
+{
+  "id": "series_8256",
+  "type": "series",
+  "title": "Clássico Americano",
+  "originalTitle": "American Classic",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/Pvgniei9rvEt16sMPPKlsQdSJd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3CNm2QVRv8w3X0SbuwAFU63HnLw.jpg",
+  "overview": "O astro da Broadway e notório narcisista Richard Bean volta para casa após um colapso público e encontra o teatro da família em decadência. Ao tentar resgatar sua antiga glória, logo descobre o poder da arte para curar velhas feridas e criar novas.",
+  "rating": 7.3,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 283228,
+  "xtream": {
+    "seriesId": 8256
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2578353",
+          "episodeId": 2578353,
+          "season": 1,
+          "episode": 1,
+          "title": "Classico Americano (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578354",
+          "episodeId": 2578354,
+          "season": 1,
+          "episode": 2,
+          "title": "Classico Americano (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578355",
+          "episodeId": 2578355,
+          "season": 1,
+          "episode": 3,
+          "title": "Classico Americano (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578356",
+          "episodeId": 2578356,
+          "season": 1,
+          "episode": 4,
+          "title": "Classico Americano (2026) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

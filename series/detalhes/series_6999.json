@@ -1,0 +1,60 @@
+{
+  "id": "series_6999",
+  "type": "series",
+  "title": "Aberto ao Público",
+  "originalTitle": "Aberto ao Público",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/zEugMLsCr9F1bcYqiCN7YUhkQRv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zw86BSzNsUtrGfgNelwkVwzo8eK.jpg",
+  "overview": "Plateia, celebridades e grandes nomes do stand-up se encontram em um show irreverente, com histórias reais e uma dose de espontaneidade que mistura sotaques, vivências e surpresas.",
+  "rating": 6,
+  "genres": [
+    "comedia",
+    "reality",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 295437,
+  "xtream": {
+    "seriesId": 6999
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2557991",
+          "episodeId": 2557991,
+          "season": 1,
+          "episode": 1,
+          "title": "Aberto ao Publico S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557992",
+          "episodeId": 2557992,
+          "season": 1,
+          "episode": 2,
+          "title": "Aberto ao Publico S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557993",
+          "episodeId": 2557993,
+          "season": 1,
+          "episode": 3,
+          "title": "Aberto ao Publico S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557994",
+          "episodeId": 2557994,
+          "season": 1,
+          "episode": 4,
+          "title": "Aberto ao Publico S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

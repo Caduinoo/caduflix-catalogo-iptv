@@ -1,0 +1,76 @@
+{
+  "id": "series_6822",
+  "type": "series",
+  "title": "Planeta Terra II",
+  "originalTitle": "Planet Earth II",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/aegfp6cN4rckpIy6oR9PfAaBSho.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1DYpBOVdb7Mzc9DgMCdIBTN1JEC.jpg",
+  "overview": "David Attenborough apresenta uma série documental que explora como os animais enfrentam os desafios de sobreviver nos habitats mais emblemáticos da Terra.",
+  "rating": 8.643,
+  "genres": [
+    "documentario",
+    "familia",
+    "infantil"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 68595,
+  "xtream": {
+    "seriesId": 6822
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2552992",
+          "episodeId": 2552992,
+          "season": 1,
+          "episode": 1,
+          "title": "Planeta Terra II S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552993",
+          "episodeId": 2552993,
+          "season": 1,
+          "episode": 2,
+          "title": "Planeta Terra II S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552994",
+          "episodeId": 2552994,
+          "season": 1,
+          "episode": 3,
+          "title": "Planeta Terra II S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552995",
+          "episodeId": 2552995,
+          "season": 1,
+          "episode": 4,
+          "title": "Planeta Terra II S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552996",
+          "episodeId": 2552996,
+          "season": 1,
+          "episode": 5,
+          "title": "Planeta Terra II S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552997",
+          "episodeId": 2552997,
+          "season": 1,
+          "episode": 6,
+          "title": "Planeta Terra II S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

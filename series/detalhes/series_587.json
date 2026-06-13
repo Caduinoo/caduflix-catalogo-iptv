@@ -1,0 +1,93 @@
+{
+  "id": "series_587",
+  "type": "series",
+  "title": "Contos do Loop",
+  "originalTitle": "Tales from the Loop",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/g3IH9ErCLrHB0CL4JyGlM6HElFM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5cv0cgTIGv0jnkWsMAoCObA0XCd.jpg",
+  "overview": "Contos do Loop explora as aventuras alucinantes de pessoas que vivem acima do Loop, uma máquina construída para abrir e explorar os mistérios do universo, tornando realidade coisas anteriormente relegadas à ficção científica.",
+  "rating": 7.007,
+  "genres": [
+    "drama",
+    "misterio",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 93784,
+  "xtream": {
+    "seriesId": 587
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2368380",
+          "episodeId": 2368380,
+          "season": 1,
+          "episode": 1,
+          "title": "Contos do Loop S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2368381",
+          "episodeId": 2368381,
+          "season": 1,
+          "episode": 2,
+          "title": "Contos do Loop S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2368382",
+          "episodeId": 2368382,
+          "season": 1,
+          "episode": 3,
+          "title": "Contos do Loop S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2368383",
+          "episodeId": 2368383,
+          "season": 1,
+          "episode": 4,
+          "title": "Contos do Loop S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2368384",
+          "episodeId": 2368384,
+          "season": 1,
+          "episode": 5,
+          "title": "Contos do Loop S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2368385",
+          "episodeId": 2368385,
+          "season": 1,
+          "episode": 6,
+          "title": "Contos do Loop S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2368386",
+          "episodeId": 2368386,
+          "season": 1,
+          "episode": 7,
+          "title": "Contos do Loop S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2368387",
+          "episodeId": 2368387,
+          "season": 1,
+          "episode": 8,
+          "title": "Contos do Loop S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

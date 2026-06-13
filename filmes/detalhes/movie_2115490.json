@@ -1,0 +1,39 @@
+{
+  "id": "movie_2115490",
+  "type": "movie",
+  "title": "Chips",
+  "originalTitle": "Chips",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/v4v0CHg2DzlHAVCPK5ITbL8IAx9.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 14,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Sophie Lawson",
+      "character": "Shauna",
+      "profile": ""
+    },
+    {
+      "name": "Sarah McCardie",
+      "character": "Ailsa",
+      "profile": "https://image.tmdb.org/t/p/w185/cryIuJv90YU7xq0UeKJJIIUR21P.jpg"
+    },
+    {
+      "name": "Peter Mullan",
+      "character": "Chips (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/dvu5PWJK6Vv4xnYyMzdMvH73Laj.jpg"
+    }
+  ],
+  "director": "Karen Kelly",
+  "tmdbId": 803853,
+  "xtream": {
+    "streamId": 2115490,
+    "containerExtension": "mp4"
+  }
+}

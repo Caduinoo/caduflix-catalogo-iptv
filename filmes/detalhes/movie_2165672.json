@@ -1,0 +1,44 @@
+{
+  "id": "movie_2165672",
+  "type": "movie",
+  "title": "The Knot",
+  "originalTitle": "The Knot",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/8HVzqlHJLQXzyHxSSZD55eelmF4.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 12,
+  "genres": [
+    "terror",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Christiane Seidel",
+      "character": "Eve",
+      "profile": "https://image.tmdb.org/t/p/w185/xHgxhbAIxQWEOtX0sBQbz2O7lln.jpg"
+    },
+    {
+      "name": "Charlie Cox",
+      "character": "Ex 2",
+      "profile": "https://image.tmdb.org/t/p/w185/jBHDZ8MA4I7krNQx4IfqdfPfleD.jpg"
+    },
+    {
+      "name": "Hilary Greer",
+      "character": "Mother",
+      "profile": "https://image.tmdb.org/t/p/w185/qX5WaJZxeLA7nx7uzpBIpoXolUk.jpg"
+    },
+    {
+      "name": "Trevor Zhou",
+      "character": "Ex 3",
+      "profile": "https://image.tmdb.org/t/p/w185/uo3lgNUZOiqoxKJydjYulLcS5lb.jpg"
+    }
+  ],
+  "director": "Rebecca Schwab",
+  "tmdbId": 1198165,
+  "xtream": {
+    "streamId": 2165672,
+    "containerExtension": "mp4"
+  }
+}

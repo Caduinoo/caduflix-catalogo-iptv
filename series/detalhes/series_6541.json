@@ -1,0 +1,74 @@
+{
+  "id": "series_6541",
+  "type": "series",
+  "title": "Go!",
+  "originalTitle": "Go!",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/pmKjFSjmydwPKFKHG9KwUGjMxwg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2RVbt09kpjgzOC72XVpYuH4dTl1.jpg",
+  "overview": "Um jovem corredor tem uma segunda chance ao ganhar uma bolsa de atletismo. Mas será que ele vai realizar seus sonhos sem derrapar nas próprias mentiras?",
+  "rating": 7.5,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 285906,
+  "xtream": {
+    "seriesId": 6541
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2548444",
+          "episodeId": 2548444,
+          "season": 1,
+          "episode": 1,
+          "title": "Go S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548445",
+          "episodeId": 2548445,
+          "season": 1,
+          "episode": 2,
+          "title": "Go S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548446",
+          "episodeId": 2548446,
+          "season": 1,
+          "episode": 3,
+          "title": "Go S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548447",
+          "episodeId": 2548447,
+          "season": 1,
+          "episode": 4,
+          "title": "Go S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548448",
+          "episodeId": 2548448,
+          "season": 1,
+          "episode": 5,
+          "title": "Go S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548449",
+          "episodeId": 2548449,
+          "season": 1,
+          "episode": 6,
+          "title": "Go S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

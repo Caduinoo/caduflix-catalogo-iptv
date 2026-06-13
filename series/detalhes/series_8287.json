@@ -1,0 +1,63 @@
+{
+  "id": "series_8287",
+  "type": "series",
+  "title": "MAO",
+  "originalTitle": "MAO",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/kdti4Dm7XPV0Os2Jjzd188AWTQ3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pk8QkwzyLrmtm7bx6rcKAIuCIlq.jpg",
+  "overview": "Mao, um místico amaldiçoado há 900 anos, conhece Nanoka, uma garota do futuro marcada por uma tragédia. Transportados a um passado sobrenatural, os dois unem forças para enfrentar poderes sombrios e desvendar os mistérios que ligam suas vidas.",
+  "rating": 8.8,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 295999,
+  "xtream": {
+    "seriesId": 8287
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2578901",
+          "episodeId": 2578901,
+          "season": 1,
+          "episode": 1,
+          "title": "MAO (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578902",
+          "episodeId": 2578902,
+          "season": 1,
+          "episode": 2,
+          "title": "MAO (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578903",
+          "episodeId": 2578903,
+          "season": 1,
+          "episode": 3,
+          "title": "MAO (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578904",
+          "episodeId": 2578904,
+          "season": 1,
+          "episode": 4,
+          "title": "MAO (2026) [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

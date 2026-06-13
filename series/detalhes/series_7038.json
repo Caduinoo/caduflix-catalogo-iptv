@@ -1,0 +1,75 @@
+{
+  "id": "series_7038",
+  "type": "series",
+  "title": "Superstar",
+  "originalTitle": "Superestar",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/jIJ1RvUZB14s3KYMxhy6uoaye5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/95CONQMsn4l7fkAZP66ExYvX09F.jpg",
+  "overview": "Ambientada no caos do início dos anos 2000, esta série reinventa a vida da cantora pop Tamara (e sua transformação em Yurena) de um jeito bem peculiar.",
+  "rating": 6,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 243456,
+  "xtream": {
+    "seriesId": 7038
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2558943",
+          "episodeId": 2558943,
+          "season": 1,
+          "episode": 1,
+          "title": "Superstar S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2558944",
+          "episodeId": 2558944,
+          "season": 1,
+          "episode": 2,
+          "title": "Superstar S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2558945",
+          "episodeId": 2558945,
+          "season": 1,
+          "episode": 3,
+          "title": "Superstar S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2558946",
+          "episodeId": 2558946,
+          "season": 1,
+          "episode": 4,
+          "title": "Superstar S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2558947",
+          "episodeId": 2558947,
+          "season": 1,
+          "episode": 5,
+          "title": "Superstar S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2558948",
+          "episodeId": 2558948,
+          "season": 1,
+          "episode": 6,
+          "title": "Superstar S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

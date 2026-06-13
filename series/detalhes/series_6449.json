@@ -1,0 +1,58 @@
+{
+  "id": "series_6449",
+  "type": "series",
+  "title": "Cidade Tóxica",
+  "originalTitle": "Toxic Town",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/uZr7TRL3iYcXldJNr8p1jyjYMOq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pp4jnkOneeb4FFcni9VUCyo18sZ.jpg",
+  "overview": "Quando dezenas de bebês nascem com defeitos congênitos na cidade de Corby, as mães embarcam em uma batalha por justiça.",
+  "rating": 7.042,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 232342,
+  "xtream": {
+    "seriesId": 6449
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2546904",
+          "episodeId": 2546904,
+          "season": 1,
+          "episode": 1,
+          "title": "Cidade Toxica S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2546905",
+          "episodeId": 2546905,
+          "season": 1,
+          "episode": 2,
+          "title": "Cidade Toxica S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2546906",
+          "episodeId": 2546906,
+          "season": 1,
+          "episode": 3,
+          "title": "Cidade Toxica S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2546907",
+          "episodeId": 2546907,
+          "season": 1,
+          "episode": 4,
+          "title": "Cidade Toxica S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "series_984",
+  "type": "series",
+  "title": "Bancroft",
+  "originalTitle": "Bancroft",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/mfJ1zdGMETbJjAhkx35gdp8cU2i.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eSjWaAn9H2AfqxlkwwKk7aKqCzv.jpg",
+  "overview": "Elizabeth Bancroft (Sarah Parish) é uma respeitada detetive, tentando derrubar uma gangue de criminosos enquanto um caso arquivado é reaberto pela jovem detetive Katherine Stevens (Faye Marsay).",
+  "rating": 6.9,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 75456,
+  "xtream": {
+    "seriesId": 984
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2390715",
+          "episodeId": 2390715,
+          "season": 1,
+          "episode": 1,
+          "title": "Bancroft [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390716",
+          "episodeId": 2390716,
+          "season": 1,
+          "episode": 2,
+          "title": "Bancroft [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390717",
+          "episodeId": 2390717,
+          "season": 1,
+          "episode": 3,
+          "title": "Bancroft [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390718",
+          "episodeId": 2390718,
+          "season": 1,
+          "episode": 4,
+          "title": "Bancroft [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2390719",
+          "episodeId": 2390719,
+          "season": 2,
+          "episode": 1,
+          "title": "Bancroft [L] S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390720",
+          "episodeId": 2390720,
+          "season": 2,
+          "episode": 2,
+          "title": "Bancroft [L] S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2390721",
+          "episodeId": 2390721,
+          "season": 2,
+          "episode": 3,
+          "title": "Bancroft [L] S02 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

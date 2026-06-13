@@ -1,0 +1,66 @@
+{
+  "id": "series_8034",
+  "type": "series",
+  "title": "Vizinhos",
+  "originalTitle": "Vizinhos",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/upMiBmmGEEfg8yRZv79LW5zSeBQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/c4cdPPwHYvYHKaI1EUJsPMbMpu5.jpg",
+  "overview": "Misteriosos, prestativos e boa gente, vizinhos assumem as mais variadas formas. Em episódios não sequenciais, a série tem por fio condutor a temática unificadora das relações entre a vizinhança.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 248306,
+  "xtream": {
+    "seriesId": 8034
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575452",
+          "episodeId": 2575452,
+          "season": 1,
+          "episode": 1,
+          "title": "Vizinhos [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575453",
+          "episodeId": 2575453,
+          "season": 1,
+          "episode": 2,
+          "title": "Vizinhos [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575454",
+          "episodeId": 2575454,
+          "season": 1,
+          "episode": 3,
+          "title": "Vizinhos [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575455",
+          "episodeId": 2575455,
+          "season": 1,
+          "episode": 4,
+          "title": "Vizinhos [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575456",
+          "episodeId": 2575456,
+          "season": 1,
+          "episode": 5,
+          "title": "Vizinhos [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

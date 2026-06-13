@@ -1,0 +1,51 @@
+{
+  "id": "series_5888",
+  "type": "series",
+  "title": "Luva De Pedreiro - O Rei da Jogada",
+  "originalTitle": "Luva De Pedreiro - O Rei da Jogada",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/kR7VNxGTq2C6k1qGE3hImHnADea.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lxxvHukNWPzPWoUSihsgL79WoHQ.jpg",
+  "overview": "Esta reveladora docussérie em três partes retrata a história do influencer e fenômeno brasileiro das redes sociais \"Luva de Pedreiro\".",
+  "rating": 7.5,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 236262,
+  "xtream": {
+    "seriesId": 5888
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2533610",
+          "episodeId": 2533610,
+          "season": 1,
+          "episode": 1,
+          "title": "Luva de Pedreiro O Rei da Jogada S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533611",
+          "episodeId": 2533611,
+          "season": 1,
+          "episode": 2,
+          "title": "Luva de Pedreiro O Rei da Jogada S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2533612",
+          "episodeId": 2533612,
+          "season": 1,
+          "episode": 3,
+          "title": "Luva de Pedreiro O Rei da Jogada S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

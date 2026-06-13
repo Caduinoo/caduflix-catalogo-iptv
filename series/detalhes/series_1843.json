@@ -1,0 +1,92 @@
+{
+  "id": "series_1843",
+  "type": "series",
+  "title": "My Name",
+  "originalTitle": "마이 네임",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/x0eIZv8bJYjfTu7VkTOxHU8B91c.jpg",
+  "overview": "Depois do assassinato do pai, uma mulher com sede de vingança deposita a confiança em um chefão do crime — e acaba entrando para a polícia sob seu comando.",
+  "rating": 8.2,
+  "genres": [
+    "crime",
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 110356,
+  "xtream": {
+    "seriesId": 1843
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2429292",
+          "episodeId": 2429292,
+          "season": 1,
+          "episode": 1,
+          "title": "My Name (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429293",
+          "episodeId": 2429293,
+          "season": 1,
+          "episode": 2,
+          "title": "My Name (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429294",
+          "episodeId": 2429294,
+          "season": 1,
+          "episode": 3,
+          "title": "My Name (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429295",
+          "episodeId": 2429295,
+          "season": 1,
+          "episode": 4,
+          "title": "My Name (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429296",
+          "episodeId": 2429296,
+          "season": 1,
+          "episode": 5,
+          "title": "My Name (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429297",
+          "episodeId": 2429297,
+          "season": 1,
+          "episode": 6,
+          "title": "My Name (2021) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429298",
+          "episodeId": 2429298,
+          "season": 1,
+          "episode": 7,
+          "title": "My Name (2021) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2429299",
+          "episodeId": 2429299,
+          "season": 1,
+          "episode": 8,
+          "title": "My Name (2021) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

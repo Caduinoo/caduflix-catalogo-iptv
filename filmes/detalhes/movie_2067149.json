@@ -1,0 +1,42 @@
+{
+  "id": "movie_2067149",
+  "type": "movie",
+  "title": "Na Mira do Atirador",
+  "originalTitle": "The Wall",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/gRbvXParI3ZdEtsFxlGOQNaQBUQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eDw3ydtUpCE541mBFnEnSHyYuaH.jpg",
+  "overview": "Em pleno campo de batalha, dois soldados americanos descobrem que estão na mira de um atirador iraquiano. Eles não sabem onde o inimigo se esconde, nem podem se comunicar um com o outro, já que o adversário está interceptando a conversa dos americanos via rádio comunicador. Escondidos atrás de uma pequena parede de pedra, eles têm que encontrar uma maneira de sair vivos.",
+  "rating": 6.409,
+  "runtime": 81,
+  "genres": [
+    "guerra",
+    "suspense",
+    "thriller",
+    "drama",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Aaron Taylor-Johnson",
+      "character": "Isaac",
+      "profile": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+      "name": "John Cena",
+      "character": "Matthews",
+      "profile": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+      "name": "Laith Nakli",
+      "character": "Juba (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/nn78jjIjoSf1Lp6FGBcIffFmwEb.jpg"
+    }
+  ],
+  "director": "Doug Liman",
+  "tmdbId": 405775,
+  "xtream": {
+    "streamId": 2067149,
+    "containerExtension": "mp4"
+  }
+}

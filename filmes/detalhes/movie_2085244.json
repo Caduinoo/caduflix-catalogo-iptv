@@ -1,0 +1,60 @@
+{
+  "id": "movie_2085244",
+  "type": "movie",
+  "title": "AMNESIA",
+  "originalTitle": "AMNESIA",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/q26CQtlQRumOS4S3W3OWqbE3Tpo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7OUzmGTOzF8ojsXizO80D1qvhrd.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 0,
+  "genres": [
+    "drama",
+    "ficcao",
+    "suspense"
+  ],
+  "cast": [
+    {
+      "name": "Pedro Olórtegui",
+      "character": "Matías",
+      "profile": ""
+    },
+    {
+      "name": "Mateo Rivas",
+      "character": "Amigo del pasado 1",
+      "profile": ""
+    },
+    {
+      "name": "Matías Chinchay",
+      "character": "Amigo del pasado 2",
+      "profile": ""
+    },
+    {
+      "name": "Marko Flores",
+      "character": "Amigo del pasado 3",
+      "profile": "https://image.tmdb.org/t/p/w185/uZvI6MXFuxd5tFAPpNTDoIzqsc6.jpg"
+    },
+    {
+      "name": "Tadeo Yeterián",
+      "character": "Amigo del pasado 5",
+      "profile": ""
+    },
+    {
+      "name": "Ana Paula Tirado",
+      "character": "Amiga del pasado",
+      "profile": "https://image.tmdb.org/t/p/w185/4qRzp7m7hOfoDa9KJABOtOW1j0P.jpg"
+    },
+    {
+      "name": "Rodrigo Uehara",
+      "character": "Amigo de la infancia 6",
+      "profile": ""
+    }
+  ],
+  "director": "Mateo Rivas",
+  "tmdbId": 1391617,
+  "xtream": {
+    "streamId": 2085244,
+    "containerExtension": "mp4"
+  }
+}

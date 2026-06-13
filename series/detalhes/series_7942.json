@@ -1,0 +1,43 @@
+{
+  "id": "series_7942",
+  "type": "series",
+  "title": "Mel Brooks: O Homem de 99 Anos!",
+  "originalTitle": "Mel Brooks: The 99 Year Old Man!",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/htSwFYOyepCbLUUuyCtvC0uCQ3b.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5ECEMrt5DbTcXQqGfVwhtOtdcJl.jpg",
+  "overview": "Os diretores Judd Apatow e Michael Bonfiglio exploram a vida e o legado de Mel Brooks, uma das vozes cômicas mais marcantes de nosso tempo.",
+  "rating": 7.8,
+  "genres": [
+    "documentario",
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 308112,
+  "xtream": {
+    "seriesId": 7942
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2574382",
+          "episodeId": 2574382,
+          "season": 1,
+          "episode": 1,
+          "title": "Mel Brooks The 99 Year Old Man [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574383",
+          "episodeId": 2574383,
+          "season": 1,
+          "episode": 2,
+          "title": "Mel Brooks The 99 Year Old Man [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

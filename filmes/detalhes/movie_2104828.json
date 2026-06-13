@@ -1,0 +1,38 @@
+{
+  "id": "movie_2104828",
+  "type": "movie",
+  "title": "Meet Cute",
+  "originalTitle": "Meet Cute",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/eyzGLEujmThUHpkGuxn6dFAcMMg.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 8,
+  "genres": [
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Francesca Calvo",
+      "character": "Greta",
+      "profile": "https://image.tmdb.org/t/p/w185/q2rxyeuR1gTyMFpAeQG43OdwQsa.jpg"
+    },
+    {
+      "name": "Nancy Linari",
+      "character": "Marta",
+      "profile": "https://image.tmdb.org/t/p/w185/nDcIVinFEuLlM1JXHnLszP8F53F.jpg"
+    },
+    {
+      "name": "Nicole Pacent",
+      "character": "Ray",
+      "profile": "https://image.tmdb.org/t/p/w185/qeey5o1UIg44De5BUCVzQG1z7MM.jpg"
+    }
+  ],
+  "director": "Francesca Calvo",
+  "tmdbId": 732512,
+  "xtream": {
+    "streamId": 2104828,
+    "containerExtension": "mp4"
+  }
+}

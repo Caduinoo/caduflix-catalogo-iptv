@@ -1,0 +1,66 @@
+{
+  "id": "series_203",
+  "type": "series",
+  "title": "Chernobyl",
+  "originalTitle": "Chernobyl",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
+  "overview": "Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.",
+  "rating": 8.713,
+  "genres": [
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 87108,
+  "xtream": {
+    "seriesId": 203
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2354564",
+          "episodeId": 2354564,
+          "season": 1,
+          "episode": 1,
+          "title": "Chernobyl (2019) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2354565",
+          "episodeId": 2354565,
+          "season": 1,
+          "episode": 2,
+          "title": "Chernobyl (2019) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2354566",
+          "episodeId": 2354566,
+          "season": 1,
+          "episode": 3,
+          "title": "Chernobyl (2019) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2354567",
+          "episodeId": 2354567,
+          "season": 1,
+          "episode": 4,
+          "title": "Chernobyl (2019) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2354568",
+          "episodeId": 2354568,
+          "season": 1,
+          "episode": 5,
+          "title": "Chernobyl (2019) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

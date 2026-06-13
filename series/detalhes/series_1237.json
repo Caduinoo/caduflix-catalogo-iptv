@@ -1,0 +1,88 @@
+{
+  "id": "series_1237",
+  "type": "series",
+  "title": "Dra Cathy",
+  "originalTitle": "Dra Cathy",
+  "year": null,
+  "poster": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-poster.png",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "genres": [],
+  "producer": "discovery_plus",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 1237
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2402730",
+          "episodeId": 2402730,
+          "season": 1,
+          "episode": 1,
+          "title": "Dra Cathy S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2402731",
+          "episodeId": 2402731,
+          "season": 1,
+          "episode": 2,
+          "title": "Dra Cathy S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2402732",
+          "episodeId": 2402732,
+          "season": 1,
+          "episode": 3,
+          "title": "Dra Cathy S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2402733",
+          "episodeId": 2402733,
+          "season": 1,
+          "episode": 4,
+          "title": "Dra Cathy S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2402734",
+          "episodeId": 2402734,
+          "season": 1,
+          "episode": 5,
+          "title": "Dra Cathy S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2402735",
+          "episodeId": 2402735,
+          "season": 1,
+          "episode": 6,
+          "title": "Dra Cathy S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2402736",
+          "episodeId": 2402736,
+          "season": 1,
+          "episode": 7,
+          "title": "Dra Cathy S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2402737",
+          "episodeId": 2402737,
+          "season": 1,
+          "episode": 8,
+          "title": "Dra Cathy S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

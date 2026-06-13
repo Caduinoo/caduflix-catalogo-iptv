@@ -1,0 +1,76 @@
+{
+  "id": "series_6816",
+  "type": "series",
+  "title": "Lenda Imperial",
+  "originalTitle": "Lenda Imperial",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/fEJP2oKFOdRVf1UGqJtLdTg3zkD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uks29Pyat9Qr4eNcx8X4zBX6OeD.jpg",
+  "overview": "Movidos pelo desejo de uma mecenas, os alunos do Colégio Bento Quirino partem para uma aventura numa fazenda colonial do século XIX. Não sabiam eles que serão manipulados por ela, a procurar o medalhão imperial que D. Pedro II deu de presente a Bento Quirino. Uma relíquia de alto valor histórico e comercial.",
+  "rating": 0,
+  "genres": [
+    "acao",
+    "aventura",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 232589,
+  "xtream": {
+    "seriesId": 6816
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2552790",
+          "episodeId": 2552790,
+          "season": 1,
+          "episode": 1,
+          "title": "Lenda Imperial S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552791",
+          "episodeId": 2552791,
+          "season": 1,
+          "episode": 2,
+          "title": "Lenda Imperial S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552792",
+          "episodeId": 2552792,
+          "season": 1,
+          "episode": 3,
+          "title": "Lenda Imperial S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552793",
+          "episodeId": 2552793,
+          "season": 1,
+          "episode": 4,
+          "title": "Lenda Imperial S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552794",
+          "episodeId": 2552794,
+          "season": 1,
+          "episode": 5,
+          "title": "Lenda Imperial S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552795",
+          "episodeId": 2552795,
+          "season": 1,
+          "episode": 6,
+          "title": "Lenda Imperial S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

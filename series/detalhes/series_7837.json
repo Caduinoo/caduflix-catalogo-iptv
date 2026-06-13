@@ -1,0 +1,51 @@
+{
+  "id": "series_7837",
+  "type": "series",
+  "title": "Unmasked",
+  "originalTitle": "Unmasked",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/8G1dtKgx33A0NY1WhOSfwpFFMv1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tJe08P6GF0FJ6TTXduz3BB2D6yE.jpg",
+  "overview": "",
+  "rating": 7,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 86219,
+  "xtream": {
+    "seriesId": 7837
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2573022",
+          "episodeId": 2573022,
+          "season": 1,
+          "episode": 1,
+          "title": "Unmasked S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573023",
+          "episodeId": 2573023,
+          "season": 1,
+          "episode": 2,
+          "title": "Unmasked S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573024",
+          "episodeId": 2573024,
+          "season": 1,
+          "episode": 3,
+          "title": "Unmasked S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

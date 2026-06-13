@@ -1,0 +1,60 @@
+{
+  "id": "series_7691",
+  "type": "series",
+  "title": "Homem X Bebê",
+  "originalTitle": "Man vs Baby",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/bpdbNhkrZCso4E08BQvk1dLlnxm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+  "overview": "Perto do Natal, um caseiro atrapalhado precisa tomar conta de uma cobertura chique e ainda lidar com um problema inesperado: um bebê perdido.",
+  "rating": 6.803,
+  "genres": [
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "producer": "netflix",
+  "tmdbId": 279601,
+  "xtream": {
+    "seriesId": 7691
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2570286",
+          "episodeId": 2570286,
+          "season": 1,
+          "episode": 1,
+          "title": "Homem X Bebe S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570287",
+          "episodeId": 2570287,
+          "season": 1,
+          "episode": 2,
+          "title": "Homem X Bebe S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570288",
+          "episodeId": 2570288,
+          "season": 1,
+          "episode": 3,
+          "title": "Homem X Bebe S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570289",
+          "episodeId": 2570289,
+          "season": 1,
+          "episode": 4,
+          "title": "Homem X Bebe S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

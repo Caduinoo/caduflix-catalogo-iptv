@@ -1,0 +1,50 @@
+{
+  "id": "series_6550",
+  "type": "series",
+  "title": "Berlim: 1945",
+  "originalTitle": "Berlin 1945: Tagebuch einer Großstadt",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/pPubr9KgAyJap0w565U4Z25Yogn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nFlOJ88aOzd2kl4wNcphcFF8qfE.jpg",
+  "overview": "A vida em Berlim em 1945, antes, durante e depois da batalha de Berlim, vista pelos olhos daqueles que estavam lá na época, desde berlinenses comuns até tropas aliadas.",
+  "rating": 6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 113072,
+  "xtream": {
+    "seriesId": 6550
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2548612",
+          "episodeId": 2548612,
+          "season": 1,
+          "episode": 1,
+          "title": "Berlim 1945 S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548613",
+          "episodeId": 2548613,
+          "season": 1,
+          "episode": 2,
+          "title": "Berlim 1945 S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548614",
+          "episodeId": 2548614,
+          "season": 1,
+          "episode": 3,
+          "title": "Berlim 1945 S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

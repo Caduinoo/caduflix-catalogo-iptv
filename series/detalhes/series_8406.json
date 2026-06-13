@@ -1,0 +1,74 @@
+{
+  "id": "series_8406",
+  "type": "series",
+  "title": "Matchbox Adventures",
+  "originalTitle": "Matchbox Adventures",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/iZ35vg5AkKWsG17xzOWkPYBv2Uw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AqG7ebkPXrsh8GdBoHKT2iLz2Dg.jpg",
+  "overview": "O Mason James precisa salvar o dia.",
+  "rating": 4.8,
+  "genres": [
+    "animacao"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 227950,
+  "xtream": {
+    "seriesId": 8406
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2580741",
+          "episodeId": 2580741,
+          "season": 1,
+          "episode": 1,
+          "title": "Matchbox Adventures (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580742",
+          "episodeId": 2580742,
+          "season": 1,
+          "episode": 2,
+          "title": "Matchbox Adventures (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580743",
+          "episodeId": 2580743,
+          "season": 1,
+          "episode": 3,
+          "title": "Matchbox Adventures (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580744",
+          "episodeId": 2580744,
+          "season": 1,
+          "episode": 4,
+          "title": "Matchbox Adventures (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580745",
+          "episodeId": 2580745,
+          "season": 1,
+          "episode": 5,
+          "title": "Matchbox Adventures (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580746",
+          "episodeId": 2580746,
+          "season": 1,
+          "episode": 6,
+          "title": "Matchbox Adventures (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

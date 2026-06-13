@@ -1,0 +1,51 @@
+{
+  "id": "series_3310",
+  "type": "series",
+  "title": "O Cerco de Waco",
+  "originalTitle": "Waco: American Apocalypse",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/eKsgrhu4qiuePmGmuVCUI84IfAD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yIyH0hFQyDOvNUUmZ9BvUwYX8Zo.jpg",
+  "overview": "Em 1993, agentes federais e um grupo religioso fortemente armado entraram em um impasse que durou 51 dias. Esta série documental traz materiais inéditos sobre o caso.",
+  "rating": 7,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 220229,
+  "xtream": {
+    "seriesId": 3310
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2469051",
+          "episodeId": 2469051,
+          "season": 1,
+          "episode": 1,
+          "title": "O Cerco de Waco (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2469052",
+          "episodeId": 2469052,
+          "season": 1,
+          "episode": 2,
+          "title": "O Cerco de Waco (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2469053",
+          "episodeId": 2469053,
+          "season": 1,
+          "episode": 3,
+          "title": "O Cerco de Waco (2023) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "series_5649",
+  "type": "series",
+  "title": "Chimp Crazy",
+  "originalTitle": "Chimp Crazy",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mHLfiuZtwjOQG4548HfTDYGZlUG.jpg",
+  "overview": "Série documental da HBO que investiga o mundo secreto do negócio de chimpanzés em cativeiro e as histórias daqueles que os amam.",
+  "rating": 7.167,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 259271,
+  "xtream": {
+    "seriesId": 5649
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2526433",
+          "episodeId": 2526433,
+          "season": 1,
+          "episode": 1,
+          "title": "Chimp Crazy S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2526434",
+          "episodeId": 2526434,
+          "season": 1,
+          "episode": 2,
+          "title": "Chimp Crazy S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2526435",
+          "episodeId": 2526435,
+          "season": 1,
+          "episode": 3,
+          "title": "Chimp Crazy S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2526436",
+          "episodeId": 2526436,
+          "season": 1,
+          "episode": 4,
+          "title": "Chimp Crazy S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

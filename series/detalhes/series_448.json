@@ -1,0 +1,59 @@
+{
+  "id": "series_448",
+  "type": "series",
+  "title": "Chacrinha: A Minissérie",
+  "originalTitle": "Chacrinha: A Minissérie",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/sHW9jcFh2jbwgiOxuzVvt5MBiJE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v3hw8MCBuWUjCmVeHKkzdYmDI66.jpg",
+  "overview": "A minissérie mostra a personalidade mítica do comunicador revolucionário e inovador, que mudou a forma de fazer TV no Brasil; e a do homem por trás do visual irreverente e inconfundível.",
+  "rating": 10,
+  "genres": [
+    "drama",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 97739,
+  "xtream": {
+    "seriesId": 448
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2362229",
+          "episodeId": 2362229,
+          "season": 1,
+          "episode": 1,
+          "title": "Chacrinha - A Minissérie S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362230",
+          "episodeId": 2362230,
+          "season": 1,
+          "episode": 2,
+          "title": "Chacrinha - A Minissérie S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362231",
+          "episodeId": 2362231,
+          "season": 1,
+          "episode": 3,
+          "title": "Chacrinha - A Minissérie S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362232",
+          "episodeId": 2362232,
+          "season": 1,
+          "episode": 4,
+          "title": "Chacrinha - A Minissérie S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

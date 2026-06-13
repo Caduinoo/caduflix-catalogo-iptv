@@ -1,0 +1,75 @@
+{
+  "id": "series_6471",
+  "type": "series",
+  "title": "Lar, Sombrio Lar",
+  "originalTitle": "Home Sweet Homicide",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/tzk0FR8WIRaO4eVBnlMFXwJRNqz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s9kE224WXIBxWYDVU8b613ZHpQf.jpg",
+  "overview": "Esta série relata casos de homicídio em que os assassinos conheciam a rotina de seu alvo e cada detalhe de sua residência. Munidos dessas informações, eles conseguiram planejar o crime quase perfeito.",
+  "rating": 0,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 153372,
+  "xtream": {
+    "seriesId": 6471
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2547115",
+          "episodeId": 2547115,
+          "season": 1,
+          "episode": 1,
+          "title": "Lar Sombrio Lar S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547116",
+          "episodeId": 2547116,
+          "season": 1,
+          "episode": 2,
+          "title": "Lar Sombrio Lar S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547117",
+          "episodeId": 2547117,
+          "season": 1,
+          "episode": 3,
+          "title": "Lar Sombrio Lar S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547118",
+          "episodeId": 2547118,
+          "season": 1,
+          "episode": 4,
+          "title": "Lar Sombrio Lar S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547119",
+          "episodeId": 2547119,
+          "season": 1,
+          "episode": 5,
+          "title": "Lar Sombrio Lar S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2547120",
+          "episodeId": 2547120,
+          "season": 1,
+          "episode": 6,
+          "title": "Lar Sombrio Lar S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

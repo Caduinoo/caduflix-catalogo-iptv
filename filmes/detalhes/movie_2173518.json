@@ -1,0 +1,43 @@
+{
+  "id": "movie_2173518",
+  "type": "movie",
+  "title": "Sámán",
+  "originalTitle": "Sámán",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/vr8Wy8htkm4CsoUcF5pjmmLbeBj.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 19,
+  "genres": [
+    "ficcao"
+  ],
+  "cast": [
+    {
+      "name": "Mohai Tamás",
+      "character": "Lencse",
+      "profile": "https://image.tmdb.org/t/p/w185/fE4gYPtAy8eDGKHBfNWFgqj4qB2.jpg"
+    },
+    {
+      "name": "Farkas Franciska",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/1vwNkDnLZK60qqn9N0zb7wvfWVB.jpg"
+    },
+    {
+      "name": "László Attila Horváth",
+      "character": "",
+      "profile": ""
+    },
+    {
+      "name": "Érsek-Obádovics Mercédesz",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/3walpB1ifq4KRtK29dF2NELt7zV.jpg"
+    }
+  ],
+  "director": "Róbert Odegnál",
+  "tmdbId": 1141470,
+  "xtream": {
+    "streamId": 2173518,
+    "containerExtension": "mp4"
+  }
+}

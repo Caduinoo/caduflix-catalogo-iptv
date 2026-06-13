@@ -1,0 +1,60 @@
+{
+  "id": "series_7232",
+  "type": "series",
+  "title": "Cavalos e Carrascos",
+  "originalTitle": "Hestepigen fra helvede",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/5a9lezkgPelWGdnIpC2UO9CG9eP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dfT4yukQ6PyCKDsO9x61a46MNlq.jpg",
+  "overview": "No verão de 2022, Frank, um homem de família de 40 anos, desaparece. Seu carro é encontrado queimado e o caso rapidamente toma um rumo sinistro.",
+  "rating": 8.3,
+  "genres": [
+    "documentario",
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 299462,
+  "xtream": {
+    "seriesId": 7232
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2562072",
+          "episodeId": 2562072,
+          "season": 1,
+          "episode": 1,
+          "title": "Cavalos e Carrascos [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562073",
+          "episodeId": 2562073,
+          "season": 1,
+          "episode": 2,
+          "title": "Cavalos e Carrascos [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562074",
+          "episodeId": 2562074,
+          "season": 1,
+          "episode": 3,
+          "title": "Cavalos e Carrascos [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562075",
+          "episodeId": 2562075,
+          "season": 1,
+          "episode": 4,
+          "title": "Cavalos e Carrascos [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

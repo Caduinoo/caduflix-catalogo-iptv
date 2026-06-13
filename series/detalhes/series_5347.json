@@ -1,0 +1,67 @@
+{
+  "id": "series_5347",
+  "type": "series",
+  "title": "Pindorama",
+  "originalTitle": "Pindorama",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/uXBIs7WL5N4IWelVro6cSgoV5kO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fqVklNLo2E9vqLf5YspZuLGDbSh.jpg",
+  "overview": "A primeira animação Original BP dedicada às crianças, que fará florescer em seus corações o amor pelo Brasil: uma produção encantadora que estimula a imaginação e conta a história do país para os pequenos, inspirada na carta de Pero Vaz de Caminha.",
+  "rating": 0,
+  "genres": [
+    "animacao",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 258071,
+  "xtream": {
+    "seriesId": 5347
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2518381",
+          "episodeId": 2518381,
+          "season": 1,
+          "episode": 1,
+          "title": "Pindorama S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2518382",
+          "episodeId": 2518382,
+          "season": 1,
+          "episode": 2,
+          "title": "Pindorama S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2518383",
+          "episodeId": 2518383,
+          "season": 1,
+          "episode": 3,
+          "title": "Pindorama S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2518384",
+          "episodeId": 2518384,
+          "season": 1,
+          "episode": 4,
+          "title": "Pindorama S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2518385",
+          "episodeId": 2518385,
+          "season": 1,
+          "episode": 5,
+          "title": "Pindorama S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

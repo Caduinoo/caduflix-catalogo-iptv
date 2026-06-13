@@ -1,0 +1,48 @@
+{
+  "id": "series_7668",
+  "type": "series",
+  "title": "The Rocky Mountain Mortician Murder",
+  "originalTitle": "The Rocky Mountain Mortician Murder",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w780/nfs9nimnBWupjk7YjxQtImq4TYM.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "genres": [],
+  "producer": "prime_video",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7668
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2569555",
+          "episodeId": 2569555,
+          "season": 1,
+          "episode": 1,
+          "title": "The Rocky Mountain Mortician Murder S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569556",
+          "episodeId": 2569556,
+          "season": 1,
+          "episode": 2,
+          "title": "The Rocky Mountain Mortician Murder S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569557",
+          "episodeId": 2569557,
+          "season": 1,
+          "episode": 3,
+          "title": "The Rocky Mountain Mortician Murder S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

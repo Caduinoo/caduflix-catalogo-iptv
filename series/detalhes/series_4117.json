@@ -1,0 +1,58 @@
+{
+  "id": "series_4117",
+  "type": "series",
+  "title": "Tom Jones",
+  "originalTitle": "Tom Jones",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/spcdJ5L1PYROLDhuL4zUSuhjtpu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2lUNDiZynUYzxRncDSBMsBCprWR.jpg",
+  "overview": "A história escandalosa da tentativa de um jovem de encontrar um lugar no mundo.",
+  "rating": 6,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 205703,
+  "xtream": {
+    "seriesId": 4117
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2489677",
+          "episodeId": 2489677,
+          "season": 1,
+          "episode": 1,
+          "title": "Tom Jones [L] (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2489678",
+          "episodeId": 2489678,
+          "season": 1,
+          "episode": 2,
+          "title": "Tom Jones [L] (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2489679",
+          "episodeId": 2489679,
+          "season": 1,
+          "episode": 3,
+          "title": "Tom Jones [L] (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2489680",
+          "episodeId": 2489680,
+          "season": 1,
+          "episode": 4,
+          "title": "Tom Jones [L] (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

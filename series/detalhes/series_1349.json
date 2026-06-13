@@ -1,0 +1,75 @@
+{
+  "id": "series_1349",
+  "type": "series",
+  "title": "Fatma",
+  "originalTitle": "Fatma",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/sbfgYpPYfTC2j1EU0l3SsyPUaIt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wbrASNjkv8bOef9dnu1Bk3PdY0E.jpg",
+  "overview": "Sofrendo com uma tragédia, uma faxineira inexpressiva embarca em uma onda de assassinatos e enfrenta os traumas do passado na busca pelo marido desaparecido.",
+  "rating": 6.9,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 123138,
+  "xtream": {
+    "seriesId": 1349
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2406322",
+          "episodeId": 2406322,
+          "season": 1,
+          "episode": 1,
+          "title": "Fatma S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406323",
+          "episodeId": 2406323,
+          "season": 1,
+          "episode": 2,
+          "title": "Fatma S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406324",
+          "episodeId": 2406324,
+          "season": 1,
+          "episode": 3,
+          "title": "Fatma S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406325",
+          "episodeId": 2406325,
+          "season": 1,
+          "episode": 4,
+          "title": "Fatma S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406326",
+          "episodeId": 2406326,
+          "season": 1,
+          "episode": 5,
+          "title": "Fatma S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406327",
+          "episodeId": 2406327,
+          "season": 1,
+          "episode": 6,
+          "title": "Fatma S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

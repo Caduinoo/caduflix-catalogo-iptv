@@ -1,0 +1,75 @@
+{
+  "id": "series_6344",
+  "type": "series",
+  "title": "Cassandra",
+  "originalTitle": "Cassandra",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4GAmr9BWRfVjZ3GAntm7yjVf82i.jpg",
+  "overview": "Uma família se muda para uma casa inteligente antiga e descobre que ela é controlada por uma assistente virtual que faz de tudo para mantê-los lá.",
+  "rating": 7.087,
+  "genres": [
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 248982,
+  "xtream": {
+    "seriesId": 6344
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2544930",
+          "episodeId": 2544930,
+          "season": 1,
+          "episode": 1,
+          "title": "Cassandra S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2544931",
+          "episodeId": 2544931,
+          "season": 1,
+          "episode": 2,
+          "title": "Cassandra S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2544932",
+          "episodeId": 2544932,
+          "season": 1,
+          "episode": 3,
+          "title": "Cassandra S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2544933",
+          "episodeId": 2544933,
+          "season": 1,
+          "episode": 4,
+          "title": "Cassandra S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2544934",
+          "episodeId": 2544934,
+          "season": 1,
+          "episode": 5,
+          "title": "Cassandra S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2544935",
+          "episodeId": 2544935,
+          "season": 1,
+          "episode": 6,
+          "title": "Cassandra S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

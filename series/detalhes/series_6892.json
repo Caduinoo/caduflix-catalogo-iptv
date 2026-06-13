@@ -1,0 +1,50 @@
+{
+  "id": "series_6892",
+  "type": "series",
+  "title": "Real Madrid - Até o Fim",
+  "originalTitle": "Real Madrid: Hasta el final",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/ieKZZngWi0PtdA6LpBgDzA3a2ki.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nrJZlruHH03ugsQJCpJxeygX2wg.jpg",
+  "overview": "Entre em campo e conheça os bastidores da incrível temporada de 2021-2022 do icônico clube de futebol. Incentivados por seus fãs fervorosos, eles desafiam as probabilidades e silenciam os céticos.",
+  "rating": 7.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 221490,
+  "xtream": {
+    "seriesId": 6892
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2555592",
+          "episodeId": 2555592,
+          "season": 1,
+          "episode": 1,
+          "title": "Real Madrid Ate o Fim [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2555593",
+          "episodeId": 2555593,
+          "season": 1,
+          "episode": 2,
+          "title": "Real Madrid Ate o Fim [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2555594",
+          "episodeId": 2555594,
+          "season": 1,
+          "episode": 3,
+          "title": "Real Madrid Ate o Fim [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

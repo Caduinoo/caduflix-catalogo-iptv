@@ -1,0 +1,66 @@
+{
+  "id": "series_1205",
+  "type": "series",
+  "title": "Small Axe",
+  "originalTitle": "Small Axe",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/qAafv0Ao1y8C2dLux9BBg6nVuc1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6gdg8V2vWvYNTMTaSTEFUOr995Z.jpg",
+  "overview": "Cinco histórias retratam as tensões raciais no Reino Unido entre os anos de 1960 e 1980 e abordam situações que vão desde a luta por direitos até a violência policial contra negros.",
+  "rating": 6.857,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 90705,
+  "xtream": {
+    "seriesId": 1205
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2401324",
+          "episodeId": 2401324,
+          "season": 1,
+          "episode": 1,
+          "title": "Small Axe S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401325",
+          "episodeId": 2401325,
+          "season": 1,
+          "episode": 2,
+          "title": "Small Axe S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401326",
+          "episodeId": 2401326,
+          "season": 1,
+          "episode": 3,
+          "title": "Small Axe S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401327",
+          "episodeId": 2401327,
+          "season": 1,
+          "episode": 4,
+          "title": "Small Axe S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401328",
+          "episodeId": 2401328,
+          "season": 1,
+          "episode": 5,
+          "title": "Small Axe S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

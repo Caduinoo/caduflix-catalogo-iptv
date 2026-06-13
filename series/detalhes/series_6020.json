@@ -1,0 +1,62 @@
+{
+  "id": "series_6020",
+  "type": "series",
+  "title": "As Aventuras de Minuano Kid",
+  "originalTitle": "As Aventuras de Minuano Kid",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/nLnEfdy7grpbJRTFSvBXELe5GML.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9TYCOlyKvFNsAFOGHwqp0oqfXRR.jpg",
+  "overview": "Juninho é um garoto que possui um amigo imaginário chamado Minuano Kid, um super-herói com medo do escuro.",
+  "rating": 3,
+  "genres": [
+    "infantil",
+    "comedia",
+    "acao",
+    "aventura",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 279199,
+  "xtream": {
+    "seriesId": 6020
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2536124",
+          "episodeId": 2536124,
+          "season": 1,
+          "episode": 1,
+          "title": "As Aventuras de Minuano Kid S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2536125",
+          "episodeId": 2536125,
+          "season": 1,
+          "episode": 2,
+          "title": "As Aventuras de Minuano Kid S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2536126",
+          "episodeId": 2536126,
+          "season": 1,
+          "episode": 3,
+          "title": "As Aventuras de Minuano Kid S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2536127",
+          "episodeId": 2536127,
+          "season": 1,
+          "episode": 4,
+          "title": "As Aventuras de Minuano Kid S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

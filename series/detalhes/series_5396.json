@@ -1,0 +1,58 @@
+{
+  "id": "series_5396",
+  "type": "series",
+  "title": "Bicampeãs",
+  "originalTitle": "Bicampeãs",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/7xuYyTqM3TMvu8sg7blDRJPHzKq.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "A história das seis bicampeãs históricas do Vôlei Brasileiro: Fabi Claudino, Fabizinha, Thaísa, Jaqueline, Paula Pequeno e Sheila nas edições de Pequim 2008 e Londres 2012.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 259389,
+  "xtream": {
+    "seriesId": 5396
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2519069",
+          "episodeId": 2519069,
+          "season": 1,
+          "episode": 1,
+          "title": "Bicampeas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2519070",
+          "episodeId": 2519070,
+          "season": 1,
+          "episode": 2,
+          "title": "Bicampeas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2519071",
+          "episodeId": 2519071,
+          "season": 1,
+          "episode": 3,
+          "title": "Bicampeas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2519072",
+          "episodeId": 2519072,
+          "season": 1,
+          "episode": 4,
+          "title": "Bicampeas S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

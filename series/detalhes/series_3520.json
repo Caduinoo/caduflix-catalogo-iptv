@@ -1,0 +1,66 @@
+{
+  "id": "series_3520",
+  "type": "series",
+  "title": "The Idol",
+  "originalTitle": "The Idol",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jbFkZSsmFFLjqZzxQHTBYyQb0RR.jpg",
+  "overview": "Conheça a história de amor mais sórdida de Hollywood já contada.",
+  "rating": 5.4,
+  "genres": [
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 135251,
+  "xtream": {
+    "seriesId": 3520
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2474055",
+          "episodeId": 2474055,
+          "season": 1,
+          "episode": 1,
+          "title": "The Idol (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2474056",
+          "episodeId": 2474056,
+          "season": 1,
+          "episode": 2,
+          "title": "The Idol (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2474057",
+          "episodeId": 2474057,
+          "season": 1,
+          "episode": 3,
+          "title": "The Idol (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2474058",
+          "episodeId": 2474058,
+          "season": 1,
+          "episode": 4,
+          "title": "The Idol (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2474059",
+          "episodeId": 2474059,
+          "season": 1,
+          "episode": 5,
+          "title": "The Idol (2023) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_5486",
+  "type": "series",
+  "title": "Um Beijo do Gordo",
+  "originalTitle": "Um Beijo do Gordo",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/4vxYM9QKYZbaiO7EvxwIXLrOOTW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/t3QnYWpwXs3kZtDpF7YZ7qZpikA.jpg",
+  "overview": "Com imagens inéditas, histórias nunca contadas e um acesso único à intimidade de Jô, a série traz um passeio emocionante e hilário por seus programas de humor, peças e talk shows.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 260252,
+  "xtream": {
+    "seriesId": 5486
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2522167",
+          "episodeId": 2522167,
+          "season": 1,
+          "episode": 1,
+          "title": "Um Beijo do Gordo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522168",
+          "episodeId": 2522168,
+          "season": 1,
+          "episode": 2,
+          "title": "Um Beijo do Gordo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522169",
+          "episodeId": 2522169,
+          "season": 1,
+          "episode": 3,
+          "title": "Um Beijo do Gordo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522170",
+          "episodeId": 2522170,
+          "season": 1,
+          "episode": 4,
+          "title": "Um Beijo do Gordo S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

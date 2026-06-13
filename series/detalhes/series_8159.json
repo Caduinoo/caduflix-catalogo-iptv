@@ -1,0 +1,76 @@
+{
+  "id": "series_8159",
+  "type": "series",
+  "title": "The Capture",
+  "originalTitle": "The Capture",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
+  "overview": "O soldado inglês Shaun Emery é acusado de assassinato no Afeganistão e condenado devido a um vídeo. Mesmo depois de ser libertado, ele se vê novamente com problemas, mas a detetive Rachel Carey, encarregada do caso, acaba descobrindo uma conspiração.",
+  "rating": 7.7,
+  "genres": [
+    "crime",
+    "drama",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 93166,
+  "xtream": {
+    "seriesId": 8159
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2577213",
+          "episodeId": 2577213,
+          "season": 1,
+          "episode": 1,
+          "title": "The Capture S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2577214",
+          "episodeId": 2577214,
+          "season": 1,
+          "episode": 2,
+          "title": "The Capture S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2577215",
+          "episodeId": 2577215,
+          "season": 1,
+          "episode": 3,
+          "title": "The Capture S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2577216",
+          "episodeId": 2577216,
+          "season": 1,
+          "episode": 4,
+          "title": "The Capture S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2577217",
+          "episodeId": 2577217,
+          "season": 1,
+          "episode": 5,
+          "title": "The Capture S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2577218",
+          "episodeId": 2577218,
+          "season": 1,
+          "episode": 6,
+          "title": "The Capture S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

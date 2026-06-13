@@ -1,0 +1,59 @@
+{
+  "id": "series_8233",
+  "type": "series",
+  "title": "RILAKKUMA",
+  "originalTitle": "リラックマ",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lHIfDwuhQcLVI8bncg2gXATgINz.jpg",
+  "overview": "Conheça o mundo descontraído do Rilakkuma, o ursinho relaxado que faz com que a preguiça pareça algo natural.",
+  "rating": 8,
+  "genres": [
+    "animacao",
+    "infantil"
+  ],
+  "producer": "crunchyroll",
+  "tmdbId": 299144,
+  "xtream": {
+    "seriesId": 8233
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2578024",
+          "episodeId": 2578024,
+          "season": 1,
+          "episode": 1,
+          "title": "RILAKKUMA (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578025",
+          "episodeId": 2578025,
+          "season": 1,
+          "episode": 2,
+          "title": "RILAKKUMA (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578026",
+          "episodeId": 2578026,
+          "season": 1,
+          "episode": 3,
+          "title": "RILAKKUMA (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2578027",
+          "episodeId": 2578027,
+          "season": 1,
+          "episode": 4,
+          "title": "RILAKKUMA (2026) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

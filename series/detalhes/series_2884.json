@@ -1,0 +1,42 @@
+{
+  "id": "series_2884",
+  "type": "series",
+  "title": "Nosso Segredo",
+  "originalTitle": "Keep This Between Us",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/vzjdJzbgx2rzCiaJzpDXTeTIHxS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cVbOHdnJ9gcV5WoJgU0vgEkOS7F.jpg",
+  "overview": "Uma série documental de quatro partes que acompanha a jornada de uma mulher enquanto ela analisa seu relacionamento passado com um professor de confiança. A série expõe uma epidemia de aliciamento generalizado nas escolas secundárias americanas.",
+  "rating": 5.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "star_plus",
+  "tmdbId": 206594,
+  "xtream": {
+    "seriesId": 2884
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2459518",
+          "episodeId": 2459518,
+          "season": 1,
+          "episode": 1,
+          "title": "Nosso Segredo (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2459519",
+          "episodeId": 2459519,
+          "season": 1,
+          "episode": 2,
+          "title": "Nosso Segredo (2022) S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

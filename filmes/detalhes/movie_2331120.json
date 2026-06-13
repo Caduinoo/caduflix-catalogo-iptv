@@ -1,0 +1,43 @@
+{
+  "id": "movie_2331120",
+  "type": "movie",
+  "title": "The Freediver",
+  "originalTitle": "The Freediver",
+  "year": 2004,
+  "poster": "https://image.tmdb.org/t/p/w500/uR2w89RLSnKTkPnjbhMDSJmikQj.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 3.5,
+  "runtime": 95,
+  "genres": [
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Camilla Rutherford",
+      "character": "Danai",
+      "profile": "https://image.tmdb.org/t/p/w185/rVoFC3VLv5JWsBN0mlyTLrF1Zg5.jpg"
+    },
+    {
+      "name": "Judd Nelson",
+      "character": "Ziad",
+      "profile": "https://image.tmdb.org/t/p/w185/7kRf8vE0ZjMuunh8BaD50B3EhS5.jpg"
+    },
+    {
+      "name": "Adam Baldwin",
+      "character": "Dr. Viades",
+      "profile": "https://image.tmdb.org/t/p/w185/lfbyJWNWGbiYfU0Yr1tjn6Trd2V.jpg"
+    },
+    {
+      "name": "Alki David",
+      "character": "Hector",
+      "profile": "https://image.tmdb.org/t/p/w185/wVwmh2HexHR6O6TjC9FlFrqK62c.jpg"
+    }
+  ],
+  "director": "Alki David",
+  "tmdbId": 160451,
+  "xtream": {
+    "streamId": 2331120,
+    "containerExtension": "mp4"
+  }
+}

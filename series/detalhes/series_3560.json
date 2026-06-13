@@ -1,0 +1,91 @@
+{
+  "id": "series_3560",
+  "type": "series",
+  "title": "Barra Bravas",
+  "originalTitle": "Puerta 7",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eYrPeNV0W3zKfyZB9Ml9DQy7RPq.jpg",
+  "overview": "Uma mulher determinada tenta livrar um time de futebol argentino dos crimes violentos e da corrupção que cercam sua torcida fanática.",
+  "rating": 7,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 99633,
+  "xtream": {
+    "seriesId": 3560
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2475017",
+          "episodeId": 2475017,
+          "season": 1,
+          "episode": 1,
+          "title": "Barra Brava (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475018",
+          "episodeId": 2475018,
+          "season": 1,
+          "episode": 2,
+          "title": "Barra Brava (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475019",
+          "episodeId": 2475019,
+          "season": 1,
+          "episode": 3,
+          "title": "Barra Brava (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475020",
+          "episodeId": 2475020,
+          "season": 1,
+          "episode": 4,
+          "title": "Barra Brava (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475021",
+          "episodeId": 2475021,
+          "season": 1,
+          "episode": 5,
+          "title": "Barra Brava (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475022",
+          "episodeId": 2475022,
+          "season": 1,
+          "episode": 6,
+          "title": "Barra Brava (2023) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475023",
+          "episodeId": 2475023,
+          "season": 1,
+          "episode": 7,
+          "title": "Barra Brava (2023) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475024",
+          "episodeId": 2475024,
+          "season": 1,
+          "episode": 8,
+          "title": "Barra Brava (2023) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "series_5980",
+  "type": "series",
+  "title": "Café com Chef",
+  "originalTitle": "Café com Chef",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/oS7snYHKstmFWZvj4n9RtLZs5C1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f8mJwZzAStdLNfjSDpWIt8Xlmhd.jpg",
+  "overview": "Venha com Guilherme Temperani, Antonio Maiolica, Marcelo Marani e Raul Lemos explorar a gastronomia da cidade em um programa irresistível e cheio de sabor.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 277974,
+  "xtream": {
+    "seriesId": 5980
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2535488",
+          "episodeId": 2535488,
+          "season": 1,
+          "episode": 1,
+          "title": "Cafe com Chef S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535489",
+          "episodeId": 2535489,
+          "season": 1,
+          "episode": 2,
+          "title": "Cafe com Chef S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535490",
+          "episodeId": 2535490,
+          "season": 1,
+          "episode": 3,
+          "title": "Cafe com Chef S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535491",
+          "episodeId": 2535491,
+          "season": 1,
+          "episode": 4,
+          "title": "Cafe com Chef S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535492",
+          "episodeId": 2535492,
+          "season": 1,
+          "episode": 5,
+          "title": "Cafe com Chef S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

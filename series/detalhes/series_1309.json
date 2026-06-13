@@ -1,0 +1,60 @@
+{
+  "id": "series_1309",
+  "type": "series",
+  "title": "Flesh and Blood: Um Crime na Vizinhança",
+  "originalTitle": "Flesh and Blood",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/dhE6SvLTVkrEIS49Zppp8qAfP9i.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bD7jvC5ldpU5HDZY0QFTkUVx2c2.jpg",
+  "overview": "Três irmãos são pegos de surpresa quando a mãe recém-viúva apresenta o novo namorado. Tudo inicia uma série de segredos e desconfianças que resultará em um crime na família.",
+  "rating": 6,
+  "genres": [
+    "drama",
+    "misterio",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 31035,
+  "xtream": {
+    "seriesId": 1309
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2405005",
+          "episodeId": 2405005,
+          "season": 1,
+          "episode": 1,
+          "title": "Flesh and Blood S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405006",
+          "episodeId": 2405006,
+          "season": 1,
+          "episode": 2,
+          "title": "Flesh and Blood S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405007",
+          "episodeId": 2405007,
+          "season": 1,
+          "episode": 3,
+          "title": "Flesh and Blood S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405008",
+          "episodeId": 2405008,
+          "season": 1,
+          "episode": 4,
+          "title": "Flesh and Blood S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

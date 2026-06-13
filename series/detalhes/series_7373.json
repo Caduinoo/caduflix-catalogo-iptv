@@ -1,0 +1,63 @@
+{
+  "id": "series_7373",
+  "type": "series",
+  "title": "Kamen Rider ZEZTZ",
+  "originalTitle": "仮面ライダーゼッツ",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/vqZ2Tum9B9xu1jl29LeCykHsVLL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kk2cB8l44jZGTHFpX8oB99bCa75.jpg",
+  "overview": "Em um mundo moldado pelos sonhos que vemos enquanto dormimos, Zeztz entra nos sonhos das pessoas como um agente em uma missão. Equipado com um cinto de Cavaleiro de última geração , usado no peito, Zeztz traz uma nova forma ousada para a batalha.",
+  "rating": 8.7,
+  "genres": [
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao",
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 295434,
+  "xtream": {
+    "seriesId": 7373
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2565051",
+          "episodeId": 2565051,
+          "season": 1,
+          "episode": 1,
+          "title": "Kamen Rider ZEZTZ [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565052",
+          "episodeId": 2565052,
+          "season": 1,
+          "episode": 2,
+          "title": "Kamen Rider ZEZTZ [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565053",
+          "episodeId": 2565053,
+          "season": 1,
+          "episode": 3,
+          "title": "Kamen Rider ZEZTZ [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565054",
+          "episodeId": 2565054,
+          "season": 1,
+          "episode": 4,
+          "title": "Kamen Rider ZEZTZ [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

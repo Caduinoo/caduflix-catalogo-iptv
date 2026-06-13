@@ -1,0 +1,67 @@
+{
+  "id": "series_7442",
+  "type": "series",
+  "title": "Medo Real",
+  "originalTitle": "True Haunting",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/esUXYldupoSUrQ6GcL1brCJX13b.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oS4ZzG1c4xZtZRrJipNqXs1b17Z.jpg",
+  "overview": "Com reconstituições imersivas e entrevistas recentes, esta série assustadora mostra encontros paranormais do ponto de vista de quem os viveu.",
+  "rating": 6.339,
+  "genres": [
+    "documentario",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 300999,
+  "xtream": {
+    "seriesId": 7442
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2565936",
+          "episodeId": 2565936,
+          "season": 1,
+          "episode": 1,
+          "title": "Medo Real S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565937",
+          "episodeId": 2565937,
+          "season": 1,
+          "episode": 2,
+          "title": "Medo Real S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565938",
+          "episodeId": 2565938,
+          "season": 1,
+          "episode": 3,
+          "title": "Medo Real S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565939",
+          "episodeId": 2565939,
+          "season": 1,
+          "episode": 4,
+          "title": "Medo Real S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565940",
+          "episodeId": 2565940,
+          "season": 1,
+          "episode": 5,
+          "title": "Medo Real S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

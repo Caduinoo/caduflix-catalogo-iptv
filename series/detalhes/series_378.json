@@ -1,0 +1,48 @@
+{
+  "id": "series_378",
+  "type": "series",
+  "title": "Bargain Holiday Secrets",
+  "originalTitle": "Bargain Holiday Secrets",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/g5bBJw7LzmGTfJgjpYsFVXJpv20.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Uma reunião de Natal faz uma viagem ao passado nesta série dividida em três partes, que explora as complexidades da história de uma família.",
+  "rating": 0,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": 314148,
+  "xtream": {
+    "seriesId": 378
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2360416",
+          "episodeId": 2360416,
+          "season": 1,
+          "episode": 1,
+          "title": "Holiday Secrets S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360417",
+          "episodeId": 2360417,
+          "season": 1,
+          "episode": 2,
+          "title": "Holiday Secrets S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360418",
+          "episodeId": 2360418,
+          "season": 1,
+          "episode": 3,
+          "title": "Holiday Secrets S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "series_360",
+  "type": "series",
+  "title": "Baby",
+  "originalTitle": "Baby",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/n5ImCXYVgcClRaP0YIfEUMI6uFM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hcS061TTRke127eJtrbWWPIjUZe.jpg",
+  "overview": "Cansadas da família e dos colegas da escola, duas adolescentes mergulham numa vida dupla entre o bairro nobre de Roma onde moram e o submundo da cidade.",
+  "rating": 7.91,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 82700,
+  "xtream": {
+    "seriesId": 360
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2360131",
+          "episodeId": 2360131,
+          "season": 1,
+          "episode": 1,
+          "title": "Baby S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360132",
+          "episodeId": 2360132,
+          "season": 1,
+          "episode": 2,
+          "title": "Baby S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360133",
+          "episodeId": 2360133,
+          "season": 1,
+          "episode": 3,
+          "title": "Baby S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360134",
+          "episodeId": 2360134,
+          "season": 1,
+          "episode": 4,
+          "title": "Baby S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360135",
+          "episodeId": 2360135,
+          "season": 1,
+          "episode": 5,
+          "title": "Baby S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360136",
+          "episodeId": 2360136,
+          "season": 1,
+          "episode": 6,
+          "title": "Baby S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2360137",
+          "episodeId": 2360137,
+          "season": 2,
+          "episode": 1,
+          "title": "Baby S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360138",
+          "episodeId": 2360138,
+          "season": 2,
+          "episode": 2,
+          "title": "Baby S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360139",
+          "episodeId": 2360139,
+          "season": 2,
+          "episode": 3,
+          "title": "Baby S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360140",
+          "episodeId": 2360140,
+          "season": 2,
+          "episode": 4,
+          "title": "Baby S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360141",
+          "episodeId": 2360141,
+          "season": 2,
+          "episode": 5,
+          "title": "Baby S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360142",
+          "episodeId": 2360142,
+          "season": 2,
+          "episode": 6,
+          "title": "Baby S02 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "episodes": [
+        {
+          "id": "episode_2360143",
+          "episodeId": 2360143,
+          "season": 3,
+          "episode": 1,
+          "title": "Baby S03 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360144",
+          "episodeId": 2360144,
+          "season": 3,
+          "episode": 2,
+          "title": "Baby S03 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360145",
+          "episodeId": 2360145,
+          "season": 3,
+          "episode": 3,
+          "title": "Baby S03 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360146",
+          "episodeId": 2360146,
+          "season": 3,
+          "episode": 4,
+          "title": "Baby S03 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360147",
+          "episodeId": 2360147,
+          "season": 3,
+          "episode": 5,
+          "title": "Baby S03 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360148",
+          "episodeId": 2360148,
+          "season": 3,
+          "episode": 6,
+          "title": "Baby S03 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

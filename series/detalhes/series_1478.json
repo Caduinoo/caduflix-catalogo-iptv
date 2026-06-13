@@ -1,0 +1,90 @@
+{
+  "id": "series_1478",
+  "type": "series",
+  "title": "Hit Parade",
+  "originalTitle": "Hit Parade",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/jZtAk6gTVjCIMj83bZhchmpD2As.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nwWcwX2RNjVbt5D9305agePdJnn.jpg",
+  "overview": "Simão é um cantor idealista e talentoso que enfrenta muitos desafios para se estabelecer no mercado fonográfico. Ele é convidado por Missiê Jack para compor uma canção para um cantor cafona e vê sua criação estourar nas paradas musicais. Missiê ganha muito dinheiro com o sucesso, mas Simão não recebe nem os créditos. Humilhado, ele cria sua própria gravadora junto com sua companheira, Lídia, para enfrentar o ex-colega e seus métodos antiéticos.",
+  "rating": 9,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 125409,
+  "xtream": {
+    "seriesId": 1478
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2412235",
+          "episodeId": 2412235,
+          "season": 1,
+          "episode": 1,
+          "title": "Hit Parade S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412236",
+          "episodeId": 2412236,
+          "season": 1,
+          "episode": 2,
+          "title": "Hit Parade S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412237",
+          "episodeId": 2412237,
+          "season": 1,
+          "episode": 3,
+          "title": "Hit Parade S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412238",
+          "episodeId": 2412238,
+          "season": 1,
+          "episode": 4,
+          "title": "Hit Parade S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412239",
+          "episodeId": 2412239,
+          "season": 1,
+          "episode": 5,
+          "title": "Hit Parade S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412240",
+          "episodeId": 2412240,
+          "season": 1,
+          "episode": 6,
+          "title": "Hit Parade S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412241",
+          "episodeId": 2412241,
+          "season": 1,
+          "episode": 7,
+          "title": "Hit Parade S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2412242",
+          "episodeId": 2412242,
+          "season": 1,
+          "episode": 8,
+          "title": "Hit Parade S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

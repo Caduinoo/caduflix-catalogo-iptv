@@ -1,0 +1,51 @@
+{
+  "id": "series_7368",
+  "type": "series",
+  "title": "Guerra dos Tênis: Adidas Vs. Puma",
+  "originalTitle": "Sneaker Wars: Adidas V. Puma",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/zKhwAnf4WgDBqysMP8WfiuoeFJf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bqkDYOXQGEdrB4OWGlkoYi0QdT.jpg",
+  "overview": "Esta série explora a lendária rivalidade entre duas marcas icônicas de artigos esportivos, nascida da disputa familiar entre os irmãos Adi e Rudi Dassler. A série revela como esse conflito pessoal impulsionou a inovação, transformando a indústria dos tênis e a cultura esportiva. Com entrevistas de especialistas, descubra o legado dessa competição histórica.",
+  "rating": 7.75,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 233264,
+  "xtream": {
+    "seriesId": 7368
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2564972",
+          "episodeId": 2564972,
+          "season": 1,
+          "episode": 1,
+          "title": "Guerra dos Tenis Adidas Vs Puma [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564973",
+          "episodeId": 2564973,
+          "season": 1,
+          "episode": 2,
+          "title": "Guerra dos Tenis Adidas Vs Puma [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564974",
+          "episodeId": 2564974,
+          "season": 1,
+          "episode": 3,
+          "title": "Guerra dos Tenis Adidas Vs Puma [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

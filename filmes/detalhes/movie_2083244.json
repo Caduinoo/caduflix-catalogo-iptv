@@ -1,0 +1,60 @@
+{
+  "id": "movie_2083244",
+  "type": "movie",
+  "title": "Hot Seat",
+  "originalTitle": "Hot Seat",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/hAa7mWhajhY9oAQ4acTg69HQFvG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eoJCaMyfMSVKjIeya4YSODYYXYH.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 11,
+  "genres": [
+    "comedia",
+    "drama",
+    "suspense"
+  ],
+  "cast": [
+    {
+      "name": "Sureni Weerasekera",
+      "character": "Asher",
+      "profile": ""
+    },
+    {
+      "name": "Daniel Liu",
+      "character": "Quinn",
+      "profile": "https://image.tmdb.org/t/p/w185/vUv1baUdbP25xvYcdRq0m0fL8iZ.jpg"
+    },
+    {
+      "name": "Sohrob Nayebaziz",
+      "character": "Intense Guest",
+      "profile": ""
+    },
+    {
+      "name": "Shelby Grebbin",
+      "character": "Artsy Guest",
+      "profile": ""
+    },
+    {
+      "name": "Gwen Thomas",
+      "character": "Facilitator",
+      "profile": ""
+    },
+    {
+      "name": "Han Na Shin",
+      "character": "Mother",
+      "profile": ""
+    },
+    {
+      "name": "Solange Neema Azor",
+      "character": "Ex",
+      "profile": ""
+    }
+  ],
+  "director": "Sohrob Nayebaziz",
+  "tmdbId": 1356742,
+  "xtream": {
+    "streamId": 2083244,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "series_6842",
+  "type": "series",
+  "title": "LEGO Star Wars: All-Stars",
+  "originalTitle": "LEGO Star Wars: All-Stars",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/97dmYYI7TACdGvXWQd2sIyMq16n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kQO87aSNVhcOgIfEPQIY24bGWh3.jpg",
+  "overview": "Novos rostos se unem aos heróis Han Solo, Chewbacca, Lando Calrissian, BB-8 e General Leia, em aventuras que percorrem o universo de Guerra das Estrelas.",
+  "rating": 6,
+  "genres": [
+    "animacao",
+    "familia",
+    "infantil",
+    "comedia",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 83558,
+  "xtream": {
+    "seriesId": 6842
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2554800",
+          "episodeId": 2554800,
+          "season": 1,
+          "episode": 1,
+          "title": "LEGO Star Wars All Stars S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554801",
+          "episodeId": 2554801,
+          "season": 1,
+          "episode": 2,
+          "title": "LEGO Star Wars All Stars S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554802",
+          "episodeId": 2554802,
+          "season": 1,
+          "episode": 3,
+          "title": "LEGO Star Wars All Stars S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554803",
+          "episodeId": 2554803,
+          "season": 1,
+          "episode": 4,
+          "title": "LEGO Star Wars All Stars S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554804",
+          "episodeId": 2554804,
+          "season": 1,
+          "episode": 5,
+          "title": "LEGO Star Wars All Stars S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

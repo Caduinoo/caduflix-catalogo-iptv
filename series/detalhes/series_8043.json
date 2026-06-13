@@ -1,0 +1,72 @@
+{
+  "id": "series_8043",
+  "type": "series",
+  "title": "Heart Code",
+  "originalTitle": "Heart Code",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w780/jQvrRQgHpGqUCc5oT3GxSfvDWqO.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 8,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 8043
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575521",
+          "episodeId": 2575521,
+          "season": 1,
+          "episode": 1,
+          "title": "Heart Code [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575522",
+          "episodeId": 2575522,
+          "season": 1,
+          "episode": 2,
+          "title": "Heart Code [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575523",
+          "episodeId": 2575523,
+          "season": 1,
+          "episode": 3,
+          "title": "Heart Code [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575524",
+          "episodeId": 2575524,
+          "season": 1,
+          "episode": 4,
+          "title": "Heart Code [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575525",
+          "episodeId": 2575525,
+          "season": 1,
+          "episode": 5,
+          "title": "Heart Code [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575526",
+          "episodeId": 2575526,
+          "season": 1,
+          "episode": 6,
+          "title": "Heart Code [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

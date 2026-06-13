@@ -1,0 +1,50 @@
+{
+  "id": "series_3234",
+  "type": "series",
+  "title": "Viagra: A Pílula que Mudou o Mundo",
+  "originalTitle": "Viagra: The Little Blue Pill That Changed the World",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/cbo35whllp6qdEXx6gxMu1N9yrg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7wMGWYC88UMagN7LNb8yWTnHzyz.jpg",
+  "overview": "A história não contada de uma pílula azul que mudou o mundo. Descoberto por acidente, o Viagra reescreveu a cartilha das grandes farmacêuticas e mudou o sexo para sempre.",
+  "rating": 6.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 207992,
+  "xtream": {
+    "seriesId": 3234
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2467304",
+          "episodeId": 2467304,
+          "season": 1,
+          "episode": 1,
+          "title": "Viagra: A Pílula que Mudou o Mundo (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2467305",
+          "episodeId": 2467305,
+          "season": 1,
+          "episode": 2,
+          "title": "Viagra: A Pílula que Mudou o Mundo (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2467306",
+          "episodeId": 2467306,
+          "season": 1,
+          "episode": 3,
+          "title": "Viagra: A Pílula que Mudou o Mundo (2022) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

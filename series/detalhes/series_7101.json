@@ -1,0 +1,76 @@
+{
+  "id": "series_7101",
+  "type": "series",
+  "title": "Espécies Raras",
+  "originalTitle": "The Wild Ones",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/5nzuEKBPSQWsQlP4RvnqDmQM2xB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/glvt1nsJey4UKg76vRWshdNAMtw.jpg",
+  "overview": "Como podemos ajudar os animais ameaçados de extinção? Acompanhe uma equipe de cineastas especializados em vida selvagem enquanto eles viajam para os cantos mais remotos do mundo para gravar as espécies selvagens mais esquivas utilizando tecnologia de ponta.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 230935,
+  "xtream": {
+    "seriesId": 7101
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2559990",
+          "episodeId": 2559990,
+          "season": 1,
+          "episode": 1,
+          "title": "Especies Raras [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559991",
+          "episodeId": 2559991,
+          "season": 1,
+          "episode": 2,
+          "title": "Especies Raras [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559992",
+          "episodeId": 2559992,
+          "season": 1,
+          "episode": 3,
+          "title": "Especies Raras [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559993",
+          "episodeId": 2559993,
+          "season": 1,
+          "episode": 4,
+          "title": "Especies Raras [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559994",
+          "episodeId": 2559994,
+          "season": 1,
+          "episode": 5,
+          "title": "Especies Raras [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559995",
+          "episodeId": 2559995,
+          "season": 1,
+          "episode": 6,
+          "title": "Especies Raras [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

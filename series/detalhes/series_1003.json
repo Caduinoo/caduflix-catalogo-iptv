@@ -1,0 +1,90 @@
+{
+  "id": "series_1003",
+  "type": "series",
+  "title": "La Révolution",
+  "originalTitle": "La Révolution",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/9NkBL8Qj29M3Uc2WuYk9jHL7azy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lpRROknTUlvJ8gPgmRUlIoOVCdA.jpg",
+  "overview": "Nesta releitura fictícia da Revolução Francesa, uma misteriosa doença assola a França, levando a um conflito brutal entre rebeldes e aristocratas.",
+  "rating": 6.7,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 99807,
+  "xtream": {
+    "seriesId": 1003
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2391931",
+          "episodeId": 2391931,
+          "season": 1,
+          "episode": 1,
+          "title": "La Révolution S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391932",
+          "episodeId": 2391932,
+          "season": 1,
+          "episode": 2,
+          "title": "La Révolution S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391933",
+          "episodeId": 2391933,
+          "season": 1,
+          "episode": 3,
+          "title": "La Révolution S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391934",
+          "episodeId": 2391934,
+          "season": 1,
+          "episode": 4,
+          "title": "La Révolution S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391935",
+          "episodeId": 2391935,
+          "season": 1,
+          "episode": 5,
+          "title": "La Révolution S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391936",
+          "episodeId": 2391936,
+          "season": 1,
+          "episode": 6,
+          "title": "La Révolution S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391937",
+          "episodeId": 2391937,
+          "season": 1,
+          "episode": 7,
+          "title": "La Révolution S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391938",
+          "episodeId": 2391938,
+          "season": 1,
+          "episode": 8,
+          "title": "La Révolution S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

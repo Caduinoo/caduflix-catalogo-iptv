@@ -1,0 +1,59 @@
+{
+  "id": "series_7569",
+  "type": "series",
+  "title": "Coma",
+  "originalTitle": "Coma",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/rUDLx0V9uvWojrHe69XnhfURS23.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nNwuGt9MoSrHGfpiFmBIB2BrTQQ.jpg",
+  "overview": "O bairro de Simon torna-se vítima das travessuras de um grupo de adolescentes. Simon e sua esposa querem mudar a filha para uma área mais segura. Ele confronta o líder do grupo, e uma decisão tomada em uma fração de segundo muda tudo.",
+  "rating": 5.4,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 249002,
+  "xtream": {
+    "seriesId": 7569
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2568353",
+          "episodeId": 2568353,
+          "season": 1,
+          "episode": 1,
+          "title": "Coma [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568354",
+          "episodeId": 2568354,
+          "season": 1,
+          "episode": 2,
+          "title": "Coma [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568355",
+          "episodeId": 2568355,
+          "season": 1,
+          "episode": 3,
+          "title": "Coma [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568356",
+          "episodeId": 2568356,
+          "season": 1,
+          "episode": 4,
+          "title": "Coma [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

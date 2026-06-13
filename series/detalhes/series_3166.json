@@ -1,0 +1,53 @@
+{
+  "id": "series_3166",
+  "type": "series",
+  "title": "Pluft, o Fantasminha",
+  "originalTitle": "Pluft, o Fantasminha",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/mgWknDZhuLNB6S28CcPZA77vLz2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iRWPSGIDb03XN7ftx6qqLJ6Ite9.jpg",
+  "overview": "Vivendo em uma ilha, Pluft é um fantasma que morre de medo de pessoas. Quando uma menina é sequestrada por um pirata, os dois criam um laço e lutam contra o vilão.",
+  "rating": 0,
+  "genres": [
+    "infantil",
+    "acao",
+    "aventura",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 215298,
+  "xtream": {
+    "seriesId": 3166
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2465665",
+          "episodeId": 2465665,
+          "season": 1,
+          "episode": 1,
+          "title": "Pluft, o Fantasminha (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2465666",
+          "episodeId": 2465666,
+          "season": 1,
+          "episode": 2,
+          "title": "Pluft, o Fantasminha (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2465667",
+          "episodeId": 2465667,
+          "season": 1,
+          "episode": 3,
+          "title": "Pluft, o Fantasminha (2023) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_3900",
+  "type": "series",
+  "title": "Chico Xavier: A Série",
+  "originalTitle": "Chico Xavier: A Série",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/uBbGdca9RZvksJ6yVQtrBQLkCf8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dnUgfeE87evvJoaTTBLFRxvB106.jpg",
+  "overview": "A partir de depoimentos inéditos, a série traça um painel das diversas vertentes que acompanharam Chico Xavier em sua vida, como a mediunidade que impactou o Brasil desde os seus 17 anos e as crises com a fama, além de abordar temas polêmicos, como a questão das vidas passadas do médium mais importante do país.",
+  "rating": 7,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "star_plus",
+  "tmdbId": 225955,
+  "xtream": {
+    "seriesId": 3900
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2484028",
+          "episodeId": 2484028,
+          "season": 1,
+          "episode": 1,
+          "title": "Chico Xavier: A Série (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2484029",
+          "episodeId": 2484029,
+          "season": 1,
+          "episode": 2,
+          "title": "Chico Xavier: A Série (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2484030",
+          "episodeId": 2484030,
+          "season": 1,
+          "episode": 3,
+          "title": "Chico Xavier: A Série (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2484031",
+          "episodeId": 2484031,
+          "season": 1,
+          "episode": 4,
+          "title": "Chico Xavier: A Série (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2484032",
+          "episodeId": 2484032,
+          "season": 1,
+          "episode": 5,
+          "title": "Chico Xavier: A Série (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2484033",
+          "episodeId": 2484033,
+          "season": 1,
+          "episode": 6,
+          "title": "Chico Xavier: A Série (2023) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

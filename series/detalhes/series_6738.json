@@ -1,0 +1,51 @@
+{
+  "id": "series_6738",
+  "type": "series",
+  "title": "Segredos e Crimes de Fred e Rose West",
+  "originalTitle": "Fred and Rose West: A British Horror Story",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/2GZvX8ulgMTuhxbKSbmiMUtGfT1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kXf0oLGrdKiAhoRJaABAAJiD5hy.jpg",
+  "overview": "Registros policiais recém-descobertos e relatos pessoais contam a história de Fred e Rose West, dois dos assassinos mais prolíficos do Reino Unido.",
+  "rating": 6.9,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 289123,
+  "xtream": {
+    "seriesId": 6738
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2550984",
+          "episodeId": 2550984,
+          "season": 1,
+          "episode": 1,
+          "title": "Segredos e Crimes de Fred e Rose West S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550985",
+          "episodeId": 2550985,
+          "season": 1,
+          "episode": 2,
+          "title": "Segredos e Crimes de Fred e Rose West S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550986",
+          "episodeId": 2550986,
+          "season": 1,
+          "episode": 3,
+          "title": "Segredos e Crimes de Fred e Rose West S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

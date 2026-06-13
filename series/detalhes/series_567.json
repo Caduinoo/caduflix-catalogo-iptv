@@ -1,0 +1,74 @@
+{
+  "id": "series_567",
+  "type": "series",
+  "title": "O Jogo Inglês",
+  "originalTitle": "The English Game",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/vvOccQ5Mcn665KXS2KSnldhpvva.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gVj2cKqtI27Z37woGRm7847V8WJ.jpg",
+  "overview": "Nos anos 1870, dois jogadores de futebol de classes sociais opostas enfrentam dramas pessoais e profissionais para mudar o esporte (e a Inglaterra) para sempre.",
+  "rating": 7.377,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 100052,
+  "xtream": {
+    "seriesId": 567
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2367124",
+          "episodeId": 2367124,
+          "season": 1,
+          "episode": 1,
+          "title": "O Jogo Inglês S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367125",
+          "episodeId": 2367125,
+          "season": 1,
+          "episode": 2,
+          "title": "O Jogo Inglês S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367126",
+          "episodeId": 2367126,
+          "season": 1,
+          "episode": 3,
+          "title": "O Jogo Inglês S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367127",
+          "episodeId": 2367127,
+          "season": 1,
+          "episode": 4,
+          "title": "O Jogo Inglês S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367128",
+          "episodeId": 2367128,
+          "season": 1,
+          "episode": 5,
+          "title": "O Jogo Inglês S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367129",
+          "episodeId": 2367129,
+          "season": 1,
+          "episode": 6,
+          "title": "O Jogo Inglês S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

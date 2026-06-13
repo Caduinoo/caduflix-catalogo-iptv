@@ -1,0 +1,74 @@
+{
+  "id": "series_4870",
+  "type": "series",
+  "title": "Mistérios da Arquitetura",
+  "originalTitle": "Time Scanners",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/nhTx3bkZqtgRz3jOnrfnzVkKvJY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1xBwskLDInVojIqmB2u4NBzgdLQ.jpg",
+  "overview": "Uma leitura com tecnologia laser 3-D decifra os segredos das construções mais reconhecidas do mundo. O engenheiro Steve Burrows e sua equipe exploram e analisam digitalmente grandes realizações arquitetônicas.",
+  "rating": 9,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 60961,
+  "xtream": {
+    "seriesId": 4870
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2508638",
+          "episodeId": 2508638,
+          "season": 1,
+          "episode": 1,
+          "title": "Misterios da Arquitetura (2014) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508639",
+          "episodeId": 2508639,
+          "season": 1,
+          "episode": 2,
+          "title": "Misterios da Arquitetura (2014) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508640",
+          "episodeId": 2508640,
+          "season": 1,
+          "episode": 3,
+          "title": "Misterios da Arquitetura (2014) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508641",
+          "episodeId": 2508641,
+          "season": 1,
+          "episode": 4,
+          "title": "Misterios da Arquitetura (2014) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508642",
+          "episodeId": 2508642,
+          "season": 1,
+          "episode": 5,
+          "title": "Misterios da Arquitetura (2014) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508643",
+          "episodeId": 2508643,
+          "season": 1,
+          "episode": 6,
+          "title": "Misterios da Arquitetura (2014) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

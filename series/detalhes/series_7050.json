@@ -1,0 +1,90 @@
+{
+  "id": "series_7050",
+  "type": "series",
+  "title": "A Voragem",
+  "originalTitle": "La vorágine",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/aPAw3oRGPvDazLTkoQ2TTP5QSNk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/diNw2TlvBtkHpPc2GXbJXZvw3Yx.jpg",
+  "overview": "Dois amantes rebeldes fogem da ordem do século XX para uma selva que promete liberdade, sem saber que ali reina uma lei ainda mais cruel.",
+  "rating": 8.333,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 296298,
+  "xtream": {
+    "seriesId": 7050
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2559256",
+          "episodeId": 2559256,
+          "season": 1,
+          "episode": 1,
+          "title": "A Voragem [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559257",
+          "episodeId": 2559257,
+          "season": 1,
+          "episode": 2,
+          "title": "A Voragem [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559258",
+          "episodeId": 2559258,
+          "season": 1,
+          "episode": 3,
+          "title": "A Voragem [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559259",
+          "episodeId": 2559259,
+          "season": 1,
+          "episode": 4,
+          "title": "A Voragem [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559260",
+          "episodeId": 2559260,
+          "season": 1,
+          "episode": 5,
+          "title": "A Voragem [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559261",
+          "episodeId": 2559261,
+          "season": 1,
+          "episode": 6,
+          "title": "A Voragem [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559262",
+          "episodeId": 2559262,
+          "season": 1,
+          "episode": 7,
+          "title": "A Voragem [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559263",
+          "episodeId": 2559263,
+          "season": 1,
+          "episode": 8,
+          "title": "A Voragem [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

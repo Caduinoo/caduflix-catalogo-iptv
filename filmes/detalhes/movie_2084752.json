@@ -1,0 +1,45 @@
+{
+  "id": "movie_2084752",
+  "type": "movie",
+  "title": "O Presente",
+  "originalTitle": "O Presente",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/7eEAQNxgGUF4J3Ggn0ZBsq6ky5S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bwIWWhnlc2HE4cOgeCstewHk9MT.jpg",
+  "overview": "",
+  "rating": 2,
+  "runtime": 18,
+  "genres": [
+    "drama",
+    "suspense",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Luiz Felipe Bianchini",
+      "character": "Zeca",
+      "profile": "https://image.tmdb.org/t/p/w185/490L7FH9nZ0pTHtAHD2JZaNtwiY.jpg"
+    },
+    {
+      "name": "Fabricio Licursi",
+      "character": "Lino",
+      "profile": "https://image.tmdb.org/t/p/w185/vqlpseMDEMMK8pDni2LsYCdFvVt.jpg"
+    },
+    {
+      "name": "Amanda Lyra",
+      "character": "Mirella",
+      "profile": "https://image.tmdb.org/t/p/w185/aprMeY7RHYdjUMxuuXigGhIvjd2.jpg"
+    },
+    {
+      "name": "Renan Motta",
+      "character": "Clayton",
+      "profile": ""
+    }
+  ],
+  "director": "Daniel Wierman",
+  "tmdbId": 697809,
+  "xtream": {
+    "streamId": 2084752,
+    "containerExtension": "mp4"
+  }
+}

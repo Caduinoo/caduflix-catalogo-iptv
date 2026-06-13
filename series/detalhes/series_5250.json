@@ -1,0 +1,131 @@
+{
+  "id": "series_5250",
+  "type": "series",
+  "title": "Red Eye",
+  "originalTitle": "Red Eye",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/hmNbB68i1zQ7xq7MY82eBujziYF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zQUMl21oCbFQ9FxodA5JbOndMXQ.jpg",
+  "overview": "O policial londrino DC Hana Li está escoltando o Dr. Matthew Nolan de volta a Pequim, onde foi acusado de um crime. No entanto, a bordo do voo 357, ela se vê envolvida em uma conspiração crescente e em um número crescente de assassinatos.",
+  "rating": 7.109,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "crime",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 247704,
+  "xtream": {
+    "seriesId": 5250
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2515862",
+          "episodeId": 2515862,
+          "season": 1,
+          "episode": 1,
+          "title": "Red Eye [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515863",
+          "episodeId": 2515863,
+          "season": 1,
+          "episode": 2,
+          "title": "Red Eye [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515864",
+          "episodeId": 2515864,
+          "season": 1,
+          "episode": 3,
+          "title": "Red Eye [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515865",
+          "episodeId": 2515865,
+          "season": 1,
+          "episode": 4,
+          "title": "Red Eye [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515866",
+          "episodeId": 2515866,
+          "season": 1,
+          "episode": 5,
+          "title": "Red Eye [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515867",
+          "episodeId": 2515867,
+          "season": 1,
+          "episode": 6,
+          "title": "Red Eye [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2515868",
+          "episodeId": 2515868,
+          "season": 2,
+          "episode": 1,
+          "title": "Red Eye [L] S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515869",
+          "episodeId": 2515869,
+          "season": 2,
+          "episode": 2,
+          "title": "Red Eye [L] S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515870",
+          "episodeId": 2515870,
+          "season": 2,
+          "episode": 3,
+          "title": "Red Eye [L] S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515871",
+          "episodeId": 2515871,
+          "season": 2,
+          "episode": 4,
+          "title": "Red Eye [L] S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515872",
+          "episodeId": 2515872,
+          "season": 2,
+          "episode": 5,
+          "title": "Red Eye [L] S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515873",
+          "episodeId": 2515873,
+          "season": 2,
+          "episode": 6,
+          "title": "Red Eye [L] S02 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

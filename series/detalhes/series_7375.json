@@ -1,0 +1,59 @@
+{
+  "id": "series_7375",
+  "type": "series",
+  "title": "Lynley",
+  "originalTitle": "Lynley",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/nBwCKjg3CNonSWMmE7VghNc4qBm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bolAZI95VNE12KH3zAUwMv2o6CD.jpg",
+  "overview": "O inspetor Thomas Lynley e a detetive Barbara Havers formam uma dupla improvável de detetives policiais. Suas origens contrastantes criam tensão, mas eles se unem para solucionar crimes, lidando com questões de classe e gênero.",
+  "rating": 5.9,
+  "genres": [
+    "crime",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 274479,
+  "xtream": {
+    "seriesId": 7375
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2565063",
+          "episodeId": 2565063,
+          "season": 1,
+          "episode": 1,
+          "title": "Lynley [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565064",
+          "episodeId": 2565064,
+          "season": 1,
+          "episode": 2,
+          "title": "Lynley [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565065",
+          "episodeId": 2565065,
+          "season": 1,
+          "episode": 3,
+          "title": "Lynley [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565066",
+          "episodeId": 2565066,
+          "season": 1,
+          "episode": 4,
+          "title": "Lynley [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

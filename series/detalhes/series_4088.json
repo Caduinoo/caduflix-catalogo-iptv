@@ -1,0 +1,75 @@
+{
+  "id": "series_4088",
+  "type": "series",
+  "title": "My Runway",
+  "originalTitle": "마이 런웨이",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/tCKwuuTZr5Yx8rTt1FWvQKDrXnw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oj9eX0U3nPlAzuTWOLSpxVgYNq5.jpg",
+  "overview": "Um modelo egocêntrico e uma aspirante a modelo embarcam em divertidas e inusitadas aventuras ao trocar de vida e de corpo.",
+  "rating": 7.3,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 69850,
+  "xtream": {
+    "seriesId": 4088
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2488644",
+          "episodeId": 2488644,
+          "season": 1,
+          "episode": 1,
+          "title": "My Runway (2016) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2488645",
+          "episodeId": 2488645,
+          "season": 1,
+          "episode": 2,
+          "title": "My Runway (2016) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2488646",
+          "episodeId": 2488646,
+          "season": 1,
+          "episode": 3,
+          "title": "My Runway (2016) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2488647",
+          "episodeId": 2488647,
+          "season": 1,
+          "episode": 4,
+          "title": "My Runway (2016) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2488648",
+          "episodeId": 2488648,
+          "season": 1,
+          "episode": 5,
+          "title": "My Runway (2016) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2488649",
+          "episodeId": 2488649,
+          "season": 1,
+          "episode": 6,
+          "title": "My Runway (2016) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

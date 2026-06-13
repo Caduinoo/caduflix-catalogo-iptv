@@ -1,0 +1,58 @@
+{
+  "id": "series_5433",
+  "type": "series",
+  "title": "Garavito: O Monstro Serial",
+  "originalTitle": "Garavito: La bestia serial",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/s22KxIcJFQnDLSI1nBY2RyIWU07.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3X3a9kdi5CgGTmDqZJWH6YDq5AI.jpg",
+  "overview": "Os investigadores que participaram da captura e condenação do colombiano Luis Alfredo Garavito, o maior assassino e estuprador de crianças da história da humanidade, narram em primeira pessoa a mórbida crônica do Monstro de Génova.",
+  "rating": 7.12,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 237845,
+  "xtream": {
+    "seriesId": 5433
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2520429",
+          "episodeId": 2520429,
+          "season": 1,
+          "episode": 1,
+          "title": "Garavito O Monstro Serial S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520430",
+          "episodeId": 2520430,
+          "season": 1,
+          "episode": 2,
+          "title": "Garavito O Monstro Serial S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520431",
+          "episodeId": 2520431,
+          "season": 1,
+          "episode": 3,
+          "title": "Garavito O Monstro Serial S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520432",
+          "episodeId": 2520432,
+          "season": 1,
+          "episode": 4,
+          "title": "Garavito O Monstro Serial S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

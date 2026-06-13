@@ -1,0 +1,77 @@
+{
+  "id": "series_1659",
+  "type": "series",
+  "title": "A Saída",
+  "originalTitle": "Otwórz oczy",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/yWRQOKmMncRcUrtzJaQ4rdm68dh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y3yozX8AW3PcLxS3WkezjJRKoM0.jpg",
+  "overview": "Uma jovem que perde a memória em um trágico acidente é enviada a uma clínica para pacientes com amnésia. Mas há algo de errado com o tratamento.",
+  "rating": 6.878,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "misterio",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 129676,
+  "xtream": {
+    "seriesId": 1659
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2422023",
+          "episodeId": 2422023,
+          "season": 1,
+          "episode": 1,
+          "title": "A Saída (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422024",
+          "episodeId": 2422024,
+          "season": 1,
+          "episode": 2,
+          "title": "A Saída (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422025",
+          "episodeId": 2422025,
+          "season": 1,
+          "episode": 3,
+          "title": "A Saída (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422026",
+          "episodeId": 2422026,
+          "season": 1,
+          "episode": 4,
+          "title": "A Saída (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422027",
+          "episodeId": 2422027,
+          "season": 1,
+          "episode": 5,
+          "title": "A Saída (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422028",
+          "episodeId": 2422028,
+          "season": 1,
+          "episode": 6,
+          "title": "A Saída (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

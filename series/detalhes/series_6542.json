@@ -1,0 +1,51 @@
+{
+  "id": "series_6542",
+  "type": "series",
+  "title": "Crimes Misteriosos: Quem Matou Jeffrey Epstein?",
+  "originalTitle": "Who Killed Jeffrey Epstein?",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/szRWXPbzLAhPRpS2qS76K1CtuFm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/VtSOSYSzEu71Gh8usiqXy0JuyQ.jpg",
+  "overview": "Acusado de tráfico sexual, Jeffrey foi encontrado morto em sua cela.",
+  "rating": 5.833,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 106133,
+  "xtream": {
+    "seriesId": 6542
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2548450",
+          "episodeId": 2548450,
+          "season": 1,
+          "episode": 1,
+          "title": "Who Killed Jeffrey Epstein S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548451",
+          "episodeId": 2548451,
+          "season": 1,
+          "episode": 2,
+          "title": "Who Killed Jeffrey Epstein S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548452",
+          "episodeId": 2548452,
+          "season": 1,
+          "episode": 3,
+          "title": "Who Killed Jeffrey Epstein S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

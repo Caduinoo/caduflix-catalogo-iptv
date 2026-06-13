@@ -1,0 +1,94 @@
+{
+  "id": "series_1904",
+  "type": "series",
+  "title": "Cowboy Bebop",
+  "originalTitle": "Cowboy Bebop",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/zNZjzA0uqaLDDtSOCHUB2XwK6tA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fqKoCBkllbGeXF5jKmERtAy5eMP.jpg",
+  "overview": "Com muito estilo e nenhuma grana, os caçadores de recompensas Spike, Jet e Faye rodam o sistema solar atrás de trabalho. Mas será que conseguem fugir do passado de Spike?",
+  "rating": 6.535,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 84469,
+  "xtream": {
+    "seriesId": 1904
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2431554",
+          "episodeId": 2431554,
+          "season": 1,
+          "episode": 1,
+          "title": "Cowboy Bebop (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431555",
+          "episodeId": 2431555,
+          "season": 1,
+          "episode": 2,
+          "title": "Cowboy Bebop (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431556",
+          "episodeId": 2431556,
+          "season": 1,
+          "episode": 3,
+          "title": "Cowboy Bebop (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431557",
+          "episodeId": 2431557,
+          "season": 1,
+          "episode": 4,
+          "title": "Cowboy Bebop (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431558",
+          "episodeId": 2431558,
+          "season": 1,
+          "episode": 5,
+          "title": "Cowboy Bebop (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431559",
+          "episodeId": 2431559,
+          "season": 1,
+          "episode": 6,
+          "title": "Cowboy Bebop (2021) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431560",
+          "episodeId": 2431560,
+          "season": 1,
+          "episode": 7,
+          "title": "Cowboy Bebop (2021) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431561",
+          "episodeId": 2431561,
+          "season": 1,
+          "episode": 8,
+          "title": "Cowboy Bebop (2021) S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

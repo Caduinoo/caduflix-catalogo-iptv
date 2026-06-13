@@ -1,0 +1,42 @@
+{
+  "id": "series_3612",
+  "type": "series",
+  "title": "Os Segredos do Everest",
+  "originalTitle": "Os Segredos do Everest",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/rZElCBXuoNbg3RUzQ0HATGlfgJO.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Jake Norton procura a verdadeira primeira pessoa a escalar o Monte Everest.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 273578,
+  "xtream": {
+    "seriesId": 3612
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2476713",
+          "episodeId": 2476713,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Segredos do Everest S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2476714",
+          "episodeId": 2476714,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Segredos do Everest S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

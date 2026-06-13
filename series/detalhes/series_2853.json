@@ -1,0 +1,93 @@
+{
+  "id": "series_2853",
+  "type": "series",
+  "title": "exception",
+  "originalTitle": "exception",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4sMLQ0EdAthgggrg8Rvy1drd4jn.jpg",
+  "overview": "Em um futuro distante, a humanidade foi forçada a deixar a Terra. Uma nave com uma equipe de especialistas impressa em 3D é enviada para colonizar um novo planeta.",
+  "rating": 6.962,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 127325,
+  "xtream": {
+    "seriesId": 2853
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2458464",
+          "episodeId": 2458464,
+          "season": 1,
+          "episode": 1,
+          "title": "Exception (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2458465",
+          "episodeId": 2458465,
+          "season": 1,
+          "episode": 2,
+          "title": "Exception (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2458466",
+          "episodeId": 2458466,
+          "season": 1,
+          "episode": 3,
+          "title": "Exception (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2458467",
+          "episodeId": 2458467,
+          "season": 1,
+          "episode": 4,
+          "title": "Exception (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2458468",
+          "episodeId": 2458468,
+          "season": 1,
+          "episode": 5,
+          "title": "Exception (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2458469",
+          "episodeId": 2458469,
+          "season": 1,
+          "episode": 6,
+          "title": "Exception (2022) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2458470",
+          "episodeId": 2458470,
+          "season": 1,
+          "episode": 7,
+          "title": "Exception (2022) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2458471",
+          "episodeId": 2458471,
+          "season": 1,
+          "episode": 8,
+          "title": "Exception (2022) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

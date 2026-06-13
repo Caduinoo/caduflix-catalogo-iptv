@@ -1,0 +1,50 @@
+{
+  "id": "series_7939",
+  "type": "series",
+  "title": "Take That",
+  "originalTitle": "Take That",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/6XIjXmnuOWdU0G86ClBtS0uNf8X.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jyMyGmLQ5kuKURs1OR2me7PHpbV.jpg",
+  "overview": "Com imagens inéditas de acervo, este documentário retrata a ascensão, a queda e o retorno triunfal de uma das boy bands mais icônicas do Reino Unido.",
+  "rating": 6.875,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 262275,
+  "xtream": {
+    "seriesId": 7939
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2574346",
+          "episodeId": 2574346,
+          "season": 1,
+          "episode": 1,
+          "title": "Take That [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574347",
+          "episodeId": 2574347,
+          "season": 1,
+          "episode": 2,
+          "title": "Take That [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574348",
+          "episodeId": 2574348,
+          "season": 1,
+          "episode": 3,
+          "title": "Take That [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

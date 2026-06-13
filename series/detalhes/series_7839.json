@@ -1,0 +1,50 @@
+{
+  "id": "series_7839",
+  "type": "series",
+  "title": "América do Sul: Animais Extraordinários",
+  "originalTitle": "South America's Weirdest Animals",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/s1pJYXWY0z4znypLZD7GnV6CxK8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7VV81PhwSDf48vbC18JfE99kCeq.jpg",
+  "overview": "A América do Sul é uma terra de extremos. A sobrevivência é um desafio enorme, mas milênios de evolução estranha fizeram desta extensão gigantesca um território de criaturas elusivas, presas abundantes e poderosos predadores.",
+  "rating": 2,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 135110,
+  "xtream": {
+    "seriesId": 7839
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2573051",
+          "episodeId": 2573051,
+          "season": 1,
+          "episode": 1,
+          "title": "America do Sul Animais Extraordinarios S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573052",
+          "episodeId": 2573052,
+          "season": 1,
+          "episode": 2,
+          "title": "America do Sul Animais Extraordinarios S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573053",
+          "episodeId": 2573053,
+          "season": 1,
+          "episode": 3,
+          "title": "America do Sul Animais Extraordinarios S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

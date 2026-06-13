@@ -1,0 +1,59 @@
+{
+  "id": "series_6517",
+  "type": "series",
+  "title": "Bob Burnquist: A Lenda do Skate",
+  "originalTitle": "Bob Burnquist: A Lenda do Skate",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/pIdw0q4WUSPzG0KLJK6GJLeT8VN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7btloMklxvcx0Mg8YEXM6oc6ZdH.jpg",
+  "overview": "Docusérie que explora os 30 anos de carreira do skatista brasileiro Bob Burnquist, destacando seu impacto global, sua incrível capacidade de se reerguer após cada queda e seu reconhecimento entre nomes como Tony Hawk e Ben Harper.",
+  "rating": 10,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 260703,
+  "xtream": {
+    "seriesId": 6517
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2548123",
+          "episodeId": 2548123,
+          "season": 1,
+          "episode": 1,
+          "title": "Bob Burnquist A Lenda do Skate S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548124",
+          "episodeId": 2548124,
+          "season": 1,
+          "episode": 2,
+          "title": "Bob Burnquist A Lenda do Skate S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548125",
+          "episodeId": 2548125,
+          "season": 1,
+          "episode": 3,
+          "title": "Bob Burnquist A Lenda do Skate S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2548126",
+          "episodeId": 2548126,
+          "season": 1,
+          "episode": 4,
+          "title": "Bob Burnquist A Lenda do Skate S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

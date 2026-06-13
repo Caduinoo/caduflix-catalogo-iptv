@@ -1,0 +1,64 @@
+{
+  "id": "series_1521",
+  "type": "series",
+  "title": "The North Water",
+  "originalTitle": "The North Water",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w780/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Patrick Sumner é um ex-cirurgião das Forças Armadas. Esperando fugir dos traumas seu passado, ele vai a uma expedição no Ártico. Porém, descobre novos horrores que não imaginava.",
+  "rating": 7,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 1521
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2413497",
+          "episodeId": 2413497,
+          "season": 1,
+          "episode": 1,
+          "title": "The North Water [L] (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2413498",
+          "episodeId": 2413498,
+          "season": 1,
+          "episode": 2,
+          "title": "The North Water [L] (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2413499",
+          "episodeId": 2413499,
+          "season": 1,
+          "episode": 3,
+          "title": "The North Water [L] (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2413500",
+          "episodeId": 2413500,
+          "season": 1,
+          "episode": 4,
+          "title": "The North Water [L] (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2413501",
+          "episodeId": 2413501,
+          "season": 1,
+          "episode": 5,
+          "title": "The North Water [L] (2021) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

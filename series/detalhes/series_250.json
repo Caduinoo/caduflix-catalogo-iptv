@@ -1,0 +1,60 @@
+{
+  "id": "series_250",
+  "type": "series",
+  "title": "Provas Suspeitas",
+  "originalTitle": "Exhibit A",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/wCsmw3zXm6omNhGRCEGoRhCd4iu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cnZpxBV1oi5CHzj6kIjlwcjs2p9.jpg",
+  "overview": "A série sobre crimes reais mostra inocentes condenados com base em técnica duvidosas, como o uso questionável de amostras de DNA e cães farejadores.",
+  "rating": 7.125,
+  "genres": [
+    "crime",
+    "documentario",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 90725,
+  "xtream": {
+    "seriesId": 250
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2356146",
+          "episodeId": 2356146,
+          "season": 1,
+          "episode": 1,
+          "title": "Provas Suspeitas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356147",
+          "episodeId": 2356147,
+          "season": 1,
+          "episode": 2,
+          "title": "Provas Suspeitas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356148",
+          "episodeId": 2356148,
+          "season": 1,
+          "episode": 3,
+          "title": "Provas Suspeitas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356149",
+          "episodeId": 2356149,
+          "season": 1,
+          "episode": 4,
+          "title": "Provas Suspeitas S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

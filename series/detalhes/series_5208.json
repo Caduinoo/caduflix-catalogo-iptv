@@ -1,0 +1,43 @@
+{
+  "id": "series_5208",
+  "type": "series",
+  "title": "Casos Arquivados: Os Assassinatos de Rifkin",
+  "originalTitle": "Cold Case Files: The Rifkin Murders",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/1PGWWGjoLsIW2zQTe1wqVo9SYGE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9STTs3xmD2LpzZJ3rcWe53YPxEA.jpg",
+  "overview": "Todos os detalhes sobre o assassino em série Joel Rifkin, o mais prolífico do estado de Nova York.",
+  "rating": 8.7,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 236277,
+  "xtream": {
+    "seriesId": 5208
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2515013",
+          "episodeId": 2515013,
+          "season": 1,
+          "episode": 1,
+          "title": "Casos Arquivados Os Assassinatos de Rifkin S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515014",
+          "episodeId": 2515014,
+          "season": 1,
+          "episode": 2,
+          "title": "Casos Arquivados Os Assassinatos de Rifkin S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

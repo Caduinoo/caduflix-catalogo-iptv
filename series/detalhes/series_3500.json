@@ -1,0 +1,76 @@
+{
+  "id": "series_3500",
+  "type": "series",
+  "title": "O Grifo",
+  "originalTitle": "Der Greif",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/yzDz44EvpoM83yTqOSURRaXKuab.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nwSDpjQQI4lHe6Y5iz3CLW6r8GW.jpg",
+  "overview": "O Grifo é criatura sombria poderosa de outro mundo e uma ameaça para Mark e tudo o que ele ama. Mark deve aceitar o difícil legado de sua família e lutar para salvar nosso mundo das garras do Grifo.",
+  "rating": 6.7,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 221871,
+  "xtream": {
+    "seriesId": 3500
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2473815",
+          "episodeId": 2473815,
+          "season": 1,
+          "episode": 1,
+          "title": "O Grifo (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2473816",
+          "episodeId": 2473816,
+          "season": 1,
+          "episode": 2,
+          "title": "O Grifo (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2473817",
+          "episodeId": 2473817,
+          "season": 1,
+          "episode": 3,
+          "title": "O Grifo (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2473818",
+          "episodeId": 2473818,
+          "season": 1,
+          "episode": 4,
+          "title": "O Grifo (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2473819",
+          "episodeId": 2473819,
+          "season": 1,
+          "episode": 5,
+          "title": "O Grifo (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2473820",
+          "episodeId": 2473820,
+          "season": 1,
+          "episode": 6,
+          "title": "O Grifo (2023) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

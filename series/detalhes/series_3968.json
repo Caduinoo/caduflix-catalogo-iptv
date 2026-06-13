@@ -1,0 +1,50 @@
+{
+  "id": "series_3968",
+  "type": "series",
+  "title": "Coreia: O País do Kimchi",
+  "originalTitle": "김치의 나라",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/u9AEkcAWyKrX5hTdgcUTpq5rn5C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q1isFxWG99v7taICkBEnMaqXBDB.jpg",
+  "overview": "Embarque em uma aventura gastronômica com o kimchi para descobrir tudo e mais um pouco sobre o prato coreano que simboliza união, história e criatividade.",
+  "rating": 10,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 234739,
+  "xtream": {
+    "seriesId": 3968
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2485183",
+          "episodeId": 2485183,
+          "season": 1,
+          "episode": 1,
+          "title": "Coreia O Pais do Kimchi [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485184",
+          "episodeId": 2485184,
+          "season": 1,
+          "episode": 2,
+          "title": "Coreia O Pais do Kimchi [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485185",
+          "episodeId": 2485185,
+          "season": 1,
+          "episode": 3,
+          "title": "Coreia O Pais do Kimchi [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

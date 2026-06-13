@@ -1,0 +1,76 @@
+{
+  "id": "series_2560",
+  "type": "series",
+  "title": "Ragdoll",
+  "originalTitle": "Ragdoll",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/4SuKe17gSnxResXsbOwL77SpNT5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mjCvaw35z42yYVtKUA75NKWHUYr.jpg",
+  "overview": "Com 6 episódios para seu primeiro ano, o drama vai acompanhar um grupo de detetives que perseguem um serial killer batizado de Assassino Ragdoll. Na trama, 6 pessoas foram assassinadas e tiverem seus membros cortados em diversas partes para formar um grotesco boneco apelidado de Ragdoll.",
+  "rating": 5.978,
+  "genres": [
+    "misterio",
+    "crime",
+    "drama"
+  ],
+  "producer": "apple_tv_plus",
+  "tmdbId": 135156,
+  "xtream": {
+    "seriesId": 2560
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2450814",
+          "episodeId": 2450814,
+          "season": 1,
+          "episode": 1,
+          "title": "Ragdoll (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450815",
+          "episodeId": 2450815,
+          "season": 1,
+          "episode": 2,
+          "title": "Ragdoll (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450816",
+          "episodeId": 2450816,
+          "season": 1,
+          "episode": 3,
+          "title": "Ragdoll (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450817",
+          "episodeId": 2450817,
+          "season": 1,
+          "episode": 4,
+          "title": "Ragdoll (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450818",
+          "episodeId": 2450818,
+          "season": 1,
+          "episode": 5,
+          "title": "Ragdoll (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450819",
+          "episodeId": 2450819,
+          "season": 1,
+          "episode": 6,
+          "title": "Ragdoll (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

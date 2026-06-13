@@ -1,0 +1,52 @@
+{
+  "id": "series_7524",
+  "type": "series",
+  "title": "Guerra à Máfia: Filadélfia Contra o Crime",
+  "originalTitle": "Mob War: Philadelphia vs. the Mafia",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/sF2bwINIneJ2koigBqQ35STFXyu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dEvbe7rj6vdcbMpZUn1pE682qjh.jpg",
+  "overview": "Uma guerra brutal da máfia entre John Stanfa e Joey Merlino na década de 1990 transforma a Filadélfia em caos e carnificina nesta série cativante de crime real.",
+  "rating": 6.7,
+  "genres": [
+    "documentario",
+    "crime",
+    "guerra"
+  ],
+  "producer": "netflix",
+  "tmdbId": 301498,
+  "xtream": {
+    "seriesId": 7524
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2567546",
+          "episodeId": 2567546,
+          "season": 1,
+          "episode": 1,
+          "title": "Guerra a Mafia Filadelfia Contra o Crime S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567547",
+          "episodeId": 2567547,
+          "season": 1,
+          "episode": 2,
+          "title": "Guerra a Mafia Filadelfia Contra o Crime S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567548",
+          "episodeId": 2567548,
+          "season": 1,
+          "episode": 3,
+          "title": "Guerra a Mafia Filadelfia Contra o Crime S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

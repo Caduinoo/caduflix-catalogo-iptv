@@ -1,0 +1,82 @@
+{
+  "id": "series_6853",
+  "type": "series",
+  "title": "Planeta Azul",
+  "originalTitle": "The Blue Planet",
+  "year": 2001,
+  "poster": "https://image.tmdb.org/t/p/w500/6bUjaMmBchvWYTR6TYSs02Wim1L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qxADr8ZzOgyn2wJAokBjv217J3X.jpg",
+  "overview": "Série de oito documentários mostrando a história dos oceanos do mundo. Cada episódio examina um aspecto diferente da vida marinha.",
+  "rating": 8.413,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 13579,
+  "xtream": {
+    "seriesId": 6853
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2554911",
+          "episodeId": 2554911,
+          "season": 1,
+          "episode": 1,
+          "title": "Planeta Azul S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554912",
+          "episodeId": 2554912,
+          "season": 1,
+          "episode": 2,
+          "title": "Planeta Azul S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554913",
+          "episodeId": 2554913,
+          "season": 1,
+          "episode": 3,
+          "title": "Planeta Azul S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554914",
+          "episodeId": 2554914,
+          "season": 1,
+          "episode": 4,
+          "title": "Planeta Azul S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554915",
+          "episodeId": 2554915,
+          "season": 1,
+          "episode": 5,
+          "title": "Planeta Azul S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554916",
+          "episodeId": 2554916,
+          "season": 1,
+          "episode": 6,
+          "title": "Planeta Azul S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554917",
+          "episodeId": 2554917,
+          "season": 1,
+          "episode": 7,
+          "title": "Planeta Azul S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

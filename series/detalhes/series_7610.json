@@ -1,0 +1,59 @@
+{
+  "id": "series_7610",
+  "type": "series",
+  "title": "Como um Relâmpago",
+  "originalTitle": "Death by Lightning",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/n91xX0iLrcEThxJqs9Zyg92gJLg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/l89mjyc8tGfhEalwDIeGqmXLR1N.jpg",
+  "overview": "A história de James Garfield, que saiu do anonimato e se tornou o 20º presidente dos EUA, e de Charles Guiteau, o homem que se tornaria seu assassino.",
+  "rating": 7.339,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 245219,
+  "xtream": {
+    "seriesId": 7610
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2568830",
+          "episodeId": 2568830,
+          "season": 1,
+          "episode": 1,
+          "title": "Como um Relampago S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568831",
+          "episodeId": 2568831,
+          "season": 1,
+          "episode": 2,
+          "title": "Como um Relampago S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568832",
+          "episodeId": 2568832,
+          "season": 1,
+          "episode": 3,
+          "title": "Como um Relampago S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568833",
+          "episodeId": 2568833,
+          "season": 1,
+          "episode": 4,
+          "title": "Como um Relampago S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

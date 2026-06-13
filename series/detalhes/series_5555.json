@@ -1,0 +1,86 @@
+{
+  "id": "series_5555",
+  "type": "series",
+  "title": "Caminantes: A Trilha do Medo",
+  "originalTitle": "Caminantes",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/guBNE8M4o4kaoQsp7qGW6sNdNvl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Aj2BxEuY05HjbhX5JwQfge3sOXl.jpg",
+  "overview": "Duas garotas e três rapazes desaparecem enquanto fazem o Caminho de Santiago. Duas semanas depois, a polícia encontra seus celulares enterrados no meio da montanha e, neles, vídeos que os meninos gravaram que permitem reconstruir 40 horas de pesadelo.",
+  "rating": 7.1,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "misterio",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 105849,
+  "xtream": {
+    "seriesId": 5555
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2524066",
+          "episodeId": 2524066,
+          "season": 1,
+          "episode": 1,
+          "title": "Caminantes A Trilha do Medo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524067",
+          "episodeId": 2524067,
+          "season": 1,
+          "episode": 2,
+          "title": "Caminantes A Trilha do Medo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524068",
+          "episodeId": 2524068,
+          "season": 1,
+          "episode": 3,
+          "title": "Caminantes A Trilha do Medo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524069",
+          "episodeId": 2524069,
+          "season": 1,
+          "episode": 4,
+          "title": "Caminantes A Trilha do Medo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524070",
+          "episodeId": 2524070,
+          "season": 1,
+          "episode": 5,
+          "title": "Caminantes A Trilha do Medo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524071",
+          "episodeId": 2524071,
+          "season": 1,
+          "episode": 6,
+          "title": "Caminantes A Trilha do Medo S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524072",
+          "episodeId": 2524072,
+          "season": 1,
+          "episode": 7,
+          "title": "Caminantes A Trilha do Medo S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

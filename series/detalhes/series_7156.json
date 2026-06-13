@@ -1,0 +1,51 @@
+{
+  "id": "series_7156",
+  "type": "series",
+  "title": "Marcial Maciel: O Lobo de Deus",
+  "originalTitle": "Marcial Maciel, el lobo De Dios",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/32NWMWqSXv30oy94s7tin1rbuSh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/b0mZzFVmHwudFgI4uLvxvRnLPUV.jpg",
+  "overview": "Docussérie que revela as décadas de abusos e enganos cometidos pelo padre Marcial Maciel, o infame líder dos Legionários de Cristo.",
+  "rating": 8.587,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 297306,
+  "xtream": {
+    "seriesId": 7156
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2560910",
+          "episodeId": 2560910,
+          "season": 1,
+          "episode": 1,
+          "title": "Marcial Maciel O Lobo de Deus [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2560911",
+          "episodeId": 2560911,
+          "season": 1,
+          "episode": 2,
+          "title": "Marcial Maciel O Lobo de Deus [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2560912",
+          "episodeId": 2560912,
+          "season": 1,
+          "episode": 3,
+          "title": "Marcial Maciel O Lobo de Deus [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

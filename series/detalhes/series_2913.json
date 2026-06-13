@@ -1,0 +1,51 @@
+{
+  "id": "series_2913",
+  "type": "series",
+  "title": "O Fim da Beleza",
+  "originalTitle": "O Fim da Beleza",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/nqcWiSSPDHKbwxNi07EwUNtWBs2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pyIMQkGSXIGo2MtXoTKoyShpEYt.jpg",
+  "overview": "O conceito e as formas da Beleza mudaram durante a história, mas nada foi tão impactante e drástico como a modernidade. Se a Beleza está nos olhos de quem vê, como estamos vendo o mundo?",
+  "rating": 10,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 213105,
+  "xtream": {
+    "seriesId": 2913
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2459841",
+          "episodeId": 2459841,
+          "season": 1,
+          "episode": 1,
+          "title": "O Fim da Beleza (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2459842",
+          "episodeId": 2459842,
+          "season": 1,
+          "episode": 2,
+          "title": "O Fim da Beleza (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2459843",
+          "episodeId": 2459843,
+          "season": 1,
+          "episode": 3,
+          "title": "O Fim da Beleza (2022) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

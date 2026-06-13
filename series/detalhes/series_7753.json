@@ -1,0 +1,80 @@
+{
+  "id": "series_7753",
+  "type": "series",
+  "title": "Apollos Song",
+  "originalTitle": "Apollos Song",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w780/6rBsb7VeWiVNP6hq5EtDFI7SD7X.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 8,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7753
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2571582",
+          "episodeId": 2571582,
+          "season": 1,
+          "episode": 1,
+          "title": "Apollos Song [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571583",
+          "episodeId": 2571583,
+          "season": 1,
+          "episode": 2,
+          "title": "Apollos Song [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571584",
+          "episodeId": 2571584,
+          "season": 1,
+          "episode": 3,
+          "title": "Apollos Song [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571585",
+          "episodeId": 2571585,
+          "season": 1,
+          "episode": 4,
+          "title": "Apollos Song [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571586",
+          "episodeId": 2571586,
+          "season": 1,
+          "episode": 5,
+          "title": "Apollos Song [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571587",
+          "episodeId": 2571587,
+          "season": 1,
+          "episode": 6,
+          "title": "Apollos Song [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571588",
+          "episodeId": 2571588,
+          "season": 1,
+          "episode": 7,
+          "title": "Apollos Song [L] S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

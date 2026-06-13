@@ -1,0 +1,58 @@
+{
+  "id": "series_7793",
+  "type": "series",
+  "title": "Seventeen Our Chapter",
+  "originalTitle": "SEVENTEEN: OUR CHAPTER",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/qZq7MP7XihLElGzkVLdJu5JrD0B.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1rNwkMpKRou3XUvOQJqWNdpOApn.jpg",
+  "overview": "",
+  "rating": 10,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 303077,
+  "xtream": {
+    "seriesId": 7793
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2572196",
+          "episodeId": 2572196,
+          "season": 1,
+          "episode": 1,
+          "title": "SEVENTEEN OUR CHAPTER [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2572197",
+          "episodeId": 2572197,
+          "season": 1,
+          "episode": 2,
+          "title": "SEVENTEEN OUR CHAPTER [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2572198",
+          "episodeId": 2572198,
+          "season": 1,
+          "episode": 3,
+          "title": "SEVENTEEN OUR CHAPTER [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2572199",
+          "episodeId": 2572199,
+          "season": 1,
+          "episode": 4,
+          "title": "SEVENTEEN OUR CHAPTER [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

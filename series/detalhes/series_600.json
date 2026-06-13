@@ -1,0 +1,661 @@
+{
+  "id": "series_600",
+  "type": "series",
+  "title": "BoJack Horseman",
+  "originalTitle": "BoJack Horseman",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qFYDJUIFh8zgEDy3EvnHwhgOl0S.jpg",
+  "overview": "Conheça o cavalo mais amado da TV dos anos 90... vinte anos depois! Ranzinza e com um coração de... não exatamente ouro... mas parecido. Latão?",
+  "rating": 8.532,
+  "genres": [
+    "animacao",
+    "comedia",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 61222,
+  "xtream": {
+    "seriesId": 600
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2369014",
+          "episodeId": 2369014,
+          "season": 1,
+          "episode": 1,
+          "title": "BoJack Horseman S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369015",
+          "episodeId": 2369015,
+          "season": 1,
+          "episode": 2,
+          "title": "BoJack Horseman S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369016",
+          "episodeId": 2369016,
+          "season": 1,
+          "episode": 3,
+          "title": "BoJack Horseman S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369017",
+          "episodeId": 2369017,
+          "season": 1,
+          "episode": 4,
+          "title": "BoJack Horseman S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369018",
+          "episodeId": 2369018,
+          "season": 1,
+          "episode": 5,
+          "title": "BoJack Horseman S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369019",
+          "episodeId": 2369019,
+          "season": 1,
+          "episode": 6,
+          "title": "BoJack Horseman S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369020",
+          "episodeId": 2369020,
+          "season": 1,
+          "episode": 7,
+          "title": "BoJack Horseman S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369021",
+          "episodeId": 2369021,
+          "season": 1,
+          "episode": 8,
+          "title": "BoJack Horseman S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369022",
+          "episodeId": 2369022,
+          "season": 1,
+          "episode": 9,
+          "title": "BoJack Horseman S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369023",
+          "episodeId": 2369023,
+          "season": 1,
+          "episode": 10,
+          "title": "BoJack Horseman S01 E10",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369024",
+          "episodeId": 2369024,
+          "season": 1,
+          "episode": 11,
+          "title": "BoJack Horseman S01 E11",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369025",
+          "episodeId": 2369025,
+          "season": 1,
+          "episode": 12,
+          "title": "BoJack Horseman S01 E12",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2369026",
+          "episodeId": 2369026,
+          "season": 2,
+          "episode": 1,
+          "title": "BoJack Horseman S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369027",
+          "episodeId": 2369027,
+          "season": 2,
+          "episode": 2,
+          "title": "BoJack Horseman S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369028",
+          "episodeId": 2369028,
+          "season": 2,
+          "episode": 3,
+          "title": "BoJack Horseman S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369029",
+          "episodeId": 2369029,
+          "season": 2,
+          "episode": 4,
+          "title": "BoJack Horseman S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369030",
+          "episodeId": 2369030,
+          "season": 2,
+          "episode": 5,
+          "title": "BoJack Horseman S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369031",
+          "episodeId": 2369031,
+          "season": 2,
+          "episode": 6,
+          "title": "BoJack Horseman S02 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369032",
+          "episodeId": 2369032,
+          "season": 2,
+          "episode": 7,
+          "title": "BoJack Horseman S02 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369033",
+          "episodeId": 2369033,
+          "season": 2,
+          "episode": 8,
+          "title": "BoJack Horseman S02 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369034",
+          "episodeId": 2369034,
+          "season": 2,
+          "episode": 9,
+          "title": "BoJack Horseman S02 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369035",
+          "episodeId": 2369035,
+          "season": 2,
+          "episode": 10,
+          "title": "BoJack Horseman S02 E10",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369036",
+          "episodeId": 2369036,
+          "season": 2,
+          "episode": 11,
+          "title": "BoJack Horseman S02 E11",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369037",
+          "episodeId": 2369037,
+          "season": 2,
+          "episode": 12,
+          "title": "BoJack Horseman S02 E12",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "episodes": [
+        {
+          "id": "episode_2369038",
+          "episodeId": 2369038,
+          "season": 3,
+          "episode": 1,
+          "title": "BoJack Horseman S03 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369039",
+          "episodeId": 2369039,
+          "season": 3,
+          "episode": 2,
+          "title": "BoJack Horseman S03 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369040",
+          "episodeId": 2369040,
+          "season": 3,
+          "episode": 3,
+          "title": "BoJack Horseman S03 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369041",
+          "episodeId": 2369041,
+          "season": 3,
+          "episode": 4,
+          "title": "BoJack Horseman S03 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369042",
+          "episodeId": 2369042,
+          "season": 3,
+          "episode": 5,
+          "title": "BoJack Horseman S03 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369043",
+          "episodeId": 2369043,
+          "season": 3,
+          "episode": 6,
+          "title": "BoJack Horseman S03 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369044",
+          "episodeId": 2369044,
+          "season": 3,
+          "episode": 7,
+          "title": "BoJack Horseman S03 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369045",
+          "episodeId": 2369045,
+          "season": 3,
+          "episode": 8,
+          "title": "BoJack Horseman S03 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369046",
+          "episodeId": 2369046,
+          "season": 3,
+          "episode": 9,
+          "title": "BoJack Horseman S03 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369047",
+          "episodeId": 2369047,
+          "season": 3,
+          "episode": 10,
+          "title": "BoJack Horseman S03 E10",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369048",
+          "episodeId": 2369048,
+          "season": 3,
+          "episode": 11,
+          "title": "BoJack Horseman S03 E11",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369049",
+          "episodeId": 2369049,
+          "season": 3,
+          "episode": 12,
+          "title": "BoJack Horseman S03 E12",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "episodes": [
+        {
+          "id": "episode_2369050",
+          "episodeId": 2369050,
+          "season": 4,
+          "episode": 1,
+          "title": "BoJack Horseman S04 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369051",
+          "episodeId": 2369051,
+          "season": 4,
+          "episode": 2,
+          "title": "BoJack Horseman S04 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369052",
+          "episodeId": 2369052,
+          "season": 4,
+          "episode": 3,
+          "title": "BoJack Horseman S04 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369053",
+          "episodeId": 2369053,
+          "season": 4,
+          "episode": 4,
+          "title": "BoJack Horseman S04 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369054",
+          "episodeId": 2369054,
+          "season": 4,
+          "episode": 5,
+          "title": "BoJack Horseman S04 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369055",
+          "episodeId": 2369055,
+          "season": 4,
+          "episode": 6,
+          "title": "BoJack Horseman S04 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369056",
+          "episodeId": 2369056,
+          "season": 4,
+          "episode": 7,
+          "title": "BoJack Horseman S04 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369057",
+          "episodeId": 2369057,
+          "season": 4,
+          "episode": 8,
+          "title": "BoJack Horseman S04 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369058",
+          "episodeId": 2369058,
+          "season": 4,
+          "episode": 9,
+          "title": "BoJack Horseman S04 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369059",
+          "episodeId": 2369059,
+          "season": 4,
+          "episode": 10,
+          "title": "BoJack Horseman S04 E10",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369060",
+          "episodeId": 2369060,
+          "season": 4,
+          "episode": 11,
+          "title": "BoJack Horseman S04 E11",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369061",
+          "episodeId": 2369061,
+          "season": 4,
+          "episode": 12,
+          "title": "BoJack Horseman S04 E12",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "episodes": [
+        {
+          "id": "episode_2369062",
+          "episodeId": 2369062,
+          "season": 5,
+          "episode": 1,
+          "title": "BoJack Horseman S05 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369063",
+          "episodeId": 2369063,
+          "season": 5,
+          "episode": 2,
+          "title": "BoJack Horseman S05 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369064",
+          "episodeId": 2369064,
+          "season": 5,
+          "episode": 3,
+          "title": "BoJack Horseman S05 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369065",
+          "episodeId": 2369065,
+          "season": 5,
+          "episode": 4,
+          "title": "BoJack Horseman S05 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369066",
+          "episodeId": 2369066,
+          "season": 5,
+          "episode": 5,
+          "title": "BoJack Horseman S05 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369067",
+          "episodeId": 2369067,
+          "season": 5,
+          "episode": 6,
+          "title": "BoJack Horseman S05 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369068",
+          "episodeId": 2369068,
+          "season": 5,
+          "episode": 7,
+          "title": "BoJack Horseman S05 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369069",
+          "episodeId": 2369069,
+          "season": 5,
+          "episode": 8,
+          "title": "BoJack Horseman S05 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369070",
+          "episodeId": 2369070,
+          "season": 5,
+          "episode": 9,
+          "title": "BoJack Horseman S05 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369071",
+          "episodeId": 2369071,
+          "season": 5,
+          "episode": 10,
+          "title": "BoJack Horseman S05 E10",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369072",
+          "episodeId": 2369072,
+          "season": 5,
+          "episode": 11,
+          "title": "BoJack Horseman S05 E11",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369073",
+          "episodeId": 2369073,
+          "season": 5,
+          "episode": 12,
+          "title": "BoJack Horseman S05 E12",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "episodes": [
+        {
+          "id": "episode_2369074",
+          "episodeId": 2369074,
+          "season": 6,
+          "episode": 1,
+          "title": "BoJack Horseman S06 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369075",
+          "episodeId": 2369075,
+          "season": 6,
+          "episode": 2,
+          "title": "BoJack Horseman S06 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369076",
+          "episodeId": 2369076,
+          "season": 6,
+          "episode": 3,
+          "title": "BoJack Horseman S06 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369077",
+          "episodeId": 2369077,
+          "season": 6,
+          "episode": 4,
+          "title": "BoJack Horseman S06 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369078",
+          "episodeId": 2369078,
+          "season": 6,
+          "episode": 5,
+          "title": "BoJack Horseman S06 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369079",
+          "episodeId": 2369079,
+          "season": 6,
+          "episode": 6,
+          "title": "BoJack Horseman S06 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369080",
+          "episodeId": 2369080,
+          "season": 6,
+          "episode": 7,
+          "title": "BoJack Horseman S06 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369081",
+          "episodeId": 2369081,
+          "season": 6,
+          "episode": 8,
+          "title": "BoJack Horseman S06 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369082",
+          "episodeId": 2369082,
+          "season": 6,
+          "episode": 9,
+          "title": "BoJack Horseman S06 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369083",
+          "episodeId": 2369083,
+          "season": 6,
+          "episode": 10,
+          "title": "BoJack Horseman S06 E10",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369084",
+          "episodeId": 2369084,
+          "season": 6,
+          "episode": 11,
+          "title": "BoJack Horseman S06 E11",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369085",
+          "episodeId": 2369085,
+          "season": 6,
+          "episode": 12,
+          "title": "BoJack Horseman S06 E12",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369086",
+          "episodeId": 2369086,
+          "season": 6,
+          "episode": 13,
+          "title": "BoJack Horseman S06 E13",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369087",
+          "episodeId": 2369087,
+          "season": 6,
+          "episode": 14,
+          "title": "BoJack Horseman S06 E14",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369088",
+          "episodeId": 2369088,
+          "season": 6,
+          "episode": 15,
+          "title": "BoJack Horseman S06 E15",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369089",
+          "episodeId": 2369089,
+          "season": 6,
+          "episode": 16,
+          "title": "BoJack Horseman S06 E16",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

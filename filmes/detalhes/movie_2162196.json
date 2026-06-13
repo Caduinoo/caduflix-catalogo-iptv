@@ -1,0 +1,33 @@
+{
+  "id": "movie_2162196",
+  "type": "movie",
+  "title": "AURA",
+  "originalTitle": "AURA",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/njwMVFuNg1qaHn6nLMCJVTFgg2p.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 13,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Robert Gulaczyk",
+      "character": "Alex",
+      "profile": "https://image.tmdb.org/t/p/w185/g3aNjRH9qE3kxfx66ap5UljrlUv.jpg"
+    },
+    {
+      "name": "Róża Kaleta",
+      "character": "Laura",
+      "profile": ""
+    }
+  ],
+  "director": "Konrad Kultys",
+  "tmdbId": 1535793,
+  "xtream": {
+    "streamId": 2162196,
+    "containerExtension": "mp4"
+  }
+}

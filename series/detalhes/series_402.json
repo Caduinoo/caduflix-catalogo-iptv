@@ -1,0 +1,77 @@
+{
+  "id": "series_402",
+  "type": "series",
+  "title": "Mortel",
+  "originalTitle": "Mortel",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/ueg6GgQfYVBJxtY8tgDpNM83tqr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7gUMBeUuvAbwHVTi2w1xPr0Jp33.jpg",
+  "overview": "Depois de fazer um acordo com uma entidade sobrenatural, dois estudantes adquirem poderes extraordinários e unem forças para resolver um assassinato.",
+  "rating": 7.277,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 94801,
+  "xtream": {
+    "seriesId": 402
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2360853",
+          "episodeId": 2360853,
+          "season": 1,
+          "episode": 1,
+          "title": "Mortel S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360854",
+          "episodeId": 2360854,
+          "season": 1,
+          "episode": 2,
+          "title": "Mortel S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360855",
+          "episodeId": 2360855,
+          "season": 1,
+          "episode": 3,
+          "title": "Mortel S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360856",
+          "episodeId": 2360856,
+          "season": 1,
+          "episode": 4,
+          "title": "Mortel S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360857",
+          "episodeId": 2360857,
+          "season": 1,
+          "episode": 5,
+          "title": "Mortel S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2360858",
+          "episodeId": 2360858,
+          "season": 1,
+          "episode": 6,
+          "title": "Mortel S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

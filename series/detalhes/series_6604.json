@@ -1,0 +1,74 @@
+{
+  "id": "series_6604",
+  "type": "series",
+  "title": "John Adams",
+  "originalTitle": "John Adams",
+  "year": 2008,
+  "poster": "https://image.tmdb.org/t/p/w500/34qRIcLKkTpmM9x9gzm9nKvo5pW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tKuGJ901086U6VRLAxFM9IpHjxn.jpg",
+  "overview": "Série descreve a vida do presidente dos Estados Unidos John Adams, figura fundamental na época da assinatura da\n\nDeclaração da Independência.",
+  "rating": 7.668,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 15114,
+  "xtream": {
+    "seriesId": 6604
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2549299",
+          "episodeId": 2549299,
+          "season": 1,
+          "episode": 1,
+          "title": "John Adams [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549300",
+          "episodeId": 2549300,
+          "season": 1,
+          "episode": 2,
+          "title": "John Adams [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549301",
+          "episodeId": 2549301,
+          "season": 1,
+          "episode": 3,
+          "title": "John Adams [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549302",
+          "episodeId": 2549302,
+          "season": 1,
+          "episode": 4,
+          "title": "John Adams [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549303",
+          "episodeId": 2549303,
+          "season": 1,
+          "episode": 5,
+          "title": "John Adams [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549304",
+          "episodeId": 2549304,
+          "season": 1,
+          "episode": 6,
+          "title": "John Adams [L] S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

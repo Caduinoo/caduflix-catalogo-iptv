@@ -1,0 +1,91 @@
+{
+  "id": "series_8075",
+  "type": "series",
+  "title": "Candy",
+  "originalTitle": "Candy",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/op4etn4tGxwm2BlaPTQ6ndL3ZNi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gTfMhzDNB4SZ5M5uHQCXir8vjJU.jpg",
+  "overview": "",
+  "rating": 6.1,
+  "genres": [
+    "misterio",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 133028,
+  "xtream": {
+    "seriesId": 8075
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2576129",
+          "episodeId": 2576129,
+          "season": 1,
+          "episode": 1,
+          "title": "Candy [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576130",
+          "episodeId": 2576130,
+          "season": 1,
+          "episode": 2,
+          "title": "Candy [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576131",
+          "episodeId": 2576131,
+          "season": 1,
+          "episode": 3,
+          "title": "Candy [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576132",
+          "episodeId": 2576132,
+          "season": 1,
+          "episode": 4,
+          "title": "Candy [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576133",
+          "episodeId": 2576133,
+          "season": 1,
+          "episode": 5,
+          "title": "Candy [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576134",
+          "episodeId": 2576134,
+          "season": 1,
+          "episode": 6,
+          "title": "Candy [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576135",
+          "episodeId": 2576135,
+          "season": 1,
+          "episode": 7,
+          "title": "Candy [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576136",
+          "episodeId": 2576136,
+          "season": 1,
+          "episode": 8,
+          "title": "Candy [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

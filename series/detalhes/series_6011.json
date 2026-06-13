@@ -1,0 +1,95 @@
+{
+  "id": "series_6011",
+  "type": "series",
+  "title": "Star Wars: Skeleton Crew",
+  "originalTitle": "Star Wars: Skeleton Crew",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/4Dr8mPDBhuSsrGBSx5n8cL1gSki.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fciU7RVyfcdsTeksTnBXGPmkKg2.jpg",
+  "overview": "Quatro crianças comuns buscam seu planeta natal após se perderem na galáxia de Star Wars.",
+  "rating": 6.829,
+  "genres": [
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao",
+    "familia",
+    "infantil"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 202879,
+  "xtream": {
+    "seriesId": 6011
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2535979",
+          "episodeId": 2535979,
+          "season": 1,
+          "episode": 1,
+          "title": "Star Wars Skeleton Crew S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535980",
+          "episodeId": 2535980,
+          "season": 1,
+          "episode": 2,
+          "title": "Star Wars Skeleton Crew S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535981",
+          "episodeId": 2535981,
+          "season": 1,
+          "episode": 3,
+          "title": "Star Wars Skeleton Crew S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535982",
+          "episodeId": 2535982,
+          "season": 1,
+          "episode": 4,
+          "title": "Star Wars Skeleton Crew S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535983",
+          "episodeId": 2535983,
+          "season": 1,
+          "episode": 5,
+          "title": "Star Wars Skeleton Crew S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535984",
+          "episodeId": 2535984,
+          "season": 1,
+          "episode": 6,
+          "title": "Star Wars Skeleton Crew S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535985",
+          "episodeId": 2535985,
+          "season": 1,
+          "episode": 7,
+          "title": "Star Wars Skeleton Crew S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535986",
+          "episodeId": 2535986,
+          "season": 1,
+          "episode": 8,
+          "title": "Star Wars Skeleton Crew S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

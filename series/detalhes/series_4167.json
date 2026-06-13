@@ -1,0 +1,51 @@
+{
+  "id": "series_4167",
+  "type": "series",
+  "title": "Nova York Contra John Gotti",
+  "originalTitle": "Get Gotti",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/5YzSLpq7UMyimeO4HX6pdFgcHoI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bW20pAvhZbEkmK4XxrsTuAXsDjd.jpg",
+  "overview": "Esta série documental dos criadores de Nova York Contra a Máfia mostra os dois lados da batalha do FBI para derrubar o mafioso John Gotti.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 236006,
+  "xtream": {
+    "seriesId": 4167
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2490690",
+          "episodeId": 2490690,
+          "season": 1,
+          "episode": 1,
+          "title": "Nova York Contra John Gotti (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2490691",
+          "episodeId": 2490691,
+          "season": 1,
+          "episode": 2,
+          "title": "Nova York Contra John Gotti (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2490692",
+          "episodeId": 2490692,
+          "season": 1,
+          "episode": 3,
+          "title": "Nova York Contra John Gotti (2023) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

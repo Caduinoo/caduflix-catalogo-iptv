@@ -1,0 +1,75 @@
+{
+  "id": "series_6585",
+  "type": "series",
+  "title": "Insônia",
+  "originalTitle": "Insomnia",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/z4sjqU4EpvpyyOyUHJQP1FQM6ro.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lMlSTaD73MiT4R2G4FmL08qeTLS.jpg",
+  "overview": "Emma, uma mulher bem-sucedida, teme estar perdendo a sanidade após sofrer de privação de sono duas semanas antes de completar 40 anos. Apenas investigando a verdade sobre seu passado doloroso, ela poderá encontrar as respostas para o seu presente.",
+  "rating": 6.1,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "paramount",
+  "tmdbId": 242102,
+  "xtream": {
+    "seriesId": 6585
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2549096",
+          "episodeId": 2549096,
+          "season": 1,
+          "episode": 1,
+          "title": "Insomnia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549097",
+          "episodeId": 2549097,
+          "season": 1,
+          "episode": 2,
+          "title": "Insomnia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549098",
+          "episodeId": 2549098,
+          "season": 1,
+          "episode": 3,
+          "title": "Insomnia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549099",
+          "episodeId": 2549099,
+          "season": 1,
+          "episode": 4,
+          "title": "Insomnia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549100",
+          "episodeId": 2549100,
+          "season": 1,
+          "episode": 5,
+          "title": "Insomnia S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549101",
+          "episodeId": 2549101,
+          "season": 1,
+          "episode": 6,
+          "title": "Insomnia S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

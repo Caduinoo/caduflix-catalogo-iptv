@@ -1,0 +1,58 @@
+{
+  "id": "series_3487",
+  "type": "series",
+  "title": "Segredos dos Elefantes",
+  "originalTitle": "Secrets of the Elephants",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/bccQ49tLytLMTNidM0rYXU7y0HV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zaEsVSrzHqFw3umnLHSS59fb2X2.jpg",
+  "overview": "Conheça diferentes famílias de elefantes ao redor do mundo. Cada uma tem o seu próprio conjunto de comportamentos culturais particulares que elas adaptaram para se adequar ao ambiente em que vivem.",
+  "rating": 8.4,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 157199,
+  "xtream": {
+    "seriesId": 3487
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2473239",
+          "episodeId": 2473239,
+          "season": 1,
+          "episode": 1,
+          "title": "Segredos dos Elefantes (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2473240",
+          "episodeId": 2473240,
+          "season": 1,
+          "episode": 2,
+          "title": "Segredos dos Elefantes (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2473241",
+          "episodeId": 2473241,
+          "season": 1,
+          "episode": 3,
+          "title": "Segredos dos Elefantes (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2473242",
+          "episodeId": 2473242,
+          "season": 1,
+          "episode": 4,
+          "title": "Segredos dos Elefantes (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "series_801",
+  "type": "series",
+  "title": "A Paixão",
+  "originalTitle": "The Passion",
+  "year": 2008,
+  "poster": "https://image.tmdb.org/t/p/w500/guLMiDaIirghovNwVSCB7P8Sm6w.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/31QTOnTL72eAnrVPkiV8SZPtXCo.jpg",
+  "overview": "Jesus é tirado da cruz e enterrado. Os discípulos se escondem. Temendo que o corpo seja roubado, Caifás ordena que a tumba seja vigiada. Mas, quando Maria Madalena descobre o sepulcro vazio, uma cadeia de eventos muda a vida dos discípulos.",
+  "rating": 5.3,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 14180,
+  "xtream": {
+    "seriesId": 801
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2384769",
+          "episodeId": 2384769,
+          "season": 1,
+          "episode": 1,
+          "title": "A Paixão S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384770",
+          "episodeId": 2384770,
+          "season": 1,
+          "episode": 2,
+          "title": "A Paixão S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384771",
+          "episodeId": 2384771,
+          "season": 1,
+          "episode": 3,
+          "title": "A Paixão S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384772",
+          "episodeId": 2384772,
+          "season": 1,
+          "episode": 4,
+          "title": "A Paixão S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384773",
+          "episodeId": 2384773,
+          "season": 1,
+          "episode": 5,
+          "title": "A Paixão S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384774",
+          "episodeId": 2384774,
+          "season": 1,
+          "episode": 6,
+          "title": "A Paixão S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

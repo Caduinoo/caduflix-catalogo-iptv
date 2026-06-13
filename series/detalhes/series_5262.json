@@ -1,0 +1,75 @@
+{
+  "id": "series_5262",
+  "type": "series",
+  "title": "Eric",
+  "originalTitle": "Eric",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/h3CKNeJ0NEsCEzlW4BHEp6in7Zz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2eX8Lx5VAl7ZKhwd5WOuGYwa3PW.jpg",
+  "overview": "Um pai desesperado e um policial obstinado lutam contra os próprios demônios na Nova York da década de 1980 em busca de um garoto desaparecido.",
+  "rating": 6.974,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 217667,
+  "xtream": {
+    "seriesId": 5262
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2516063",
+          "episodeId": 2516063,
+          "season": 1,
+          "episode": 1,
+          "title": "Eric S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516064",
+          "episodeId": 2516064,
+          "season": 1,
+          "episode": 2,
+          "title": "Eric S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516065",
+          "episodeId": 2516065,
+          "season": 1,
+          "episode": 3,
+          "title": "Eric S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516066",
+          "episodeId": 2516066,
+          "season": 1,
+          "episode": 4,
+          "title": "Eric S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516067",
+          "episodeId": 2516067,
+          "season": 1,
+          "episode": 5,
+          "title": "Eric S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516068",
+          "episodeId": 2516068,
+          "season": 1,
+          "episode": 6,
+          "title": "Eric S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

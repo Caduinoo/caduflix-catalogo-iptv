@@ -1,0 +1,42 @@
+{
+  "id": "series_4409",
+  "type": "series",
+  "title": "Verified Stand-Up",
+  "originalTitle": "Verified Stand-Up",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/wt8GvKMN3sNRuRVWgsuvqsPTVI7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/29VyRFYlVFUYViMiB0JmKJn1jlp.jpg",
+  "overview": "Dez comediantes, dez apresentações dinâmicas e dois episódios para rir até dizer chega. Seu novo stand-up preferido é este aqui, no palco do Webster Hall em Nova York.",
+  "rating": 5,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 240402,
+  "xtream": {
+    "seriesId": 4409
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2496400",
+          "episodeId": 2496400,
+          "season": 1,
+          "episode": 1,
+          "title": "Verified Stand Up [L] (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2496401",
+          "episodeId": 2496401,
+          "season": 1,
+          "episode": 2,
+          "title": "Verified Stand Up [L] (2023) S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

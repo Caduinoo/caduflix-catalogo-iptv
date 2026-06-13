@@ -1,0 +1,76 @@
+{
+  "id": "series_7526",
+  "type": "series",
+  "title": "Hotel Costiera",
+  "originalTitle": "Hotel Costiera",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xmFV4Rc10kFTInBUsYVjyendz1s.jpg",
+  "overview": "Itália, Costa Amalfitana. Neste cenário de beleza, Daniel De Luca, um ex-fuzileiro com um passado misterioso, trabalha como solucionador de problemas no Hotel Villa Costiera. Mas, enquanto resolve os problemas dos clientes ricos do hotel, Daniel está também no encalço de Alice, uma rapariga desaparecida que se meteu em grandes sarilhos.",
+  "rating": 7.1,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 247662,
+  "xtream": {
+    "seriesId": 7526
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2567555",
+          "episodeId": 2567555,
+          "season": 1,
+          "episode": 1,
+          "title": "Hotel Costiera S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567556",
+          "episodeId": 2567556,
+          "season": 1,
+          "episode": 2,
+          "title": "Hotel Costiera S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567557",
+          "episodeId": 2567557,
+          "season": 1,
+          "episode": 3,
+          "title": "Hotel Costiera S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567558",
+          "episodeId": 2567558,
+          "season": 1,
+          "episode": 4,
+          "title": "Hotel Costiera S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567559",
+          "episodeId": 2567559,
+          "season": 1,
+          "episode": 5,
+          "title": "Hotel Costiera S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567560",
+          "episodeId": 2567560,
+          "season": 1,
+          "episode": 6,
+          "title": "Hotel Costiera S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_249",
+  "type": "series",
+  "title": "Valley of the Boom",
+  "originalTitle": "Valley of the Boom",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/ivKrYuFI4r9yOBqvuYJpPX3Bws2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7uPVUz8KSbYnrOswUCadQGGdYdf.jpg",
+  "overview": "Conheça as vidas das personalidades do mundo da tecnologia, incluindo suas amizades, rivalidades, vitórias e fracassos.",
+  "rating": 5.857,
+  "genres": [
+    "drama",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 81188,
+  "xtream": {
+    "seriesId": 249
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2356140",
+          "episodeId": 2356140,
+          "season": 1,
+          "episode": 1,
+          "title": "Valley of the Boom S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356141",
+          "episodeId": 2356141,
+          "season": 1,
+          "episode": 2,
+          "title": "Valley of the Boom S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356142",
+          "episodeId": 2356142,
+          "season": 1,
+          "episode": 3,
+          "title": "Valley of the Boom S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356143",
+          "episodeId": 2356143,
+          "season": 1,
+          "episode": 4,
+          "title": "Valley of the Boom S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356144",
+          "episodeId": 2356144,
+          "season": 1,
+          "episode": 5,
+          "title": "Valley of the Boom S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2356145",
+          "episodeId": 2356145,
+          "season": 1,
+          "episode": 6,
+          "title": "Valley of the Boom S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

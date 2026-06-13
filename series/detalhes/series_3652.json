@@ -1,0 +1,91 @@
+{
+  "id": "series_3652",
+  "type": "series",
+  "title": "Profissão Repórter",
+  "originalTitle": "Profissão Repórter",
+  "year": 2008,
+  "poster": "https://image.tmdb.org/t/p/w500/hVD9DpHkRiUM12Epx7JmMSZEM0G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pglAYhRnuMaNkmsQs5sMsYJuhAi.jpg",
+  "overview": "Caco Barcellos e uma equipe de jovens repórteres vão às ruas, juntos, para mostrar diferentes ângulos do mesmo fato, da mesma notícia. Cada repórter tem sempre uma missão a cumprir, que envolve tarefas tanto na realização da reportagem ao vivo quanto na finalização da mesma.",
+  "rating": 7,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 61153,
+  "xtream": {
+    "seriesId": 3652
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2477352",
+          "episodeId": 2477352,
+          "season": 1,
+          "episode": 1,
+          "title": "Profissao Reporter S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2477353",
+          "episodeId": 2477353,
+          "season": 1,
+          "episode": 2,
+          "title": "Profissao Reporter S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2477354",
+          "episodeId": 2477354,
+          "season": 1,
+          "episode": 3,
+          "title": "Profissao Reporter S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2477355",
+          "episodeId": 2477355,
+          "season": 1,
+          "episode": 4,
+          "title": "Profissao Reporter S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2477356",
+          "episodeId": 2477356,
+          "season": 1,
+          "episode": 5,
+          "title": "Profissao Reporter S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2477357",
+          "episodeId": 2477357,
+          "season": 1,
+          "episode": 6,
+          "title": "Profissao Reporter S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2477358",
+          "episodeId": 2477358,
+          "season": 1,
+          "episode": 7,
+          "title": "Profissao Reporter S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2477359",
+          "episodeId": 2477359,
+          "season": 1,
+          "episode": 8,
+          "title": "Profissao Reporter S01 E09",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

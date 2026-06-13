@@ -1,0 +1,60 @@
+{
+  "id": "series_858",
+  "type": "series",
+  "title": "Agora Muppets",
+  "originalTitle": "Muppets Now",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pUG8saIHhLOakv7VOdGJndNbBEE.jpg",
+  "overview": "Esta série curta e sem roteiro apresenta personagens icônicos de Muppet ao lado de celebridades convidadas em um fórum que inspira uma tolice surpreendente e uma diversão sincera.",
+  "rating": 5.647,
+  "genres": [
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 92824,
+  "xtream": {
+    "seriesId": 858
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2386812",
+          "episodeId": 2386812,
+          "season": 1,
+          "episode": 1,
+          "title": "Muppets Now [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386813",
+          "episodeId": 2386813,
+          "season": 1,
+          "episode": 2,
+          "title": "Muppets Now [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386814",
+          "episodeId": 2386814,
+          "season": 1,
+          "episode": 3,
+          "title": "Muppets Now [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386815",
+          "episodeId": 2386815,
+          "season": 1,
+          "episode": 4,
+          "title": "Muppets Now [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

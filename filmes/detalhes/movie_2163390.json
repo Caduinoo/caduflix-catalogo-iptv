@@ -1,0 +1,86 @@
+{
+  "id": "movie_2163390",
+  "type": "movie",
+  "title": "Guerra nas Estrelas",
+  "originalTitle": "Star Wars",
+  "year": 1977,
+  "poster": "https://image.tmdb.org/t/p/w500/dw7X9YPjjAfIxKHW04V64Bb9TB0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
+  "overview": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.",
+  "rating": 8.2,
+  "runtime": 121,
+  "genres": [
+    "aventura",
+    "acao",
+    "ficcao",
+    "guerra"
+  ],
+  "cast": [
+    {
+      "name": "Mark Hamill",
+      "character": "Luke Skywalker",
+      "profile": "https://image.tmdb.org/t/p/w185/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "character": "Han Solo",
+      "profile": "https://image.tmdb.org/t/p/w185/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    },
+    {
+      "name": "Carrie Fisher",
+      "character": "Princess Leia Organa",
+      "profile": "https://image.tmdb.org/t/p/w185/of4yHmryKPy92eeskUQ7MRmjC3l.jpg"
+    },
+    {
+      "name": "Peter Cushing",
+      "character": "Grand Moff Tarkin",
+      "profile": "https://image.tmdb.org/t/p/w185/if5g03wn6uvHx7F6FxXHLebKc0q.jpg"
+    },
+    {
+      "name": "Alec Guinness",
+      "character": "Obi-Wan \"Ben\" Kenobi",
+      "profile": "https://image.tmdb.org/t/p/w185/q9QgiNDEO6lbi7uMAOw0OgWn8DG.jpg"
+    },
+    {
+      "name": "Anthony Daniels",
+      "character": "C-3PO",
+      "profile": "https://image.tmdb.org/t/p/w185/7kR4kwXtvXtvrsxWeX3QLX5NS5V.jpg"
+    },
+    {
+      "name": "Kenny Baker",
+      "character": "R2-D2",
+      "profile": "https://image.tmdb.org/t/p/w185/kWwso57V7fr0jWnHfknlxxq7XXy.jpg"
+    },
+    {
+      "name": "Peter Mayhew",
+      "character": "Chewbacca",
+      "profile": "https://image.tmdb.org/t/p/w185/rKIBv08O63pyC6PixjyhrjNB8Uh.jpg"
+    },
+    {
+      "name": "David Prowse",
+      "character": "Darth Vader (performer)",
+      "profile": "https://image.tmdb.org/t/p/w185/nPFKENjKHuklJ8i54mZroNAgKaI.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "character": "Darth Vader (voice) (uncredited)",
+      "profile": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+    },
+    {
+      "name": "Phil Brown",
+      "character": "Uncle Owen",
+      "profile": "https://image.tmdb.org/t/p/w185/bzX8avS5m0aODFh4VZaMs0lJnyX.jpg"
+    },
+    {
+      "name": "Shelagh Fraser",
+      "character": "Aunt Beru",
+      "profile": "https://image.tmdb.org/t/p/w185/jZdUwaX9uJS92vaJpGKcBM8KfAI.jpg"
+    }
+  ],
+  "director": "George Lucas",
+  "tmdbId": 11,
+  "xtream": {
+    "streamId": 2163390,
+    "containerExtension": "mp4"
+  }
+}

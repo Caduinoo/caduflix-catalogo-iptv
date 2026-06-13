@@ -1,0 +1,58 @@
+{
+  "id": "series_7543",
+  "type": "series",
+  "title": "Juan Gabriel: Devo, Posso e Quero",
+  "originalTitle": "Juan Gabriel: Debo, puedo y quiero",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/pJOXVthPDxUNwP3PCDYFbxhWVda.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/geL62Uzk5yTplLxlNWQoHdLr2UF.jpg",
+  "overview": "Vídeos raros e entrevistas exclusivas revelam a genialidade, os sacrifícios e a dualidade entre as vidas pública e privada do icônico cantor e compositor Juan Gabriel.",
+  "rating": 8.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 283396,
+  "xtream": {
+    "seriesId": 7543
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2568081",
+          "episodeId": 2568081,
+          "season": 1,
+          "episode": 1,
+          "title": "Juan Gabriel Devo Posso e Quero S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568082",
+          "episodeId": 2568082,
+          "season": 1,
+          "episode": 2,
+          "title": "Juan Gabriel Devo Posso e Quero S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568083",
+          "episodeId": 2568083,
+          "season": 1,
+          "episode": 3,
+          "title": "Juan Gabriel Devo Posso e Quero S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568084",
+          "episodeId": 2568084,
+          "season": 1,
+          "episode": 4,
+          "title": "Juan Gabriel Devo Posso e Quero S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

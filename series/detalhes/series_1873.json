@@ -1,0 +1,75 @@
+{
+  "id": "series_1873",
+  "type": "series",
+  "title": "The Bite",
+  "originalTitle": "The Bite",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/dnz8XLoesHeQtgeKf4Aftcoqgf6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gtIJjX1q22bE0Gjht5hJVzc23Lx.jpg",
+  "overview": "Durante uma segunda onda inesperada e mortal de surto de coronavírus na cidade de Nova York, duas vizinhas, Rachel e Lily, vivem em quarentena. Enquanto Rachel faz malabarismos com seus muitos clientes de telemedicina, bem como um casamento instável e sem paixão, Lily está lá em cima apenas tentando convencer sua clientela de Wall Street de que seu conjunto de habilidades muito específico ainda é tão valioso em vídeo quanto em pessoa.",
+  "rating": 6.8,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "paramount",
+  "tmdbId": 124073,
+  "xtream": {
+    "seriesId": 1873
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2430318",
+          "episodeId": 2430318,
+          "season": 1,
+          "episode": 1,
+          "title": "The Bite (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2430319",
+          "episodeId": 2430319,
+          "season": 1,
+          "episode": 2,
+          "title": "The Bite (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2430320",
+          "episodeId": 2430320,
+          "season": 1,
+          "episode": 3,
+          "title": "The Bite (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2430321",
+          "episodeId": 2430321,
+          "season": 1,
+          "episode": 4,
+          "title": "The Bite (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2430322",
+          "episodeId": 2430322,
+          "season": 1,
+          "episode": 5,
+          "title": "The Bite (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2430323",
+          "episodeId": 2430323,
+          "season": 1,
+          "episode": 6,
+          "title": "The Bite (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

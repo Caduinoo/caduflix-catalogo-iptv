@@ -1,0 +1,83 @@
+{
+  "id": "series_7423",
+  "type": "series",
+  "title": "O Jogo",
+  "originalTitle": "The Game: You Never Play Alone",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/fioJ7gVf0gnTV4ZVobfsruJ6zfh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hDsoCUGGPB0F8MddjII2RuhNVr1.jpg",
+  "overview": "Uma desenvolvedora de jogos focada na carreira acaba se tornando o alvo de ataques misóginos brutais, tanto online como na vida real.",
+  "rating": 6,
+  "genres": [
+    "crime",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 300741,
+  "xtream": {
+    "seriesId": 7423
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2565787",
+          "episodeId": 2565787,
+          "season": 1,
+          "episode": 1,
+          "title": "O Jogo [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565788",
+          "episodeId": 2565788,
+          "season": 1,
+          "episode": 2,
+          "title": "O Jogo [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565789",
+          "episodeId": 2565789,
+          "season": 1,
+          "episode": 3,
+          "title": "O Jogo [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565790",
+          "episodeId": 2565790,
+          "season": 1,
+          "episode": 4,
+          "title": "O Jogo [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565791",
+          "episodeId": 2565791,
+          "season": 1,
+          "episode": 5,
+          "title": "O Jogo [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565792",
+          "episodeId": 2565792,
+          "season": 1,
+          "episode": 6,
+          "title": "O Jogo [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565793",
+          "episodeId": 2565793,
+          "season": 1,
+          "episode": 7,
+          "title": "O Jogo [L] S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

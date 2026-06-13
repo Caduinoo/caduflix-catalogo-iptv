@@ -1,0 +1,76 @@
+{
+  "id": "series_5244",
+  "type": "series",
+  "title": "Montecristo",
+  "originalTitle": "Montecristo",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/o6vKr1ldbJmFmUuvyFT05ffyEXR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lqPi2KcoeMVNbY0uSWKIjZB9c7e.jpg",
+  "overview": "Alejandro Montecristo, uma figura enigmática, fundador e diretor executivo de uma grande empresa se torna conhecido do público e deixa algumas pessoas incomodas e desconfiadas.",
+  "rating": 7.277,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 223035,
+  "xtream": {
+    "seriesId": 5244
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2515784",
+          "episodeId": 2515784,
+          "season": 1,
+          "episode": 1,
+          "title": "Montecristo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515785",
+          "episodeId": 2515785,
+          "season": 1,
+          "episode": 2,
+          "title": "Montecristo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515786",
+          "episodeId": 2515786,
+          "season": 1,
+          "episode": 3,
+          "title": "Montecristo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515787",
+          "episodeId": 2515787,
+          "season": 1,
+          "episode": 4,
+          "title": "Montecristo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515788",
+          "episodeId": 2515788,
+          "season": 1,
+          "episode": 5,
+          "title": "Montecristo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515789",
+          "episodeId": 2515789,
+          "season": 1,
+          "episode": 6,
+          "title": "Montecristo S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

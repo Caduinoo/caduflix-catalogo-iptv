@@ -1,0 +1,90 @@
+{
+  "id": "series_8080",
+  "type": "series",
+  "title": "Abstrato: A Arte do Design",
+  "originalTitle": "Abstract: The Art of Design",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/mBpWUNGlB66cP6ght7NyT3jXmWN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uY0D6sVLjqCgLJW0ytc5EKyJvoX.jpg",
+  "overview": "Descubra como pensam os designers mais inovadores em diferentes áreas e saiba como seu trabalho influencia todos os aspectos da nossa vida.",
+  "rating": 7.762,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 70177,
+  "xtream": {
+    "seriesId": 8080
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2576189",
+          "episodeId": 2576189,
+          "season": 1,
+          "episode": 1,
+          "title": "Abstrato A Arte do Design S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576190",
+          "episodeId": 2576190,
+          "season": 1,
+          "episode": 2,
+          "title": "Abstrato A Arte do Design S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576191",
+          "episodeId": 2576191,
+          "season": 1,
+          "episode": 3,
+          "title": "Abstrato A Arte do Design S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576192",
+          "episodeId": 2576192,
+          "season": 1,
+          "episode": 4,
+          "title": "Abstrato A Arte do Design S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576193",
+          "episodeId": 2576193,
+          "season": 1,
+          "episode": 5,
+          "title": "Abstrato A Arte do Design S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576194",
+          "episodeId": 2576194,
+          "season": 1,
+          "episode": 6,
+          "title": "Abstrato A Arte do Design S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576195",
+          "episodeId": 2576195,
+          "season": 1,
+          "episode": 7,
+          "title": "Abstrato A Arte do Design S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576196",
+          "episodeId": 2576196,
+          "season": 1,
+          "episode": 8,
+          "title": "Abstrato A Arte do Design S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

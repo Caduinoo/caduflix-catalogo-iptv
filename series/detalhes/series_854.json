@@ -1,0 +1,74 @@
+{
+  "id": "series_854",
+  "type": "series",
+  "title": "Immigration Nation",
+  "originalTitle": "Immigration Nation",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/lqMU6yRjho7w6advYliIK2Od4n4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m1pL1wH9eHrNWOOF6yYc2dqHUK2.jpg",
+  "overview": "Com histórias emocionantes de imigrantes reais, esta série documental lança um olhar sobre o ICE, o Departamento de Imigração e Alfândega dos EUA.",
+  "rating": 6.9,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 106359,
+  "xtream": {
+    "seriesId": 854
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2386765",
+          "episodeId": 2386765,
+          "season": 1,
+          "episode": 1,
+          "title": "Immigration Nation S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386766",
+          "episodeId": 2386766,
+          "season": 1,
+          "episode": 2,
+          "title": "Immigration Nation S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386767",
+          "episodeId": 2386767,
+          "season": 1,
+          "episode": 3,
+          "title": "Immigration Nation S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386768",
+          "episodeId": 2386768,
+          "season": 1,
+          "episode": 4,
+          "title": "Immigration Nation S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386769",
+          "episodeId": 2386769,
+          "season": 1,
+          "episode": 5,
+          "title": "Immigration Nation S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386770",
+          "episodeId": 2386770,
+          "season": 1,
+          "episode": 6,
+          "title": "Immigration Nation S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

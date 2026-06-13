@@ -1,0 +1,51 @@
+{
+  "id": "series_2979",
+  "type": "series",
+  "title": "Pátria Educadora",
+  "originalTitle": "Pátria Educadora",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/v4JTl6g4IzRoH3qOeW6JHGTQEPu.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Para entendermos o motivo de chegarmos às últimas posições em todos os rankings educacionais internacionais, é necessário darmos um passo para trás. Nesta jornada pela educação, trazemos conceitos, análises e denúncias sobre as diferentes ideologias e personagens que pensaram o sistema de ensino brasileiro.",
+  "rating": 1,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 214036,
+  "xtream": {
+    "seriesId": 2979
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2461195",
+          "episodeId": 2461195,
+          "season": 1,
+          "episode": 1,
+          "title": "Pátria Educadora (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461196",
+          "episodeId": 2461196,
+          "season": 1,
+          "episode": 2,
+          "title": "Pátria Educadora (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461197",
+          "episodeId": 2461197,
+          "season": 1,
+          "episode": 3,
+          "title": "Pátria Educadora (2020) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

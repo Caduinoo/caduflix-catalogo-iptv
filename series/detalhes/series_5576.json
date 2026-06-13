@@ -1,0 +1,76 @@
+{
+  "id": "series_5576",
+  "type": "series",
+  "title": "One Room Angel",
+  "originalTitle": "ワンルームエンジェル",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/u6VFFDT4nrvhTBoLuLmBPBBx772.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oaTkoLRuy0ZxB28rzCgflmZufom.jpg",
+  "overview": "",
+  "rating": 9,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 235842,
+  "xtream": {
+    "seriesId": 5576
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2524459",
+          "episodeId": 2524459,
+          "season": 1,
+          "episode": 1,
+          "title": "One Room Angel [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524460",
+          "episodeId": 2524460,
+          "season": 1,
+          "episode": 2,
+          "title": "One Room Angel [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524461",
+          "episodeId": 2524461,
+          "season": 1,
+          "episode": 3,
+          "title": "One Room Angel [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524462",
+          "episodeId": 2524462,
+          "season": 1,
+          "episode": 4,
+          "title": "One Room Angel [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524463",
+          "episodeId": 2524463,
+          "season": 1,
+          "episode": 5,
+          "title": "One Room Angel [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524464",
+          "episodeId": 2524464,
+          "season": 1,
+          "episode": 6,
+          "title": "One Room Angel [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

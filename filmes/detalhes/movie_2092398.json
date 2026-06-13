@@ -1,0 +1,47 @@
+{
+  "id": "movie_2092398",
+  "type": "movie",
+  "title": "Sorte de Quem?",
+  "originalTitle": "Windfall",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/xcNmgU2EUJSTAnjYGse4wMdA2eZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cc7Nmid20lcfNh1eucWdLKidi7s.jpg",
+  "overview": "Um homem invade a casa de férias de um bilionário, mas o plano dá errado depois que o magnata e a esposa chegam de repente para curtir o lugar.",
+  "rating": 5.476,
+  "runtime": 92,
+  "genres": [
+    "suspense",
+    "thriller",
+    "crime",
+    "drama",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Jason Segel",
+      "character": "Nobody",
+      "profile": "https://image.tmdb.org/t/p/w185/aG6tVNSbl1YEjN65G3luFYnWbUM.jpg"
+    },
+    {
+      "name": "Lily Collins",
+      "character": "Wife",
+      "profile": "https://image.tmdb.org/t/p/w185/zhJISAc4qi7xiHMzHMzUTgZSIRH.jpg"
+    },
+    {
+      "name": "Jesse Plemons",
+      "character": "CEO",
+      "profile": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+      "name": "Omar Leyva",
+      "character": "Gardener",
+      "profile": "https://image.tmdb.org/t/p/w185/mpUNAbWsmIEH27JqWmMKTJBedBG.jpg"
+    }
+  ],
+  "director": "Charlie McDowell",
+  "tmdbId": 850018,
+  "xtream": {
+    "streamId": 2092398,
+    "containerExtension": "mp4"
+  }
+}

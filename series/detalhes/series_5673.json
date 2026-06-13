@@ -1,0 +1,66 @@
+{
+  "id": "series_5673",
+  "type": "series",
+  "title": "O Futuro de Bill Gates",
+  "originalTitle": "What's Next? The Future with Bill Gates",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/v92DxWRVi2X5NE6bN6rDRb9hN8H.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cRLp4PsE2O1vFvRSYjkUIh4R7yW.jpg",
+  "overview": "O visionário e filantropo Bill Gates fala de temas globais importantes e mostra as tecnologias de ponta que vão mudar o mundo.",
+  "rating": 5.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 261646,
+  "xtream": {
+    "seriesId": 5673
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2527357",
+          "episodeId": 2527357,
+          "season": 1,
+          "episode": 1,
+          "title": "O Futuro de Bill Gates S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2527358",
+          "episodeId": 2527358,
+          "season": 1,
+          "episode": 2,
+          "title": "O Futuro de Bill Gates S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2527359",
+          "episodeId": 2527359,
+          "season": 1,
+          "episode": 3,
+          "title": "O Futuro de Bill Gates S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2527360",
+          "episodeId": 2527360,
+          "season": 1,
+          "episode": 4,
+          "title": "O Futuro de Bill Gates S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2527361",
+          "episodeId": 2527361,
+          "season": 1,
+          "episode": 5,
+          "title": "O Futuro de Bill Gates S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

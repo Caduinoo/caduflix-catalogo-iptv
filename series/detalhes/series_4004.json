@@ -1,0 +1,59 @@
+{
+  "id": "series_4004",
+  "type": "series",
+  "title": "The Starter Wife",
+  "originalTitle": "The Starter Wife",
+  "year": 2007,
+  "poster": "https://image.tmdb.org/t/p/w500/tPfEIOHtVzL1h2dnjxM4TVE6uMo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ulyoO3REhX8xjZWVqgJnIq2v0fM.jpg",
+  "overview": "Tasha tem a casa perfeita, um marido amoroso e uma linda garotinha. Sua vida poderia ser perfeita se não fosse por Jen, a ex-mulher de seu marido que simplesmente não quer deixá-los sozinhos.",
+  "rating": 4.4,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 5900,
+  "xtream": {
+    "seriesId": 4004
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2486003",
+          "episodeId": 2486003,
+          "season": 1,
+          "episode": 1,
+          "title": "The Ex Wife [L] (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2486004",
+          "episodeId": 2486004,
+          "season": 1,
+          "episode": 2,
+          "title": "The Ex Wife [L] (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2486005",
+          "episodeId": 2486005,
+          "season": 1,
+          "episode": 3,
+          "title": "The Ex Wife [L] (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2486006",
+          "episodeId": 2486006,
+          "season": 1,
+          "episode": 4,
+          "title": "The Ex Wife [L] (2022) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

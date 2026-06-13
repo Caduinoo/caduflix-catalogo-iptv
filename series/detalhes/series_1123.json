@@ -1,0 +1,51 @@
+{
+  "id": "series_1123",
+  "type": "series",
+  "title": "Grant",
+  "originalTitle": "Grant",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/dxRQTh6BE3rWqKPtqcx82G4RGOj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9RuYC517Yb807zPPFll2ysFmxkB.jpg",
+  "overview": "",
+  "rating": 7.13,
+  "genres": [
+    "guerra",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 102395,
+  "xtream": {
+    "seriesId": 1123
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2397113",
+          "episodeId": 2397113,
+          "season": 1,
+          "episode": 1,
+          "title": "Grant S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2397114",
+          "episodeId": 2397114,
+          "season": 1,
+          "episode": 2,
+          "title": "Grant S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2397115",
+          "episodeId": 2397115,
+          "season": 1,
+          "episode": 3,
+          "title": "Grant S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

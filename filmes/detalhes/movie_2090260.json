@@ -1,0 +1,35 @@
+{
+  "id": "movie_2090260",
+  "type": "movie",
+  "title": "Lights Out!",
+  "originalTitle": "Lights Out!",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w780/7om2LoIEtsQ5FtvOrUEfn7YxjZk.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 10,
+  "runtime": 5,
+  "genres": [
+    "animacao",
+    "comedia",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Joseph Cotham",
+      "character": "Cody",
+      "profile": ""
+    },
+    {
+      "name": "Malika Sandhuoxf",
+      "character": "Chloe",
+      "profile": ""
+    }
+  ],
+  "director": "Rakha Adhyasta Pradana",
+  "tmdbId": 1162110,
+  "xtream": {
+    "streamId": 2090260,
+    "containerExtension": "mp4"
+  }
+}

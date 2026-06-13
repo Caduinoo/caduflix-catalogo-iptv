@@ -1,0 +1,78 @@
+{
+  "id": "series_5031",
+  "type": "series",
+  "title": "Parasyte: The Grey",
+  "originalTitle": "기생수: 더 그레이",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/uaYlFpBYbzi3trD32w2LHimiMzJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
+  "overview": "Parasitas não identificados dominam os corpos humanos de forma violenta e ganham cada vez mais poder. Agora, a humanidade precisa combater essa crescente ameaça.",
+  "rating": 7.4,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 208825,
+  "xtream": {
+    "seriesId": 5031
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2511628",
+          "episodeId": 2511628,
+          "season": 1,
+          "episode": 1,
+          "title": "Parasyte The Grey (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511629",
+          "episodeId": 2511629,
+          "season": 1,
+          "episode": 2,
+          "title": "Parasyte The Grey (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511630",
+          "episodeId": 2511630,
+          "season": 1,
+          "episode": 3,
+          "title": "Parasyte The Grey (2024) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511631",
+          "episodeId": 2511631,
+          "season": 1,
+          "episode": 4,
+          "title": "Parasyte The Grey (2024) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511632",
+          "episodeId": 2511632,
+          "season": 1,
+          "episode": 5,
+          "title": "Parasyte The Grey (2024) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511633",
+          "episodeId": 2511633,
+          "season": 1,
+          "episode": 6,
+          "title": "Parasyte The Grey (2024) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

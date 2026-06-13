@@ -1,0 +1,86 @@
+{
+  "id": "series_942",
+  "type": "series",
+  "title": "Dragon's Dogma",
+  "originalTitle": "ドラゴンズドグマ",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/vj0alCBuOutq55ZhmlLwEkalZpR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aF1uXRZPzlQz9N892QRq0MmjcVf.jpg",
+  "overview": "Ethan parte em uma jornada para aniquilar o Dragão que destruiu sua vida. Mas, a cada nova batalha, ele fica mais distante de sua humanidade.",
+  "rating": 6.888,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 99769,
+  "xtream": {
+    "seriesId": 942
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2388873",
+          "episodeId": 2388873,
+          "season": 1,
+          "episode": 1,
+          "title": "Dragon's Dogma S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388874",
+          "episodeId": 2388874,
+          "season": 1,
+          "episode": 2,
+          "title": "Dragon's Dogma S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388875",
+          "episodeId": 2388875,
+          "season": 1,
+          "episode": 3,
+          "title": "Dragon's Dogma S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388876",
+          "episodeId": 2388876,
+          "season": 1,
+          "episode": 4,
+          "title": "Dragon's Dogma S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388877",
+          "episodeId": 2388877,
+          "season": 1,
+          "episode": 5,
+          "title": "Dragon's Dogma S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388878",
+          "episodeId": 2388878,
+          "season": 1,
+          "episode": 6,
+          "title": "Dragon's Dogma S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388879",
+          "episodeId": 2388879,
+          "season": 1,
+          "episode": 7,
+          "title": "Dragon's Dogma S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

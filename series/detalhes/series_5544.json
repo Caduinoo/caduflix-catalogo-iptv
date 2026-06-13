@@ -1,0 +1,77 @@
+{
+  "id": "series_5544",
+  "type": "series",
+  "title": "Vortex",
+  "originalTitle": "Vortex",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/oYzNhRU2TFWrqeW6umtdhv11ePH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kRunIIWwTQDttT6PR5mHrM79zak.jpg",
+  "overview": "Duas mortes misteriosas. Uma fenda no tempo. Um thriller de ficção científica sobre o policial Ludovic, que arrisca tudo ao tentar mudar o passado.",
+  "rating": 6.8,
+  "genres": [
+    "crime",
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 206344,
+  "xtream": {
+    "seriesId": 5544
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2523937",
+          "episodeId": 2523937,
+          "season": 1,
+          "episode": 1,
+          "title": "Vortex [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523938",
+          "episodeId": 2523938,
+          "season": 1,
+          "episode": 2,
+          "title": "Vortex [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523939",
+          "episodeId": 2523939,
+          "season": 1,
+          "episode": 3,
+          "title": "Vortex [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523940",
+          "episodeId": 2523940,
+          "season": 1,
+          "episode": 4,
+          "title": "Vortex [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523941",
+          "episodeId": 2523941,
+          "season": 1,
+          "episode": 5,
+          "title": "Vortex [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523942",
+          "episodeId": 2523942,
+          "season": 1,
+          "episode": 6,
+          "title": "Vortex [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "series_563",
+  "type": "series",
+  "title": "Feel Good",
+  "originalTitle": "Feel Good",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/ri3dx91b3QeRGB35gnEiHGhXxdP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/21fr4skILqHaCz0VY50DQn0tYhO.jpg",
+  "overview": "A comediante de stand-up Mae Martin encara o relacionamento com a sua namorada e enfrenta os desafios da sobriedade.",
+  "rating": 7.198,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 99610,
+  "xtream": {
+    "seriesId": 563
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2367053",
+          "episodeId": 2367053,
+          "season": 1,
+          "episode": 1,
+          "title": "Feel Good S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367054",
+          "episodeId": 2367054,
+          "season": 1,
+          "episode": 2,
+          "title": "Feel Good S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367055",
+          "episodeId": 2367055,
+          "season": 1,
+          "episode": 3,
+          "title": "Feel Good S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367056",
+          "episodeId": 2367056,
+          "season": 1,
+          "episode": 4,
+          "title": "Feel Good S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367057",
+          "episodeId": 2367057,
+          "season": 1,
+          "episode": 5,
+          "title": "Feel Good S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367058",
+          "episodeId": 2367058,
+          "season": 1,
+          "episode": 6,
+          "title": "Feel Good S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2367059",
+          "episodeId": 2367059,
+          "season": 2,
+          "episode": 1,
+          "title": "Feel Good S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367060",
+          "episodeId": 2367060,
+          "season": 2,
+          "episode": 2,
+          "title": "Feel Good S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367061",
+          "episodeId": 2367061,
+          "season": 2,
+          "episode": 3,
+          "title": "Feel Good S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367062",
+          "episodeId": 2367062,
+          "season": 2,
+          "episode": 4,
+          "title": "Feel Good S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367063",
+          "episodeId": 2367063,
+          "season": 2,
+          "episode": 5,
+          "title": "Feel Good S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367064",
+          "episodeId": 2367064,
+          "season": 2,
+          "episode": 6,
+          "title": "Feel Good S02 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

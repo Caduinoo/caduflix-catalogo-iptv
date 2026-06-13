@@ -1,0 +1,59 @@
+{
+  "id": "series_5868",
+  "type": "series",
+  "title": "O Caso Robinho",
+  "originalTitle": "O Caso Robinho",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/mGr9TJHzopizzbqBuAC57xdAG5I.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oBQHv3e3HYRk5CuN8zbCHXGy242.jpg",
+  "overview": "Em sua primeira entrevista, a vítima dá sua versão sobre o estupro envolvendo Robinho e cinco amigos. Um caso que chocou o Brasil, desvendado a partir de grampos da polícia italiana.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 275630,
+  "xtream": {
+    "seriesId": 5868
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2531921",
+          "episodeId": 2531921,
+          "season": 1,
+          "episode": 1,
+          "title": "O Caso Robinho S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531922",
+          "episodeId": 2531922,
+          "season": 1,
+          "episode": 2,
+          "title": "O Caso Robinho S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531923",
+          "episodeId": 2531923,
+          "season": 1,
+          "episode": 3,
+          "title": "O Caso Robinho S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2531924",
+          "episodeId": 2531924,
+          "season": 1,
+          "episode": 4,
+          "title": "O Caso Robinho S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

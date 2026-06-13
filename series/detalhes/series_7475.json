@@ -1,0 +1,50 @@
+{
+  "id": "series_7475",
+  "type": "series",
+  "title": "Victoria Beckham",
+  "originalTitle": "Victoria Beckham",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/5XKVcCF3dwGq0YOvx28OeNYGwRJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8yy8zWNVESHVcs0azqfDH4sLqk6.jpg",
+  "overview": "Victoria Beckham, a Spice Girl que virou uma estilista renomada, fala sobre a rotina e os preparativos para a Semana de Moda de Paris.",
+  "rating": 6.7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 262281,
+  "xtream": {
+    "seriesId": 7475
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2566346",
+          "episodeId": 2566346,
+          "season": 1,
+          "episode": 1,
+          "title": "Victoria Beckham S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566347",
+          "episodeId": 2566347,
+          "season": 1,
+          "episode": 2,
+          "title": "Victoria Beckham S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566348",
+          "episodeId": 2566348,
+          "season": 1,
+          "episode": 3,
+          "title": "Victoria Beckham S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "series_8531",
+  "type": "series",
+  "title": "Cabo do Medo",
+  "originalTitle": "Cape Fear",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/2gi4vszQOpVsB33FDgt000VIQMo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+  "overview": "Uma tempestade se aproxima para o casal feliz de advogados Anna e Tom Bowden quando Max Cady, o notório assassino que eles ajudaram a colocar atrás das grades, é libertado da prisão e busca vingança.",
+  "rating": 6.167,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "apple_tv_plus",
+  "tmdbId": 277439,
+  "xtream": {
+    "seriesId": 8531
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2582311",
+          "episodeId": 2582311,
+          "season": 1,
+          "episode": 1,
+          "title": "Cabo do Medo (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582312",
+          "episodeId": 2582312,
+          "season": 1,
+          "episode": 2,
+          "title": "Cabo do Medo (2026) S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

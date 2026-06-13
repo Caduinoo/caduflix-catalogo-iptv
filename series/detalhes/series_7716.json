@@ -1,0 +1,74 @@
+{
+  "id": "series_7716",
+  "type": "series",
+  "title": "O Que Tem na Caixa?",
+  "originalTitle": "What's in the Box?",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/ujSVVm7v835y9Lofl8ut3UxpzoD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aaxT7Dh43Mzirgb9lPQZyQ1A41Y.jpg",
+  "overview": "Neste game show apresentado por Neil Patrick Harris, os participantes respondem perguntas para ganhar prêmios escondidos. Só que os concorrentes vão tentar roubá-los!",
+  "rating": 5.4,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 305995,
+  "xtream": {
+    "seriesId": 7716
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2570677",
+          "episodeId": 2570677,
+          "season": 1,
+          "episode": 1,
+          "title": "O Que Tem na Caixa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570678",
+          "episodeId": 2570678,
+          "season": 1,
+          "episode": 2,
+          "title": "O Que Tem na Caixa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570679",
+          "episodeId": 2570679,
+          "season": 1,
+          "episode": 3,
+          "title": "O Que Tem na Caixa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570680",
+          "episodeId": 2570680,
+          "season": 1,
+          "episode": 4,
+          "title": "O Que Tem na Caixa S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570681",
+          "episodeId": 2570681,
+          "season": 1,
+          "episode": 5,
+          "title": "O Que Tem na Caixa S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570682",
+          "episodeId": 2570682,
+          "season": 1,
+          "episode": 6,
+          "title": "O Que Tem na Caixa S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

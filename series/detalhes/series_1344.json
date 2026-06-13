@@ -1,0 +1,84 @@
+{
+  "id": "series_1344",
+  "type": "series",
+  "title": "Mare of Easttown",
+  "originalTitle": "Mare of Easttown",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/4oVWbd2NKglFG9UO46VhW4v6nFD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7X1IGIl1JMJ9YFzJymCVoqZbvTR.jpg",
+  "overview": "Mare Sheehan é uma detetive de uma pequena cidade na Pensilvânia que deve investigar um violento assassinato local. Conforme o lado sombrio da pequena comunidade vem à luz, a vida de Mare desmorona e relacionamentos familiares e tragédias do passado ressurgem para definir o presente.",
+  "rating": 8.181,
+  "genres": [
+    "drama",
+    "crime",
+    "misterio"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 115004,
+  "xtream": {
+    "seriesId": 1344
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2406284",
+          "episodeId": 2406284,
+          "season": 1,
+          "episode": 1,
+          "title": "Mare of Easttown S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406285",
+          "episodeId": 2406285,
+          "season": 1,
+          "episode": 2,
+          "title": "Mare of Easttown S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406286",
+          "episodeId": 2406286,
+          "season": 1,
+          "episode": 3,
+          "title": "Mare of Easttown S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406287",
+          "episodeId": 2406287,
+          "season": 1,
+          "episode": 4,
+          "title": "Mare of Easttown S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406288",
+          "episodeId": 2406288,
+          "season": 1,
+          "episode": 5,
+          "title": "Mare of Easttown S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406289",
+          "episodeId": 2406289,
+          "season": 1,
+          "episode": 6,
+          "title": "Mare of Easttown S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406290",
+          "episodeId": 2406290,
+          "season": 1,
+          "episode": 7,
+          "title": "Mare of Easttown S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

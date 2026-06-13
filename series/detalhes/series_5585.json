@@ -1,0 +1,58 @@
+{
+  "id": "series_5585",
+  "type": "series",
+  "title": "The Accident",
+  "originalTitle": "The Accident",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/z4Dy7lzjRtDz5bBdDaZMfzQGsur.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/heZkH7PgLMwxLYgDrffVKo3vMX9.jpg",
+  "overview": "Uma pequena cidade galesa é devastada por um acidente que matou oito crianças e um homem, após o colapso de uma grande construção que traria riqueza e empregos para a região.",
+  "rating": 6.186,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 94755,
+  "xtream": {
+    "seriesId": 5585
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2524700",
+          "episodeId": 2524700,
+          "season": 1,
+          "episode": 1,
+          "title": "The Accident [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524701",
+          "episodeId": 2524701,
+          "season": 1,
+          "episode": 2,
+          "title": "The Accident [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524702",
+          "episodeId": 2524702,
+          "season": 1,
+          "episode": 3,
+          "title": "The Accident [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2524703",
+          "episodeId": 2524703,
+          "season": 1,
+          "episode": 4,
+          "title": "The Accident [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

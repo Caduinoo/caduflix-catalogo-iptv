@@ -1,0 +1,59 @@
+{
+  "id": "series_2969",
+  "type": "series",
+  "title": "Beckham: Salve Nosso Time",
+  "originalTitle": "Save Our Squad with David Beckham",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/9VAWvuIMBXbBTu2m7oGP9ujvrdc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bxtN2d7dYEYj59gllOcTQhvdLUm.jpg",
+  "overview": "David Beckham está voltando para casa. Ao longo de uma temporada, David se junta ao time Westward Boys, um time da Echo Premier League, a liga em que começou sua carreira. O Westward não venceu nenhum jogo da temporada e a ameaça de rebaixamento é grande. David tem uma tarefa difícil pela frente.",
+  "rating": 6.9,
+  "genres": [
+    "documentario",
+    "reality"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 204667,
+  "xtream": {
+    "seriesId": 2969
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2461113",
+          "episodeId": 2461113,
+          "season": 1,
+          "episode": 1,
+          "title": "Beckham: Salve Nosso Time (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461114",
+          "episodeId": 2461114,
+          "season": 1,
+          "episode": 2,
+          "title": "Beckham: Salve Nosso Time (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461115",
+          "episodeId": 2461115,
+          "season": 1,
+          "episode": 3,
+          "title": "Beckham: Salve Nosso Time (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461116",
+          "episodeId": 2461116,
+          "season": 1,
+          "episode": 4,
+          "title": "Beckham: Salve Nosso Time (2022) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "series_7277",
+  "type": "series",
+  "title": "Peixe Vermelho, Peixe Azul",
+  "originalTitle": "Dr. Seuss's Red Fish, Blue Fish",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/fhtkX44A4cTYMNKNcosEFYX7zfq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kGgJR0JyxIjmugpGJx0UpujxFA4.jpg",
+  "overview": "Um peixe, dois peixes, são Peixe Vermelho e Peixe Azul! Daqui para lá e de lá para cá, esses amigos encontram opostos de Norte a Sul!",
+  "rating": 6,
+  "genres": [
+    "animacao",
+    "infantil"
+  ],
+  "producer": "netflix",
+  "tmdbId": 293703,
+  "xtream": {
+    "seriesId": 7277
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2562837",
+          "episodeId": 2562837,
+          "season": 1,
+          "episode": 1,
+          "title": "Peixe Vermelho Peixe Azul S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562838",
+          "episodeId": 2562838,
+          "season": 1,
+          "episode": 2,
+          "title": "Peixe Vermelho Peixe Azul S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562839",
+          "episodeId": 2562839,
+          "season": 1,
+          "episode": 3,
+          "title": "Peixe Vermelho Peixe Azul S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562840",
+          "episodeId": 2562840,
+          "season": 1,
+          "episode": 4,
+          "title": "Peixe Vermelho Peixe Azul S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562841",
+          "episodeId": 2562841,
+          "season": 1,
+          "episode": 5,
+          "title": "Peixe Vermelho Peixe Azul S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

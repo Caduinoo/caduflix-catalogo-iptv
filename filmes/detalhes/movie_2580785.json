@@ -1,0 +1,35 @@
+{
+  "id": "movie_2580785",
+  "type": "movie",
+  "title": "Rastro do Ouro",
+  "originalTitle": "La huella del oro",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/or8efRgDO5SRNCcpi3DYESF0D0K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tWgcmID3U63WdWcoXEPcJA81HL7.jpg",
+  "overview": "\"Rastro do Ouro\" segue a aventura de Fafner, um mercenário perseguindo uma trilha de moedas que o levará ao seu inevitável destino. Levado pela ganância, Fafner enfrenta situações extremas em um continente distópico.",
+  "rating": 6.95,
+  "runtime": 32,
+  "genres": [
+    "animacao",
+    "acao",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Mario Castañeda",
+      "character": "Fafner",
+      "profile": "https://image.tmdb.org/t/p/w185/rXonFHXqbE4cFzAM4NhHsl7ptvM.jpg"
+    },
+    {
+      "name": "Jakora Xochitl",
+      "character": "Sigurd",
+      "profile": ""
+    }
+  ],
+  "director": "Daniel Duche",
+  "tmdbId": 1669929,
+  "xtream": {
+    "streamId": 2580785,
+    "containerExtension": "mp4"
+  }
+}

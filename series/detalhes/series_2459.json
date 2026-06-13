@@ -1,0 +1,60 @@
+{
+  "id": "series_2459",
+  "type": "series",
+  "title": "PCC, Poder Secreto",
+  "originalTitle": "PCC: Poder Secreto",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/jatkeB0a9RvlGJhhaeeZCekEKd0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/r8obOnHqrjOgeHBc7MAgZoGvfvG.jpg",
+  "overview": "A série apresenta o Primeiro Comando da Capital através de antigos participantes e famílias que tiveram algum tipo de contato com os criminosos.",
+  "rating": 7.9,
+  "genres": [
+    "documentario",
+    "crime",
+    "nacional"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 201320,
+  "xtream": {
+    "seriesId": 2459
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2448569",
+          "episodeId": 2448569,
+          "season": 1,
+          "episode": 1,
+          "title": "PCC: Poder Secreto (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2448570",
+          "episodeId": 2448570,
+          "season": 1,
+          "episode": 2,
+          "title": "PCC: Poder Secreto (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2448571",
+          "episodeId": 2448571,
+          "season": 1,
+          "episode": 3,
+          "title": "PCC: Poder Secreto (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2448572",
+          "episodeId": 2448572,
+          "season": 1,
+          "episode": 4,
+          "title": "PCC: Poder Secreto (2022) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

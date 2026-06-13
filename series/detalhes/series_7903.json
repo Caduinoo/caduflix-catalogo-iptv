@@ -1,0 +1,93 @@
+{
+  "id": "series_7903",
+  "type": "series",
+  "title": "Sandokan",
+  "originalTitle": "Sandokan",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/knEfDIVlJpoYAFQYlbOr78uDIqq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1AA5xIVt1PTrbLxCCBxRyvjdpqO.jpg",
+  "overview": "Sandokan é um pirata malaio que, junto com seu amigo Yanez e sua tripulação, ataca as forças britânicas em sua ilha de Mompracem. Durante suas aventuras, ele se apaixona por Lady Marianna Guillonk, uma aristocrata inglês-italiana.",
+  "rating": 7.5,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "guerra"
+  ],
+  "producer": "netflix",
+  "tmdbId": 271855,
+  "xtream": {
+    "seriesId": 7903
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2573874",
+          "episodeId": 2573874,
+          "season": 1,
+          "episode": 1,
+          "title": "Sandokan S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573875",
+          "episodeId": 2573875,
+          "season": 1,
+          "episode": 2,
+          "title": "Sandokan S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573876",
+          "episodeId": 2573876,
+          "season": 1,
+          "episode": 3,
+          "title": "Sandokan S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573877",
+          "episodeId": 2573877,
+          "season": 1,
+          "episode": 4,
+          "title": "Sandokan S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573878",
+          "episodeId": 2573878,
+          "season": 1,
+          "episode": 5,
+          "title": "Sandokan S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573879",
+          "episodeId": 2573879,
+          "season": 1,
+          "episode": 6,
+          "title": "Sandokan S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573880",
+          "episodeId": 2573880,
+          "season": 1,
+          "episode": 7,
+          "title": "Sandokan S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573881",
+          "episodeId": 2573881,
+          "season": 1,
+          "episode": 8,
+          "title": "Sandokan S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

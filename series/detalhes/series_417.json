@@ -1,0 +1,58 @@
+{
+  "id": "series_417",
+  "type": "series",
+  "title": "Filmes que Marcam Época",
+  "originalTitle": "The Movies That Made Us",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/l7p40cVratmPTdWrx4UFjZbANKF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mQYdERQ3flDX5s1jb7Jc2KHrK8C.jpg",
+  "overview": "Esses blockbusters uniram e divertiram gerações. Conheça os atores, diretores e outros profissionais do cinema que tornaram tudo possível.",
+  "rating": 7.254,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 93219,
+  "xtream": {
+    "seriesId": 417
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2361172",
+          "episodeId": 2361172,
+          "season": 1,
+          "episode": 1,
+          "title": "Filmes Que Marcam Época S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361173",
+          "episodeId": 2361173,
+          "season": 1,
+          "episode": 2,
+          "title": "Filmes Que Marcam Época S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361174",
+          "episodeId": 2361174,
+          "season": 1,
+          "episode": 3,
+          "title": "Filmes Que Marcam Época S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361175",
+          "episodeId": 2361175,
+          "season": 1,
+          "episode": 4,
+          "title": "Filmes Que Marcam Época S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

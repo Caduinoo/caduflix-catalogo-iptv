@@ -1,0 +1,74 @@
+{
+  "id": "series_1983",
+  "type": "series",
+  "title": "Coiotes",
+  "originalTitle": "Coyotes",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/vpwfI3LRoWIQuoY9BlzT8DPWrT4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hgtn8n55ds83qYNUgcP6NJ4roKm.jpg",
+  "overview": "Uma patrulha de reconhecimento se depara com diamantes durante um acampamento. Dividido entre devolvê-los, compartilhá-los ou mantê-los, cada membro questiona sua própria moralidade. Enquanto isso, há um perigo para as vespas: aqueles que as perderam estão dispostos a fazer qualquer coisa para encontrá-las.",
+  "rating": 6.2,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 125676,
+  "xtream": {
+    "seriesId": 1983
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2434116",
+          "episodeId": 2434116,
+          "season": 1,
+          "episode": 1,
+          "title": "Coyotes (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434117",
+          "episodeId": 2434117,
+          "season": 1,
+          "episode": 2,
+          "title": "Coyotes (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434118",
+          "episodeId": 2434118,
+          "season": 1,
+          "episode": 3,
+          "title": "Coyotes (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434119",
+          "episodeId": 2434119,
+          "season": 1,
+          "episode": 4,
+          "title": "Coyotes (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434120",
+          "episodeId": 2434120,
+          "season": 1,
+          "episode": 5,
+          "title": "Coyotes (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434121",
+          "episodeId": 2434121,
+          "season": 1,
+          "episode": 6,
+          "title": "Coyotes (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

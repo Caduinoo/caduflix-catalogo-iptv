@@ -1,0 +1,48 @@
+{
+  "id": "series_5501",
+  "type": "series",
+  "title": "O Misterioso Mundo dos Sons com David Attenborough",
+  "originalTitle": "O Misterioso Mundo dos Sons com David Attenborough",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w780/8uGdYsxrN77de7CHHKAfd1zaMsj.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Uma tecnologia avançada de áudio captura o som da natureza de forma inédita nesta série documental envolvente narrada por David Attenborough.",
+  "rating": 8,
+  "genres": [],
+  "producer": "netflix",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 5501
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2522815",
+          "episodeId": 2522815,
+          "season": 1,
+          "episode": 1,
+          "title": "O Misterioso Mundo dos Sons com David Attenborough S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522816",
+          "episodeId": 2522816,
+          "season": 1,
+          "episode": 2,
+          "title": "O Misterioso Mundo dos Sons com David Attenborough S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522817",
+          "episodeId": 2522817,
+          "season": 1,
+          "episode": 3,
+          "title": "O Misterioso Mundo dos Sons com David Attenborough S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

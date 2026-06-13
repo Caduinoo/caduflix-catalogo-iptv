@@ -1,0 +1,58 @@
+{
+  "id": "series_7705",
+  "type": "series",
+  "title": "Seleção Artificial",
+  "originalTitle": "Unnatural Selection",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/eDSJbPwRWP961WzWmUuthcKV3B1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gsTePch8cKsQlb2GSsvcN2q0PKT.jpg",
+  "overview": "Da erradicação de doenças à escolha das características do bebê, a edição genética permite alterar a biologia humana. Saiba quem são os cientistas por trás de tudo isso.",
+  "rating": 7.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 94647,
+  "xtream": {
+    "seriesId": 7705
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2570549",
+          "episodeId": 2570549,
+          "season": 1,
+          "episode": 1,
+          "title": "Selecao Artificial S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570550",
+          "episodeId": 2570550,
+          "season": 1,
+          "episode": 2,
+          "title": "Selecao Artificial S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570551",
+          "episodeId": 2570551,
+          "season": 1,
+          "episode": 3,
+          "title": "Selecao Artificial S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570552",
+          "episodeId": 2570552,
+          "season": 1,
+          "episode": 4,
+          "title": "Selecao Artificial S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

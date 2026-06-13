@@ -1,0 +1,74 @@
+{
+  "id": "series_296",
+  "type": "series",
+  "title": "Isto É futebol",
+  "originalTitle": "This Is Football",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/1ZMdAee5nXzUA7pyoYgJajG8Uus.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/FKQWtyaNjWdMMUjnlYd46nOle4.jpg",
+  "overview": "Um emocionante documentário de seis partes que mostra o impacto extraordinário do futebol no mundo. Das ruas de Délhi aos campos da Ruanda pós-guerra, até os lances da Liga dos Campeões, esta série conta uma história única do esporte e de seu poder de unir países, inspirar gerações e cativar bilhões ao redor do globo.",
+  "rating": 5.667,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 90837,
+  "xtream": {
+    "seriesId": 296
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2357771",
+          "episodeId": 2357771,
+          "season": 1,
+          "episode": 1,
+          "title": "This Is Football [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357772",
+          "episodeId": 2357772,
+          "season": 1,
+          "episode": 2,
+          "title": "This Is Football [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357773",
+          "episodeId": 2357773,
+          "season": 1,
+          "episode": 3,
+          "title": "This Is Football [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357774",
+          "episodeId": 2357774,
+          "season": 1,
+          "episode": 4,
+          "title": "This Is Football [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357775",
+          "episodeId": 2357775,
+          "season": 1,
+          "episode": 5,
+          "title": "This Is Football [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357776",
+          "episodeId": 2357776,
+          "season": 1,
+          "episode": 6,
+          "title": "This Is Football [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

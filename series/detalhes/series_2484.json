@@ -1,0 +1,51 @@
+{
+  "id": "series_2484",
+  "type": "series",
+  "title": "Ed Kemper: A Mente de um Monstro",
+  "originalTitle": "The Co-Ed Killer: Mind of a Monster",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/kC4qb2PtRwfoDAeFvidJiZxhfXr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gbF4s113mRByPqGf87KjYtb6srS.jpg",
+  "overview": "Ed Kemper parece um gigante gentil que ajuda jovens. Mas por trás de seu sorriso charmoso, há um monstro pervertido. Gravações revelam as fantasias sombrias de um dos assassinos em série mais famosos dos Estados Unidos.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 157203,
+  "xtream": {
+    "seriesId": 2484
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2449189",
+          "episodeId": 2449189,
+          "season": 1,
+          "episode": 1,
+          "title": "Ed Kemper: A Mente de um Monstro (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2449190",
+          "episodeId": 2449190,
+          "season": 1,
+          "episode": 2,
+          "title": "Ed Kemper: A Mente de um Monstro (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2449191",
+          "episodeId": 2449191,
+          "season": 1,
+          "episode": 3,
+          "title": "Ed Kemper: A Mente de um Monstro (2021) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

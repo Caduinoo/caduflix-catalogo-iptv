@@ -1,0 +1,75 @@
+{
+  "id": "series_5432",
+  "type": "series",
+  "title": "Exposure",
+  "originalTitle": "Exposure",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/zCrRrSv17o9dAbbEp7VrsoHosU0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pI2t8x9ZPFJOj2jBuQkDeELS2wb.jpg",
+  "overview": "Acompanha a fotógrafa Jacs Gould que, após a morte de sua melhor amiga, retorna à sua cidade natal para descobrir os segredos ocultos do relacionamento entre elas e a verdade por trás de sua tragédia.",
+  "rating": 4.7,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 257188,
+  "xtream": {
+    "seriesId": 5432
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2520423",
+          "episodeId": 2520423,
+          "season": 1,
+          "episode": 1,
+          "title": "Exposure [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520424",
+          "episodeId": 2520424,
+          "season": 1,
+          "episode": 2,
+          "title": "Exposure [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520425",
+          "episodeId": 2520425,
+          "season": 1,
+          "episode": 3,
+          "title": "Exposure [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520426",
+          "episodeId": 2520426,
+          "season": 1,
+          "episode": 4,
+          "title": "Exposure [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520427",
+          "episodeId": 2520427,
+          "season": 1,
+          "episode": 5,
+          "title": "Exposure [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2520428",
+          "episodeId": 2520428,
+          "season": 1,
+          "episode": 6,
+          "title": "Exposure [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

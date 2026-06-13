@@ -1,0 +1,58 @@
+{
+  "id": "series_3000",
+  "type": "series",
+  "title": "Pepsi, Cadê Meu Avião?",
+  "originalTitle": "Pepsi, Where's My Jet?",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/eobwQG9JEaLZ8HdiYpVKnw3ca3z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gjP9RY2mOGfiFhfYgLgBGQYldht.jpg",
+  "overview": "Um jovem de 20 anos tenta ganhar um avião de caça em uma promoção da Pepsi, dando início a uma batalha judicial histórica.",
+  "rating": 6.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213134,
+  "xtream": {
+    "seriesId": 3000
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2461775",
+          "episodeId": 2461775,
+          "season": 1,
+          "episode": 1,
+          "title": "Pepsi, Cadê Meu Avião? (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461776",
+          "episodeId": 2461776,
+          "season": 1,
+          "episode": 2,
+          "title": "Pepsi, Cadê Meu Avião? (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461777",
+          "episodeId": 2461777,
+          "season": 1,
+          "episode": 3,
+          "title": "Pepsi, Cadê Meu Avião? (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461778",
+          "episodeId": 2461778,
+          "season": 1,
+          "episode": 4,
+          "title": "Pepsi, Cadê Meu Avião? (2022) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "series_8309",
+  "type": "series",
+  "title": "Ronaldinho Gaúcho",
+  "originalTitle": "Ronaldinho Gaúcho",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/zYdSaQLM8w3NMuBnjRPjqpiUnyp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6ijP1WtGhkk26r72jpsql2N0Tpj.jpg",
+  "overview": "Esta série mergulha na vida, na carreira e nos rolês de Ronaldinho Gaúcho, desde o começo da sua jornada no esporte até se tornar um ícone dos dribles no mundo todo.",
+  "rating": 7.524,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 316544,
+  "xtream": {
+    "seriesId": 8309
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2579131",
+          "episodeId": 2579131,
+          "season": 1,
+          "episode": 1,
+          "title": "Ronaldinho Gaucho (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2579132",
+          "episodeId": 2579132,
+          "season": 1,
+          "episode": 2,
+          "title": "Ronaldinho Gaucho (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2579133",
+          "episodeId": 2579133,
+          "season": 1,
+          "episode": 3,
+          "title": "Ronaldinho Gaucho (2026) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

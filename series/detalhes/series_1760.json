@@ -1,0 +1,59 @@
+{
+  "id": "series_1760",
+  "type": "series",
+  "title": "Entre Homens",
+  "originalTitle": "Entre hombres",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/wghGhvLTKKGp4sbNedieirdL8uk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/48xptQ21l5U46xAym5a5ehezTVT.jpg",
+  "overview": "A trama gira em torno de uma festa cheia de sexo e drogas na qual acontece um crime que compromete todos os convidados. No caminho para apagar todos os vestígios de evidência, os protagonistas serão confrontados ​​com vingança, sangue e ilegalidade.",
+  "rating": 7.5,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 100354,
+  "xtream": {
+    "seriesId": 1760
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2426614",
+          "episodeId": 2426614,
+          "season": 1,
+          "episode": 1,
+          "title": "Entre Homens (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426615",
+          "episodeId": 2426615,
+          "season": 1,
+          "episode": 2,
+          "title": "Entre Homens (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426616",
+          "episodeId": 2426616,
+          "season": 1,
+          "episode": 3,
+          "title": "Entre Homens (2020) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426617",
+          "episodeId": 2426617,
+          "season": 1,
+          "episode": 4,
+          "title": "Entre Homens (2020) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

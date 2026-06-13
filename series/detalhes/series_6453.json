@@ -1,0 +1,58 @@
+{
+  "id": "series_6453",
+  "type": "series",
+  "title": "Miss Austen",
+  "originalTitle": "Miss Austen",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/vRzs71MV8RgL1nyswSSklQpkLkH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iKWGJvafghmJM6Z3rpI9Jtmq4kg.jpg",
+  "overview": "Acompanha a vida de Jane Austen e Cassandra, sua irmã.",
+  "rating": 6.2,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 241114,
+  "xtream": {
+    "seriesId": 6453
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2546932",
+          "episodeId": 2546932,
+          "season": 1,
+          "episode": 1,
+          "title": "Miss Austen [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2546933",
+          "episodeId": 2546933,
+          "season": 1,
+          "episode": 2,
+          "title": "Miss Austen [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2546934",
+          "episodeId": 2546934,
+          "season": 1,
+          "episode": 3,
+          "title": "Miss Austen [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2546935",
+          "episodeId": 2546935,
+          "season": 1,
+          "episode": 4,
+          "title": "Miss Austen [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

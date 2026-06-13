@@ -1,0 +1,76 @@
+{
+  "id": "series_822",
+  "type": "series",
+  "title": "Boca a Boca",
+  "originalTitle": "Boca a Boca",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/lcrSQSKyctpBotO7bAhk53Tvgv1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qwR3YQdRDjlQnjUmDUsaEGbpSXR.jpg",
+  "overview": "O surto de uma doença infecciosa transmitida pelo beijo assusta os adolescentes de uma cidade do interior no Brasil.",
+  "rating": 7,
+  "genres": [
+    "drama",
+    "misterio",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 105213,
+  "xtream": {
+    "seriesId": 822
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2385677",
+          "episodeId": 2385677,
+          "season": 1,
+          "episode": 1,
+          "title": "Boca a Boca S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385678",
+          "episodeId": 2385678,
+          "season": 1,
+          "episode": 2,
+          "title": "Boca a Boca S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385679",
+          "episodeId": 2385679,
+          "season": 1,
+          "episode": 3,
+          "title": "Boca a Boca S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385680",
+          "episodeId": 2385680,
+          "season": 1,
+          "episode": 4,
+          "title": "Boca a Boca S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385681",
+          "episodeId": 2385681,
+          "season": 1,
+          "episode": 5,
+          "title": "Boca a Boca S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385682",
+          "episodeId": 2385682,
+          "season": 1,
+          "episode": 6,
+          "title": "Boca a Boca S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

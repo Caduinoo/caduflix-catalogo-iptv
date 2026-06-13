@@ -1,0 +1,42 @@
+{
+  "id": "series_6115",
+  "type": "series",
+  "title": "Ben-Hur",
+  "originalTitle": "Ben Hur",
+  "year": 2010,
+  "poster": "https://image.tmdb.org/t/p/w500/ejsJlDNpZDAKJN1ERa0zrz6MRHA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jlY6Fh3O1pU9UwIwTlcOJeLIkIB.jpg",
+  "overview": "A história de um homem injustamente condenado que luta pela sua sobrevivência e para manter sua identidade. Ele retorna à terra natal em busca de vingança, mas encontra a redenção.",
+  "rating": 6.3,
+  "genres": [
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 40360,
+  "xtream": {
+    "seriesId": 6115
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2538136",
+          "episodeId": 2538136,
+          "season": 1,
+          "episode": 1,
+          "title": "Ben Hur S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2538137",
+          "episodeId": 2538137,
+          "season": 1,
+          "episode": 2,
+          "title": "Ben Hur S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

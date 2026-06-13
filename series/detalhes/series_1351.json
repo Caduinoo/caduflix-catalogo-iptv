@@ -1,0 +1,79 @@
+{
+  "id": "series_1351",
+  "type": "series",
+  "title": "Yasuke",
+  "originalTitle": "YASUKE －ヤスケ－",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/EyrE3HJsMArVSORCnP0ooiAd9T.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/n37Q4McCD6EpiZJICgsDJWUhkWE.jpg",
+  "overview": "Para proteger uma menininha que tem poderes misteriosos, o Samurai Negro, hoje um pacífico barqueiro, acaba se envolvendo em novas batalhas.",
+  "rating": 7.326,
+  "genres": [
+    "animacao",
+    "drama",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 112166,
+  "xtream": {
+    "seriesId": 1351
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2406344",
+          "episodeId": 2406344,
+          "season": 1,
+          "episode": 1,
+          "title": "Yasuke S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406345",
+          "episodeId": 2406345,
+          "season": 1,
+          "episode": 2,
+          "title": "Yasuke S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406346",
+          "episodeId": 2406346,
+          "season": 1,
+          "episode": 3,
+          "title": "Yasuke S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406347",
+          "episodeId": 2406347,
+          "season": 1,
+          "episode": 4,
+          "title": "Yasuke S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406348",
+          "episodeId": 2406348,
+          "season": 1,
+          "episode": 5,
+          "title": "Yasuke S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2406349",
+          "episodeId": 2406349,
+          "season": 1,
+          "episode": 6,
+          "title": "Yasuke S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "series_7652",
+  "type": "series",
+  "title": "The Mighty Nein",
+  "originalTitle": "The Mighty Nein",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7K7wbQIpkzif4fMhDHsCweXFS42.jpg",
+  "overview": "Um grupo de excluídos, criminosos e desajustados acaba salvando o continente quando uma relíquia arcana capaz de remodelar a realidade cai nas mãos erradas.",
+  "rating": 8.042,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 219080,
+  "xtream": {
+    "seriesId": 7652
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2569333",
+          "episodeId": 2569333,
+          "season": 1,
+          "episode": 1,
+          "title": "The Mighty Nein S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569334",
+          "episodeId": 2569334,
+          "season": 1,
+          "episode": 2,
+          "title": "The Mighty Nein S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569335",
+          "episodeId": 2569335,
+          "season": 1,
+          "episode": 3,
+          "title": "The Mighty Nein S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569336",
+          "episodeId": 2569336,
+          "season": 1,
+          "episode": 4,
+          "title": "The Mighty Nein S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569337",
+          "episodeId": 2569337,
+          "season": 1,
+          "episode": 5,
+          "title": "The Mighty Nein S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569338",
+          "episodeId": 2569338,
+          "season": 1,
+          "episode": 6,
+          "title": "The Mighty Nein S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569339",
+          "episodeId": 2569339,
+          "season": 1,
+          "episode": 7,
+          "title": "The Mighty Nein S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569340",
+          "episodeId": 2569340,
+          "season": 1,
+          "episode": 8,
+          "title": "The Mighty Nein S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

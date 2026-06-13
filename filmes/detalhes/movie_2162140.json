@@ -1,0 +1,84 @@
+{
+  "id": "movie_2162140",
+  "type": "movie",
+  "title": "Cinema Paradiso",
+  "originalTitle": "Nuovo Cinema Paradiso",
+  "year": 1988,
+  "poster": "https://image.tmdb.org/t/p/w500/kkmwHNAiCea2QGX6kgPmdDKaWyp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+  "overview": "Um diretor de cinema relembra como, em sua infância, se apaixonou pelo filmes no cinema de seu vilarejo e iniciou uma profunda amizade com o projetista.",
+  "rating": 8.428,
+  "runtime": 155,
+  "genres": [
+    "drama",
+    "romance"
+  ],
+  "cast": [
+    {
+      "name": "Philippe Noiret",
+      "character": "Alfredo",
+      "profile": "https://image.tmdb.org/t/p/w185/mWPa6A0JK3tfVRQDIzCQGEao19B.jpg"
+    },
+    {
+      "name": "Jacques Perrin",
+      "character": "Salvatore 'Totò' Di Vita (adult)",
+      "profile": "https://image.tmdb.org/t/p/w185/lGbDfSdDgFg3QHgungWIDsV9uh7.jpg"
+    },
+    {
+      "name": "Marco Leonardi",
+      "character": "Salvatore 'Totò' Di Vita (teen)",
+      "profile": "https://image.tmdb.org/t/p/w185/5VVhO9rPvRgKsZME2gZKtG9WgWD.jpg"
+    },
+    {
+      "name": "Salvatore Cascio",
+      "character": "Salvatore 'Totò' Di Vita (child)",
+      "profile": "https://image.tmdb.org/t/p/w185/7t59ZGfLUv30DBgoUcqXXhK0t6Y.jpg"
+    },
+    {
+      "name": "Agnese Nano",
+      "character": "Elena Mendola (teen) / Elena's daughter (in Director's cut)",
+      "profile": "https://image.tmdb.org/t/p/w185/gUbvX3dm8rIq58phY8jSl3oPgUe.jpg"
+    },
+    {
+      "name": "Antonella Attili",
+      "character": "Maria Di Vita (young)",
+      "profile": "https://image.tmdb.org/t/p/w185/hoLib8DJzJ7fPQhtUjmo5n4ntu0.jpg"
+    },
+    {
+      "name": "Pupella Maggio",
+      "character": "Maria Di Vita (aged)",
+      "profile": "https://image.tmdb.org/t/p/w185/p6ah7IoZ2yFEWp9UMjAHtsT2t3O.jpg"
+    },
+    {
+      "name": "Enzo Cannavale",
+      "character": "Spaccafico",
+      "profile": "https://image.tmdb.org/t/p/w185/qKTBcs4UEwBhZIeYBpVcDjZVJKg.jpg"
+    },
+    {
+      "name": "Isa Danieli",
+      "character": "Anna",
+      "profile": "https://image.tmdb.org/t/p/w185/xUETwTcqaEdc4jEO5JzZBxbrGsA.jpg"
+    },
+    {
+      "name": "Leo Gullotta",
+      "character": "Ignazio, usher",
+      "profile": "https://image.tmdb.org/t/p/w185/wn9LQjKRZxrXm6a5zyfrLs71ChM.jpg"
+    },
+    {
+      "name": "Leopoldo Trieste",
+      "character": "Father Adelfio",
+      "profile": "https://image.tmdb.org/t/p/w185/rPvCj39OY7LClFh9CG2OXFKxioB.jpg"
+    },
+    {
+      "name": "Tano Cimarosa",
+      "character": "Fabbro, blacksmith",
+      "profile": "https://image.tmdb.org/t/p/w185/npEuqZSuc9oq1nfBj1l93hY7Ygc.jpg"
+    }
+  ],
+  "director": "Giuseppe Tornatore",
+  "tmdbId": 11216,
+  "xtream": {
+    "streamId": 2162140,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "series_3964",
+  "type": "series",
+  "title": "The Chelsea Detective",
+  "originalTitle": "The Chelsea Detective",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/zkrmYf3HDlq78NdnGs0OjrQvRAF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/izA8dORQJsva6AwFsOBxoOmawnp.jpg",
+  "overview": "Arnold, cujo estilo de vida em uma casa flutuante em Cheyne Walk, em Chelsea, contrasta fortemente com a elite abastada cujos crimes ele ajuda a resolver ao lado da parceira D.C. Priya Shamsie.",
+  "rating": 6.294,
+  "genres": [
+    "crime",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 156240,
+  "xtream": {
+    "seriesId": 3964
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2485125",
+          "episodeId": 2485125,
+          "season": 1,
+          "episode": 1,
+          "title": "The Chelsea Detective [L] (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485126",
+          "episodeId": 2485126,
+          "season": 1,
+          "episode": 2,
+          "title": "The Chelsea Detective [L] (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485127",
+          "episodeId": 2485127,
+          "season": 1,
+          "episode": 3,
+          "title": "The Chelsea Detective [L] (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485128",
+          "episodeId": 2485128,
+          "season": 1,
+          "episode": 4,
+          "title": "The Chelsea Detective [L] (2022) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2485129",
+          "episodeId": 2485129,
+          "season": 2,
+          "episode": 1,
+          "title": "The Chelsea Detective [L] (2022) S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2485130",
+          "episodeId": 2485130,
+          "season": 2,
+          "episode": 2,
+          "title": "The Chelsea Detective [L] (2022) S02 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

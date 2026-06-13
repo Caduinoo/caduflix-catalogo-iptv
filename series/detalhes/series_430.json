@@ -1,0 +1,83 @@
+{
+  "id": "series_430",
+  "type": "series",
+  "title": "Sigmund e os Monstros Marinhos",
+  "originalTitle": "Sigmund and the Sea Monsters",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/8YuOIz5kMA1HUDv2BVUZQtT20wc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3q96dZK0nYq0bCQrovSzOJUW6gG.jpg",
+  "overview": "Os irmãos Johnny e Scotty e sua prima Robyn tornam-se melhores amigos de um adorável e jovem monstro marinho que encontram na praia, chamado Sigmund. As três crianças ensinam ao Sigmund sobre o mundo humano e ajudam a esconder ele e sua família do Capitão Barnabé, um caçador de monstros marinhos determinado a provar que as criaturas existem.",
+  "rating": 7.3,
+  "genres": [
+    "infantil",
+    "comedia"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 67457,
+  "xtream": {
+    "seriesId": 430
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2361339",
+          "episodeId": 2361339,
+          "season": 1,
+          "episode": 1,
+          "title": "Sigmund e os Monstros Marinhos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361340",
+          "episodeId": 2361340,
+          "season": 1,
+          "episode": 2,
+          "title": "Sigmund e os Monstros Marinhos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361341",
+          "episodeId": 2361341,
+          "season": 1,
+          "episode": 3,
+          "title": "Sigmund e os Monstros Marinhos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361342",
+          "episodeId": 2361342,
+          "season": 1,
+          "episode": 4,
+          "title": "Sigmund e os Monstros Marinhos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361343",
+          "episodeId": 2361343,
+          "season": 1,
+          "episode": 5,
+          "title": "Sigmund e os Monstros Marinhos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361344",
+          "episodeId": 2361344,
+          "season": 1,
+          "episode": 6,
+          "title": "Sigmund e os Monstros Marinhos S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361345",
+          "episodeId": 2361345,
+          "season": 1,
+          "episode": 7,
+          "title": "Sigmund e os Monstros Marinhos S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

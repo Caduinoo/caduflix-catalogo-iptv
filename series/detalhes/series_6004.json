@@ -1,0 +1,56 @@
+{
+  "id": "series_6004",
+  "type": "series",
+  "title": "Amor no Natal",
+  "originalTitle": "Amor en Navidad",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/sDBTrntPwNW473xY8R63nd8mmoy.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Natal é sobre passar com a família e agradecer por mais um ano juntos e com saúde, principalmente por termos sobrevivido a uma pandemia mundial. É sobre criar vínculos e repassar para as novas gerações tradições.",
+  "rating": 0,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": 278585,
+  "xtream": {
+    "seriesId": 6004
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2535902",
+          "episodeId": 2535902,
+          "season": 1,
+          "episode": 1,
+          "title": "Amor no Natal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535903",
+          "episodeId": 2535903,
+          "season": 1,
+          "episode": 2,
+          "title": "Amor no Natal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535904",
+          "episodeId": 2535904,
+          "season": 1,
+          "episode": 3,
+          "title": "Amor no Natal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2535905",
+          "episodeId": 2535905,
+          "season": 1,
+          "episode": 4,
+          "title": "Amor no Natal S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "series_8401",
+  "type": "series",
+  "title": "O Iluminado",
+  "originalTitle": "The Shining",
+  "year": 1997,
+  "poster": "https://image.tmdb.org/t/p/w500/wzPRTPYMiGqOdXooX3VRyls75Oc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2yYWgVDLWWCodMqgR7bzxDnTjv.jpg",
+  "overview": "Um alcoólatra em recuperação deve lutar com os demônios dentro e fora quando ele e sua família se mudam para um hotel assombrado como cuidadores.",
+  "rating": 6.3,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 1867,
+  "xtream": {
+    "seriesId": 8401
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2580727",
+          "episodeId": 2580727,
+          "season": 1,
+          "episode": 1,
+          "title": "O Iluminado (1997) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580728",
+          "episodeId": 2580728,
+          "season": 1,
+          "episode": 2,
+          "title": "O Iluminado (1997) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580729",
+          "episodeId": 2580729,
+          "season": 1,
+          "episode": 3,
+          "title": "O Iluminado (1997) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

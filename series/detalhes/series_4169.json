@@ -1,0 +1,66 @@
+{
+  "id": "series_4169",
+  "type": "series",
+  "title": "Os Mares da Arábia",
+  "originalTitle": "Arabian Seas",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/8vZJBeaQrPvG8tfB2fT6vAD4Jrw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7PB6Svrai3hnZ80rtsnqYe9r8xi.jpg",
+  "overview": "Descubra o notável mundo subaquático dos Emirados Árabes Unidos e os recifes de coral inexplorados de Omã. Mal conhecido no resto do mundo, este paraíso aquático é o lar de milhares de criaturas fascinantes que lutam pela sobrevivência.",
+  "rating": 10,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 78411,
+  "xtream": {
+    "seriesId": 4169
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2490705",
+          "episodeId": 2490705,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Mares da Arabia (2018) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2490706",
+          "episodeId": 2490706,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Mares da Arabia (2018) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2490707",
+          "episodeId": 2490707,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Mares da Arabia (2018) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2490708",
+          "episodeId": 2490708,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Mares da Arabia (2018) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2490709",
+          "episodeId": 2490709,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Mares da Arabia (2018) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

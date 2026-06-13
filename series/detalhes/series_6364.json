@@ -1,0 +1,51 @@
+{
+  "id": "series_6364",
+  "type": "series",
+  "title": "Sobrevivendo à Queda dos Black Hawks",
+  "originalTitle": "Surviving Black Hawk Down",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/keDBieYscTMIPJg0jhJA5spyt8a.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9zh63vQFLaCmWpSU575q5lTu2yu.jpg",
+  "overview": "Com detalhes incríveis, soldados norte-americanos e guerreiros da Somália relembram a Batalha de Mogadíscio e a famosa queda de três helicópteros Black Hawk em 1993.",
+  "rating": 7.5,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "netflix",
+  "tmdbId": 282201,
+  "xtream": {
+    "seriesId": 6364
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2545242",
+          "episodeId": 2545242,
+          "season": 1,
+          "episode": 1,
+          "title": "Sobrevivendo a Queda dos Black Hawks S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2545243",
+          "episodeId": 2545243,
+          "season": 1,
+          "episode": 2,
+          "title": "Sobrevivendo a Queda dos Black Hawks S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2545244",
+          "episodeId": 2545244,
+          "season": 1,
+          "episode": 3,
+          "title": "Sobrevivendo a Queda dos Black Hawks S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

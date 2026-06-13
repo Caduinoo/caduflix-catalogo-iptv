@@ -1,0 +1,59 @@
+{
+  "id": "series_3367",
+  "type": "series",
+  "title": "Tá Tudo Certo",
+  "originalTitle": "Tá Tudo Certo",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/ixzAAZ8qB5d7Ip7n0AT2KxBA2w3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7WgLCXfZSD07q6KhJ3nPmpZShxl.jpg",
+  "overview": "Esta é a história de Pedro, um jovem estudante de direito que sonha em ser uma estrela da música e que, por acaso, conhece Ana. Com ela, o caminho do sucesso parece possível, mas logo ele se encontra com o dilema de perseguir seu sonho de sucesso ou ter uma vida cheia de música e boas vibrações ao lado de Ana.",
+  "rating": 7.2,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 153784,
+  "xtream": {
+    "seriesId": 3367
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2470152",
+          "episodeId": 2470152,
+          "season": 1,
+          "episode": 1,
+          "title": "Tá Tudo Certo (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2470153",
+          "episodeId": 2470153,
+          "season": 1,
+          "episode": 2,
+          "title": "Tá Tudo Certo (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2470154",
+          "episodeId": 2470154,
+          "season": 1,
+          "episode": 3,
+          "title": "Tá Tudo Certo (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2470155",
+          "episodeId": 2470155,
+          "season": 1,
+          "episode": 4,
+          "title": "Tá Tudo Certo (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

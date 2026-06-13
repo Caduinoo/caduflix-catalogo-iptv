@@ -1,0 +1,90 @@
+{
+  "id": "series_1004",
+  "type": "series",
+  "title": "Os Eleitos",
+  "originalTitle": "The Right Stuff",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/ugGbQX9AXwCzMe5a4lcdH7szAMV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/djzzMW17bJxZXZz6STSkwbPzf2w.jpg",
+  "overview": "A incrível história dos primórdios do programa espacial dos EUA, baseada no icônico best-seller de Tom Wolfe. No auge da Guerra Fria, a recém-criada NASA seleciona sete dos melhores pilotos de teste militares para se tornarem astronautas. Competindo para serem os primeiros no espaço, esses homens alcançam o extraordinário, inspirando o mundo a se voltar para um novo horizonte de ambição e esperança.",
+  "rating": 7.2,
+  "genres": [
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 93786,
+  "xtream": {
+    "seriesId": 1004
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2391939",
+          "episodeId": 2391939,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Eleitos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391940",
+          "episodeId": 2391940,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Eleitos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391941",
+          "episodeId": 2391941,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Eleitos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391942",
+          "episodeId": 2391942,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Eleitos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391943",
+          "episodeId": 2391943,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Eleitos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391944",
+          "episodeId": 2391944,
+          "season": 1,
+          "episode": 6,
+          "title": "Os Eleitos S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391945",
+          "episodeId": 2391945,
+          "season": 1,
+          "episode": 7,
+          "title": "Os Eleitos S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391946",
+          "episodeId": 2391946,
+          "season": 1,
+          "episode": 8,
+          "title": "Os Eleitos S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

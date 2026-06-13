@@ -1,0 +1,52 @@
+{
+  "id": "series_2041",
+  "type": "series",
+  "title": "Fé na Vida",
+  "originalTitle": "Fé na Vida",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/m7FBwRxiT1DSeROmW5mSDQAHuth.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aB8pjLBlaWIhssl5vpkeFrRPMK2.jpg",
+  "overview": "Acompanhe a viagem a 10 estados de todas as regiões do Brasil para conhecer histórias inspiradoras.",
+  "rating": 0,
+  "genres": [
+    "reality",
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 154376,
+  "xtream": {
+    "seriesId": 2041
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2436417",
+          "episodeId": 2436417,
+          "season": 1,
+          "episode": 1,
+          "title": "Fé na Vida (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436418",
+          "episodeId": 2436418,
+          "season": 1,
+          "episode": 2,
+          "title": "Fé na Vida (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436419",
+          "episodeId": 2436419,
+          "season": 1,
+          "episode": 3,
+          "title": "Fé na Vida (2021) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

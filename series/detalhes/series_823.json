@@ -1,0 +1,98 @@
+{
+  "id": "series_823",
+  "type": "series",
+  "title": "Brave New World",
+  "originalTitle": "Brave New World",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/9ugTZiejdvNvUwUkmsqytIdofmT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lT1g0pkUSOJ2pZoXLhxKu25LGXj.jpg",
+  "overview": "",
+  "rating": 0,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 74536,
+  "xtream": {
+    "seriesId": 823
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2385683",
+          "episodeId": 2385683,
+          "season": 1,
+          "episode": 1,
+          "title": "Brave New World S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385684",
+          "episodeId": 2385684,
+          "season": 1,
+          "episode": 2,
+          "title": "Brave New World S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385685",
+          "episodeId": 2385685,
+          "season": 1,
+          "episode": 3,
+          "title": "Brave New World S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385686",
+          "episodeId": 2385686,
+          "season": 1,
+          "episode": 4,
+          "title": "Brave New World S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385687",
+          "episodeId": 2385687,
+          "season": 1,
+          "episode": 5,
+          "title": "Brave New World S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385688",
+          "episodeId": 2385688,
+          "season": 1,
+          "episode": 6,
+          "title": "Brave New World S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385689",
+          "episodeId": 2385689,
+          "season": 1,
+          "episode": 7,
+          "title": "Brave New World S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385690",
+          "episodeId": 2385690,
+          "season": 1,
+          "episode": 8,
+          "title": "Brave New World S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2385691",
+          "episodeId": 2385691,
+          "season": 1,
+          "episode": 9,
+          "title": "Brave New World S01 E09",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

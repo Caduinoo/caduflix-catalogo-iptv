@@ -1,0 +1,75 @@
+{
+  "id": "series_678",
+  "type": "series",
+  "title": "Em Nome de Deus",
+  "originalTitle": "Em Nome de Deus",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/7xptYxbQsUQjNvRjViAaJmqnchy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eGImqXoTX0IcTPD4mVpyY6qOGDR.jpg",
+  "overview": "Investigação revela como médium mais famoso do Brasil escondeu centenas de abusos sexuais e outros crimes graças a uma rede de proteção que combinava fanatismo, violência, fama e poder.",
+  "rating": 7.9,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 105191,
+  "xtream": {
+    "seriesId": 678
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2371253",
+          "episodeId": 2371253,
+          "season": 1,
+          "episode": 1,
+          "title": "Em Nome de Deus S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2371254",
+          "episodeId": 2371254,
+          "season": 1,
+          "episode": 2,
+          "title": "Em Nome de Deus S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2371255",
+          "episodeId": 2371255,
+          "season": 1,
+          "episode": 3,
+          "title": "Em Nome de Deus S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2371256",
+          "episodeId": 2371256,
+          "season": 1,
+          "episode": 4,
+          "title": "Em Nome de Deus S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2371257",
+          "episodeId": 2371257,
+          "season": 1,
+          "episode": 5,
+          "title": "Em Nome de Deus S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2371258",
+          "episodeId": 2371258,
+          "season": 1,
+          "episode": 6,
+          "title": "Em Nome de Deus S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

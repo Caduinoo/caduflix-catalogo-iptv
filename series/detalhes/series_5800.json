@@ -1,0 +1,77 @@
+{
+  "id": "series_5800",
+  "type": "series",
+  "title": "Mobile Suit Gundam: Requiem for Vengeance",
+  "originalTitle": "機動戦士ガンダム 復讐のレクイエム",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/y3OBTgamWSyvUyzciL20yNkMMaC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jYq8uw7vRIDoptXMFqQblE903xn.jpg",
+  "overview": "Onze meses depois da Guerra de Um Ano no Século Universal 0079, a Capitã Solari enfrenta a nova arma letal da Federação da Terra: a armadura de voo Gundam.",
+  "rating": 7,
+  "genres": [
+    "guerra",
+    "fantasia",
+    "ficcao",
+    "animacao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 229906,
+  "xtream": {
+    "seriesId": 5800
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2530824",
+          "episodeId": 2530824,
+          "season": 1,
+          "episode": 1,
+          "title": "Mobile Suit Gundam Requiem for Vengeance S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530825",
+          "episodeId": 2530825,
+          "season": 1,
+          "episode": 2,
+          "title": "Mobile Suit Gundam Requiem for Vengeance S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530826",
+          "episodeId": 2530826,
+          "season": 1,
+          "episode": 3,
+          "title": "Mobile Suit Gundam Requiem for Vengeance S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530827",
+          "episodeId": 2530827,
+          "season": 1,
+          "episode": 4,
+          "title": "Mobile Suit Gundam Requiem for Vengeance S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530828",
+          "episodeId": 2530828,
+          "season": 1,
+          "episode": 5,
+          "title": "Mobile Suit Gundam Requiem for Vengeance S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530829",
+          "episodeId": 2530829,
+          "season": 1,
+          "episode": 6,
+          "title": "Mobile Suit Gundam Requiem for Vengeance S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

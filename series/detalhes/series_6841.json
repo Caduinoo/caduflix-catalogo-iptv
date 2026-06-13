@@ -1,0 +1,50 @@
+{
+  "id": "series_6841",
+  "type": "series",
+  "title": "Ilhas Tropicais",
+  "originalTitle": "Earth's Tropical Islands",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/efAshsb9FdE3Bdqoms1mRdXyO8p.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4x64yhTfdUG1BjMEln0D8A3a0VN.jpg",
+  "overview": "Conheça os encantos e mistérios de Madagascar, a mais antiga ilha da Terra. Ao longo de milênios, ela deu lugar a mais plantas e animais excepcionais que qualquer outra ilha do planeta, de lêmures a camaleões.",
+  "rating": 8.2,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 97099,
+  "xtream": {
+    "seriesId": 6841
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2554797",
+          "episodeId": 2554797,
+          "season": 1,
+          "episode": 1,
+          "title": "Ilhas Tropicais S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554798",
+          "episodeId": 2554798,
+          "season": 1,
+          "episode": 2,
+          "title": "Ilhas Tropicais S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2554799",
+          "episodeId": 2554799,
+          "season": 1,
+          "episode": 3,
+          "title": "Ilhas Tropicais S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

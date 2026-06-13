@@ -1,0 +1,52 @@
+{
+  "id": "series_7842",
+  "type": "series",
+  "title": "Quebra de Juramento",
+  "originalTitle": "Quebra de Juramento",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/pYM0Nrc3l0LLksjSCrqah9Ysjor.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hJFtWncZMPEfcbl0DY5w9tptA4.jpg",
+  "overview": "Um cirurgião famoso se torna alvo da Justiça sob suspeita de crimes graves. Os bastidores de uma das maiores investigações atuais sobre a conduta de um médico no Brasil.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "crime",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 310369,
+  "xtream": {
+    "seriesId": 7842
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2573065",
+          "episodeId": 2573065,
+          "season": 1,
+          "episode": 1,
+          "title": "Quebra de Juramento S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573066",
+          "episodeId": 2573066,
+          "season": 1,
+          "episode": 2,
+          "title": "Quebra de Juramento S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573067",
+          "episodeId": 2573067,
+          "season": 1,
+          "episode": 3,
+          "title": "Quebra de Juramento S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

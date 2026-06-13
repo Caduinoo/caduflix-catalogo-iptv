@@ -1,0 +1,43 @@
+{
+  "id": "series_8036",
+  "type": "series",
+  "title": "Assassinato na Cidade da Bola de Espelhos",
+  "originalTitle": "Murder in Glitterball City",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/47vLjLQi3tIspWLs0vdgIxzXeE0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2Y1sfUem465aPHCnbq5w0wfd1qE.jpg",
+  "overview": "A descoberta de um corpo no porão de uma casa de Louisville, Kentucky, revela uma história sombria de assassinato, mentiras e enganos.",
+  "rating": 6,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 312530,
+  "xtream": {
+    "seriesId": 8036
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575467",
+          "episodeId": 2575467,
+          "season": 1,
+          "episode": 1,
+          "title": "Assassinato na Cidade da Bola de Espelhos [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575468",
+          "episodeId": 2575468,
+          "season": 1,
+          "episode": 2,
+          "title": "Assassinato na Cidade da Bola de Espelhos [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

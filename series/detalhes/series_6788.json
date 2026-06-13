@@ -1,0 +1,51 @@
+{
+  "id": "series_6788",
+  "type": "series",
+  "title": "People Magazine: Por Dentro das Seitas",
+  "originalTitle": "People Magazine Investigates: Cults",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/23j0rbqvXnXlBskXdFDNZmJr0kM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4ZiSQj9GDofN2U4WNCpE2zriue6.jpg",
+  "overview": "Em mais de 30 anos como líderes de uma seita religiosa, Deborah e Jim Green arruinaram centenas de vidas. Este episódio relata como os Greens passaram de hippies carismáticos a líderes religiosos implacáveis.",
+  "rating": 6.8,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 90634,
+  "xtream": {
+    "seriesId": 6788
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2552162",
+          "episodeId": 2552162,
+          "season": 1,
+          "episode": 1,
+          "title": "People Magazine Por Dentro das Seitas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552163",
+          "episodeId": 2552163,
+          "season": 1,
+          "episode": 2,
+          "title": "People Magazine Por Dentro das Seitas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552164",
+          "episodeId": 2552164,
+          "season": 1,
+          "episode": 3,
+          "title": "People Magazine Por Dentro das Seitas S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

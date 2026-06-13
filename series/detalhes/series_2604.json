@@ -1,0 +1,75 @@
+{
+  "id": "series_2604",
+  "type": "series",
+  "title": "Anna",
+  "originalTitle": "Anna",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/957Zi8wV3Em9NDEiRLlkkF27dX6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/67fcIGb48dlUTFlERayDgMuRtuG.jpg",
+  "overview": "O mundo como o conhecemos não existe mais. Um vírus devastou o planeta, acabando com os adultos.\n\nAs crianças, que são imunes até a puberdade, vivem em bandos selvagens, brigando pelos poucos restos comestíveis que os adultos lhes deixaram. Na Sicília, a natureza está tomando de volta o que já foi dela, sufocando as cidades com sua vegetação, sufocando os cascos de veículos antigos com hera. Não há eletricidade nem água encanada. Escondidos em uma fazenda familiar na floresta estão os irmãos Salemi.",
+  "rating": 7.1,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 123925,
+  "xtream": {
+    "seriesId": 2604
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2452577",
+          "episodeId": 2452577,
+          "season": 1,
+          "episode": 1,
+          "title": "Anna (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2452578",
+          "episodeId": 2452578,
+          "season": 1,
+          "episode": 2,
+          "title": "Anna (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2452579",
+          "episodeId": 2452579,
+          "season": 1,
+          "episode": 3,
+          "title": "Anna (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2452580",
+          "episodeId": 2452580,
+          "season": 1,
+          "episode": 4,
+          "title": "Anna (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2452581",
+          "episodeId": 2452581,
+          "season": 1,
+          "episode": 5,
+          "title": "Anna (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2452582",
+          "episodeId": 2452582,
+          "season": 1,
+          "episode": 6,
+          "title": "Anna (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

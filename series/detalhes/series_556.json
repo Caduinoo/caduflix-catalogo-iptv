@@ -1,0 +1,61 @@
+{
+  "id": "series_556",
+  "type": "series",
+  "title": "Submersos",
+  "originalTitle": "Submersos",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/9fkm1Ak7e6ytvx60XKEt3pfQdtr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7HOI85xyfMBDrHpWH5DeVDY636w.jpg",
+  "overview": "“Submerso” apresenta Nando Oliveira (Cassio Nascimento), um ex-campeão mundial de surf, filho bastardo de um aristocrata de uma tradicional família catarinense. Nando é uma figura muito conhecida, um ícone e uma celebridade no esporte, mas, por outro lado, sempre teve uma vida desregrada, diferente do que se imagina como comportamento de um atleta de ponta, envolvendo-se em confusões, brigas, sempre presente nas baladas mais famosas do país.",
+  "rating": 5,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 100023,
+  "xtream": {
+    "seriesId": 556
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2366933",
+          "episodeId": 2366933,
+          "season": 1,
+          "episode": 1,
+          "title": "Submersos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366934",
+          "episodeId": 2366934,
+          "season": 1,
+          "episode": 2,
+          "title": "Submersos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366935",
+          "episodeId": 2366935,
+          "season": 1,
+          "episode": 3,
+          "title": "Submersos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366936",
+          "episodeId": 2366936,
+          "season": 1,
+          "episode": 4,
+          "title": "Submersos S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

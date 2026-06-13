@@ -1,0 +1,58 @@
+{
+  "id": "series_7284",
+  "type": "series",
+  "title": "Twenty Twelve",
+  "originalTitle": "Twenty Twelve",
+  "year": 2011,
+  "poster": "https://image.tmdb.org/t/p/w500/5O9uEXosgtvNmZyOYYh0DCdiHGY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AhiTWVsJA65IMgmMuKwYiOTK3Dz.jpg",
+  "overview": "Há muito tempo, 12 anjos do zodíaco lutaram contra espíritos malignos para proteger a raça humana. Graças ao sacrifício dos anjos, as forças malignas foram seladas nos portões do Inferno. A paz também foi encontrada. Mas, o mal desperta novamente e o mundo humano é lançado no caos. Contra um grupo de seres malignos, incluindo O Gwi, os 12 anjos do zodíaco, liderados por Tae San, que simboliza o tigre, entram em uma batalha épica.",
+  "rating": 7.394,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 38210,
+  "xtream": {
+    "seriesId": 7284
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2562948",
+          "episodeId": 2562948,
+          "season": 1,
+          "episode": 1,
+          "title": "Twelve [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562949",
+          "episodeId": 2562949,
+          "season": 1,
+          "episode": 2,
+          "title": "Twelve [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562950",
+          "episodeId": 2562950,
+          "season": 1,
+          "episode": 3,
+          "title": "Twelve [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562951",
+          "episodeId": 2562951,
+          "season": 1,
+          "episode": 4,
+          "title": "Twelve [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

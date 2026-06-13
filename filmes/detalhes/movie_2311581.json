@@ -1,0 +1,43 @@
+{
+  "id": "movie_2311581",
+  "type": "movie",
+  "title": "Nous les barbares",
+  "originalTitle": "Nous les barbares",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/pnMKBo6OFkBI3Ag74O6MWPuSJzO.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5.5,
+  "runtime": 27,
+  "genres": [
+    "fantasia"
+  ],
+  "cast": [
+    {
+      "name": "Elina Löwensohn",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/pRFLUsONKzg0hnl2CLnNBE4AJZ1.jpg"
+    },
+    {
+      "name": "Claire Duburcq",
+      "character": "Chiara",
+      "profile": "https://image.tmdb.org/t/p/w185/smfMUWSYOpLs7JOg5zCdcwI2vrB.jpg"
+    },
+    {
+      "name": "Nathalie Richard",
+      "character": "Lou",
+      "profile": "https://image.tmdb.org/t/p/w185/299hXLV3NikHBGFm7J2iIO3c699.jpg"
+    },
+    {
+      "name": "Christophe Bier",
+      "character": "George",
+      "profile": ""
+    }
+  ],
+  "director": "Bertrand Mandico",
+  "tmdbId": 1148324,
+  "xtream": {
+    "streamId": 2311581,
+    "containerExtension": "mp4"
+  }
+}

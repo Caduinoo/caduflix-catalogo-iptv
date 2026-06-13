@@ -1,0 +1,77 @@
+{
+  "id": "series_3268",
+  "type": "series",
+  "title": "Os Segredos do Zoológico",
+  "originalTitle": "Secrets of the Zoo",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/h0RoyEirZ05R3NS45gYgsGiUmts.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fcAfJE3QW1BeT7wDoUCataQwO1d.jpg",
+  "overview": "Confira todo o trabalho da equipe do Zoológico de Columbus, que lida com milhares de casos veterinários e centenas de partos todos os anos.",
+  "rating": 8.2,
+  "genres": [
+    "reality",
+    "familia",
+    "infantil",
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 86596,
+  "xtream": {
+    "seriesId": 3268
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2468096",
+          "episodeId": 2468096,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Segredos do Zoológico (2018) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468097",
+          "episodeId": 2468097,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Segredos do Zoológico (2018) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468098",
+          "episodeId": 2468098,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Segredos do Zoológico (2018) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468099",
+          "episodeId": 2468099,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Segredos do Zoológico (2018) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468100",
+          "episodeId": 2468100,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Segredos do Zoológico (2018) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468101",
+          "episodeId": 2468101,
+          "season": 1,
+          "episode": 6,
+          "title": "Os Segredos do Zoológico (2018) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

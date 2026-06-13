@@ -1,0 +1,67 @@
+{
+  "id": "series_2144",
+  "type": "series",
+  "title": "The Premise",
+  "originalTitle": "The Premise",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/rm9sAMQxY6KFA0tSnBPBFxW2GiI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tVmimLoAzHvTnnCobeK2OilxCgT.jpg",
+  "overview": "Esta série antológica é sobre questões morais atemporais em tempos nunca antes vistos trata de conceitos provocadores e os discute em aberto, contando histórias tridimensionais, baseadas em personagens com humor e compaixão.",
+  "rating": 6.4,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "star_plus",
+  "tmdbId": 6850,
+  "xtream": {
+    "seriesId": 2144
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2439742",
+          "episodeId": 2439742,
+          "season": 1,
+          "episode": 1,
+          "title": "The Premise (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2439743",
+          "episodeId": 2439743,
+          "season": 1,
+          "episode": 2,
+          "title": "The Premise (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2439744",
+          "episodeId": 2439744,
+          "season": 1,
+          "episode": 3,
+          "title": "The Premise (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2439745",
+          "episodeId": 2439745,
+          "season": 1,
+          "episode": 4,
+          "title": "The Premise (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2439746",
+          "episodeId": 2439746,
+          "season": 1,
+          "episode": 5,
+          "title": "The Premise (2021) S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

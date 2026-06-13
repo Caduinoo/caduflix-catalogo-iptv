@@ -1,0 +1,64 @@
+{
+  "id": "series_8539",
+  "type": "series",
+  "title": "LOVED ONE",
+  "originalTitle": "LOVED ONE",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w780/5HTYaVD7UGo2YAvDOnsFgfqQX4i.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 8539
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2582412",
+          "episodeId": 2582412,
+          "season": 1,
+          "episode": 1,
+          "title": "LOVED ONE (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582413",
+          "episodeId": 2582413,
+          "season": 1,
+          "episode": 2,
+          "title": "LOVED ONE (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582414",
+          "episodeId": 2582414,
+          "season": 1,
+          "episode": 3,
+          "title": "LOVED ONE (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582415",
+          "episodeId": 2582415,
+          "season": 1,
+          "episode": 4,
+          "title": "LOVED ONE (2026) [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582416",
+          "episodeId": 2582416,
+          "season": 1,
+          "episode": 5,
+          "title": "LOVED ONE (2026) [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

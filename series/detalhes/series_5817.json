@@ -1,0 +1,75 @@
+{
+  "id": "series_5817",
+  "type": "series",
+  "title": "Comedy Revenge",
+  "originalTitle": "코미디 리벤지",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/vrXpJDIwFYwctYxJxJwDMcAh9uG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oMS7gPtskbrmo8v4eqq6cssgSU3.jpg",
+  "overview": "Vários astros da comédia se enfrentam em uma batalha de humor. As gargalhadas estão garantidas! A apresentação fica a cargo do lendário comediante Lee Kyeong-kyu.",
+  "rating": 8,
+  "genres": [
+    "reality",
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 260565,
+  "xtream": {
+    "seriesId": 5817
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2530993",
+          "episodeId": 2530993,
+          "season": 1,
+          "episode": 1,
+          "title": "Comedy Revenge [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530994",
+          "episodeId": 2530994,
+          "season": 1,
+          "episode": 2,
+          "title": "Comedy Revenge [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530995",
+          "episodeId": 2530995,
+          "season": 1,
+          "episode": 3,
+          "title": "Comedy Revenge [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530996",
+          "episodeId": 2530996,
+          "season": 1,
+          "episode": 4,
+          "title": "Comedy Revenge [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530997",
+          "episodeId": 2530997,
+          "season": 1,
+          "episode": 5,
+          "title": "Comedy Revenge [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530998",
+          "episodeId": 2530998,
+          "season": 1,
+          "episode": 6,
+          "title": "Comedy Revenge [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "series_1051",
+  "type": "series",
+  "title": "The Liberator",
+  "originalTitle": "The Liberator",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/kivHJpsGFWgqnDMRDnnpOSgLD1s.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uU23hb1c3LRqszBmBftLc2cMhbx.jpg",
+  "overview": "Um grupo de corajosos soldados rejeitados realiza alguns dos feitos mais heroicos para libertar a Europa na Segunda Guerra Mundial.",
+  "rating": 7.079,
+  "genres": [
+    "guerra",
+    "drama",
+    "animacao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 111462,
+  "xtream": {
+    "seriesId": 1051
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2395278",
+          "episodeId": 2395278,
+          "season": 1,
+          "episode": 1,
+          "title": "The Liberator S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395279",
+          "episodeId": 2395279,
+          "season": 1,
+          "episode": 2,
+          "title": "The Liberator S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395280",
+          "episodeId": 2395280,
+          "season": 1,
+          "episode": 3,
+          "title": "The Liberator S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395281",
+          "episodeId": 2395281,
+          "season": 1,
+          "episode": 4,
+          "title": "The Liberator S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

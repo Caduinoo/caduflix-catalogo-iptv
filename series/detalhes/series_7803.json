@@ -1,0 +1,59 @@
+{
+  "id": "series_7803",
+  "type": "series",
+  "title": "Crisálida",
+  "originalTitle": "Crisálida",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/koydFyEaJBTa4gzK7VmF3MWbN0Q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kHE6WaN0HolzW4cK7xz0is4qOTG.jpg",
+  "overview": "Crisálida é a primeira série de ficção dramática bilíngue, em Libras e português, realizada no Brasil.",
+  "rating": 8,
+  "genres": [
+    "drama",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 127526,
+  "xtream": {
+    "seriesId": 7803
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2572309",
+          "episodeId": 2572309,
+          "season": 1,
+          "episode": 1,
+          "title": "Crisalida S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2572310",
+          "episodeId": 2572310,
+          "season": 1,
+          "episode": 2,
+          "title": "Crisalida S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2572311",
+          "episodeId": 2572311,
+          "season": 1,
+          "episode": 3,
+          "title": "Crisalida S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2572312",
+          "episodeId": 2572312,
+          "season": 1,
+          "episode": 4,
+          "title": "Crisalida S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

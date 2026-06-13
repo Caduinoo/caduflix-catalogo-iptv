@@ -1,0 +1,75 @@
+{
+  "id": "series_7754",
+  "type": "series",
+  "title": "Assassinas",
+  "originalTitle": "Morderczynie",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/pZMPplvbim1mbVb7nTonSlvQabQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dP3hRhd9cDqyJ5DqKwfeROu7kZU.jpg",
+  "overview": "Uma jovem e ambiciosa policial comunitária tenta localizar seu pai, que está desaparecido há um ano. Enquanto investiga um assassinato, ela inicia um relacionamento perigoso com um suspeito adolescente.",
+  "rating": 7.3,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 237321,
+  "xtream": {
+    "seriesId": 7754
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2571589",
+          "episodeId": 2571589,
+          "season": 1,
+          "episode": 1,
+          "title": "Assassinas [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571590",
+          "episodeId": 2571590,
+          "season": 1,
+          "episode": 2,
+          "title": "Assassinas [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571591",
+          "episodeId": 2571591,
+          "season": 1,
+          "episode": 3,
+          "title": "Assassinas [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571592",
+          "episodeId": 2571592,
+          "season": 1,
+          "episode": 4,
+          "title": "Assassinas [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571593",
+          "episodeId": 2571593,
+          "season": 1,
+          "episode": 5,
+          "title": "Assassinas [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571594",
+          "episodeId": 2571594,
+          "season": 1,
+          "episode": 6,
+          "title": "Assassinas [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

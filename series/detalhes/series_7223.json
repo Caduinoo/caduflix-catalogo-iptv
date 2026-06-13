@@ -1,0 +1,50 @@
+{
+  "id": "series_7223",
+  "type": "series",
+  "title": "A Última Transmissão: O Sequestro de Jodi Huisentruit",
+  "originalTitle": "Her Last Broadcast: The Abduction of Jodi Huisentruit",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/3vfFvaRN8KzhSPEK0VvLDVK7VoO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h6OMcX0k96eBNKdkMB4m4Q1rSwi.jpg",
+  "overview": "A âncora de um programa de TV desaparece em 1995 em circunstâncias misteriosas, mas pistas encontradas recentemente podem finalmente ajudar a solucionar este caso arquivado assustador.",
+  "rating": 5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 295309,
+  "xtream": {
+    "seriesId": 7223
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2561983",
+          "episodeId": 2561983,
+          "season": 1,
+          "episode": 1,
+          "title": "A Ultima Transmissao O Sequestro de Jodi Huisentruit [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561984",
+          "episodeId": 2561984,
+          "season": 1,
+          "episode": 2,
+          "title": "A Ultima Transmissao O Sequestro de Jodi Huisentruit [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561985",
+          "episodeId": 2561985,
+          "season": 1,
+          "episode": 3,
+          "title": "A Ultima Transmissao O Sequestro de Jodi Huisentruit [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

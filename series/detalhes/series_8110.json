@@ -1,0 +1,66 @@
+{
+  "id": "series_8110",
+  "type": "series",
+  "title": "Olá, Bachhon!",
+  "originalTitle": "हैलो बच्चों",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/sBprJ6cIkWWKl4ABWgxNDKxe9kL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/akwxUU6YDiAixkx7t8AOSzxzkNG.jpg",
+  "overview": "Um professor de Física decide tornar a educação de qualidade acessível a todos por meio da internet.",
+  "rating": 8.375,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 313100,
+  "xtream": {
+    "seriesId": 8110
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2576560",
+          "episodeId": 2576560,
+          "season": 1,
+          "episode": 1,
+          "title": "Ola Bachhon (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576561",
+          "episodeId": 2576561,
+          "season": 1,
+          "episode": 2,
+          "title": "Ola Bachhon (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576562",
+          "episodeId": 2576562,
+          "season": 1,
+          "episode": 3,
+          "title": "Ola Bachhon (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576563",
+          "episodeId": 2576563,
+          "season": 1,
+          "episode": 4,
+          "title": "Ola Bachhon (2026) [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576564",
+          "episodeId": 2576564,
+          "season": 1,
+          "episode": 5,
+          "title": "Ola Bachhon (2026) [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

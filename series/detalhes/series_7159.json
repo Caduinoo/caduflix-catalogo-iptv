@@ -1,0 +1,66 @@
+{
+  "id": "series_7159",
+  "type": "series",
+  "title": "Maintenant ou Jamais : FC Montfermeil",
+  "originalTitle": "Maintenant ou Jamais : FC Montfermeil",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/wDHBXGpIscpOWISMnPlRbcP1QoN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/giozxrPPC4MfUgEp0TRnOwjuYhP.jpg",
+  "overview": "Acompanhe os jovens jogadores de futebol no notório subúrbio parisiense de Montfermeil, em uma temporada que vai determinar o futuro deles.",
+  "rating": 10,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 292171,
+  "xtream": {
+    "seriesId": 7159
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2560931",
+          "episodeId": 2560931,
+          "season": 1,
+          "episode": 1,
+          "title": "Now or Never FC Montfermeil [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2560932",
+          "episodeId": 2560932,
+          "season": 1,
+          "episode": 2,
+          "title": "Now or Never FC Montfermeil [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2560933",
+          "episodeId": 2560933,
+          "season": 1,
+          "episode": 3,
+          "title": "Now or Never FC Montfermeil [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2560934",
+          "episodeId": 2560934,
+          "season": 1,
+          "episode": 4,
+          "title": "Now or Never FC Montfermeil [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2560935",
+          "episodeId": 2560935,
+          "season": 1,
+          "episode": 5,
+          "title": "Now or Never FC Montfermeil [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_5483",
+  "type": "series",
+  "title": "Segredos de Guerra",
+  "originalTitle": "Secretos de Guerra",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/g4FFzub0ud62CMhmw7Hert4KAiP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sL4xsg5jfOqv4P1t3chZUfmhhQa.jpg",
+  "overview": "",
+  "rating": 6.4,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 110813,
+  "xtream": {
+    "seriesId": 5483
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2522143",
+          "episodeId": 2522143,
+          "season": 1,
+          "episode": 1,
+          "title": "Segredos de Guerra S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522144",
+          "episodeId": 2522144,
+          "season": 1,
+          "episode": 2,
+          "title": "Segredos de Guerra S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522145",
+          "episodeId": 2522145,
+          "season": 1,
+          "episode": 3,
+          "title": "Segredos de Guerra S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522146",
+          "episodeId": 2522146,
+          "season": 1,
+          "episode": 4,
+          "title": "Segredos de Guerra S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

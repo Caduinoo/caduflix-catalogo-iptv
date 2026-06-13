@@ -1,0 +1,44 @@
+{
+  "id": "movie_2133121",
+  "type": "movie",
+  "title": "A Viagem",
+  "originalTitle": "A Viagem",
+  "year": 1994,
+  "poster": "https://image.tmdb.org/t/p/w500/zQXUV7IZY9EbRakzph6bib0uI4d.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 10,
+  "runtime": 15,
+  "genres": [
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Diogo Infante",
+      "character": "The Boy",
+      "profile": "https://image.tmdb.org/t/p/w185/6n1eK25AB9MdHG2jPNw6ARfqhiQ.jpg"
+    },
+    {
+      "name": "Anabela Teixeira",
+      "character": "The Girl",
+      "profile": "https://image.tmdb.org/t/p/w185/84SZHdrwl0ArWXXe6dNkS9Yw4kh.jpg"
+    },
+    {
+      "name": "Canto e Castro",
+      "character": "Farmer",
+      "profile": "https://image.tmdb.org/t/p/w185/ruKoO8ltyUAkpvgjKdHJ3QrLm0a.jpg"
+    },
+    {
+      "name": "Fernando Alves",
+      "character": "Radio Newscaster (voice)",
+      "profile": ""
+    }
+  ],
+  "director": "Jorge Queiroga",
+  "tmdbId": 634296,
+  "xtream": {
+    "streamId": 2133121,
+    "containerExtension": "mp4"
+  }
+}

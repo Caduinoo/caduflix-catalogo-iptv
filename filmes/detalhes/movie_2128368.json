@@ -1,0 +1,44 @@
+{
+  "id": "movie_2128368",
+  "type": "movie",
+  "title": "Volume Morto",
+  "originalTitle": "Volume Morto",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/mhqLgWfDQDHudgSiGvtbpY6Gs7y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5LwmcBD2wRNWNsl7VhuoSByLnzx.jpg",
+  "overview": "Uma jovem professora tenta solucionar o estranho caso de Gustavo, um menino de 7 anos apelidado como Volume Morto.",
+  "rating": 6.9,
+  "runtime": 76,
+  "genres": [
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Fernanda Vasconcellos",
+      "character": "Thamara",
+      "profile": "https://image.tmdb.org/t/p/w185/yAyBrLIhvOBzlp0KvdrjiE7Q2cK.jpg"
+    },
+    {
+      "name": "Júlia Rabello",
+      "character": "Luiza",
+      "profile": "https://image.tmdb.org/t/p/w185/2IaO3dJkD1qOat4tmJLFn47TUvP.jpg"
+    },
+    {
+      "name": "Daniel Infantini",
+      "character": "Roberto",
+      "profile": "https://image.tmdb.org/t/p/w185/oaEe93pNRF3oL5CFubJWxNZpeQ7.jpg"
+    },
+    {
+      "name": "Fernanda Viacava",
+      "character": "Regina",
+      "profile": "https://image.tmdb.org/t/p/w185/pFdAyA4G7ET465FsIa2ftXLZ3X7.jpg"
+    }
+  ],
+  "director": "Kauê Telloli",
+  "tmdbId": 604512,
+  "xtream": {
+    "streamId": 2128368,
+    "containerExtension": "mp4"
+  }
+}

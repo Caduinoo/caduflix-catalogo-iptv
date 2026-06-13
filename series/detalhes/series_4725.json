@@ -1,0 +1,66 @@
+{
+  "id": "series_4725",
+  "type": "series",
+  "title": "Alma Imoral",
+  "originalTitle": "Alma Imoral",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/xyz3uGqZFnhppnOR5nbANfBw8pf.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "A série estabelece pontes entre histórias de personagens da Bíblia que romperam com as tradições em busca de uma nova ordem, como Eva, Abraão e Moisés, e transgressores do nosso tempo em vários campos, como comportamento, ciência e política.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 274774,
+  "xtream": {
+    "seriesId": 4725
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2505583",
+          "episodeId": 2505583,
+          "season": 1,
+          "episode": 1,
+          "title": "Alma Imoral [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2505584",
+          "episodeId": 2505584,
+          "season": 1,
+          "episode": 2,
+          "title": "Alma Imoral [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2505585",
+          "episodeId": 2505585,
+          "season": 1,
+          "episode": 3,
+          "title": "Alma Imoral [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2505586",
+          "episodeId": 2505586,
+          "season": 1,
+          "episode": 4,
+          "title": "Alma Imoral [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2505587",
+          "episodeId": 2505587,
+          "season": 1,
+          "episode": 5,
+          "title": "Alma Imoral [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

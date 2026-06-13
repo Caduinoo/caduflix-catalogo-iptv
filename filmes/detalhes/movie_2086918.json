@@ -1,0 +1,45 @@
+{
+  "id": "movie_2086918",
+  "type": "movie",
+  "title": "Currais",
+  "originalTitle": "Currais",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/qpbPsjAH2pLu3pWDhyLwsToysJu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i5kokuSCraqc2TPse0Q86gmZJhD.jpg",
+  "overview": "",
+  "rating": 7,
+  "runtime": 92,
+  "genres": [
+    "documentario",
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Rômulo Braga",
+      "character": "Romeu",
+      "profile": "https://image.tmdb.org/t/p/w185/pN89wAhp0OZ6bL3yTyMm8iPUwBy.jpg"
+    },
+    {
+      "name": "Zezita Matos",
+      "character": "Dira",
+      "profile": "https://image.tmdb.org/t/p/w185/foQ1jZOHrMjTJB7xd2V8qVEhv5x.jpg"
+    },
+    {
+      "name": "Everaldo Pontes",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/jGYjtd1Iez626GzWBkULNpKhuHD.jpg"
+    },
+    {
+      "name": "Débora Ingrid",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/q6gitbPpPmyJTLreP5wgHtN8SLt.jpg"
+    }
+  ],
+  "director": "David Aguiar",
+  "tmdbId": 575584,
+  "xtream": {
+    "streamId": 2086918,
+    "containerExtension": "mp4"
+  }
+}

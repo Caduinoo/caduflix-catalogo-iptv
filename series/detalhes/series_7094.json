@@ -1,0 +1,78 @@
+{
+  "id": "series_7094",
+  "type": "series",
+  "title": "A Saga Wingfeather",
+  "originalTitle": "The Wingfeather Saga",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/wRquZNWAqtp6cPUEM4RS4DZULLs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qe7sa1gl4CW4yJaDQ0qmwKUlxSn.jpg",
+  "overview": "Série animada baseada nos romances de fantasia de Andrew Peterson que detalha as aventuras da família Igiby e sua perseguição pelos venenosos Presas de Dang e seu senhor maligno, Gnag, o Sem Nome.",
+  "rating": 7.875,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 215597,
+  "xtream": {
+    "seriesId": 7094
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2559919",
+          "episodeId": 2559919,
+          "season": 1,
+          "episode": 1,
+          "title": "A Saga Wingfeather S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559920",
+          "episodeId": 2559920,
+          "season": 1,
+          "episode": 2,
+          "title": "A Saga Wingfeather S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559921",
+          "episodeId": 2559921,
+          "season": 1,
+          "episode": 3,
+          "title": "A Saga Wingfeather S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559922",
+          "episodeId": 2559922,
+          "season": 1,
+          "episode": 4,
+          "title": "A Saga Wingfeather S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559923",
+          "episodeId": 2559923,
+          "season": 1,
+          "episode": 5,
+          "title": "A Saga Wingfeather S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559924",
+          "episodeId": 2559924,
+          "season": 1,
+          "episode": 6,
+          "title": "A Saga Wingfeather S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_5814",
+  "type": "series",
+  "title": "A Confidente",
+  "originalTitle": "Une amie dévouée",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/nEgz67qxEVq3VFScfRMOZTLovOG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rs54Oyk6IzPCRPJuft3PxItNf9P.jpg",
+  "overview": "Após os ataques de Paris, uma mulher se junta a um grupo de sobreviventes, mas sua conexão com a tragédia esconde um segredo sombrio.",
+  "rating": 6.739,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 224011,
+  "xtream": {
+    "seriesId": 5814
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2530977",
+          "episodeId": 2530977,
+          "season": 1,
+          "episode": 1,
+          "title": "A Confidente [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530978",
+          "episodeId": 2530978,
+          "season": 1,
+          "episode": 2,
+          "title": "A Confidente [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530979",
+          "episodeId": 2530979,
+          "season": 1,
+          "episode": 3,
+          "title": "A Confidente [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530980",
+          "episodeId": 2530980,
+          "season": 1,
+          "episode": 4,
+          "title": "A Confidente [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

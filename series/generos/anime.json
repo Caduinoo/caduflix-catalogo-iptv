@@ -1,0 +1,44 @@
+[
+  {
+    "id": "series_5542",
+    "type": "series",
+    "title": "Rick and Morty: The Anime",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/7D8imzmWsua7Plk5TRDX6q8M97u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dhb5lfSpElYIaLLyJjeswn2dfnl.jpg",
+    "rating": 5.223,
+    "producer": "prime_video",
+    "genres": [
+      "animacao",
+      "fantasia",
+      "ficcao",
+      "acao",
+      "aventura",
+      "anime"
+    ],
+    "xtream": {
+      "seriesId": 5542
+    }
+  },
+  {
+    "id": "series_8466",
+    "type": "series",
+    "title": "Marvel Anime: Wolverine",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/wgN8YRBtof55H2Glza256kzJ300.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b4wRDmy0tqad6JC7GybUu1dzLxF.jpg",
+    "rating": 6.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "animacao",
+      "fantasia",
+      "ficcao",
+      "anime"
+    ],
+    "xtream": {
+      "seriesId": 8466
+    }
+  }
+]

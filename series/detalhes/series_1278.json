@@ -1,0 +1,58 @@
+{
+  "id": "series_1278",
+  "type": "series",
+  "title": "The Drowning",
+  "originalTitle": "The Drowning",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/7jdOyS9OXbtobEYDl8Z4V4iWaH3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gdCJS9sEhuBfsmVFXdVxTUNbmWH.jpg",
+  "overview": "Desde que perdeu seu filho, há oito anos, Jodie está reconstruindo sua vida, mas quando avista Daniel, ela se convence de que encontrou seu filho desaparecido.",
+  "rating": 5.815,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 117946,
+  "xtream": {
+    "seriesId": 1278
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2404059",
+          "episodeId": 2404059,
+          "season": 1,
+          "episode": 1,
+          "title": "The Drowning [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404060",
+          "episodeId": 2404060,
+          "season": 1,
+          "episode": 2,
+          "title": "The Drowning [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404061",
+          "episodeId": 2404061,
+          "season": 1,
+          "episode": 3,
+          "title": "The Drowning [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404062",
+          "episodeId": 2404062,
+          "season": 1,
+          "episode": 4,
+          "title": "The Drowning [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

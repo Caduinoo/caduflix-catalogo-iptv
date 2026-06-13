@@ -1,0 +1,46 @@
+{
+  "id": "movie_2075762",
+  "type": "movie",
+  "title": "Fantasia",
+  "originalTitle": "Fantasia",
+  "year": 1940,
+  "poster": "https://image.tmdb.org/t/p/w500/hKg8Zpm4fMOy7KmrBHdo4YCT5dS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+  "overview": "A integração das grandes obras da música clássica com visuais extremamente criativos e originais da animação. São as seguintes composições que fazem parte do filme: \"Toccata e Fuga em Ré Menor\", de Johann Sebastian Bach; \"Suíte Quebra-Nozes\", de Peter Llich Tchaikovsky; \"O Aprendiz de Feiticeiro\", de Paul Dukas; \"Sagração da Primavera\", de Igor Stravinsky; \"Sinfonia Pastoral\", de Ludwing Van Beethoven; \"Dança das Horas\", de Almicare Ponchielli; \"Noite no Monte Calvo\", de Modest Mussorgsky; e \"Ave Maria\", de Franz Schubert.",
+  "rating": 7.3,
+  "runtime": 125,
+  "genres": [
+    "animacao",
+    "familia",
+    "infantil",
+    "fantasia"
+  ],
+  "cast": [
+    {
+      "name": "Deems Taylor",
+      "character": "Narrator - Narrative Introductions",
+      "profile": "https://image.tmdb.org/t/p/w185/2xyj2fd3jTeqZnzhCQqkOXqqRkm.jpg"
+    },
+    {
+      "name": "Walt Disney",
+      "character": "Mickey Mouse (segment 'The Sorcerer's Apprentice') (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg"
+    },
+    {
+      "name": "Julietta Novis",
+      "character": "Soloist (segment 'Ave Maria') (singing voice)",
+      "profile": ""
+    },
+    {
+      "name": "Leopold Stokowski",
+      "character": "Self - Conductor of The Philadelphia Orchestra",
+      "profile": "https://image.tmdb.org/t/p/w185/yQfjAXLKUMwWPwijDBsbs0zIPIS.jpg"
+    }
+  ],
+  "director": "Bill Roberts",
+  "tmdbId": 756,
+  "xtream": {
+    "streamId": 2075762,
+    "containerExtension": "mp4"
+  }
+}

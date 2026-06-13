@@ -1,0 +1,77 @@
+{
+  "id": "series_7402",
+  "type": "series",
+  "title": "Homem-Formiga: Curtas",
+  "originalTitle": "Marvel's Ant-Man",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/hKlqUTy020o6XEzfJqVdiuNZmG7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3QkMOMI3EPlhHAN1WFfXHRyTQSt.jpg",
+  "overview": "Siga o Homem-Formiga enquanto ele supera tudo, desde supervilões a invasões alienígenas em miniatura. Junto com Vespa e Hank Pym, Homem-Formiga protege o mundo uma polegada de cada vez.",
+  "rating": 6.2,
+  "genres": [
+    "animacao",
+    "comedia",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 73919,
+  "xtream": {
+    "seriesId": 7402
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2565413",
+          "episodeId": 2565413,
+          "season": 1,
+          "episode": 1,
+          "title": "Homem Formiga Curtas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565414",
+          "episodeId": 2565414,
+          "season": 1,
+          "episode": 2,
+          "title": "Homem Formiga Curtas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565415",
+          "episodeId": 2565415,
+          "season": 1,
+          "episode": 3,
+          "title": "Homem Formiga Curtas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565416",
+          "episodeId": 2565416,
+          "season": 1,
+          "episode": 4,
+          "title": "Homem Formiga Curtas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565417",
+          "episodeId": 2565417,
+          "season": 1,
+          "episode": 5,
+          "title": "Homem Formiga Curtas S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565418",
+          "episodeId": 2565418,
+          "season": 1,
+          "episode": 6,
+          "title": "Homem Formiga Curtas S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "series_5287",
+  "type": "series",
+  "title": "Clipped",
+  "originalTitle": "Clipped",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/cQqhmXvfB0QQl7fLz5Pila7zbuY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jS5KPExNR7ehI89ekBmiX2R79Ba.jpg",
+  "overview": "",
+  "rating": 4.3,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 62771,
+  "xtream": {
+    "seriesId": 5287
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2516492",
+          "episodeId": 2516492,
+          "season": 1,
+          "episode": 1,
+          "title": "Clipped [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516493",
+          "episodeId": 2516493,
+          "season": 1,
+          "episode": 2,
+          "title": "Clipped [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516494",
+          "episodeId": 2516494,
+          "season": 1,
+          "episode": 3,
+          "title": "Clipped [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516495",
+          "episodeId": 2516495,
+          "season": 1,
+          "episode": 4,
+          "title": "Clipped [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516496",
+          "episodeId": 2516496,
+          "season": 1,
+          "episode": 5,
+          "title": "Clipped [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516497",
+          "episodeId": 2516497,
+          "season": 1,
+          "episode": 6,
+          "title": "Clipped [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

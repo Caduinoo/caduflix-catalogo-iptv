@@ -1,0 +1,90 @@
+{
+  "id": "series_3048",
+  "type": "series",
+  "title": "Smiley",
+  "originalTitle": "Smiley",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/b9EDtDLIVHKpErMpNSREw1KcDOj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5h9DK3WupbgScGjp9IGrHX1ij5b.jpg",
+  "overview": "Em Barcelona, dois homens e seu grupo de amigos enfrentam medos, inseguranças e oportunidades perdidas em busca do tão sonhado amor verdadeiro.",
+  "rating": 8.203,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 214609,
+  "xtream": {
+    "seriesId": 3048
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2462684",
+          "episodeId": 2462684,
+          "season": 1,
+          "episode": 1,
+          "title": "Smiley (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2462685",
+          "episodeId": 2462685,
+          "season": 1,
+          "episode": 2,
+          "title": "Smiley (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2462686",
+          "episodeId": 2462686,
+          "season": 1,
+          "episode": 3,
+          "title": "Smiley (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2462687",
+          "episodeId": 2462687,
+          "season": 1,
+          "episode": 4,
+          "title": "Smiley (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2462688",
+          "episodeId": 2462688,
+          "season": 1,
+          "episode": 5,
+          "title": "Smiley (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2462689",
+          "episodeId": 2462689,
+          "season": 1,
+          "episode": 6,
+          "title": "Smiley (2022) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2462690",
+          "episodeId": 2462690,
+          "season": 1,
+          "episode": 7,
+          "title": "Smiley (2022) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2462691",
+          "episodeId": 2462691,
+          "season": 1,
+          "episode": 8,
+          "title": "Smiley (2022) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

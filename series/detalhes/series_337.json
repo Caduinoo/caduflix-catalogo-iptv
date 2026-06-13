@@ -1,0 +1,86 @@
+{
+  "id": "series_337",
+  "type": "series",
+  "title": "Section Zéro",
+  "originalTitle": "Section Zéro",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/oGXfKyYzh7IZO6bS5LIifQ0Sa0P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vVUOqIY51E5bfqlW5Mt1uutFZs1.jpg",
+  "overview": "No futuro, as empresas multinacionais são líderes na Europa. Uma das mais poderosas, a Prometheus, quer garantir o domínio, substituindo a força policial por sua milícia privada, o Esquadrão Negro.",
+  "rating": 6.3,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 66147,
+  "xtream": {
+    "seriesId": 337
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2359431",
+          "episodeId": 2359431,
+          "season": 1,
+          "episode": 1,
+          "title": "Section Zero S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2359432",
+          "episodeId": 2359432,
+          "season": 1,
+          "episode": 2,
+          "title": "Section Zero S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2359433",
+          "episodeId": 2359433,
+          "season": 1,
+          "episode": 3,
+          "title": "Section Zero S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2359434",
+          "episodeId": 2359434,
+          "season": 1,
+          "episode": 4,
+          "title": "Section Zero S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2359435",
+          "episodeId": 2359435,
+          "season": 1,
+          "episode": 5,
+          "title": "Section Zero S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2359436",
+          "episodeId": 2359436,
+          "season": 1,
+          "episode": 6,
+          "title": "Section Zero S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2359437",
+          "episodeId": 2359437,
+          "season": 1,
+          "episode": 7,
+          "title": "Section Zero S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

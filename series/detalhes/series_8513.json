@@ -1,0 +1,51 @@
+{
+  "id": "series_8513",
+  "type": "series",
+  "title": "Blue Skies",
+  "originalTitle": "Blue Skies",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/pui0mhQ3ZutkpeSDGA0UN771ioy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4D8Cdj4I9hdqMyYHyRRF3A44xdQ.jpg",
+  "overview": "A investigadora do Parque Nacional Jodi Larsen e um cachorro perdido chamado Blue se unem para resolver mistérios na selva, forjando um vínculo inesperado em meio ao perigo e à cura.",
+  "rating": 5.571,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 308051,
+  "xtream": {
+    "seriesId": 8513
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2581987",
+          "episodeId": 2581987,
+          "season": 1,
+          "episode": 1,
+          "title": "Blue Skies (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581988",
+          "episodeId": 2581988,
+          "season": 1,
+          "episode": 2,
+          "title": "Blue Skies (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581989",
+          "episodeId": 2581989,
+          "season": 1,
+          "episode": 3,
+          "title": "Blue Skies (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "series_1763",
+  "type": "series",
+  "title": "Luna Park",
+  "originalTitle": "Luna Park",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/fGABVcpMTfnvjZQ2s50DvTrCqxQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tn6PMr7nWpcGUxr3eAaa9otkFML.jpg",
+  "overview": "Na Roma dos anos 60, o encontro entre duas garotas de origens completamente diferentes leva a uma série de intrigas, segredos e novas e inesperadas histórias de amor.",
+  "rating": 6.6,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 131808,
+  "xtream": {
+    "seriesId": 1763
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2426640",
+          "episodeId": 2426640,
+          "season": 1,
+          "episode": 1,
+          "title": "Luna Park (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426641",
+          "episodeId": 2426641,
+          "season": 1,
+          "episode": 2,
+          "title": "Luna Park (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426642",
+          "episodeId": 2426642,
+          "season": 1,
+          "episode": 3,
+          "title": "Luna Park (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426643",
+          "episodeId": 2426643,
+          "season": 1,
+          "episode": 4,
+          "title": "Luna Park (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426644",
+          "episodeId": 2426644,
+          "season": 1,
+          "episode": 5,
+          "title": "Luna Park (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426645",
+          "episodeId": 2426645,
+          "season": 1,
+          "episode": 6,
+          "title": "Luna Park (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

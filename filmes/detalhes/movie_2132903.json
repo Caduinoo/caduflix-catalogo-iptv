@@ -1,0 +1,44 @@
+{
+  "id": "movie_2132903",
+  "type": "movie",
+  "title": "Closer",
+  "originalTitle": "Closer",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/l0CvjSYCwVgYLBw7ebWmKaR4vli.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uK3yL5fAcCnF0bpjqlO1NrsoHB5.jpg",
+  "overview": "",
+  "rating": 6.3,
+  "runtime": 20,
+  "genres": [
+    "ficcao",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Vincenzo Alfieri",
+      "character": "Luke",
+      "profile": "https://image.tmdb.org/t/p/w185/8SHsMf5E9qOgpNgQThHRJpyiIxQ.jpg"
+    },
+    {
+      "name": "Elena Cucci",
+      "character": "Sara",
+      "profile": "https://image.tmdb.org/t/p/w185/2jE7mPwolfXxb8wB1aH0y9oBd3Z.jpg"
+    },
+    {
+      "name": "Francesca Gandolfo",
+      "character": "Li-Han",
+      "profile": ""
+    },
+    {
+      "name": "Fabrizio Fenner",
+      "character": "Reptilian",
+      "profile": ""
+    }
+  ],
+  "director": "Angelo Licata",
+  "tmdbId": 279259,
+  "xtream": {
+    "streamId": 2132903,
+    "containerExtension": "mp4"
+  }
+}

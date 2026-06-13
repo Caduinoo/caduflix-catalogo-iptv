@@ -1,0 +1,67 @@
+{
+  "id": "series_425",
+  "type": "series",
+  "title": "O Assassino Confesso",
+  "originalTitle": "The Confession Killer",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/tB0Sbhc5YQT15PLH2sMlMeo83Xh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bn4OmnMLpPAFBLAd7cpsKxLhe9Z.jpg",
+  "overview": "Henry Lee Lucas ficou famoso depois de confessar centenas de assassinatos. Esta série documental mostra a verdade e suas terríveis consequências.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 95986,
+  "xtream": {
+    "seriesId": 425
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2361275",
+          "episodeId": 2361275,
+          "season": 1,
+          "episode": 1,
+          "title": "O Assassino Confesso S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361276",
+          "episodeId": 2361276,
+          "season": 1,
+          "episode": 2,
+          "title": "O Assassino Confesso S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361277",
+          "episodeId": 2361277,
+          "season": 1,
+          "episode": 3,
+          "title": "O Assassino Confesso S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361278",
+          "episodeId": 2361278,
+          "season": 1,
+          "episode": 4,
+          "title": "O Assassino Confesso S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2361279",
+          "episodeId": 2361279,
+          "season": 1,
+          "episode": 5,
+          "title": "O Assassino Confesso S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

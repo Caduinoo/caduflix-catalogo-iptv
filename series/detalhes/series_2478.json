@@ -1,0 +1,59 @@
+{
+  "id": "series_2478",
+  "type": "series",
+  "title": "Uma Mãe Perfeita",
+  "originalTitle": "Une mère parfaite",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/8EkCyPG6dSGikerZ1gLgYnJit0M.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5YlfxBfLfyU1ARigWlSNiIL26oq.jpg",
+  "overview": "Convencida de que sua filha é inocente em um homicídio, uma mãe dedicada faz descobertas perturbadoras e a linha que separa vítima e agressor começa a desaparecer.",
+  "rating": 5.8,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 131431,
+  "xtream": {
+    "seriesId": 2478
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2448930",
+          "episodeId": 2448930,
+          "season": 1,
+          "episode": 1,
+          "title": "Uma Mãe Perfeita (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2448931",
+          "episodeId": 2448931,
+          "season": 1,
+          "episode": 2,
+          "title": "Uma Mãe Perfeita (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2448932",
+          "episodeId": 2448932,
+          "season": 1,
+          "episode": 3,
+          "title": "Uma Mãe Perfeita (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2448933",
+          "episodeId": 2448933,
+          "season": 1,
+          "episode": 4,
+          "title": "Uma Mãe Perfeita (2022) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

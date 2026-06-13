@@ -1,0 +1,75 @@
+{
+  "id": "series_637",
+  "type": "series",
+  "title": "Condenados pela Mídia",
+  "originalTitle": "Trial by Media",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/7AhMUw8JbGKi7MfILtBaHauS8Q8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oMDQyGpnVCxmIyir9OKtmyOnQXv.jpg",
+  "overview": "Em nosso atual ambiente midiático, em que dramas judiciários da vida real são transformados em forma de entretenimento, a série documental Condenados pela Mídia, da Netflix, reflete sobre alguns dos julgamentos mais dramáticos e memoráveis da história recente. A crescente cobertura televisiva introduziu no sistema legal uma nova ênfase em narrativas criativas e espetacularização. O tribunal nunca mais foi o mesmo. Ao longo de seis partes, Condenados pela Mídia explora como a imprensa ajudou a moldar de diversas maneiras a percepção pública sobre culpa ou inocência – antes, durante e depois de um julgamento. A série traz casos de diferentes áreas legais, como o inesquecível julgamento de Jenny Jones por homicídio, feito sob medida para a TV, a história sensacional da queda política de Rod Blagojevich e o caso de Amadou Diallo, um imigrante africano desarmado que levou 41 tiros da polícia em Nova York.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 102901,
+  "xtream": {
+    "seriesId": 637
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2370065",
+          "episodeId": 2370065,
+          "season": 1,
+          "episode": 1,
+          "title": "Trial By Media [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370066",
+          "episodeId": 2370066,
+          "season": 1,
+          "episode": 2,
+          "title": "Trial By Media [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370067",
+          "episodeId": 2370067,
+          "season": 1,
+          "episode": 3,
+          "title": "Trial By Media [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370068",
+          "episodeId": 2370068,
+          "season": 1,
+          "episode": 4,
+          "title": "Trial By Media [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370069",
+          "episodeId": 2370069,
+          "season": 1,
+          "episode": 5,
+          "title": "Trial By Media [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370070",
+          "episodeId": 2370070,
+          "season": 1,
+          "episode": 6,
+          "title": "Trial By Media [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

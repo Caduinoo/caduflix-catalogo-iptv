@@ -1,0 +1,75 @@
+{
+  "id": "series_2525",
+  "type": "series",
+  "title": "Risco Iminente",
+  "originalTitle": "Trigger Point",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/9XUr6YLnXRkFU2J25fR0zauzsrI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vG3U8t5OKHO2xHap9QqclincYl5.jpg",
+  "overview": "Quando uma série de ataques terroristas ameaça Londres durante o verão, o esquadrão antibombas, liderado por Lana Washington, lidera os esforços para descobrir quem está por trás dos bombardeios antes que a situação se agrave ainda mais.",
+  "rating": 6.9,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 127716,
+  "xtream": {
+    "seriesId": 2525
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2450087",
+          "episodeId": 2450087,
+          "season": 1,
+          "episode": 1,
+          "title": "Risco Iminente (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450088",
+          "episodeId": 2450088,
+          "season": 1,
+          "episode": 2,
+          "title": "Risco Iminente (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450089",
+          "episodeId": 2450089,
+          "season": 1,
+          "episode": 3,
+          "title": "Risco Iminente (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450090",
+          "episodeId": 2450090,
+          "season": 1,
+          "episode": 4,
+          "title": "Risco Iminente (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450091",
+          "episodeId": 2450091,
+          "season": 1,
+          "episode": 5,
+          "title": "Risco Iminente (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450092",
+          "episodeId": 2450092,
+          "season": 1,
+          "episode": 6,
+          "title": "Risco Iminente (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

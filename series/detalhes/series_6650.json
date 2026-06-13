@@ -1,0 +1,67 @@
+{
+  "id": "series_6650",
+  "type": "series",
+  "title": "A Garota Roubada",
+  "originalTitle": "The Stolen Girl",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/fJzQGQZernL5PqhmD6ylC60E4mP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dDx7bjxtJcMwUhowCn7VhPwLEzp.jpg",
+  "overview": "Mãe de duas crianças, Elisa, deixa sua filha, Lucia, ir dormir na casa de sua nova melhor amiga, Josephine, de última hora depois de conhecer a mãe de Josephine, Rebecca, e sua linda casa. Mas quando Elisa vai buscar Lucia no dia seguinte, era apenas uma casa de luxo de aluguel e Lucia foi sequestrada.",
+  "rating": 6.132,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 233256,
+  "xtream": {
+    "seriesId": 6650
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2550001",
+          "episodeId": 2550001,
+          "season": 1,
+          "episode": 1,
+          "title": "A Garota Roubada S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550002",
+          "episodeId": 2550002,
+          "season": 1,
+          "episode": 2,
+          "title": "A Garota Roubada S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550003",
+          "episodeId": 2550003,
+          "season": 1,
+          "episode": 3,
+          "title": "A Garota Roubada S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550004",
+          "episodeId": 2550004,
+          "season": 1,
+          "episode": 4,
+          "title": "A Garota Roubada S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550005",
+          "episodeId": 2550005,
+          "season": 1,
+          "episode": 5,
+          "title": "A Garota Roubada S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

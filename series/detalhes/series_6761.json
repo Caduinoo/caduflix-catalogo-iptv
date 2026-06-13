@@ -1,0 +1,66 @@
+{
+  "id": "series_6761",
+  "type": "series",
+  "title": "Doctor Foster",
+  "originalTitle": "Doctor Foster",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/gJiaterDM3tZ2yioR24RzJpLhzD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6D7xmI8NJJMJKCsN1wH5oQdP64w.jpg",
+  "overview": "A história acompanha a vida da Dra. Gemma Foster, uma mulher que parece ter sua vida e carreira sob controle. Até que ela começa a desconfiar que seu marido Simon a está traindo. Determinada a descobrir a verdade, ela inicia uma investigação que afeta sua vida, a de sua família e a de seus pacientes.",
+  "rating": 7.028,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 63913,
+  "xtream": {
+    "seriesId": 6761
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2551288",
+          "episodeId": 2551288,
+          "season": 1,
+          "episode": 1,
+          "title": "Doctor Foster S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2551289",
+          "episodeId": 2551289,
+          "season": 1,
+          "episode": 2,
+          "title": "Doctor Foster S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2551290",
+          "episodeId": 2551290,
+          "season": 1,
+          "episode": 3,
+          "title": "Doctor Foster S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2551291",
+          "episodeId": 2551291,
+          "season": 1,
+          "episode": 4,
+          "title": "Doctor Foster S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2551292",
+          "episodeId": 2551292,
+          "season": 1,
+          "episode": 5,
+          "title": "Doctor Foster S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

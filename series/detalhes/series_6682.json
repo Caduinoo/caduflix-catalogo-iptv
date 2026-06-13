@@ -1,0 +1,56 @@
+{
+  "id": "series_6682",
+  "type": "series",
+  "title": "Sem lar",
+  "originalTitle": "Sem lar",
+  "year": null,
+  "poster": "https://image.tmdb.org//t/p/w600_and_h900_bestv2/9Xe3YpK9MMSFqA3SMI9YHMUu69y.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 6682
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2550275",
+          "episodeId": 2550275,
+          "season": 1,
+          "episode": 1,
+          "title": "Sem lar [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550276",
+          "episodeId": 2550276,
+          "season": 1,
+          "episode": 2,
+          "title": "Sem lar [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550277",
+          "episodeId": 2550277,
+          "season": 1,
+          "episode": 3,
+          "title": "Sem lar [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550278",
+          "episodeId": 2550278,
+          "season": 1,
+          "episode": 4,
+          "title": "Sem lar [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

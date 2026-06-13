@@ -1,0 +1,92 @@
+{
+  "id": "series_1045",
+  "type": "series",
+  "title": "O Nome da Rosa",
+  "originalTitle": "Il nome della rosa",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/bWqo16NIS3nwTcCWOPNaeSQ0FGI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fozTbhwULQHV9WonySw91kapzLQ.jpg",
+  "overview": "Um monge franciscano começa a investigar uma série de assassinatos, que, para muitos, são obras do demônio. Enquanto ele tentar desvendar esses mistérios, o inquisitor Bernardo Gui faz questão de punir qualquer suspeito de heresia, e William de Baskerville está no topo de sua lista.",
+  "rating": 7.021,
+  "genres": [
+    "drama",
+    "misterio",
+    "guerra"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 86343,
+  "xtream": {
+    "seriesId": 1045
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2394864",
+          "episodeId": 2394864,
+          "season": 1,
+          "episode": 1,
+          "title": "O Nome da Rosa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394865",
+          "episodeId": 2394865,
+          "season": 1,
+          "episode": 2,
+          "title": "O Nome da Rosa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394866",
+          "episodeId": 2394866,
+          "season": 1,
+          "episode": 3,
+          "title": "O Nome da Rosa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394867",
+          "episodeId": 2394867,
+          "season": 1,
+          "episode": 4,
+          "title": "O Nome da Rosa S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394868",
+          "episodeId": 2394868,
+          "season": 1,
+          "episode": 5,
+          "title": "O Nome da Rosa S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394869",
+          "episodeId": 2394869,
+          "season": 1,
+          "episode": 6,
+          "title": "O Nome da Rosa S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394870",
+          "episodeId": 2394870,
+          "season": 1,
+          "episode": 7,
+          "title": "O Nome da Rosa S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394871",
+          "episodeId": 2394871,
+          "season": 1,
+          "episode": 8,
+          "title": "O Nome da Rosa S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

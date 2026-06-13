@@ -1,0 +1,67 @@
+{
+  "id": "series_7498",
+  "type": "series",
+  "title": "Os Chorões",
+  "originalTitle": "Os Chorões",
+  "year": 2012,
+  "poster": "https://image.tmdb.org/t/p/w500/o91QM6raK7Tng4NBmLP5mkz8RMx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jHdQHhQd2W3n4VYGxcCbY3YOsBm.jpg",
+  "overview": "Uma websérie sobre um grupo de personagens que choram por tudo: corrupção na política, falta de educação, manias e vícios. E por qualquer pessoa. Inclusive você.",
+  "rating": 0,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 302931,
+  "xtream": {
+    "seriesId": 7498
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2566662",
+          "episodeId": 2566662,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Choroes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566663",
+          "episodeId": 2566663,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Choroes S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566664",
+          "episodeId": 2566664,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Choroes S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566665",
+          "episodeId": 2566665,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Choroes S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2566666",
+          "episodeId": 2566666,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Choroes S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

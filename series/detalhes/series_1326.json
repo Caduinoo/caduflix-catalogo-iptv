@@ -1,0 +1,91 @@
+{
+  "id": "series_1326",
+  "type": "series",
+  "title": "Labirinto do Medo",
+  "originalTitle": "Dead Places",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/7rK54N2syAPP7iVpDFuO3NMnqoQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1AFwiG4HaHkYFjloZUx2aLnN4ai.jpg",
+  "overview": "Um autor assombrado pela morte da irmã na infância volta à sua terra natal para investigar casos sobrenaturais e escrever seu novo livro.",
+  "rating": 7.3,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 122694,
+  "xtream": {
+    "seriesId": 1326
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2405965",
+          "episodeId": 2405965,
+          "season": 1,
+          "episode": 1,
+          "title": "Labirinto do Medo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405966",
+          "episodeId": 2405966,
+          "season": 1,
+          "episode": 2,
+          "title": "Labirinto do Medo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405967",
+          "episodeId": 2405967,
+          "season": 1,
+          "episode": 3,
+          "title": "Labirinto do Medo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405968",
+          "episodeId": 2405968,
+          "season": 1,
+          "episode": 4,
+          "title": "Labirinto do Medo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405969",
+          "episodeId": 2405969,
+          "season": 1,
+          "episode": 5,
+          "title": "Labirinto do Medo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405970",
+          "episodeId": 2405970,
+          "season": 1,
+          "episode": 6,
+          "title": "Labirinto do Medo S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405971",
+          "episodeId": 2405971,
+          "season": 1,
+          "episode": 7,
+          "title": "Labirinto do Medo S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405972",
+          "episodeId": 2405972,
+          "season": 1,
+          "episode": 8,
+          "title": "Labirinto do Medo S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

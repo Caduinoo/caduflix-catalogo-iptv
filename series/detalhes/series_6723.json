@@ -1,0 +1,75 @@
+{
+  "id": "series_6723",
+  "type": "series",
+  "title": "A Reserva",
+  "originalTitle": "Reservatet",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/654Kmi3ZbrpOow7D5k9pmwbsFIE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/c8bp3lqchYLY7Y14uBXRmCPukUo.jpg",
+  "overview": "Uma jovem au pair desaparece em um bairro de elite, fazendo com que Cecilie tente descobrir a verdade. Mal sabe ela que essa jornada trará revelações chocantes.",
+  "rating": 6.67,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 262878,
+  "xtream": {
+    "seriesId": 6723
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2550844",
+          "episodeId": 2550844,
+          "season": 1,
+          "episode": 1,
+          "title": "A Reserva S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550845",
+          "episodeId": 2550845,
+          "season": 1,
+          "episode": 2,
+          "title": "A Reserva S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550846",
+          "episodeId": 2550846,
+          "season": 1,
+          "episode": 3,
+          "title": "A Reserva S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550847",
+          "episodeId": 2550847,
+          "season": 1,
+          "episode": 4,
+          "title": "A Reserva S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550848",
+          "episodeId": 2550848,
+          "season": 1,
+          "episode": 5,
+          "title": "A Reserva S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550849",
+          "episodeId": 2550849,
+          "season": 1,
+          "episode": 6,
+          "title": "A Reserva S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

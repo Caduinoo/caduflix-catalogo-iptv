@@ -1,0 +1,39 @@
+{
+  "id": "movie_2095783",
+  "type": "movie",
+  "title": "Irresistible",
+  "originalTitle": "Irresistible",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/8xoYEq919TMcyHcbVInQaPiLU8G.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 8,
+  "genres": [
+    "comedia",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Cristina Sánchez",
+      "character": "Hada de la botella",
+      "profile": ""
+    },
+    {
+      "name": "José Sánchez Vega",
+      "character": "El irresistible",
+      "profile": ""
+    },
+    {
+      "name": "Ramiro 'Ramir' Delgado Ruiz",
+      "character": "Invitado en la conferencia",
+      "profile": "https://image.tmdb.org/t/p/w185/y7qqQOOnEhSWz5aUkt7c3hQ52R0.jpg"
+    }
+  ],
+  "director": "Ray Figueroa",
+  "tmdbId": 420759,
+  "xtream": {
+    "streamId": 2095783,
+    "containerExtension": "mp4"
+  }
+}

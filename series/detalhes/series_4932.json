@@ -1,0 +1,52 @@
+{
+  "id": "series_4932",
+  "type": "series",
+  "title": "No Caminho",
+  "originalTitle": "On the Roam",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/iC4SReLwwAiWOAbQghjRjl5UYbQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dhl3koMC87Ar3YncHSQMPwf54Lq.jpg",
+  "overview": "Esta série documental em oito episódios acompanha Jason Momoa em viagens pelos Estados Unidos, onde o astro busca novas aventuras e amizades.",
+  "rating": 6.533,
+  "genres": [
+    "documentario",
+    "acao",
+    "aventura"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 242945,
+  "xtream": {
+    "seriesId": 4932
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2509684",
+          "episodeId": 2509684,
+          "season": 1,
+          "episode": 1,
+          "title": "No Caminho (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2509685",
+          "episodeId": 2509685,
+          "season": 1,
+          "episode": 2,
+          "title": "No Caminho (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2509686",
+          "episodeId": 2509686,
+          "season": 1,
+          "episode": 3,
+          "title": "No Caminho (2024) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

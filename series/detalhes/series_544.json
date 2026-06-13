@@ -1,0 +1,51 @@
+{
+  "id": "series_544",
+  "type": "series",
+  "title": "Meu Nome é",
+  "originalTitle": "I Am...",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/s1W8U5W85e2zXdDqxWEoP6JFj3j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/x7NyKPf4AoNv7McxBenzt0hl2zv.jpg",
+  "overview": "Três mulheres em diferentes jornadas de autoconhecimento. Em histórias independentes, cada uma delas encara dificuldades, experiências intensas e momentos emocionantes.",
+  "rating": 5.604,
+  "genres": [
+    "drama",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 91605,
+  "xtream": {
+    "seriesId": 544
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2366782",
+          "episodeId": 2366782,
+          "season": 1,
+          "episode": 1,
+          "title": "Meu Nome é S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366783",
+          "episodeId": 2366783,
+          "season": 1,
+          "episode": 2,
+          "title": "Meu Nome é S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366784",
+          "episodeId": 2366784,
+          "season": 1,
+          "episode": 3,
+          "title": "Meu Nome é S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

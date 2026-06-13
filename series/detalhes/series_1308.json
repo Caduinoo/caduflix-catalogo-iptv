@@ -1,0 +1,76 @@
+{
+  "id": "series_1308",
+  "type": "series",
+  "title": "The Nevers",
+  "originalTitle": "The Nevers",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/v6Xmj8Fy7ZruVTz3y2Po7O0TQh4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mhFYqrTLk5JlzzdHkyu4NVzasDj.jpg",
+  "overview": "Nos últimos anos do reinado de Vitória, Londres é sacudida por um grupo de pessoas, na maioria mulheres, com habilidades especiais.",
+  "rating": 7.912,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 80828,
+  "xtream": {
+    "seriesId": 1308
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2404999",
+          "episodeId": 2404999,
+          "season": 1,
+          "episode": 1,
+          "title": "The Nevers S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405000",
+          "episodeId": 2405000,
+          "season": 1,
+          "episode": 2,
+          "title": "The Nevers S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405001",
+          "episodeId": 2405001,
+          "season": 1,
+          "episode": 3,
+          "title": "The Nevers S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405002",
+          "episodeId": 2405002,
+          "season": 1,
+          "episode": 4,
+          "title": "The Nevers S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405003",
+          "episodeId": 2405003,
+          "season": 1,
+          "episode": 5,
+          "title": "The Nevers S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2405004",
+          "episodeId": 2405004,
+          "season": 1,
+          "episode": 6,
+          "title": "The Nevers S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

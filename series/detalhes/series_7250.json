@@ -1,0 +1,52 @@
+{
+  "id": "series_7250",
+  "type": "series",
+  "title": "Narcosatânica",
+  "originalTitle": "La Narcosatánica",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/6ymlJmBRn6MGIdzyuWzLpvbJWND.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iza8xqLNlrnibtMApEXnHEYqdW9.jpg",
+  "overview": "Sara Aldrete, \"A Narcosatânica\", narra diretamente da prisão, em primeira pessoa e com detalhes reveladores, esta história repleta de ritos sangrentos, delírios de grandeza, perseguições, capturas, tiroteios e lendas urbanas.",
+  "rating": 6.9,
+  "genres": [
+    "documentario",
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 228811,
+  "xtream": {
+    "seriesId": 7250
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2562277",
+          "episodeId": 2562277,
+          "season": 1,
+          "episode": 1,
+          "title": "Narcosatanica [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562278",
+          "episodeId": 2562278,
+          "season": 1,
+          "episode": 2,
+          "title": "Narcosatanica [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562279",
+          "episodeId": 2562279,
+          "season": 1,
+          "episode": 3,
+          "title": "Narcosatanica [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

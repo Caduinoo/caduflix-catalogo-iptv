@@ -1,0 +1,58 @@
+{
+  "id": "series_6689",
+  "type": "series",
+  "title": "Chef's Table: Lendas",
+  "originalTitle": "Chef's Table: Legends",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/bCzhHCqjOKqG8Sh4XsKQ6UVw4YZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jFLqy7S9NzM0ROWcqOPVPobqKwD.jpg",
+  "overview": "Esta série indicada ao Emmy® celebra quatro gigantes da culinária: Jamie Oliver, José Andrés, Alice Waters e Thomas Keller, que mudaram o jeito de o mundo se alimentar.",
+  "rating": 7.571,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 273212,
+  "xtream": {
+    "seriesId": 6689
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2550343",
+          "episodeId": 2550343,
+          "season": 1,
+          "episode": 1,
+          "title": "Chefs Table Lendas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550344",
+          "episodeId": 2550344,
+          "season": 1,
+          "episode": 2,
+          "title": "Chefs Table Lendas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550345",
+          "episodeId": 2550345,
+          "season": 1,
+          "episode": 3,
+          "title": "Chefs Table Lendas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2550346",
+          "episodeId": 2550346,
+          "season": 1,
+          "episode": 4,
+          "title": "Chefs Table Lendas S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

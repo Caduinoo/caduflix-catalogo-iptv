@@ -1,0 +1,75 @@
+{
+  "id": "series_7720",
+  "type": "series",
+  "title": "Made in Korea",
+  "originalTitle": "메이드 인 코리아",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/uJwXkGYsHoDcgjuXrq08Udne3yR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/42RCEkRkfvafglUsXD6kN1S9nwP.jpg",
+  "overview": "Na Coreia do Sul da década de 1970, um homem que busca o auge da riqueza e do poder vive uma vida dupla: agente da KCIA de dia e perigoso homem de negócios à noite. Determinado e imbatível, ele acaba se deparando com um promotor perspicaz que está disposto a arriscar tudo para derrubá-lo.",
+  "rating": 7.9,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 246473,
+  "xtream": {
+    "seriesId": 7720
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2570825",
+          "episodeId": 2570825,
+          "season": 1,
+          "episode": 1,
+          "title": "Made in Korea S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570826",
+          "episodeId": 2570826,
+          "season": 1,
+          "episode": 2,
+          "title": "Made in Korea S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570827",
+          "episodeId": 2570827,
+          "season": 1,
+          "episode": 3,
+          "title": "Made in Korea S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570828",
+          "episodeId": 2570828,
+          "season": 1,
+          "episode": 4,
+          "title": "Made in Korea S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570829",
+          "episodeId": 2570829,
+          "season": 1,
+          "episode": 5,
+          "title": "Made in Korea S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570830",
+          "episodeId": 2570830,
+          "season": 1,
+          "episode": 6,
+          "title": "Made in Korea S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

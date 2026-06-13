@@ -1,0 +1,74 @@
+{
+  "id": "series_1089",
+  "type": "series",
+  "title": "Noite na Terra em Cores",
+  "originalTitle": "Earth at Night in Colour",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/zabRFOr7LHzZdDKEdKDK3NooYD4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wsAk4Str0iyRRlQ20MiCsUxxoQx.jpg",
+  "overview": "Narrada por Tom Hiddleston e filmada em seis continentes, esta série documental usa tecnologia de ponta para registrar a vida noturna dos animais, revelando novos comportamentos captados em cores de maneira inédita.",
+  "rating": 8.061,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 110818,
+  "xtream": {
+    "seriesId": 1089
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2396449",
+          "episodeId": 2396449,
+          "season": 1,
+          "episode": 1,
+          "title": "Earth At Night In Color [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396450",
+          "episodeId": 2396450,
+          "season": 1,
+          "episode": 2,
+          "title": "Earth At Night In Color [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396451",
+          "episodeId": 2396451,
+          "season": 1,
+          "episode": 3,
+          "title": "Earth At Night In Color [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396452",
+          "episodeId": 2396452,
+          "season": 1,
+          "episode": 4,
+          "title": "Earth At Night In Color [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396453",
+          "episodeId": 2396453,
+          "season": 1,
+          "episode": 5,
+          "title": "Earth At Night In Color [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396454",
+          "episodeId": 2396454,
+          "season": 1,
+          "episode": 6,
+          "title": "Earth At Night In Color [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

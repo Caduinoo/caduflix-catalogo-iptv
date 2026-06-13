@@ -1,0 +1,59 @@
+{
+  "id": "series_6429",
+  "type": "series",
+  "title": "Os Canibais de Baton Rouge",
+  "originalTitle": "Butchers of the Bayou",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/qgNXcbv6xltosYn3ZEoeBD8uvMw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j2dQ2rvFdWsvRJAZixUMx6UgjuL.jpg",
+  "overview": "Dois assassinos em série, operando separadamente um do outro, aterrorizam Baton Rouge, Louisiana, e sua área circundante ao longo de uma década.",
+  "rating": 7.5,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 222388,
+  "xtream": {
+    "seriesId": 6429
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2546673",
+          "episodeId": 2546673,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Canibais de Baton Rouge S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2546674",
+          "episodeId": 2546674,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Canibais de Baton Rouge S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2546675",
+          "episodeId": 2546675,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Canibais de Baton Rouge S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2546676",
+          "episodeId": 2546676,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Canibais de Baton Rouge S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

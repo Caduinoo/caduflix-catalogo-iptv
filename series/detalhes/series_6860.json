@@ -1,0 +1,51 @@
+{
+  "id": "series_6860",
+  "type": "series",
+  "title": "A Funerária: Dinheiro e Cinzas",
+  "originalTitle": "The Mortician",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/s92SxFh5MjBNITiFa7BpTORN4z9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2qe5IhZFWccV5r6lo6pB2R0fPUo.jpg",
+  "overview": "Conta a história sombria de uma infame funerária familiar de Los Angeles que, durante anos, se envolveu em práticas moralmente questionáveis e desumanas, incluindo cremações em massa e roubo de mortos.",
+  "rating": 7,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 291926,
+  "xtream": {
+    "seriesId": 6860
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2555032",
+          "episodeId": 2555032,
+          "season": 1,
+          "episode": 1,
+          "title": "A Funeraria Dinheiro e Cinzas [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2555033",
+          "episodeId": 2555033,
+          "season": 1,
+          "episode": 2,
+          "title": "A Funeraria Dinheiro e Cinzas [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2555034",
+          "episodeId": 2555034,
+          "season": 1,
+          "episode": 3,
+          "title": "A Funeraria Dinheiro e Cinzas [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

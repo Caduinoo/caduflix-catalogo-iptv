@@ -1,0 +1,66 @@
+{
+  "id": "series_6201",
+  "type": "series",
+  "title": "Happy's Place",
+  "originalTitle": "Happy's Place",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lQ9Yun6lMNNcQWFM0r2iKReKQeO.jpg",
+  "overview": "Happy's Place é uma série de comédia americana criada por Kevin Abbott. Na trama, Bobbie (Reba McEntire) herda o restaurante de seu falecido pai e, para sua surpresa, descobre que terá que dividi-lo com sua meia-irmã mais jovem, Isabella (Belissa Escobedo), com quem nunca havia tido contato",
+  "rating": 6.286,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 253896,
+  "xtream": {
+    "seriesId": 6201
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2540169",
+          "episodeId": 2540169,
+          "season": 1,
+          "episode": 1,
+          "title": "Happys Place [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2540170",
+          "episodeId": 2540170,
+          "season": 1,
+          "episode": 2,
+          "title": "Happys Place [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2540171",
+          "episodeId": 2540171,
+          "season": 1,
+          "episode": 3,
+          "title": "Happys Place [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2540172",
+          "episodeId": 2540172,
+          "season": 1,
+          "episode": 4,
+          "title": "Happys Place [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2540173",
+          "episodeId": 2540173,
+          "season": 1,
+          "episode": 5,
+          "title": "Happys Place [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

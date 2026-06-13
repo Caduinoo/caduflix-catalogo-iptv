@@ -1,0 +1,58 @@
+{
+  "id": "series_7907",
+  "type": "series",
+  "title": "Reféns",
+  "originalTitle": "Hostages",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/kXbpJPgWz9rN9opzJFiejmlV6pG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lr0tyjAFkYEjtUDbbKgyW1LVc9z.jpg",
+  "overview": "Acompanhe o caos que se desenrolou nos primeiros dias da crise dos reféns; os eventos mudam quando Khomeini sanciona a tomada de poder e de reféns e se torna um divisor de águas em um regime repressivo.",
+  "rating": 6.1,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 209728,
+  "xtream": {
+    "seriesId": 7907
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2573917",
+          "episodeId": 2573917,
+          "season": 1,
+          "episode": 1,
+          "title": "Refens [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573918",
+          "episodeId": 2573918,
+          "season": 1,
+          "episode": 2,
+          "title": "Refens [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573919",
+          "episodeId": 2573919,
+          "season": 1,
+          "episode": 3,
+          "title": "Refens [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573920",
+          "episodeId": 2573920,
+          "season": 1,
+          "episode": 4,
+          "title": "Refens [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

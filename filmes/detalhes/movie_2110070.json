@@ -1,0 +1,48 @@
+{
+  "id": "movie_2110070",
+  "type": "movie",
+  "title": "Amor",
+  "originalTitle": "Amor",
+  "year": 2009,
+  "poster": "http://gstaticontent.com/images/7924eb14be6ba7cc27b351aca54c9616.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0.5,
+  "runtime": 13,
+  "genres": [
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Pål Sverre Hagen",
+      "character": "Thomas",
+      "profile": "https://image.tmdb.org/t/p/w185/eJzuZZfFBaMSgcbR3Pe5zBxEC3z.jpg"
+    },
+    {
+      "name": "Ida Elise Broch",
+      "character": "Julie",
+      "profile": "https://image.tmdb.org/t/p/w185/rXDteWMDq2xJFH8uBD4u5Et9rrf.jpg"
+    },
+    {
+      "name": "Mattis Herman Nyquist",
+      "character": "Christian",
+      "profile": "https://image.tmdb.org/t/p/w185/rPS420CCVr2jRb2LLtttcDqzSn4.jpg"
+    },
+    {
+      "name": "Jenny Skavlan",
+      "character": "1st girl in bar",
+      "profile": "https://image.tmdb.org/t/p/w185/rHQ5lMEdczx6M2OHFWYcsMxHv7E.jpg"
+    },
+    {
+      "name": "Anders Rummelhoff",
+      "character": "1st guy in bar",
+      "profile": ""
+    }
+  ],
+  "director": "Thomas Wangsmo",
+  "tmdbId": 291815,
+  "xtream": {
+    "streamId": 2110070,
+    "containerExtension": "mp4"
+  }
+}

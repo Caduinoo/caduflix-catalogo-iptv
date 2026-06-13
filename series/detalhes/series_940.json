@@ -1,0 +1,61 @@
+{
+  "id": "series_940",
+  "type": "series",
+  "title": "Amor e Sorte",
+  "originalTitle": "Amor e Sorte",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/1mLLNO2xP2lernxmuPRMkQsxRfi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q1MBJi6Kxr3vRuWTwanFKKIMTvT.jpg",
+  "overview": "‘Amor e Sorte’ é uma série em quatro episódios independentes, que reúne histórias sobre relacionamentos e transformação em tempos de isolamento social.",
+  "rating": 7.4,
+  "genres": [
+    "comedia",
+    "familia",
+    "infantil",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 109483,
+  "xtream": {
+    "seriesId": 940
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2388865",
+          "episodeId": 2388865,
+          "season": 1,
+          "episode": 1,
+          "title": "Amor e Sorte S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388866",
+          "episodeId": 2388866,
+          "season": 1,
+          "episode": 2,
+          "title": "Amor e Sorte S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388867",
+          "episodeId": 2388867,
+          "season": 1,
+          "episode": 3,
+          "title": "Amor e Sorte S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388868",
+          "episodeId": 2388868,
+          "season": 1,
+          "episode": 4,
+          "title": "Amor e Sorte S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

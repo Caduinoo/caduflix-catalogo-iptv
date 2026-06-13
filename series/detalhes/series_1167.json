@@ -1,0 +1,75 @@
+{
+  "id": "series_1167",
+  "type": "series",
+  "title": "The Disappearance",
+  "originalTitle": "The Disappearance",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/wDw0ItLofAmLoMUYxVyhdK4lI0p.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9hK4uy9jdf6Wfw5J9qAtroi7iEL.jpg",
+  "overview": "Na sequência do desaparecimento de Anthony Sullivan em seu 10º aniversário, a família fraturada se junta para resolver o mistério que desenraizou suas vidas.",
+  "rating": 7.2,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "paramount",
+  "tmdbId": 72744,
+  "xtream": {
+    "seriesId": 1167
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2398296",
+          "episodeId": 2398296,
+          "season": 1,
+          "episode": 1,
+          "title": "The Disappearance S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398297",
+          "episodeId": 2398297,
+          "season": 1,
+          "episode": 2,
+          "title": "The Disappearance S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398298",
+          "episodeId": 2398298,
+          "season": 1,
+          "episode": 3,
+          "title": "The Disappearance S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398299",
+          "episodeId": 2398299,
+          "season": 1,
+          "episode": 4,
+          "title": "The Disappearance S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398300",
+          "episodeId": 2398300,
+          "season": 1,
+          "episode": 5,
+          "title": "The Disappearance S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398301",
+          "episodeId": 2398301,
+          "season": 1,
+          "episode": 6,
+          "title": "The Disappearance S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

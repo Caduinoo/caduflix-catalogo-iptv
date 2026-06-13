@@ -1,0 +1,51 @@
+{
+  "id": "series_8519",
+  "type": "series",
+  "title": "A Testemunha",
+  "originalTitle": "The Witness",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/pfbeRLw2jbeK2ZewnN85n5nSvjU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+  "overview": "Uma criança testemunha o assassinato da mãe, Rachel Nickell, e o pai luta para protegê-la durante uma investigação cheia de falhas.",
+  "rating": 6.132,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 280511,
+  "xtream": {
+    "seriesId": 8519
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2582157",
+          "episodeId": 2582157,
+          "season": 1,
+          "episode": 1,
+          "title": "A Testemunha (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582158",
+          "episodeId": 2582158,
+          "season": 1,
+          "episode": 2,
+          "title": "A Testemunha (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2582159",
+          "episodeId": 2582159,
+          "season": 1,
+          "episode": 3,
+          "title": "A Testemunha (2026) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

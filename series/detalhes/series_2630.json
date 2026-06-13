@@ -1,0 +1,74 @@
+{
+  "id": "series_2630",
+  "type": "series",
+  "title": "LIGHT & MAGIC",
+  "originalTitle": "LIGHT & MAGIC",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/tqWaho7qF5t7lraogxvMY9RwWSz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wFRY4qnUbJrq3GL0glmOdkkwJbJ.jpg",
+  "overview": "Quando George Lucas decidiu fazer Star Wars, mal sabia ele que acabaria revolucionando uma indústria. Esta série mostra a evolução da Industrial Light & Magic, a empresa responsável pelos efeitos visuais icônicos de Star Wars, E.T., Exterminador 2, Jurassic Park e tantos outros filmes. Esta é a história de uma equipe de gênios criativos que colocam a magia nos filmes que amamos.",
+  "rating": 7.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 201285,
+  "xtream": {
+    "seriesId": 2630
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2453235",
+          "episodeId": 2453235,
+          "season": 1,
+          "episode": 1,
+          "title": "Light & Magic (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2453236",
+          "episodeId": 2453236,
+          "season": 1,
+          "episode": 2,
+          "title": "Light & Magic (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2453237",
+          "episodeId": 2453237,
+          "season": 1,
+          "episode": 3,
+          "title": "Light & Magic (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2453238",
+          "episodeId": 2453238,
+          "season": 1,
+          "episode": 4,
+          "title": "Light & Magic (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2453239",
+          "episodeId": 2453239,
+          "season": 1,
+          "episode": 5,
+          "title": "Light & Magic (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2453240",
+          "episodeId": 2453240,
+          "season": 1,
+          "episode": 6,
+          "title": "Light & Magic (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

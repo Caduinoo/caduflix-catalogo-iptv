@@ -1,0 +1,76 @@
+{
+  "id": "series_5290",
+  "type": "series",
+  "title": "Um Monstro Como Nunca se Viu",
+  "originalTitle": "Serial Killer: Devil Unchained",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/8XFM09qoEy0Szm8HsN9uiXyr7WR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2bA2XDKk3f6o5SGFXNHs0IKwLgd.jpg",
+  "overview": "Maria Awes, uma jornalista investigativa, se une a John Douglas, o investigador criminal do FBI, para descobrir a extensão dos crimes do serial killer Todd Kohlhepp.",
+  "rating": 7.333,
+  "genres": [
+    "documentario",
+    "crime",
+    "reality"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 91462,
+  "xtream": {
+    "seriesId": 5290
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2516620",
+          "episodeId": 2516620,
+          "season": 1,
+          "episode": 1,
+          "title": "Um Monstro Como Nunca se Viu S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516621",
+          "episodeId": 2516621,
+          "season": 1,
+          "episode": 2,
+          "title": "Um Monstro Como Nunca se Viu S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516622",
+          "episodeId": 2516622,
+          "season": 1,
+          "episode": 3,
+          "title": "Um Monstro Como Nunca se Viu S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516623",
+          "episodeId": 2516623,
+          "season": 1,
+          "episode": 4,
+          "title": "Um Monstro Como Nunca se Viu S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516624",
+          "episodeId": 2516624,
+          "season": 1,
+          "episode": 5,
+          "title": "Um Monstro Como Nunca se Viu S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516625",
+          "episodeId": 2516625,
+          "season": 1,
+          "episode": 6,
+          "title": "Um Monstro Como Nunca se Viu S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "series_7058",
+  "type": "series",
+  "title": "Life & Cooking",
+  "originalTitle": "Life & Cooking",
+  "year": 2000,
+  "poster": "https://image.tmdb.org/t/p/w780/AbGs7v8hvPEJsAPmzxqP7btpcYr.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 10,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": 24281,
+  "xtream": {
+    "seriesId": 7058
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2559427",
+          "episodeId": 2559427,
+          "season": 1,
+          "episode": 1,
+          "title": "Cooking Life [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559428",
+          "episodeId": 2559428,
+          "season": 1,
+          "episode": 2,
+          "title": "Cooking Life [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559429",
+          "episodeId": 2559429,
+          "season": 1,
+          "episode": 3,
+          "title": "Cooking Life [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559430",
+          "episodeId": 2559430,
+          "season": 1,
+          "episode": 4,
+          "title": "Cooking Life [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559431",
+          "episodeId": 2559431,
+          "season": 1,
+          "episode": 5,
+          "title": "Cooking Life [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559432",
+          "episodeId": 2559432,
+          "season": 1,
+          "episode": 6,
+          "title": "Cooking Life [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559433",
+          "episodeId": 2559433,
+          "season": 1,
+          "episode": 7,
+          "title": "Cooking Life [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559434",
+          "episodeId": 2559434,
+          "season": 1,
+          "episode": 8,
+          "title": "Cooking Life [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

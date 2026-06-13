@@ -1,0 +1,83 @@
+{
+  "id": "series_5132",
+  "type": "series",
+  "title": "Bodkin",
+  "originalTitle": "Bodkin",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/fvpYJkQaeon5kmxioIPHFmgA2v5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eTqt0lkDNX4dOwgbozhpzOvxPtm.jpg",
+  "overview": "Uma equipe de podcasters começa a investigar desaparecimentos misteriosos em uma cidadezinha da Irlanda, cheia de segredos terríveis.",
+  "rating": 6.435,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 241257,
+  "xtream": {
+    "seriesId": 5132
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2513533",
+          "episodeId": 2513533,
+          "season": 1,
+          "episode": 1,
+          "title": "Bodkin S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513534",
+          "episodeId": 2513534,
+          "season": 1,
+          "episode": 2,
+          "title": "Bodkin S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513535",
+          "episodeId": 2513535,
+          "season": 1,
+          "episode": 3,
+          "title": "Bodkin S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513536",
+          "episodeId": 2513536,
+          "season": 1,
+          "episode": 4,
+          "title": "Bodkin S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513537",
+          "episodeId": 2513537,
+          "season": 1,
+          "episode": 5,
+          "title": "Bodkin S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513538",
+          "episodeId": 2513538,
+          "season": 1,
+          "episode": 6,
+          "title": "Bodkin S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2513539",
+          "episodeId": 2513539,
+          "season": 1,
+          "episode": 7,
+          "title": "Bodkin S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

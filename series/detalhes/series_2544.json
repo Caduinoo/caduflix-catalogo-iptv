@@ -1,0 +1,58 @@
+{
+  "id": "series_2544",
+  "type": "series",
+  "title": "Queen Loretta",
+  "originalTitle": "Królowa",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/z3vW0qTMK48BJNzDBi7aQhJxqg3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4yYSqtMaBxezsoVilqphkVsz7Xg.jpg",
+  "overview": "Após passar décadas longe, um renomado alfaiate e drag queen de Paris volta à sua cidade natal na Polônia para se reconciliar com a filha.",
+  "rating": 5.3,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 130950,
+  "xtream": {
+    "seriesId": 2544
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2450639",
+          "episodeId": 2450639,
+          "season": 1,
+          "episode": 1,
+          "title": "Queen Loretta (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450640",
+          "episodeId": 2450640,
+          "season": 1,
+          "episode": 2,
+          "title": "Queen Loretta (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450641",
+          "episodeId": 2450641,
+          "season": 1,
+          "episode": 3,
+          "title": "Queen Loretta (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450642",
+          "episodeId": 2450642,
+          "season": 1,
+          "episode": 4,
+          "title": "Queen Loretta (2022) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

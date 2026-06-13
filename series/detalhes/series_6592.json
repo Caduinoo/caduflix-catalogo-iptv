@@ -1,0 +1,51 @@
+{
+  "id": "series_6592",
+  "type": "series",
+  "title": "De Rock Star a Assassino: O Caso Cantat",
+  "originalTitle": "De rockstar à tueur : Le Cas Cantat",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/vffkcoEfGGqdwZbvW8tI3SbIFAz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4M2tD1t3JfWm1bWOfkRdThkKOFA.jpg",
+  "overview": "Em 2003, o roqueiro Bertrand Cantat matou a parceira, a atriz Marie Trintignant. Este documentário analisa o caso, que dividiu a França.",
+  "rating": 7.6,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 287131,
+  "xtream": {
+    "seriesId": 6592
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2549152",
+          "episodeId": 2549152,
+          "season": 1,
+          "episode": 1,
+          "title": "De Rock Star a Assassino O Caso Cantat [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549153",
+          "episodeId": 2549153,
+          "season": 1,
+          "episode": 2,
+          "title": "De Rock Star a Assassino O Caso Cantat [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549154",
+          "episodeId": 2549154,
+          "season": 1,
+          "episode": 3,
+          "title": "De Rock Star a Assassino O Caso Cantat [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

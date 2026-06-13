@@ -1,0 +1,58 @@
+{
+  "id": "series_7331",
+  "type": "series",
+  "title": "Nerd of the Dead",
+  "originalTitle": "Nerd of the Dead",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/8XV3chEOygFdZctqLVkWFxTJGXu.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Dois nerds se preparam há muito tempo para um apocalipse zumbi. Quando isso acontece, o sonho deles se torna realidade e eles partem para a aventura de suas vidas.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 301143,
+  "xtream": {
+    "seriesId": 7331
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2564280",
+          "episodeId": 2564280,
+          "season": 1,
+          "episode": 1,
+          "title": "Nerd of the Dead S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564281",
+          "episodeId": 2564281,
+          "season": 1,
+          "episode": 2,
+          "title": "Nerd of the Dead S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564282",
+          "episodeId": 2564282,
+          "season": 1,
+          "episode": 3,
+          "title": "Nerd of the Dead S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2564283",
+          "episodeId": 2564283,
+          "season": 1,
+          "episode": 4,
+          "title": "Nerd of the Dead S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

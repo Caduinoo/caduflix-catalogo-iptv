@@ -1,0 +1,59 @@
+{
+  "id": "series_6025",
+  "type": "series",
+  "title": "Churchill em Guerra",
+  "originalTitle": "Churchill at War",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/8SqZXGrNWg5nvAYrq0przLqBvVU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p7yp9P2K2XHqJO1ZglXJUU1mSWb.jpg",
+  "overview": "Esta série documental examina o papel fundamental de Winston Churchill na Segunda Guerra Mundial e mostra os motivos pelos quais ele foi o líder ideal naquele momento.",
+  "rating": 7.667,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "netflix",
+  "tmdbId": 275571,
+  "xtream": {
+    "seriesId": 6025
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2536162",
+          "episodeId": 2536162,
+          "season": 1,
+          "episode": 1,
+          "title": "Churchill em Guerra S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2536163",
+          "episodeId": 2536163,
+          "season": 1,
+          "episode": 2,
+          "title": "Churchill em Guerra S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2536164",
+          "episodeId": 2536164,
+          "season": 1,
+          "episode": 3,
+          "title": "Churchill em Guerra S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2536165",
+          "episodeId": 2536165,
+          "season": 1,
+          "episode": 4,
+          "title": "Churchill em Guerra S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

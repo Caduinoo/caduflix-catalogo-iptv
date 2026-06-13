@@ -1,0 +1,50 @@
+{
+  "id": "series_1093",
+  "type": "series",
+  "title": "Gigantes dos Motores",
+  "originalTitle": "The Cars That Made America",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/w7lD8iUYnJA4A7Rl1WJq6YNpG5W.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rGrVuetECGNjrfach6b2HhiRpyM.jpg",
+  "overview": "Conheça a história dos titãs visionários que foram pioneiros na indústria automobilística nos EUA e transformaram o país.",
+  "rating": 6.6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 73295,
+  "xtream": {
+    "seriesId": 1093
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2396496",
+          "episodeId": 2396496,
+          "season": 1,
+          "episode": 1,
+          "title": "Gigantes dos Motores S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396497",
+          "episodeId": 2396497,
+          "season": 1,
+          "episode": 2,
+          "title": "Gigantes dos Motores S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2396498",
+          "episodeId": 2396498,
+          "season": 1,
+          "episode": 3,
+          "title": "Gigantes dos Motores S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

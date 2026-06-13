@@ -1,0 +1,86 @@
+{
+  "id": "movie_2110417",
+  "type": "movie",
+  "title": "AK vs AK",
+  "originalTitle": "AK vs AK",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/4ULEEvH0hDYnbWN3nClrb88sYCF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qM9xmkvCpQvOHgikuKE6ik3TXjv.jpg",
+  "overview": "Para se vingar de um astro do cinema, um diretor sequestra a filha do ator e filma em tempo real a busca por ela.",
+  "rating": 6.73,
+  "runtime": 109,
+  "genres": [
+    "comedia",
+    "acao",
+    "drama",
+    "crime"
+  ],
+  "cast": [
+    {
+      "name": "Anil Kapoor",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/6RcrXGFzO50Tazqc8tbDlzYKvTd.jpg"
+    },
+    {
+      "name": "Anurag Kashyap",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg"
+    },
+    {
+      "name": "Sonam Kapoor Ahuja",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/p5A2rzbCs9ZlgxVgJ6zGtHNUzaq.jpg"
+    },
+    {
+      "name": "Harshvardhan Kapoor",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/AtEoUQm6HuetSR6O8oftHVWoCQE.jpg"
+    },
+    {
+      "name": "Boney Kapoor",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/s6XWl30NqOBz00DKaPV4QBe5reZ.jpg"
+    },
+    {
+      "name": "Sucharita Tyagi",
+      "character": "Self",
+      "profile": ""
+    },
+    {
+      "name": "Nawazuddin Siddiqui",
+      "character": "Self (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/w1eXF7T60QlEC2gNfr99J3n8CgX.jpg"
+    },
+    {
+      "name": "Yogita Bihani",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/krtXHR8gF5b4zxMsZbMm3PVk7Tn.jpg"
+    },
+    {
+      "name": "Pawan Kumar Singh",
+      "character": "Javed",
+      "profile": ""
+    },
+    {
+      "name": "Raghav Aggarwal",
+      "character": "Jalal",
+      "profile": ""
+    },
+    {
+      "name": "Sakshi Benipuri",
+      "character": "Fashion Show Co-Ordinator",
+      "profile": ""
+    },
+    {
+      "name": "Manoj Mani Mathew",
+      "character": "Hotel Manager",
+      "profile": ""
+    }
+  ],
+  "director": "Vikramaditya Motwane",
+  "tmdbId": 735919,
+  "xtream": {
+    "streamId": 2110417,
+    "containerExtension": "mp4"
+  }
+}

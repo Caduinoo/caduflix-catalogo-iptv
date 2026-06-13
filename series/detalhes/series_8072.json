@@ -1,0 +1,75 @@
+{
+  "id": "series_8072",
+  "type": "series",
+  "title": "DTF St. Louis",
+  "originalTitle": "DTF St. Louis",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8mO4cYZI1X8sanR4u6f07FiQ8dC.jpg",
+  "overview": "David Harbour e Jason Bateman estrelam esta minissérie de humor ácido, em que dois amigos em plena crise de meia-idade se envolvem em um inesperado triângulo amoroso que termina com a morte de um deles.",
+  "rating": 6.819,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 206828,
+  "xtream": {
+    "seriesId": 8072
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2576035",
+          "episodeId": 2576035,
+          "season": 1,
+          "episode": 1,
+          "title": "DTF St Louis S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576036",
+          "episodeId": 2576036,
+          "season": 1,
+          "episode": 2,
+          "title": "DTF St Louis S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576037",
+          "episodeId": 2576037,
+          "season": 1,
+          "episode": 3,
+          "title": "DTF St Louis S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576038",
+          "episodeId": 2576038,
+          "season": 1,
+          "episode": 4,
+          "title": "DTF St Louis S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576039",
+          "episodeId": 2576039,
+          "season": 1,
+          "episode": 5,
+          "title": "DTF St Louis S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576040",
+          "episodeId": 2576040,
+          "season": 1,
+          "episode": 6,
+          "title": "DTF St Louis S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

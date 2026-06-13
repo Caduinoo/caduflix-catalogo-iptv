@@ -1,0 +1,92 @@
+{
+  "id": "series_1005",
+  "type": "series",
+  "title": "Pátria",
+  "originalTitle": "Patria",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/7tprukjJUH3f3Z4V9JDk4rGGuNw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tXwIyN0m5U05vdrUgqPNefR9n7l.jpg",
+  "overview": "A série segue a história de duas famílias divididas pelo conflito separatista no País Basco. No dia em que o ETA anuncia o abandono das armas, Bittori decide voltar à cidade onde seu marido, Txato, foi morto pelos terroristas.",
+  "rating": 7.3,
+  "genres": [
+    "drama",
+    "guerra",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 85964,
+  "xtream": {
+    "seriesId": 1005
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2391947",
+          "episodeId": 2391947,
+          "season": 1,
+          "episode": 1,
+          "title": "Patria (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391948",
+          "episodeId": 2391948,
+          "season": 1,
+          "episode": 2,
+          "title": "Patria (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391949",
+          "episodeId": 2391949,
+          "season": 1,
+          "episode": 3,
+          "title": "Patria (2020) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391950",
+          "episodeId": 2391950,
+          "season": 1,
+          "episode": 4,
+          "title": "Patria (2020) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391951",
+          "episodeId": 2391951,
+          "season": 1,
+          "episode": 5,
+          "title": "Patria (2020) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391952",
+          "episodeId": 2391952,
+          "season": 1,
+          "episode": 6,
+          "title": "Patria (2020) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391953",
+          "episodeId": 2391953,
+          "season": 1,
+          "episode": 7,
+          "title": "Patria (2020) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2391954",
+          "episodeId": 2391954,
+          "season": 1,
+          "episode": 8,
+          "title": "Patria (2020) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "series_7206",
+  "type": "series",
+  "title": "Duas Covas",
+  "originalTitle": "Dos tumbas",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/fNdUF2iL5CuCvhDifL1VFrvc8zJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/50ycQZGBRwVjVk0ZrERJRls2Wto.jpg",
+  "overview": "Quando o desaparecimento de duas adolescentes abala uma cidadezinha costeira, uma avó desolada arrisca tudo para descobrir a verdade e sair em busca de vingança.",
+  "rating": 6.5,
+  "genres": [
+    "misterio",
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 280888,
+  "xtream": {
+    "seriesId": 7206
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2561614",
+          "episodeId": 2561614,
+          "season": 1,
+          "episode": 1,
+          "title": "Duas Covas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561615",
+          "episodeId": 2561615,
+          "season": 1,
+          "episode": 2,
+          "title": "Duas Covas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561616",
+          "episodeId": 2561616,
+          "season": 1,
+          "episode": 3,
+          "title": "Duas Covas S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

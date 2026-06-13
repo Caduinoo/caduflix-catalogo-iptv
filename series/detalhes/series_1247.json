@@ -1,0 +1,74 @@
+{
+  "id": "series_1247",
+  "type": "series",
+  "title": "O Reino Perdido dos Piratas",
+  "originalTitle": "The Lost Pirate Kingdom",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/kqU5UF01hIheEXVRzG1pCFchjLy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/61AZhYnjayWHld2ocdYtX9k6PKH.jpg",
+  "overview": "Nesta série documental, os piratas do Caribe da vida real roubam os tesouros do mundo e formam uma república surpreendentemente igualitária.",
+  "rating": 7.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 118815,
+  "xtream": {
+    "seriesId": 1247
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2403166",
+          "episodeId": 2403166,
+          "season": 1,
+          "episode": 1,
+          "title": "O Reino Perdido dos Piratas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403167",
+          "episodeId": 2403167,
+          "season": 1,
+          "episode": 2,
+          "title": "O Reino Perdido dos Piratas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403168",
+          "episodeId": 2403168,
+          "season": 1,
+          "episode": 3,
+          "title": "O Reino Perdido dos Piratas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403169",
+          "episodeId": 2403169,
+          "season": 1,
+          "episode": 4,
+          "title": "O Reino Perdido dos Piratas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403170",
+          "episodeId": 2403170,
+          "season": 1,
+          "episode": 5,
+          "title": "O Reino Perdido dos Piratas S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403171",
+          "episodeId": 2403171,
+          "season": 1,
+          "episode": 6,
+          "title": "O Reino Perdido dos Piratas S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

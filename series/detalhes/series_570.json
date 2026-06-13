@@ -1,0 +1,76 @@
+{
+  "id": "series_570",
+  "type": "series",
+  "title": "Vampiros",
+  "originalTitle": "Vampires",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/phQBw0g8NnsJxHa1YgtM82fIVHt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2tNgAVye3gWttMdmudnYUBdh5YE.jpg",
+  "overview": "Metade humana, metade vampira, uma jovem parisiense tenta lidar com seus novos poderes, enfrenta uma crise familiar e foge de uma comunidade secreta de vampiros.",
+  "rating": 7.4,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 99935,
+  "xtream": {
+    "seriesId": 570
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2367149",
+          "episodeId": 2367149,
+          "season": 1,
+          "episode": 1,
+          "title": "Vampiros S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367150",
+          "episodeId": 2367150,
+          "season": 1,
+          "episode": 2,
+          "title": "Vampiros S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367151",
+          "episodeId": 2367151,
+          "season": 1,
+          "episode": 3,
+          "title": "Vampiros S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367152",
+          "episodeId": 2367152,
+          "season": 1,
+          "episode": 4,
+          "title": "Vampiros S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367153",
+          "episodeId": 2367153,
+          "season": 1,
+          "episode": 5,
+          "title": "Vampiros S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2367154",
+          "episodeId": 2367154,
+          "season": 1,
+          "episode": 6,
+          "title": "Vampiros S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

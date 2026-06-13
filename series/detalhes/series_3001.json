@@ -1,0 +1,72 @@
+{
+  "id": "series_3001",
+  "type": "series",
+  "title": "Reign Supreme",
+  "originalTitle": "Reign Supreme",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w780/f1sONdnwAR9fJNW7rp5VmGjGYTl.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Esta série conta a história de dois amigos que se tornaram os pioneiros do hip-hop francês.",
+  "rating": 7,
+  "genres": [],
+  "producer": "netflix",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 3001
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2461779",
+          "episodeId": 2461779,
+          "season": 1,
+          "episode": 1,
+          "title": "Reign Supreme (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461780",
+          "episodeId": 2461780,
+          "season": 1,
+          "episode": 2,
+          "title": "Reign Supreme (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461781",
+          "episodeId": 2461781,
+          "season": 1,
+          "episode": 3,
+          "title": "Reign Supreme (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461782",
+          "episodeId": 2461782,
+          "season": 1,
+          "episode": 4,
+          "title": "Reign Supreme (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461783",
+          "episodeId": 2461783,
+          "season": 1,
+          "episode": 5,
+          "title": "Reign Supreme (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461784",
+          "episodeId": 2461784,
+          "season": 1,
+          "episode": 6,
+          "title": "Reign Supreme (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

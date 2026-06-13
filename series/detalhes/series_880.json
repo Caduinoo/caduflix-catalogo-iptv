@@ -1,0 +1,85 @@
+{
+  "id": "series_880",
+  "type": "series",
+  "title": "Curon",
+  "originalTitle": "Curon",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/vmNpI4C0LDfWGiSYWyKLVkCSaOi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oy66AgNNspshYjRK00mJYBRbimn.jpg",
+  "overview": "Depois de 17 anos, uma mulher volta para sua cidade natal com os filhos gêmeos adolescentes. Mas ela desaparece, e os dois devem enfrentar o passado sombrio da família.",
+  "rating": 6.604,
+  "genres": [
+    "drama",
+    "misterio",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 103849,
+  "xtream": {
+    "seriesId": 880
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2387354",
+          "episodeId": 2387354,
+          "season": 1,
+          "episode": 1,
+          "title": "Curon S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387355",
+          "episodeId": 2387355,
+          "season": 1,
+          "episode": 2,
+          "title": "Curon S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387356",
+          "episodeId": 2387356,
+          "season": 1,
+          "episode": 3,
+          "title": "Curon S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387357",
+          "episodeId": 2387357,
+          "season": 1,
+          "episode": 4,
+          "title": "Curon S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387358",
+          "episodeId": 2387358,
+          "season": 1,
+          "episode": 5,
+          "title": "Curon S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387359",
+          "episodeId": 2387359,
+          "season": 1,
+          "episode": 6,
+          "title": "Curon S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2387360",
+          "episodeId": 2387360,
+          "season": 1,
+          "episode": 7,
+          "title": "Curon S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

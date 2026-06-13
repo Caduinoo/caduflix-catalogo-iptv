@@ -1,0 +1,77 @@
+{
+  "id": "series_946",
+  "type": "series",
+  "title": "The Third Day",
+  "originalTitle": "The Third Day",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/cW3xE7FKgkXRE1RdZyvUJIoDBFg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jIGB53Yto6xOFrFJoOjGKQ9V0ak.jpg",
+  "overview": "Sam e Helen, duas pessoas que, atraídas por razões diferentes, viajam separadamente para uma misteriosa ilha da costa britânica. Ali, enquanto fantasia e realidade se confundem, ambos descobrem que os locais estão dispostos a preservar seus segredos a qualquer custo.",
+  "rating": 6.478,
+  "genres": [
+    "misterio",
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 90259,
+  "xtream": {
+    "seriesId": 946
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2388946",
+          "episodeId": 2388946,
+          "season": 1,
+          "episode": 1,
+          "title": "The Third Day S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388947",
+          "episodeId": 2388947,
+          "season": 1,
+          "episode": 2,
+          "title": "The Third Day S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388948",
+          "episodeId": 2388948,
+          "season": 1,
+          "episode": 3,
+          "title": "The Third Day S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388949",
+          "episodeId": 2388949,
+          "season": 1,
+          "episode": 4,
+          "title": "The Third Day S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388950",
+          "episodeId": 2388950,
+          "season": 1,
+          "episode": 5,
+          "title": "The Third Day S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388951",
+          "episodeId": 2388951,
+          "season": 1,
+          "episode": 6,
+          "title": "The Third Day S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

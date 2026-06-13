@@ -1,0 +1,42 @@
+{
+  "id": "series_1239",
+  "type": "series",
+  "title": "Houdini",
+  "originalTitle": "Houdini",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/ba43f5KXfH01ipDmDR4lZSQyDkL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/acYoi7709Uimozh6csIB4qhuL54.jpg",
+  "overview": "Estrelando o vencedor do Oscar®, Adrien Brody e Kristen Connolly, HOUDINI, encena a transformação do mestre da fuga de renome mundial de imigrante para estrela.",
+  "rating": 7.008,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 49157,
+  "xtream": {
+    "seriesId": 1239
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2402783",
+          "episodeId": 2402783,
+          "season": 1,
+          "episode": 1,
+          "title": "Houdini S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2402784",
+          "episodeId": 2402784,
+          "season": 1,
+          "episode": 2,
+          "title": "Houdini S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

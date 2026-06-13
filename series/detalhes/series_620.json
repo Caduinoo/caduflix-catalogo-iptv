@@ -1,0 +1,88 @@
+{
+  "id": "series_620",
+  "type": "series",
+  "title": "Il processo",
+  "originalTitle": "Il processo",
+  "year": 1978,
+  "poster": "https://image.tmdb.org/t/p/w500/lQGI8jA2PH2mYD8aOpTQeHE5CSg.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "O assassinato de uma adolescente afeta uma promotora pública ligada à vítima, um advogado atrás de um caso de sucesso e uma suspeita que diz ser inocente.",
+  "rating": 9.5,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": 196141,
+  "xtream": {
+    "seriesId": 620
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2369649",
+          "episodeId": 2369649,
+          "season": 1,
+          "episode": 1,
+          "title": "Il processo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369650",
+          "episodeId": 2369650,
+          "season": 1,
+          "episode": 2,
+          "title": "Il processo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369651",
+          "episodeId": 2369651,
+          "season": 1,
+          "episode": 3,
+          "title": "Il processo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369652",
+          "episodeId": 2369652,
+          "season": 1,
+          "episode": 4,
+          "title": "Il processo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369653",
+          "episodeId": 2369653,
+          "season": 1,
+          "episode": 5,
+          "title": "Il processo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369654",
+          "episodeId": 2369654,
+          "season": 1,
+          "episode": 6,
+          "title": "Il processo S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369655",
+          "episodeId": 2369655,
+          "season": 1,
+          "episode": 7,
+          "title": "Il processo S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2369656",
+          "episodeId": 2369656,
+          "season": 1,
+          "episode": 8,
+          "title": "Il processo S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

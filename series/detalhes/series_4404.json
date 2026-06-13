@@ -1,0 +1,75 @@
+{
+  "id": "series_4404",
+  "type": "series",
+  "title": "Comedy Royale",
+  "originalTitle": "코미디 로얄",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/gVZvET4bEsoLuPi0z4pLiF9Dt3m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yPHpicdf1KxCI3TQjMBVRjpQMSZ.jpg",
+  "overview": "Vinte comediantes coreanos competem pela chance de apresentar um especial da Netflix, em uma batalha que vai fazer você rolar de rir.",
+  "rating": 6,
+  "genres": [
+    "reality",
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 238046,
+  "xtream": {
+    "seriesId": 4404
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2496326",
+          "episodeId": 2496326,
+          "season": 1,
+          "episode": 1,
+          "title": "Comedy Royale [L] (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2496327",
+          "episodeId": 2496327,
+          "season": 1,
+          "episode": 2,
+          "title": "Comedy Royale [L] (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2496328",
+          "episodeId": 2496328,
+          "season": 1,
+          "episode": 3,
+          "title": "Comedy Royale [L] (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2496329",
+          "episodeId": 2496329,
+          "season": 1,
+          "episode": 4,
+          "title": "Comedy Royale [L] (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2496330",
+          "episodeId": 2496330,
+          "season": 1,
+          "episode": 5,
+          "title": "Comedy Royale [L] (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2496331",
+          "episodeId": 2496331,
+          "season": 1,
+          "episode": 6,
+          "title": "Comedy Royale [L] (2023) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

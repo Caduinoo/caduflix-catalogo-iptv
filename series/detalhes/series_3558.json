@@ -1,0 +1,59 @@
+{
+  "id": "series_3558",
+  "type": "series",
+  "title": "Casa na Natureza",
+  "originalTitle": "Home in the Wild",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/ulhDiOx1NQOgp9voatqflKKKgmY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q3hAsycLp8ndUgL35ufsVDyVCCQ.jpg",
+  "overview": "Vendo o impacto positivo da natureza sobre o filho com transtorno genético, Jim e Tori Baird procuram estabelecer uma vida ao ar livre para a família.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "reality"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 225453,
+  "xtream": {
+    "seriesId": 3558
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2475007",
+          "episodeId": 2475007,
+          "season": 1,
+          "episode": 1,
+          "title": "Um Lar na Natureza (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475008",
+          "episodeId": 2475008,
+          "season": 1,
+          "episode": 2,
+          "title": "Um Lar na Natureza (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475009",
+          "episodeId": 2475009,
+          "season": 1,
+          "episode": 3,
+          "title": "Um Lar na Natureza (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2475010",
+          "episodeId": 2475010,
+          "season": 1,
+          "episode": 4,
+          "title": "Um Lar na Natureza (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

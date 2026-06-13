@@ -1,0 +1,75 @@
+{
+  "id": "series_5481",
+  "type": "series",
+  "title": "Operação FBI",
+  "originalTitle": "FEDS",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/7wwo2IJZExNEDDSkvKrf2S8BBlD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sFs3DIc4GNLwrijEfuyjYEr9W8w.jpg",
+  "overview": "As táticas engenhosas e os julgamentos difíceis que fazem do FBI a agência de combate ao crime de elite do mundo.",
+  "rating": 6.5,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 238699,
+  "xtream": {
+    "seriesId": 5481
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2522115",
+          "episodeId": 2522115,
+          "season": 1,
+          "episode": 1,
+          "title": "Operacao FBI S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522116",
+          "episodeId": 2522116,
+          "season": 1,
+          "episode": 2,
+          "title": "Operacao FBI S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522117",
+          "episodeId": 2522117,
+          "season": 1,
+          "episode": 3,
+          "title": "Operacao FBI S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522118",
+          "episodeId": 2522118,
+          "season": 1,
+          "episode": 4,
+          "title": "Operacao FBI S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522119",
+          "episodeId": 2522119,
+          "season": 1,
+          "episode": 5,
+          "title": "Operacao FBI S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2522120",
+          "episodeId": 2522120,
+          "season": 1,
+          "episode": 6,
+          "title": "Operacao FBI S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

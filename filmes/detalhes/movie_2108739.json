@@ -1,0 +1,38 @@
+{
+  "id": "movie_2108739",
+  "type": "movie",
+  "title": "Queens",
+  "originalTitle": "Queens",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/isLZ75DxBAVZ3y9zwLX1QvI3DzE.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 5,
+  "genres": [
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Joshua Hernández",
+      "character": "Tommy Little",
+      "profile": ""
+    },
+    {
+      "name": "Angela Grace Martin",
+      "character": "Sadie Goodwyn",
+      "profile": ""
+    },
+    {
+      "name": "Janet Findling",
+      "character": "Elevator Lady",
+      "profile": ""
+    }
+  ],
+  "director": "Lucas Omar",
+  "tmdbId": 647316,
+  "xtream": {
+    "streamId": 2108739,
+    "containerExtension": "mp4"
+  }
+}

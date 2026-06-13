@@ -1,0 +1,35 @@
+{
+  "id": "movie_2310560",
+  "type": "movie",
+  "title": "Host",
+  "originalTitle": "Host",
+  "year": 2012,
+  "poster": "https://image.tmdb.org/t/p/w500/6Pv9oAhUQ6HkhCbXaGGjqRF1HW4.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5.8,
+  "runtime": 0,
+  "genres": [
+    "ficcao",
+    "drama",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Andrew Roth",
+      "character": "Clo",
+      "profile": "https://image.tmdb.org/t/p/w185/bA9WNbID83BVjbaixLJ4SVMh73J.jpg"
+    },
+    {
+      "name": "Dana Jesberger",
+      "character": "Human",
+      "profile": ""
+    }
+  ],
+  "director": "Chris R. Notarile",
+  "tmdbId": 286484,
+  "xtream": {
+    "streamId": 2310560,
+    "containerExtension": "mp4"
+  }
+}

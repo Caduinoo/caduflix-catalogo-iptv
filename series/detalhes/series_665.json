@@ -1,0 +1,53 @@
+{
+  "id": "series_665",
+  "type": "series",
+  "title": "Blood Machines",
+  "originalTitle": "Blood Machines",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/63YJqpUJZ1d6JmeRawLMy4yYKsN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3KMJEiTSWo4RT9iAOnfgRFgWzvl.jpg",
+  "overview": "",
+  "rating": 6,
+  "genres": [
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 104361,
+  "xtream": {
+    "seriesId": 665
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2370860",
+          "episodeId": 2370860,
+          "season": 1,
+          "episode": 1,
+          "title": "Blood Machines [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370861",
+          "episodeId": 2370861,
+          "season": 1,
+          "episode": 2,
+          "title": "Blood Machines [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370862",
+          "episodeId": 2370862,
+          "season": 1,
+          "episode": 3,
+          "title": "Blood Machines [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

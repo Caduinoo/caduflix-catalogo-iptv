@@ -1,0 +1,74 @@
+{
+  "id": "series_8020",
+  "type": "series",
+  "title": "Eu, Gordon Ramsay",
+  "originalTitle": "Being Gordon Ramsay",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/2n4dI6F0vRZJHSMep9vv9CS7FoE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/guF2YM18TvKM3j2k2K1BQncew0y.jpg",
+  "overview": "Acompanhe o renomado chef Gordon Ramsay nos bastidores enquanto ele lida com a vida familiar, um império global e seu maior lançamento até agora neste documentário apetitoso.",
+  "rating": 7.4,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 262273,
+  "xtream": {
+    "seriesId": 8020
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575347",
+          "episodeId": 2575347,
+          "season": 1,
+          "episode": 1,
+          "title": "Eu Gordon Ramsay S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575348",
+          "episodeId": 2575348,
+          "season": 1,
+          "episode": 2,
+          "title": "Eu Gordon Ramsay S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575349",
+          "episodeId": 2575349,
+          "season": 1,
+          "episode": 3,
+          "title": "Eu Gordon Ramsay S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575350",
+          "episodeId": 2575350,
+          "season": 1,
+          "episode": 4,
+          "title": "Eu Gordon Ramsay S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575351",
+          "episodeId": 2575351,
+          "season": 1,
+          "episode": 5,
+          "title": "Eu Gordon Ramsay S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575352",
+          "episodeId": 2575352,
+          "season": 1,
+          "episode": 6,
+          "title": "Eu Gordon Ramsay S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

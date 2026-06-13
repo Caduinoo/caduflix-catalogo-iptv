@@ -1,0 +1,94 @@
+{
+  "id": "series_8092",
+  "type": "series",
+  "title": "Release that Witch",
+  "originalTitle": "放开那个女巫",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/xoWmN0GRXtriUFMb8lJCyezQD5Y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/t1lGQIFl5lAwxJ6yWtuONYJcWFL.jpg",
+  "overview": "Em uma época em que todos odeiam bruxas, um príncipe reencarnado fará tudo ao seu alcance para trazer paz entre bruxas e pessoas comuns.",
+  "rating": 8.1,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 298026,
+  "xtream": {
+    "seriesId": 8092
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2576383",
+          "episodeId": 2576383,
+          "season": 1,
+          "episode": 1,
+          "title": "Release that Witch [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576384",
+          "episodeId": 2576384,
+          "season": 1,
+          "episode": 2,
+          "title": "Release that Witch [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576385",
+          "episodeId": 2576385,
+          "season": 1,
+          "episode": 3,
+          "title": "Release that Witch [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576386",
+          "episodeId": 2576386,
+          "season": 1,
+          "episode": 4,
+          "title": "Release that Witch [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576387",
+          "episodeId": 2576387,
+          "season": 1,
+          "episode": 5,
+          "title": "Release that Witch [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576388",
+          "episodeId": 2576388,
+          "season": 1,
+          "episode": 6,
+          "title": "Release that Witch [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576389",
+          "episodeId": 2576389,
+          "season": 1,
+          "episode": 7,
+          "title": "Release that Witch [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2576390",
+          "episodeId": 2576390,
+          "season": 1,
+          "episode": 8,
+          "title": "Release that Witch [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

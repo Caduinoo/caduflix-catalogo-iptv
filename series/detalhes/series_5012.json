@@ -1,0 +1,78 @@
+{
+  "id": "series_5012",
+  "type": "series",
+  "title": "ARK: A Série Animada",
+  "originalTitle": "ARK: The Animated Series",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/3qzBCXJLifxund1QMa8BiXmH3xp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wbwvYUCr0dIZYISXPWFSqQiJfsO.jpg",
+  "overview": "Uma paleontóloga do século 21 vê-se ressuscitada em uma ilha misteriosa, habitada por dinossauros e outras criaturas já extintas, e luta para sobreviver!",
+  "rating": 7.839,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 123625,
+  "xtream": {
+    "seriesId": 5012
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2511290",
+          "episodeId": 2511290,
+          "season": 1,
+          "episode": 1,
+          "title": "ARK The Animated Series [L] (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511291",
+          "episodeId": 2511291,
+          "season": 1,
+          "episode": 2,
+          "title": "ARK The Animated Series [L] (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511292",
+          "episodeId": 2511292,
+          "season": 1,
+          "episode": 3,
+          "title": "ARK The Animated Series [L] (2024) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511293",
+          "episodeId": 2511293,
+          "season": 1,
+          "episode": 4,
+          "title": "ARK The Animated Series [L] (2024) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511294",
+          "episodeId": 2511294,
+          "season": 1,
+          "episode": 5,
+          "title": "ARK The Animated Series [L] (2024) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511295",
+          "episodeId": 2511295,
+          "season": 1,
+          "episode": 6,
+          "title": "ARK The Animated Series [L] (2024) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "movie_2175043",
+  "type": "movie",
+  "title": "The Dogs",
+  "originalTitle": "The Dogs",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/xT8edisDtbOA8nUzf6IG14MTv3x.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 3,
+  "genres": [
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Archie",
+      "character": "The Dog",
+      "profile": ""
+    },
+    {
+      "name": "Tea Leaf",
+      "character": "The Other Dog",
+      "profile": ""
+    }
+  ],
+  "director": "George Moore Chadwick",
+  "tmdbId": 1301739,
+  "xtream": {
+    "streamId": 2175043,
+    "containerExtension": "mp4"
+  }
+}

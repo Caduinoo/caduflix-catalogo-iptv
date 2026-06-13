@@ -1,0 +1,66 @@
+{
+  "id": "series_1031",
+  "type": "series",
+  "title": "Move",
+  "originalTitle": "Move",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/mhKG2PQWikMb7IkdNhCaR9AHS2f.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2sWbm8CRQbgCqDaCoJKIjitnadY.jpg",
+  "overview": "Esta série documental mostra o brilho e o talento dos dançarinos e coreógrafos que estão moldando a arte do movimento ao redor do mundo.",
+  "rating": 6.9,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 111726,
+  "xtream": {
+    "seriesId": 1031
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2394197",
+          "episodeId": 2394197,
+          "season": 1,
+          "episode": 1,
+          "title": "Move [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394198",
+          "episodeId": 2394198,
+          "season": 1,
+          "episode": 2,
+          "title": "Move [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394199",
+          "episodeId": 2394199,
+          "season": 1,
+          "episode": 3,
+          "title": "Move [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394200",
+          "episodeId": 2394200,
+          "season": 1,
+          "episode": 4,
+          "title": "Move [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2394201",
+          "episodeId": 2394201,
+          "season": 1,
+          "episode": 5,
+          "title": "Move [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

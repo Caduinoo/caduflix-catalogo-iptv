@@ -1,0 +1,58 @@
+{
+  "id": "series_3174",
+  "type": "series",
+  "title": "Catfish UK",
+  "originalTitle": "Catfish UK",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/c9T0Di5GrU5kXtjVB8VqaqiWMGY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5zbXLGBc47d9fBJ7sdu26e3q29s.jpg",
+  "overview": "Nos últimos 10 anos, Catfish tem ajudado pessoas esperançosas desesperadas a descobrirem com quem elas realmente têm se comunicado. E agora é hora de ir pescar no Reino Unido!",
+  "rating": 7.8,
+  "genres": [
+    "reality"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 124131,
+  "xtream": {
+    "seriesId": 3174
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2465959",
+          "episodeId": 2465959,
+          "season": 1,
+          "episode": 1,
+          "title": "Catfish UK (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2465960",
+          "episodeId": 2465960,
+          "season": 1,
+          "episode": 2,
+          "title": "Catfish UK (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2465961",
+          "episodeId": 2465961,
+          "season": 1,
+          "episode": 3,
+          "title": "Catfish UK (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2465962",
+          "episodeId": 2465962,
+          "season": 1,
+          "episode": 4,
+          "title": "Catfish UK (2021) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "series_1220",
+  "type": "series",
+  "title": "Cidade de Fantasmas",
+  "originalTitle": "City of Ghosts",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/rGSNlbq14XAn92SH22j3kao7CbS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qdQPYZc6MYnmmzxhmccCnQZI6NA.jpg",
+  "overview": "O Chef Jo está abrindo um restaurante em Boyle Heights, mas coisas estranhas não param de acontecer. Zelda descobre o passado do local e ajuda a esclarecer o mistério.",
+  "rating": 6.6,
+  "genres": [
+    "infantil",
+    "animacao",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 119831,
+  "xtream": {
+    "seriesId": 1220
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2401884",
+          "episodeId": 2401884,
+          "season": 1,
+          "episode": 1,
+          "title": "Cidade de Fantasmas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401885",
+          "episodeId": 2401885,
+          "season": 1,
+          "episode": 2,
+          "title": "Cidade de Fantasmas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401886",
+          "episodeId": 2401886,
+          "season": 1,
+          "episode": 3,
+          "title": "Cidade de Fantasmas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401887",
+          "episodeId": 2401887,
+          "season": 1,
+          "episode": 4,
+          "title": "Cidade de Fantasmas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401888",
+          "episodeId": 2401888,
+          "season": 1,
+          "episode": 5,
+          "title": "Cidade de Fantasmas S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401889",
+          "episodeId": 2401889,
+          "season": 1,
+          "episode": 6,
+          "title": "Cidade de Fantasmas S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

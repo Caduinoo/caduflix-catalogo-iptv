@@ -1,0 +1,59 @@
+{
+  "id": "series_5457",
+  "type": "series",
+  "title": "The Jetty",
+  "originalTitle": "The Jetty",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/tnAqJLimm8aW6A1wkOPul3IbQBb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e6B2PN4iAtqXwSbguBEFY9lRwNO.jpg",
+  "overview": "Acompanha a detetive Ember Manning, que precisa descobrir como um incêndio em uma casa de férias está ligado a um jornalista de podcast que investiga o caso de uma pessoa desaparecida e um triângulo amoroso ilícito.",
+  "rating": 6.6,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 233324,
+  "xtream": {
+    "seriesId": 5457
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2521364",
+          "episodeId": 2521364,
+          "season": 1,
+          "episode": 1,
+          "title": "The Jetty [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2521365",
+          "episodeId": 2521365,
+          "season": 1,
+          "episode": 2,
+          "title": "The Jetty [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2521366",
+          "episodeId": 2521366,
+          "season": 1,
+          "episode": 3,
+          "title": "The Jetty [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2521367",
+          "episodeId": 2521367,
+          "season": 1,
+          "episode": 4,
+          "title": "The Jetty [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

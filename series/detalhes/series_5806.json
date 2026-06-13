@@ -1,0 +1,51 @@
+{
+  "id": "series_5806",
+  "type": "series",
+  "title": "Show do Milhão PicPay",
+  "originalTitle": "Show do Milhão PicPay",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/3VBAWKk77xcEhLMUlpGSqILv1Rb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m8VioOnKKZJaaa3xDL73sCd7aQL.jpg",
+  "overview": "Com a ajuda dos universitários, das placas, das cartas e dos pulos, os participantes do programa de perguntas e respostas podem ganhar até 1 milhão de reais.",
+  "rating": 10,
+  "genres": [
+    "reality",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 133224,
+  "xtream": {
+    "seriesId": 5806
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2530927",
+          "episodeId": 2530927,
+          "season": 1,
+          "episode": 1,
+          "title": "Show do Milhao PicPay S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530928",
+          "episodeId": 2530928,
+          "season": 1,
+          "episode": 2,
+          "title": "Show do Milhao PicPay S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530929",
+          "episodeId": 2530929,
+          "season": 1,
+          "episode": 3,
+          "title": "Show do Milhao PicPay S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

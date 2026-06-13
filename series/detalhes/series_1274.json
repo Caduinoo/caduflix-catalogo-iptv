@@ -1,0 +1,94 @@
+{
+  "id": "series_1274",
+  "type": "series",
+  "title": "Leonardo",
+  "originalTitle": "Leonardo",
+  "year": 2011,
+  "poster": "https://image.tmdb.org/t/p/w500/s6AnCBdjrMkhgrJTccM7wP8jjlb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rVpZtvj4a3fhNX88lAHapd7Ila7.jpg",
+  "overview": "As aventuras de Leonardo Da Vinci adolescente e seu grupo de amigos no século XV.",
+  "rating": 7.5,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "familia",
+    "infantil"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 39888,
+  "xtream": {
+    "seriesId": 1274
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2403874",
+          "episodeId": 2403874,
+          "season": 1,
+          "episode": 1,
+          "title": "Leonardo [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403875",
+          "episodeId": 2403875,
+          "season": 1,
+          "episode": 2,
+          "title": "Leonardo [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403876",
+          "episodeId": 2403876,
+          "season": 1,
+          "episode": 3,
+          "title": "Leonardo [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403877",
+          "episodeId": 2403877,
+          "season": 1,
+          "episode": 4,
+          "title": "Leonardo [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403878",
+          "episodeId": 2403878,
+          "season": 1,
+          "episode": 5,
+          "title": "Leonardo [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403879",
+          "episodeId": 2403879,
+          "season": 1,
+          "episode": 6,
+          "title": "Leonardo [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403880",
+          "episodeId": 2403880,
+          "season": 1,
+          "episode": 7,
+          "title": "Leonardo [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403881",
+          "episodeId": 2403881,
+          "season": 1,
+          "episode": 8,
+          "title": "Leonardo [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

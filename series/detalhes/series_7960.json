@@ -1,0 +1,51 @@
+{
+  "id": "series_7960",
+  "type": "series",
+  "title": "Vanished",
+  "originalTitle": "Vanished",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/6Htrg4SobTHu9aYaYLGZaNLJvLX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qI2pX6IWQojvh2kaLv6M233Iwqb.jpg",
+  "overview": "As férias românticas de Alice Monroe na França se tornam um mistério perigoso quando seu namorado Tom Parker desaparece de um trem para Arles, forçando-a a descobrir verdades ocultas sobre seu passado.",
+  "rating": 6.767,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 287231,
+  "xtream": {
+    "seriesId": 7960
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2574605",
+          "episodeId": 2574605,
+          "season": 1,
+          "episode": 1,
+          "title": "Vanished S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574606",
+          "episodeId": 2574606,
+          "season": 1,
+          "episode": 2,
+          "title": "Vanished S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2574607",
+          "episodeId": 2574607,
+          "season": 1,
+          "episode": 3,
+          "title": "Vanished S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

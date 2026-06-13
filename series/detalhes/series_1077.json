@@ -1,0 +1,48 @@
+{
+  "id": "series_1077",
+  "type": "series",
+  "title": "Black Narcissus",
+  "originalTitle": "Black Narcissus",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w780/uYMRWa178FDG5vphxjJSPS9w0BU.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "1934. Em um remoto palácio no topo do Himalaias conhecido como a Casa das Mulheres, vive a irmã Clodagh junto de outras noviças. Descobrindo-se incontrolavelmente atraída pelo problemático agente de terras Sr. Dean, a crescente paixão da irmã Clodagh espelha o trágico destino do amor condenado que uma vez se desenrolou para a princesa nepalesa, há muito falecida, Srimati.",
+  "rating": 7,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 1077
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2395995",
+          "episodeId": 2395995,
+          "season": 1,
+          "episode": 1,
+          "title": "Black Narcissus [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395996",
+          "episodeId": 2395996,
+          "season": 1,
+          "episode": 2,
+          "title": "Black Narcissus [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395997",
+          "episodeId": 2395997,
+          "season": 1,
+          "episode": 3,
+          "title": "Black Narcissus [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

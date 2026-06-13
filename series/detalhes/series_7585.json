@@ -1,0 +1,88 @@
+{
+  "id": "series_7585",
+  "type": "series",
+  "title": "My Safe Zone",
+  "originalTitle": "My Safe Zone",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w780/5d0dBLwbBOwcfBMjHOmtcGWwHBt.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 10,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7585
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2568516",
+          "episodeId": 2568516,
+          "season": 1,
+          "episode": 1,
+          "title": "My Safe Zone [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568517",
+          "episodeId": 2568517,
+          "season": 1,
+          "episode": 2,
+          "title": "My Safe Zone [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568518",
+          "episodeId": 2568518,
+          "season": 1,
+          "episode": 3,
+          "title": "My Safe Zone [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568519",
+          "episodeId": 2568519,
+          "season": 1,
+          "episode": 4,
+          "title": "My Safe Zone [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568520",
+          "episodeId": 2568520,
+          "season": 1,
+          "episode": 5,
+          "title": "My Safe Zone [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568521",
+          "episodeId": 2568521,
+          "season": 1,
+          "episode": 6,
+          "title": "My Safe Zone [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568522",
+          "episodeId": 2568522,
+          "season": 1,
+          "episode": 7,
+          "title": "My Safe Zone [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568523",
+          "episodeId": 2568523,
+          "season": 1,
+          "episode": 8,
+          "title": "My Safe Zone [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

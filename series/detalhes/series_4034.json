@@ -1,0 +1,58 @@
+{
+  "id": "series_4034",
+  "type": "series",
+  "title": "Beckham",
+  "originalTitle": "Beckham",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/y9d3trMAczZWFqYvGSW6V695vf3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aYpkxxsDznjkAsJ7tsSH7I0ZbGT.jpg",
+  "overview": "Com imagens inéditas, esta série documental acompanha a carreira meteórica de David Beckham, da origem humilde ao estrelato no futebol.",
+  "rating": 8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 235345,
+  "xtream": {
+    "seriesId": 4034
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2487186",
+          "episodeId": 2487186,
+          "season": 1,
+          "episode": 1,
+          "title": "Beckham (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2487187",
+          "episodeId": 2487187,
+          "season": 1,
+          "episode": 2,
+          "title": "Beckham (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2487188",
+          "episodeId": 2487188,
+          "season": 1,
+          "episode": 3,
+          "title": "Beckham (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2487189",
+          "episodeId": 2487189,
+          "season": 1,
+          "episode": 4,
+          "title": "Beckham (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

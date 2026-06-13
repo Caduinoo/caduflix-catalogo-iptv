@@ -1,0 +1,91 @@
+{
+  "id": "series_1668",
+  "type": "series",
+  "title": "Todo va a estar bien",
+  "originalTitle": "Todo va a estar bien",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/pfyJTDOXJ5uo8bCXH6OonphxhQ3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pKqFl6dOCx9AHx8uBCOuPaSSyPI.jpg",
+  "overview": "O casamento acabou, mas, pelo bem da filha, eles criaram regras pouco convencionais para manter a família unida.",
+  "rating": 6.8,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 129675,
+  "xtream": {
+    "seriesId": 1668
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2422181",
+          "episodeId": 2422181,
+          "season": 1,
+          "episode": 1,
+          "title": "Todo va a estar bien (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422182",
+          "episodeId": 2422182,
+          "season": 1,
+          "episode": 2,
+          "title": "Todo va a estar bien (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422183",
+          "episodeId": 2422183,
+          "season": 1,
+          "episode": 3,
+          "title": "Todo va a estar bien (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422184",
+          "episodeId": 2422184,
+          "season": 1,
+          "episode": 4,
+          "title": "Todo va a estar bien (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422185",
+          "episodeId": 2422185,
+          "season": 1,
+          "episode": 5,
+          "title": "Todo va a estar bien (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422186",
+          "episodeId": 2422186,
+          "season": 1,
+          "episode": 6,
+          "title": "Todo va a estar bien (2021) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422187",
+          "episodeId": 2422187,
+          "season": 1,
+          "episode": 7,
+          "title": "Todo va a estar bien (2021) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422188",
+          "episodeId": 2422188,
+          "season": 1,
+          "episode": 8,
+          "title": "Todo va a estar bien (2021) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

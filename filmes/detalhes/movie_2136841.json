@@ -1,0 +1,39 @@
+{
+  "id": "movie_2136841",
+  "type": "movie",
+  "title": "Recuerda",
+  "originalTitle": "Recuerda",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/vFhY2Y4qJ9xHwlkpfoZwx30nhnQ.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 0,
+  "genres": [
+    "drama",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Leo Wiznitzer",
+      "character": "Man",
+      "profile": "https://image.tmdb.org/t/p/w185/hMS1eCE7ZccQwDaNz50BrvBXIvL.jpg"
+    },
+    {
+      "name": "Juliette Roy",
+      "character": "Woman",
+      "profile": "https://image.tmdb.org/t/p/w185/jvLS99rQQM4hwopeTFXyd1ccWVe.jpg"
+    },
+    {
+      "name": "Evita Wiznitzer",
+      "character": "Child",
+      "profile": ""
+    }
+  ],
+  "director": "Alberto Serra",
+  "tmdbId": 1082360,
+  "xtream": {
+    "streamId": 2136841,
+    "containerExtension": "mp4"
+  }
+}

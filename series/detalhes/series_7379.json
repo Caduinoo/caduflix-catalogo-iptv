@@ -1,0 +1,74 @@
+{
+  "id": "series_7379",
+  "type": "series",
+  "title": "Matchroom: Lendas do Esporte",
+  "originalTitle": "Matchroom: The Greatest Showmen",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/irhGoNTNsUzemzfCGg80EoIgfUJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ablTteenPiu5mnuIN54IS1c8tWR.jpg",
+  "overview": "Esta série documental acompanha Barry e Eddie Hearn, pai e filho que lutam para levar uma empresa de eventos esportivos a outro patamar.",
+  "rating": 6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 262279,
+  "xtream": {
+    "seriesId": 7379
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2565090",
+          "episodeId": 2565090,
+          "season": 1,
+          "episode": 1,
+          "title": "Matchroom Lendas do Esporte [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565091",
+          "episodeId": 2565091,
+          "season": 1,
+          "episode": 2,
+          "title": "Matchroom Lendas do Esporte [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565092",
+          "episodeId": 2565092,
+          "season": 1,
+          "episode": 3,
+          "title": "Matchroom Lendas do Esporte [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565093",
+          "episodeId": 2565093,
+          "season": 1,
+          "episode": 4,
+          "title": "Matchroom Lendas do Esporte [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565094",
+          "episodeId": 2565094,
+          "season": 1,
+          "episode": 5,
+          "title": "Matchroom Lendas do Esporte [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565095",
+          "episodeId": 2565095,
+          "season": 1,
+          "episode": 6,
+          "title": "Matchroom Lendas do Esporte [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "movie_2157811",
+  "type": "movie",
+  "title": "What a Nightmare, Charlie Brown!",
+  "originalTitle": "What a Nightmare, Charlie Brown!",
+  "year": 1978,
+  "poster": "https://image.tmdb.org/t/p/w500/mruSx5m24rk1YRSMnhvg53gDqGs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sSDjekmOVlhBGnEtT1pdMq55zRD.jpg",
+  "overview": "",
+  "rating": 6.8,
+  "runtime": 24,
+  "genres": [
+    "animacao",
+    "familia",
+    "infantil",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Bill Melendez",
+      "character": "Snoopy (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/se2qF1kdaKTwDa69xjzA3j2gKaG.jpg"
+    },
+    {
+      "name": "Liam Martin",
+      "character": "Charlie Brown (voice)",
+      "profile": ""
+    }
+  ],
+  "director": "Phil Roman",
+  "tmdbId": 55444,
+  "xtream": {
+    "streamId": 2157811,
+    "containerExtension": "mp4"
+  }
+}

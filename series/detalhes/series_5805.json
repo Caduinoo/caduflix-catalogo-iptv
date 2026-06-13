@@ -1,0 +1,59 @@
+{
+  "id": "series_5805",
+  "type": "series",
+  "title": "Tô Nessa",
+  "originalTitle": "Tô Nessa",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/5ekr6786E9KxFm1LNTwNQl0PzKh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1QzpgicGMi0qjIxQVblsyCp7S6z.jpg",
+  "overview": "Mirinda se aventura em diferentes trabalhos para manter os boletos em dia. Com humor e afeto, ela envolve as três filhas e a neta na tentativa de fazer o negócio dar certo.",
+  "rating": 0,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 271201,
+  "xtream": {
+    "seriesId": 5805
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2530923",
+          "episodeId": 2530923,
+          "season": 1,
+          "episode": 1,
+          "title": "To Nessa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530924",
+          "episodeId": 2530924,
+          "season": 1,
+          "episode": 2,
+          "title": "To Nessa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530925",
+          "episodeId": 2530925,
+          "season": 1,
+          "episode": 3,
+          "title": "To Nessa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530926",
+          "episodeId": 2530926,
+          "season": 1,
+          "episode": 4,
+          "title": "To Nessa S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

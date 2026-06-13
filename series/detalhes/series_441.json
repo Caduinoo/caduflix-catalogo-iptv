@@ -1,0 +1,90 @@
+{
+  "id": "series_441",
+  "type": "series",
+  "title": "Os Miseráveis",
+  "originalTitle": "Les Misérables",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/bGmYzPdezZc71wXFa9n8mrc4gWS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uyN1hL0T7bda47EpAtvCsCZfYX2.jpg",
+  "overview": "Contra o pano de fundo épico da França em um momento de agitação civil, \"Les Misérables\" é a história de Jean Valjean, um ex-condenado incapaz de escapar da sombra de sua vida passada.",
+  "rating": 7.3,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 81224,
+  "xtream": {
+    "seriesId": 441
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2362111",
+          "episodeId": 2362111,
+          "season": 1,
+          "episode": 1,
+          "title": "Les Miserables S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362112",
+          "episodeId": 2362112,
+          "season": 1,
+          "episode": 2,
+          "title": "Les Miserables S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362113",
+          "episodeId": 2362113,
+          "season": 1,
+          "episode": 3,
+          "title": "Les Miserables S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362114",
+          "episodeId": 2362114,
+          "season": 1,
+          "episode": 4,
+          "title": "Les Miserables S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362115",
+          "episodeId": 2362115,
+          "season": 1,
+          "episode": 5,
+          "title": "Les Miserables S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362116",
+          "episodeId": 2362116,
+          "season": 1,
+          "episode": 6,
+          "title": "Les Miserables S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362117",
+          "episodeId": 2362117,
+          "season": 1,
+          "episode": 7,
+          "title": "Les Miserables S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362118",
+          "episodeId": 2362118,
+          "season": 1,
+          "episode": 8,
+          "title": "Les Miserables S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "series_4621",
+  "type": "series",
+  "title": "Detetive Forst",
+  "originalTitle": "Forst",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bvggkV5OlLywY427fPkNpge63tU.jpg",
+  "overview": "Suspenso por usar métodos pouco convencionais, um detetive se une a uma jornalista para tentar resolver uma série de assassinatos violentos por conta própria.",
+  "rating": 6.207,
+  "genres": [
+    "crime",
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 217522,
+  "xtream": {
+    "seriesId": 4621
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2502435",
+          "episodeId": 2502435,
+          "season": 1,
+          "episode": 1,
+          "title": "Detective Forst (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2502436",
+          "episodeId": 2502436,
+          "season": 1,
+          "episode": 2,
+          "title": "Detective Forst (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2502437",
+          "episodeId": 2502437,
+          "season": 1,
+          "episode": 3,
+          "title": "Detective Forst (2024) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2502438",
+          "episodeId": 2502438,
+          "season": 1,
+          "episode": 4,
+          "title": "Detective Forst (2024) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2502439",
+          "episodeId": 2502439,
+          "season": 1,
+          "episode": 5,
+          "title": "Detective Forst (2024) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2502440",
+          "episodeId": 2502440,
+          "season": 1,
+          "episode": 6,
+          "title": "Detective Forst (2024) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

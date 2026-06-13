@@ -1,0 +1,68 @@
+{
+  "id": "series_7844",
+  "type": "series",
+  "title": "Terra de Pecados",
+  "originalTitle": "Synden",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/5bWw82nsX9jL0wefKcS0NBLtf9a.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rlTfXiGnDhj8CMm7FK6KW8XFAKA.jpg",
+  "overview": "Depois que um adolescente desaparece, uma policial com vínculos pessoais ao caso embarca em uma investigação tensa, que revela alianças e antigos conflitos familiares.",
+  "rating": 5.4,
+  "genres": [
+    "drama",
+    "crime",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 272586,
+  "xtream": {
+    "seriesId": 7844
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2573092",
+          "episodeId": 2573092,
+          "season": 1,
+          "episode": 1,
+          "title": "Terra de Pecados S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573093",
+          "episodeId": 2573093,
+          "season": 1,
+          "episode": 2,
+          "title": "Terra de Pecados S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573094",
+          "episodeId": 2573094,
+          "season": 1,
+          "episode": 3,
+          "title": "Terra de Pecados S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573095",
+          "episodeId": 2573095,
+          "season": 1,
+          "episode": 4,
+          "title": "Terra de Pecados S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573096",
+          "episodeId": 2573096,
+          "season": 1,
+          "episode": 5,
+          "title": "Terra de Pecados S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

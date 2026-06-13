@@ -1,0 +1,74 @@
+{
+  "id": "series_7552",
+  "type": "series",
+  "title": "Son of a Donkey",
+  "originalTitle": "Son of a Donkey",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/79IS51gwR4WCRMYlRj6ojX9ZDaG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/neqseQCgpeasIZm3e6LM3v9ZfPU.jpg",
+  "overview": "Theo inventa planos caóticos para não perder seu amado carro. Enquanto isso, o pai dele, que está doente, vai fazer de tudo para encontrar um novo rim.",
+  "rating": 4.8,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 255803,
+  "xtream": {
+    "seriesId": 7552
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2568160",
+          "episodeId": 2568160,
+          "season": 1,
+          "episode": 1,
+          "title": "Son of a Donkey S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568161",
+          "episodeId": 2568161,
+          "season": 1,
+          "episode": 2,
+          "title": "Son of a Donkey S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568162",
+          "episodeId": 2568162,
+          "season": 1,
+          "episode": 3,
+          "title": "Son of a Donkey S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568163",
+          "episodeId": 2568163,
+          "season": 1,
+          "episode": 4,
+          "title": "Son of a Donkey S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568164",
+          "episodeId": 2568164,
+          "season": 1,
+          "episode": 5,
+          "title": "Son of a Donkey S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2568165",
+          "episodeId": 2568165,
+          "season": 1,
+          "episode": 6,
+          "title": "Son of a Donkey S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

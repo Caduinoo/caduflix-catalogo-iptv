@@ -1,0 +1,77 @@
+{
+  "id": "series_1971",
+  "type": "series",
+  "title": "Elfos",
+  "originalTitle": "Nisser",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pNCZbQ5jvCbgoBfeoSx0l5dJhIM.jpg",
+  "overview": "Dois irmãos decidem tirar férias em uma ilha remota, e acabam descobrindo que elfos sanguinários aterrorizam os moradores do lugar.",
+  "rating": 6.9,
+  "genres": [
+    "drama",
+    "misterio",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 135864,
+  "xtream": {
+    "seriesId": 1971
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2433760",
+          "episodeId": 2433760,
+          "season": 1,
+          "episode": 1,
+          "title": "Elfos (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2433761",
+          "episodeId": 2433761,
+          "season": 1,
+          "episode": 2,
+          "title": "Elfos (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2433762",
+          "episodeId": 2433762,
+          "season": 1,
+          "episode": 3,
+          "title": "Elfos (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2433763",
+          "episodeId": 2433763,
+          "season": 1,
+          "episode": 4,
+          "title": "Elfos (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2433764",
+          "episodeId": 2433764,
+          "season": 1,
+          "episode": 5,
+          "title": "Elfos (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2433765",
+          "episodeId": 2433765,
+          "season": 1,
+          "episode": 6,
+          "title": "Elfos (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

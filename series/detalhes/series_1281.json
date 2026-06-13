@@ -1,0 +1,48 @@
+{
+  "id": "series_1281",
+  "type": "series",
+  "title": "Quizmester",
+  "originalTitle": "Quizmester",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/fn0aXaOD6C9GgVpZ4L0GvPO6oME.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Conheça a história de Charles e Diana Ingram, os dois tentaram trapacear para ganhar o grande prêmio do programa de perguntas e respostas \"Quem Quer Ser um Milionário?\".",
+  "rating": 0,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": 105780,
+  "xtream": {
+    "seriesId": 1281
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2404096",
+          "episodeId": 2404096,
+          "season": 1,
+          "episode": 1,
+          "title": "Quiz S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404097",
+          "episodeId": 2404097,
+          "season": 1,
+          "episode": 2,
+          "title": "Quiz S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404098",
+          "episodeId": 2404098,
+          "season": 1,
+          "episode": 3,
+          "title": "Quiz S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

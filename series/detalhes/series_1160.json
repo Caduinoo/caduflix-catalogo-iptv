@@ -1,0 +1,58 @@
+{
+  "id": "series_1160",
+  "type": "series",
+  "title": "The Lady and the Dale",
+  "originalTitle": "The Lady and the Dale",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/crMJcKrkrVLPhWU69AgxMB8LFtY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kJxEwsQSWbEUHGqFiyUiaNJhMBM.jpg",
+  "overview": "Elizabeth Carmichael, uma golpista imprudente, ganha destaque quando lança um veículo de três rodas com baixo consumo de combustível durante a crise do gás dos anos 1970. Enquanto ela conquista as principais montadoras e investidores, uma teia de mistério se desdobra sobre a tecnologia do carro e o surpreendente passado de Carmichael.",
+  "rating": 6.7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 116111,
+  "xtream": {
+    "seriesId": 1160
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2398226",
+          "episodeId": 2398226,
+          "season": 1,
+          "episode": 1,
+          "title": "The Lady and the Dale S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398227",
+          "episodeId": 2398227,
+          "season": 1,
+          "episode": 2,
+          "title": "The Lady and the Dale S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398228",
+          "episodeId": 2398228,
+          "season": 1,
+          "episode": 3,
+          "title": "The Lady and the Dale S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2398229",
+          "episodeId": 2398229,
+          "season": 1,
+          "episode": 4,
+          "title": "The Lady and the Dale S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

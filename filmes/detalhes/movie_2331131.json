@@ -1,0 +1,41 @@
+{
+  "id": "movie_2331131",
+  "type": "movie",
+  "title": "Pose",
+  "originalTitle": "Pose",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/cAzoRCWrj22WJsSdguAmoQvgr4H.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 8,
+  "genres": [],
+  "cast": [
+    {
+      "name": "Georgia Lock",
+      "character": "Vera",
+      "profile": "https://image.tmdb.org/t/p/w185/tVklJUZRvQXqDiH1T4ZYXRwIEey.jpg"
+    },
+    {
+      "name": "Mary Drake",
+      "character": "Anita",
+      "profile": ""
+    },
+    {
+      "name": "Alex Walton",
+      "character": "The Photographer",
+      "profile": "https://image.tmdb.org/t/p/w185/sngiDZjt6fzx13cShf1vDaeY5E3.jpg"
+    },
+    {
+      "name": "Eleanor Grace",
+      "character": "The assistant",
+      "profile": ""
+    }
+  ],
+  "director": "Damla Duru",
+  "tmdbId": 1282491,
+  "xtream": {
+    "streamId": 2331131,
+    "containerExtension": "mp4"
+  }
+}

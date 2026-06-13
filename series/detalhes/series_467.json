@@ -1,0 +1,128 @@
+{
+  "id": "series_467",
+  "type": "series",
+  "title": "Fleabag",
+  "originalTitle": "Fleabag",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/27vEYsRKa3eAniwmoccOoluEXQ1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hXdQ4MWsEOX6qg6VydKrLb3YJ4g.jpg",
+  "overview": "Uma mulher autêntica que tenta retomar sua vida, enquanto rejeita a ajuda de qualquer um que tente se manter ao seu lado durante a sua crise.",
+  "rating": 8.281,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 67070,
+  "xtream": {
+    "seriesId": 467
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2362905",
+          "episodeId": 2362905,
+          "season": 1,
+          "episode": 1,
+          "title": "Fleabag S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362906",
+          "episodeId": 2362906,
+          "season": 1,
+          "episode": 2,
+          "title": "Fleabag S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362907",
+          "episodeId": 2362907,
+          "season": 1,
+          "episode": 3,
+          "title": "Fleabag S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362908",
+          "episodeId": 2362908,
+          "season": 1,
+          "episode": 4,
+          "title": "Fleabag S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362909",
+          "episodeId": 2362909,
+          "season": 1,
+          "episode": 5,
+          "title": "Fleabag S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362910",
+          "episodeId": 2362910,
+          "season": 1,
+          "episode": 6,
+          "title": "Fleabag S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2362911",
+          "episodeId": 2362911,
+          "season": 2,
+          "episode": 1,
+          "title": "Fleabag S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362912",
+          "episodeId": 2362912,
+          "season": 2,
+          "episode": 2,
+          "title": "Fleabag S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362913",
+          "episodeId": 2362913,
+          "season": 2,
+          "episode": 3,
+          "title": "Fleabag S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362914",
+          "episodeId": 2362914,
+          "season": 2,
+          "episode": 4,
+          "title": "Fleabag S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362915",
+          "episodeId": 2362915,
+          "season": 2,
+          "episode": 5,
+          "title": "Fleabag S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362916",
+          "episodeId": 2362916,
+          "season": 2,
+          "episode": 6,
+          "title": "Fleabag S02 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

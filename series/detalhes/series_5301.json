@@ -1,0 +1,75 @@
+{
+  "id": "series_5301",
+  "type": "series",
+  "title": "O Caso Asunta",
+  "originalTitle": "El caso Asunta",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/5FYfv2pYJ55f7qBVkhXIcffwwLD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sU43u8iWvCT6aQ0Mvi4hB6VkuDg.jpg",
+  "overview": "Depois que um casal comunica o desaparecimento da filha Asunta, de 12 anos, a investigação logo se volta contra os dois.",
+  "rating": 7.284,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 239966,
+  "xtream": {
+    "seriesId": 5301
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2516957",
+          "episodeId": 2516957,
+          "season": 1,
+          "episode": 1,
+          "title": "O Caso Asunta S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516958",
+          "episodeId": 2516958,
+          "season": 1,
+          "episode": 2,
+          "title": "O Caso Asunta S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516959",
+          "episodeId": 2516959,
+          "season": 1,
+          "episode": 3,
+          "title": "O Caso Asunta S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516960",
+          "episodeId": 2516960,
+          "season": 1,
+          "episode": 4,
+          "title": "O Caso Asunta S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516961",
+          "episodeId": 2516961,
+          "season": 1,
+          "episode": 5,
+          "title": "O Caso Asunta S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2516962",
+          "episodeId": 2516962,
+          "season": 1,
+          "episode": 6,
+          "title": "O Caso Asunta S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

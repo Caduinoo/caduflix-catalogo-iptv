@@ -1,0 +1,50 @@
+{
+  "id": "series_4040",
+  "type": "series",
+  "title": "Os Caras do Telemarketing",
+  "originalTitle": "Telemarketers",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/mrwJaOLkPoaQMj6VtdJOmk9uNnq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bSonr7WYjfGgxgfzx98c9JxiSZP.jpg",
+  "overview": "Narra a jornada de 20 anos de dois colegas de trabalho que decidiram expor o sistema americano de telemarketing. Aproveitando o acesso interno, a dupla expõe as fraudes desta indústria bilionária.",
+  "rating": 7.017,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 231396,
+  "xtream": {
+    "seriesId": 4040
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2487257",
+          "episodeId": 2487257,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Caras do Telemarketing [L] (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2487258",
+          "episodeId": 2487258,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Caras do Telemarketing [L] (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2487259",
+          "episodeId": 2487259,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Caras do Telemarketing [L] (2023) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

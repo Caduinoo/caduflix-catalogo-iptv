@@ -1,0 +1,43 @@
+{
+  "id": "movie_2130280",
+  "type": "movie",
+  "title": "American Son",
+  "originalTitle": "American Son",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/lEIlxhIyFsia7yCqbfD4UH8iIkN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oIZNzQyeM9yNANvextLaDZcSzht.jpg",
+  "overview": "O filho adolescente de um casal inter-racial desaparece. Enquanto eles esperam por notícias, o clima na delegacia fica cada vez mais tenso.",
+  "rating": 6.1,
+  "runtime": 90,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Kerry Washington",
+      "character": "Kendra Ellis-Connor",
+      "profile": "https://image.tmdb.org/t/p/w185/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+    },
+    {
+      "name": "Steven Pasquale",
+      "character": "Scott Connor",
+      "profile": "https://image.tmdb.org/t/p/w185/exO1cSAwbKsqaXAGnkvVXMgKNFl.jpg"
+    },
+    {
+      "name": "Jeremy Jordan",
+      "character": "Officer Paul Larkin",
+      "profile": "https://image.tmdb.org/t/p/w185/ev2bFhk810TlMtRsZIQhKylJPpK.jpg"
+    },
+    {
+      "name": "Eugene Lee",
+      "character": "Lt. John Stokes",
+      "profile": "https://image.tmdb.org/t/p/w185/jhKZiFWv4zA0j8i2OvOg0myl9Zi.jpg"
+    }
+  ],
+  "director": "Kenny Leon",
+  "tmdbId": 622963,
+  "xtream": {
+    "streamId": 2130280,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "series_8045",
+  "type": "series",
+  "title": "Betrayal",
+  "originalTitle": "Betrayal",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/3Niu8rDeZCWQ8R70UK6Yv4bJCCk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oaRXcSmlLUJrtbad5wn0IXtVA9.jpg",
+  "overview": "John Hughes, veterano do MI5, enfrenta uma conspiração após um assassinato.\n\nAo procurar a verdade, ele deve proteger sua carreira, casamento e a Grã-Bretanha.",
+  "rating": 7.6,
+  "genres": [
+    "crime",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 271935,
+  "xtream": {
+    "seriesId": 8045
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2575535",
+          "episodeId": 2575535,
+          "season": 1,
+          "episode": 1,
+          "title": "Betrayal [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575536",
+          "episodeId": 2575536,
+          "season": 1,
+          "episode": 2,
+          "title": "Betrayal [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2575537",
+          "episodeId": 2575537,
+          "season": 1,
+          "episode": 3,
+          "title": "Betrayal [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

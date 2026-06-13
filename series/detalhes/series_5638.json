@@ -1,0 +1,69 @@
+{
+  "id": "series_5638",
+  "type": "series",
+  "title": "LEGO Pixar: BrickToons",
+  "originalTitle": "LEGO Pixar: BrickToons",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/yFswYZNprs9CgzkhaqPpBQuwGya.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rLo82L6uMCw5wSaI7sl61n2ECkF.jpg",
+  "overview": "Junte-se a alguns de seus personagens preferidos da Pixar em aventuras no mundo LEGO! Cada uma das 5 histórias BrickToon trazem rostos e lugares familiares com humor e surpresas LEGO. Cante com Miguel e sua família na Terra dos Mortos, ajude Merida e seus irmãos trigêmeos em uma situação maluca, faça uma excursão épica com Nemo, Marlin e Dory, veja a família Pêra tentar salvar sua vizinhança do Síndrome e junte-se a Mate enquanto ele prepara o Relâmpago McQueen para sua próxima grande corrida!",
+  "rating": 5.7,
+  "genres": [
+    "animacao",
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 262153,
+  "xtream": {
+    "seriesId": 5638
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2526111",
+          "episodeId": 2526111,
+          "season": 1,
+          "episode": 1,
+          "title": "LEGO Pixar BrickToons S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2526112",
+          "episodeId": 2526112,
+          "season": 1,
+          "episode": 2,
+          "title": "LEGO Pixar BrickToons S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2526113",
+          "episodeId": 2526113,
+          "season": 1,
+          "episode": 3,
+          "title": "LEGO Pixar BrickToons S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2526114",
+          "episodeId": 2526114,
+          "season": 1,
+          "episode": 4,
+          "title": "LEGO Pixar BrickToons S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2526115",
+          "episodeId": 2526115,
+          "season": 1,
+          "episode": 5,
+          "title": "LEGO Pixar BrickToons S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

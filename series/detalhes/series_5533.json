@@ -1,0 +1,74 @@
+{
+  "id": "series_5533",
+  "type": "series",
+  "title": "Selena + Restaurante",
+  "originalTitle": "Selena + Restaurant",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/kHorWbe2Sule1KOpGCkdAEHeie9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/boACAJVmCNBuktewI9IScR78hUf.jpg",
+  "overview": "Selena Gomez cozinha nos restaurantes mais badalados de Los Angeles, onde será testada e terá que apresentar um prato bom o bastante para o cardápio!",
+  "rating": 9,
+  "genres": [
+    "reality"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 250590,
+  "xtream": {
+    "seriesId": 5533
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2523710",
+          "episodeId": 2523710,
+          "season": 1,
+          "episode": 1,
+          "title": "Selena Restaurante S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523711",
+          "episodeId": 2523711,
+          "season": 1,
+          "episode": 2,
+          "title": "Selena Restaurante S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523712",
+          "episodeId": 2523712,
+          "season": 1,
+          "episode": 3,
+          "title": "Selena Restaurante S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523713",
+          "episodeId": 2523713,
+          "season": 1,
+          "episode": 4,
+          "title": "Selena Restaurante S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523714",
+          "episodeId": 2523714,
+          "season": 1,
+          "episode": 5,
+          "title": "Selena Restaurante S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2523715",
+          "episodeId": 2523715,
+          "season": 1,
+          "episode": 6,
+          "title": "Selena Restaurante S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

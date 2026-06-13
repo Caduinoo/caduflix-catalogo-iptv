@@ -1,0 +1,75 @@
+{
+  "id": "series_7679",
+  "type": "series",
+  "title": "Beach Life",
+  "originalTitle": "Beach Life",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/pQWdHH0xPU45eFnACpxafgYmSY5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/r8i1xmk6dFveDUg774ZXxYNIO6c.jpg",
+  "overview": "A atriz e apresentadora Monique Alfradique encontra amigos e mostra todo o life style de quem vive perto do mar. Passeios, bate-papos, esportes, risos e aventuras, tudo para comprovar o verdadeiro Beach Life.",
+  "rating": 0,
+  "genres": [
+    "reality",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 307616,
+  "xtream": {
+    "seriesId": 7679
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2570156",
+          "episodeId": 2570156,
+          "season": 1,
+          "episode": 1,
+          "title": "Beach Life S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570157",
+          "episodeId": 2570157,
+          "season": 1,
+          "episode": 2,
+          "title": "Beach Life S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570158",
+          "episodeId": 2570158,
+          "season": 1,
+          "episode": 3,
+          "title": "Beach Life S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570159",
+          "episodeId": 2570159,
+          "season": 1,
+          "episode": 4,
+          "title": "Beach Life S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570160",
+          "episodeId": 2570160,
+          "season": 1,
+          "episode": 5,
+          "title": "Beach Life S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570161",
+          "episodeId": 2570161,
+          "season": 1,
+          "episode": 6,
+          "title": "Beach Life S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

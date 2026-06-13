@@ -1,0 +1,102 @@
+{
+  "id": "series_1754",
+  "type": "series",
+  "title": "Star Wars: Visions",
+  "originalTitle": "Star Wars: Visions",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/pr14JeqHiiQkm4w8EML23DHvwjv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m2QTmJhe36uKrkQjC1MsNV7Dcqp.jpg",
+  "overview": "Esta antologia de curtas animados de todo o mundo celebra a mitologia de Star Wars através de diferentes perspectivas culturais.",
+  "rating": 7.096,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 114478,
+  "xtream": {
+    "seriesId": 1754
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2426428",
+          "episodeId": 2426428,
+          "season": 1,
+          "episode": 1,
+          "title": "Star Wars: Visions (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426429",
+          "episodeId": 2426429,
+          "season": 1,
+          "episode": 2,
+          "title": "Star Wars: Visions (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426430",
+          "episodeId": 2426430,
+          "season": 1,
+          "episode": 3,
+          "title": "Star Wars: Visions (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426431",
+          "episodeId": 2426431,
+          "season": 1,
+          "episode": 4,
+          "title": "Star Wars: Visions (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426432",
+          "episodeId": 2426432,
+          "season": 1,
+          "episode": 5,
+          "title": "Star Wars: Visions (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426433",
+          "episodeId": 2426433,
+          "season": 1,
+          "episode": 6,
+          "title": "Star Wars: Visions (2021) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426434",
+          "episodeId": 2426434,
+          "season": 1,
+          "episode": 7,
+          "title": "Star Wars: Visions (2021) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426435",
+          "episodeId": 2426435,
+          "season": 1,
+          "episode": 8,
+          "title": "Star Wars: Visions (2021) S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2426436",
+          "episodeId": 2426436,
+          "season": 1,
+          "episode": 9,
+          "title": "Star Wars: Visions (2021) S01 E09",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

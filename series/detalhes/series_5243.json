@@ -1,0 +1,51 @@
+{
+  "id": "series_5243",
+  "type": "series",
+  "title": "Lolla: A História do Lollapalooza",
+  "originalTitle": "Lolla: The Story of Lollapalooza",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/yoQieW1zgXOy47mnsH13J26O1B.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iWLh9c2LOley3m6Qqq0evs176Kr.jpg",
+  "overview": "No verão de 1991, o festival Lollapalooza nasceu. O que começou como uma turnê de despedida da banda Jane's Addiction saiu do meio alternativo para mudar a música para sempre.",
+  "rating": 7,
+  "genres": [
+    "documentario",
+    "historia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 241771,
+  "xtream": {
+    "seriesId": 5243
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2515781",
+          "episodeId": 2515781,
+          "season": 1,
+          "episode": 1,
+          "title": "Lolla A Historia do Lollapalooza [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515782",
+          "episodeId": 2515782,
+          "season": 1,
+          "episode": 2,
+          "title": "Lolla A Historia do Lollapalooza [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2515783",
+          "episodeId": 2515783,
+          "season": 1,
+          "episode": 3,
+          "title": "Lolla A Historia do Lollapalooza [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

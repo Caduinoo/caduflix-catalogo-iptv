@@ -1,0 +1,90 @@
+{
+  "id": "series_1733",
+  "type": "series",
+  "title": "Marvel 616",
+  "originalTitle": "Marvel's 616",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/wBOIVb6zgsnfRhvCgdX04pLaYXQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f7PJT5Vvc99vjEmo6JyfDs3p3ei.jpg",
+  "overview": "Uma série documental antológica que explora os impactos culturais, sociais, e históricos do Universo Marvel Comics e sua interseção com o mundo.",
+  "rating": 7.4,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 102693,
+  "xtream": {
+    "seriesId": 1733
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2425912",
+          "episodeId": 2425912,
+          "season": 1,
+          "episode": 1,
+          "title": "Marvel 616 (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2425913",
+          "episodeId": 2425913,
+          "season": 1,
+          "episode": 2,
+          "title": "Marvel 616 (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2425914",
+          "episodeId": 2425914,
+          "season": 1,
+          "episode": 3,
+          "title": "Marvel 616 (2020) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2425915",
+          "episodeId": 2425915,
+          "season": 1,
+          "episode": 4,
+          "title": "Marvel 616 (2020) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2425916",
+          "episodeId": 2425916,
+          "season": 1,
+          "episode": 5,
+          "title": "Marvel 616 (2020) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2425917",
+          "episodeId": 2425917,
+          "season": 1,
+          "episode": 6,
+          "title": "Marvel 616 (2020) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2425918",
+          "episodeId": 2425918,
+          "season": 1,
+          "episode": 7,
+          "title": "Marvel 616 (2020) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2425919",
+          "episodeId": 2425919,
+          "season": 1,
+          "episode": 8,
+          "title": "Marvel 616 (2020) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

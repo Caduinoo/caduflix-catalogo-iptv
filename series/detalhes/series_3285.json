@@ -1,0 +1,74 @@
+{
+  "id": "series_3285",
+  "type": "series",
+  "title": "Dance 100",
+  "originalTitle": "Dance 100",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/hD3F4iXS2w8vfkcqSsuvcUJ1m1h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bG1Erks81G06DQX0zWv7O0ohhp5.jpg",
+  "overview": "Para ganhar 100 mil dólares, oito profissionais devem criar coreografias cada vez mais complexas para um grupo de dançarinos de elite — que também são o júri.",
+  "rating": 6,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 220650,
+  "xtream": {
+    "seriesId": 3285
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2468437",
+          "episodeId": 2468437,
+          "season": 1,
+          "episode": 1,
+          "title": "Dance 100 (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468438",
+          "episodeId": 2468438,
+          "season": 1,
+          "episode": 2,
+          "title": "Dance 100 (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468439",
+          "episodeId": 2468439,
+          "season": 1,
+          "episode": 3,
+          "title": "Dance 100 (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468440",
+          "episodeId": 2468440,
+          "season": 1,
+          "episode": 4,
+          "title": "Dance 100 (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468441",
+          "episodeId": 2468441,
+          "season": 1,
+          "episode": 5,
+          "title": "Dance 100 (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2468442",
+          "episodeId": 2468442,
+          "season": 1,
+          "episode": 6,
+          "title": "Dance 100 (2023) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

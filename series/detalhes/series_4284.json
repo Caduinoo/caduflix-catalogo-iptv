@@ -1,0 +1,58 @@
+{
+  "id": "series_4284",
+  "type": "series",
+  "title": "Robbie Williams",
+  "originalTitle": "Robbie Williams",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/1p83qorKxcTS4UTEJ87k14VGOyR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mo8HWsYp05y7gQrjs6ubtX888ml.jpg",
+  "overview": "Após 25 anos de uma carreira solo cheia de recordes, Robbie relembra a juventude e reflete sobre toda uma vida diante dos holofotes.",
+  "rating": 7.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 236022,
+  "xtream": {
+    "seriesId": 4284
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2493082",
+          "episodeId": 2493082,
+          "season": 1,
+          "episode": 1,
+          "title": "Robbie Williams [L] (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2493083",
+          "episodeId": 2493083,
+          "season": 1,
+          "episode": 2,
+          "title": "Robbie Williams [L] (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2493084",
+          "episodeId": 2493084,
+          "season": 1,
+          "episode": 3,
+          "title": "Robbie Williams [L] (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2493085",
+          "episodeId": 2493085,
+          "season": 1,
+          "episode": 4,
+          "title": "Robbie Williams [L] (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

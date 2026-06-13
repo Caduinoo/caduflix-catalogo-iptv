@@ -1,0 +1,58 @@
+{
+  "id": "series_8492",
+  "type": "series",
+  "title": "Rafa",
+  "originalTitle": "Rafa",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lD3YdWYvFaDI52g9gentsvjB1w5.jpg",
+  "overview": "Rafael Nadal, um dos maiores tenistas de todos os tempos, reflete sobre a carreira, seu legado e sua última temporada nas quadras.",
+  "rating": 9.094,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 279884,
+  "xtream": {
+    "seriesId": 8492
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2581672",
+          "episodeId": 2581672,
+          "season": 1,
+          "episode": 1,
+          "title": "Rafa (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581673",
+          "episodeId": 2581673,
+          "season": 1,
+          "episode": 2,
+          "title": "Rafa (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581674",
+          "episodeId": 2581674,
+          "season": 1,
+          "episode": 3,
+          "title": "Rafa (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581675",
+          "episodeId": 2581675,
+          "season": 1,
+          "episode": 4,
+          "title": "Rafa (2026) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "series_2018",
+  "type": "series",
+  "title": "Batalha das Comidinhas",
+  "originalTitle": "Tiny Food Fight",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/27DXPlKE4bcsalvgzPg8FvkNogE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9HYvpNPSHmmsOPWbA9hMMb4ehUm.jpg",
+  "overview": "O chef Darnell Ferguson e a comediante Mamrie Hart apresentam a maior competição de comidas minúsculas do mundo, com um prêmio de 5 mil dólares e um mini troféu em jogo.",
+  "rating": 10,
+  "genres": [
+    "reality"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 133811,
+  "xtream": {
+    "seriesId": 2018
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2436064",
+          "episodeId": 2436064,
+          "season": 1,
+          "episode": 1,
+          "title": "Batalha das Comidinhas (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436065",
+          "episodeId": 2436065,
+          "season": 1,
+          "episode": 2,
+          "title": "Batalha das Comidinhas (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436066",
+          "episodeId": 2436066,
+          "season": 1,
+          "episode": 3,
+          "title": "Batalha das Comidinhas (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436067",
+          "episodeId": 2436067,
+          "season": 1,
+          "episode": 4,
+          "title": "Batalha das Comidinhas (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436068",
+          "episodeId": 2436068,
+          "season": 1,
+          "episode": 5,
+          "title": "Batalha das Comidinhas (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2436069",
+          "episodeId": 2436069,
+          "season": 1,
+          "episode": 6,
+          "title": "Batalha das Comidinhas (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

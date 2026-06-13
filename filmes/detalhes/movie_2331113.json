@@ -1,0 +1,34 @@
+{
+  "id": "movie_2331113",
+  "type": "movie",
+  "title": "Macaléia",
+  "originalTitle": "Macaléia",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/tns0JHZQql0LJORShbml2ATm0Dk.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Curta-documental sobre a amizade de Jards Macalé e Hélio Oiticica - dois artistas anárquicos nos anos 70.",
+  "rating": 0,
+  "runtime": 25,
+  "genres": [
+    "documentario",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Jards Macalé",
+      "character": "self",
+      "profile": "https://image.tmdb.org/t/p/w185/l17Q47N8dCE3BboQSTGXvG1ONJY.jpg"
+    },
+    {
+      "name": "Hélio Oiticica",
+      "character": "self",
+      "profile": "https://image.tmdb.org/t/p/w185/aFYroSrzIafx0qTcjRVBT0DlZoE.jpg"
+    }
+  ],
+  "director": "Rejane Zilles",
+  "tmdbId": 1175726,
+  "xtream": {
+    "streamId": 2331113,
+    "containerExtension": "mp4"
+  }
+}

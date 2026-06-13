@@ -1,0 +1,66 @@
+{
+  "id": "series_6323",
+  "type": "series",
+  "title": "Us",
+  "originalTitle": "Us รักของเรา",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/aCMCQRumfYG9KigM4n0CAxZhi04.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u7pgxHqJa3E0mimbtOO81C5fMi0.jpg",
+  "overview": "",
+  "rating": 8.6,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 252621,
+  "xtream": {
+    "seriesId": 6323
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2543698",
+          "episodeId": 2543698,
+          "season": 1,
+          "episode": 1,
+          "title": "Us [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543699",
+          "episodeId": 2543699,
+          "season": 1,
+          "episode": 2,
+          "title": "Us [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543700",
+          "episodeId": 2543700,
+          "season": 1,
+          "episode": 3,
+          "title": "Us [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543701",
+          "episodeId": 2543701,
+          "season": 1,
+          "episode": 4,
+          "title": "Us [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543702",
+          "episodeId": 2543702,
+          "season": 1,
+          "episode": 5,
+          "title": "Us [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

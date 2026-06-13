@@ -1,0 +1,72 @@
+{
+  "id": "series_7171",
+  "type": "series",
+  "title": "MATICES",
+  "originalTitle": "MATICES",
+  "year": null,
+  "poster": "https://image.tmdb.org//t/p/w600_and_h900_bestv2/AvT0eKDjW9fs4Dmi6x9XCLGK3nA.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6,
+  "genres": [],
+  "producer": "prime_video",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7171
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2561049",
+          "episodeId": 2561049,
+          "season": 1,
+          "episode": 1,
+          "title": "MATICES S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561050",
+          "episodeId": 2561050,
+          "season": 1,
+          "episode": 2,
+          "title": "MATICES S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561051",
+          "episodeId": 2561051,
+          "season": 1,
+          "episode": 3,
+          "title": "MATICES S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561052",
+          "episodeId": 2561052,
+          "season": 1,
+          "episode": 4,
+          "title": "MATICES S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561053",
+          "episodeId": 2561053,
+          "season": 1,
+          "episode": 5,
+          "title": "MATICES S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2561054",
+          "episodeId": 2561054,
+          "season": 1,
+          "episode": 6,
+          "title": "MATICES S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

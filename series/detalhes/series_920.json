@@ -1,0 +1,48 @@
+{
+  "id": "series_920",
+  "type": "series",
+  "title": "A Very English Scandal",
+  "originalTitle": "A Very English Scandal",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w780/xQU99bLRjTegRSGScLDVqpcx5QV.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Líder do Partido Liberal, Jeremy Thorpe esconde que teve um caso com um homem e vive desesperado para que seu segredo não seja revelado. No entanto, enquanto Norman Scott estiver por perto, a sua brilhante carreira está em risco.",
+  "rating": 7,
+  "genres": [],
+  "producer": "prime_video",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 920
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2388605",
+          "episodeId": 2388605,
+          "season": 1,
+          "episode": 1,
+          "title": "A Very English Scandal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388606",
+          "episodeId": 2388606,
+          "season": 1,
+          "episode": 2,
+          "title": "A Very English Scandal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2388607",
+          "episodeId": 2388607,
+          "season": 1,
+          "episode": 3,
+          "title": "A Very English Scandal S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

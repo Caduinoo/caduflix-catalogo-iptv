@@ -1,0 +1,52 @@
+{
+  "id": "series_7869",
+  "type": "series",
+  "title": "Os Sete Relógios de Agatha Christie",
+  "originalTitle": "Agatha Christie's Seven Dials",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/szEJIki7VYdL64oDGreHabNJ3w4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
+  "overview": "Inglaterra, 1925. Uma brincadeira em uma festa de arromba teve um final trágico. Caberá à investigadora mais improvável de todas desvendar um mistério que mudará sua vida.",
+  "rating": 6.28,
+  "genres": [
+    "misterio",
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 250505,
+  "xtream": {
+    "seriesId": 7869
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2573416",
+          "episodeId": 2573416,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Sete Relogios de Agatha Christie S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573417",
+          "episodeId": 2573417,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Sete Relogios de Agatha Christie S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2573418",
+          "episodeId": 2573418,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Sete Relogios de Agatha Christie S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

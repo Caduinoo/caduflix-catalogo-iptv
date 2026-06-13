@@ -1,0 +1,58 @@
+{
+  "id": "series_8378",
+  "type": "series",
+  "title": "Hulk Hogan: O Lutador",
+  "originalTitle": "Hulk Hogan: Real American",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v5DsZ3fnWSGfcIzt8twiFWz2JbL.jpg",
+  "overview": "Antes de ser Hulk Hogan, ele era Terry Bollea. Descubra o homem por trás da lenda neste documentário sem filtros, que traz a última entrevista dele.",
+  "rating": 7.6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 318880,
+  "xtream": {
+    "seriesId": 8378
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2580549",
+          "episodeId": 2580549,
+          "season": 1,
+          "episode": 1,
+          "title": "Hulk Hogan O Lutador (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580550",
+          "episodeId": 2580550,
+          "season": 1,
+          "episode": 2,
+          "title": "Hulk Hogan O Lutador (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580551",
+          "episodeId": 2580551,
+          "season": 1,
+          "episode": 3,
+          "title": "Hulk Hogan O Lutador (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2580552",
+          "episodeId": 2580552,
+          "season": 1,
+          "episode": 4,
+          "title": "Hulk Hogan O Lutador (2026) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

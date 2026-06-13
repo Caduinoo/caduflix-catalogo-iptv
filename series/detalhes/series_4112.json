@@ -1,0 +1,75 @@
+{
+  "id": "series_4112",
+  "type": "series",
+  "title": "Payback",
+  "originalTitle": "Payback",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/pyOjMsKgKv7yHD1exMfddRbjS1X.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jY4UyA1I7KqM1G2NhAId0cfx2Bw.jpg",
+  "overview": "",
+  "rating": 6.3,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 218346,
+  "xtream": {
+    "seriesId": 4112
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2489633",
+          "episodeId": 2489633,
+          "season": 1,
+          "episode": 1,
+          "title": "Payback [L] (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2489634",
+          "episodeId": 2489634,
+          "season": 1,
+          "episode": 2,
+          "title": "Payback [L] (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2489635",
+          "episodeId": 2489635,
+          "season": 1,
+          "episode": 3,
+          "title": "Payback [L] (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2489636",
+          "episodeId": 2489636,
+          "season": 1,
+          "episode": 4,
+          "title": "Payback [L] (2023) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2489637",
+          "episodeId": 2489637,
+          "season": 1,
+          "episode": 5,
+          "title": "Payback [L] (2023) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2489638",
+          "episodeId": 2489638,
+          "season": 1,
+          "episode": 6,
+          "title": "Payback [L] (2023) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

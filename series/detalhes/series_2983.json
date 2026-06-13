@@ -1,0 +1,78 @@
+{
+  "id": "series_2983",
+  "type": "series",
+  "title": "Zootopia+",
+  "originalTitle": "Zootopia+",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/pcWy2oFpb2whagjUWcwoHI1d7IP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kq4IbjT5LRWVHEafDzLVZZEAf0O.jpg",
+  "overview": "Volte a metrópole dos mamíferos e conheça melhor a vida de uma série de personagens intrigantes.",
+  "rating": 7.098,
+  "genres": [
+    "animacao",
+    "familia",
+    "infantil",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 114463,
+  "xtream": {
+    "seriesId": 2983
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2461244",
+          "episodeId": 2461244,
+          "season": 1,
+          "episode": 1,
+          "title": "Zootopia+ (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461245",
+          "episodeId": 2461245,
+          "season": 1,
+          "episode": 2,
+          "title": "Zootopia+ (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461246",
+          "episodeId": 2461246,
+          "season": 1,
+          "episode": 3,
+          "title": "Zootopia+ (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461247",
+          "episodeId": 2461247,
+          "season": 1,
+          "episode": 4,
+          "title": "Zootopia+ (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461248",
+          "episodeId": 2461248,
+          "season": 1,
+          "episode": 5,
+          "title": "Zootopia+ (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461249",
+          "episodeId": 2461249,
+          "season": 1,
+          "episode": 6,
+          "title": "Zootopia+ (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_7253",
+  "type": "series",
+  "title": "O Hacker Adolescente Mais Procurado",
+  "originalTitle": "Most Wanted: Julius Kivimäki",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/itBW4Ap4gQGNKizRbPLlLB0F2I7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j31CJaNsjee1M8vIFZvjR1k1osc.jpg",
+  "overview": "Série documental que acompanha os incríveis ciberataques realizados pelo finlandês de 15 anos Julius Kivimäki, também conhecido como Aleksanteri Kivimäki, considerado pelo FBI como um dos hackers mais perigosos do mundo.",
+  "rating": 6.7,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 293298,
+  "xtream": {
+    "seriesId": 7253
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2562336",
+          "episodeId": 2562336,
+          "season": 1,
+          "episode": 1,
+          "title": "O Hacker Adolescente Mais Procurado [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562337",
+          "episodeId": 2562337,
+          "season": 1,
+          "episode": 2,
+          "title": "O Hacker Adolescente Mais Procurado [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562338",
+          "episodeId": 2562338,
+          "season": 1,
+          "episode": 3,
+          "title": "O Hacker Adolescente Mais Procurado [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562339",
+          "episodeId": 2562339,
+          "season": 1,
+          "episode": 4,
+          "title": "O Hacker Adolescente Mais Procurado [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

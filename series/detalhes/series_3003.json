@@ -1,0 +1,92 @@
+{
+  "id": "series_3003",
+  "type": "series",
+  "title": "Somebody",
+  "originalTitle": "썸바디",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/pwVgkGnrKD7hW1Bd5F0BJebMTpi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tLW5BKMBZX0dqoXxUkHELQg5Y7i.jpg",
+  "overview": "Uma desenvolvedora de software, o aplicativo de namoro que ela criou, um homem misterioso e um caso de assassinato: está tudo ligado. Quem aqui tem algo a esconder?",
+  "rating": 6.907,
+  "genres": [
+    "drama",
+    "crime",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 112837,
+  "xtream": {
+    "seriesId": 3003
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2461791",
+          "episodeId": 2461791,
+          "season": 1,
+          "episode": 1,
+          "title": "Somebody (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461792",
+          "episodeId": 2461792,
+          "season": 1,
+          "episode": 2,
+          "title": "Somebody (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461793",
+          "episodeId": 2461793,
+          "season": 1,
+          "episode": 3,
+          "title": "Somebody (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461794",
+          "episodeId": 2461794,
+          "season": 1,
+          "episode": 4,
+          "title": "Somebody (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461795",
+          "episodeId": 2461795,
+          "season": 1,
+          "episode": 5,
+          "title": "Somebody (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461796",
+          "episodeId": 2461796,
+          "season": 1,
+          "episode": 6,
+          "title": "Somebody (2022) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461797",
+          "episodeId": 2461797,
+          "season": 1,
+          "episode": 7,
+          "title": "Somebody (2022) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2461798",
+          "episodeId": 2461798,
+          "season": 1,
+          "episode": 8,
+          "title": "Somebody (2022) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

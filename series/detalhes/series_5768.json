@@ -1,0 +1,50 @@
+{
+  "id": "series_5768",
+  "type": "series",
+  "title": "Grandes Fracassos: Woodstock 99",
+  "originalTitle": "Trainwreck: Woodstock '99",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/1v8jQD6bMEJu24XsF3mwiL8fUhp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2K1qU488CD5beY0dPa3l0AJRqMi.jpg",
+  "overview": "O festival de Woodstock de 1969 prometia paz e música. Mas na edição de 1999 foram dias de tumulto, violência e danos reais. Por que tudo deu tão errado?",
+  "rating": 7.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 206246,
+  "xtream": {
+    "seriesId": 5768
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2529387",
+          "episodeId": 2529387,
+          "season": 1,
+          "episode": 1,
+          "title": "Grandes Fracassos Woodstock 99 [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2529388",
+          "episodeId": 2529388,
+          "season": 1,
+          "episode": 2,
+          "title": "Grandes Fracassos Woodstock 99 [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2529389",
+          "episodeId": 2529389,
+          "season": 1,
+          "episode": 3,
+          "title": "Grandes Fracassos Woodstock 99 [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

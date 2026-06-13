@@ -1,0 +1,61 @@
+{
+  "id": "series_1910",
+  "type": "series",
+  "title": "Meu pai, o Assassino do Zodíaco",
+  "originalTitle": "The Most Dangerous Animal of All",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/u13gKUHiDKEumiCOrux0JqJP5s6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xLYSSmKYjpbp73sXNFaAwm7bVPT.jpg",
+  "overview": "Explora a busca de um homem pelo pai que o abandonou, apenas para descobrir o pior: ele acredita seu pai é o assassino do zodíaco, um dos assassinos em série mais infames da história americana.",
+  "rating": 6.5,
+  "genres": [
+    "documentario",
+    "misterio",
+    "crime",
+    "reality"
+  ],
+  "producer": "apple_tv_plus",
+  "tmdbId": 100120,
+  "xtream": {
+    "seriesId": 1910
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2431645",
+          "episodeId": 2431645,
+          "season": 1,
+          "episode": 1,
+          "title": "Meu pai, o Assassino do Zodíaco (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431646",
+          "episodeId": 2431646,
+          "season": 1,
+          "episode": 2,
+          "title": "Meu pai, o Assassino do Zodíaco (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431647",
+          "episodeId": 2431647,
+          "season": 1,
+          "episode": 3,
+          "title": "Meu pai, o Assassino do Zodíaco (2020) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2431648",
+          "episodeId": 2431648,
+          "season": 1,
+          "episode": 4,
+          "title": "Meu pai, o Assassino do Zodíaco (2020) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

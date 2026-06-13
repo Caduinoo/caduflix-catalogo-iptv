@@ -1,0 +1,60 @@
+{
+  "id": "series_5810",
+  "type": "series",
+  "title": "A Terra dos Meninos Pelados",
+  "originalTitle": "A Terra dos Meninos Pelados",
+  "year": 2003,
+  "poster": "https://image.tmdb.org/t/p/w500/Fh5Iisb8yJbA6dYJCFRb7uYfs2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4FcMSOyAATqgPTkVaRCPVNiJ32W.jpg",
+  "overview": "Raimundo, um menino que, cansado de ser alvo de chacotas, parte em uma viagem fantástica e chega a Tatipirun, uma terra encantada onde todos são exatamente como ele.",
+  "rating": 0,
+  "genres": [
+    "drama",
+    "infantil",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 121517,
+  "xtream": {
+    "seriesId": 5810
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2530949",
+          "episodeId": 2530949,
+          "season": 1,
+          "episode": 1,
+          "title": "Terra dos Meninos Pelados S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530950",
+          "episodeId": 2530950,
+          "season": 1,
+          "episode": 2,
+          "title": "Terra dos Meninos Pelados S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530951",
+          "episodeId": 2530951,
+          "season": 1,
+          "episode": 3,
+          "title": "Terra dos Meninos Pelados S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2530952",
+          "episodeId": 2530952,
+          "season": 1,
+          "episode": 4,
+          "title": "Terra dos Meninos Pelados S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

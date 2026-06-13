@@ -1,0 +1,51 @@
+{
+  "id": "series_2925",
+  "type": "series",
+  "title": "A Primeira Arte",
+  "originalTitle": "A Primeira Arte",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/uz4XCuKxN2o47NWoqy6Jn5JUoB7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fCKwdrF3QAmdi7pMpCxFs6XiHva.jpg",
+  "overview": "Para produzir este documentário, muitos especialistas foram entrevistados, como:  Juntos eles abordam aspectos da história da música, dos efeitos da música no cérebro, incluindo os efeitos da música em bebês na barriga da mãe ou em recém nascidos e do envolvimento da música na construção da personalidade humana em geral.",
+  "rating": 9,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 128264,
+  "xtream": {
+    "seriesId": 2925
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2459930",
+          "episodeId": 2459930,
+          "season": 1,
+          "episode": 1,
+          "title": "A Primeira Arte (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2459931",
+          "episodeId": 2459931,
+          "season": 1,
+          "episode": 2,
+          "title": "A Primeira Arte (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2459932",
+          "episodeId": 2459932,
+          "season": 1,
+          "episode": 3,
+          "title": "A Primeira Arte (2021) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

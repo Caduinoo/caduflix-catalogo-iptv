@@ -1,0 +1,53 @@
+{
+  "id": "series_8491",
+  "type": "series",
+  "title": "Cidade das Estrelas",
+  "originalTitle": "Star City",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/yjiWWcaxTsJ6teVwnR87rWyA56P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
+  "overview": "Entre em um capítulo eletrizante inspirado em For All Mankind. Mesmo universo alternativo. Nova perspectiva: a da União Soviética. Atravesse a Cortina de Ferro com os cosmonautas, engenheiros e agentes de inteligência que arriscaram tudo na corrida pela Lua.",
+  "rating": 6.7,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao",
+    "guerra"
+  ],
+  "producer": "apple_tv_plus",
+  "tmdbId": 252107,
+  "xtream": {
+    "seriesId": 8491
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2581669",
+          "episodeId": 2581669,
+          "season": 1,
+          "episode": 1,
+          "title": "Cidade das Estrelas (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581670",
+          "episodeId": 2581670,
+          "season": 1,
+          "episode": 2,
+          "title": "Cidade das Estrelas (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2581671",
+          "episodeId": 2581671,
+          "season": 1,
+          "episode": 3,
+          "title": "Cidade das Estrelas (2026) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

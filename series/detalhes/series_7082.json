@@ -1,0 +1,66 @@
+{
+  "id": "series_7082",
+  "type": "series",
+  "title": "WWE: Surreal",
+  "originalTitle": "WWE: Unreal",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/h5oSVGX71Oxdcrb3enSLin51NuQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gMBrBUxPlDuCyQXBPxURl4Fbs9y.jpg",
+  "overview": "Grandes reviravoltas, egos maiores ainda e muito drama. Acompanhe os Superstars da WWE no caminho para o WrestleMania.",
+  "rating": 7.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 289485,
+  "xtream": {
+    "seriesId": 7082
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2559798",
+          "episodeId": 2559798,
+          "season": 1,
+          "episode": 1,
+          "title": "WWE Surreal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559799",
+          "episodeId": 2559799,
+          "season": 1,
+          "episode": 2,
+          "title": "WWE Surreal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559800",
+          "episodeId": 2559800,
+          "season": 1,
+          "episode": 3,
+          "title": "WWE Surreal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559801",
+          "episodeId": 2559801,
+          "season": 1,
+          "episode": 4,
+          "title": "WWE Surreal S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559802",
+          "episodeId": 2559802,
+          "season": 1,
+          "episode": 5,
+          "title": "WWE Surreal S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "movie_2123832",
+  "type": "movie",
+  "title": "Lacuna",
+  "originalTitle": "Lacuna",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/qe1sB6fYCieSbWaSEa7ijf4oAp1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6DjFG6nml5Hvz36inBYZkTDeRyx.jpg",
+  "overview": "A conturbada relação entre Sofia (Lorena Comparato) e sua mãe Helena (Kika Kalache) é colocada em cheque quando um grave acidente evidencia estranhos comportamentos de Helena e desvenda mistérios sobre o passado obscuro da família.",
+  "rating": 6.5,
+  "runtime": 91,
+  "genres": [
+    "drama",
+    "misterio",
+    "suspense",
+    "thriller",
+    "terror",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Lorena Comparato",
+      "character": "Sofia",
+      "profile": "https://image.tmdb.org/t/p/w185/6caH8KuXWXuxU8XaloIMbLmQDx0.jpg"
+    },
+    {
+      "name": "Kika Kalache",
+      "character": "Helena",
+      "profile": "https://image.tmdb.org/t/p/w185/tuzLdlsx9DLeB9C6cKBvofgPFKR.jpg"
+    },
+    {
+      "name": "Laila Zaid",
+      "character": "Mizael",
+      "profile": "https://image.tmdb.org/t/p/w185/yStqs8DKRnVqqyPcbsoQqBrgQEW.jpg"
+    },
+    {
+      "name": "Charles Fricks",
+      "character": "Samuel",
+      "profile": "https://image.tmdb.org/t/p/w185/o8xgIzjMC3pU6yKe4dqO8Cn59yx.jpg"
+    },
+    {
+      "name": "Guilherme Prates",
+      "character": "Dante",
+      "profile": "https://image.tmdb.org/t/p/w185/k5fAoCV7HAXMmoysnirkRU7X8iI.jpg"
+    },
+    {
+      "name": "Priscila Maria",
+      "character": "Dra. Julia",
+      "profile": "https://image.tmdb.org/t/p/w185/tsqLQpnexHl2QmpMt4QIyfa8yNJ.jpg"
+    }
+  ],
+  "director": "Rodrigo Lages",
+  "tmdbId": 811782,
+  "xtream": {
+    "streamId": 2123832,
+    "containerExtension": "mp4"
+  }
+}

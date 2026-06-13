@@ -1,0 +1,36 @@
+{
+  "id": "series_1339",
+  "type": "series",
+  "title": "I topi",
+  "originalTitle": "I topi",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/z0SCrIyZv10GfhHHJAoZPdewuIA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/55Kfj16LDJFPx2U6v9U1tUNg0q6.jpg",
+  "overview": "",
+  "rating": 7.1,
+  "genres": [
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 84775,
+  "xtream": {
+    "seriesId": 1339
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2406235",
+          "episodeId": 2406235,
+          "season": 1,
+          "episode": 1,
+          "title": "Topi S01 E01",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

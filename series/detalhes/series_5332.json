@@ -1,0 +1,59 @@
+{
+  "id": "series_5332",
+  "type": "series",
+  "title": "Lua de Mel Mortal",
+  "originalTitle": "Anni: The Honeymoon Murder",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/dfPJ7lJ1ezBWvRGengWLIPDc994.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fwQ3mHVufszRsnxL4OR0LFGIHe.jpg",
+  "overview": "Na África do Sul, Anni é assassinada durante sua lua de mel com o marido, Shrien, um dos crimes mais misteriosos e de maior repercussão no país. A partir do testemunho de advogados, policiais e envolvidos no crime, a família tenta entender o motivo.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 138562,
+  "xtream": {
+    "seriesId": 5332
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2517908",
+          "episodeId": 2517908,
+          "season": 1,
+          "episode": 1,
+          "title": "Lua de Mel Mortal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2517909",
+          "episodeId": 2517909,
+          "season": 1,
+          "episode": 2,
+          "title": "Lua de Mel Mortal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2517910",
+          "episodeId": 2517910,
+          "season": 1,
+          "episode": 3,
+          "title": "Lua de Mel Mortal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2517911",
+          "episodeId": 2517911,
+          "season": 1,
+          "episode": 4,
+          "title": "Lua de Mel Mortal S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

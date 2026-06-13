@@ -1,0 +1,43 @@
+{
+  "id": "series_5047",
+  "type": "series",
+  "title": "Massacre dos Mórmons",
+  "originalTitle": "Masacre de los Mormones",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/5JkAskKnfQhzt09Vq2YoHuoadDf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8v3qonYBnPljxgMndbZOMuV6OUB.jpg",
+  "overview": "Em uma colina gelada no México, tiros ecoaram na manhã de 4 de novembro de 2019, ceifando a vida de três mulheres e seis crianças. Quem realmente executou o massacre e por quê?",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 251646,
+  "xtream": {
+    "seriesId": 5047
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2511821",
+          "episodeId": 2511821,
+          "season": 1,
+          "episode": 1,
+          "title": "Massacre of the Mormons (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2511822",
+          "episodeId": 2511822,
+          "season": 1,
+          "episode": 2,
+          "title": "Massacre of the Mormons (2024) S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "series_843",
+  "type": "series",
+  "title": "Washington",
+  "originalTitle": "Washington",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/1ynDi8x0n5c2DL1z6FkA7m0ebk3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eC5qpVzB0fI5xXw05uHx3Bg5SzN.jpg",
+  "overview": "A história de como um jovem soldado sem pai, cheio de ambição pessoal, se torna um líder de homens dispostos a sacrificar tudo pela causa comum. Como um sujeito britânico outrora leal se levanta para combater um império em uma campanha de liberdade ou morte para criar uma nova nação. E então como, no auge de seu poder, o general vitorioso renuncia voluntariamente, tornando-se o que o rei George III chamaria de \"o maior homem do mundo\".",
+  "rating": 7.235,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 98628,
+  "xtream": {
+    "seriesId": 843
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2386474",
+          "episodeId": 2386474,
+          "season": 1,
+          "episode": 1,
+          "title": "Washington S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386475",
+          "episodeId": 2386475,
+          "season": 1,
+          "episode": 2,
+          "title": "Washington S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2386476",
+          "episodeId": 2386476,
+          "season": 1,
+          "episode": 3,
+          "title": "Washington S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

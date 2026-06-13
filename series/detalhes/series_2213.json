@@ -1,0 +1,74 @@
+{
+  "id": "series_2213",
+  "type": "series",
+  "title": "La divina gula",
+  "originalTitle": "La divina gula",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/wROX6TYSbOWp2IRFvzyvQ4VudzH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dAXB3kHwLtJyF9DUTtlQ0JyE7vm.jpg",
+  "overview": "Delicie-se com esta viagem gastronômica pelas maravilhas da culinária mexicana e seus sabores peculiares.",
+  "rating": 6.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 155099,
+  "xtream": {
+    "seriesId": 2213
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2441953",
+          "episodeId": 2441953,
+          "season": 1,
+          "episode": 1,
+          "title": "La divina gula (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2441954",
+          "episodeId": 2441954,
+          "season": 1,
+          "episode": 2,
+          "title": "La divina gula (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2441955",
+          "episodeId": 2441955,
+          "season": 1,
+          "episode": 3,
+          "title": "La divina gula (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2441956",
+          "episodeId": 2441956,
+          "season": 1,
+          "episode": 4,
+          "title": "La divina gula (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2441957",
+          "episodeId": 2441957,
+          "season": 1,
+          "episode": 5,
+          "title": "La divina gula (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2441958",
+          "episodeId": 2441958,
+          "season": 1,
+          "episode": 6,
+          "title": "La divina gula (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

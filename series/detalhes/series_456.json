@@ -1,0 +1,106 @@
+{
+  "id": "series_456",
+  "type": "series",
+  "title": "One Strange Rock",
+  "originalTitle": "One Strange Rock",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/bLtoGQM3WhVFKtTk1h8w0lGH1n7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lX1An9AZV19BapiUbDgMyPbr0tZ.jpg",
+  "overview": "O programa levará os espectadores em uma jornada épica e cinematográfica pela Terra e espaço, combinando cenas de vários lugares do mundo com relatos de astronautas, cientistas e outros que têm perspectivas únicas sobre nosso planeta e lugar no universo.",
+  "rating": 7.7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 75782,
+  "xtream": {
+    "seriesId": 456
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2362471",
+          "episodeId": 2362471,
+          "season": 1,
+          "episode": 1,
+          "title": "One Strange Rock S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362472",
+          "episodeId": 2362472,
+          "season": 1,
+          "episode": 2,
+          "title": "One Strange Rock S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362473",
+          "episodeId": 2362473,
+          "season": 1,
+          "episode": 3,
+          "title": "One Strange Rock S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362474",
+          "episodeId": 2362474,
+          "season": 1,
+          "episode": 4,
+          "title": "One Strange Rock S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362475",
+          "episodeId": 2362475,
+          "season": 1,
+          "episode": 5,
+          "title": "One Strange Rock S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362476",
+          "episodeId": 2362476,
+          "season": 1,
+          "episode": 6,
+          "title": "One Strange Rock S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362477",
+          "episodeId": 2362477,
+          "season": 1,
+          "episode": 7,
+          "title": "One Strange Rock S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362478",
+          "episodeId": 2362478,
+          "season": 1,
+          "episode": 8,
+          "title": "One Strange Rock S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362479",
+          "episodeId": 2362479,
+          "season": 1,
+          "episode": 9,
+          "title": "One Strange Rock S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362480",
+          "episodeId": 2362480,
+          "season": 1,
+          "episode": 10,
+          "title": "One Strange Rock S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

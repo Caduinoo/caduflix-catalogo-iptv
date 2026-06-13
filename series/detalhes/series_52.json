@@ -1,0 +1,83 @@
+{
+  "id": "series_52",
+  "type": "series",
+  "title": "Godless",
+  "originalTitle": "Godless",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3CdnJBsEm2hZffF23wOJtfC0EIq.jpg",
+  "overview": "Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.",
+  "rating": 7.745,
+  "genres": [
+    "faroeste",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 73467,
+  "xtream": {
+    "seriesId": 52
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2343865",
+          "episodeId": 2343865,
+          "season": 1,
+          "episode": 1,
+          "title": "Godless S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2343866",
+          "episodeId": 2343866,
+          "season": 1,
+          "episode": 2,
+          "title": "Godless S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2343867",
+          "episodeId": 2343867,
+          "season": 1,
+          "episode": 3,
+          "title": "Godless S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2343868",
+          "episodeId": 2343868,
+          "season": 1,
+          "episode": 4,
+          "title": "Godless S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2343869",
+          "episodeId": 2343869,
+          "season": 1,
+          "episode": 5,
+          "title": "Godless S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2343870",
+          "episodeId": 2343870,
+          "season": 1,
+          "episode": 6,
+          "title": "Godless S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2343871",
+          "episodeId": 2343871,
+          "season": 1,
+          "episode": 7,
+          "title": "Godless S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

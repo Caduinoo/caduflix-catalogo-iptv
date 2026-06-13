@@ -1,0 +1,44 @@
+{
+  "id": "series_8208",
+  "type": "series",
+  "title": "Raio-X: Guerra do Irã",
+  "originalTitle": "Raio-X: Guerra do Irã",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/eqJNAIKCfUurDMSb9ku3vwjam1y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jAIMcX5ISFQWB5UsJIVugRbX8HC.jpg",
+  "overview": "A guerra no Irã está no noticiário todo dia, mas o que levou até ela? O Raio-X: Guerra do Irã reconstrói 2.500 anos de história para responder essa pergunta.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "guerra",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 318215,
+  "xtream": {
+    "seriesId": 8208
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2577771",
+          "episodeId": 2577771,
+          "season": 1,
+          "episode": 1,
+          "title": "Raio X Guerra do Ira (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2577772",
+          "episodeId": 2577772,
+          "season": 1,
+          "episode": 2,
+          "title": "Raio X Guerra do Ira (2026) S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

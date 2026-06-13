@@ -1,0 +1,83 @@
+{
+  "id": "series_1216",
+  "type": "series",
+  "title": "Escape at Dannemora",
+  "originalTitle": "Escape at Dannemora",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/odk6ccUtUJlGTzPApKS6s4CTTrK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/chu6bVjN5viCdfmzBcx5R3xYfTj.jpg",
+  "overview": "Relata a fuga de uma prisão em Nova Yokr no verão de 2015, que gerou uma perseguição por dois assassinos condenados que tiveram a fuga facilitada por uma funcionária casada com quem ambos se envolveram sexualmente.",
+  "rating": 7.486,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "paramount",
+  "tmdbId": 72039,
+  "xtream": {
+    "seriesId": 1216
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2401843",
+          "episodeId": 2401843,
+          "season": 1,
+          "episode": 1,
+          "title": "Escape at Dannemora S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401844",
+          "episodeId": 2401844,
+          "season": 1,
+          "episode": 2,
+          "title": "Escape at Dannemora S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401845",
+          "episodeId": 2401845,
+          "season": 1,
+          "episode": 3,
+          "title": "Escape at Dannemora S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401846",
+          "episodeId": 2401846,
+          "season": 1,
+          "episode": 4,
+          "title": "Escape at Dannemora S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401847",
+          "episodeId": 2401847,
+          "season": 1,
+          "episode": 5,
+          "title": "Escape at Dannemora S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401848",
+          "episodeId": 2401848,
+          "season": 1,
+          "episode": 6,
+          "title": "Escape at Dannemora S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2401849",
+          "episodeId": 2401849,
+          "season": 1,
+          "episode": 7,
+          "title": "Escape at Dannemora S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

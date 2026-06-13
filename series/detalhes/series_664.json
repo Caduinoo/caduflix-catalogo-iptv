@@ -1,0 +1,60 @@
+{
+  "id": "series_664",
+  "type": "series",
+  "title": "Betaal",
+  "originalTitle": "Betaal",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/87nmt1R1W34fNOb31fvDnw15fUa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tPUEME9NpRo4l3lxdVJRwp5stx5.jpg",
+  "overview": "Contratados para expulsar moradores de um vilarejo e abrir caminho para uma nova rodovia, soldados desenterram uma antiga maldição e uma tropa de zumbis britânicos.",
+  "rating": 6.5,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 103759,
+  "xtream": {
+    "seriesId": 664
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2370856",
+          "episodeId": 2370856,
+          "season": 1,
+          "episode": 1,
+          "title": "Betaal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370857",
+          "episodeId": 2370857,
+          "season": 1,
+          "episode": 2,
+          "title": "Betaal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370858",
+          "episodeId": 2370858,
+          "season": 1,
+          "episode": 3,
+          "title": "Betaal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370859",
+          "episodeId": 2370859,
+          "season": 1,
+          "episode": 4,
+          "title": "Betaal S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

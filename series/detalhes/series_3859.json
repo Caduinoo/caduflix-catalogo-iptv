@@ -1,0 +1,59 @@
+{
+  "id": "series_3859",
+  "type": "series",
+  "title": "Untold: Entre o Campo e o Crime",
+  "originalTitle": "Untold: Swamp Kings",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/44gAtsq2gVOMJOVFcPXRcsyzKRq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9QzZFb01s1NVn2QCvh2rcZRrRbD.jpg",
+  "overview": "Esta série documental mostra como o implacável técnico Urban Meyer transformou o Florida Gators em uma máquina de vitórias no futebol americano.",
+  "rating": 6.9,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 231297,
+  "xtream": {
+    "seriesId": 3859
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2483093",
+          "episodeId": 2483093,
+          "season": 1,
+          "episode": 1,
+          "title": "Untold: Entre o Campo e o Crime (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483094",
+          "episodeId": 2483094,
+          "season": 1,
+          "episode": 2,
+          "title": "Untold: Entre o Campo e o Crime (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483095",
+          "episodeId": 2483095,
+          "season": 1,
+          "episode": 3,
+          "title": "Untold: Entre o Campo e o Crime (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2483096",
+          "episodeId": 2483096,
+          "season": 1,
+          "episode": 4,
+          "title": "Untold: Entre o Campo e o Crime (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

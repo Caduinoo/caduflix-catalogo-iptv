@@ -1,0 +1,56 @@
+{
+  "id": "movie_2064187",
+  "type": "movie",
+  "title": "Estación Central",
+  "originalTitle": "Estación Central",
+  "year": 1990,
+  "poster": "https://image.tmdb.org/t/p/w500/aVk4qo1WqFuRnIjhHTYWMB6Lv19.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 7,
+  "runtime": 105,
+  "genres": [
+    "crime",
+    "suspense",
+    "thriller",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Féodor Atkine",
+      "character": "Alex",
+      "profile": "https://image.tmdb.org/t/p/w185/qCpSPJyM7v9p3fGBJV8ZqGETBr0.jpg"
+    },
+    {
+      "name": "Katarzyna Figura",
+      "character": "Elena",
+      "profile": "https://image.tmdb.org/t/p/w185/soJIovC7D98Pn9CvO2vgQbhcJGf.jpg"
+    },
+    {
+      "name": "Sergi Mateu",
+      "character": "Policia",
+      "profile": "https://image.tmdb.org/t/p/w185/vyHK0gKYY0USW0vycjORVGvRZ5J.jpg"
+    },
+    {
+      "name": "Paola Dominguín",
+      "character": "La Mujer de Alex",
+      "profile": "https://image.tmdb.org/t/p/w185/q8T81WzJySte7ZtSZo4W9Z7P361.jpg"
+    },
+    {
+      "name": "Günter Meisner",
+      "character": "El Amigo de Alex",
+      "profile": "https://image.tmdb.org/t/p/w185/ibAOPFB4cD61IG8zVDjepk2w3El.jpg"
+    },
+    {
+      "name": "Andreu Bresca",
+      "character": "Desconocido",
+      "profile": ""
+    }
+  ],
+  "director": "Josep Antoni Salgot i Vila",
+  "tmdbId": 510416,
+  "xtream": {
+    "streamId": 2064187,
+    "containerExtension": "mp4"
+  }
+}

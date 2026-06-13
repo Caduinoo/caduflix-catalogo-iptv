@@ -1,0 +1,92 @@
+{
+  "id": "series_6805",
+  "type": "series",
+  "title": "Styx",
+  "originalTitle": "Styx",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/t0wFaYqeq2l8xflTcLNIx1FVdvw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jbs3GxoGhb59bHnnDZGa7dt1XWG.jpg",
+  "overview": "",
+  "rating": 5.2,
+  "genres": [
+    "drama",
+    "crime",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 133431,
+  "xtream": {
+    "seriesId": 6805
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2552583",
+          "episodeId": 2552583,
+          "season": 1,
+          "episode": 1,
+          "title": "Styx [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552584",
+          "episodeId": 2552584,
+          "season": 1,
+          "episode": 2,
+          "title": "Styx [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552585",
+          "episodeId": 2552585,
+          "season": 1,
+          "episode": 3,
+          "title": "Styx [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552586",
+          "episodeId": 2552586,
+          "season": 1,
+          "episode": 4,
+          "title": "Styx [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552587",
+          "episodeId": 2552587,
+          "season": 1,
+          "episode": 5,
+          "title": "Styx [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552588",
+          "episodeId": 2552588,
+          "season": 1,
+          "episode": 6,
+          "title": "Styx [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552589",
+          "episodeId": 2552589,
+          "season": 1,
+          "episode": 7,
+          "title": "Styx [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2552590",
+          "episodeId": 2552590,
+          "season": 1,
+          "episode": 8,
+          "title": "Styx [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

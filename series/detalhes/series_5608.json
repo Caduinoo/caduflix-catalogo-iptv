@@ -1,0 +1,59 @@
+{
+  "id": "series_5608",
+  "type": "series",
+  "title": "Os Piores Ex",
+  "originalTitle": "Worst Ex Ever",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/92QUDVsbIsgomngpBGg7ed68AE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dlM1JVL3TGHYaNvaRrxuHZLXLLy.jpg",
+  "overview": "De traições assustadoras até assassinatos, esta série documental de crimes reais esmiúça o lado sombrio do amor por meio de depoimentos de testemunhas.",
+  "rating": 7.8,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 259259,
+  "xtream": {
+    "seriesId": 5608
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2525259",
+          "episodeId": 2525259,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Piores Ex S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525260",
+          "episodeId": 2525260,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Piores Ex S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525261",
+          "episodeId": 2525261,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Piores Ex S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2525262",
+          "episodeId": 2525262,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Piores Ex S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "series_1394",
+  "type": "series",
+  "title": "Halston",
+  "originalTitle": "Halston",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/yybENazTic3K2x797c8Q6tUIx7r.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kTuUYjlwsfBsiHCQPEc4clpDFAY.jpg",
+  "overview": "Seu nome construiu um império. Seu estilo definiu uma era. A carreira do estilista de moda Halston decola, mas sua vida logo foge do controle.",
+  "rating": 7,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 99617,
+  "xtream": {
+    "seriesId": 1394
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2407712",
+          "episodeId": 2407712,
+          "season": 1,
+          "episode": 1,
+          "title": "HALSTON S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2407713",
+          "episodeId": 2407713,
+          "season": 1,
+          "episode": 2,
+          "title": "HALSTON S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2407714",
+          "episodeId": 2407714,
+          "season": 1,
+          "episode": 3,
+          "title": "HALSTON S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2407715",
+          "episodeId": 2407715,
+          "season": 1,
+          "episode": 4,
+          "title": "HALSTON S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2407716",
+          "episodeId": 2407716,
+          "season": 1,
+          "episode": 5,
+          "title": "HALSTON S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "series_111",
+  "type": "series",
+  "title": "Os Inocentes",
+  "originalTitle": "The Innocents",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/4pVv7kRmBmfh3ppol4wsEeINZp8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7QJxHkdqAHbLzJObaNngQkOqkfG.jpg",
+  "overview": "Os namorados June e Harry fogem de casa e são arrastados para um mundo confuso e perigoso quando ela começa a demonstrar habilidades misteriosas.",
+  "rating": 5.6,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 77400,
+  "xtream": {
+    "seriesId": 111
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2347676",
+          "episodeId": 2347676,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Inocentes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2347677",
+          "episodeId": 2347677,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Inocentes S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2347678",
+          "episodeId": 2347678,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Inocentes S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2347679",
+          "episodeId": 2347679,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Inocentes S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2347680",
+          "episodeId": 2347680,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Inocentes S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2347681",
+          "episodeId": 2347681,
+          "season": 1,
+          "episode": 6,
+          "title": "Os Inocentes S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2347682",
+          "episodeId": 2347682,
+          "season": 1,
+          "episode": 7,
+          "title": "Os Inocentes S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2347683",
+          "episodeId": 2347683,
+          "season": 1,
+          "episode": 8,
+          "title": "Os Inocentes S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

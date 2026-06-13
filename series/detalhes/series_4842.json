@@ -1,0 +1,79 @@
+{
+  "id": "series_4842",
+  "type": "series",
+  "title": "Iwájú",
+  "originalTitle": "Iwájú",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/ezr554ZzSDDKU3CnxQjf38779H6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cGbnK0qMvIhf9m5ZT29GTIAQhtE.jpg",
+  "overview": "Dois amigos, em uma Nigéria futurística, descobrem os segredos e perigos de seus mundos.",
+  "rating": 6.8,
+  "genres": [
+    "animacao",
+    "comedia",
+    "fantasia",
+    "ficcao",
+    "familia",
+    "infantil"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 114481,
+  "xtream": {
+    "seriesId": 4842
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2508088",
+          "episodeId": 2508088,
+          "season": 1,
+          "episode": 1,
+          "title": "Iwaju (2024) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508089",
+          "episodeId": 2508089,
+          "season": 1,
+          "episode": 2,
+          "title": "Iwaju (2024) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508090",
+          "episodeId": 2508090,
+          "season": 1,
+          "episode": 3,
+          "title": "Iwaju (2024) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508091",
+          "episodeId": 2508091,
+          "season": 1,
+          "episode": 4,
+          "title": "Iwaju (2024) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508092",
+          "episodeId": 2508092,
+          "season": 1,
+          "episode": 5,
+          "title": "Iwaju (2024) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2508093",
+          "episodeId": 2508093,
+          "season": 1,
+          "episode": 6,
+          "title": "Iwaju (2024) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

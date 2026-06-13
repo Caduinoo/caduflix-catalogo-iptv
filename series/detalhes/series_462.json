@@ -1,0 +1,91 @@
+{
+  "id": "series_462",
+  "type": "series",
+  "title": "Little America",
+  "originalTitle": "Little America",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/8lAMdxL8uirqyavsD6H3QGQmTkA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/crp027PH5Cpa2VXDpNdmNrh9LWm.jpg",
+  "overview": "Da diretora e roteirista de CODA vencedora do Oscar, Pequena América é uma série antológica que acompanha as histórias divertidas, românticas, profundas, inspiradoras e surpreendentes de imigrantes nos Estados Unidos.",
+  "rating": 6.618,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "apple_tv_plus",
+  "tmdbId": 80336,
+  "xtream": {
+    "seriesId": 462
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2362529",
+          "episodeId": 2362529,
+          "season": 1,
+          "episode": 1,
+          "title": "Little America S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362530",
+          "episodeId": 2362530,
+          "season": 1,
+          "episode": 2,
+          "title": "Little America S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362531",
+          "episodeId": 2362531,
+          "season": 1,
+          "episode": 3,
+          "title": "Little America S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362532",
+          "episodeId": 2362532,
+          "season": 1,
+          "episode": 4,
+          "title": "Little America S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362533",
+          "episodeId": 2362533,
+          "season": 1,
+          "episode": 5,
+          "title": "Little America S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362534",
+          "episodeId": 2362534,
+          "season": 1,
+          "episode": 6,
+          "title": "Little America S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362535",
+          "episodeId": 2362535,
+          "season": 1,
+          "episode": 7,
+          "title": "Little America S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2362536",
+          "episodeId": 2362536,
+          "season": 1,
+          "episode": 8,
+          "title": "Little America S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

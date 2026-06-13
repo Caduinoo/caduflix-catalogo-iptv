@@ -1,0 +1,51 @@
+{
+  "id": "series_5456",
+  "type": "series",
+  "title": "Adolescentes: Tortura e Abuso",
+  "originalTitle": "Teen Torture, Inc.",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/sAOeAnMM4D9XIISvvZ771NkbPWM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/roCiFwvhy2qJYzExRv6JiCqP0BX.jpg",
+  "overview": "Em 2021, sobreviventes e advogados ativistas uniram esforços para acabar com os abusos cometidos pela indústria de adolescentes problemáticos nos EUA.",
+  "rating": 7,
+  "genres": [
+    "drama",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 258342,
+  "xtream": {
+    "seriesId": 5456
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2521361",
+          "episodeId": 2521361,
+          "season": 1,
+          "episode": 1,
+          "title": "Teen Torture Inc [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2521362",
+          "episodeId": 2521362,
+          "season": 1,
+          "episode": 2,
+          "title": "Teen Torture Inc [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2521363",
+          "episodeId": 2521363,
+          "season": 1,
+          "episode": 3,
+          "title": "Teen Torture Inc [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

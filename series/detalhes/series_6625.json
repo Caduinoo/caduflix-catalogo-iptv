@@ -1,0 +1,75 @@
+{
+  "id": "series_6625",
+  "type": "series",
+  "title": "Stags",
+  "originalTitle": "Stags",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w780/hWuPx5XHF8vnNWIW9hdq3CuRPAb.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Um grupo de britânicos chega à América do Sul para celebrar a \"última semana de liberdade\" de Stu. Mas quando um deles desmaia no aeroporto, a parte da última semana de liberdade se torna real demais.",
+  "rating": 0,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 106036,
+  "xtream": {
+    "seriesId": 6625
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2549664",
+          "episodeId": 2549664,
+          "season": 1,
+          "episode": 1,
+          "title": "Stags S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549665",
+          "episodeId": 2549665,
+          "season": 1,
+          "episode": 2,
+          "title": "Stags S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549666",
+          "episodeId": 2549666,
+          "season": 1,
+          "episode": 3,
+          "title": "Stags S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549667",
+          "episodeId": 2549667,
+          "season": 1,
+          "episode": 4,
+          "title": "Stags S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549668",
+          "episodeId": 2549668,
+          "season": 1,
+          "episode": 5,
+          "title": "Stags S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2549669",
+          "episodeId": 2549669,
+          "season": 1,
+          "episode": 6,
+          "title": "Stags S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

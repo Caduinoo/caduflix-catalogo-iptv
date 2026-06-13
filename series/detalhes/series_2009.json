@@ -1,0 +1,76 @@
+{
+  "id": "series_2009",
+  "type": "series",
+  "title": "Supernormal",
+  "originalTitle": "Supernormal",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/uU2oftBNJjizWIiF4nctM1Az0PP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eHLRwO4If0snqzgjtdqS6Ead8gQ.jpg",
+  "overview": "Patricia quer ser a melhor em tudo, mas as linhas que separam a família do trabalho são muito tênues e ela vai terminar levando trabalho para casa e a família para o trabalho.",
+  "rating": 4.8,
+  "genres": [
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 126410,
+  "xtream": {
+    "seriesId": 2009
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2434723",
+          "episodeId": 2434723,
+          "season": 1,
+          "episode": 1,
+          "title": "Supernormal (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434724",
+          "episodeId": 2434724,
+          "season": 1,
+          "episode": 2,
+          "title": "Supernormal (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434725",
+          "episodeId": 2434725,
+          "season": 1,
+          "episode": 3,
+          "title": "Supernormal (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434726",
+          "episodeId": 2434726,
+          "season": 1,
+          "episode": 4,
+          "title": "Supernormal (2021) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434727",
+          "episodeId": 2434727,
+          "season": 1,
+          "episode": 5,
+          "title": "Supernormal (2021) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2434728",
+          "episodeId": 2434728,
+          "season": 1,
+          "episode": 6,
+          "title": "Supernormal (2021) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

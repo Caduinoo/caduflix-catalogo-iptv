@@ -1,0 +1,38 @@
+{
+  "id": "movie_2122100",
+  "type": "movie",
+  "title": "Together",
+  "originalTitle": "Together",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/6J0Z0VUKyLyx4lZJXSd2OwFMmkW.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 8,
+  "runtime": 110,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Pep Guardiola",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/f6Hs7XswTeyc9jueD1LTQbSsp1p.jpg"
+    },
+    {
+      "name": "Sergio Agüero",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/cvoeNeGkdzBmJEAX3IaH0NYUgJ6.jpg"
+    },
+    {
+      "name": "Kevin de Bruyne",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/pXw4IlUAuF36zAiKodH5MoiN3o6.jpg"
+    }
+  ],
+  "director": "",
+  "tmdbId": 865673,
+  "xtream": {
+    "streamId": 2122100,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "series_800",
+  "type": "series",
+  "title": "Sandy & Junior: A História",
+  "originalTitle": "Sandy & Junior: A História",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/rp0ZjQDKUHNyXF2imPs71pDt9WR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aTyiNBin2ALKGDMAHtSlWajhyEg.jpg",
+  "overview": "A série documental mostra a trajetória de sucesso da dupla Sandy & Junior, oferecendo ao público uma viagem pela vida profissional e pessoal dos irmãos que se tornaram um marco da música brasileira. Os sete episódios acompanham diversos momentos de sua carreira artística, desde a infância até a recente turnê Nossa História. A partir de um vasto arquivo musical e de imagens inéditas, a produção reconstrói os mais de 30 anos da dupla, trazendo ainda depoimentos de familiares, fãs e grandes artistas como Roberto Carlos e Ivete Sangalo.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "historia",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 97710,
+  "xtream": {
+    "seriesId": 800
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2384762",
+          "episodeId": 2384762,
+          "season": 1,
+          "episode": 1,
+          "title": "Sandy & Junior: A História S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384763",
+          "episodeId": 2384763,
+          "season": 1,
+          "episode": 2,
+          "title": "Sandy & Junior: A História S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384764",
+          "episodeId": 2384764,
+          "season": 1,
+          "episode": 3,
+          "title": "Sandy & Junior: A História S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384765",
+          "episodeId": 2384765,
+          "season": 1,
+          "episode": 4,
+          "title": "Sandy & Junior: A História S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384766",
+          "episodeId": 2384766,
+          "season": 1,
+          "episode": 5,
+          "title": "Sandy & Junior: A História S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384767",
+          "episodeId": 2384767,
+          "season": 1,
+          "episode": 6,
+          "title": "Sandy & Junior: A História S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2384768",
+          "episodeId": 2384768,
+          "season": 1,
+          "episode": 7,
+          "title": "Sandy & Junior: A História S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

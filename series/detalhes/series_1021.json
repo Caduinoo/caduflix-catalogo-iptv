@@ -1,0 +1,50 @@
+{
+  "id": "series_1021",
+  "type": "series",
+  "title": "Alguém tem que morrer",
+  "originalTitle": "Alguien tiene que morir",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/phM7yIMYHj9ZaUCnLaytCd7XpTd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xOLsV4b1BZYsthV9Bg1hEx18kxN.jpg",
+  "overview": "Na Espanha da década de 50, um casal chama o filho de volta do México para apresentá-lo a sua noiva. Mal sabiam que ele chegaria acompanhado de um bailarino.",
+  "rating": 6.987,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 105904,
+  "xtream": {
+    "seriesId": 1021
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2393762",
+          "episodeId": 2393762,
+          "season": 1,
+          "episode": 1,
+          "title": "Alguém tem que morrer S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2393763",
+          "episodeId": 2393763,
+          "season": 1,
+          "episode": 2,
+          "title": "Alguém tem que morrer S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2393764",
+          "episodeId": 2393764,
+          "season": 1,
+          "episode": 3,
+          "title": "Alguém tem que morrer S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

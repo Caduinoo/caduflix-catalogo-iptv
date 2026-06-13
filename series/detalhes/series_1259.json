@@ -1,0 +1,74 @@
+{
+  "id": "series_1259",
+  "type": "series",
+  "title": "Little Birds",
+  "originalTitle": "Little Birds",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/8rX24A3fV8jjnsDnLZ9O8OL4td6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iS7ZhboZegUrUcbFeaoZ9ZSBFGQ.jpg",
+  "overview": "Adaptada dos contos eróticos de Anaïs Nin, Little Birds decorre em Tânger, em 1955, numa famosa zona internacional, e segue a história de Lucy Savage (Juno Temple), uma americana problemática com dificuldades em ambientar-se a um país diferente. Entusiasmada por fugir aos seus pais, Lucy está radiante por se casar com o seu noivo britânico, mas nunca poderia adivinhar o que o futuro lhe reserva.",
+  "rating": 6.6,
+  "genres": [
+    "drama"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 106149,
+  "xtream": {
+    "seriesId": 1259
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2403525",
+          "episodeId": 2403525,
+          "season": 1,
+          "episode": 1,
+          "title": "Little Birds S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403526",
+          "episodeId": 2403526,
+          "season": 1,
+          "episode": 2,
+          "title": "Little Birds S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403527",
+          "episodeId": 2403527,
+          "season": 1,
+          "episode": 3,
+          "title": "Little Birds S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403528",
+          "episodeId": 2403528,
+          "season": 1,
+          "episode": 4,
+          "title": "Little Birds S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403529",
+          "episodeId": 2403529,
+          "season": 1,
+          "episode": 5,
+          "title": "Little Birds S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2403530",
+          "episodeId": 2403530,
+          "season": 1,
+          "episode": 6,
+          "title": "Little Birds S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

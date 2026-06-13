@@ -1,0 +1,59 @@
+{
+  "id": "series_1298",
+  "type": "series",
+  "title": "O Maior Roubo de Arte de Todos os Tempos",
+  "originalTitle": "This Is a Robbery: The World's Biggest Art Heist",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/ncDBeRjalCMwmPs9yBv4KfNZrEo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dgwKC13bWaPrR3hX1klsftVZTa0.jpg",
+  "overview": "Foi o maior roubo de arte da história: no Dia de São Patrício em 1990, obras lendárias de Rembrandt, Vermeer e outros, que hoje valeriam mais de meio bilhão de dólares, foram roubadas do Museu Isabella Stewart Gardner em Boston. Com direção de Colin Barnicle, esta série documental em quatro partes conta como foi a investigação desse mistério, que até hoje não foi resolvido.",
+  "rating": 6.612,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 120582,
+  "xtream": {
+    "seriesId": 1298
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2404484",
+          "episodeId": 2404484,
+          "season": 1,
+          "episode": 1,
+          "title": "O Maior Roubo de Arte de Todos os Tempos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404485",
+          "episodeId": 2404485,
+          "season": 1,
+          "episode": 2,
+          "title": "O Maior Roubo de Arte de Todos os Tempos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404486",
+          "episodeId": 2404486,
+          "season": 1,
+          "episode": 3,
+          "title": "O Maior Roubo de Arte de Todos os Tempos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2404487",
+          "episodeId": 2404487,
+          "season": 1,
+          "episode": 4,
+          "title": "O Maior Roubo de Arte de Todos os Tempos S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

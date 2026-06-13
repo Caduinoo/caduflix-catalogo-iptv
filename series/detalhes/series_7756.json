@@ -1,0 +1,75 @@
+{
+  "id": "series_7756",
+  "type": "series",
+  "title": "Borderline",
+  "originalTitle": "Borderline",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/pITarGliaAOFryTslXtVPr3F9Oq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oMRTZAna2FwUjQgYxNkxq47xaW2.jpg",
+  "overview": "Dois detetives de origens muito diferentes formam uma parceria improvável de combate ao crime, superando o atrito inicial e personalidades contrastantes.",
+  "rating": 4,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 265228,
+  "xtream": {
+    "seriesId": 7756
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2571598",
+          "episodeId": 2571598,
+          "season": 1,
+          "episode": 1,
+          "title": "Borderline [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571599",
+          "episodeId": 2571599,
+          "season": 1,
+          "episode": 2,
+          "title": "Borderline [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571600",
+          "episodeId": 2571600,
+          "season": 1,
+          "episode": 3,
+          "title": "Borderline [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571601",
+          "episodeId": 2571601,
+          "season": 1,
+          "episode": 4,
+          "title": "Borderline [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571602",
+          "episodeId": 2571602,
+          "season": 1,
+          "episode": 5,
+          "title": "Borderline [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2571603",
+          "episodeId": 2571603,
+          "season": 1,
+          "episode": 6,
+          "title": "Borderline [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

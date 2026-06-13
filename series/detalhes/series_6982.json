@@ -1,0 +1,50 @@
+{
+  "id": "series_6982",
+  "type": "series",
+  "title": "Seita Perigosa",
+  "originalTitle": "My Daughter Joined A Cult",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/4qOcTxJ3lNTDPW0oNiGzBFinmFi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/50diSHKgnZWMhfvxtp7reVhUhQ.jpg",
+  "overview": "Com depoimentos apresentados por ex-devotos, esta serie documental acompanha a vida do polemico deus autoproclamado, Swami Nithyananda, lider de uma polemica seita acusada de diversos crimes, incluindo abuso sexual.",
+  "rating": 7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 203595,
+  "xtream": {
+    "seriesId": 6982
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2557769",
+          "episodeId": 2557769,
+          "season": 1,
+          "episode": 1,
+          "title": "Seita Perigosa [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557770",
+          "episodeId": 2557770,
+          "season": 1,
+          "episode": 2,
+          "title": "Seita Perigosa [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2557771",
+          "episodeId": 2557771,
+          "season": 1,
+          "episode": 3,
+          "title": "Seita Perigosa [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

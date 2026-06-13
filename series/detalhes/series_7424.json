@@ -1,0 +1,75 @@
+{
+  "id": "series_7424",
+  "type": "series",
+  "title": "Oxen",
+  "originalTitle": "Oxen",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/wT59rc9KbF04iSbOJMKzy7SuYPB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cVQTxwqf3QtGt7docyLHSIHAC41.jpg",
+  "overview": "Veterano de guerra e ex-soldado caçador Niels Oxen, o soldado mais condecorado da Dinamarca de todos os tempos. Enviado para casa com trauma de guerra, ele tenta criar sentido na vida e fazer com que a vida cotidiana se encaixe.",
+  "rating": 6.8,
+  "genres": [
+    "crime",
+    "guerra"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 237247,
+  "xtream": {
+    "seriesId": 7424
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2565794",
+          "episodeId": 2565794,
+          "season": 1,
+          "episode": 1,
+          "title": "Oxen S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565795",
+          "episodeId": 2565795,
+          "season": 1,
+          "episode": 2,
+          "title": "Oxen S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565796",
+          "episodeId": 2565796,
+          "season": 1,
+          "episode": 3,
+          "title": "Oxen S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565797",
+          "episodeId": 2565797,
+          "season": 1,
+          "episode": 4,
+          "title": "Oxen S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565798",
+          "episodeId": 2565798,
+          "season": 1,
+          "episode": 5,
+          "title": "Oxen S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2565799",
+          "episodeId": 2565799,
+          "season": 1,
+          "episode": 6,
+          "title": "Oxen S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

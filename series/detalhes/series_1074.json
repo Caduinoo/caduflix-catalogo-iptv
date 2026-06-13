@@ -1,0 +1,93 @@
+{
+  "id": "series_1074",
+  "type": "series",
+  "title": "No Man's Land",
+  "originalTitle": "No Man's Land",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/jdf3GaBuyPBWnC84HtcJlyBawWb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2HXiNAW3CWsuDq30Mf7nHnsQ3ea.jpg",
+  "overview": "Enquanto a família chora a morte de Anna, seu irmão suspeita que ela está viva depois de vê-la numa reportagem. Sem certezas nem garantias, ele parte para a Síria à sua procura.",
+  "rating": 6.883,
+  "genres": [
+    "acao",
+    "aventura",
+    "guerra",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 110222,
+  "xtream": {
+    "seriesId": 1074
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2395965",
+          "episodeId": 2395965,
+          "season": 1,
+          "episode": 1,
+          "title": "No Mans Land S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395966",
+          "episodeId": 2395966,
+          "season": 1,
+          "episode": 2,
+          "title": "No Mans Land S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395967",
+          "episodeId": 2395967,
+          "season": 1,
+          "episode": 3,
+          "title": "No Mans Land S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395968",
+          "episodeId": 2395968,
+          "season": 1,
+          "episode": 4,
+          "title": "No Mans Land S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395969",
+          "episodeId": 2395969,
+          "season": 1,
+          "episode": 5,
+          "title": "No Mans Land S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395970",
+          "episodeId": 2395970,
+          "season": 1,
+          "episode": 6,
+          "title": "No Mans Land S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395971",
+          "episodeId": 2395971,
+          "season": 1,
+          "episode": 7,
+          "title": "No Mans Land S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2395972",
+          "episodeId": 2395972,
+          "season": 1,
+          "episode": 8,
+          "title": "No Mans Land S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

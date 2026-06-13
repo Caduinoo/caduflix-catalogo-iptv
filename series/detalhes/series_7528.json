@@ -1,0 +1,60 @@
+{
+  "id": "series_7528",
+  "type": "series",
+  "title": "O Monstro de Florença",
+  "originalTitle": "Il Mostro",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/7f9wTgbnIqrmKptFTdxUSmmyXdM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nYYJBixUNZAk4lmWdE5NBUfIMuw.jpg",
+  "overview": "Por anos, um serial killer aterrorizou casais na Itália. Agora, as autoridades exploram um caso de 1968 que pode ser a chave para encontrar o Monstro de Florença.",
+  "rating": 6.294,
+  "genres": [
+    "crime",
+    "misterio",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 247756,
+  "xtream": {
+    "seriesId": 7528
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2567569",
+          "episodeId": 2567569,
+          "season": 1,
+          "episode": 1,
+          "title": "O Monstro de Florenca S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567570",
+          "episodeId": 2567570,
+          "season": 1,
+          "episode": 2,
+          "title": "O Monstro de Florenca S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567571",
+          "episodeId": 2567571,
+          "season": 1,
+          "episode": 3,
+          "title": "O Monstro de Florenca S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567572",
+          "episodeId": 2567572,
+          "season": 1,
+          "episode": 4,
+          "title": "O Monstro de Florenca S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

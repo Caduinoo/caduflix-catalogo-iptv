@@ -1,0 +1,79 @@
+{
+  "id": "series_6373",
+  "type": "series",
+  "title": "Expurgo",
+  "originalTitle": "Expurgo",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/81Prlt9DaZ05uvOGNbPkJZVdufh.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Na escola, indo contra as regras, Nicolas (Jonnathan Correa) conseguiu se defender do bullying violento de Demétrio (Fernando Uhlmann), Evandro (Phelipe Berry) e Fabiano (Erick Perini). Isso pode ter causado grandes mudanças em suas vidas. Estão Nicolas e seu namorado Gabriel (Eron de Oliveira) preparados para enfrentar a vingança de Demétrio e seus amigos?",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 284249,
+  "xtream": {
+    "seriesId": 6373
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2545394",
+          "episodeId": 2545394,
+          "season": 1,
+          "episode": 1,
+          "title": "Expurgo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2545395",
+          "episodeId": 2545395,
+          "season": 1,
+          "episode": 2,
+          "title": "Expurgo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2545396",
+          "episodeId": 2545396,
+          "season": 1,
+          "episode": 3,
+          "title": "Expurgo S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_2545397",
+          "episodeId": 2545397,
+          "season": 2,
+          "episode": 1,
+          "title": "Expurgo S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2545398",
+          "episodeId": 2545398,
+          "season": 2,
+          "episode": 2,
+          "title": "Expurgo S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2545399",
+          "episodeId": 2545399,
+          "season": 2,
+          "episode": 3,
+          "title": "Expurgo S02 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

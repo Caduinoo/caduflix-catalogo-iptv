@@ -1,0 +1,58 @@
+{
+  "id": "series_1669",
+  "type": "series",
+  "title": "UFO",
+  "originalTitle": "UFO",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/vCGqIRUdZ4mVrzeB2B6vKSumZDM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f5lIKPPRuhe8lqLfKoDbyHMBgCe.jpg",
+  "overview": "",
+  "rating": 7.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 127642,
+  "xtream": {
+    "seriesId": 1669
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2422189",
+          "episodeId": 2422189,
+          "season": 1,
+          "episode": 1,
+          "title": "UFO (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422190",
+          "episodeId": 2422190,
+          "season": 1,
+          "episode": 2,
+          "title": "UFO (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422191",
+          "episodeId": 2422191,
+          "season": 1,
+          "episode": 3,
+          "title": "UFO (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2422192",
+          "episodeId": 2422192,
+          "season": 1,
+          "episode": 4,
+          "title": "UFO (2021) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

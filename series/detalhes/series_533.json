@@ -1,0 +1,69 @@
+{
+  "id": "series_533",
+  "type": "series",
+  "title": "Histórias Maravilhosas",
+  "originalTitle": "Amazing Stories",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/fWqy4ApCHnRrMPkhUPII3yjJZN3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oG3Lsjw6a4mvqhsqA1KtWiaxdH3.jpg",
+  "overview": "Dos produtores exceutivos visionários, Steven Spielberg e Edward Kitsis & Adam Horowitz, esta reimaginação da clássica série antológica transporta personagens cotidianos a mundos cheios de maravilha, possibilidades e imaginação.",
+  "rating": 7.321,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "apple_tv_plus",
+  "tmdbId": 98178,
+  "xtream": {
+    "seriesId": 533
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2366053",
+          "episodeId": 2366053,
+          "season": 1,
+          "episode": 1,
+          "title": "Histórias Maravilhosas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366054",
+          "episodeId": 2366054,
+          "season": 1,
+          "episode": 2,
+          "title": "Histórias Maravilhosas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366055",
+          "episodeId": 2366055,
+          "season": 1,
+          "episode": 3,
+          "title": "Histórias Maravilhosas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366056",
+          "episodeId": 2366056,
+          "season": 1,
+          "episode": 4,
+          "title": "Histórias Maravilhosas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2366057",
+          "episodeId": 2366057,
+          "season": 1,
+          "episode": 5,
+          "title": "Histórias Maravilhosas S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

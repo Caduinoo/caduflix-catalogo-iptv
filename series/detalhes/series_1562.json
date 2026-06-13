@@ -1,0 +1,58 @@
+{
+  "id": "series_1562",
+  "type": "series",
+  "title": "Allen contra Farrow",
+  "originalTitle": "Allen v. Farrow",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/jXC3tk2apwPxDpFHQaQH5ATDhlP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ijnwlEQtrPih5VJo0dt3IXcB4kN.jpg",
+  "overview": "Série documental original da HBO em quatro partes que revela a história privada da acusação de abuso sexual contra\n\nWoody Allen.",
+  "rating": 6.324,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 118321,
+  "xtream": {
+    "seriesId": 1562
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2415480",
+          "episodeId": 2415480,
+          "season": 1,
+          "episode": 1,
+          "title": "Allen v. Farrow (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2415481",
+          "episodeId": 2415481,
+          "season": 1,
+          "episode": 2,
+          "title": "Allen v. Farrow (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2415482",
+          "episodeId": 2415482,
+          "season": 1,
+          "episode": 3,
+          "title": "Allen v. Farrow (2021) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2415483",
+          "episodeId": 2415483,
+          "season": 1,
+          "episode": 4,
+          "title": "Allen v. Farrow (2021) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

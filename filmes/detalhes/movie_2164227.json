@@ -1,0 +1,38 @@
+{
+  "id": "movie_2164227",
+  "type": "movie",
+  "title": "Crabs",
+  "originalTitle": "Crabs",
+  "year": 2012,
+  "poster": "https://image.tmdb.org/t/p/w780/r1gdFxHgcA49sXpSReq7GS18JeT.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 7,
+  "runtime": 14,
+  "genres": [
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Sky Elobar",
+      "character": "Drifter",
+      "profile": "https://image.tmdb.org/t/p/w185/lUom3tjfqpqNoxM1ljt74u6jnaY.jpg"
+    },
+    {
+      "name": "Noah Geldberg",
+      "character": "Son",
+      "profile": ""
+    },
+    {
+      "name": "Carl Solomon",
+      "character": "Father",
+      "profile": ""
+    }
+  ],
+  "director": "Jim Hosking",
+  "tmdbId": 403923,
+  "xtream": {
+    "streamId": 2164227,
+    "containerExtension": "mp4"
+  }
+}

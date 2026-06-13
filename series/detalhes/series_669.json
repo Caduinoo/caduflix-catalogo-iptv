@@ -1,0 +1,48 @@
+{
+  "id": "series_669",
+  "type": "series",
+  "title": "Coronavirus Explained",
+  "originalTitle": "Coronavirus Explained",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w780/6gcgnWLWbEURoeA0FCjUOtCfDrf.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Em 2020, o mundo mudou. Esta série investiga a pandemia do coronavírus, os esforços para combatê-la e os impactos na saúde mental.",
+  "rating": 7,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 669
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2371035",
+          "episodeId": 2371035,
+          "season": 1,
+          "episode": 1,
+          "title": "Coronavirus Explained [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2371036",
+          "episodeId": 2371036,
+          "season": 1,
+          "episode": 2,
+          "title": "Coronavirus Explained [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2371037",
+          "episodeId": 2371037,
+          "season": 1,
+          "episode": 3,
+          "title": "Coronavirus Explained [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

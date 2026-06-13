@@ -1,0 +1,38 @@
+{
+  "id": "movie_2153932",
+  "type": "movie",
+  "title": "A Dança dos Esqueletos",
+  "originalTitle": "The Skeleton Dance",
+  "year": 1929,
+  "poster": "https://image.tmdb.org/t/p/w500/m1qjVAp4AeOQF79QwinIxZDbUAN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kw44acMdZBc1NAvuHAdMRO4i4pi.jpg",
+  "overview": "O relógio bate meia noite, morcegos voam pelo céu, um cachorro uiva para a lua cheia e dois gatos pretos brigam no cemitério: a hora perfeita para quatro esqueletos saírem e dançarem como nenhuma criatura viva poderia.",
+  "rating": 7.39,
+  "runtime": 6,
+  "genres": [
+    "animacao",
+    "familia",
+    "infantil",
+    "musica",
+    "comedia",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Walt Disney",
+      "character": "Dog (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg"
+    },
+    {
+      "name": "Carl W. Stalling",
+      "character": "Alley Cats (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/pvo2CuSZen19HwzODF9v42OhQmR.jpg"
+    }
+  ],
+  "director": "Walt Disney",
+  "tmdbId": 88018,
+  "xtream": {
+    "streamId": 2153932,
+    "containerExtension": "mp4"
+  }
+}

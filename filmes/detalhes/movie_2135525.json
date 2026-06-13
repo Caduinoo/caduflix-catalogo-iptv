@@ -1,0 +1,50 @@
+{
+  "id": "movie_2135525",
+  "type": "movie",
+  "title": "A Rainha da Noite",
+  "originalTitle": "A Rainha da Noite",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/6802GUoeXP0BKPG7cd44s3Qmgpb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/owpymXje5pSkmzYStx5YdFOah9V.jpg",
+  "overview": "Uma estátua desce do pedestal e sai à procura de sua Criadora, a gélida Rainha da Noite. Pela noite urbana, ela encontra figuras misteriosas que desaparecem como sombras. Livremente inspirado em personagens da ópera A Flauta Mágica, de Mozart.",
+  "rating": 6,
+  "runtime": 46,
+  "genres": [
+    "fantasia",
+    "terror",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Raquel Maia",
+      "character": "A Rainha",
+      "profile": ""
+    },
+    {
+      "name": "Júlio Bressane",
+      "character": "O Espectro",
+      "profile": "https://image.tmdb.org/t/p/w185/jSFn17yLBKwcwQrk0qn7nhkwT66.jpg"
+    },
+    {
+      "name": "Vinícius Dratovsky",
+      "character": "O Escravo",
+      "profile": ""
+    },
+    {
+      "name": "Camilla Tavares",
+      "character": "A Estátua",
+      "profile": ""
+    },
+    {
+      "name": "Carlos Canano",
+      "character": "Narrador",
+      "profile": ""
+    }
+  ],
+  "director": "Pedro Almeida",
+  "tmdbId": 1100784,
+  "xtream": {
+    "streamId": 2135525,
+    "containerExtension": "mp4"
+  }
+}

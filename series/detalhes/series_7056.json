@@ -1,0 +1,56 @@
+{
+  "id": "series_7056",
+  "type": "series",
+  "title": "Chuhai Lips",
+  "originalTitle": "Chuhai Lips",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w780/zdW66E4S2JKTrkh4K2BU5b2kwQX.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 8,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7056
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2559411",
+          "episodeId": 2559411,
+          "season": 1,
+          "episode": 1,
+          "title": "Chuhai Lips [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559412",
+          "episodeId": 2559412,
+          "season": 1,
+          "episode": 2,
+          "title": "Chuhai Lips [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559413",
+          "episodeId": 2559413,
+          "season": 1,
+          "episode": 3,
+          "title": "Chuhai Lips [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2559414",
+          "episodeId": 2559414,
+          "season": 1,
+          "episode": 4,
+          "title": "Chuhai Lips [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

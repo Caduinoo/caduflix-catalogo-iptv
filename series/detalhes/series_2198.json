@@ -1,0 +1,58 @@
+{
+  "id": "series_2198",
+  "type": "series",
+  "title": "A Mentira",
+  "originalTitle": "The Deceived",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/qXnP9wRL1XjhTZ4g9HaDvbI5jr1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jSZL4DdWxzZPdnXE0FdmG5PveYR.jpg",
+  "overview": "Ophelia se apaixona pelo seu professor de literatura, que é casado. Quando ele misteriosamente desaparece, ela o procura e descobre segredos inimagináveis sobre sua vida.",
+  "rating": 5.1,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 106755,
+  "xtream": {
+    "seriesId": 2198
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2441653",
+          "episodeId": 2441653,
+          "season": 1,
+          "episode": 1,
+          "title": "A Mentira (2020) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2441654",
+          "episodeId": 2441654,
+          "season": 1,
+          "episode": 2,
+          "title": "A Mentira (2020) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2441655",
+          "episodeId": 2441655,
+          "season": 1,
+          "episode": 3,
+          "title": "A Mentira (2020) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2441656",
+          "episodeId": 2441656,
+          "season": 1,
+          "episode": 4,
+          "title": "A Mentira (2020) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

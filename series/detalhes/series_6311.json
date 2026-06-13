@@ -1,0 +1,67 @@
+{
+  "id": "series_6311",
+  "type": "series",
+  "title": "Hooligan",
+  "originalTitle": "Kibic",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/qVjcFke33khnnewk50c5ZCqUvGG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fA9VmVg5N5RYbhdsC4n2SgiVdec.jpg",
+  "overview": "Para o jovem Kuba, de 17 anos, é difícil não seguir os passos do pai, um hooligan que acabou de sair da cadeia. Afinal, futebol é família.",
+  "rating": 6.9,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 280872,
+  "xtream": {
+    "seriesId": 6311
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2543258",
+          "episodeId": 2543258,
+          "season": 1,
+          "episode": 1,
+          "title": "Hooligan S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543259",
+          "episodeId": 2543259,
+          "season": 1,
+          "episode": 2,
+          "title": "Hooligan S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543260",
+          "episodeId": 2543260,
+          "season": 1,
+          "episode": 3,
+          "title": "Hooligan S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543261",
+          "episodeId": 2543261,
+          "season": 1,
+          "episode": 4,
+          "title": "Hooligan S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2543262",
+          "episodeId": 2543262,
+          "season": 1,
+          "episode": 5,
+          "title": "Hooligan S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

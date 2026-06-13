@@ -1,0 +1,75 @@
+{
+  "id": "series_2170",
+  "type": "series",
+  "title": "Ideias à Venda",
+  "originalTitle": "Ideias à Venda",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/o7NJ2yXJNOEYBwJ5BjjDzl6aV1x.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/24LdCtydtIEBA3lUn50bnbVmONP.jpg",
+  "overview": "Um reality show em que, a cada episódio, 4 empreendedores apresentam seus produtos e são colocados à prova por um júri especial e 100 pessoas da plateia. No reality, a apresentadora Eliana, com Luana Génot como jurada fixa, comanda uma competição que dá 200 mil reais ao melhor negócio de cada rodada.",
+  "rating": 6,
+  "genres": [
+    "reality",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 155496,
+  "xtream": {
+    "seriesId": 2170
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2440772",
+          "episodeId": 2440772,
+          "season": 1,
+          "episode": 1,
+          "title": "Ideias à Venda (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440773",
+          "episodeId": 2440773,
+          "season": 1,
+          "episode": 2,
+          "title": "Ideias à Venda (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440774",
+          "episodeId": 2440774,
+          "season": 1,
+          "episode": 3,
+          "title": "Ideias à Venda (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440775",
+          "episodeId": 2440775,
+          "season": 1,
+          "episode": 4,
+          "title": "Ideias à Venda (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440776",
+          "episodeId": 2440776,
+          "season": 1,
+          "episode": 5,
+          "title": "Ideias à Venda (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2440777",
+          "episodeId": 2440777,
+          "season": 1,
+          "episode": 6,
+          "title": "Ideias à Venda (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

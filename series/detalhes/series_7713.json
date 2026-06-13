@@ -1,0 +1,68 @@
+{
+  "id": "series_7713",
+  "type": "series",
+  "title": "Expresso Sicília",
+  "originalTitle": "Sicilia Express",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/2D1lZv6TEa938P0tZLub1gK4iEp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ytLYh9lWn7MItdcuIqA50pnIkeC.jpg",
+  "overview": "Logo antes do Natal, dois amigos sicilianos trabalhando em Milão descobrem uma lixeira que os leva direto para suas famílias em poucos segundos.",
+  "rating": 7,
+  "genres": [
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "producer": "netflix",
+  "tmdbId": 303072,
+  "xtream": {
+    "seriesId": 7713
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2570658",
+          "episodeId": 2570658,
+          "season": 1,
+          "episode": 1,
+          "title": "Expresso Sicilia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570659",
+          "episodeId": 2570659,
+          "season": 1,
+          "episode": 2,
+          "title": "Expresso Sicilia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570660",
+          "episodeId": 2570660,
+          "season": 1,
+          "episode": 3,
+          "title": "Expresso Sicilia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570661",
+          "episodeId": 2570661,
+          "season": 1,
+          "episode": 4,
+          "title": "Expresso Sicilia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2570662",
+          "episodeId": 2570662,
+          "season": 1,
+          "episode": 5,
+          "title": "Expresso Sicilia S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

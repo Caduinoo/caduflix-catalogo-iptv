@@ -1,0 +1,75 @@
+{
+  "id": "series_7645",
+  "type": "series",
+  "title": "Pure: Operação Secreta",
+  "originalTitle": "Pure",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/93yWBeueuEpIxDUYldlMjgUn90I.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7AWQY7pNx5iaqifKlelCDwQh8rr.jpg",
+  "overview": "Noah Funk, pastor menonita, tenta livrar sua comunidade do tráfico, mas acaba preso num perigoso submundo de violência, ganância e traição ao enfrentar implacáveis cartéis mexicanos.",
+  "rating": 6,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 69329,
+  "xtream": {
+    "seriesId": 7645
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2569223",
+          "episodeId": 2569223,
+          "season": 1,
+          "episode": 1,
+          "title": "Pure S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569224",
+          "episodeId": 2569224,
+          "season": 1,
+          "episode": 2,
+          "title": "Pure S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569225",
+          "episodeId": 2569225,
+          "season": 1,
+          "episode": 3,
+          "title": "Pure S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569226",
+          "episodeId": 2569226,
+          "season": 1,
+          "episode": 4,
+          "title": "Pure S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569227",
+          "episodeId": 2569227,
+          "season": 1,
+          "episode": 5,
+          "title": "Pure S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2569228",
+          "episodeId": 2569228,
+          "season": 1,
+          "episode": 6,
+          "title": "Pure S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

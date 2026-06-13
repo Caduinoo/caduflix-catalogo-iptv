@@ -1,0 +1,67 @@
+{
+  "id": "series_7230",
+  "type": "series",
+  "title": "Captivated, by You",
+  "originalTitle": "夢中さ、きみに。",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/aARa4zpNIuG58OPfyL8Sn9SGsdL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9Z969GNPjz39mB8OaI24cWqmfJq.jpg",
+  "overview": "Uma história sobre dois estudantes do ensino médio. Um deles tem um charme misterioso e continua fazendo coisas incomuns, enquanto o outro era muito popular no ensino fundamental e decide começar sua \"vida normal de colegial\".",
+  "rating": 6.1,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 116481,
+  "xtream": {
+    "seriesId": 7230
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2562064",
+          "episodeId": 2562064,
+          "season": 1,
+          "episode": 1,
+          "title": "Captivated By You [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562065",
+          "episodeId": 2562065,
+          "season": 1,
+          "episode": 2,
+          "title": "Captivated By You [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562066",
+          "episodeId": 2562066,
+          "season": 1,
+          "episode": 3,
+          "title": "Captivated By You [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562067",
+          "episodeId": 2562067,
+          "season": 1,
+          "episode": 4,
+          "title": "Captivated By You [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2562068",
+          "episodeId": 2562068,
+          "season": 1,
+          "episode": 5,
+          "title": "Captivated By You [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

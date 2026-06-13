@@ -1,0 +1,74 @@
+{
+  "id": "series_312",
+  "type": "series",
+  "title": "M - À Caça de um Assassino",
+  "originalTitle": "M – Eine Stadt sucht einen Mörder",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/pIhwIWsEwGZ574vrVKWQ7HYakZ4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5TWxEOlynyOpxOmkBtJaPkKsRgW.jpg",
+  "overview": "É inverno em Viena, quando crianças desaparecem sem deixar vestígio. A polícia enfrenta dificuldades na investigação, abrindo uma brecha para o ambicioso ministro do Interior.",
+  "rating": 6.3,
+  "genres": [
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 83047,
+  "xtream": {
+    "seriesId": 312
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2358389",
+          "episodeId": 2358389,
+          "season": 1,
+          "episode": 1,
+          "title": "M - A Caca de um Assassino S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2358390",
+          "episodeId": 2358390,
+          "season": 1,
+          "episode": 2,
+          "title": "M - A Caca de um Assassino S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2358391",
+          "episodeId": 2358391,
+          "season": 1,
+          "episode": 3,
+          "title": "M - A Caca de um Assassino S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2358392",
+          "episodeId": 2358392,
+          "season": 1,
+          "episode": 4,
+          "title": "M - A Caca de um Assassino S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2358393",
+          "episodeId": 2358393,
+          "season": 1,
+          "episode": 5,
+          "title": "M - A Caca de um Assassino S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2358394",
+          "episodeId": 2358394,
+          "season": 1,
+          "episode": 6,
+          "title": "M - A Caca de um Assassino S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

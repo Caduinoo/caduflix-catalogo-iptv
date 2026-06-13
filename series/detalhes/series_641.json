@@ -1,0 +1,76 @@
+{
+  "id": "series_641",
+  "type": "series",
+  "title": "Bulletproof",
+  "originalTitle": "Bulletproof",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/yiKT45qwaiXof4T6EG990qjk2wO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dLs1fcqgExAPLcZGz0650DNBiUD.jpg",
+  "overview": "",
+  "rating": 6.434,
+  "genres": [
+    "acao",
+    "aventura",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 79412,
+  "xtream": {
+    "seriesId": 641
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2370228",
+          "episodeId": 2370228,
+          "season": 1,
+          "episode": 1,
+          "title": "Bulletproof [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370229",
+          "episodeId": 2370229,
+          "season": 1,
+          "episode": 2,
+          "title": "Bulletproof [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370230",
+          "episodeId": 2370230,
+          "season": 1,
+          "episode": 3,
+          "title": "Bulletproof [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370231",
+          "episodeId": 2370231,
+          "season": 1,
+          "episode": 4,
+          "title": "Bulletproof [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370232",
+          "episodeId": 2370232,
+          "season": 1,
+          "episode": 5,
+          "title": "Bulletproof [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2370233",
+          "episodeId": 2370233,
+          "season": 1,
+          "episode": 6,
+          "title": "Bulletproof [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

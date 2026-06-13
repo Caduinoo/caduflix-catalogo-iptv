@@ -1,0 +1,56 @@
+{
+  "id": "series_3785",
+  "type": "series",
+  "title": "The Hunt for Veerappan",
+  "originalTitle": "The Hunt for Veerappan",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w780/yIIAqF0wLJnxOIv5EGSN9t4ZzmZ.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "Esta série documental segue a ascensão e queda de Veerappan, um temido contrabandista cujo reinado sangrento desencadeou uma caçada humana de 20 anos no sul da Índia.",
+  "rating": 8,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 3785
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2481060",
+          "episodeId": 2481060,
+          "season": 1,
+          "episode": 1,
+          "title": "The Hunt for Veerappan [L] (2023) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2481061",
+          "episodeId": 2481061,
+          "season": 1,
+          "episode": 2,
+          "title": "The Hunt for Veerappan [L] (2023) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2481062",
+          "episodeId": 2481062,
+          "season": 1,
+          "episode": 3,
+          "title": "The Hunt for Veerappan [L] (2023) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2481063",
+          "episodeId": 2481063,
+          "season": 1,
+          "episode": 4,
+          "title": "The Hunt for Veerappan [L] (2023) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

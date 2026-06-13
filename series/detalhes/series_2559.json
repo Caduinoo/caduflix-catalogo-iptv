@@ -1,0 +1,74 @@
+{
+  "id": "series_2559",
+  "type": "series",
+  "title": "Prisioneiro da Madrugada",
+  "originalTitle": "La noche más larga",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/jU7a8gRJbt4FwaglqHDoie4cT8g.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fRKSA6N88lywGYUKkOAmyXhnpdB.jpg",
+  "overview": "Homens armados cercam uma prisão psiquiátrica e cortam todas as comunicações. O objetivo: capturar o serial killer Simón Lago. Seis episódios. Uma noite.",
+  "rating": 6.8,
+  "genres": [
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 201331,
+  "xtream": {
+    "seriesId": 2559
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2450808",
+          "episodeId": 2450808,
+          "season": 1,
+          "episode": 1,
+          "title": "Prisioneiro da Madrugada (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450809",
+          "episodeId": 2450809,
+          "season": 1,
+          "episode": 2,
+          "title": "Prisioneiro da Madrugada (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450810",
+          "episodeId": 2450810,
+          "season": 1,
+          "episode": 3,
+          "title": "Prisioneiro da Madrugada (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450811",
+          "episodeId": 2450811,
+          "season": 1,
+          "episode": 4,
+          "title": "Prisioneiro da Madrugada (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450812",
+          "episodeId": 2450812,
+          "season": 1,
+          "episode": 5,
+          "title": "Prisioneiro da Madrugada (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2450813",
+          "episodeId": 2450813,
+          "season": 1,
+          "episode": 6,
+          "title": "Prisioneiro da Madrugada (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

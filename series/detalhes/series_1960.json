@@ -1,0 +1,50 @@
+{
+  "id": "series_1960",
+  "type": "series",
+  "title": "The Beatles: Get Back",
+  "originalTitle": "The Beatles: Get Back",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/nxy9fg1rT853P7zP7ZQGqRimiCS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bCKlJ0yCpbKTT7BcMvlcVSofJwg.jpg",
+  "overview": "Um documentário dividido em três partes e compilado a partir de mais de 60 horas de imagens nunca vistas, que mostra o entusiasmo, o companheirismo e a incrível criatividade que são a marca do legado do quarteto mais icônico do cenário musical: os Beatles.  A série também incluirá, pela primeira vez na íntegra, o último show dos Beatles na Savile Row, em Londres.",
+  "rating": 8.4,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 128876,
+  "xtream": {
+    "seriesId": 1960
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2433341",
+          "episodeId": 2433341,
+          "season": 1,
+          "episode": 1,
+          "title": "The Beatles: Get Back [L] (2021) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2433342",
+          "episodeId": 2433342,
+          "season": 1,
+          "episode": 2,
+          "title": "The Beatles: Get Back [L] (2021) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2433343",
+          "episodeId": 2433343,
+          "season": 1,
+          "episode": 3,
+          "title": "The Beatles: Get Back [L] (2021) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

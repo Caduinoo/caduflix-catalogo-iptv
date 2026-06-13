@@ -1,0 +1,51 @@
+{
+  "id": "series_6215",
+  "type": "series",
+  "title": "Murder in Provence",
+  "originalTitle": "Murder in Provence",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/l2gOUSrayIEe8PiCXGueHVWkvrq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jhKSfkPf9PgR1rZH8QH8aBJzlV4.jpg",
+  "overview": "Antoine Verlaque, magistrado examinador em Aix-en-Provence, com sua parceira romântica Marine Bonnet, investiga assassinatos, mistérios e o lado mais escuro de sua casa idílica no sul da França.",
+  "rating": 6.8,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 158496,
+  "xtream": {
+    "seriesId": 6215
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2540359",
+          "episodeId": 2540359,
+          "season": 1,
+          "episode": 1,
+          "title": "Murder In Provence [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2540360",
+          "episodeId": 2540360,
+          "season": 1,
+          "episode": 2,
+          "title": "Murder In Provence [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2540361",
+          "episodeId": 2540361,
+          "season": 1,
+          "episode": 3,
+          "title": "Murder In Provence [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

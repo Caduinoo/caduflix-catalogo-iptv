@@ -1,0 +1,51 @@
+{
+  "id": "series_7532",
+  "type": "series",
+  "title": "Gunpowder",
+  "originalTitle": "Gunpowder",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/3eHeKVmm08g8LDoXobBioyti7id.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5PwGtqNQaD8wzhRaDp7nwBpPyNt.jpg",
+  "overview": "Inglaterra, 1605. O ativista britânico Guy Fawkes e um grupo de católicos liderados por Robert Catesby planejam explodir a Casa dos Lordes e matar o rei protestante James I e os membros do Parlamento inglês. Mas para levar adiante esta conspiração, eles precisam enfrentar muitos desafios.",
+  "rating": 6.751,
+  "genres": [
+    "guerra",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 73550,
+  "xtream": {
+    "seriesId": 7532
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2567768",
+          "episodeId": 2567768,
+          "season": 1,
+          "episode": 1,
+          "title": "Gunpowder S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567769",
+          "episodeId": 2567769,
+          "season": 1,
+          "episode": 2,
+          "title": "Gunpowder S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2567770",
+          "episodeId": 2567770,
+          "season": 1,
+          "episode": 3,
+          "title": "Gunpowder S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

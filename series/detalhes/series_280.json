@@ -1,0 +1,75 @@
+{
+  "id": "series_280",
+  "type": "series",
+  "title": "Wild Wild Country",
+  "originalTitle": "Wild Wild Country",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/kprB5Jj2LYQAYlqVQMEucT2vGt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sDuM3zw8OBqfciFVwR2r2loGDte.jpg",
+  "overview": "Quando um polêmico líder de seita constrói uma cidade utópica no deserto do Oregon, o conflito com os moradores vira um escândalo nacional.",
+  "rating": 7.707,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 77601,
+  "xtream": {
+    "seriesId": 280
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2357463",
+          "episodeId": 2357463,
+          "season": 1,
+          "episode": 1,
+          "title": "Wild Wild Country S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357464",
+          "episodeId": 2357464,
+          "season": 1,
+          "episode": 2,
+          "title": "Wild Wild Country S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357465",
+          "episodeId": 2357465,
+          "season": 1,
+          "episode": 3,
+          "title": "Wild Wild Country S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357466",
+          "episodeId": 2357466,
+          "season": 1,
+          "episode": 4,
+          "title": "Wild Wild Country S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357467",
+          "episodeId": 2357467,
+          "season": 1,
+          "episode": 5,
+          "title": "Wild Wild Country S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_2357468",
+          "episodeId": 2357468,
+          "season": 1,
+          "episode": 6,
+          "title": "Wild Wild Country S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

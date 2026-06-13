@@ -1,0 +1,34 @@
+{
+  "id": "series_2110",
+  "type": "series",
+  "title": "Doctor in The House",
+  "originalTitle": "Doctor in The House",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w780/qV7r05gaGgY60pNpEoagaMKI3Ze.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 119670,
+  "xtream": {
+    "seriesId": 2110
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_2438688",
+          "episodeId": 2438688,
+          "season": 1,
+          "episode": 1,
+          "title": "The House S01 E01",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}
