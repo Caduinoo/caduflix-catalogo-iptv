@@ -1,0 +1,15 @@
+{
+  "name": "gerador-catalogo-v2",
+  "version": "1.0.0",
+  "description": "Gerador do catálogo IPTV do CaduFlix com Xtream e TMDB.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "generate": "node src/index.js"
+  },
+  "dependencies": {}
+}

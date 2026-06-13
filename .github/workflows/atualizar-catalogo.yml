@@ -1,0 +1,88 @@
+name: Atualizar Catálogo IPTV
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 11 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar-catalogo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: tools/gerador-catalogo-v2/package-lock.json
+
+      - name: Restaurar cache do gerador
+        uses: actions/cache/restore@v4
+        with:
+          path: tools/gerador-catalogo-v2/.cache
+          key: gerador-catalogo-v2-cache-${{ github.run_id }}
+          restore-keys: |
+            gerador-catalogo-v2-cache-
+
+      - name: Instalar dependências
+        working-directory: tools/gerador-catalogo-v2
+        run: npm ci
+
+      - name: Gerar catálogo IPTV
+        working-directory: tools/gerador-catalogo-v2
+        env:
+          XTREAM_BASE_URL: ${{ secrets.XTREAM_BASE_URL }}
+          XTREAM_USERNAME: ${{ secrets.XTREAM_USERNAME }}
+          XTREAM_PASSWORD: ${{ secrets.XTREAM_PASSWORD }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          CATALOG_OUTPUT_DIR: ../..
+          CATALOG_PUBLIC_BASE_URL: https://caduinoo.github.io/caduflix-catalogo-iptv
+          CATALOG_LIMIT_MOVIES:
+          CATALOG_LIMIT_SERIES:
+          TMDB_LANGUAGE: pt-BR
+          TMDB_REGION: BR
+          TMDB_CACHE_ENABLED: "true"
+          TMDB_RETRY_ATTEMPTS: "3"
+          TMDB_RETRY_DELAY_MS: "1000"
+          XTREAM_RETRY_ATTEMPTS: "3"
+          XTREAM_RETRY_DELAY_MS: "1500"
+          XTREAM_REQUEST_TIMEOUT_MS: "30000"
+          CATALOG_INCREMENTAL_ENABLED: "true"
+        run: npm run generate
+
+      - name: Salvar cache do gerador
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: tools/gerador-catalogo-v2/.cache
+          key: gerador-catalogo-v2-cache-${{ github.run_id }}
+
+      - name: Verificar alterações do catálogo
+        id: diff
+        shell: bash
+        run: |
+          git status --short version.json manifest.json home.json canais filmes series busca
+          if git diff --quiet -- version.json manifest.json home.json canais filmes series busca && \
+             git diff --cached --quiet -- version.json manifest.json home.json canais filmes series busca && \
+             [ -z "$(git ls-files --others --exclude-standard version.json manifest.json home.json canais filmes series busca)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nenhuma alteração no catálogo."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit e push do catálogo
+        if: steps.diff.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add version.json manifest.json home.json canais filmes series busca
+          git commit -m "Atualizar catálogo IPTV"
+          git push
