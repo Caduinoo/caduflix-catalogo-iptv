@@ -1,0 +1,40 @@
+[
+  {
+    "id": "series_15",
+    "type": "series",
+    "title": "Irmãos de Guerra",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/76epYsbM8zwwgndU9pdWWyFBmSJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9vxEk6VYXTicQP59KV3POGXKyZh.jpg",
+    "rating": 7.7,
+    "producer": "hbo_max",
+    "genres": [
+      "documentario",
+      "reality",
+      "guerra"
+    ],
+    "xtream": {
+      "seriesId": 15
+    }
+  },
+  {
+    "id": "series_50",
+    "type": "series",
+    "title": "Guerra Fantasma",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/hdOWk4uAKXXPBdyLd54ejmbzpVP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hhtZbACq4IgWWdVZ8B9p2WnQTjS.jpg",
+    "rating": 6,
+    "producer": "netflix",
+    "genres": [
+      "misterio",
+      "fantasia",
+      "ficcao",
+      "drama",
+      "guerra"
+    ],
+    "xtream": {
+      "seriesId": 50
+    }
+  }
+]

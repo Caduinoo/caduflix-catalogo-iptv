@@ -1,0 +1,56 @@
+[
+  {
+    "id": "series_2",
+    "type": "series",
+    "title": "9-1-1",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
+    "rating": 8.216,
+    "producer": "disney_plus",
+    "genres": [
+      "drama",
+      "crime",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 2
+    }
+  },
+  {
+    "id": "series_26",
+    "type": "series",
+    "title": "Castle",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zOnLMRD3PIhwO5KZmWMVEnLokMo.jpg",
+    "rating": 7.971,
+    "producer": "disney_plus",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 26
+    }
+  },
+  {
+    "id": "series_32",
+    "type": "series",
+    "title": "Mentes Criminosas",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/trZTeHWcWDn6adkBBuSwfIhxAJn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+    "rating": 8.3,
+    "producer": "disney_plus",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 32
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "series_15",
+    "type": "series",
+    "title": "Irmãos de Guerra",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/76epYsbM8zwwgndU9pdWWyFBmSJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9vxEk6VYXTicQP59KV3POGXKyZh.jpg",
+    "rating": 7.7,
+    "producer": "hbo_max",
+    "genres": [
+      "documentario",
+      "reality",
+      "guerra"
+    ],
+    "xtream": {
+      "seriesId": 15
+    }
+  },
+  {
+    "id": "series_47",
+    "type": "series",
+    "title": "Eu Vi",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/bjlT4y628Pr5n4Gh98gKEZfKwlY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dRcmxylWo4whshJnhq70FgjN9hD.jpg",
+    "rating": 6.9,
+    "producer": "netflix",
+    "genres": [
+      "documentario"
+    ],
+    "xtream": {
+      "seriesId": 47
+    }
+  }
+]

@@ -40,8 +40,21 @@ function validateOutputDir(outputDir) {
   if (path.basename(normalized) === 'caduflix-catalogo') throw new Error('CATALOG_OUTPUT_DIR aponta para a pasta antiga caduflix-catalogo. Use caduflix-catalogo-iptv.');
 }
 
+function resolveEnvFile() {
+  const argIndex = process.argv.findIndex((arg) => arg === '--env' || arg === '--env-file');
+  const argValue = argIndex >= 0 ? process.argv[argIndex + 1] : '';
+  const value = process.env.ENV_FILE || argValue;
+  return value ? path.resolve(projectRoot, value) : path.join(projectRoot, '.env');
+}
+
+function safeNamespace(value) {
+  return String(value || '').trim().replace(/[^a-zA-Z0-9_-]/g, '_');
+}
+
 export function getConfig() {
-  loadDotEnv(path.join(projectRoot, '.env'));
+  loadDotEnv(resolveEnvFile());
+  const cacheNamespace = safeNamespace(process.env.CATALOG_CACHE_NAMESPACE);
+  const cacheRoot = cacheNamespace ? path.join(projectRoot, '.cache', cacheNamespace) : path.join(projectRoot, '.cache');
   const outputDir = path.resolve(projectRoot, process.env.CATALOG_OUTPUT_DIR || '../caduflix-catalogo-iptv');
   validateOutputDir(outputDir);
   const xtream = {
@@ -50,18 +63,20 @@ export function getConfig() {
     password: process.env.XTREAM_PASSWORD || '',
     retryAttempts: parsePositiveInteger(process.env.XTREAM_RETRY_ATTEMPTS, 3),
     retryDelayMs: parsePositiveInteger(process.env.XTREAM_RETRY_DELAY_MS, 1500),
-    requestTimeoutMs: parsePositiveInteger(process.env.XTREAM_REQUEST_TIMEOUT_MS, 30000)
+    requestTimeoutMs: parsePositiveInteger(process.env.XTREAM_REQUEST_TIMEOUT_MS, 30000),
+    seriesInfoDelayMs: parsePositiveInteger(process.env.XTREAM_SERIES_INFO_DELAY_MS, 1500),
+    seriesInfoConcurrency: parsePositiveInteger(process.env.XTREAM_SERIES_INFO_CONCURRENCY, 1)
   };
   const incremental = {
     enabled: parseBoolean(process.env.CATALOG_INCREMENTAL_ENABLED, true),
-    stateFile: path.join(projectRoot, '.cache', 'catalog-state.json')
+    stateFile: path.join(cacheRoot, 'catalog-state.json')
   };
   const tmdb = {
     apiKey: process.env.TMDB_API_KEY || '',
     language: process.env.TMDB_LANGUAGE || 'pt-BR',
     region: process.env.TMDB_REGION || 'BR',
     cacheEnabled: parseBoolean(process.env.TMDB_CACHE_ENABLED, true),
-    cacheDir: path.join(projectRoot, '.cache', 'tmdb'),
+    cacheDir: path.join(cacheRoot, 'tmdb'),
     retryAttempts: parsePositiveInteger(process.env.TMDB_RETRY_ATTEMPTS, 3),
     retryDelayMs: parsePositiveInteger(process.env.TMDB_RETRY_DELAY_MS, 1000),
     timeoutMs: 30000
@@ -78,6 +93,7 @@ export function getConfig() {
   return {
     projectRoot,
     outputDir,
+    cacheRoot,
     publicBaseUrl: process.env.CATALOG_PUBLIC_BASE_URL || 'https://caduinoo.github.io/caduflix-catalogo-iptv',
     xtream,
     tmdb,

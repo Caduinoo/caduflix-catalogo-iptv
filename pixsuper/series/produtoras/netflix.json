@@ -1,0 +1,274 @@
+[
+  {
+    "id": "series_3",
+    "type": "series",
+    "title": "A Bíblia",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg",
+    "rating": 8,
+    "producer": "netflix",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3
+    }
+  },
+  {
+    "id": "series_5",
+    "type": "series",
+    "title": "Altered Carbon",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/AisK4uFsnwwmMkSynFpNl0VeGR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+    "rating": 7.6,
+    "producer": "netflix",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 5
+    }
+  },
+  {
+    "id": "series_6",
+    "type": "series",
+    "title": "A Maldição da Residência Hill",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg",
+    "rating": 8.1,
+    "producer": "netflix",
+    "genres": [
+      "misterio",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 6
+    }
+  },
+  {
+    "id": "series_8",
+    "type": "series",
+    "title": "Anne com um \"E\"",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
+    "rating": 8.652,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 8
+    }
+  },
+  {
+    "id": "series_10",
+    "type": "series",
+    "title": "Arquivo Morto",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
+    "rating": 7.768,
+    "producer": "netflix",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 10
+    }
+  },
+  {
+    "id": "series_17",
+    "type": "series",
+    "title": "Better Call Saul",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/tFCPd8nOqrxjKpTs0ZAdPRydQFR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
+    "rating": 8.707,
+    "producer": "netflix",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 17
+    }
+  },
+  {
+    "id": "series_18",
+    "type": "series",
+    "title": "Black Mirror",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/aCTL24B8ZuiI2osMwoUI5rqBXoF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "rating": 8.287,
+    "producer": "netflix",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 18
+    }
+  },
+  {
+    "id": "series_22",
+    "type": "series",
+    "title": "Breaking Bad",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/hGwm9Cj3CdbJIqQWNExQqiYmCd4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "rating": 8.946,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 22
+    }
+  },
+  {
+    "id": "series_35",
+    "type": "series",
+    "title": "Dark",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/7yQyDCqSazrYTnmxdQLAZ8YDH87.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+    "rating": 8.424,
+    "producer": "netflix",
+    "genres": [
+      "crime",
+      "drama",
+      "fantasia",
+      "ficcao",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 35
+    }
+  },
+  {
+    "id": "series_37",
+    "type": "series",
+    "title": "Lendas do Amanhã",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/xS1BsFVT99uywJRjLZh41KZ1MXX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
+    "rating": 7.264,
+    "producer": "netflix",
+    "genres": [
+      "acao",
+      "aventura",
+      "fantasia",
+      "ficcao",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 37
+    }
+  },
+  {
+    "id": "series_38",
+    "type": "series",
+    "title": "Deadwind",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/lFvTHBf09t4hyT53SNhMWwKPimQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/44l4MxfKWW6F5Ksqxq37tB2CTwK.jpg",
+    "rating": 6.951,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 38
+    }
+  },
+  {
+    "id": "series_40",
+    "type": "series",
+    "title": "Dinastia",
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/wxKEdlB4Zuq2THGqKYLnGKU37g9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Ao5XqVJj74hYWnnEG98MvRLBHdY.jpg",
+    "rating": 6.519,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 40
+    }
+  },
+  {
+    "id": "series_42",
+    "type": "series",
+    "title": "Drácula",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v3cpyhytwXXbAr7Wycn5LEwonuL.jpg",
+    "rating": 6.979,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 42
+    }
+  },
+  {
+    "id": "series_47",
+    "type": "series",
+    "title": "Eu Vi",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/bjlT4y628Pr5n4Gh98gKEZfKwlY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dRcmxylWo4whshJnhq70FgjN9hD.jpg",
+    "rating": 6.9,
+    "producer": "netflix",
+    "genres": [
+      "documentario"
+    ],
+    "xtream": {
+      "seriesId": 47
+    }
+  },
+  {
+    "id": "series_50",
+    "type": "series",
+    "title": "Guerra Fantasma",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/hdOWk4uAKXXPBdyLd54ejmbzpVP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hhtZbACq4IgWWdVZ8B9p2WnQTjS.jpg",
+    "rating": 6,
+    "producer": "netflix",
+    "genres": [
+      "misterio",
+      "fantasia",
+      "ficcao",
+      "drama",
+      "guerra"
+    ],
+    "xtream": {
+      "seriesId": 50
+    }
+  }
+]

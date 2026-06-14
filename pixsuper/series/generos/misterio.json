@@ -1,0 +1,261 @@
+[
+  {
+    "id": "series_4",
+    "type": "series",
+    "title": "Ausência",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/t3yVaAlmCLBwbqTrKGcWHwuCmkh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uXY6k8Gd45cTGzlz5s0A2ejDBXa.jpg",
+    "rating": 7.244,
+    "producer": "prime_video",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 4
+    }
+  },
+  {
+    "id": "series_6",
+    "type": "series",
+    "title": "A Maldição da Residência Hill",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg",
+    "rating": 8.1,
+    "producer": "netflix",
+    "genres": [
+      "misterio",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 6
+    }
+  },
+  {
+    "id": "series_7",
+    "type": "series",
+    "title": "American Horror Story",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+    "rating": 8.078,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "misterio",
+      "fantasia",
+      "ficcao",
+      "terror"
+    ],
+    "xtream": {
+      "seriesId": 7
+    }
+  },
+  {
+    "id": "series_10",
+    "type": "series",
+    "title": "Arquivo Morto",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
+    "rating": 7.768,
+    "producer": "netflix",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 10
+    }
+  },
+  {
+    "id": "series_16",
+    "type": "series",
+    "title": "Motel Bates",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/qlVLk28uGOwVHqxSZlakdRyGMdU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qt3NbzjWRconY6KRGaczte6DmAF.jpg",
+    "rating": 8.1,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "drama",
+      "crime",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 16
+    }
+  },
+  {
+    "id": "series_18",
+    "type": "series",
+    "title": "Black Mirror",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/aCTL24B8ZuiI2osMwoUI5rqBXoF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "rating": 8.287,
+    "producer": "netflix",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 18
+    }
+  },
+  {
+    "id": "series_32",
+    "type": "series",
+    "title": "Mentes Criminosas",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/trZTeHWcWDn6adkBBuSwfIhxAJn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+    "rating": 8.3,
+    "producer": "disney_plus",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 32
+    }
+  },
+  {
+    "id": "series_33",
+    "type": "series",
+    "title": "CSI: Miami",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/uMLbHU7a7RWTg1vacCNtHnnzbPU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+    "rating": 7.705,
+    "producer": "paramount",
+    "genres": [
+      "drama",
+      "misterio",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 33
+    }
+  },
+  {
+    "id": "series_34",
+    "type": "series",
+    "title": "CSI: Nova York",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
+    "rating": 7.315,
+    "producer": "paramount",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 34
+    }
+  },
+  {
+    "id": "series_35",
+    "type": "series",
+    "title": "Dark",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/7yQyDCqSazrYTnmxdQLAZ8YDH87.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+    "rating": 8.424,
+    "producer": "netflix",
+    "genres": [
+      "crime",
+      "drama",
+      "fantasia",
+      "ficcao",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 35
+    }
+  },
+  {
+    "id": "series_39",
+    "type": "series",
+    "title": "Dexter",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/f1nV5NBIFwfQLw5g8FVrdt90FAy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+    "rating": 8.2,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 39
+    }
+  },
+  {
+    "id": "series_44",
+    "type": "series",
+    "title": "Elementaríssimo",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/ac3zAaACyzaRI9td1BMLYGPfP5G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+    "rating": 7.631,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "drama",
+      "misterio",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 44
+    }
+  },
+  {
+    "id": "series_49",
+    "type": "series",
+    "title": "Fronteiras",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/xDemPkYXt1BHXSEV8NSX8hV0eJ6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eksjqZGaGUtSZJD6nWQPsqzDMn0.jpg",
+    "rating": 8.127,
+    "producer": "hbo_max",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 49
+    }
+  },
+  {
+    "id": "series_50",
+    "type": "series",
+    "title": "Guerra Fantasma",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/hdOWk4uAKXXPBdyLd54ejmbzpVP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hhtZbACq4IgWWdVZ8B9p2WnQTjS.jpg",
+    "rating": 6,
+    "producer": "netflix",
+    "genres": [
+      "misterio",
+      "fantasia",
+      "ficcao",
+      "drama",
+      "guerra"
+    ],
+    "xtream": {
+      "seriesId": 50
+    }
+  }
+]

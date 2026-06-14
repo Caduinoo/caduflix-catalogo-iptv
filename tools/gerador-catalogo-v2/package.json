@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start": "node src/index.js",
-    "generate": "node src/index.js"
+    "generate": "node src/index.js",
+    "generate:pixsuper": "node src/index.js --env .env.pixsuper"
   },
   "dependencies": {}
 }

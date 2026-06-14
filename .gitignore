@@ -7,6 +7,7 @@ logs/
 .DS_Store
 
 tools/gerador-catalogo-v2/.env
+tools/gerador-catalogo-v2/.env.pixsuper
 tools/gerador-catalogo-v2/node_modules/
 tools/gerador-catalogo-v2/.cache/
 tools/gerador-catalogo-v2/logs/

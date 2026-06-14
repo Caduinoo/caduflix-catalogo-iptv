@@ -1,0 +1,58 @@
+[
+  {
+    "id": "series_8",
+    "type": "series",
+    "title": "Anne com um \"E\"",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
+    "rating": 8.652,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 8
+    }
+  },
+  {
+    "id": "series_9",
+    "type": "series",
+    "title": "Anos Incríveis",
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/zkmv6Kkl8kdWM5HELSafO84MrPV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/XuJi5lKkYLCFpJprfSUZveRof7.jpg",
+    "rating": 8.338,
+    "producer": "paramount",
+    "genres": [
+      "comedia",
+      "drama",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 9
+    }
+  },
+  {
+    "id": "series_45",
+    "type": "series",
+    "title": "Eu, a Patroa e as Crianças",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/huMehRjXBkFkO9BWPly1635y0J0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v9CyGKG1P2McFMAnOG4X59b7CI7.jpg",
+    "rating": 7.427,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "familia",
+      "infantil",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 45
+    }
+  }
+]

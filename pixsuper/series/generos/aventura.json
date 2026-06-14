@@ -1,0 +1,157 @@
+[
+  {
+    "id": "series_2",
+    "type": "series",
+    "title": "9-1-1",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
+    "rating": 8.216,
+    "producer": "disney_plus",
+    "genres": [
+      "drama",
+      "crime",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 2
+    }
+  },
+  {
+    "id": "series_3",
+    "type": "series",
+    "title": "A Bíblia",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg",
+    "rating": 8,
+    "producer": "netflix",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3
+    }
+  },
+  {
+    "id": "series_19",
+    "type": "series",
+    "title": "Ponto Cego",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/pYyKZZlb3nd5ASbiuIxva718bp2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1GWiao0QYuKsoTvUmd7ivnE3qDY.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "crime",
+      "drama",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 19
+    }
+  },
+  {
+    "id": "series_23",
+    "type": "series",
+    "title": "Britannia",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/fjdXymXAas9NSehc6GCOHQcEM05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9I27ONgKUNlboFFT35el1MZYKnN.jpg",
+    "rating": 6.887,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "fantasia",
+      "ficcao",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 23
+    }
+  },
+  {
+    "id": "series_30",
+    "type": "series",
+    "title": "Cobra Kai",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+    "rating": 8.206,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 30
+    }
+  },
+  {
+    "id": "series_37",
+    "type": "series",
+    "title": "Lendas do Amanhã",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/xS1BsFVT99uywJRjLZh41KZ1MXX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
+    "rating": 7.264,
+    "producer": "netflix",
+    "genres": [
+      "acao",
+      "aventura",
+      "fantasia",
+      "ficcao",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 37
+    }
+  },
+  {
+    "id": "series_41",
+    "type": "series",
+    "title": "Doctor Who",
+    "year": 1963,
+    "poster": "https://image.tmdb.org/t/p/w500/uvxLuymTnNeFyiphc8YpCU91agb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+    "rating": 7.902,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "acao",
+      "aventura",
+      "fantasia",
+      "ficcao"
+    ],
+    "xtream": {
+      "seriesId": 41
+    }
+  },
+  {
+    "id": "series_42",
+    "type": "series",
+    "title": "Drácula",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v3cpyhytwXXbAr7Wycn5LEwonuL.jpg",
+    "rating": 6.979,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 42
+    }
+  }
+]

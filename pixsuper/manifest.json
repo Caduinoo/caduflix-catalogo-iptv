@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "paths": {
+    "version": "version.json",
+    "home": "home.json",
+    "canais": {
+      "jogosDoDia": "canais/jogos-do-dia.json",
+      "jogosCanaisMap": "canais/jogos-canais-map.json"
+    },
+    "filmes": {
+      "index": "filmes/index.json",
+      "populares": "filmes/populares.json",
+      "tendencias": "filmes/tendencias.json",
+      "lancamentos": "filmes/lancamentos.json",
+      "recentes": "filmes/recentes.json",
+      "topAvaliados": "filmes/top-avaliados.json",
+      "porAno": [
+        "filmes/por-ano/2026.json",
+        "filmes/por-ano/2025.json",
+        "filmes/por-ano/2024.json"
+      ],
+      "generos": [
+        "filmes/generos/acao.json",
+        "filmes/generos/aventura.json",
+        "filmes/generos/animacao.json",
+        "filmes/generos/anime.json",
+        "filmes/generos/comedia.json",
+        "filmes/generos/crime.json",
+        "filmes/generos/documentario.json",
+        "filmes/generos/drama.json",
+        "filmes/generos/familia.json",
+        "filmes/generos/fantasia.json",
+        "filmes/generos/ficcao.json",
+        "filmes/generos/guerra.json",
+        "filmes/generos/historia.json",
+        "filmes/generos/infantil.json",
+        "filmes/generos/misterio.json",
+        "filmes/generos/musica.json",
+        "filmes/generos/nacionais.json",
+        "filmes/generos/romance.json",
+        "filmes/generos/suspense.json",
+        "filmes/generos/terror.json",
+        "filmes/generos/thriller.json",
+        "filmes/generos/faroeste.json"
+      ]
+    },
+    "series": {
+      "index": "series/index.json",
+      "populares": "series/populares.json",
+      "tendencias": "series/tendencias.json",
+      "lancamentos": "series/lancamentos.json",
+      "recentes": "series/recentes.json",
+      "topAvaliadas": "series/top-avaliadas.json",
+      "porAno": [
+        "series/por-ano/2026.json",
+        "series/por-ano/2025.json",
+        "series/por-ano/2024.json"
+      ],
+      "produtoras": [
+        "series/produtoras/netflix.json",
+        "series/produtoras/prime_video.json",
+        "series/produtoras/hbo_max.json",
+        "series/produtoras/disney_plus.json",
+        "series/produtoras/star_plus.json",
+        "series/produtoras/paramount.json",
+        "series/produtoras/globoplay.json",
+        "series/produtoras/crunchyroll.json",
+        "series/produtoras/discovery_plus.json",
+        "series/produtoras/apple_tv_plus.json",
+        "series/produtoras/amc_plus.json",
+        "series/produtoras/lionsgate.json",
+        "series/produtoras/universal.json",
+        "series/produtoras/outras_produtoras.json"
+      ],
+      "generos": [
+        "series/generos/acao.json",
+        "series/generos/aventura.json",
+        "series/generos/animacao.json",
+        "series/generos/anime.json",
+        "series/generos/comedia.json",
+        "series/generos/crime.json",
+        "series/generos/documentario.json",
+        "series/generos/drama.json",
+        "series/generos/familia.json",
+        "series/generos/fantasia.json",
+        "series/generos/ficcao.json",
+        "series/generos/guerra.json",
+        "series/generos/historia.json",
+        "series/generos/infantil.json",
+        "series/generos/misterio.json",
+        "series/generos/musica.json",
+        "series/generos/nacional.json",
+        "series/generos/reality.json",
+        "series/generos/romance.json",
+        "series/generos/suspense.json",
+        "series/generos/terror.json",
+        "series/generos/thriller.json",
+        "series/generos/faroeste.json"
+      ]
+    },
+    "busca": {
+      "filmesAM": "busca/filmes-a-m.json",
+      "filmesNZ": "busca/filmes-n-z.json",
+      "seriesAM": "busca/series-a-m.json",
+      "seriesNZ": "busca/series-n-z.json"
+    }
+  }
+}

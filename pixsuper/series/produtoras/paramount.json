@@ -1,0 +1,57 @@
+[
+  {
+    "id": "series_9",
+    "type": "series",
+    "title": "Anos Incríveis",
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/zkmv6Kkl8kdWM5HELSafO84MrPV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/XuJi5lKkYLCFpJprfSUZveRof7.jpg",
+    "rating": 8.338,
+    "producer": "paramount",
+    "genres": [
+      "comedia",
+      "drama",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 9
+    }
+  },
+  {
+    "id": "series_33",
+    "type": "series",
+    "title": "CSI: Miami",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/uMLbHU7a7RWTg1vacCNtHnnzbPU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+    "rating": 7.705,
+    "producer": "paramount",
+    "genres": [
+      "drama",
+      "misterio",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 33
+    }
+  },
+  {
+    "id": "series_34",
+    "type": "series",
+    "title": "CSI: Nova York",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
+    "rating": 7.315,
+    "producer": "paramount",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 34
+    }
+  }
+]

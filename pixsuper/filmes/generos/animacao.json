@@ -1,0 +1,58 @@
+[
+  {
+    "id": "movie_2751877",
+    "type": "movie",
+    "title": "O Senhor dos Anéis: A Guerra dos Rohirrim",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/aLOROyUuOum0zztqPiJDCFgFMcw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+    "rating": 6.554,
+    "genres": [
+      "animacao",
+      "fantasia",
+      "aventura",
+      "acao",
+      "guerra"
+    ],
+    "xtream": {
+      "streamId": 2751877,
+      "containerExtension": "mp4"
+    }
+  },
+  {
+    "id": "movie_2752793",
+    "type": "movie",
+    "title": "A Caçada",
+    "year": 2024,
+    "poster": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-poster.png",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 0,
+    "genres": [
+      "animacao",
+      "acao",
+      "nacionais"
+    ],
+    "xtream": {
+      "streamId": 2752793,
+      "containerExtension": "mp4"
+    }
+  },
+  {
+    "id": "movie_2752864",
+    "type": "movie",
+    "title": "A Travessia",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/3KAst4BFORdm02GOtXloHwngbl6.jpg",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 0,
+    "genres": [
+      "animacao",
+      "acao",
+      "nacionais"
+    ],
+    "xtream": {
+      "streamId": 2752864,
+      "containerExtension": "mp4"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "series_3",
+    "type": "series",
+    "title": "A Bíblia",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg",
+    "rating": 8,
+    "producer": "netflix",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3
+    }
+  },
+  {
+    "id": "series_40",
+    "type": "series",
+    "title": "Dinastia",
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/wxKEdlB4Zuq2THGqKYLnGKU37g9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Ao5XqVJj74hYWnnEG98MvRLBHdY.jpg",
+    "rating": 6.519,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 40
+    }
+  }
+]

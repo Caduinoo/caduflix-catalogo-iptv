@@ -251,6 +251,7 @@ async function main() {
   console.log('TMDB: ' + config.masked.tmdbApiKey);
   console.log('cache TMDB: ' + (config.tmdb.cacheEnabled ? 'ativo em ' + config.tmdb.cacheDir : 'desativado'));
   console.log('retry TMDB: ' + config.tmdb.retryAttempts + ' tentativa(s), delay ' + config.tmdb.retryDelayMs + 'ms');
+  console.log('delay get_series_info Xtream: ' + config.xtream.seriesInfoDelayMs + 'ms, concorrencia ' + config.xtream.seriesInfoConcurrency);
   console.log('incremental: ' + (config.incremental.enabled ? 'ativo em ' + config.incremental.stateFile : 'desativado'));
   await tmdb.ensureCacheDir();
 
@@ -359,10 +360,14 @@ async function main() {
   console.log('retries TMDB: ' + tmdbStats.retries);
   console.log('falhas TMDB apos retry: ' + tmdbStats.failuresAfterRetry);
   console.log('itens nao encontrados usando cache: ' + tmdbStats.notFoundCacheHits);
-  const xtreamStats = xtream?.getStats() || { retries: 0, failuresAfterRetry: 0, successfulCalls: 0 };
+  const xtreamStats = xtream?.getStats() || { retries: 0, failuresAfterRetry: 0, successfulCalls: 0, seriesInfoCalls: 0, seriesInfo429: 0, seriesInfoRecoveredAfter429: 0 };
   console.log('retries Xtream: ' + xtreamStats.retries);
   console.log('falhas Xtream apos retry: ' + xtreamStats.failuresAfterRetry);
   console.log('chamadas Xtream com sucesso: ' + xtreamStats.successfulCalls);
+  console.log('chamadas get_series_info: ' + xtreamStats.seriesInfoCalls);
+  console.log('get_series_info com HTTP 429: ' + xtreamStats.seriesInfo429);
+  console.log('get_series_info recuperadas apos 429: ' + xtreamStats.seriesInfoRecoveredAfter429);
+  console.log('delay entre get_series_info: ' + config.xtream.seriesInfoDelayMs + 'ms');
   console.log('series sem episodios por erro Xtream: ' + stats.seriesWithoutEpisodesByXtream);
   console.log('incremental: ' + (config.incremental.enabled ? 'ativo' : 'desativado'));
   console.log('filmes reutilizados: ' + incrementalStats.moviesReused);

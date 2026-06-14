@@ -1,0 +1,105 @@
+[
+  {
+    "id": "series_11",
+    "type": "series",
+    "title": "A Sete Palmos",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/tCINwrX1zmbOKjtjyRj0vRG8p45.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
+    "rating": 8.1,
+    "producer": "hbo_max",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 11
+    }
+  },
+  {
+    "id": "series_14",
+    "type": "series",
+    "title": "Ballers",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/WyIazPyjmcFMC42nWEpI0jr56x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gyPWbM1lq7Ufd9cENSl5Phsrb0a.jpg",
+    "rating": 6.79,
+    "producer": "hbo_max",
+    "genres": [
+      "drama",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 14
+    }
+  },
+  {
+    "id": "series_15",
+    "type": "series",
+    "title": "Irmãos de Guerra",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/76epYsbM8zwwgndU9pdWWyFBmSJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9vxEk6VYXTicQP59KV3POGXKyZh.jpg",
+    "rating": 7.7,
+    "producer": "hbo_max",
+    "genres": [
+      "documentario",
+      "reality",
+      "guerra"
+    ],
+    "xtream": {
+      "seriesId": 15
+    }
+  },
+  {
+    "id": "series_20",
+    "type": "series",
+    "title": "Boardwalk Empire: O Império do Contrabando",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/ola5CT2hDKwS3Y3tDXlq1Luqmo1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7Yj4QbECkH3JavlZxw4NWReoN7B.jpg",
+    "rating": 8.025,
+    "producer": "hbo_max",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 20
+    }
+  },
+  {
+    "id": "series_48",
+    "type": "series",
+    "title": "Friends",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m3Jev59mJLyUp5bXhY5SVfIBZI0.jpg",
+    "rating": 8.416,
+    "producer": "hbo_max",
+    "genres": [
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 48
+    }
+  },
+  {
+    "id": "series_49",
+    "type": "series",
+    "title": "Fronteiras",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/xDemPkYXt1BHXSEV8NSX8hV0eJ6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eksjqZGaGUtSZJD6nWQPsqzDMn0.jpg",
+    "rating": 8.127,
+    "producer": "hbo_max",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 49
+    }
+  }
+]

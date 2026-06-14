@@ -1,0 +1,91 @@
+name: Atualizar Catálogo Pixsuper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar-catalogo-pixsuper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: tools/gerador-catalogo-v2/package-lock.json
+
+      - name: Restaurar cache Pixsuper
+        uses: actions/cache/restore@v4
+        with:
+          path: tools/gerador-catalogo-v2/.cache/pixsuper
+          key: gerador-catalogo-v2-pixsuper-cache-${{ github.run_id }}
+          restore-keys: |
+            gerador-catalogo-v2-pixsuper-cache-
+
+      - name: Instalar dependências
+        working-directory: tools/gerador-catalogo-v2
+        run: npm ci
+
+      - name: Gerar catálogo Pixsuper
+        working-directory: tools/gerador-catalogo-v2
+        env:
+          XTREAM_BASE_URL: ${{ secrets.PIXSUPER_BASE_URL }}
+          XTREAM_USERNAME: ${{ secrets.PIXSUPER_USERNAME }}
+          XTREAM_PASSWORD: ${{ secrets.PIXSUPER_PASSWORD }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          CATALOG_OUTPUT_DIR: ../../pixsuper
+          CATALOG_PUBLIC_BASE_URL: https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper
+          CATALOG_LIMIT_MOVIES:
+          CATALOG_LIMIT_SERIES:
+          TMDB_LANGUAGE: pt-BR
+          TMDB_REGION: BR
+          TMDB_CACHE_ENABLED: "true"
+          TMDB_RETRY_ATTEMPTS: "3"
+          TMDB_RETRY_DELAY_MS: "1000"
+          XTREAM_RETRY_ATTEMPTS: "3"
+          XTREAM_RETRY_DELAY_MS: "1500"
+          XTREAM_REQUEST_TIMEOUT_MS: "30000"
+          XTREAM_SERIES_INFO_DELAY_MS: "2000"
+          XTREAM_SERIES_INFO_CONCURRENCY: "1"
+          CATALOG_INCREMENTAL_ENABLED: "true"
+          CATALOG_CACHE_NAMESPACE: pixsuper
+        run: npm run generate
+
+      - name: Salvar cache Pixsuper
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: tools/gerador-catalogo-v2/.cache/pixsuper
+          key: gerador-catalogo-v2-pixsuper-cache-${{ github.run_id }}
+
+      - name: Verificar alterações do catálogo Pixsuper
+        id: diff
+        shell: bash
+        run: |
+          git status --short pixsuper
+          if git diff --quiet -- pixsuper && \
+             git diff --cached --quiet -- pixsuper && \
+             [ -z "$(git ls-files --others --exclude-standard pixsuper)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nenhuma alteração no catálogo Pixsuper."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit e push do catálogo Pixsuper
+        if: steps.diff.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pixsuper
+          git commit -m "Atualizar catálogo Pixsuper"
+          git push

@@ -1,0 +1,144 @@
+[
+  {
+    "id": "series_1",
+    "type": "series",
+    "title": "3 Palavrinhas",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/qkVKGBpxAAHNBNIsOqUgmtedVPn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/21bH3R6FZme0b6DKkqmfjKPmbnd.jpg",
+    "rating": 0,
+    "producer": "outras_produtoras",
+    "genres": [
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1
+    }
+  },
+  {
+    "id": "series_13",
+    "type": "series",
+    "title": "A Vida Secreta dos Casais",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/r96MKTqGlX5qEg3CZpx9bMXpDYU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4x2anVBHgzE0Giv3u8k9GNisENz.jpg",
+    "rating": 4.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 13
+    }
+  },
+  {
+    "id": "series_19",
+    "type": "series",
+    "title": "Ponto Cego",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/pYyKZZlb3nd5ASbiuIxva718bp2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1GWiao0QYuKsoTvUmd7ivnE3qDY.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "crime",
+      "drama",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 19
+    }
+  },
+  {
+    "id": "series_21",
+    "type": "series",
+    "title": "Bones",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/rElaRnNez2dXBCMv1THHdVcroFY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aSye04zKzWtUP3U6Cl4bOXc5Ih9.jpg",
+    "rating": 8.188,
+    "producer": "outras_produtoras",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 21
+    }
+  },
+  {
+    "id": "series_24",
+    "type": "series",
+    "title": "Brooklyn Nine-Nine: Lei e Desordem",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+    "rating": 8.211,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 24
+    }
+  },
+  {
+    "id": "series_25",
+    "type": "series",
+    "title": "Carcereiros",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/odn7gdoSfOwXZbm3Tf1JBOkAkdr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7hKVJT7ru9TeMOpj1w9dNDALN3U.jpg",
+    "rating": 8.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "crime",
+      "drama",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 25
+    }
+  },
+  {
+    "id": "series_30",
+    "type": "series",
+    "title": "Cobra Kai",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+    "rating": 8.206,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 30
+    }
+  },
+  {
+    "id": "series_45",
+    "type": "series",
+    "title": "Eu, a Patroa e as Crianças",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/huMehRjXBkFkO9BWPly1635y0J0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v9CyGKG1P2McFMAnOG4X59b7CI7.jpg",
+    "rating": 7.427,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "familia",
+      "infantil",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 45
+    }
+  }
+]

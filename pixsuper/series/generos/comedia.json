@@ -1,0 +1,126 @@
+[
+  {
+    "id": "series_9",
+    "type": "series",
+    "title": "Anos Incríveis",
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/zkmv6Kkl8kdWM5HELSafO84MrPV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/XuJi5lKkYLCFpJprfSUZveRof7.jpg",
+    "rating": 8.338,
+    "producer": "paramount",
+    "genres": [
+      "comedia",
+      "drama",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 9
+    }
+  },
+  {
+    "id": "series_14",
+    "type": "series",
+    "title": "Ballers",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/WyIazPyjmcFMC42nWEpI0jr56x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gyPWbM1lq7Ufd9cENSl5Phsrb0a.jpg",
+    "rating": 6.79,
+    "producer": "hbo_max",
+    "genres": [
+      "drama",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 14
+    }
+  },
+  {
+    "id": "series_24",
+    "type": "series",
+    "title": "Brooklyn Nine-Nine: Lei e Desordem",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+    "rating": 8.211,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 24
+    }
+  },
+  {
+    "id": "series_30",
+    "type": "series",
+    "title": "Cobra Kai",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+    "rating": 8.206,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 30
+    }
+  },
+  {
+    "id": "series_45",
+    "type": "series",
+    "title": "Eu, a Patroa e as Crianças",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/huMehRjXBkFkO9BWPly1635y0J0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v9CyGKG1P2McFMAnOG4X59b7CI7.jpg",
+    "rating": 7.427,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "familia",
+      "infantil",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 45
+    }
+  },
+  {
+    "id": "series_46",
+    "type": "series",
+    "title": "Eu, Tu e Ela",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/7uBdouJ41s7D7vF2mR39ucUME8L.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sQGonVK6ACUMpdXVhrN5vXxjmTE.jpg",
+    "rating": 7,
+    "producer": "prime_video",
+    "genres": [
+      "comedia",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 46
+    }
+  },
+  {
+    "id": "series_48",
+    "type": "series",
+    "title": "Friends",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m3Jev59mJLyUp5bXhY5SVfIBZI0.jpg",
+    "rating": 8.416,
+    "producer": "hbo_max",
+    "genres": [
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 48
+    }
+  }
+]

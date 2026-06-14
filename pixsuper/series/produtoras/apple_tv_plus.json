@@ -1,0 +1,90 @@
+[
+  {
+    "id": "series_16",
+    "type": "series",
+    "title": "Motel Bates",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/qlVLk28uGOwVHqxSZlakdRyGMdU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qt3NbzjWRconY6KRGaczte6DmAF.jpg",
+    "rating": 8.1,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "drama",
+      "crime",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 16
+    }
+  },
+  {
+    "id": "series_31",
+    "type": "series",
+    "title": "Colony",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/qfS0mp22XfTig2EK3jWKiyx7kNy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cAgRehPSCjCVrP25zfeffbuptYY.jpg",
+    "rating": 6.852,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 31
+    }
+  },
+  {
+    "id": "series_39",
+    "type": "series",
+    "title": "Dexter",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/f1nV5NBIFwfQLw5g8FVrdt90FAy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+    "rating": 8.2,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 39
+    }
+  },
+  {
+    "id": "series_43",
+    "type": "series",
+    "title": "Dr. House",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "rating": 8.566,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 43
+    }
+  },
+  {
+    "id": "series_44",
+    "type": "series",
+    "title": "Elementaríssimo",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/ac3zAaACyzaRI9td1BMLYGPfP5G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+    "rating": 7.631,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "drama",
+      "misterio",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 44
+    }
+  }
+]

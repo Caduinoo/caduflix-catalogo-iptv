@@ -1,6 +1,7 @@
 import { safeLogError } from './utils.js';
 
-const RETRY_STATUS = new Set([500, 502, 503, 504, 520, 522, 524]);
+const RETRY_STATUS = new Set([429, 500, 502, 503, 504, 520, 522, 524]);
+const RATE_LIMIT_BACKOFF_MS = [10000, 30000, 60000];
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -12,8 +13,12 @@ export class XtreamClient {
     this.stats = {
       retries: 0,
       failuresAfterRetry: 0,
-      successfulCalls: 0
+      successfulCalls: 0,
+      seriesInfoCalls: 0,
+      seriesInfo429: 0,
+      seriesInfoRecoveredAfter429: 0
     };
+    this.lastSeriesInfoAt = 0;
   }
 
   getStats() {
@@ -53,21 +58,44 @@ export class XtreamClient {
     return error?.name === 'AbortError' || error?.status === undefined || RETRY_STATUS.has(error.status);
   }
 
+  retryDelayFor(error, attempt) {
+    if (error?.status === 429) return RATE_LIMIT_BACKOFF_MS[Math.min(attempt - 1, RATE_LIMIT_BACKOFF_MS.length - 1)];
+    return this.config.xtream.retryDelayMs;
+  }
+
+  async waitBeforeSeriesInfo() {
+    const delay = this.config.xtream.seriesInfoDelayMs || 0;
+    if (!delay) return;
+    const elapsed = Date.now() - this.lastSeriesInfoAt;
+    if (this.lastSeriesInfoAt && elapsed < delay) await sleep(delay - elapsed);
+    this.lastSeriesInfoAt = Date.now();
+  }
+
   async request(action, params = {}) {
-    const attempts = this.config.xtream.retryAttempts;
+    const configuredAttempts = this.config.xtream.retryAttempts;
+    const maxAttempts = configuredAttempts + 1;
     let lastError = null;
-    for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    let hadRateLimit = false;
+    for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
       try {
-        if (attempt > 1) console.log('[Xtream] tentativa ' + attempt + '/' + attempts + ' em ' + action);
-        return await this.fetchOnce(action, params);
+        if (attempt > 1) console.log('[Xtream] tentativa ' + attempt + '/' + maxAttempts + ' em ' + action);
+        const data = await this.fetchOnce(action, params);
+        if (hadRateLimit && action === 'get_series_info') this.stats.seriesInfoRecoveredAfter429 += 1;
+        return data;
       } catch (error) {
         lastError = error;
-        if (!this.isRetryable(error) || attempt >= attempts) break;
+        if (error?.status === 429) {
+          hadRateLimit = true;
+          if (action === 'get_series_info') this.stats.seriesInfo429 += 1;
+        }
+        const canRetry = this.isRetryable(error) && (error?.status === 429 ? attempt < maxAttempts : attempt < configuredAttempts);
+        if (!canRetry) break;
         this.stats.retries += 1;
         const label = error.status || error.name || 'rede';
-        console.warn('[Xtream] erro ' + label + ' em ' + action + ', tentativa ' + attempt + '/' + attempts);
-        console.warn('[Xtream] aguardando ' + this.config.xtream.retryDelayMs + 'ms antes de tentar novamente');
-        await sleep(this.config.xtream.retryDelayMs);
+        const waitMs = this.retryDelayFor(error, attempt);
+        console.warn('[Xtream] erro ' + label + ' em ' + action + ', tentativa ' + attempt + '/' + maxAttempts);
+        console.warn('[Xtream] aguardando ' + waitMs + 'ms antes de tentar novamente');
+        await sleep(waitMs);
       }
     }
     if (lastError && this.isRetryable(lastError)) this.stats.failuresAfterRetry += 1;
@@ -103,5 +131,9 @@ export class XtreamClient {
   getMoviesRequired() { return this.requiredArrayRequest('get_vod_streams'); }
   getSeriesRequired() { return this.requiredArrayRequest('get_series'); }
   getLiveStreams() { return this.safeRequest('get_live_streams'); }
-  getSeriesInfo(seriesId) { return this.safeRequest('get_series_info', { series_id: seriesId }, {}, { throwOnFailure: true }); }
+  async getSeriesInfo(seriesId) {
+    this.stats.seriesInfoCalls += 1;
+    await this.waitBeforeSeriesInfo();
+    return this.safeRequest('get_series_info', { series_id: seriesId }, {}, { throwOnFailure: true });
+  }
 }

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "series_4",
+    "type": "series",
+    "title": "Ausência",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/t3yVaAlmCLBwbqTrKGcWHwuCmkh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uXY6k8Gd45cTGzlz5s0A2ejDBXa.jpg",
+    "rating": 7.244,
+    "producer": "prime_video",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 4
+    }
+  },
+  {
+    "id": "series_7",
+    "type": "series",
+    "title": "American Horror Story",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+    "rating": 8.078,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "misterio",
+      "fantasia",
+      "ficcao",
+      "terror"
+    ],
+    "xtream": {
+      "seriesId": 7
+    }
+  },
+  {
+    "id": "series_23",
+    "type": "series",
+    "title": "Britannia",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/fjdXymXAas9NSehc6GCOHQcEM05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9I27ONgKUNlboFFT35el1MZYKnN.jpg",
+    "rating": 6.887,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "fantasia",
+      "ficcao",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 23
+    }
+  },
+  {
+    "id": "series_46",
+    "type": "series",
+    "title": "Eu, Tu e Ela",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/7uBdouJ41s7D7vF2mR39ucUME8L.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sQGonVK6ACUMpdXVhrN5vXxjmTE.jpg",
+    "rating": 7,
+    "producer": "prime_video",
+    "genres": [
+      "comedia",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 46
+    }
+  }
+]

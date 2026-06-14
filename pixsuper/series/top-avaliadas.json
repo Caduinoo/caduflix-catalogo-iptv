@@ -1,0 +1,787 @@
+[
+  {
+    "id": "series_22",
+    "type": "series",
+    "title": "Breaking Bad",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/hGwm9Cj3CdbJIqQWNExQqiYmCd4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "rating": 8.946,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 22
+    }
+  },
+  {
+    "id": "series_17",
+    "type": "series",
+    "title": "Better Call Saul",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/tFCPd8nOqrxjKpTs0ZAdPRydQFR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/og2jKploGHYnCz68vV1nRSEE0xV.jpg",
+    "rating": 8.707,
+    "producer": "netflix",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 17
+    }
+  },
+  {
+    "id": "series_8",
+    "type": "series",
+    "title": "Anne com um \"E\"",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg",
+    "rating": 8.652,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 8
+    }
+  },
+  {
+    "id": "series_43",
+    "type": "series",
+    "title": "Dr. House",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "rating": 8.566,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 43
+    }
+  },
+  {
+    "id": "series_35",
+    "type": "series",
+    "title": "Dark",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/7yQyDCqSazrYTnmxdQLAZ8YDH87.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+    "rating": 8.424,
+    "producer": "netflix",
+    "genres": [
+      "crime",
+      "drama",
+      "fantasia",
+      "ficcao",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 35
+    }
+  },
+  {
+    "id": "series_29",
+    "type": "series",
+    "title": "Chicago P.D.: Distrito 21",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/3k9YHHlENlcIT8g2BqeXsaDI2Hh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+    "rating": 8.424,
+    "producer": "globoplay",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 29
+    }
+  },
+  {
+    "id": "series_48",
+    "type": "series",
+    "title": "Friends",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m3Jev59mJLyUp5bXhY5SVfIBZI0.jpg",
+    "rating": 8.416,
+    "producer": "hbo_max",
+    "genres": [
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 48
+    }
+  },
+  {
+    "id": "series_27",
+    "type": "series",
+    "title": "Chicago Fire: Heróis Contra o Fogo",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
+    "rating": 8.403,
+    "producer": "globoplay",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 27
+    }
+  },
+  {
+    "id": "series_9",
+    "type": "series",
+    "title": "Anos Incríveis",
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/zkmv6Kkl8kdWM5HELSafO84MrPV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/XuJi5lKkYLCFpJprfSUZveRof7.jpg",
+    "rating": 8.338,
+    "producer": "paramount",
+    "genres": [
+      "comedia",
+      "drama",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 9
+    }
+  },
+  {
+    "id": "series_32",
+    "type": "series",
+    "title": "Mentes Criminosas",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/trZTeHWcWDn6adkBBuSwfIhxAJn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+    "rating": 8.3,
+    "producer": "disney_plus",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 32
+    }
+  },
+  {
+    "id": "series_18",
+    "type": "series",
+    "title": "Black Mirror",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/aCTL24B8ZuiI2osMwoUI5rqBXoF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "rating": 8.287,
+    "producer": "netflix",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 18
+    }
+  },
+  {
+    "id": "series_28",
+    "type": "series",
+    "title": "Chicago Med: Atendimento de Emergência",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/nu6RzHO4QahyICKJPkK7xYgUfzM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/x2jNLrYw1s9i6kihEJqsBQgs9nR.jpg",
+    "rating": 8.263,
+    "producer": "globoplay",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 28
+    }
+  },
+  {
+    "id": "series_2",
+    "type": "series",
+    "title": "9-1-1",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
+    "rating": 8.216,
+    "producer": "disney_plus",
+    "genres": [
+      "drama",
+      "crime",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 2
+    }
+  },
+  {
+    "id": "series_24",
+    "type": "series",
+    "title": "Brooklyn Nine-Nine: Lei e Desordem",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+    "rating": 8.211,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 24
+    }
+  },
+  {
+    "id": "series_30",
+    "type": "series",
+    "title": "Cobra Kai",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5NrSIzfcBOFI9HRGV4nRYgMGhDU.jpg",
+    "rating": 8.206,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 30
+    }
+  },
+  {
+    "id": "series_39",
+    "type": "series",
+    "title": "Dexter",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/f1nV5NBIFwfQLw5g8FVrdt90FAy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+    "rating": 8.2,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 39
+    }
+  },
+  {
+    "id": "series_21",
+    "type": "series",
+    "title": "Bones",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/rElaRnNez2dXBCMv1THHdVcroFY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aSye04zKzWtUP3U6Cl4bOXc5Ih9.jpg",
+    "rating": 8.188,
+    "producer": "outras_produtoras",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 21
+    }
+  },
+  {
+    "id": "series_49",
+    "type": "series",
+    "title": "Fronteiras",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/xDemPkYXt1BHXSEV8NSX8hV0eJ6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eksjqZGaGUtSZJD6nWQPsqzDMn0.jpg",
+    "rating": 8.127,
+    "producer": "hbo_max",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 49
+    }
+  },
+  {
+    "id": "series_6",
+    "type": "series",
+    "title": "A Maldição da Residência Hill",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg",
+    "rating": 8.1,
+    "producer": "netflix",
+    "genres": [
+      "misterio",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 6
+    }
+  },
+  {
+    "id": "series_16",
+    "type": "series",
+    "title": "Motel Bates",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/qlVLk28uGOwVHqxSZlakdRyGMdU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qt3NbzjWRconY6KRGaczte6DmAF.jpg",
+    "rating": 8.1,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "drama",
+      "crime",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 16
+    }
+  },
+  {
+    "id": "series_11",
+    "type": "series",
+    "title": "A Sete Palmos",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/tCINwrX1zmbOKjtjyRj0vRG8p45.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
+    "rating": 8.1,
+    "producer": "hbo_max",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 11
+    }
+  },
+  {
+    "id": "series_7",
+    "type": "series",
+    "title": "American Horror Story",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+    "rating": 8.078,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "misterio",
+      "fantasia",
+      "ficcao",
+      "terror"
+    ],
+    "xtream": {
+      "seriesId": 7
+    }
+  },
+  {
+    "id": "series_20",
+    "type": "series",
+    "title": "Boardwalk Empire: O Império do Contrabando",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/ola5CT2hDKwS3Y3tDXlq1Luqmo1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7Yj4QbECkH3JavlZxw4NWReoN7B.jpg",
+    "rating": 8.025,
+    "producer": "hbo_max",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 20
+    }
+  },
+  {
+    "id": "series_26",
+    "type": "series",
+    "title": "Castle",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zOnLMRD3PIhwO5KZmWMVEnLokMo.jpg",
+    "rating": 7.971,
+    "producer": "disney_plus",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 26
+    }
+  },
+  {
+    "id": "series_41",
+    "type": "series",
+    "title": "Doctor Who",
+    "year": 1963,
+    "poster": "https://image.tmdb.org/t/p/w500/uvxLuymTnNeFyiphc8YpCU91agb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+    "rating": 7.902,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "acao",
+      "aventura",
+      "fantasia",
+      "ficcao"
+    ],
+    "xtream": {
+      "seriesId": 41
+    }
+  },
+  {
+    "id": "series_10",
+    "type": "series",
+    "title": "Arquivo Morto",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/7WPgmTXqotx7fhULhKqzPp6DX1k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
+    "rating": 7.768,
+    "producer": "netflix",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 10
+    }
+  },
+  {
+    "id": "series_33",
+    "type": "series",
+    "title": "CSI: Miami",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/uMLbHU7a7RWTg1vacCNtHnnzbPU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+    "rating": 7.705,
+    "producer": "paramount",
+    "genres": [
+      "drama",
+      "misterio",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 33
+    }
+  },
+  {
+    "id": "series_44",
+    "type": "series",
+    "title": "Elementaríssimo",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/ac3zAaACyzaRI9td1BMLYGPfP5G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+    "rating": 7.631,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "drama",
+      "misterio",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 44
+    }
+  },
+  {
+    "id": "series_5",
+    "type": "series",
+    "title": "Altered Carbon",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/AisK4uFsnwwmMkSynFpNl0VeGR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A6I3M4MIA2Pi2gS6vGdg2eVlVXT.jpg",
+    "rating": 7.6,
+    "producer": "netflix",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 5
+    }
+  },
+  {
+    "id": "series_36",
+    "type": "series",
+    "title": "Da Vinci's Demons",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wHcLMdK85CIJu76RNxnq6rhS2FF.jpg",
+    "rating": 7.5,
+    "producer": "lionsgate",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 36
+    }
+  },
+  {
+    "id": "series_45",
+    "type": "series",
+    "title": "Eu, a Patroa e as Crianças",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/huMehRjXBkFkO9BWPly1635y0J0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v9CyGKG1P2McFMAnOG4X59b7CI7.jpg",
+    "rating": 7.427,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "familia",
+      "infantil",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 45
+    }
+  },
+  {
+    "id": "series_19",
+    "type": "series",
+    "title": "Ponto Cego",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/pYyKZZlb3nd5ASbiuIxva718bp2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1GWiao0QYuKsoTvUmd7ivnE3qDY.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "crime",
+      "drama",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 19
+    }
+  },
+  {
+    "id": "series_34",
+    "type": "series",
+    "title": "CSI: Nova York",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
+    "rating": 7.315,
+    "producer": "paramount",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 34
+    }
+  },
+  {
+    "id": "series_37",
+    "type": "series",
+    "title": "Lendas do Amanhã",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/xS1BsFVT99uywJRjLZh41KZ1MXX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
+    "rating": 7.264,
+    "producer": "netflix",
+    "genres": [
+      "acao",
+      "aventura",
+      "fantasia",
+      "ficcao",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 37
+    }
+  },
+  {
+    "id": "series_4",
+    "type": "series",
+    "title": "Ausência",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/t3yVaAlmCLBwbqTrKGcWHwuCmkh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uXY6k8Gd45cTGzlz5s0A2ejDBXa.jpg",
+    "rating": 7.244,
+    "producer": "prime_video",
+    "genres": [
+      "crime",
+      "drama",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 4
+    }
+  },
+  {
+    "id": "series_46",
+    "type": "series",
+    "title": "Eu, Tu e Ela",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/7uBdouJ41s7D7vF2mR39ucUME8L.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sQGonVK6ACUMpdXVhrN5vXxjmTE.jpg",
+    "rating": 7,
+    "producer": "prime_video",
+    "genres": [
+      "comedia",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 46
+    }
+  },
+  {
+    "id": "series_42",
+    "type": "series",
+    "title": "Drácula",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v3cpyhytwXXbAr7Wycn5LEwonuL.jpg",
+    "rating": 6.979,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 42
+    }
+  },
+  {
+    "id": "series_38",
+    "type": "series",
+    "title": "Deadwind",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/lFvTHBf09t4hyT53SNhMWwKPimQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/44l4MxfKWW6F5Ksqxq37tB2CTwK.jpg",
+    "rating": 6.951,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 38
+    }
+  },
+  {
+    "id": "series_47",
+    "type": "series",
+    "title": "Eu Vi",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/bjlT4y628Pr5n4Gh98gKEZfKwlY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dRcmxylWo4whshJnhq70FgjN9hD.jpg",
+    "rating": 6.9,
+    "producer": "netflix",
+    "genres": [
+      "documentario"
+    ],
+    "xtream": {
+      "seriesId": 47
+    }
+  },
+  {
+    "id": "series_23",
+    "type": "series",
+    "title": "Britannia",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/fjdXymXAas9NSehc6GCOHQcEM05.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9I27ONgKUNlboFFT35el1MZYKnN.jpg",
+    "rating": 6.887,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "fantasia",
+      "ficcao",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 23
+    }
+  },
+  {
+    "id": "series_31",
+    "type": "series",
+    "title": "Colony",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/qfS0mp22XfTig2EK3jWKiyx7kNy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cAgRehPSCjCVrP25zfeffbuptYY.jpg",
+    "rating": 6.852,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 31
+    }
+  },
+  {
+    "id": "series_14",
+    "type": "series",
+    "title": "Ballers",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/WyIazPyjmcFMC42nWEpI0jr56x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gyPWbM1lq7Ufd9cENSl5Phsrb0a.jpg",
+    "rating": 6.79,
+    "producer": "hbo_max",
+    "genres": [
+      "drama",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 14
+    }
+  },
+  {
+    "id": "series_40",
+    "type": "series",
+    "title": "Dinastia",
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/wxKEdlB4Zuq2THGqKYLnGKU37g9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Ao5XqVJj74hYWnnEG98MvRLBHdY.jpg",
+    "rating": 6.519,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 40
+    }
+  },
+  {
+    "id": "series_50",
+    "type": "series",
+    "title": "Guerra Fantasma",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/hdOWk4uAKXXPBdyLd54ejmbzpVP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hhtZbACq4IgWWdVZ8B9p2WnQTjS.jpg",
+    "rating": 6,
+    "producer": "netflix",
+    "genres": [
+      "misterio",
+      "fantasia",
+      "ficcao",
+      "drama",
+      "guerra"
+    ],
+    "xtream": {
+      "seriesId": 50
+    }
+  }
+]

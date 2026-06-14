@@ -1,0 +1,76 @@
+{
+  "sections": [
+    {
+      "id": "jogos_do_dia",
+      "title": "Jogos do Dia",
+      "type": "channel",
+      "path": "canais/jogos-do-dia.json"
+    },
+    {
+      "id": "filmes_populares",
+      "title": "Filmes Populares",
+      "type": "movie",
+      "path": "filmes/populares.json"
+    },
+    {
+      "id": "filmes_tendencias",
+      "title": "Filmes em Tendencia",
+      "type": "movie",
+      "path": "filmes/tendencias.json"
+    },
+    {
+      "id": "filmes_lancamentos",
+      "title": "Lancamentos",
+      "type": "movie",
+      "path": "filmes/lancamentos.json"
+    },
+    {
+      "id": "series_populares",
+      "title": "Series Populares",
+      "type": "series",
+      "path": "series/populares.json"
+    },
+    {
+      "id": "series_tendencias",
+      "title": "Series em Tendencia",
+      "type": "series",
+      "path": "series/tendencias.json"
+    },
+    {
+      "id": "series_lancamentos",
+      "title": "Series Recentes",
+      "type": "series",
+      "path": "series/lancamentos.json"
+    },
+    {
+      "id": "filmes_acao",
+      "title": "Filmes de Acao",
+      "type": "movie",
+      "path": "filmes/generos/acao.json"
+    },
+    {
+      "id": "filmes_comedia",
+      "title": "Comedia",
+      "type": "movie",
+      "path": "filmes/generos/comedia.json"
+    },
+    {
+      "id": "series_netflix",
+      "title": "Netflix",
+      "type": "series",
+      "path": "series/produtoras/netflix.json"
+    },
+    {
+      "id": "series_prime_video",
+      "title": "Prime Video",
+      "type": "series",
+      "path": "series/produtoras/prime_video.json"
+    },
+    {
+      "id": "series_hbo_max",
+      "title": "HBO Max",
+      "type": "series",
+      "path": "series/produtoras/hbo_max.json"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "series_12",
+    "type": "series",
+    "title": "Assédio",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/flsnAzBLLV9IZ4tA0aT2QuJorVe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nsf5Ns9zXUGEIJSSJmW7UsyKvqm.jpg",
+    "rating": 7.2,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 12
+    }
+  },
+  {
+    "id": "series_27",
+    "type": "series",
+    "title": "Chicago Fire: Heróis Contra o Fogo",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/iD8lx0VgmpCZMhycI0Xw72wCuRS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
+    "rating": 8.403,
+    "producer": "globoplay",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 27
+    }
+  },
+  {
+    "id": "series_28",
+    "type": "series",
+    "title": "Chicago Med: Atendimento de Emergência",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/nu6RzHO4QahyICKJPkK7xYgUfzM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/x2jNLrYw1s9i6kihEJqsBQgs9nR.jpg",
+    "rating": 8.263,
+    "producer": "globoplay",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 28
+    }
+  },
+  {
+    "id": "series_29",
+    "type": "series",
+    "title": "Chicago P.D.: Distrito 21",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/3k9YHHlENlcIT8g2BqeXsaDI2Hh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+    "rating": 8.424,
+    "producer": "globoplay",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 29
+    }
+  },
+  {
+    "id": "series_41",
+    "type": "series",
+    "title": "Doctor Who",
+    "year": 1963,
+    "poster": "https://image.tmdb.org/t/p/w500/uvxLuymTnNeFyiphc8YpCU91agb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+    "rating": 7.902,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "acao",
+      "aventura",
+      "fantasia",
+      "ficcao"
+    ],
+    "xtream": {
+      "seriesId": 41
+    }
+  }
+]

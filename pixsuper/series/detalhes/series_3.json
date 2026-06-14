@@ -1,0 +1,110 @@
+{
+  "id": "series_3",
+  "type": "series",
+  "title": "A Bíblia",
+  "originalTitle": "A Bíblia",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg",
+  "overview": "Os principais acontecimentos bíblicos da história da humanidade que contam como tudo começou.",
+  "rating": 8,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "romance",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 139348,
+  "xtream": {
+    "seriesId": 3
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3128545",
+          "episodeId": 3128545,
+          "season": 1,
+          "episode": 1,
+          "title": "A Bíblia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3128546",
+          "episodeId": 3128546,
+          "season": 1,
+          "episode": 2,
+          "title": "A Bíblia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3128547",
+          "episodeId": 3128547,
+          "season": 1,
+          "episode": 3,
+          "title": "A Bíblia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3128548",
+          "episodeId": 3128548,
+          "season": 1,
+          "episode": 4,
+          "title": "A Bíblia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3128549",
+          "episodeId": 3128549,
+          "season": 1,
+          "episode": 5,
+          "title": "A Bíblia S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3128550",
+          "episodeId": 3128550,
+          "season": 1,
+          "episode": 6,
+          "title": "A Bíblia S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3128551",
+          "episodeId": 3128551,
+          "season": 1,
+          "episode": 7,
+          "title": "A Bíblia S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3128552",
+          "episodeId": 3128552,
+          "season": 1,
+          "episode": 8,
+          "title": "A Bíblia S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3128553",
+          "episodeId": 3128553,
+          "season": 1,
+          "episode": 9,
+          "title": "A Bíblia S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3128554",
+          "episodeId": 3128554,
+          "season": 1,
+          "episode": 10,
+          "title": "A Bíblia S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

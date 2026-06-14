@@ -1,0 +1,100 @@
+[
+  {
+    "id": "movie_2752723",
+    "type": "movie",
+    "title": "O Maravilhoso Mágico de Oz - Parte 1",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/s4pK8Cpna56SbYbmFGgKyBvLj7A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1t3YfNmAZeWIFEctgh43pL10gdQ.jpg",
+    "rating": 7.278,
+    "genres": [
+      "fantasia",
+      "familia",
+      "infantil",
+      "aventura"
+    ],
+    "xtream": {
+      "streamId": 2752723,
+      "containerExtension": "mp4"
+    }
+  },
+  {
+    "id": "movie_2752813",
+    "type": "movie",
+    "title": "A Garota Invisível",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/msJs7UwmWUd7iql36JoN4Rp0hoK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9nAlqYowQyMDrtR294tjX1AXEH0.jpg",
+    "rating": 6.491,
+    "genres": [
+      "familia",
+      "infantil",
+      "romance",
+      "comedia",
+      "acao",
+      "nacionais"
+    ],
+    "xtream": {
+      "streamId": 2752813,
+      "containerExtension": "mp4"
+    }
+  },
+  {
+    "id": "movie_2752878",
+    "type": "movie",
+    "title": "A Última Onça Negra",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/i0DDkuvNDRgZeGYSUvWIEuG6Zid.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AvLiHSrfLCfKL2wvhOY8wkOkpLp.jpg",
+    "rating": 6.614,
+    "genres": [
+      "aventura",
+      "familia",
+      "infantil",
+      "acao"
+    ],
+    "xtream": {
+      "streamId": 2752878,
+      "containerExtension": "mp4"
+    }
+  },
+  {
+    "id": "movie_2752880",
+    "type": "movie",
+    "title": "A-X-L: O Cão Robô",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/sigvpZ41dHQlY7QWAXLVyhK5Ymj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2PCcEJ1lUJgir598yMGXkluJa6y.jpg",
+    "rating": 6.336,
+    "genres": [
+      "ficcao",
+      "acao",
+      "aventura",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "streamId": 2752880,
+      "containerExtension": "mp4"
+    }
+  },
+  {
+    "id": "movie_2752883",
+    "type": "movie",
+    "title": "Abra Suas Asas",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/gWlnUfzERPhYG6zUtepOsxcPlS6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A9Ub7OXDS0OuEP2DelhYJM8yvrO.jpg",
+    "rating": 7.466,
+    "genres": [
+      "aventura",
+      "familia",
+      "infantil",
+      "acao"
+    ],
+    "xtream": {
+      "streamId": 2752883,
+      "containerExtension": "mp4"
+    }
+  }
+]

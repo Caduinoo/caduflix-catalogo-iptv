@@ -1,0 +1,90 @@
+[
+  {
+    "id": "series_1",
+    "type": "series",
+    "title": "3 Palavrinhas",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/qkVKGBpxAAHNBNIsOqUgmtedVPn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/21bH3R6FZme0b6DKkqmfjKPmbnd.jpg",
+    "rating": 0,
+    "producer": "outras_produtoras",
+    "genres": [
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1
+    }
+  },
+  {
+    "id": "series_3",
+    "type": "series",
+    "title": "A Bíblia",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg",
+    "rating": 8,
+    "producer": "netflix",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3
+    }
+  },
+  {
+    "id": "series_12",
+    "type": "series",
+    "title": "Assédio",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/flsnAzBLLV9IZ4tA0aT2QuJorVe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nsf5Ns9zXUGEIJSSJmW7UsyKvqm.jpg",
+    "rating": 7.2,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 12
+    }
+  },
+  {
+    "id": "series_13",
+    "type": "series",
+    "title": "A Vida Secreta dos Casais",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/r96MKTqGlX5qEg3CZpx9bMXpDYU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4x2anVBHgzE0Giv3u8k9GNisENz.jpg",
+    "rating": 4.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 13
+    }
+  },
+  {
+    "id": "series_25",
+    "type": "series",
+    "title": "Carcereiros",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/odn7gdoSfOwXZbm3Tf1JBOkAkdr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7hKVJT7ru9TeMOpj1w9dNDALN3U.jpg",
+    "rating": 8.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "crime",
+      "drama",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 25
+    }
+  }
+]
