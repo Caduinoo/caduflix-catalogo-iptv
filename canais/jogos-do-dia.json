@@ -1,5 +1,153 @@
 {
-  "generatedAt": "2026-06-13T22:20:39.417Z",
+  "generatedAt": "2026-06-13T22:51:56-03:00",
   "date": "2026-06-13",
-  "items": []
+  "timezone": "America/Sao_Paulo",
+  "source": "api-football",
+  "items": [
+    {
+      "id": "game_2026-06-13_1600_flamengo_palmeiras",
+      "time": "16:00",
+      "timestamp": "2026-06-13T16:00:00-03:00",
+      "competition": "Brasileirao Serie A",
+      "homeTeam": "Flamengo",
+      "awayTeam": "Palmeiras",
+      "status": "scheduled",
+      "round": "Rodada 12",
+      "broadcasts": [
+        {
+          "name": "Globo",
+          "keywords": [
+            "globo",
+            "rede globo",
+            "globo sp",
+            "globo rj"
+          ]
+        },
+        {
+          "name": "Sportv",
+          "keywords": [
+            "sportv",
+            "sportv hd",
+            "sportv fhd",
+            "sportv 2",
+            "sportv 3"
+          ]
+        },
+        {
+          "name": "Premiere",
+          "keywords": [
+            "premiere",
+            "premiere clubes",
+            "premiere hd",
+            "premiere fhd"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Flamengo",
+        "Palmeiras",
+        "Brasileirao Serie A",
+        "Brasileirao",
+        "Globo",
+        "Sportv",
+        "Premiere"
+      ]
+    },
+    {
+      "id": "game_2026-06-13_1930_corinthians_sao_paulo",
+      "time": "19:30",
+      "timestamp": "2026-06-13T19:30:00-03:00",
+      "competition": "Copa do Brasil",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Sao Paulo",
+      "status": "scheduled",
+      "round": "",
+      "broadcasts": [
+        {
+          "name": "Globo",
+          "keywords": [
+            "globo",
+            "rede globo",
+            "globo sp",
+            "globo rj"
+          ]
+        },
+        {
+          "name": "Sportv",
+          "keywords": [
+            "sportv",
+            "sportv hd",
+            "sportv fhd",
+            "sportv 2",
+            "sportv 3"
+          ]
+        },
+        {
+          "name": "Premiere",
+          "keywords": [
+            "premiere",
+            "premiere clubes",
+            "premiere hd",
+            "premiere fhd"
+          ]
+        },
+        {
+          "name": "Amazon Prime Video",
+          "keywords": [
+            "prime video",
+            "amazon prime"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Corinthians",
+        "Sao Paulo",
+        "Copa do Brasil",
+        "Globo",
+        "Sportv",
+        "Premiere",
+        "Amazon Prime Video"
+      ]
+    },
+    {
+      "id": "game_2026-06-13_2100_real_madrid_manchester_city",
+      "time": "21:00",
+      "timestamp": "2026-06-13T21:00:00-03:00",
+      "competition": "Champions League",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Manchester City",
+      "status": "scheduled",
+      "round": "",
+      "broadcasts": [
+        {
+          "name": "TNT Sports",
+          "keywords": [
+            "tnt sports",
+            "tnt"
+          ]
+        },
+        {
+          "name": "HBO Max",
+          "keywords": [
+            "hbo max",
+            "max"
+          ]
+        },
+        {
+          "name": "SBT",
+          "keywords": [
+            "sbt"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Real Madrid",
+        "Manchester City",
+        "Champions League",
+        "TNT Sports",
+        "HBO Max",
+        "SBT"
+      ]
+    }
+  ]
 }
