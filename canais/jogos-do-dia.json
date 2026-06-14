@@ -1,153 +1,138 @@
 {
-  "generatedAt": "2026-06-13T22:51:56-03:00",
-  "date": "2026-06-13",
+  "generatedAt": "2026-06-14T00:24:33-03:00",
+  "date": "2026-06-14",
   "timezone": "America/Sao_Paulo",
-  "source": "api-football",
+  "source": "pixsuper",
   "items": [
     {
-      "id": "game_2026-06-13_1600_flamengo_palmeiras",
+      "id": "game_catar_x_suica_1600",
       "time": "16:00",
-      "timestamp": "2026-06-13T16:00:00-03:00",
-      "competition": "Brasileirao Serie A",
-      "homeTeam": "Flamengo",
-      "awayTeam": "Palmeiras",
+      "timestamp": "2026-06-14T16:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Catar",
+      "awayTeam": "Suíça",
+      "title": "Catar x Suíça",
       "status": "scheduled",
-      "round": "Rodada 12",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
       "broadcasts": [
         {
-          "name": "Globo",
+          "name": "CazéTV",
           "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
           ]
-        },
+        }
+      ],
+      "searchKeywords": [
+        "Catar",
+        "Suíça",
+        "Catar x Suíça",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Catar x Suíça - 16h00 - SD (CazéTV)",
+          "Catar x Suíça - 16h00 - HD (CazéTV)",
+          "Catar x Suíça - 16h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_brasil_x_marrocos_1900",
+      "time": "19:00",
+      "timestamp": "2026-06-14T19:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Brasil",
+      "awayTeam": "Marrocos",
+      "title": "Brasil x Marrocos",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "Sportv"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
         {
           "name": "Sportv",
           "keywords": [
             "sportv",
-            "sportv hd",
-            "sportv fhd",
             "sportv 2",
-            "sportv 3"
-          ]
-        },
-        {
-          "name": "Premiere",
-          "keywords": [
-            "premiere",
-            "premiere clubes",
-            "premiere hd",
-            "premiere fhd"
+            "sportv 3",
+            "sportv hd",
+            "sportv fhd"
           ]
         }
       ],
       "searchKeywords": [
-        "Flamengo",
-        "Palmeiras",
-        "Brasileirao Serie A",
-        "Brasileirao",
-        "Globo",
-        "Sportv",
-        "Premiere"
-      ]
+        "Brasil",
+        "Marrocos",
+        "Brasil x Marrocos",
+        "Sportv"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Brasil x Marrocos - 19h00 - SD (SporTV)",
+          "Brasil x Marrocos - 19h00 - HD (SporTV)",
+          "Brasil x Marrocos - 19h00 - FHD (SporTV)"
+        ]
+      }
     },
     {
-      "id": "game_2026-06-13_1930_corinthians_sao_paulo",
-      "time": "19:30",
-      "timestamp": "2026-06-13T19:30:00-03:00",
-      "competition": "Copa do Brasil",
-      "homeTeam": "Corinthians",
-      "awayTeam": "Sao Paulo",
+      "id": "game_haiti_x_escocia_2200",
+      "time": "22:00",
+      "timestamp": "2026-06-14T22:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Haiti",
+      "awayTeam": "Escócia",
+      "title": "Haiti x Escócia",
       "status": "scheduled",
-      "round": "",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
       "broadcasts": [
         {
-          "name": "Globo",
+          "name": "CazéTV",
           "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv hd",
-            "sportv fhd",
-            "sportv 2",
-            "sportv 3"
-          ]
-        },
-        {
-          "name": "Premiere",
-          "keywords": [
-            "premiere",
-            "premiere clubes",
-            "premiere hd",
-            "premiere fhd"
-          ]
-        },
-        {
-          "name": "Amazon Prime Video",
-          "keywords": [
-            "prime video",
-            "amazon prime"
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
           ]
         }
       ],
       "searchKeywords": [
-        "Corinthians",
-        "Sao Paulo",
-        "Copa do Brasil",
-        "Globo",
-        "Sportv",
-        "Premiere",
-        "Amazon Prime Video"
-      ]
-    },
-    {
-      "id": "game_2026-06-13_2100_real_madrid_manchester_city",
-      "time": "21:00",
-      "timestamp": "2026-06-13T21:00:00-03:00",
-      "competition": "Champions League",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Manchester City",
-      "status": "scheduled",
-      "round": "",
-      "broadcasts": [
-        {
-          "name": "TNT Sports",
-          "keywords": [
-            "tnt sports",
-            "tnt"
-          ]
-        },
-        {
-          "name": "HBO Max",
-          "keywords": [
-            "hbo max",
-            "max"
-          ]
-        },
-        {
-          "name": "SBT",
-          "keywords": [
-            "sbt"
-          ]
-        }
+        "Haiti",
+        "Escócia",
+        "Haiti x Escócia",
+        "CazéTV"
       ],
-      "searchKeywords": [
-        "Real Madrid",
-        "Manchester City",
-        "Champions League",
-        "TNT Sports",
-        "HBO Max",
-        "SBT"
-      ]
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Haiti x Escócia - 22h00 - SD (CazéTV)",
+          "Haiti x Escócia - 22h00 - HD (CazéTV)",
+          "Haiti x Escócia - 22h00 - FHD (CazéTV)"
+        ]
+      }
     }
   ]
 }

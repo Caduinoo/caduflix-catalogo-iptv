@@ -7,10 +7,10 @@
   ],
   "Sportv": [
     "sportv",
-    "sportv hd",
-    "sportv fhd",
     "sportv 2",
-    "sportv 3"
+    "sportv 3",
+    "sportv hd",
+    "sportv fhd"
   ],
   "Premiere": [
     "premiere",
@@ -21,8 +21,6 @@
   "ESPN": [
     "espn",
     "espn brasil",
-    "espn hd",
-    "espn fhd",
     "espn 2",
     "espn 3",
     "espn 4"
@@ -31,26 +29,22 @@
     "tnt sports",
     "tnt"
   ],
-  "HBO Max": [
-    "hbo max",
-    "max"
-  ],
   "SBT": [
     "sbt"
+  ],
+  "Record": [
+    "record"
+  ],
+  "Band": [
+    "band",
+    "bandsports",
+    "band sports"
   ],
   "CazéTV": [
     "caze",
     "cazetv",
-    "cazé tv"
-  ],
-  "Band": [
-    "band",
-    "band sports",
-    "bandsports"
-  ],
-  "Record": [
-    "record",
-    "record tv"
+    "cazé tv",
+    "cazé"
   ],
   "Amazon Prime Video": [
     "prime video",
@@ -66,8 +60,23 @@
     "paramount",
     "paramount+"
   ],
+  "Max": [
+    "max",
+    "hbo max",
+    "hbo"
+  ],
   "OneFootball": [
     "onefootball",
     "one football"
+  ],
+  "Canal GOAT": [
+    "goat",
+    "canal goat"
+  ],
+  "UOL": [
+    "uol"
+  ],
+  "Nosso Futebol": [
+    "nosso futebol"
   ]
 }

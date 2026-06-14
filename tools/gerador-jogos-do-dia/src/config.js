@@ -4,20 +4,22 @@ import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const projectRoot = path.resolve(__dirname, "..");
-
 loadDotEnv(path.join(projectRoot, ".env"));
 
 export const config = {
   projectRoot,
-  provider: env("FOOTBALL_API_PROVIDER", "api-football").trim().toLowerCase(),
-  apiKey: env("FOOTBALL_API_KEY", ""),
-  baseUrl: env("FOOTBALL_API_BASE_URL", "https://v3.football.api-sports.io").replace(/\/+$/, ""),
+  source: env("GAMES_SOURCE", "pixsuper").trim().toLowerCase(),
+  pixsuperBaseUrl: env("PIXSUPER_BASE_URL", "").replace(/\/+$/, ""),
+  pixsuperUsername: env("PIXSUPER_USERNAME", ""),
+  pixsuperPassword: env("PIXSUPER_PASSWORD", ""),
   outputDir: path.resolve(projectRoot, env("GAMES_OUTPUT_DIR", "../..")),
   timezone: env("GAMES_TIMEZONE", "America/Sao_Paulo"),
-  country: env("GAMES_COUNTRY", "BR"),
-  language: env("GAMES_LANGUAGE", "pt-BR"),
   useMockWhenNoKey: env("GAMES_USE_MOCK_WHEN_NO_KEY", "true").toLowerCase() === "true"
 };
+
+export function hasPixsuperConfig() {
+  return Boolean(config.pixsuperBaseUrl && config.pixsuperUsername && config.pixsuperPassword);
+}
 
 function env(name, fallback) {
   const value = process.env[name];
@@ -33,6 +35,6 @@ function loadDotEnv(filePath) {
     const key = trimmed.slice(0, index).trim();
     const rawValue = trimmed.slice(index + 1).trim();
     if (!key || process.env[key] != null) continue;
-    process.env[key] = rawValue.replace(/^["']|["']$/g, "");
+    process.env[key] = rawValue.replace(/^[\"']|[\"']$/g, "");
   }
 }

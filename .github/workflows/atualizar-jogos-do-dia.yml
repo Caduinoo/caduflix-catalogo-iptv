@@ -3,7 +3,7 @@ name: Atualizar Jogos do Dia
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 9,13,17,21 * * *"
+    - cron: "0 9,12,15,18,21 * * *"
 
 permissions:
   contents: write
@@ -24,16 +24,15 @@ jobs:
         working-directory: tools/gerador-jogos-do-dia
         run: npm install
 
-      - name: Gerar jogos do dia
+      - name: Gerar jogos do dia via Pixsuper
         working-directory: tools/gerador-jogos-do-dia
         env:
-          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
-          FOOTBALL_API_BASE_URL:
-          FOOTBALL_API_PROVIDER: api-football
+          GAMES_SOURCE: pixsuper
+          PIXSUPER_BASE_URL: ${{ secrets.PIXSUPER_BASE_URL }}
+          PIXSUPER_USERNAME: ${{ secrets.PIXSUPER_USERNAME }}
+          PIXSUPER_PASSWORD: ${{ secrets.PIXSUPER_PASSWORD }}
           GAMES_OUTPUT_DIR: ../..
           GAMES_TIMEZONE: America/Sao_Paulo
-          GAMES_COUNTRY: BR
-          GAMES_LANGUAGE: pt-BR
           GAMES_USE_MOCK_WHEN_NO_KEY: "false"
         run: npm run generate
 
@@ -46,7 +45,7 @@ jobs:
              git diff --cached --quiet -- canais/jogos-do-dia.json canais/jogos-canais-map.json && \
              [ -z "$(git ls-files --others --exclude-standard canais/jogos-do-dia.json canais/jogos-canais-map.json)" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "Nenhuma alteraÃƒÂ§ÃƒÂ£o nos jogos do dia."
+            echo "Nenhuma alteracao nos jogos do dia."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
