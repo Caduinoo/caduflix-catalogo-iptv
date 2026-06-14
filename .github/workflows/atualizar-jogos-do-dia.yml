@@ -3,7 +3,8 @@ name: Atualizar Jogos do Dia
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 9,12,15,18,21 * * *"
+    - cron: "7 6-23/2 * * *"
+      timezone: "America/Sao_Paulo"
 
 permissions:
   contents: write
