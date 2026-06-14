@@ -375,6 +375,13 @@ async function main() {
   console.log('series removidas: ' + incrementalStats.seriesRemoved);
   console.log('duplicados filmes: ' + movieDedupe.duplicates);
   console.log('duplicados series: ' + seriesDedupe.duplicates);
+  if (result.movieSectionStats) {
+    console.log('filmes em Populares: ' + result.movieSectionStats.populares);
+    console.log('filmes em Lancamentos: ' + result.movieSectionStats.lancamentos);
+    console.log('filmes em Tendencias: ' + result.movieSectionStats.tendencias);
+    console.log('filmes removidos de Populares por repeticao com Lancamentos: ' + result.movieSectionStats.popularesRemovidosPorRepeticao);
+    console.log('filmes removidos de Tendencias por repeticao: ' + result.movieSectionStats.tendenciasRemovidosPorRepeticao);
+  }
   console.log('erros filmes: ' + stats.movieErrors);
   console.log('erros series: ' + stats.seriesErrors);
   console.log('generos gerados filmes: ' + result.movieGenres.join(', '));

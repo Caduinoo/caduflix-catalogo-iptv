@@ -10,12 +10,76 @@ const compactMovie = (item) => ({ id: item.id, type: 'movie', title: item.title,
 const detailMovie = (item) => ({ id: item.id, type: 'movie', title: item.title, originalTitle: item.originalTitle, year: item.year, poster: item.poster, backdrop: item.backdrop, overview: item.overview, rating: item.rating, runtime: item.runtime, genres: item.genres, cast: item.cast || [], director: item.director || '', tmdbId: item.tmdbId, xtream: item.xtream });
 const compactSeries = (item) => ({ id: item.id, type: 'series', title: item.title, year: item.year, poster: item.poster, backdrop: item.backdrop, rating: item.rating, producer: item.producer, genres: item.genres, xtream: item.xtream });
 const detailSeries = (item) => ({ id: item.id, type: 'series', title: item.title, originalTitle: item.originalTitle, year: item.year, poster: item.poster, backdrop: item.backdrop, overview: item.overview, rating: item.rating, genres: item.genres, producer: item.producer, tmdbId: item.tmdbId, xtream: item.xtream, seasons: item.seasons || [] });
-const trendScore = (item) => (item.popularity || 0) + (item.year ? Math.max(0, 8 - Math.abs(new Date().getFullYear() - item.year)) * 12 : 0) + (item.rating || 0) * 4 + Math.min(item.voteCount || 0, 1000) / 100;
+const SECTION_MIN_SIZE = 100;
+const SECTION_AVOID_LIMIT = 60;
+const currentYear = () => new Date().getFullYear();
+const itemId = (item) => item?.id || item?.compact?.id || '';
+const hasUsefulPoster = (item) => Boolean(item.poster && !String(item.poster).includes('placeholder-poster'));
+const compactList = (items) => items.map((item) => item.compact);
+const byPopularityItems = (items) => [...items].sort((a, b) => Number(hasUsefulPoster(b)) - Number(hasUsefulPoster(a)) || (b.popularity || 0) - (a.popularity || 0) || (b.voteCount || 0) - (a.voteCount || 0) || (b.rating || 0) - (a.rating || 0));
+const trendScore = (item) => {
+  const yearBonus = item.year ? Math.max(0, 6 - Math.max(0, currentYear() - item.year)) * 18 : 0;
+  return (item.popularity || 0) + yearBonus + (item.rating || 0) * 5 + Math.min(item.voteCount || 0, 1500) / 120;
+};
+const byTrendingItems = (items) => [...items].sort((a, b) => trendScore(b) - trendScore(a) || (b.popularity || 0) - (a.popularity || 0));
+const byLaunchItems = (items) => [...items]
+  .filter((item) => YEARS.includes(item.year))
+  .sort((a, b) => (b.year || 0) - (a.year || 0) || (b.popularity || 0) - (a.popularity || 0) || (b.rating || 0) - (a.rating || 0) || (b.voteCount || 0) - (a.voteCount || 0));
+const byRecentItems = (items) => [...items].sort((a, b) => (b.addedAt || 0) - (a.addedAt || 0));
+const byTopRatedItems = (items) => {
+  const sorted = [...items].sort((a, b) => (b.rating || 0) - (a.rating || 0) || (b.voteCount || 0) - (a.voteCount || 0) || (b.popularity || 0) - (a.popularity || 0));
+  const reliable = sorted.filter((item) => (item.voteCount || 0) >= 100);
+  if (reliable.length >= SECTION_MIN_SIZE) return reliable;
+  const reliableIds = new Set(reliable.map(itemId));
+  return [...reliable, ...sorted.filter((item) => !reliableIds.has(itemId(item)))];
+};
+const seriesTrendScore = (item) => (item.popularity || 0) + (item.year ? Math.max(0, 8 - Math.abs(new Date().getFullYear() - item.year)) * 12 : 0) + (item.rating || 0) * 4 + Math.min(item.voteCount || 0, 1000) / 100;
 const byPopularity = (items) => [...items].sort((a, b) => (b.popularity || 0) - (a.popularity || 0)).map((item) => item.compact);
-const byTrending = (items) => [...items].sort((a, b) => trendScore(b) - trendScore(a)).map((item) => item.compact);
+const byTrending = (items) => [...items].sort((a, b) => seriesTrendScore(b) - seriesTrendScore(a)).map((item) => item.compact);
 const byLaunch = (items) => [...items].filter((item) => item.year && item.year >= 2025).sort((a, b) => (b.year || 0) - (a.year || 0) || (b.popularity || 0) - (a.popularity || 0)).map((item) => item.compact);
 const byRecent = (items) => [...items].sort((a, b) => (b.addedAt || 0) - (a.addedAt || 0)).map((item) => item.compact);
 const byTopRated = (items) => [...items].filter((item) => (item.voteCount || 0) >= 20 || item.tmdbId === null).sort((a, b) => (b.rating || 0) - (a.rating || 0) || (b.voteCount || 0) - (a.voteCount || 0)).map((item) => item.compact);
+function reduceRepeats(items, sectionsToAvoid, limitToAvoid = SECTION_AVOID_LIMIT, minSize = SECTION_MIN_SIZE) {
+  const avoid = new Set(sectionsToAvoid.flatMap((section) => section.slice(0, limitToAvoid).map(itemId)));
+  const kept = [];
+  const fallback = [];
+  for (const item of items) {
+    if (avoid.has(itemId(item))) fallback.push(item);
+    else kept.push(item);
+  }
+  let removed = fallback.length;
+  if (kept.length < minSize) {
+    const restored = fallback.slice(0, minSize - kept.length);
+    kept.push(...restored);
+    removed -= restored.length;
+  }
+  return { items: kept, removed };
+}
+function buildMovieSections(movieItems) {
+  const lancamentosItems = byLaunchItems(movieItems);
+  const popularesBase = byPopularityItems(movieItems);
+  const popularesReduced = reduceRepeats(popularesBase, [lancamentosItems], SECTION_AVOID_LIMIT);
+  const tendenciasBase = byTrendingItems(movieItems);
+  const tendenciasReduced = reduceRepeats(tendenciasBase, [lancamentosItems, popularesReduced.items], 40);
+  const recentesItems = byRecentItems(movieItems);
+  const topAvaliadosItems = byTopRatedItems(movieItems);
+  return {
+    populares: compactList(popularesReduced.items),
+    tendencias: compactList(tendenciasReduced.items),
+    lancamentos: compactList(lancamentosItems),
+    recentes: compactList(recentesItems),
+    topAvaliados: compactList(topAvaliadosItems),
+    stats: {
+      populares: popularesReduced.items.length,
+      tendencias: tendenciasReduced.items.length,
+      lancamentos: lancamentosItems.length,
+      recentes: recentesItems.length,
+      topAvaliados: topAvaliadosItems.length,
+      popularesRemovidosPorRepeticao: popularesReduced.removed,
+      tendenciasRemovidosPorRepeticao: tendenciasReduced.removed
+    }
+  };
+}
 function manifest() {
   return {
     schemaVersion: 1,
@@ -62,12 +126,13 @@ export async function writeCatalog({ outputDir, version, movies, series }) {
   await write('home.json', home());
   await write('canais/jogos-do-dia.json', { generatedAt: version.generatedAt, date: version.generatedAt.slice(0, 10), items: [] });
   await write('canais/jogos-canais-map.json', { Premiere: ['premiere', 'premiere clubes'], Sportv: ['sportv', 'sportv hd'], ESPN: ['espn', 'espn brasil'], TNT: ['tnt sports'], Globo: ['globo'], 'CazéTV': ['caze', 'cazetv'] });
+  const movieSections = buildMovieSections(movieItems);
   await write('filmes/index.json', movieItems.map((item) => item.compact).sort(sortByTitle));
-  await write('filmes/populares.json', byPopularity(movieItems));
-  await write('filmes/tendencias.json', byTrending(movieItems));
-  await write('filmes/lancamentos.json', byLaunch(movieItems));
-  await write('filmes/recentes.json', byRecent(movieItems));
-  await write('filmes/top-avaliados.json', byTopRated(movieItems));
+  await write('filmes/populares.json', movieSections.populares);
+  await write('filmes/tendencias.json', movieSections.tendencias);
+  await write('filmes/lancamentos.json', movieSections.lancamentos);
+  await write('filmes/recentes.json', movieSections.recentes);
+  await write('filmes/top-avaliados.json', movieSections.topAvaliados);
   for (const year of YEARS) await write('filmes/por-ano/' + year + '.json', movieItems.filter((item) => item.year === year).map((item) => item.compact));
   for (const genre of MOVIE_GENRES) await write('filmes/generos/' + genre + '.json', movieItems.filter((item) => item.genres.includes(genre)).map((item) => item.compact));
   for (const item of movieItems) await write('filmes/detalhes/' + item.id + '.json', detailMovie(item));
@@ -87,5 +152,5 @@ export async function writeCatalog({ outputDir, version, movies, series }) {
   await write('busca/filmes-n-z.json', chunkByFirstLetter(movieSearch, 'n', 'z'));
   await write('busca/series-a-m.json', chunkByFirstLetter(seriesSearch, 'a', 'm'));
   await write('busca/series-n-z.json', chunkByFirstLetter(seriesSearch, 'n', 'z'));
-  return { written, movieGenres: MOVIE_GENRES, seriesGenres: SERIES_GENRES, producers: PRODUCERS };
+  return { written, movieGenres: MOVIE_GENRES, seriesGenres: SERIES_GENRES, producers: PRODUCERS, movieSectionStats: movieSections.stats };
 }
