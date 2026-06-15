@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-15T03:36:51-03:00",
+  "generatedAt": "2026-06-15T12:24:11-03:00",
   "date": "2026-06-15",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_suecia_x_tunisia_2300",
-      "time": "23:00",
-      "timestamp": "2026-06-15T23:00:00-03:00",
+      "id": "game_belgica_x_egito_1600",
+      "time": "16:00",
+      "timestamp": "2026-06-15T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "Suécia",
-      "awayTeam": "Tunísia",
-      "title": "Suécia x Tunísia",
+      "homeTeam": "Bélgica",
+      "awayTeam": "Egito",
+      "title": "Bélgica x Egito",
       "status": "scheduled",
       "indicatedChannels": [
         "Sportv"
@@ -34,17 +34,61 @@
         }
       ],
       "searchKeywords": [
-        "Suécia",
-        "Tunísia",
-        "Suécia x Tunísia",
+        "Bélgica",
+        "Egito",
+        "Bélgica x Egito",
         "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Suécia x Tunísia - 23h00 - SD (SporTV)",
-          "Suécia x Tunísia - 23h00 - HD (SporTV)",
-          "Suécia x Tunísia - 23h00 - FHD (SporTV)"
+          "Bélgica x Egito - 16h00 - SD (SporTV)",
+          "Bélgica x Egito - 16h00 - HD (SporTV)",
+          "Bélgica x Egito - 16h00 - FHD (SporTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_arabia_saudita_x_uruguai_1900",
+      "time": "19:00",
+      "timestamp": "2026-06-15T19:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Arábia Saudita",
+      "awayTeam": "Uruguai",
+      "title": "Arábia Saudita x Uruguai",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "Sportv"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "Sportv",
+          "keywords": [
+            "sportv",
+            "sportv 2",
+            "sportv 3",
+            "sportv hd",
+            "sportv fhd"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Arábia Saudita",
+        "Uruguai",
+        "Arábia Saudita x Uruguai",
+        "Sportv"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Arábia Saudita x Uruguai - 19h00 - SD (SporTV)",
+          "Arábia Saudita x Uruguai - 19h00 - HD (SporTV)",
+          "Arábia Saudita x Uruguai - 19h00 - FHD (SporTV)"
         ]
       }
     }
