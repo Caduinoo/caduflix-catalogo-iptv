@@ -1,0 +1,76 @@
+{
+  "id": "series_2628",
+  "type": "series",
+  "title": "Rei dos Stonks",
+  "originalTitle": "King of Stonks",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/6nn5IXppH0JW4zuiqWhPZ6HQm95.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/scOjbrIaXQR9w6LPf5nbxCKzxv3.jpg",
+  "overview": "Um ambicioso gênio das finanças está disposto a mentir e trapacear para fazer com que sua startup questionável conquiste a fama e o sucesso.",
+  "rating": 6.581,
+  "genres": [
+    "drama",
+    "comedia",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 204852,
+  "xtream": {
+    "seriesId": 2628
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3243588",
+          "episodeId": 3243588,
+          "season": 1,
+          "episode": 1,
+          "title": "Rei dos Stonks S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243589",
+          "episodeId": 3243589,
+          "season": 1,
+          "episode": 2,
+          "title": "Rei dos Stonks S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243590",
+          "episodeId": 3243590,
+          "season": 1,
+          "episode": 3,
+          "title": "Rei dos Stonks S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243591",
+          "episodeId": 3243591,
+          "season": 1,
+          "episode": 4,
+          "title": "Rei dos Stonks S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243592",
+          "episodeId": 3243592,
+          "season": 1,
+          "episode": 5,
+          "title": "Rei dos Stonks S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243593",
+          "episodeId": 3243593,
+          "season": 1,
+          "episode": 6,
+          "title": "Rei dos Stonks S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

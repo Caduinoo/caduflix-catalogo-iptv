@@ -1,0 +1,35 @@
+{
+  "id": "movie_2761272",
+  "type": "movie",
+  "title": "O Regresso",
+  "originalTitle": "O Regresso",
+  "year": 1989,
+  "poster": "https://image.tmdb.org/t/p/w500/kZtBOPIaCzGHb0PtkQzc2sAoddO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i1h4ylPg1rMU5nFUKOyvtqbSHFp.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 53,
+  "genres": [
+    "documentario",
+    "faroeste",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Ruy de Carvalho",
+      "character": "Castro",
+      "profile": "https://image.tmdb.org/t/p/w185/JSKapBzQ4BKTPr2xlo79qO0Hv.jpg"
+    },
+    {
+      "name": "Luís Filipe Rocha",
+      "character": "Martins",
+      "profile": ""
+    }
+  ],
+  "director": "Faria de Almeida",
+  "tmdbId": 1362108,
+  "xtream": {
+    "streamId": 2761272,
+    "containerExtension": "mp4"
+  }
+}

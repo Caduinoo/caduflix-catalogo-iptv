@@ -1,0 +1,42 @@
+{
+  "id": "series_4250",
+  "type": "series",
+  "title": "Diversão Animal",
+  "originalTitle": "Animals at Play",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/9k3qSNH1eVu93lquMRg2GmerGpb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v9pqpcv95j8F6rnp9WIOR0gUaci.jpg",
+  "overview": "Esta série é impulsionada por encontros pessoais imersivos com criaturas mais divertidas da natureza - demonstrações práticas na natureza - e uma nova técnica de câmera inovadora. Em cada história, nossos especialistas interagem com animais adoráveis ​​para revelar suas vidas surpreendentes.",
+  "rating": 10,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 98254,
+  "xtream": {
+    "seriesId": 4250
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3285720",
+          "episodeId": 3285720,
+          "season": 1,
+          "episode": 1,
+          "title": "Diversao Animal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285721",
+          "episodeId": 3285721,
+          "season": 1,
+          "episode": 2,
+          "title": "Diversao Animal S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

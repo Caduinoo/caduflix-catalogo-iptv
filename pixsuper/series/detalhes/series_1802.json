@@ -1,0 +1,59 @@
+{
+  "id": "series_1802",
+  "type": "series",
+  "title": "O Hóspede Americano",
+  "originalTitle": "O Hóspede Americano",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/awE7lK056PXxALuZR60bFJrFMYd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/646RuQn6Tq8dP7X4OeZK9AQusQV.jpg",
+  "overview": "A jornada do ex-presidente americano Teddy Roosevelt, junto com o oficial do exército brasileiro Cândido Rondon em uma aventura para desbravar regiões desconhecidas e encontrar-se com habitantes indígenas da Amazônia.",
+  "rating": 6.9,
+  "genres": [
+    "drama",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 132653,
+  "xtream": {
+    "seriesId": 1802
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3217210",
+          "episodeId": 3217210,
+          "season": 1,
+          "episode": 1,
+          "title": "O Hóspede Americano [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217211",
+          "episodeId": 3217211,
+          "season": 1,
+          "episode": 2,
+          "title": "O Hóspede Americano [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217212",
+          "episodeId": 3217212,
+          "season": 1,
+          "episode": 3,
+          "title": "O Hóspede Americano [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217213",
+          "episodeId": 3217213,
+          "season": 1,
+          "episode": 4,
+          "title": "O Hóspede Americano [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

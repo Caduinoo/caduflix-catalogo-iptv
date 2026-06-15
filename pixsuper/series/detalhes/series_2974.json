@@ -1,0 +1,83 @@
+{
+  "id": "series_2974",
+  "type": "series",
+  "title": "A Sétima Arte",
+  "originalTitle": "A Sétima Arte",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/syIud9KHZGtNjxD0ALTAa8WCUMs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i2x0ZcanNEu6oB1nEGzx3ZpJI4V.jpg",
+  "overview": "O último século restabeleceu a relação do homem com a arte. O cinema surgiu como a mais presente e disseminada forma de entreter, inspirar e educar informalmente as pessoas.  Com o aumento do consumo de filmes e séries, será que estamos cientes do impacto da Sétima Arte em nossas vidas?",
+  "rating": 10,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 213118,
+  "xtream": {
+    "seriesId": 2974
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3253079",
+          "episodeId": 3253079,
+          "season": 1,
+          "episode": 1,
+          "title": "A Sétima Arte S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253080",
+          "episodeId": 3253080,
+          "season": 1,
+          "episode": 2,
+          "title": "A Sétima Arte S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253081",
+          "episodeId": 3253081,
+          "season": 1,
+          "episode": 3,
+          "title": "A Sétima Arte S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253082",
+          "episodeId": 3253082,
+          "season": 1,
+          "episode": 4,
+          "title": "A Sétima Arte S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253083",
+          "episodeId": 3253083,
+          "season": 1,
+          "episode": 5,
+          "title": "A Sétima Arte S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253084",
+          "episodeId": 3253084,
+          "season": 1,
+          "episode": 6,
+          "title": "A Sétima Arte S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253085",
+          "episodeId": 3253085,
+          "season": 1,
+          "episode": 7,
+          "title": "A Sétima Arte S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

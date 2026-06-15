@@ -1,0 +1,51 @@
+{
+  "id": "series_8178",
+  "type": "series",
+  "title": "O Culto da Morte: O Caso Andrea Yates",
+  "originalTitle": "The Cult Behind the Killer: The Andrea Yates Story",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/u6x1HC1HmhBr2fUCObDB9td9kBP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AtO53WXUldJcIfBGvaziYLa39RA.jpg",
+  "overview": "Uma mãe afoga seus cinco filhos, chocando o país. Este impactante documentário em três partes revela como o culto de um pregador alimenta o ato chocante de Andrea Yates.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 309810,
+  "xtream": {
+    "seriesId": 8178
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3379911",
+          "episodeId": 3379911,
+          "season": 1,
+          "episode": 1,
+          "title": "O Culto da Morte O Caso Andrea Yates S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3379912",
+          "episodeId": 3379912,
+          "season": 1,
+          "episode": 2,
+          "title": "O Culto da Morte O Caso Andrea Yates S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3379913",
+          "episodeId": 3379913,
+          "season": 1,
+          "episode": 3,
+          "title": "O Culto da Morte O Caso Andrea Yates S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

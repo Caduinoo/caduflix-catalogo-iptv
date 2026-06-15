@@ -1,0 +1,67 @@
+{
+  "id": "series_3594",
+  "type": "series",
+  "title": "Coisa de Menino",
+  "originalTitle": "Coisa de Menino",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/cz7VKYi4R5RXWQBqfUQ1aLXB1nj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vvF9CzeZV0eDYA2HjhLhCC7LZpI.jpg",
+  "overview": "Um olhar sobre questões ligadas à criação e à educação de meninos por meio de contrastes, matizes e contradições, além de colocar em xeque velhos e novos conceitos sobre o comportamento masculino.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 225482,
+  "xtream": {
+    "seriesId": 3594
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3267640",
+          "episodeId": 3267640,
+          "season": 1,
+          "episode": 1,
+          "title": "Coisa de Menino S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267641",
+          "episodeId": 3267641,
+          "season": 1,
+          "episode": 2,
+          "title": "Coisa de Menino S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267642",
+          "episodeId": 3267642,
+          "season": 1,
+          "episode": 3,
+          "title": "Coisa de Menino S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267643",
+          "episodeId": 3267643,
+          "season": 1,
+          "episode": 4,
+          "title": "Coisa de Menino S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267644",
+          "episodeId": 3267644,
+          "season": 1,
+          "episode": 5,
+          "title": "Coisa de Menino S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

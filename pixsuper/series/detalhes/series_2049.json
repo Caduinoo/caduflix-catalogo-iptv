@@ -1,0 +1,77 @@
+{
+  "id": "series_2049",
+  "type": "series",
+  "title": "Ursinhos Carinhosos: Bem-Vindos à Terra do Carinho",
+  "originalTitle": "Care Bears: Welcome to Care-a-Lot",
+  "year": 2012,
+  "poster": "https://image.tmdb.org/t/p/w500/sw7RiKBKcaY8zpN9YzJTkTpEsNK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8W2ySNKVNodQGcvWxonjWlhLagB.jpg",
+  "overview": "Aproxime-se da Nuvem Rosa e prepare-se para mudar para sempre. Esse lugar não é nada comum, é o lar das criaturas mais legais, amáveis, brincalhonas e mágicas de todas - Os Ursinhos Carinhosos.",
+  "rating": 6.8,
+  "genres": [
+    "animacao",
+    "familia",
+    "infantil",
+    "comedia"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 65268,
+  "xtream": {
+    "seriesId": 2049
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3225988",
+          "episodeId": 3225988,
+          "season": 1,
+          "episode": 1,
+          "title": "Bem-vindos à Terra S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225989",
+          "episodeId": 3225989,
+          "season": 1,
+          "episode": 2,
+          "title": "Bem-vindos à Terra S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225990",
+          "episodeId": 3225990,
+          "season": 1,
+          "episode": 3,
+          "title": "Bem-vindos à Terra S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225991",
+          "episodeId": 3225991,
+          "season": 1,
+          "episode": 4,
+          "title": "Bem-vindos à Terra S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225992",
+          "episodeId": 3225992,
+          "season": 1,
+          "episode": 5,
+          "title": "Bem-vindos à Terra S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225993",
+          "episodeId": 3225993,
+          "season": 1,
+          "episode": 6,
+          "title": "Bem-vindos à Terra S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

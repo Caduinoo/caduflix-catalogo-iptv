@@ -1,0 +1,30 @@
+{
+  "id": "movie_2763585",
+  "type": "movie",
+  "title": "O Intruso",
+  "originalTitle": "O Intruso",
+  "year": 2019,
+  "poster": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-poster.png",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 4,
+  "runtime": 5,
+  "genres": [
+    "terror",
+    "suspense",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Cláudia Semedo",
+      "character": "The Outsider",
+      "profile": "https://image.tmdb.org/t/p/w185/mmt9Ngpx0L25ou7SNmhJz7oLNyb.jpg"
+    }
+  ],
+  "director": "Hugo Pinto",
+  "tmdbId": 741159,
+  "xtream": {
+    "streamId": 2763585,
+    "containerExtension": "mp4"
+  }
+}

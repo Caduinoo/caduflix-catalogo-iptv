@@ -1,0 +1,64 @@
+{
+  "id": "movie_3123456",
+  "type": "movie",
+  "title": "O Último Paraíso",
+  "originalTitle": "L'ultimo paradiso",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/iJFc9CUT7v1S3UmsEEaubG2Gcf5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fNGrKqYTroEBAeUZl6m4vdQLqj.jpg",
+  "overview": "Itália, anos 50. Um homem de espírito livre sonha com o amor, a justiça e uma vida melhor, mas uma paixão proibida pode colocar tudo a perder. Baseado em fatos reais.",
+  "rating": 5.8,
+  "runtime": 107,
+  "genres": [
+    "drama",
+    "romance"
+  ],
+  "cast": [
+    {
+      "name": "Riccardo Scamarcio",
+      "character": "Ciccio Paradiso",
+      "profile": "https://image.tmdb.org/t/p/w185/s3ZAW6QA6yZaOx9wmAZfGZ1Z8BP.jpg"
+    },
+    {
+      "name": "Gaia Bermani Amaral",
+      "character": "Bianca Schettino",
+      "profile": "https://image.tmdb.org/t/p/w185/qLNlZmCLlGKpW9XmXyItz7CtbEm.jpg"
+    },
+    {
+      "name": "Valentina Cervi",
+      "character": "Lucia",
+      "profile": "https://image.tmdb.org/t/p/w185/bDm4gL9FkfsaXJarQB71QH05cyb.jpg"
+    },
+    {
+      "name": "Antonio Gerardi",
+      "character": "Cumpà Schettino",
+      "profile": "https://image.tmdb.org/t/p/w185/7OI80SQpWPOsfZQR43l6HyU2tn4.jpg"
+    },
+    {
+      "name": "Giovanni Cirfiera",
+      "character": "Brigadiere",
+      "profile": "https://image.tmdb.org/t/p/w185/faaDuQi3e2a39kBIDT2TubGXERi.jpg"
+    },
+    {
+      "name": "Giuseppe Nardone",
+      "character": "Bracciante",
+      "profile": ""
+    },
+    {
+      "name": "Teresa Fiorentino",
+      "character": "Sisina",
+      "profile": "https://image.tmdb.org/t/p/w185/eDmUV8G1WJBqgFo6ZCyLPQXEeHm.jpg"
+    },
+    {
+      "name": "Donato Demita",
+      "character": "Cosimo Schettino",
+      "profile": ""
+    }
+  ],
+  "director": "Rocco Ricciardulli",
+  "tmdbId": 746422,
+  "xtream": {
+    "streamId": 3123456,
+    "containerExtension": "mp4"
+  }
+}

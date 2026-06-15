@@ -1,0 +1,83 @@
+{
+  "id": "series_4233",
+  "type": "series",
+  "title": "The Long Shadow",
+  "originalTitle": "The Long Shadow",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/oBwzo60yQvK6xdhon4LF6oi6sMi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pyoh75rpGtSdTUZihdijmm6Iy2M.jpg",
+  "overview": "A Long Shadow é uma série de sete partes. É a caçada desesperada de cinco anos pelo assassino em série Peter Sutcliffe, focando nas vidas das vítimas e dos policiais na investigação.",
+  "rating": 7.5,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 231811,
+  "xtream": {
+    "seriesId": 4233
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3285326",
+          "episodeId": 3285326,
+          "season": 1,
+          "episode": 1,
+          "title": "The Long Shadow [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285327",
+          "episodeId": 3285327,
+          "season": 1,
+          "episode": 2,
+          "title": "The Long Shadow [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285328",
+          "episodeId": 3285328,
+          "season": 1,
+          "episode": 3,
+          "title": "The Long Shadow [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285329",
+          "episodeId": 3285329,
+          "season": 1,
+          "episode": 4,
+          "title": "The Long Shadow [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285330",
+          "episodeId": 3285330,
+          "season": 1,
+          "episode": 5,
+          "title": "The Long Shadow [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285331",
+          "episodeId": 3285331,
+          "season": 1,
+          "episode": 6,
+          "title": "The Long Shadow [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285332",
+          "episodeId": 3285332,
+          "season": 1,
+          "episode": 7,
+          "title": "The Long Shadow [L] S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

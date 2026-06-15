@@ -1,0 +1,39 @@
+{
+  "id": "movie_3124601",
+  "type": "movie",
+  "title": "Margaux",
+  "originalTitle": "Margaux",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/cQA3Sjvi0OCyBfuep9Gf6JGAtu1.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5.2,
+  "runtime": 17,
+  "genres": [
+    "drama",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Juliette Pi",
+      "character": "Margaux",
+      "profile": ""
+    },
+    {
+      "name": "Benjamin Polounovsky",
+      "character": "The Teacher",
+      "profile": ""
+    },
+    {
+      "name": "Christelle Garcia Moya",
+      "character": "The Mother",
+      "profile": ""
+    }
+  ],
+  "director": "Joséphine Darcy-Hopkins",
+  "tmdbId": 507221,
+  "xtream": {
+    "streamId": 3124601,
+    "containerExtension": "mp4"
+  }
+}

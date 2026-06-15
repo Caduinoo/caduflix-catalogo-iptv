@@ -1,0 +1,74 @@
+{
+  "id": "series_7118",
+  "type": "series",
+  "title": "África",
+  "originalTitle": "Africa",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/fkyR6VmIcWb6XZykrJo5MtzQqAz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dtvYQ8Pvl1kNalmH8JGF1RtwsNe.jpg",
+  "overview": "África é uma série de televisão britânica 2013 criado pela Unidade de História Natural da BBC. Centra-se sobre a vida selvagem e habitats selvagens na África, e tem sido quatro anos na tomada. É constituída por seis episódios de uma hora de duração e seis featurettes 10 minutos de duração.",
+  "rating": 8.346,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 46664,
+  "xtream": {
+    "seriesId": 7118
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3357535",
+          "episodeId": 3357535,
+          "season": 1,
+          "episode": 1,
+          "title": "Africa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357536",
+          "episodeId": 3357536,
+          "season": 1,
+          "episode": 2,
+          "title": "Africa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357537",
+          "episodeId": 3357537,
+          "season": 1,
+          "episode": 3,
+          "title": "Africa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357538",
+          "episodeId": 3357538,
+          "season": 1,
+          "episode": 4,
+          "title": "Africa S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357539",
+          "episodeId": 3357539,
+          "season": 1,
+          "episode": 5,
+          "title": "Africa S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357540",
+          "episodeId": 3357540,
+          "season": 1,
+          "episode": 6,
+          "title": "Africa S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

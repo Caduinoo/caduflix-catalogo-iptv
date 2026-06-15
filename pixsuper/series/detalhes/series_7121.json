@@ -1,0 +1,100 @@
+{
+  "id": "series_7121",
+  "type": "series",
+  "title": "Dept. Q",
+  "originalTitle": "Dept. Q",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/e4ctTDJsRexIF3vjxeDrSbeOuep.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9AJVsScC6M81MmGZTnxghN9NZe9.jpg",
+  "overview": "Um policial brilhante, mas arrogante, se torna chefe de um novo departamento, liderando um grupo improvável de desajustados na solução de casos arquivados de Edimburgo.",
+  "rating": 7.876,
+  "genres": [
+    "drama",
+    "crime",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 245703,
+  "xtream": {
+    "seriesId": 7121
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3357575",
+          "episodeId": 3357575,
+          "season": 1,
+          "episode": 1,
+          "title": "Dept Q S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357576",
+          "episodeId": 3357576,
+          "season": 1,
+          "episode": 2,
+          "title": "Dept Q S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357577",
+          "episodeId": 3357577,
+          "season": 1,
+          "episode": 3,
+          "title": "Dept Q S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357578",
+          "episodeId": 3357578,
+          "season": 1,
+          "episode": 4,
+          "title": "Dept Q S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357579",
+          "episodeId": 3357579,
+          "season": 1,
+          "episode": 5,
+          "title": "Dept Q S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357580",
+          "episodeId": 3357580,
+          "season": 1,
+          "episode": 6,
+          "title": "Dept Q S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357581",
+          "episodeId": 3357581,
+          "season": 1,
+          "episode": 7,
+          "title": "Dept Q S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357582",
+          "episodeId": 3357582,
+          "season": 1,
+          "episode": 8,
+          "title": "Dept Q S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357583",
+          "episodeId": 3357583,
+          "season": 1,
+          "episode": 9,
+          "title": "Dept Q S01 E09",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

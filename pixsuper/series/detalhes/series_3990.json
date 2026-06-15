@@ -1,0 +1,74 @@
+{
+  "id": "series_3990",
+  "type": "series",
+  "title": "Heróis da Selva",
+  "originalTitle": "Jungle Animal Rescue",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/7WZ0ebGqb5j4EhNe3IX7t7Ctg1g.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cfCCDlv4OmF9nnIy4ehtQhDFMy.jpg",
+  "overview": "Um equipa de ambientalistas e veterinários em missão para salvar animais em perigo e ajudar os indianos e a vida selvagem a coexistirem em harmonia.",
+  "rating": 6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 99817,
+  "xtream": {
+    "seriesId": 3990
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3278738",
+          "episodeId": 3278738,
+          "season": 1,
+          "episode": 1,
+          "title": "Heróis da Selva S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278739",
+          "episodeId": 3278739,
+          "season": 1,
+          "episode": 2,
+          "title": "Heróis da Selva S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278740",
+          "episodeId": 3278740,
+          "season": 1,
+          "episode": 3,
+          "title": "Heróis da Selva S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278741",
+          "episodeId": 3278741,
+          "season": 1,
+          "episode": 4,
+          "title": "Heróis da Selva S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278742",
+          "episodeId": 3278742,
+          "season": 1,
+          "episode": 5,
+          "title": "Heróis da Selva S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278743",
+          "episodeId": 3278743,
+          "season": 1,
+          "episode": 6,
+          "title": "Heróis da Selva S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

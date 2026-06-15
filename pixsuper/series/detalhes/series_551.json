@@ -1,0 +1,79 @@
+{
+  "id": "series_551",
+  "type": "series",
+  "title": "Coletivo Terror",
+  "originalTitle": "Blodtur",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/5k1tuWmBBplNTWjIE1T8efCQDVu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eOsj7XH8aY1HHUSMhhpyiTAHHxU.jpg",
+  "overview": "Nesta série antológica de terror, os passageiros a bordo de um ônibus viajam sem saber qual será seu destino final.",
+  "rating": 6.834,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "misterio",
+    "acao",
+    "aventura",
+    "terror"
+  ],
+  "producer": "netflix",
+  "tmdbId": 100043,
+  "xtream": {
+    "seriesId": 551
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3156345",
+          "episodeId": 3156345,
+          "season": 1,
+          "episode": 1,
+          "title": "Coletivo Terror S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156346",
+          "episodeId": 3156346,
+          "season": 1,
+          "episode": 2,
+          "title": "Coletivo Terror S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156347",
+          "episodeId": 3156347,
+          "season": 1,
+          "episode": 3,
+          "title": "Coletivo Terror S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156348",
+          "episodeId": 3156348,
+          "season": 1,
+          "episode": 4,
+          "title": "Coletivo Terror S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156349",
+          "episodeId": 3156349,
+          "season": 1,
+          "episode": 5,
+          "title": "Coletivo Terror S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156350",
+          "episodeId": 3156350,
+          "season": 1,
+          "episode": 6,
+          "title": "Coletivo Terror S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

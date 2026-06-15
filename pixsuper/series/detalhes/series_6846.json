@@ -1,0 +1,53 @@
+{
+  "id": "series_6846",
+  "type": "series",
+  "title": "Berlim",
+  "originalTitle": "Berlín",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/aOv5c4PJmQn3sBdrGVThVIyxQpH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/179sUCj5AcFKdQpvDhkIX15NRgy.jpg",
+  "overview": "Berlim se encontra com um grupo em Paris para planejar uma de suas missões mais ambiciosas: roubar 44 milhões de euros em joias em uma noite.",
+  "rating": 7.583,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura",
+    "crime"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 146176,
+  "xtream": {
+    "seriesId": 6846
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3353073",
+          "episodeId": 3353073,
+          "season": 1,
+          "episode": 1,
+          "title": "Berlim 1945 S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353074",
+          "episodeId": 3353074,
+          "season": 1,
+          "episode": 2,
+          "title": "Berlim 1945 S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353075",
+          "episodeId": 3353075,
+          "season": 1,
+          "episode": 3,
+          "title": "Berlim 1945 S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

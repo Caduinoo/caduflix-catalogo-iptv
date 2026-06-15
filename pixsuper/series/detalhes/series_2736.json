@@ -1,0 +1,59 @@
+{
+  "id": "series_2736",
+  "type": "series",
+  "title": "Compulsion",
+  "originalTitle": "Compulsion",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/bdUvSiw0t6G86FRAP2CGYh0ReD6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jwLYjv4fx8IVJyqpgRyqta8rauM.jpg",
+  "overview": "Depois de sobreviver a uma tragédia, a paramédica Jenny Challoner luta contra o PTSD. Escondendo seu sofrimento do marido Chris, da amiga Alison e da filha Rosie, a vida de Jenny fica fora de controle.",
+  "rating": 5.8,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 197494,
+  "xtream": {
+    "seriesId": 2736
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3247182",
+          "episodeId": 3247182,
+          "season": 1,
+          "episode": 1,
+          "title": "Compulsion S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247183",
+          "episodeId": 3247183,
+          "season": 1,
+          "episode": 2,
+          "title": "Compulsion S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247184",
+          "episodeId": 3247184,
+          "season": 1,
+          "episode": 3,
+          "title": "Compulsion S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247185",
+          "episodeId": 3247185,
+          "season": 1,
+          "episode": 4,
+          "title": "Compulsion S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

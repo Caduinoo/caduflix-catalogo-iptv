@@ -1,0 +1,42 @@
+{
+  "id": "series_7400",
+  "type": "series",
+  "title": "Billy Joel: And So It Goes",
+  "originalTitle": "Billy Joel: And So It Goes",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/xxXyWzAMNanhgiBzvfpRZJ5RdMU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iFAZ89ziLF6oLChvGid1I9pZo7E.jpg",
+  "overview": "Este documentário da HBO é um retrato íntimo da vida e da música de Billy Joel. Por meio de imagens de arquivo exclusivas, o documentário em duas partes explora o amor, a perda e as lutas pessoais que inspiraram as letras de Joel.",
+  "rating": 8.545,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 287967,
+  "xtream": {
+    "seriesId": 7400
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3364840",
+          "episodeId": 3364840,
+          "season": 1,
+          "episode": 1,
+          "title": "Billy Joel And So It Goes [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364841",
+          "episodeId": 3364841,
+          "season": 1,
+          "episode": 2,
+          "title": "Billy Joel And So It Goes [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

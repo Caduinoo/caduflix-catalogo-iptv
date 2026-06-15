@@ -1,0 +1,58 @@
+{
+  "id": "series_1672",
+  "type": "series",
+  "title": "Love in the Time of Corona",
+  "originalTitle": "Love in the Time of Corona",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/kJ79Ha5ySFQ67yslYdtyeR7ni4J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jGOc70lsObezZDJGIJv0a9ZCu8T.jpg",
+  "overview": "Um olhar divertido e esperançoso sobre a busca de amor, sexo e conexão em quatro histórias interligadas durante esse tempo de distanciamento social.",
+  "rating": 4.2,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "star_plus",
+  "tmdbId": 106567,
+  "xtream": {
+    "seriesId": 1672
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3210993",
+          "episodeId": 3210993,
+          "season": 1,
+          "episode": 1,
+          "title": "Love in the Time of Corona S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210994",
+          "episodeId": 3210994,
+          "season": 1,
+          "episode": 2,
+          "title": "Love in the Time of Corona S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210995",
+          "episodeId": 3210995,
+          "season": 1,
+          "episode": 3,
+          "title": "Love in the Time of Corona S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210996",
+          "episodeId": 3210996,
+          "season": 1,
+          "episode": 4,
+          "title": "Love in the Time of Corona S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

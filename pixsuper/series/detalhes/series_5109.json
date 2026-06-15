@@ -1,0 +1,58 @@
+{
+  "id": "series_5109",
+  "type": "series",
+  "title": "Corpos Extraordinários",
+  "originalTitle": "Extreme Bodies",
+  "year": 2008,
+  "poster": "https://image.tmdb.org/t/p/w500/kHfGsekW6AP3QPuDKZF64ERi84r.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7uoRFfTg4jJTAjCjJrQ5UN3uV3N.jpg",
+  "overview": "Esta série ultrapassa a computação gráfica tradicional mostrando imagens móveis e retratos digitais internos de seres humanos reais.",
+  "rating": 0,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 23343,
+  "xtream": {
+    "seriesId": 5109
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308634",
+          "episodeId": 3308634,
+          "season": 1,
+          "episode": 1,
+          "title": "Corpos Extraordinarios S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308635",
+          "episodeId": 3308635,
+          "season": 1,
+          "episode": 2,
+          "title": "Corpos Extraordinarios S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308636",
+          "episodeId": 3308636,
+          "season": 1,
+          "episode": 3,
+          "title": "Corpos Extraordinarios S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308637",
+          "episodeId": 3308637,
+          "season": 1,
+          "episode": 4,
+          "title": "Corpos Extraordinarios S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

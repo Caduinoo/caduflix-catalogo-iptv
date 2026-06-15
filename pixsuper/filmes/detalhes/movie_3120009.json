@@ -1,0 +1,45 @@
+{
+  "id": "movie_3120009",
+  "type": "movie",
+  "title": "VERMIN",
+  "originalTitle": "VERMIN",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/9xb0DL2JayE1OZgwlKRUalKymcP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vu6W0lni1dlJFjYyr50GbFGBALU.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 60,
+  "genres": [
+    "crime",
+    "drama",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Ben Coleman",
+      "character": "Gary",
+      "profile": ""
+    },
+    {
+      "name": "Theo Maclean",
+      "character": "Chris",
+      "profile": ""
+    },
+    {
+      "name": "Thomas Hart",
+      "character": "Scott",
+      "profile": ""
+    },
+    {
+      "name": "Michael Coolen",
+      "character": "Stalker/Self",
+      "profile": "https://image.tmdb.org/t/p/w185/vNC5ktRKydLAJ4vVtP4s6Bdvb35.jpg"
+    }
+  ],
+  "director": "Michael Coolen",
+  "tmdbId": 1588242,
+  "xtream": {
+    "streamId": 3120009,
+    "containerExtension": "mp4"
+  }
+}

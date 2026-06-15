@@ -1,0 +1,51 @@
+{
+  "id": "series_8484",
+  "type": "series",
+  "title": "Cena do Crime – Assassinatos na Alemanha",
+  "originalTitle": "Crime Scene Berlin: Nightlife Killer",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/anzEJfGd3ANFlQ38PYbo2pL8Nmh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5NFPFNcbUlaVJonXM2OKmd2b24y.jpg",
+  "overview": "Em 2012, uma sequência de assassinatos terríveis abalou a vida noturna de Berlim, e ninguém sabia quem estava cometendo os crimes. Até que uma das vítimas sobreviveu.",
+  "rating": 6.643,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 248470,
+  "xtream": {
+    "seriesId": 8484
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3384466",
+          "episodeId": 3384466,
+          "season": 1,
+          "episode": 1,
+          "title": "Cena do Crime Assassinatos na Alemanha [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384467",
+          "episodeId": 3384467,
+          "season": 1,
+          "episode": 2,
+          "title": "Cena do Crime Assassinatos na Alemanha [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384468",
+          "episodeId": 3384468,
+          "season": 1,
+          "episode": 3,
+          "title": "Cena do Crime Assassinatos na Alemanha [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

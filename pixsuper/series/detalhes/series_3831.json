@@ -1,0 +1,58 @@
+{
+  "id": "series_3831",
+  "type": "series",
+  "title": "Os Segredos da Igreja Hillsong",
+  "originalTitle": "The Secrets of Hillsong",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/8mVnDb4eoOFTy4OXO5SIr18AtbV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uN5onDK4R4Tram53ToAS55pl5kY.jpg",
+  "overview": "Série documental que vai além das manchetes sensacionalistas e entra nos bastidores para investigar o histórico da Hillsong de encobrir casos de má conduta para se proteger.",
+  "rating": 6.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 223430,
+  "xtream": {
+    "seriesId": 3831
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3274198",
+          "episodeId": 3274198,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Segredos da Igreja Hillsong [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3274199",
+          "episodeId": 3274199,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Segredos da Igreja Hillsong [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3274200",
+          "episodeId": 3274200,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Segredos da Igreja Hillsong [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3274201",
+          "episodeId": 3274201,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Segredos da Igreja Hillsong [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

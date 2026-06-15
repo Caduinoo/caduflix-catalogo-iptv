@@ -1,0 +1,59 @@
+{
+  "id": "series_2658",
+  "type": "series",
+  "title": "Soco no Estômago",
+  "originalTitle": "เจ็บเจียนตาย",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/diQWxcDkqWtO2oedilrV1xxQXep.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eOLP6KxjejfiakggBVu7TMm3Eia.jpg",
+  "overview": "Inspirada em eventos reais, esta série documental mostra os crimes e a corrupção do conturbado submundo do muay thai.",
+  "rating": 7.7,
+  "genres": [
+    "drama",
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 204129,
+  "xtream": {
+    "seriesId": 2658
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3244590",
+          "episodeId": 3244590,
+          "season": 1,
+          "episode": 1,
+          "title": "Soco no Estômago S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3244591",
+          "episodeId": 3244591,
+          "season": 1,
+          "episode": 2,
+          "title": "Soco no Estômago S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3244592",
+          "episodeId": 3244592,
+          "season": 1,
+          "episode": 3,
+          "title": "Soco no Estômago S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3244593",
+          "episodeId": 3244593,
+          "season": 1,
+          "episode": 4,
+          "title": "Soco no Estômago S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

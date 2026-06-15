@@ -1,0 +1,88 @@
+{
+  "id": "movie_2775530",
+  "type": "movie",
+  "title": "Nirvana",
+  "originalTitle": "Nirvana",
+  "year": 1997,
+  "poster": "https://image.tmdb.org/t/p/w500/xnP07b1PgmkJWMNCIZcPkQQ29mK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6MIcir1IlXCCLGfyg1VZwwYeUpG.jpg",
+  "overview": "O personagem principal de Nirvana, Solo, um jogo de computador desenvolvido por Jimi para ser lançamento em 3 dias, ganhou autoconsciência após um ataque de vírus. Solo quer ser apagado. Jimi quer encontrar sua ex.",
+  "rating": 6.5,
+  "runtime": 113,
+  "genres": [
+    "ficcao",
+    "suspense",
+    "thriller",
+    "acao",
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Christopher Lambert",
+      "character": "Jimi Dini",
+      "profile": "https://image.tmdb.org/t/p/w185/nWcAHW2ZN4cP3VPWYH9WJCvhFvt.jpg"
+    },
+    {
+      "name": "Diego Abatantuono",
+      "character": "Solo",
+      "profile": "https://image.tmdb.org/t/p/w185/i7idHOw21i3RNO8IrVKkGlcAyOd.jpg"
+    },
+    {
+      "name": "Sergio Rubini",
+      "character": "Joystick",
+      "profile": "https://image.tmdb.org/t/p/w185/gck410u7xOJWI0SjArY6vJb3cGw.jpg"
+    },
+    {
+      "name": "Stefania Rocca",
+      "character": "Naima",
+      "profile": "https://image.tmdb.org/t/p/w185/dRHhHfeu9OKIEwU84nTeGLZC06h.jpg"
+    },
+    {
+      "name": "Amanda Sandrelli",
+      "character": "Maria",
+      "profile": "https://image.tmdb.org/t/p/w185/AkeDcepFi4rXGNo4kf7sZIgTCZ4.jpg"
+    },
+    {
+      "name": "Emmanuelle Seigner",
+      "character": "Lisa",
+      "profile": "https://image.tmdb.org/t/p/w185/xPRldoTHgFd1Z5TtGk3jo3TGvPL.jpg"
+    },
+    {
+      "name": "Claudio Bisio",
+      "character": "Corvo Rosso",
+      "profile": "https://image.tmdb.org/t/p/w185/cDhzyPQ3446zpRmP523rPFkkl4h.jpg"
+    },
+    {
+      "name": "Antonio Catania",
+      "character": "Venditore Paranoie",
+      "profile": "https://image.tmdb.org/t/p/w185/uzf5R5JcxFY8eJg17pLfWXD7tGC.jpg"
+    },
+    {
+      "name": "Gigio Alberti",
+      "character": "Dr. Rauschenberg",
+      "profile": "https://image.tmdb.org/t/p/w185/eCvbiGXFuiW478BZwQODTuD4UNb.jpg"
+    },
+    {
+      "name": "Ugo Conti",
+      "character": "Turista Siciliano",
+      "profile": "https://image.tmdb.org/t/p/w185/sYPGa0VgYobdQkiJ3ELevIfm7lj.jpg"
+    },
+    {
+      "name": "Silvio Orlando",
+      "character": "Portiere Indiano",
+      "profile": "https://image.tmdb.org/t/p/w185/5mPRxBR3yqjHnbHXIKINgAAHDeH.jpg"
+    },
+    {
+      "name": "Oreste Guidi",
+      "character": "Tedesco",
+      "profile": "https://image.tmdb.org/t/p/w185/ozll0iS8FwHAv1hQR7otzGlF1pW.jpg"
+    }
+  ],
+  "director": "Gabriele Salvatores",
+  "tmdbId": 8765,
+  "xtream": {
+    "streamId": 2775530,
+    "containerExtension": "mp4"
+  }
+}

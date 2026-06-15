@@ -1,0 +1,82 @@
+{
+  "id": "series_7094",
+  "type": "series",
+  "title": "F1 Academy",
+  "originalTitle": "F1: The Academy",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/mxV9DnfxuX9LsQjVrh9ZF0RBueQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8tcT312sB5hu6AhS9u06jntFaGJ.jpg",
+  "overview": "Quinze jovens pilotas rompem barreiras em um dos esportes mais exigentes do mundo na tentativa de levar uma mulher de volta ao grid da Fórmula 1.",
+  "rating": 6.4,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 289742,
+  "xtream": {
+    "seriesId": 7094
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3356928",
+          "episodeId": 3356928,
+          "season": 1,
+          "episode": 1,
+          "title": "F1 Academy S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356929",
+          "episodeId": 3356929,
+          "season": 1,
+          "episode": 2,
+          "title": "F1 Academy S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356930",
+          "episodeId": 3356930,
+          "season": 1,
+          "episode": 3,
+          "title": "F1 Academy S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356931",
+          "episodeId": 3356931,
+          "season": 1,
+          "episode": 4,
+          "title": "F1 Academy S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356932",
+          "episodeId": 3356932,
+          "season": 1,
+          "episode": 5,
+          "title": "F1 Academy S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356933",
+          "episodeId": 3356933,
+          "season": 1,
+          "episode": 6,
+          "title": "F1 Academy S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356934",
+          "episodeId": 3356934,
+          "season": 1,
+          "episode": 7,
+          "title": "F1 Academy S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

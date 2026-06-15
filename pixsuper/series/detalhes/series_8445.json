@@ -1,0 +1,50 @@
+{
+  "id": "series_8445",
+  "type": "series",
+  "title": "Harley-Davidson: A Série",
+  "originalTitle": "Harley and the Davidsons",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/oGO6qvzxkDw7azTTbu7Qlucnjwe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hclcqDY2ZZv3B0k8ZPoRRqyacNE.jpg",
+  "overview": "O nascimento da popular marca de motocicletas do Milwaukee.",
+  "rating": 7.8,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 67673,
+  "xtream": {
+    "seriesId": 8445
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3383977",
+          "episodeId": 3383977,
+          "season": 1,
+          "episode": 1,
+          "title": "Harley Davidson A Serie S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383978",
+          "episodeId": 3383978,
+          "season": 1,
+          "episode": 2,
+          "title": "Harley Davidson A Serie S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383979",
+          "episodeId": 3383979,
+          "season": 1,
+          "episode": 3,
+          "title": "Harley Davidson A Serie S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

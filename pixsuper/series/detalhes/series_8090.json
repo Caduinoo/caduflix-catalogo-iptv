@@ -1,0 +1,79 @@
+{
+  "id": "series_8090",
+  "type": "series",
+  "title": "Inside No. 9",
+  "originalTitle": "Inside No. 9",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
+  "overview": "Série antológica que mistura humor sombrio com gêneros como o crime, horror e/ou drama. O programa convida os espectadores para lugares diferentes, onde o comum e o mundano se relacionam com o extraordinário e macabro. O local que servirá de palco para as histórias sempre será em algum lugar com o número 9.",
+  "rating": 8.047,
+  "genres": [
+    "comedia",
+    "misterio",
+    "crime",
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 61746,
+  "xtream": {
+    "seriesId": 8090
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3377177",
+          "episodeId": 3377177,
+          "season": 1,
+          "episode": 1,
+          "title": "Inside No 9 S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3377178",
+          "episodeId": 3377178,
+          "season": 1,
+          "episode": 2,
+          "title": "Inside No 9 S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3377179",
+          "episodeId": 3377179,
+          "season": 1,
+          "episode": 3,
+          "title": "Inside No 9 S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3377180",
+          "episodeId": 3377180,
+          "season": 1,
+          "episode": 4,
+          "title": "Inside No 9 S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3377181",
+          "episodeId": 3377181,
+          "season": 1,
+          "episode": 5,
+          "title": "Inside No 9 S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3377182",
+          "episodeId": 3377182,
+          "season": 1,
+          "episode": 6,
+          "title": "Inside No 9 S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

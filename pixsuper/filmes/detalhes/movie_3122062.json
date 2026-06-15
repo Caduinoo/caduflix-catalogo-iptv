@@ -1,0 +1,48 @@
+{
+  "id": "movie_3122062",
+  "type": "movie",
+  "title": "Close",
+  "originalTitle": "Close",
+  "year": 2022,
+  "poster": "http://image.tmdb.org//t/p/w600_and_h900_bestv2/247j36lEhkTGYTjFE3oWKVKMwVJ.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 15,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Kirsty Findlay",
+      "character": "Sam",
+      "profile": ""
+    },
+    {
+      "name": "Ewan Miller",
+      "character": "Jamie",
+      "profile": ""
+    },
+    {
+      "name": "Tom Russell",
+      "character": "Locksmith",
+      "profile": ""
+    },
+    {
+      "name": "Vanessa Wylie",
+      "character": "Rosie",
+      "profile": ""
+    },
+    {
+      "name": "Atta Yaqub",
+      "character": "Ash",
+      "profile": "https://image.tmdb.org/t/p/w185/xlJ8Z0uUDC1McHfEhYi9OJ7N81G.jpg"
+    }
+  ],
+  "director": "Tom Gentle",
+  "tmdbId": 1204596,
+  "xtream": {
+    "streamId": 3122062,
+    "containerExtension": "mp4"
+  }
+}

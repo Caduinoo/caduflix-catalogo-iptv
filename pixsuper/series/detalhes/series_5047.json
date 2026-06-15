@@ -1,0 +1,74 @@
+{
+  "id": "series_5047",
+  "type": "series",
+  "title": "Mistérios da Arquitetura",
+  "originalTitle": "Time Scanners",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/nhTx3bkZqtgRz3jOnrfnzVkKvJY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1xBwskLDInVojIqmB2u4NBzgdLQ.jpg",
+  "overview": "Uma leitura com tecnologia laser 3-D decifra os segredos das construções mais reconhecidas do mundo. O engenheiro Steve Burrows e sua equipe exploram e analisam digitalmente grandes realizações arquitetônicas.",
+  "rating": 9,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 60961,
+  "xtream": {
+    "seriesId": 5047
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3307547",
+          "episodeId": 3307547,
+          "season": 1,
+          "episode": 1,
+          "title": "Misterios da Arquitetura S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307548",
+          "episodeId": 3307548,
+          "season": 1,
+          "episode": 2,
+          "title": "Misterios da Arquitetura S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307549",
+          "episodeId": 3307549,
+          "season": 1,
+          "episode": 3,
+          "title": "Misterios da Arquitetura S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307550",
+          "episodeId": 3307550,
+          "season": 1,
+          "episode": 4,
+          "title": "Misterios da Arquitetura S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307551",
+          "episodeId": 3307551,
+          "season": 1,
+          "episode": 5,
+          "title": "Misterios da Arquitetura S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307552",
+          "episodeId": 3307552,
+          "season": 1,
+          "episode": 6,
+          "title": "Misterios da Arquitetura S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "series_1628",
+  "type": "series",
+  "title": "Hit & Run",
+  "originalTitle": "Hit & Run",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/6qiKrLdGQRUp2vgmkpOR3fwmzA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1yvyMxmnZq9zrYSwpcBfNd6AdEZ.jpg",
+  "overview": "A vida de um homem vira do avesso quando sua mulher é morta num acidente misterioso em Tel Aviv. O culpado foge sem deixar rastros.",
+  "rating": 6.87,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 124416,
+  "xtream": {
+    "seriesId": 1628
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3207592",
+          "episodeId": 3207592,
+          "season": 1,
+          "episode": 1,
+          "title": "Hit & Run S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207593",
+          "episodeId": 3207593,
+          "season": 1,
+          "episode": 2,
+          "title": "Hit & Run S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207594",
+          "episodeId": 3207594,
+          "season": 1,
+          "episode": 3,
+          "title": "Hit & Run S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207595",
+          "episodeId": 3207595,
+          "season": 1,
+          "episode": 4,
+          "title": "Hit & Run S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207596",
+          "episodeId": 3207596,
+          "season": 1,
+          "episode": 5,
+          "title": "Hit & Run S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207597",
+          "episodeId": 3207597,
+          "season": 1,
+          "episode": 6,
+          "title": "Hit & Run S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207598",
+          "episodeId": 3207598,
+          "season": 1,
+          "episode": 7,
+          "title": "Hit & Run S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207599",
+          "episodeId": 3207599,
+          "season": 1,
+          "episode": 8,
+          "title": "Hit & Run S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207600",
+          "episodeId": 3207600,
+          "season": 1,
+          "episode": 9,
+          "title": "Hit & Run S01 E09",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

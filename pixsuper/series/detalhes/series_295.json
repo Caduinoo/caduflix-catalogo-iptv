@@ -1,0 +1,42 @@
+{
+  "id": "series_295",
+  "type": "series",
+  "title": "Apollo: Reconstruindo a Jornada Espacial",
+  "originalTitle": "Apollo: Back to the Moon",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/xh6UPa6lVTmTA6d3mDyP4cw7qh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e31v0f27FNtxfrGC7pzEnVTfiI9.jpg",
+  "overview": "Este documentário narra a aventura épica detalhando a jornada dos homens (e ocasionalmente mulheres) que foram parte ou auxiliaram na missão Apollo.",
+  "rating": 6.857,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 91850,
+  "xtream": {
+    "seriesId": 295
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3147260",
+          "episodeId": 3147260,
+          "season": 1,
+          "episode": 1,
+          "title": "Apollo Reconstruindo A Jornada Espacial S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3147261",
+          "episodeId": 3147261,
+          "season": 1,
+          "episode": 2,
+          "title": "Apollo Reconstruindo A Jornada Espacial S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

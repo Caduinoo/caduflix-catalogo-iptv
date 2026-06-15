@@ -1,0 +1,44 @@
+{
+  "id": "series_4841",
+  "type": "series",
+  "title": "Goulag, Uma História dos Campos de Concentração Soviéticos",
+  "originalTitle": "Goulag, une histoire soviétique",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/hlHYKgNimJVwWW3YGmhg28y0oBw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e7bFMxyFy2zb7k8oOz293hu4Igy.jpg",
+  "overview": "Documentário sobre os Campos de Concentração na antiga URSS.",
+  "rating": 8.3,
+  "genres": [
+    "documentario",
+    "guerra",
+    "historia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 99091,
+  "xtream": {
+    "seriesId": 4841
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3300846",
+          "episodeId": 3300846,
+          "season": 1,
+          "episode": 1,
+          "title": "Goulag Uma Historia dos Campos de Concentracao Sovieticos [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3300847",
+          "episodeId": 3300847,
+          "season": 1,
+          "episode": 2,
+          "title": "Goulag Uma Historia dos Campos de Concentracao Sovieticos [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

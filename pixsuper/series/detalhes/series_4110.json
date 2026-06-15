@@ -1,0 +1,59 @@
+{
+  "id": "series_4110",
+  "type": "series",
+  "title": "Psycho: The Lost Tapes of Ed Gein",
+  "originalTitle": "Psycho: The Lost Tapes of Ed Gein",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/rvqHqkiHO6Uh17K15hnXIzEpWfl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rYojmjpFyVFirWjGffeq31AqQRd.jpg",
+  "overview": "",
+  "rating": 5.7,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 233183,
+  "xtream": {
+    "seriesId": 4110
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3281236",
+          "episodeId": 3281236,
+          "season": 1,
+          "episode": 1,
+          "title": "Psycho The Lost Tapes of Ed Gein [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281237",
+          "episodeId": 3281237,
+          "season": 1,
+          "episode": 2,
+          "title": "Psycho The Lost Tapes of Ed Gein [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281238",
+          "episodeId": 3281238,
+          "season": 1,
+          "episode": 3,
+          "title": "Psycho The Lost Tapes of Ed Gein [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281239",
+          "episodeId": 3281239,
+          "season": 1,
+          "episode": 4,
+          "title": "Psycho The Lost Tapes of Ed Gein [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

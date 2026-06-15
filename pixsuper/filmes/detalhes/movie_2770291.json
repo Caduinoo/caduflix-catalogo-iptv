@@ -1,0 +1,40 @@
+{
+  "id": "movie_2770291",
+  "type": "movie",
+  "title": "Glass",
+  "originalTitle": "Glass",
+  "year": 2008,
+  "poster": "https://image.tmdb.org/t/p/w500/mSRVcYH2j9PD0yO4bCg9v7EW4Qr.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 7,
+  "genres": [
+    "drama",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Callan Mulvey",
+      "character": "John",
+      "profile": "https://image.tmdb.org/t/p/w185/wJ8P1yNVmkx1PS1mc6Pi48tphfG.jpg"
+    },
+    {
+      "name": "Lara Cox",
+      "character": "Woman",
+      "profile": "https://image.tmdb.org/t/p/w185/br8IUQ6zvDl2XepuR1OtRfSDWq4.jpg"
+    },
+    {
+      "name": "Tai Nguyen",
+      "character": "The Cleaner",
+      "profile": "https://image.tmdb.org/t/p/w185/1sO1TinWJnG0afCWkP5PnEuZFTG.jpg"
+    }
+  ],
+  "director": "Jayne Montague",
+  "tmdbId": 958354,
+  "xtream": {
+    "streamId": 2770291,
+    "containerExtension": "mp4"
+  }
+}

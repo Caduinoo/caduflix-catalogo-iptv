@@ -1,0 +1,76 @@
+{
+  "id": "series_6819",
+  "type": "series",
+  "title": "The Windsors",
+  "originalTitle": "The Windsors",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/mW3mUGxpuzgvRVdxNDfcuXemFzw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jFw4h3529mr6f9RXxG74ynyCWW7.jpg",
+  "overview": "Sempre na boca do povo, a vida pessoal e os problemas da família real inglesa servem de inspiração e conteúdo para esta novela cômica.",
+  "rating": 6.5,
+  "genres": [
+    "comedia",
+    "drama",
+    "romance"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 66437,
+  "xtream": {
+    "seriesId": 6819
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3352737",
+          "episodeId": 3352737,
+          "season": 1,
+          "episode": 1,
+          "title": "The Windsors [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352738",
+          "episodeId": 3352738,
+          "season": 1,
+          "episode": 2,
+          "title": "The Windsors [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352739",
+          "episodeId": 3352739,
+          "season": 1,
+          "episode": 3,
+          "title": "The Windsors [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352740",
+          "episodeId": 3352740,
+          "season": 1,
+          "episode": 4,
+          "title": "The Windsors [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352741",
+          "episodeId": 3352741,
+          "season": 1,
+          "episode": 5,
+          "title": "The Windsors [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352742",
+          "episodeId": 3352742,
+          "season": 1,
+          "episode": 6,
+          "title": "The Windsors [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

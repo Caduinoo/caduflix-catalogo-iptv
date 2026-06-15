@@ -1,0 +1,53 @@
+{
+  "id": "series_4085",
+  "type": "series",
+  "title": "O Continental: Do Mundo de John Wick",
+  "originalTitle": "The Continental: From the World of John Wick",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/uRcrRc74ztb1TV5uojRtXqvNQ5y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1gajPADcRyzmYvfAefbJwhCy4bk.jpg",
+  "overview": "O jovem Winston Scott é arrastado para o cenário infernal da Nova York dos anos 70 para enfrentar um passado que ele pensava ter deixado para trás. Winston traça um caminho mortal através do misterioso submundo do hotel em uma tentativa angustiante de tomá-lo e finalmente assumir seu trono.",
+  "rating": 7.366,
+  "genres": [
+    "crime",
+    "drama",
+    "acao",
+    "aventura"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 72710,
+  "xtream": {
+    "seriesId": 4085
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3280655",
+          "episodeId": 3280655,
+          "season": 1,
+          "episode": 1,
+          "title": "O Continental Do Mundo de John Wick S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3280656",
+          "episodeId": 3280656,
+          "season": 1,
+          "episode": 2,
+          "title": "O Continental Do Mundo de John Wick S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3280657",
+          "episodeId": 3280657,
+          "season": 1,
+          "episode": 3,
+          "title": "O Continental Do Mundo de John Wick S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

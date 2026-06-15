@@ -1,0 +1,75 @@
+{
+  "id": "series_7975",
+  "type": "series",
+  "title": "Kampen om Pusher Street",
+  "originalTitle": "Kampen om Pusher Street",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/3SCPPlaXvx7mIU0yftbKsLY23b0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tyc0zHNeXuo5EtApG3ONJmjQl3U.jpg",
+  "overview": "",
+  "rating": 10,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 302657,
+  "xtream": {
+    "seriesId": 7975
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3374978",
+          "episodeId": 3374978,
+          "season": 1,
+          "episode": 1,
+          "title": "Gang War Pusher Street [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374979",
+          "episodeId": 3374979,
+          "season": 1,
+          "episode": 2,
+          "title": "Gang War Pusher Street [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374980",
+          "episodeId": 3374980,
+          "season": 1,
+          "episode": 3,
+          "title": "Gang War Pusher Street [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374981",
+          "episodeId": 3374981,
+          "season": 1,
+          "episode": 4,
+          "title": "Gang War Pusher Street [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374982",
+          "episodeId": 3374982,
+          "season": 1,
+          "episode": 5,
+          "title": "Gang War Pusher Street [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374983",
+          "episodeId": 3374983,
+          "season": 1,
+          "episode": 6,
+          "title": "Gang War Pusher Street [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

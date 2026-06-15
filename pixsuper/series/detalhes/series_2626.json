@@ -1,0 +1,74 @@
+{
+  "id": "series_2626",
+  "type": "series",
+  "title": "Prisioneiro da Madrugada",
+  "originalTitle": "La noche más larga",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/jU7a8gRJbt4FwaglqHDoie4cT8g.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fRKSA6N88lywGYUKkOAmyXhnpdB.jpg",
+  "overview": "Homens armados cercam uma prisão psiquiátrica e cortam todas as comunicações. O objetivo: capturar o serial killer Simón Lago. Seis episódios. Uma noite.",
+  "rating": 6.8,
+  "genres": [
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 201331,
+  "xtream": {
+    "seriesId": 2626
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3243576",
+          "episodeId": 3243576,
+          "season": 1,
+          "episode": 1,
+          "title": "Prisioneiro da Madrugada S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243577",
+          "episodeId": 3243577,
+          "season": 1,
+          "episode": 2,
+          "title": "Prisioneiro da Madrugada S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243578",
+          "episodeId": 3243578,
+          "season": 1,
+          "episode": 3,
+          "title": "Prisioneiro da Madrugada S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243579",
+          "episodeId": 3243579,
+          "season": 1,
+          "episode": 4,
+          "title": "Prisioneiro da Madrugada S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243580",
+          "episodeId": 3243580,
+          "season": 1,
+          "episode": 5,
+          "title": "Prisioneiro da Madrugada S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3243581",
+          "episodeId": 3243581,
+          "season": 1,
+          "episode": 6,
+          "title": "Prisioneiro da Madrugada S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

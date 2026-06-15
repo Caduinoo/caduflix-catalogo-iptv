@@ -1,0 +1,75 @@
+{
+  "id": "series_4003",
+  "type": "series",
+  "title": "Big Boys",
+  "originalTitle": "Big Boys",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/wByI6Yg7Jtofb6H9xFlzk8w4IrQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nqF5uBOAujJaTPpDvUdwkl7kd86.jpg",
+  "overview": "Big Boys é uma comédia boba e doce sobre dois garotos em extremidades opostas do \"espectro da masculinidade\" que se tornam companheiros na Brent Uni Freshers Week 2013.",
+  "rating": 7.5,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 202851,
+  "xtream": {
+    "seriesId": 4003
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3278877",
+          "episodeId": 3278877,
+          "season": 1,
+          "episode": 1,
+          "title": "Big Boys [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278878",
+          "episodeId": 3278878,
+          "season": 1,
+          "episode": 2,
+          "title": "Big Boys [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278879",
+          "episodeId": 3278879,
+          "season": 1,
+          "episode": 3,
+          "title": "Big Boys [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278880",
+          "episodeId": 3278880,
+          "season": 1,
+          "episode": 4,
+          "title": "Big Boys [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278881",
+          "episodeId": 3278881,
+          "season": 1,
+          "episode": 5,
+          "title": "Big Boys [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278882",
+          "episodeId": 3278882,
+          "season": 1,
+          "episode": 6,
+          "title": "Big Boys [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

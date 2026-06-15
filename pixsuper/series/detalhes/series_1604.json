@@ -1,0 +1,79 @@
+{
+  "id": "series_1604",
+  "type": "series",
+  "title": "Transformers: War for Cybertron: O Cerco",
+  "originalTitle": "Transformers: War for Cybertron: Siege",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/jOZ1P4pLAR2SSM87w9J6agBZQtV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bxZrG6wsmKMoUC1q4ByTWDRHaOh.jpg",
+  "overview": "Dois líderes icônicos emergem em um planeta arrasado pela guerra entre Autobots e Decepticons na história que conta a origem do universo Transformers.",
+  "rating": 7.5,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao",
+    "guerra"
+  ],
+  "producer": "netflix",
+  "tmdbId": 100617,
+  "xtream": {
+    "seriesId": 1604
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3206596",
+          "episodeId": 3206596,
+          "season": 1,
+          "episode": 1,
+          "title": "Transformers: War for Cybertron: O Cerco S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206597",
+          "episodeId": 3206597,
+          "season": 1,
+          "episode": 2,
+          "title": "Transformers: War for Cybertron: O Cerco S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206598",
+          "episodeId": 3206598,
+          "season": 1,
+          "episode": 3,
+          "title": "Transformers: War for Cybertron: O Cerco S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206599",
+          "episodeId": 3206599,
+          "season": 1,
+          "episode": 4,
+          "title": "Transformers: War for Cybertron: O Cerco S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206600",
+          "episodeId": 3206600,
+          "season": 1,
+          "episode": 5,
+          "title": "Transformers: War for Cybertron: O Cerco S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206601",
+          "episodeId": 3206601,
+          "season": 1,
+          "episode": 6,
+          "title": "Transformers: War for Cybertron: O Cerco S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "series_9105",
+  "type": "series",
+  "title": "Las Bravas F.C.",
+  "originalTitle": "Las Bravas FC",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/45gWJBV1JNbiP4nIPjb8oFYSjv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zZAflgG2OmwyZfUn7UQSCZVHWYT.jpg",
+  "overview": "Um egocêntrico ex-jogador de futebol retorna à sua cidade natal para levar o time feminino local à vitória – ou enfrentar uma pena de prisão.",
+  "rating": 8.348,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 197549,
+  "xtream": {
+    "seriesId": 9105
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3400238",
+          "episodeId": 3400238,
+          "season": 1,
+          "episode": 1,
+          "title": "Las Bravas FC 2022 S01E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400239",
+          "episodeId": 3400239,
+          "season": 1,
+          "episode": 2,
+          "title": "Las Bravas FC 2022 S01E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400240",
+          "episodeId": 3400240,
+          "season": 1,
+          "episode": 3,
+          "title": "Las Bravas FC 2022 S01E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400241",
+          "episodeId": 3400241,
+          "season": 1,
+          "episode": 4,
+          "title": "Las Bravas FC 2022 S01E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400242",
+          "episodeId": 3400242,
+          "season": 1,
+          "episode": 5,
+          "title": "Las Bravas FC 2022 S01E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400243",
+          "episodeId": 3400243,
+          "season": 1,
+          "episode": 6,
+          "title": "Las Bravas FC 2022 S01E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400244",
+          "episodeId": 3400244,
+          "season": 1,
+          "episode": 7,
+          "title": "Las Bravas FC 2022 S01E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400245",
+          "episodeId": 3400245,
+          "season": 1,
+          "episode": 8,
+          "title": "Las Bravas FC 2022 S01E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

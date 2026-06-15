@@ -1,0 +1,78 @@
+{
+  "id": "series_3518",
+  "type": "series",
+  "title": "Black Knight",
+  "originalTitle": "택배기사",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/u7uMGI5snUDMOzaHC3J59wFPSqW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qVNACrSwu8RCgf9loLKfTv0mDeq.jpg",
+  "overview": "Em um 2071 distópico, quando o mundo está devastado pela poluição, um refugiado luta para ser entregador, conseguir comida e sobreviver.",
+  "rating": 7.4,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 137040,
+  "xtream": {
+    "seriesId": 3518
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3265664",
+          "episodeId": 3265664,
+          "season": 1,
+          "episode": 1,
+          "title": "Black Knight S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3265665",
+          "episodeId": 3265665,
+          "season": 1,
+          "episode": 2,
+          "title": "Black Knight S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3265666",
+          "episodeId": 3265666,
+          "season": 1,
+          "episode": 3,
+          "title": "Black Knight S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3265667",
+          "episodeId": 3265667,
+          "season": 1,
+          "episode": 4,
+          "title": "Black Knight S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3265668",
+          "episodeId": 3265668,
+          "season": 1,
+          "episode": 5,
+          "title": "Black Knight S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3265669",
+          "episodeId": 3265669,
+          "season": 1,
+          "episode": 6,
+          "title": "Black Knight S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

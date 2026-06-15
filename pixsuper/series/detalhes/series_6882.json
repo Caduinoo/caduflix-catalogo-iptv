@@ -1,0 +1,76 @@
+{
+  "id": "series_6882",
+  "type": "series",
+  "title": "Insomnia",
+  "originalTitle": "Insomnia",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/lwg4nVSpkmHueedvUO0y3gFeF7P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bcJ3k9CLe0FF5jPjpin8b4A0hpI.jpg",
+  "overview": "Emma, uma mulher bem-sucedida, teme estar perdendo a sanidade após sofrer de privação de sono duas semanas antes de completar 40 anos. Apenas investigando a verdade sobre seu passado doloroso",
+  "rating": 6.4,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura"
+  ],
+  "producer": "paramount",
+  "tmdbId": 80877,
+  "xtream": {
+    "seriesId": 6882
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3353575",
+          "episodeId": 3353575,
+          "season": 1,
+          "episode": 1,
+          "title": "Insomnia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353576",
+          "episodeId": 3353576,
+          "season": 1,
+          "episode": 2,
+          "title": "Insomnia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353577",
+          "episodeId": 3353577,
+          "season": 1,
+          "episode": 3,
+          "title": "Insomnia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353578",
+          "episodeId": 3353578,
+          "season": 1,
+          "episode": 4,
+          "title": "Insomnia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353579",
+          "episodeId": 3353579,
+          "season": 1,
+          "episode": 5,
+          "title": "Insomnia S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353580",
+          "episodeId": 3353580,
+          "season": 1,
+          "episode": 6,
+          "title": "Insomnia S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

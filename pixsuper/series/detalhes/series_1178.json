@@ -1,0 +1,91 @@
+{
+  "id": "series_1178",
+  "type": "series",
+  "title": "50M²",
+  "originalTitle": "50M²",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/3m0aiNtGZo6URftj88zGIrsv0V2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1aZ7AmKU92ihCzge0eNdNtZ7icg.jpg",
+  "overview": "Em busca da verdade sobre seu passado, um homem comete uma traição e assume uma nova identidade em um bairro de Istambul.",
+  "rating": 7.4,
+  "genres": [
+    "crime",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 115970,
+  "xtream": {
+    "seriesId": 1178
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3188221",
+          "episodeId": 3188221,
+          "season": 1,
+          "episode": 1,
+          "title": "50M S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188222",
+          "episodeId": 3188222,
+          "season": 1,
+          "episode": 2,
+          "title": "50M S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188223",
+          "episodeId": 3188223,
+          "season": 1,
+          "episode": 3,
+          "title": "50M S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188224",
+          "episodeId": 3188224,
+          "season": 1,
+          "episode": 4,
+          "title": "50M S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188225",
+          "episodeId": 3188225,
+          "season": 1,
+          "episode": 5,
+          "title": "50M S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188226",
+          "episodeId": 3188226,
+          "season": 1,
+          "episode": 6,
+          "title": "50M S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188227",
+          "episodeId": 3188227,
+          "season": 1,
+          "episode": 7,
+          "title": "50M S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188228",
+          "episodeId": 3188228,
+          "season": 1,
+          "episode": 8,
+          "title": "50M S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

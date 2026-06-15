@@ -1,0 +1,83 @@
+{
+  "id": "series_3590",
+  "type": "series",
+  "title": "A Vingança do Nerd",
+  "originalTitle": "Mark Rober's Revengineers",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/8oHUbYocJysIHaFelRnJ8XjS7va.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9fH2DCVT8UyuUBURPuJHCAQ33gf.jpg",
+  "overview": "Mark Rober, ex-engenheiro da NASA e atual engenheiro da Apple, criou uma pegadinha com purpurina para flagrar os ladrões de entregas em domicílio. Em cada episódio, Rober coloca uma isca e aguarda algum larápio de moral duvidosa cair em sua armadilha.",
+  "rating": 7.5,
+  "genres": [
+    "reality",
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 225206,
+  "xtream": {
+    "seriesId": 3590
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3267607",
+          "episodeId": 3267607,
+          "season": 1,
+          "episode": 1,
+          "title": "A Vingança do Nerd S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267608",
+          "episodeId": 3267608,
+          "season": 1,
+          "episode": 2,
+          "title": "A Vingança do Nerd S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267609",
+          "episodeId": 3267609,
+          "season": 1,
+          "episode": 3,
+          "title": "A Vingança do Nerd S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267610",
+          "episodeId": 3267610,
+          "season": 1,
+          "episode": 4,
+          "title": "A Vingança do Nerd S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267611",
+          "episodeId": 3267611,
+          "season": 1,
+          "episode": 5,
+          "title": "A Vingança do Nerd S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267612",
+          "episodeId": 3267612,
+          "season": 1,
+          "episode": 6,
+          "title": "A Vingança do Nerd S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267613",
+          "episodeId": 3267613,
+          "season": 1,
+          "episode": 7,
+          "title": "A Vingança do Nerd S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

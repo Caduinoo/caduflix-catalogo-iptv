@@ -1,0 +1,51 @@
+{
+  "id": "series_2841",
+  "type": "series",
+  "title": "Os Crimes da Nossa Mãe",
+  "originalTitle": "Sins of Our Mother",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/7hLmyXBMHd2ISVuzFE7bL4EtBSY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bQSXtlXs7R6l0oe9QiTtmxiRWDv.jpg",
+  "overview": "A busca pelos filhos desaparecidos de Lori Vallow começa a revelar mortes suspeitas, um marido com as mesmas crenças apocalípticas e, pior ainda, assassinatos.",
+  "rating": 7,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 208720,
+  "xtream": {
+    "seriesId": 2841
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3249385",
+          "episodeId": 3249385,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Crimes da Nossa Mãe S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249386",
+          "episodeId": 3249386,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Crimes da Nossa Mãe S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249387",
+          "episodeId": 3249387,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Crimes da Nossa Mãe S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "series_4508",
+  "type": "series",
+  "title": "Angélica: 50 & Tanto",
+  "originalTitle": "Angélica: 50 & Tanto",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/3I5lgfBjlDDhrQq6GTT1qfKW0l2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3uXJ3Yfz3rXWSCBiEEE9L8NQiJM.jpg",
+  "overview": "Uma vida que parece ficção, mas é real. Angélica abre sua casa para receber convidadas como Xuxa e Sandy e compartilhar histórias inéditas de assédio, de fama e de força.",
+  "rating": 7.5,
+  "genres": [
+    "comedia",
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 232650,
+  "xtream": {
+    "seriesId": 4508
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3291724",
+          "episodeId": 3291724,
+          "season": 1,
+          "episode": 1,
+          "title": "Angelica 50 e Tanto S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291725",
+          "episodeId": 3291725,
+          "season": 1,
+          "episode": 2,
+          "title": "Angelica 50 e Tanto S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291726",
+          "episodeId": 3291726,
+          "season": 1,
+          "episode": 3,
+          "title": "Angelica 50 e Tanto S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291727",
+          "episodeId": 3291727,
+          "season": 1,
+          "episode": 4,
+          "title": "Angelica 50 e Tanto S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291728",
+          "episodeId": 3291728,
+          "season": 1,
+          "episode": 5,
+          "title": "Angelica 50 e Tanto S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

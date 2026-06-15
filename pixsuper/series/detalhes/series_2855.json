@@ -1,0 +1,82 @@
+{
+  "id": "series_2855",
+  "type": "series",
+  "title": "Exposta",
+  "originalTitle": "Delete Me",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/oxDv71EPzW0vL9MrdYsiG3VAg5P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ayDIGr6dZwjg513X6bZZ6nieDKm.jpg",
+  "overview": "",
+  "rating": 7.4,
+  "genres": [
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 119039,
+  "xtream": {
+    "seriesId": 2855
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3249718",
+          "episodeId": 3249718,
+          "season": 1,
+          "episode": 1,
+          "title": "Exposta S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249719",
+          "episodeId": 3249719,
+          "season": 1,
+          "episode": 2,
+          "title": "Exposta S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249720",
+          "episodeId": 3249720,
+          "season": 1,
+          "episode": 3,
+          "title": "Exposta S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249721",
+          "episodeId": 3249721,
+          "season": 1,
+          "episode": 4,
+          "title": "Exposta S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249722",
+          "episodeId": 3249722,
+          "season": 1,
+          "episode": 5,
+          "title": "Exposta S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249723",
+          "episodeId": 3249723,
+          "season": 1,
+          "episode": 6,
+          "title": "Exposta S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249724",
+          "episodeId": 3249724,
+          "season": 1,
+          "episode": 7,
+          "title": "Exposta S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

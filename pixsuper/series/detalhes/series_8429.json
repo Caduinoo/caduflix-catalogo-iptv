@@ -1,0 +1,91 @@
+{
+  "id": "series_8429",
+  "type": "series",
+  "title": "Salvador",
+  "originalTitle": "Salvador",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/8pLnnRB2qG1vZHXpjm2gVFNyUX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iREgT7QU8Dfrjh0nzZpN8IspMTQ.jpg",
+  "overview": "Em uma noite de confrontos violentos entre torcidas, um motorista de ambulância descobre que a filha está envolvida. A situação foge do controle, e ele busca respostas.",
+  "rating": 6.843,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 259856,
+  "xtream": {
+    "seriesId": 8429
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3383792",
+          "episodeId": 3383792,
+          "season": 1,
+          "episode": 1,
+          "title": "Salvador S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383793",
+          "episodeId": 3383793,
+          "season": 1,
+          "episode": 2,
+          "title": "Salvador S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383794",
+          "episodeId": 3383794,
+          "season": 1,
+          "episode": 3,
+          "title": "Salvador S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383795",
+          "episodeId": 3383795,
+          "season": 1,
+          "episode": 4,
+          "title": "Salvador S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383796",
+          "episodeId": 3383796,
+          "season": 1,
+          "episode": 5,
+          "title": "Salvador S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383797",
+          "episodeId": 3383797,
+          "season": 1,
+          "episode": 6,
+          "title": "Salvador S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383798",
+          "episodeId": 3383798,
+          "season": 1,
+          "episode": 7,
+          "title": "Salvador S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383799",
+          "episodeId": 3383799,
+          "season": 1,
+          "episode": 8,
+          "title": "Salvador S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

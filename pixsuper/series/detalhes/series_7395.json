@@ -1,0 +1,112 @@
+{
+  "id": "series_7395",
+  "type": "series",
+  "title": "A Casa do Mickey Mouse",
+  "originalTitle": "Mickey Mouse Clubhouse",
+  "year": 2006,
+  "poster": "https://image.tmdb.org/t/p/w500/4vNQVFa4icNSphODjw1wFXTfDcJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/89BPrKS6BoktBPTfWcHMQrFNo8s.jpg",
+  "overview": "Mickey e sua turma estão sempre aprontando no Clube. Mickey leva seus telespectadores a um mundo de histórias com segmentos musicais e jogos. O básico da matemática e a identificação de formas e números fazem parte das lições de Mickey.",
+  "rating": 6.8,
+  "genres": [
+    "infantil",
+    "animacao",
+    "comedia",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 3934,
+  "xtream": {
+    "seriesId": 7395
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3364786",
+          "episodeId": 3364786,
+          "season": 1,
+          "episode": 1,
+          "title": "A Casa do Mickey Mouse Mais S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364787",
+          "episodeId": 3364787,
+          "season": 1,
+          "episode": 2,
+          "title": "A Casa do Mickey Mouse Mais S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364788",
+          "episodeId": 3364788,
+          "season": 1,
+          "episode": 3,
+          "title": "A Casa do Mickey Mouse Mais S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364789",
+          "episodeId": 3364789,
+          "season": 1,
+          "episode": 4,
+          "title": "A Casa do Mickey Mouse Mais S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364790",
+          "episodeId": 3364790,
+          "season": 1,
+          "episode": 5,
+          "title": "A Casa do Mickey Mouse Mais S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364791",
+          "episodeId": 3364791,
+          "season": 1,
+          "episode": 6,
+          "title": "A Casa do Mickey Mouse Mais S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364792",
+          "episodeId": 3364792,
+          "season": 1,
+          "episode": 7,
+          "title": "A Casa do Mickey Mouse Mais S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364793",
+          "episodeId": 3364793,
+          "season": 1,
+          "episode": 8,
+          "title": "A Casa do Mickey Mouse Mais S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364794",
+          "episodeId": 3364794,
+          "season": 1,
+          "episode": 9,
+          "title": "A Casa do Mickey Mouse Mais S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364795",
+          "episodeId": 3364795,
+          "season": 1,
+          "episode": 10,
+          "title": "A Casa do Mickey Mouse Mais S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

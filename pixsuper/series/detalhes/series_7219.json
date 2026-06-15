@@ -1,0 +1,50 @@
+{
+  "id": "series_7219",
+  "type": "series",
+  "title": "Maravilhas Ocultas da África",
+  "originalTitle": "Africa's Hidden Wonders",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/jVHgBFAMA6mjQZWm5njuHdMg0qO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/efhT39irnYz57l48MkTPXJZUEuW.jpg",
+  "overview": "Conheça as maravilhas ocultas da África, um continente cheio de contrastes.",
+  "rating": 7.6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 105664,
+  "xtream": {
+    "seriesId": 7219
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3360727",
+          "episodeId": 3360727,
+          "season": 1,
+          "episode": 1,
+          "title": "Maravilhas Ocultas da Africa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360728",
+          "episodeId": 3360728,
+          "season": 1,
+          "episode": 2,
+          "title": "Maravilhas Ocultas da Africa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360729",
+          "episodeId": 3360729,
+          "season": 1,
+          "episode": 3,
+          "title": "Maravilhas Ocultas da Africa S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

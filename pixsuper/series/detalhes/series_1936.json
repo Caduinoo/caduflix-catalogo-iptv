@@ -1,0 +1,95 @@
+{
+  "id": "series_1936",
+  "type": "series",
+  "title": "A Beleza Secreta dos Animais",
+  "originalTitle": "Animal",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/2L7YNEVhuiWWl52Smpa6RPbG9d3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tExscftlsu5gxID7hZ1NNZLjvTJ.jpg",
+  "overview": "Esta série imersiva segue as criaturas mais magníficas do mundo, registrando momentos nunca antes vistos, dos mais comoventes aos mais chocantes.",
+  "rating": 8.027,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 137646,
+  "xtream": {
+    "seriesId": 1936
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3221916",
+          "episodeId": 3221916,
+          "season": 1,
+          "episode": 1,
+          "title": "A Beleza Secreta dos Animais S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221917",
+          "episodeId": 3221917,
+          "season": 1,
+          "episode": 2,
+          "title": "A Beleza Secreta dos Animais S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221918",
+          "episodeId": 3221918,
+          "season": 1,
+          "episode": 3,
+          "title": "A Beleza Secreta dos Animais S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221919",
+          "episodeId": 3221919,
+          "season": 1,
+          "episode": 4,
+          "title": "A Beleza Secreta dos Animais S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3221920",
+          "episodeId": 3221920,
+          "season": 2,
+          "episode": 1,
+          "title": "A Beleza Secreta dos Animais S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221921",
+          "episodeId": 3221921,
+          "season": 2,
+          "episode": 2,
+          "title": "A Beleza Secreta dos Animais S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221922",
+          "episodeId": 3221922,
+          "season": 2,
+          "episode": 3,
+          "title": "A Beleza Secreta dos Animais S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221923",
+          "episodeId": 3221923,
+          "season": 2,
+          "episode": 4,
+          "title": "A Beleza Secreta dos Animais S02 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

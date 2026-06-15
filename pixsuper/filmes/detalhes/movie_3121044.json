@@ -1,0 +1,30 @@
+{
+  "id": "movie_3121044",
+  "type": "movie",
+  "title": "Oscar",
+  "originalTitle": "Oscar",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/tfCZizCdWVTJsXcEsGPP3boKoA2.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 0,
+  "genres": [
+    "documentario",
+    "drama",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Oscar Eduardo Reyes Tenorio",
+      "character": "Protagonista",
+      "profile": ""
+    }
+  ],
+  "director": "Juan Manuel Buenaventura",
+  "tmdbId": 898765,
+  "xtream": {
+    "streamId": 3121044,
+    "containerExtension": "mp4"
+  }
+}

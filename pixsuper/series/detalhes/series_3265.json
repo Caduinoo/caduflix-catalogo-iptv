@@ -1,0 +1,107 @@
+{
+  "id": "series_3265",
+  "type": "series",
+  "title": "Girlsquad",
+  "originalTitle": "Girlsquad",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/2uIiYBfxAXYPzy15E50h2GVJLyX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/un6nYiwXjAYgo37NvcM5EK62eU1.jpg",
+  "overview": "Um grupo de amigas inseparáveis vive as loucuras e confusões da adolescência, enquanto diversos mistérios ocorrem em sua volta.",
+  "rating": 1.8,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 130125,
+  "xtream": {
+    "seriesId": 3265
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3259999",
+          "episodeId": 3259999,
+          "season": 1,
+          "episode": 1,
+          "title": "Girlsquad S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3260000",
+          "episodeId": 3260000,
+          "season": 1,
+          "episode": 2,
+          "title": "Girlsquad S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3260001",
+          "episodeId": 3260001,
+          "season": 1,
+          "episode": 3,
+          "title": "Girlsquad S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3260002",
+          "episodeId": 3260002,
+          "season": 1,
+          "episode": 4,
+          "title": "Girlsquad S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3260003",
+          "episodeId": 3260003,
+          "season": 1,
+          "episode": 5,
+          "title": "Girlsquad S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3260004",
+          "episodeId": 3260004,
+          "season": 1,
+          "episode": 6,
+          "title": "Girlsquad S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3260005",
+          "episodeId": 3260005,
+          "season": 1,
+          "episode": 7,
+          "title": "Girlsquad S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3260006",
+          "episodeId": 3260006,
+          "season": 1,
+          "episode": 8,
+          "title": "Girlsquad S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3260007",
+          "episodeId": 3260007,
+          "season": 1,
+          "episode": 9,
+          "title": "Girlsquad S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3260008",
+          "episodeId": 3260008,
+          "season": 1,
+          "episode": 10,
+          "title": "Girlsquad S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

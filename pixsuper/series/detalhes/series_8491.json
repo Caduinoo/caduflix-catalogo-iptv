@@ -1,0 +1,43 @@
+{
+  "id": "series_8491",
+  "type": "series",
+  "title": "The Borderline",
+  "originalTitle": "The Borderline",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/vIkrUPBgQswLuTXQRcXWnf9AeuN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ae7lKRzxW0iQmvZDd2mWGecIwbH.jpg",
+  "overview": "A trama acompanha um policial de uma pequena cidade canadense que descobre que seu amigo de infância está envolvido em uma operação internacional de contrabando de drogas.",
+  "rating": 3.6,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 274915,
+  "xtream": {
+    "seriesId": 8491
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3384525",
+          "episodeId": 3384525,
+          "season": 1,
+          "episode": 1,
+          "title": "The Borderline (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384526",
+          "episodeId": 3384526,
+          "season": 1,
+          "episode": 2,
+          "title": "The Borderline (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

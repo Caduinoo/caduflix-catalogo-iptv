@@ -1,0 +1,58 @@
+{
+  "id": "series_5551",
+  "type": "series",
+  "title": "Yellowstone: One-Fifty",
+  "originalTitle": "Yellowstone: One-Fifty",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/7POgNg96ss5BRVgbxCk8QxqrX36.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1KEGwgGsndQR0Dpe03J5s8QkGEw.jpg",
+  "overview": "No 150º aniversário da sua fundação, Kevin Costner explora o Parque Nacional de Yellowstone para descobrir se ainda é tão selvagem e intocado como era no dia do seu nascimento, e recorda os acontecimentos que levaram à sua preservação.",
+  "rating": 7.921,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 214951,
+  "xtream": {
+    "seriesId": 5551
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3318615",
+          "episodeId": 3318615,
+          "season": 1,
+          "episode": 1,
+          "title": "Yellowstone One Fifty S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3318616",
+          "episodeId": 3318616,
+          "season": 1,
+          "episode": 2,
+          "title": "Yellowstone One Fifty S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3318617",
+          "episodeId": 3318617,
+          "season": 1,
+          "episode": 3,
+          "title": "Yellowstone One Fifty S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3318618",
+          "episodeId": 3318618,
+          "season": 1,
+          "episode": 4,
+          "title": "Yellowstone One Fifty S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

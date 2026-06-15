@@ -1,0 +1,40 @@
+{
+  "id": "movie_3122783",
+  "type": "movie",
+  "title": "Inverno",
+  "originalTitle": "Inverno",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/sXtEMHqIJ1CQ1EagoPofA2KUpek.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2t8ASZMNh6Nbnk3ajS0VeNaRwJZ.jpg",
+  "overview": "Um casal em quarentena hospeda uma amiga em casa. O que poderia ser um escape se torna um pesadelo quando o nome de um deles aparece numa lista de mortos pela Covid-19.",
+  "rating": 3.643,
+  "runtime": 69,
+  "genres": [
+    "drama",
+    "misterio",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Thaila Ayala",
+      "character": "Beatriz",
+      "profile": "https://image.tmdb.org/t/p/w185/cqYxvSXju0RJPV4uhJkDPzsHCae.jpg"
+    },
+    {
+      "name": "Renato Góes",
+      "character": "Rodrigo",
+      "profile": "https://image.tmdb.org/t/p/w185/2rfGcdsoyh89kmfrtB63CwuY1Y1.jpg"
+    },
+    {
+      "name": "Barbara Reis",
+      "character": "Ana",
+      "profile": "https://image.tmdb.org/t/p/w185/t7XVn7NXNYsdwJZHNEr6jn0tawr.jpg"
+    }
+  ],
+  "director": "Paulo Fontenelle",
+  "tmdbId": 942668,
+  "xtream": {
+    "streamId": 3122783,
+    "containerExtension": "mp4"
+  }
+}

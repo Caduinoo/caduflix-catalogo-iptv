@@ -1,0 +1,60 @@
+{
+  "id": "series_3477",
+  "type": "series",
+  "title": "Enfermeira Exorcista",
+  "originalTitle": "보건교사 안은영",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/22TAQzPnzREQ7g6eHoaIagOLtlD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3hXXr61RZH3Ve0pejLWPvrJv9n.jpg",
+  "overview": "Com poderes sobrenaturais e uma espada iluminada, uma enfermeira protege os alunos de uma escola contra monstros que só ela consegue enxergar.",
+  "rating": 7.3,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 87313,
+  "xtream": {
+    "seriesId": 3477
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3264429",
+          "episodeId": 3264429,
+          "season": 1,
+          "episode": 1,
+          "title": "Enfermeira S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264430",
+          "episodeId": 3264430,
+          "season": 1,
+          "episode": 2,
+          "title": "Enfermeira S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264431",
+          "episodeId": 3264431,
+          "season": 1,
+          "episode": 3,
+          "title": "Enfermeira S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264432",
+          "episodeId": 3264432,
+          "season": 1,
+          "episode": 4,
+          "title": "Enfermeira S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

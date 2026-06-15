@@ -1,0 +1,108 @@
+{
+  "id": "series_7946",
+  "type": "series",
+  "title": "Robin Hood",
+  "originalTitle": "Robin Hood",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/8rc0CmErcqvncULcq5IEVkBvbHP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
+  "overview": "A jornada de Robert Locksley, de filho de guarda-florestal a fora-da-lei, começa. A rebelião começa em Sherwood, intrigas aumentam, e nasce uma lenda.",
+  "rating": 7.5,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 272418,
+  "xtream": {
+    "seriesId": 7946
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3374664",
+          "episodeId": 3374664,
+          "season": 1,
+          "episode": 1,
+          "title": "Robin Hood S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374665",
+          "episodeId": 3374665,
+          "season": 1,
+          "episode": 2,
+          "title": "Robin Hood S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374666",
+          "episodeId": 3374666,
+          "season": 1,
+          "episode": 3,
+          "title": "Robin Hood S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374667",
+          "episodeId": 3374667,
+          "season": 1,
+          "episode": 4,
+          "title": "Robin Hood S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374668",
+          "episodeId": 3374668,
+          "season": 1,
+          "episode": 5,
+          "title": "Robin Hood S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374669",
+          "episodeId": 3374669,
+          "season": 1,
+          "episode": 6,
+          "title": "Robin Hood S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374670",
+          "episodeId": 3374670,
+          "season": 1,
+          "episode": 7,
+          "title": "Robin Hood S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374671",
+          "episodeId": 3374671,
+          "season": 1,
+          "episode": 8,
+          "title": "Robin Hood S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374672",
+          "episodeId": 3374672,
+          "season": 1,
+          "episode": 9,
+          "title": "Robin Hood S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374673",
+          "episodeId": 3374673,
+          "season": 1,
+          "episode": 10,
+          "title": "Robin Hood S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

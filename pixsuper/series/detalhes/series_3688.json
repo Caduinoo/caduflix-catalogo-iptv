@@ -1,0 +1,90 @@
+{
+  "id": "series_3688",
+  "type": "series",
+  "title": "Minha Casa Repaginada",
+  "originalTitle": "Hack My Home",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/fi4Qg55zaDVEaWnanrrRQ3XvoD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bJIj5w9IN4FicVYWzaPmaI55QAm.jpg",
+  "overview": "Quatro especialistas em design criam soluções para otimizar o espaço, com as mais inovadoras ideias de engenharia que transformam as casas de várias famílias.",
+  "rating": 4.393,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 228739,
+  "xtream": {
+    "seriesId": 3688
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3270144",
+          "episodeId": 3270144,
+          "season": 1,
+          "episode": 1,
+          "title": "Minha Casa Repaginada S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270145",
+          "episodeId": 3270145,
+          "season": 1,
+          "episode": 2,
+          "title": "Minha Casa Repaginada S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270146",
+          "episodeId": 3270146,
+          "season": 1,
+          "episode": 3,
+          "title": "Minha Casa Repaginada S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270147",
+          "episodeId": 3270147,
+          "season": 1,
+          "episode": 4,
+          "title": "Minha Casa Repaginada S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270148",
+          "episodeId": 3270148,
+          "season": 1,
+          "episode": 5,
+          "title": "Minha Casa Repaginada S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270149",
+          "episodeId": 3270149,
+          "season": 1,
+          "episode": 6,
+          "title": "Minha Casa Repaginada S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270150",
+          "episodeId": 3270150,
+          "season": 1,
+          "episode": 7,
+          "title": "Minha Casa Repaginada S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270151",
+          "episodeId": 3270151,
+          "season": 1,
+          "episode": 8,
+          "title": "Minha Casa Repaginada S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "series_3777",
+  "type": "series",
+  "title": "Božena",
+  "originalTitle": "Božena",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/eBcc5iHq1FHq6HB0gNfFW5110zr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/31ROAzbBl8D5JoqkIYboHH82S2L.jpg",
+  "overview": "",
+  "rating": 3,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 105893,
+  "xtream": {
+    "seriesId": 3777
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3272409",
+          "episodeId": 3272409,
+          "season": 1,
+          "episode": 1,
+          "title": "Božena [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272410",
+          "episodeId": 3272410,
+          "season": 1,
+          "episode": 2,
+          "title": "Božena [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272411",
+          "episodeId": 3272411,
+          "season": 1,
+          "episode": 3,
+          "title": "Božena [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272412",
+          "episodeId": 3272412,
+          "season": 1,
+          "episode": 4,
+          "title": "Božena [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

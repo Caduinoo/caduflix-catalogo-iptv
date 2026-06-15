@@ -1,0 +1,33 @@
+{
+  "id": "movie_2775836",
+  "type": "movie",
+  "title": "Culpa",
+  "originalTitle": "Culpa",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/lQJcCiYxMWWOeMW91BXsoUczBoV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3tvoLJiMOG48uWJCyD0xcpGwP8O.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 0,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Dakana",
+      "character": "Chica principal",
+      "profile": "https://image.tmdb.org/t/p/w185/boFnj3C9QhfzGKt70VhSV1zGcMA.jpg"
+    },
+    {
+      "name": "Cristian Llanos",
+      "character": "Abuelo-Campesino de TV",
+      "profile": ""
+    }
+  ],
+  "director": "Dakana",
+  "tmdbId": 1296975,
+  "xtream": {
+    "streamId": 2775836,
+    "containerExtension": "mp4"
+  }
+}

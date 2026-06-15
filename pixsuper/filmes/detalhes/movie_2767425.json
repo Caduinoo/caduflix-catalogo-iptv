@@ -1,0 +1,44 @@
+{
+  "id": "movie_2767425",
+  "type": "movie",
+  "title": "A Cozinha",
+  "originalTitle": "A Cozinha",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/wyMw9Gua0IixKlKU2AHNBDdAlgK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/k6NF2CS6mR3ChH6mZmoW3CUhhDw.jpg",
+  "overview": "O depressivo Miguel promove um jantar com um amigo de infância, mas é surpreendido pela presença de sua ex, Leticia, que redefine a noite ao trazer à tona uma memória sexual antiga.",
+  "rating": 3,
+  "runtime": 62,
+  "genres": [
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Felipe Haiut",
+      "character": "Miguel",
+      "profile": "https://image.tmdb.org/t/p/w185/9MwkFv87KYtofhrcva2rAFBUJ3T.jpg"
+    },
+    {
+      "name": "Julia Stockler",
+      "character": "Letícia",
+      "profile": "https://image.tmdb.org/t/p/w185/eqcYoWiQJWL30FguBP02M3p8yXx.jpg"
+    },
+    {
+      "name": "Saulo Arcoverde",
+      "character": "Rodrigo",
+      "profile": "https://image.tmdb.org/t/p/w185/t2jQCEtzXi5QbcJyxd8yzSWLHL6.jpg"
+    },
+    {
+      "name": "Catharina Caiado",
+      "character": "Carla",
+      "profile": "https://image.tmdb.org/t/p/w185/zP1Un1fjzjJH3jT0P8XE0ymNBqK.jpg"
+    }
+  ],
+  "director": "Johnny Massaro",
+  "tmdbId": 1030607,
+  "xtream": {
+    "streamId": 2767425,
+    "containerExtension": "mp4"
+  }
+}

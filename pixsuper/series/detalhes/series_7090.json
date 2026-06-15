@@ -1,0 +1,52 @@
+{
+  "id": "series_7090",
+  "type": "series",
+  "title": "Tragédia de Bakersfield: Em Busca da Verdade",
+  "originalTitle": "The Bakersfield 3: A Tale of Murder and Motherhood",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/kYR88lhbfZPyCHsthp07P0tu5d.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m3Sd1sib4WOCx8ARCA3wmgTGipH.jpg",
+  "overview": "Uma série de crimes horríveis une três mães na tentativa de descobrir o que aconteceu com seus filhos. Elas logo descobrem verdades perturbadoras sobre os rapazes e a cidade, o que coloca à prova sua amizade.",
+  "rating": 6.3,
+  "genres": [
+    "misterio",
+    "crime",
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 290260,
+  "xtream": {
+    "seriesId": 7090
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3356906",
+          "episodeId": 3356906,
+          "season": 1,
+          "episode": 1,
+          "title": "Tragedia de Bakersfield Em Busca da Verdade S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356907",
+          "episodeId": 3356907,
+          "season": 1,
+          "episode": 2,
+          "title": "Tragedia de Bakersfield Em Busca da Verdade S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356908",
+          "episodeId": 3356908,
+          "season": 1,
+          "episode": 3,
+          "title": "Tragedia de Bakersfield Em Busca da Verdade S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

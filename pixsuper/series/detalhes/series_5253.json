@@ -1,0 +1,68 @@
+{
+  "id": "series_5253",
+  "type": "series",
+  "title": "O Lado Sombrio da TV Infantil",
+  "originalTitle": "Quiet on Set: The Dark Side of Kids TV",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/zpZEMkTVnR7o3StN2BME8Ru26Nt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/CQQyljC8KT8tMWyZ1fBinMJnXx.jpg",
+  "overview": "História das práticas tóxicas e abusivas nos bastidores dos programas de TV infantis dos anos 90.",
+  "rating": 7.671,
+  "genres": [
+    "documentario",
+    "crime",
+    "infantil"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 245902,
+  "xtream": {
+    "seriesId": 5253
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3311301",
+          "episodeId": 3311301,
+          "season": 1,
+          "episode": 1,
+          "title": "O Lado Sombrio da TV Infantil S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311302",
+          "episodeId": 3311302,
+          "season": 1,
+          "episode": 2,
+          "title": "O Lado Sombrio da TV Infantil S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311303",
+          "episodeId": 3311303,
+          "season": 1,
+          "episode": 3,
+          "title": "O Lado Sombrio da TV Infantil S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311304",
+          "episodeId": 3311304,
+          "season": 1,
+          "episode": 4,
+          "title": "O Lado Sombrio da TV Infantil S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311305",
+          "episodeId": 3311305,
+          "season": 1,
+          "episode": 5,
+          "title": "O Lado Sombrio da TV Infantil S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

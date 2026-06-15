@@ -1,0 +1,51 @@
+{
+  "id": "series_3026",
+  "type": "series",
+  "title": "Sally: Fisiculturismo e Assassinato",
+  "originalTitle": "Killer Sally",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/46WBP1KGrI9pPstPhxkBvNR0T0m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f3nN13gUugqP4IvQCc3aZwfAxbQ.jpg",
+  "overview": "Amigos, familiares e a própria Sally McNeil relembram o chocante assassinato de um fisiculturista, que para piorar foi cometido em um dos dias mais românticos do ano.",
+  "rating": 6.8,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 212870,
+  "xtream": {
+    "seriesId": 3026
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3253747",
+          "episodeId": 3253747,
+          "season": 1,
+          "episode": 1,
+          "title": "Sally: Fisiculturismo e Assassinato S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253748",
+          "episodeId": 3253748,
+          "season": 1,
+          "episode": 2,
+          "title": "Sally: Fisiculturismo e Assassinato S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253749",
+          "episodeId": 3253749,
+          "season": 1,
+          "episode": 3,
+          "title": "Sally: Fisiculturismo e Assassinato S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

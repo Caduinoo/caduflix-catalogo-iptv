@@ -1,0 +1,75 @@
+{
+  "id": "series_4503",
+  "type": "series",
+  "title": "A Trama",
+  "originalTitle": "A Trama",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/27ZvQGDi9cgPdRgRULtWZkVLqc6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dG9IaW6HJogQQgcg25DZuwykIpM.jpg",
+  "overview": "O jogo do poder, das mídias e do judiciário no Brasil de 2016 a 2019 e a chegada da extrema-direita ao poder. Como e por que Lula foi preso pela Lava Jato.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 208709,
+  "xtream": {
+    "seriesId": 4503
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3291599",
+          "episodeId": 3291599,
+          "season": 1,
+          "episode": 1,
+          "title": "A Trama S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291600",
+          "episodeId": 3291600,
+          "season": 1,
+          "episode": 2,
+          "title": "A Trama S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291601",
+          "episodeId": 3291601,
+          "season": 1,
+          "episode": 3,
+          "title": "A Trama S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291602",
+          "episodeId": 3291602,
+          "season": 1,
+          "episode": 4,
+          "title": "A Trama S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291603",
+          "episodeId": 3291603,
+          "season": 1,
+          "episode": 5,
+          "title": "A Trama S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291604",
+          "episodeId": 3291604,
+          "season": 1,
+          "episode": 6,
+          "title": "A Trama S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

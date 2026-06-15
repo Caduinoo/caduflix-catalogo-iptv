@@ -1,0 +1,50 @@
+{
+  "id": "series_7168",
+  "type": "series",
+  "title": "México Selvagem",
+  "originalTitle": "México Selvagem",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/gkl5rLQSUElM9IbDqurCXlIpfqr.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Repleto de selvas exuberantes, desertos, lagos e vulcões, o México é uma explosão de cores e vida. Esta série celebra a cultura e a biodiversidade do México, fruto de uma combinação única entre geologia, geografia e clima.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 293073,
+  "xtream": {
+    "seriesId": 7168
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3359971",
+          "episodeId": 3359971,
+          "season": 1,
+          "episode": 1,
+          "title": "Mexico Selvagem S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3359972",
+          "episodeId": 3359972,
+          "season": 1,
+          "episode": 2,
+          "title": "Mexico Selvagem S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3359973",
+          "episodeId": 3359973,
+          "season": 1,
+          "episode": 3,
+          "title": "Mexico Selvagem S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

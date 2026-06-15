@@ -1,0 +1,58 @@
+{
+  "id": "series_7213",
+  "type": "series",
+  "title": "Depois de Chernobyl",
+  "originalTitle": "Чорна квітка",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/jleYUE7CrlQqeKZi1S9FUTkmjTL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pgpEXrZOyQnm6dJOrbEVGaPYR9p.jpg",
+  "overview": "1986, Chernobyl. Lera viaja para o lugar mais promissor da URSS, onde a energia nuclear ilumina o futuro de uma nova sociedade. Ela está prestes a descobrir o amor, mas também o poder da destruição física e emocional.",
+  "rating": 5.5,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 102179,
+  "xtream": {
+    "seriesId": 7213
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3360695",
+          "episodeId": 3360695,
+          "season": 1,
+          "episode": 1,
+          "title": "Depois de Chernobyl S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360696",
+          "episodeId": 3360696,
+          "season": 1,
+          "episode": 2,
+          "title": "Depois de Chernobyl S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360697",
+          "episodeId": 3360697,
+          "season": 1,
+          "episode": 3,
+          "title": "Depois de Chernobyl S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360698",
+          "episodeId": 3360698,
+          "season": 1,
+          "episode": 4,
+          "title": "Depois de Chernobyl S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

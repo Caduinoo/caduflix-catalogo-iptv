@@ -1,0 +1,35 @@
+{
+  "id": "movie_3115253",
+  "type": "movie",
+  "title": "O Viajante do Tempo",
+  "originalTitle": "Norman",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/b6SZ2fme18X5EPj7zN6bxeNHjEP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/akCNL5Xq9yzIiLuib76XgckAkmo.jpg",
+  "overview": "Um viajante do tempo e seu I.A. companheiro. Norman fica preso e isolado no passado, colocando em risco a vida no passado e no futuro. Ele deve inventar um caminho de volta ao futuro antes que o mundo entre em colapso.",
+  "rating": 4.9,
+  "runtime": 65,
+  "genres": [
+    "ficcao",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Stephen Birge",
+      "character": "Norman",
+      "profile": "https://image.tmdb.org/t/p/w185/vHHWJyHUbAV9HyQvcgstsNcHUZ8.jpg"
+    },
+    {
+      "name": "Melissa Crouterfield",
+      "character": "A.N.I./Jenny",
+      "profile": "https://image.tmdb.org/t/p/w185/41y0YIWu8nTmHCekf9od82eXxBe.jpg"
+    }
+  ],
+  "director": "Joel Guelzo",
+  "tmdbId": 598011,
+  "xtream": {
+    "streamId": 3115253,
+    "containerExtension": "mp4"
+  }
+}

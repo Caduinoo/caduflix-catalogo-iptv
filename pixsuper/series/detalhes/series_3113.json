@@ -1,0 +1,51 @@
+{
+  "id": "series_3113",
+  "type": "series",
+  "title": "Assassinos Indianos: Assassinato na Corte",
+  "originalTitle": "इंडियन प्रेडेटर: मर्डर इन अ कोर्टरूम",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/wlxrIG7LDiFxbPNQWAF0CjHTfoY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bWXDK7M0LqAR7wiKlBjMqCQdUaq.jpg",
+  "overview": "Em 2004, um predador cruel foi linchado no tribunal. Esta é a história da comunidade que ele aterrorizou, e da vingança dessas pessoas.",
+  "rating": 6.4,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213345,
+  "xtream": {
+    "seriesId": 3113
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3255981",
+          "episodeId": 3255981,
+          "season": 1,
+          "episode": 1,
+          "title": "Assassinos Indianos: Assassinato na Corte S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255982",
+          "episodeId": 3255982,
+          "season": 1,
+          "episode": 2,
+          "title": "Assassinos Indianos: Assassinato na Corte S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255983",
+          "episodeId": 3255983,
+          "season": 1,
+          "episode": 3,
+          "title": "Assassinos Indianos: Assassinato na Corte S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

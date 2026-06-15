@@ -1,0 +1,74 @@
+{
+  "id": "series_1113",
+  "type": "series",
+  "title": "Equinox",
+  "originalTitle": "Equinox",
+  "year": 1986,
+  "poster": "https://image.tmdb.org/t/p/w500/mFkpezZSQzAphYo23945YPgGTWD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fCfzB8DSiFFu7axc27t2FPfa2iz.jpg",
+  "overview": "Vinte anos depois de ter visto um ônibus desaparecer sem deixar vestígios, Astrid reconhece uma das vítimas e resolve investigar o caso.",
+  "rating": 6.667,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 15716,
+  "xtream": {
+    "seriesId": 1113
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3186539",
+          "episodeId": 3186539,
+          "season": 1,
+          "episode": 1,
+          "title": "Equinox S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3186540",
+          "episodeId": 3186540,
+          "season": 1,
+          "episode": 2,
+          "title": "Equinox S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3186541",
+          "episodeId": 3186541,
+          "season": 1,
+          "episode": 3,
+          "title": "Equinox S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3186542",
+          "episodeId": 3186542,
+          "season": 1,
+          "episode": 4,
+          "title": "Equinox S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3186543",
+          "episodeId": 3186543,
+          "season": 1,
+          "episode": 5,
+          "title": "Equinox S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3186544",
+          "episodeId": 3186544,
+          "season": 1,
+          "episode": 6,
+          "title": "Equinox S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

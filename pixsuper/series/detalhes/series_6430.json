@@ -1,0 +1,67 @@
+{
+  "id": "series_6430",
+  "type": "series",
+  "title": "Ilary",
+  "originalTitle": "Ilary",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/rdVB1EbRMoWpoBxgENWyMZpeZBe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sgQkJ87OwNqBIOXIhOgzZSoZQfL.jpg",
+  "overview": "Esta série documental acompanha a apresentadora de TV Ilary Blasi em sua vida após o divórcio, equilibrando autodescoberta, oportunidades profissionais e um novo amor.",
+  "rating": 6,
+  "genres": [
+    "reality",
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 278701,
+  "xtream": {
+    "seriesId": 6430
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3342377",
+          "episodeId": 3342377,
+          "season": 1,
+          "episode": 1,
+          "title": "I Am Ilary S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3342378",
+          "episodeId": 3342378,
+          "season": 1,
+          "episode": 2,
+          "title": "I Am Ilary S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3342379",
+          "episodeId": 3342379,
+          "season": 1,
+          "episode": 3,
+          "title": "I Am Ilary S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3342380",
+          "episodeId": 3342380,
+          "season": 1,
+          "episode": 4,
+          "title": "I Am Ilary S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3342381",
+          "episodeId": 3342381,
+          "season": 1,
+          "episode": 5,
+          "title": "I Am Ilary S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

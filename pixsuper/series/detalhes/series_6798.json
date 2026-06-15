@@ -1,0 +1,59 @@
+{
+  "id": "series_6798",
+  "type": "series",
+  "title": "Adolescência",
+  "originalTitle": "Adolescence",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/3v8MSpNNk3hhadeU9XocQrQXbuk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/llZodlkVKRkTdUsiRxvn8h80hhx.jpg",
+  "overview": "Um garoto de 13 anos é acusado de assassinar uma colega de escola, levando a família, a terapeuta e o investigador do caso a se perguntarem: o que realmente aconteceu?",
+  "rating": 7.839,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 249042,
+  "xtream": {
+    "seriesId": 6798
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3352287",
+          "episodeId": 3352287,
+          "season": 1,
+          "episode": 1,
+          "title": "Adolescencia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352288",
+          "episodeId": 3352288,
+          "season": 1,
+          "episode": 2,
+          "title": "Adolescencia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352289",
+          "episodeId": 3352289,
+          "season": 1,
+          "episode": 3,
+          "title": "Adolescencia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352290",
+          "episodeId": 3352290,
+          "season": 1,
+          "episode": 4,
+          "title": "Adolescencia S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

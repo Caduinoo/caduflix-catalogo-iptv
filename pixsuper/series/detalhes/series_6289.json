@@ -1,0 +1,86 @@
+{
+  "id": "series_6289",
+  "type": "series",
+  "title": "Comando das Criaturas",
+  "originalTitle": "Creature Commandos",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/8my6Pj4DdR4CrJtDxFtG6upNzvM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y8T8BhptuHFPR0hCGcUSMyUfUfm.jpg",
+  "overview": "Acompanha uma equipe secreta de monstros encarcerados, recrutados para missões consideradas perigosas demais para humanos.",
+  "rating": 7.762,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 219543,
+  "xtream": {
+    "seriesId": 6289
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3339189",
+          "episodeId": 3339189,
+          "season": 1,
+          "episode": 1,
+          "title": "Comando das Criaturas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3339190",
+          "episodeId": 3339190,
+          "season": 1,
+          "episode": 2,
+          "title": "Comando das Criaturas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3339191",
+          "episodeId": 3339191,
+          "season": 1,
+          "episode": 3,
+          "title": "Comando das Criaturas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3339192",
+          "episodeId": 3339192,
+          "season": 1,
+          "episode": 4,
+          "title": "Comando das Criaturas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3339193",
+          "episodeId": 3339193,
+          "season": 1,
+          "episode": 5,
+          "title": "Comando das Criaturas S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3339194",
+          "episodeId": 3339194,
+          "season": 1,
+          "episode": 6,
+          "title": "Comando das Criaturas S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3339195",
+          "episodeId": 3339195,
+          "season": 1,
+          "episode": 7,
+          "title": "Comando das Criaturas S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

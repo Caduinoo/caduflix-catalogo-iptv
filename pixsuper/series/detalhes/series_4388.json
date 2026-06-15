@@ -1,0 +1,79 @@
+{
+  "id": "series_4388",
+  "type": "series",
+  "title": "Time Belt",
+  "originalTitle": "Time Belt",
+  "year": 2003,
+  "poster": "https://image.tmdb.org/t/p/w500/voOXf743cXhuozj9ugK6tz2iINb.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Um prisioneiro consumido pela culpa, um oficial com uma escolha impossível. O que é preciso para sobreviver? Uma história tensa de punição e princípios, estrelada por Sean Bean e Stephen Grah",
+  "rating": 0,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 7874,
+  "xtream": {
+    "seriesId": 4388
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3288516",
+          "episodeId": 3288516,
+          "season": 1,
+          "episode": 1,
+          "title": "Time [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288517",
+          "episodeId": 3288517,
+          "season": 1,
+          "episode": 2,
+          "title": "Time [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288518",
+          "episodeId": 3288518,
+          "season": 1,
+          "episode": 3,
+          "title": "Time [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3288519",
+          "episodeId": 3288519,
+          "season": 2,
+          "episode": 1,
+          "title": "Time [L] S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288520",
+          "episodeId": 3288520,
+          "season": 2,
+          "episode": 2,
+          "title": "Time [L] S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288521",
+          "episodeId": 3288521,
+          "season": 2,
+          "episode": 3,
+          "title": "Time [L] S02 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

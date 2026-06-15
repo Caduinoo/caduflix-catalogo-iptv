@@ -1,0 +1,85 @@
+{
+  "id": "movie_3119455",
+  "type": "movie",
+  "title": "Arsenal",
+  "originalTitle": "Арсенал",
+  "year": 1929,
+  "poster": "https://image.tmdb.org/t/p/w500/1a7LowwpZRiHRj5mCP6B8hTqrd9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qyku09NoSXE3DRUmOCW2UDYI539.jpg",
+  "overview": "Imagens mostram a devastação que a Primeira Guerra Mundial causou aos ucranianos.",
+  "rating": 6.7,
+  "runtime": 93,
+  "genres": [
+    "drama",
+    "guerra",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Семён Свашенко",
+      "character": "Tymish",
+      "profile": "https://image.tmdb.org/t/p/w185/jz2YIKIf5Y0MBnTA4HxkQNjclcB.jpg"
+    },
+    {
+      "name": "Амвросій Бучма",
+      "character": "a German soldier",
+      "profile": "https://image.tmdb.org/t/p/w185/ctHTMOzlM7bqdvEHItYaDJRUC4f.jpg"
+    },
+    {
+      "name": "Dmytro Erdman",
+      "character": "a German officer",
+      "profile": ""
+    },
+    {
+      "name": "Сергей Петров",
+      "character": "a German officer",
+      "profile": "https://image.tmdb.org/t/p/w185/nJ56TjIGSez08lWf7FVYs3jMB2I.jpg"
+    },
+    {
+      "name": "Mykola Kuchynskyi",
+      "character": "Petliura",
+      "profile": "https://image.tmdb.org/t/p/w185/kBdIEP60XzQ0qVYf8EoFTv5Uape.jpg"
+    },
+    {
+      "name": "Микола Надемський",
+      "character": "a nationalist with a lamp",
+      "profile": "https://image.tmdb.org/t/p/w185/vMho3fZVcAEehw3ANmWS58Po71J.jpg"
+    },
+    {
+      "name": "Борис Загорский",
+      "character": "dead German soldier",
+      "profile": ""
+    },
+    {
+      "name": "Osyp Merlatti",
+      "character": "Mykhailo Sadovskyi",
+      "profile": "https://image.tmdb.org/t/p/w185/uk4IduALJdqiVT2Vvy71CVzAnEE.jpg"
+    },
+    {
+      "name": "Георгий Хорьков",
+      "character": "a Red Army soldier",
+      "profile": ""
+    },
+    {
+      "name": "Andrii Mykhailovskyi",
+      "character": "nationalist",
+      "profile": ""
+    },
+    {
+      "name": "Олександр Євдаков",
+      "character": "Nicholas II",
+      "profile": ""
+    },
+    {
+      "name": "Petro Masokha",
+      "character": "workman",
+      "profile": "https://image.tmdb.org/t/p/w185/lPgw3Qibof2AJvDGZ0aTAY9TmHT.jpg"
+    }
+  ],
+  "director": "Олександр Довженко",
+  "tmdbId": 85715,
+  "xtream": {
+    "streamId": 3119455,
+    "containerExtension": "mp4"
+  }
+}

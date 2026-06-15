@@ -1,0 +1,59 @@
+{
+  "id": "series_423",
+  "type": "series",
+  "title": "Lugar de Mulher",
+  "originalTitle": "Lugar de Mulher",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/9VUh1tbBubznBdjV5OomzupyCgL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/z047lUdDWg0q0gH03sn4iBcOQwq.jpg",
+  "overview": "As comediantes brasileiras Bruna Louise, Micheli Machado, Cintia Rosini e Carol Zoccoli provam, com muito humor, que lugar de mulher é onde ela quiser.",
+  "rating": 5.7,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 95927,
+  "xtream": {
+    "seriesId": 423
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3150757",
+          "episodeId": 3150757,
+          "season": 1,
+          "episode": 1,
+          "title": "Lugar de Mulher S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150758",
+          "episodeId": 3150758,
+          "season": 1,
+          "episode": 2,
+          "title": "Lugar de Mulher S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150759",
+          "episodeId": 3150759,
+          "season": 1,
+          "episode": 3,
+          "title": "Lugar de Mulher S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150760",
+          "episodeId": 3150760,
+          "season": 1,
+          "episode": 4,
+          "title": "Lugar de Mulher S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

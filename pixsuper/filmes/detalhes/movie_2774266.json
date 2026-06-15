@@ -1,0 +1,38 @@
+{
+  "id": "movie_2774266",
+  "type": "movie",
+  "title": "The Lake",
+  "originalTitle": "The Lake",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/l83Ww506Uxey0PeXSGNI7ucKRbp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aCOVNcMpBF2EKy7PsGNeLQQCWB0.jpg",
+  "overview": "",
+  "rating": 6,
+  "runtime": 6,
+  "genres": [
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Sonny King",
+      "character": "Lake Spirit",
+      "profile": "https://image.tmdb.org/t/p/w185/lvMzvIwpLltNTl5YlFmF7q8l190.jpg"
+    },
+    {
+      "name": "Tommy Schneiders",
+      "character": "Michael",
+      "profile": ""
+    },
+    {
+      "name": "Gina Vitori",
+      "character": "Jaimie",
+      "profile": "https://image.tmdb.org/t/p/w185/gOvngiPhlaEHbydoYjRrEU5lfqI.jpg"
+    }
+  ],
+  "director": "Joey Greene",
+  "tmdbId": 892444,
+  "xtream": {
+    "streamId": 2774266,
+    "containerExtension": "mp4"
+  }
+}

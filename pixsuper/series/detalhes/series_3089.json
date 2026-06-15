@@ -1,0 +1,58 @@
+{
+  "id": "series_3089",
+  "type": "series",
+  "title": "Capitães da América",
+  "originalTitle": "Capitanes de America",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/2fB9nLLesHxUlOhXtraH8ItD0Ah.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oDyrxM0gIOQMih5Cbw9dIfmn9zf.jpg",
+  "overview": "A vida de oito famosos jogadores profissionais de futebol vindos de diversos cantos da América e com uma característica em comum: eles transcenderam seus tempos e times para se tornarem lendas.",
+  "rating": 6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 214837,
+  "xtream": {
+    "seriesId": 3089
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3255494",
+          "episodeId": 3255494,
+          "season": 1,
+          "episode": 1,
+          "title": "Capitães da América S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255495",
+          "episodeId": 3255495,
+          "season": 1,
+          "episode": 2,
+          "title": "Capitães da América S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255496",
+          "episodeId": 3255496,
+          "season": 1,
+          "episode": 3,
+          "title": "Capitães da América S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255497",
+          "episodeId": 3255497,
+          "season": 1,
+          "episode": 4,
+          "title": "Capitães da América S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

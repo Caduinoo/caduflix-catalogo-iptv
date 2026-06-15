@@ -1,0 +1,92 @@
+{
+  "id": "series_8044",
+  "type": "series",
+  "title": "Alien: Earth",
+  "originalTitle": "Alien: Earth",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/wEMJxkaVw5hIHax9raBLd82TLAR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/biIBy2LPOOtGCgUYOls3dUEWU3v.jpg",
+  "overview": "Quando uma misteriosa nave espacial cai na Terra, uma jovem e um grupo desorganizado de soldados táticos fazem uma descoberta fatídica que os coloca cara a cara com a maior ameaça ao planeta.",
+  "rating": 7.33,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 157239,
+  "xtream": {
+    "seriesId": 8044
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3375998",
+          "episodeId": 3375998,
+          "season": 1,
+          "episode": 1,
+          "title": "Alien Earth [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375999",
+          "episodeId": 3375999,
+          "season": 1,
+          "episode": 2,
+          "title": "Alien Earth [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376000",
+          "episodeId": 3376000,
+          "season": 1,
+          "episode": 3,
+          "title": "Alien Earth [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376001",
+          "episodeId": 3376001,
+          "season": 1,
+          "episode": 4,
+          "title": "Alien Earth [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376002",
+          "episodeId": 3376002,
+          "season": 1,
+          "episode": 5,
+          "title": "Alien Earth [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376003",
+          "episodeId": 3376003,
+          "season": 1,
+          "episode": 6,
+          "title": "Alien Earth [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376004",
+          "episodeId": 3376004,
+          "season": 1,
+          "episode": 7,
+          "title": "Alien Earth [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376005",
+          "episodeId": 3376005,
+          "season": 1,
+          "episode": 8,
+          "title": "Alien Earth [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

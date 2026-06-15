@@ -1,0 +1,61 @@
+{
+  "id": "movie_2775356",
+  "type": "movie",
+  "title": "The Muppet Revue",
+  "originalTitle": "The Muppet Revue",
+  "year": 1985,
+  "poster": "https://image.tmdb.org/t/p/w500/nZpgzM1eSco0VvEFXhFCFv5DeHU.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 56,
+  "genres": [
+    "musica",
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "cast": [
+    {
+      "name": "Jim Henson",
+      "character": "Kermit the Frog (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/93vzGW2kWwmAJ8HpbErzKMHXDME.jpg"
+    },
+    {
+      "name": "Frank Oz",
+      "character": "Fozzie Bear / Miss Piggy (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/NmtYrntP8gElfulb4KaEYjbOha.jpg"
+    },
+    {
+      "name": "Linda Ronstadt",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/cLeoa4C727LC6RBcdOwMHnCbNYw.jpg"
+    },
+    {
+      "name": "Dave Goelz",
+      "character": "Gonzo (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/tBJDwH008IVSeTCB5e2P856NbIv.jpg"
+    },
+    {
+      "name": "Rita Moreno",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+    },
+    {
+      "name": "Paul Williams",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/hfBFenLU5reDGVi4wiP5P1VcP3G.jpg"
+    },
+    {
+      "name": "Harry Belafonte",
+      "character": "Self",
+      "profile": "https://image.tmdb.org/t/p/w185/8x9zZS36gSOKiTnUwoBqYKvnYg6.jpg"
+    }
+  ],
+  "director": "Peter Harris",
+  "tmdbId": 726728,
+  "xtream": {
+    "streamId": 2775356,
+    "containerExtension": "mp4"
+  }
+}

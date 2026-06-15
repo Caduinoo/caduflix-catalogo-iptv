@@ -1,0 +1,130 @@
+{
+  "id": "series_1664",
+  "type": "series",
+  "title": "Code 404",
+  "originalTitle": "Code 404",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/4mxnGq5ysyqSDF1UyBj9wAI3TwF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tBXtDa0EUy0LD1LtbwmHRxV5At.jpg",
+  "overview": "Um detetive britânico morto em combate é trazido de volta à vida usando Inteligência Artificial experimental.",
+  "rating": 6.7,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "comedia",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 102272,
+  "xtream": {
+    "seriesId": 1664
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3210774",
+          "episodeId": 3210774,
+          "season": 1,
+          "episode": 1,
+          "title": "Code 404 S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210775",
+          "episodeId": 3210775,
+          "season": 1,
+          "episode": 2,
+          "title": "Code 404 S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210776",
+          "episodeId": 3210776,
+          "season": 1,
+          "episode": 3,
+          "title": "Code 404 S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210777",
+          "episodeId": 3210777,
+          "season": 1,
+          "episode": 4,
+          "title": "Code 404 S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210778",
+          "episodeId": 3210778,
+          "season": 1,
+          "episode": 5,
+          "title": "Code 404 S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210779",
+          "episodeId": 3210779,
+          "season": 1,
+          "episode": 6,
+          "title": "Code 404 S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3210780",
+          "episodeId": 3210780,
+          "season": 2,
+          "episode": 1,
+          "title": "Code 404 S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210781",
+          "episodeId": 3210781,
+          "season": 2,
+          "episode": 2,
+          "title": "Code 404 S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210782",
+          "episodeId": 3210782,
+          "season": 2,
+          "episode": 3,
+          "title": "Code 404 S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210783",
+          "episodeId": 3210783,
+          "season": 2,
+          "episode": 4,
+          "title": "Code 404 S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210784",
+          "episodeId": 3210784,
+          "season": 2,
+          "episode": 5,
+          "title": "Code 404 S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210785",
+          "episodeId": 3210785,
+          "season": 2,
+          "episode": 6,
+          "title": "Code 404 S02 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

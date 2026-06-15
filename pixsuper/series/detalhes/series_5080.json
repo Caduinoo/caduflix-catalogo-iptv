@@ -1,0 +1,61 @@
+{
+  "id": "series_5080",
+  "type": "series",
+  "title": "O Sinal",
+  "originalTitle": "Das Signal",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/xVHQs2SjbcMy3kLabuWHbfWr5n6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9jt0k9x8vHfMI49G3mmYP9eYn0h.jpg",
+  "overview": "Uma família busca respostas sobre uma astronauta desaparecida. Mas quanto mais a investigação avança, maior é a ameaça para eles… e para o resto do mundo.",
+  "rating": 6.371,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 241473,
+  "xtream": {
+    "seriesId": 5080
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308107",
+          "episodeId": 3308107,
+          "season": 1,
+          "episode": 1,
+          "title": "O Sinal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308108",
+          "episodeId": 3308108,
+          "season": 1,
+          "episode": 2,
+          "title": "O Sinal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308109",
+          "episodeId": 3308109,
+          "season": 1,
+          "episode": 3,
+          "title": "O Sinal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308110",
+          "episodeId": 3308110,
+          "season": 1,
+          "episode": 4,
+          "title": "O Sinal S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

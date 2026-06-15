@@ -1,0 +1,94 @@
+{
+  "id": "series_1286",
+  "type": "series",
+  "title": "Alef",
+  "originalTitle": "Alef",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/6CyNjKgbgs6dTBKNkUJsEfMnX1B.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xmbpuuDzaWqEFc28uDbHjUzrnXk.jpg",
+  "overview": "Dois detetives tentam desvendar o mistério dos assassinatos que se seguiram à descoberta de um corpo no estreito de Bósforo.",
+  "rating": 7.4,
+  "genres": [
+    "crime",
+    "drama",
+    "misterio",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 99815,
+  "xtream": {
+    "seriesId": 1286
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3193766",
+          "episodeId": 3193766,
+          "season": 1,
+          "episode": 1,
+          "title": "Alef [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193767",
+          "episodeId": 3193767,
+          "season": 1,
+          "episode": 2,
+          "title": "Alef [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193768",
+          "episodeId": 3193768,
+          "season": 1,
+          "episode": 3,
+          "title": "Alef [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193769",
+          "episodeId": 3193769,
+          "season": 1,
+          "episode": 4,
+          "title": "Alef [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193770",
+          "episodeId": 3193770,
+          "season": 1,
+          "episode": 5,
+          "title": "Alef [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193771",
+          "episodeId": 3193771,
+          "season": 1,
+          "episode": 6,
+          "title": "Alef [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193772",
+          "episodeId": 3193772,
+          "season": 1,
+          "episode": 7,
+          "title": "Alef [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193773",
+          "episodeId": 3193773,
+          "season": 1,
+          "episode": 8,
+          "title": "Alef [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

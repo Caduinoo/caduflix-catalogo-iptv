@@ -1,0 +1,58 @@
+{
+  "id": "series_6995",
+  "type": "series",
+  "title": "Formula E: DRIVER",
+  "originalTitle": "Formula E: DRIVER",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/s4FE3H2L91JaXh95EgGzfIVwNl6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pmSnj7UJQoLwnks8OCJxsI7Vunn.jpg",
+  "overview": "Quatro pilotos de elite expõem suas vidas às câmeras pela primeira vez na temporada de 2024 da Fórmula E.",
+  "rating": 8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 290148,
+  "xtream": {
+    "seriesId": 6995
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3355165",
+          "episodeId": 3355165,
+          "season": 1,
+          "episode": 1,
+          "title": "Formula E DRIVER S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355166",
+          "episodeId": 3355166,
+          "season": 1,
+          "episode": 2,
+          "title": "Formula E DRIVER S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355167",
+          "episodeId": 3355167,
+          "season": 1,
+          "episode": 3,
+          "title": "Formula E DRIVER S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355168",
+          "episodeId": 3355168,
+          "season": 1,
+          "episode": 4,
+          "title": "Formula E DRIVER S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

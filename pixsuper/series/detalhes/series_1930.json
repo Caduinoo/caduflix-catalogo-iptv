@@ -1,0 +1,52 @@
+{
+  "id": "series_1930",
+  "type": "series",
+  "title": "Onde Está Marta del Castillo?",
+  "originalTitle": "¿Dónde está Marta?",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/xlBfU8xfvTOppHYTWQiYQBxG7Ur.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m3aZKRAclYUAKgxJS6HlwQAi82h.jpg",
+  "overview": "O desaparecimento da adolescente Marta del Castillo repercutiu em toda a Espanha. Família, amigos e policiais refletem sobre o caso, ainda hoje sem solução.",
+  "rating": 7.32,
+  "genres": [
+    "documentario",
+    "crime",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 137899,
+  "xtream": {
+    "seriesId": 1930
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3221714",
+          "episodeId": 3221714,
+          "season": 1,
+          "episode": 1,
+          "title": "Onde está Marta del Castillo? S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221715",
+          "episodeId": 3221715,
+          "season": 1,
+          "episode": 2,
+          "title": "Onde está Marta del Castillo? S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221716",
+          "episodeId": 3221716,
+          "season": 1,
+          "episode": 3,
+          "title": "Onde está Marta del Castillo? S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

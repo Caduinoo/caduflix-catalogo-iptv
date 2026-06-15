@@ -1,0 +1,53 @@
+{
+  "id": "series_1297",
+  "type": "series",
+  "title": "QUIZ",
+  "originalTitle": "QUIZ",
+  "year": 2000,
+  "poster": "https://image.tmdb.org/t/p/w500/zfxmgk2qJjtNItGgPEeQxnOoT4o.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ivhATPBOEOghSDhDS71CFpB8E0y.jpg",
+  "overview": "Conheça a história de Charles e Diana Ingram, os dois tentam trapacear para ganhar o grande prêmio do programa de perguntas e respostas \"Quem Quer Ser um Milionário?\".",
+  "rating": 10,
+  "genres": [
+    "crime",
+    "misterio",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 114116,
+  "xtream": {
+    "seriesId": 1297
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3194091",
+          "episodeId": 3194091,
+          "season": 1,
+          "episode": 1,
+          "title": "Quiz S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194092",
+          "episodeId": 3194092,
+          "season": 1,
+          "episode": 2,
+          "title": "Quiz S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194093",
+          "episodeId": 3194093,
+          "season": 1,
+          "episode": 3,
+          "title": "Quiz S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

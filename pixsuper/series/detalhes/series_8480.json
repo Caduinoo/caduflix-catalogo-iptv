@@ -1,0 +1,98 @@
+{
+  "id": "series_8480",
+  "type": "series",
+  "title": "Star Search",
+  "originalTitle": "Star Search",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/rchRdbpf4Of7A4rGl4UD4tv1J1O.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/g7UMVHvj0RRiosQNrNvMSkINs5e.jpg",
+  "overview": "A famosa série de competição está de volta, com talentos ainda maiores, apostas mais altas e votação em tempo real nos EUA.",
+  "rating": 6,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 306657,
+  "xtream": {
+    "seriesId": 8480
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3384429",
+          "episodeId": 3384429,
+          "season": 1,
+          "episode": 1,
+          "title": "Star Search S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384430",
+          "episodeId": 3384430,
+          "season": 1,
+          "episode": 2,
+          "title": "Star Search S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384431",
+          "episodeId": 3384431,
+          "season": 1,
+          "episode": 3,
+          "title": "Star Search S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384432",
+          "episodeId": 3384432,
+          "season": 1,
+          "episode": 4,
+          "title": "Star Search S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384433",
+          "episodeId": 3384433,
+          "season": 1,
+          "episode": 5,
+          "title": "Star Search S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384434",
+          "episodeId": 3384434,
+          "season": 1,
+          "episode": 6,
+          "title": "Star Search S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384435",
+          "episodeId": 3384435,
+          "season": 1,
+          "episode": 7,
+          "title": "Star Search S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384436",
+          "episodeId": 3384436,
+          "season": 1,
+          "episode": 8,
+          "title": "Star Search S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384437",
+          "episodeId": 3384437,
+          "season": 1,
+          "episode": 9,
+          "title": "Star Search S01 E09",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

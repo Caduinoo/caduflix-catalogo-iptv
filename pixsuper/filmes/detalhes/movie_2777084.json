@@ -1,0 +1,53 @@
+{
+  "id": "movie_2777084",
+  "type": "movie",
+  "title": "Sábado",
+  "originalTitle": "Sábado",
+  "year": 2002,
+  "poster": "https://image.tmdb.org/t/p/w500/utqHhOrD8rIA7ANymPv7yLc8M5V.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6.857,
+  "runtime": 72,
+  "genres": [
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Gastón Pauls",
+      "character": "Gastón Pauls",
+      "profile": "https://image.tmdb.org/t/p/w185/aAdkMqUUGjdjMU1MT1ncx9cBDUE.jpg"
+    },
+    {
+      "name": "Daniel Hendler",
+      "character": "Martín",
+      "profile": "https://image.tmdb.org/t/p/w185/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg"
+    },
+    {
+      "name": "Camila Toker",
+      "character": "Camila",
+      "profile": "https://image.tmdb.org/t/p/w185/vDRFwsCfyOFG22Y3ZggVTEC2sV5.jpg"
+    },
+    {
+      "name": "Mariana Anghileri",
+      "character": "Natalia",
+      "profile": "https://image.tmdb.org/t/p/w185/iAIxYPLFmoxFwLdIfwP9o1ITnfz.jpg"
+    },
+    {
+      "name": "Leonardo Murúa",
+      "character": "Leopoldo",
+      "profile": ""
+    },
+    {
+      "name": "Eva Sola",
+      "character": "Andrea",
+      "profile": ""
+    }
+  ],
+  "director": "Juan Villegas",
+  "tmdbId": 123450,
+  "xtream": {
+    "streamId": 2777084,
+    "containerExtension": "mp4"
+  }
+}

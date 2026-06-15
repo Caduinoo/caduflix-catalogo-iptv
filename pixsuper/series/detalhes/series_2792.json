@@ -1,0 +1,74 @@
+{
+  "id": "series_2792",
+  "type": "series",
+  "title": "Detox",
+  "originalTitle": "Détox",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/rAlsYy9x0aaEhoKA2hNCX6DMJks.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4NRYv6n2v5pSyZxgPkZoM4ISF40.jpg",
+  "overview": "Depois de perceber que têm uma relação tóxica com a internet, as amigas Léa e Manon tomam uma decisão difícil: abolir todos os aparelhos por 30 dias.",
+  "rating": 6.443,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 207470,
+  "xtream": {
+    "seriesId": 2792
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3248195",
+          "episodeId": 3248195,
+          "season": 1,
+          "episode": 1,
+          "title": "Detox S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3248196",
+          "episodeId": 3248196,
+          "season": 1,
+          "episode": 2,
+          "title": "Detox S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3248197",
+          "episodeId": 3248197,
+          "season": 1,
+          "episode": 3,
+          "title": "Detox S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3248198",
+          "episodeId": 3248198,
+          "season": 1,
+          "episode": 4,
+          "title": "Detox S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3248199",
+          "episodeId": 3248199,
+          "season": 1,
+          "episode": 5,
+          "title": "Detox S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3248200",
+          "episodeId": 3248200,
+          "season": 1,
+          "episode": 6,
+          "title": "Detox S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

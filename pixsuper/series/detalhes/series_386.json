@@ -1,0 +1,50 @@
+{
+  "id": "series_386",
+  "type": "series",
+  "title": "O Código Bill Gates",
+  "originalTitle": "Inside Bill's Brain: Decoding Bill Gates",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/5RIVJnpIkPt90EwJQwPzqS1UTPG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e8Rla3XzYcY6A1fIYn6kbrIU674.jpg",
+  "overview": "Em uma jornada pela mente de Bill Gates, descubra quem o influenciou e quais são as metas que o bilionário ainda pretende alcançar.",
+  "rating": 7.2,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 93016,
+  "xtream": {
+    "seriesId": 386
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3150095",
+          "episodeId": 3150095,
+          "season": 1,
+          "episode": 1,
+          "title": "O Codigo Bill Gates S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150096",
+          "episodeId": 3150096,
+          "season": 1,
+          "episode": 2,
+          "title": "O Codigo Bill Gates S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150097",
+          "episodeId": 3150097,
+          "season": 1,
+          "episode": 3,
+          "title": "O Codigo Bill Gates S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

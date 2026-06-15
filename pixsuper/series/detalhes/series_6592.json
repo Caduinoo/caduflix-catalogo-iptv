@@ -1,0 +1,69 @@
+{
+  "id": "series_6592",
+  "type": "series",
+  "title": "Hooligan",
+  "originalTitle": "Hooligan",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/87SzMGYyfiL0Ch2IP5xsnIj4BaW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rvAo75NlIlDpr3R2JefhRli0boH.jpg",
+  "overview": "Para o jovem Kuba, de 17 anos, é difícil não seguir os passos do pai, um hooligan que acabou de sair da cadeia. Afinal, futebol é família.",
+  "rating": 10,
+  "genres": [
+    "crime",
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 153461,
+  "xtream": {
+    "seriesId": 6592
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3347093",
+          "episodeId": 3347093,
+          "season": 1,
+          "episode": 1,
+          "title": "Hooligan S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3347094",
+          "episodeId": 3347094,
+          "season": 1,
+          "episode": 2,
+          "title": "Hooligan S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3347095",
+          "episodeId": 3347095,
+          "season": 1,
+          "episode": 3,
+          "title": "Hooligan S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3347096",
+          "episodeId": 3347096,
+          "season": 1,
+          "episode": 4,
+          "title": "Hooligan S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3347097",
+          "episodeId": 3347097,
+          "season": 1,
+          "episode": 5,
+          "title": "Hooligan S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

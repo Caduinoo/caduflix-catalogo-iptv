@@ -1,0 +1,91 @@
+{
+  "id": "series_5228",
+  "type": "series",
+  "title": "Sugar",
+  "originalTitle": "Sugar",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7sV0OgNkPiY9XPzr0f3rATFrGje.jpg",
+  "overview": "Um detetive particular enigmático luta com seus demônios pessoais enquanto investiga o desaparecimento da neta de um produtor de Hollywood.",
+  "rating": 7.282,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "apple_tv_plus",
+  "tmdbId": 203744,
+  "xtream": {
+    "seriesId": 5228
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3310852",
+          "episodeId": 3310852,
+          "season": 1,
+          "episode": 1,
+          "title": "Sugar S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310853",
+          "episodeId": 3310853,
+          "season": 1,
+          "episode": 2,
+          "title": "Sugar S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310854",
+          "episodeId": 3310854,
+          "season": 1,
+          "episode": 3,
+          "title": "Sugar S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310855",
+          "episodeId": 3310855,
+          "season": 1,
+          "episode": 4,
+          "title": "Sugar S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310856",
+          "episodeId": 3310856,
+          "season": 1,
+          "episode": 5,
+          "title": "Sugar S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310857",
+          "episodeId": 3310857,
+          "season": 1,
+          "episode": 6,
+          "title": "Sugar S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310858",
+          "episodeId": 3310858,
+          "season": 1,
+          "episode": 7,
+          "title": "Sugar S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310859",
+          "episodeId": 3310859,
+          "season": 1,
+          "episode": 8,
+          "title": "Sugar S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "series_268",
+  "type": "series",
+  "title": "Terrores Urbanos",
+  "originalTitle": "Terrores Urbanos",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/wNWfqkrD0dkSq8Lvk8Cw9pzc4JS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rJ7ZAO4SPU2RtUfjuY1ihRsOxvO.jpg",
+  "overview": "Terrores Urbanos é uma série da Record TV onde cinco lendas urbanas, de diferentes regiões do país, são contadas de maneira nunca antes vista.",
+  "rating": 9.2,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "misterio",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 85442,
+  "xtream": {
+    "seriesId": 268
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3146644",
+          "episodeId": 3146644,
+          "season": 1,
+          "episode": 1,
+          "title": "Terrores Urbanos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3146645",
+          "episodeId": 3146645,
+          "season": 1,
+          "episode": 2,
+          "title": "Terrores Urbanos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3146646",
+          "episodeId": 3146646,
+          "season": 1,
+          "episode": 3,
+          "title": "Terrores Urbanos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3146647",
+          "episodeId": 3146647,
+          "season": 1,
+          "episode": 4,
+          "title": "Terrores Urbanos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3146648",
+          "episodeId": 3146648,
+          "season": 1,
+          "episode": 5,
+          "title": "Terrores Urbanos S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

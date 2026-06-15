@@ -1,0 +1,91 @@
+{
+  "id": "series_3476",
+  "type": "series",
+  "title": "Digman!",
+  "originalTitle": "Digman!",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/yt6yvFBpeWVaqowRqmeXmvU3IsT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7v2qFq2wwHqZMrV9wphG5aSzI6X.jpg",
+  "overview": "O arqueólogo em decadência Rip Digman, tentando sair da escuridão e se redimir, recruta um ajudante para ajudá-lo a encontrar o chapéu perdido de Hammurabi, um antigo rei da Babilônia.",
+  "rating": 6.1,
+  "genres": [
+    "comedia",
+    "animacao"
+  ],
+  "producer": "paramount",
+  "tmdbId": 210249,
+  "xtream": {
+    "seriesId": 3476
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3264421",
+          "episodeId": 3264421,
+          "season": 1,
+          "episode": 1,
+          "title": "Digman! S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264422",
+          "episodeId": 3264422,
+          "season": 1,
+          "episode": 2,
+          "title": "Digman! S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264423",
+          "episodeId": 3264423,
+          "season": 1,
+          "episode": 3,
+          "title": "Digman! S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264424",
+          "episodeId": 3264424,
+          "season": 1,
+          "episode": 4,
+          "title": "Digman! S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264425",
+          "episodeId": 3264425,
+          "season": 1,
+          "episode": 5,
+          "title": "Digman! S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264426",
+          "episodeId": 3264426,
+          "season": 1,
+          "episode": 6,
+          "title": "Digman! S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264427",
+          "episodeId": 3264427,
+          "season": 1,
+          "episode": 7,
+          "title": "Digman! S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264428",
+          "episodeId": 3264428,
+          "season": 1,
+          "episode": 8,
+          "title": "Digman! S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "series_489",
+  "type": "series",
+  "title": "A Zona",
+  "originalTitle": "La Zona",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/qy0xY9Oj7WgIummKWWldYOm482Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ud7TdUVlcSvW61rb4MQkw1oZif.jpg",
+  "overview": "Três anos após uma catástrofe nuclear no Norte de Espanha, o detective Héctor Uría deve investigar um estranho e brutal assassinato na zona de exclusão, onde uma nova forma de vida e ordem social começam a abrir caminho.",
+  "rating": 6.3,
+  "genres": [
+    "acao",
+    "aventura",
+    "crime",
+    "drama",
+    "misterio"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 74685,
+  "xtream": {
+    "seriesId": 489
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3153120",
+          "episodeId": 3153120,
+          "season": 1,
+          "episode": 1,
+          "title": "A Zona S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153121",
+          "episodeId": 3153121,
+          "season": 1,
+          "episode": 2,
+          "title": "A Zona S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153122",
+          "episodeId": 3153122,
+          "season": 1,
+          "episode": 3,
+          "title": "A Zona S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153123",
+          "episodeId": 3153123,
+          "season": 1,
+          "episode": 4,
+          "title": "A Zona S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153124",
+          "episodeId": 3153124,
+          "season": 1,
+          "episode": 5,
+          "title": "A Zona S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153125",
+          "episodeId": 3153125,
+          "season": 1,
+          "episode": 6,
+          "title": "A Zona S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153126",
+          "episodeId": 3153126,
+          "season": 1,
+          "episode": 7,
+          "title": "A Zona S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153127",
+          "episodeId": 3153127,
+          "season": 1,
+          "episode": 8,
+          "title": "A Zona S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

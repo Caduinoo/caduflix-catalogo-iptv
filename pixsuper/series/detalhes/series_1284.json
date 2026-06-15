@@ -1,0 +1,93 @@
+{
+  "id": "series_1284",
+  "type": "series",
+  "title": "Os Irregulares de Baker Street",
+  "originalTitle": "The Irregulars",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/gP7bD2RpKdCAGmeu5W7fHgCeMrK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4sIjlFa2jn0SsWQVuTBEFgQy4eH.jpg",
+  "overview": "Na Londres do século 19, um grupo de jovens se dedica a solucionar crimes sobrenaturais a pedido do Dr. Watson e de seu parceiro Sherlock Holmes.",
+  "rating": 7.116,
+  "genres": [
+    "drama",
+    "misterio",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 98187,
+  "xtream": {
+    "seriesId": 1284
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3193748",
+          "episodeId": 3193748,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Irregulares de Baker Street S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193749",
+          "episodeId": 3193749,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Irregulares de Baker Street S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193750",
+          "episodeId": 3193750,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Irregulares de Baker Street S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193751",
+          "episodeId": 3193751,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Irregulares de Baker Street S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193752",
+          "episodeId": 3193752,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Irregulares de Baker Street S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193753",
+          "episodeId": 3193753,
+          "season": 1,
+          "episode": 6,
+          "title": "Os Irregulares de Baker Street S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193754",
+          "episodeId": 3193754,
+          "season": 1,
+          "episode": 7,
+          "title": "Os Irregulares de Baker Street S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193755",
+          "episodeId": 3193755,
+          "season": 1,
+          "episode": 8,
+          "title": "Os Irregulares de Baker Street S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

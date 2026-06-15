@@ -1,0 +1,50 @@
+{
+  "id": "movie_3125879",
+  "type": "movie",
+  "title": "Sonho Olímpico",
+  "originalTitle": "Olympic Dreams",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/mQxTK2Tg8YKNJFpg6bt48IoG7py.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Av1IQdnL1n4Y8rvVms8ygRxenHi.jpg",
+  "overview": "Penelope é uma jovem esquiadora que participa pela primeira vez da Olimpíada de Inverno, na qual se encanta com o dentista voluntário Ezra. Dando suporte um ao outro, eles acabam criando um laço inesperado.",
+  "rating": 6.1,
+  "runtime": 1,
+  "genres": [
+    "comedia",
+    "drama",
+    "romance"
+  ],
+  "cast": [
+    {
+      "name": "Nick Kroll",
+      "character": "Ezra",
+      "profile": "https://image.tmdb.org/t/p/w185/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg"
+    },
+    {
+      "name": "Alexi Pappas",
+      "character": "Penelope",
+      "profile": "https://image.tmdb.org/t/p/w185/1yEWzV0efrkw6zLt2TyaXPt0IVr.jpg"
+    },
+    {
+      "name": "Gus Kenworthy",
+      "character": "Gus",
+      "profile": "https://image.tmdb.org/t/p/w185/XAI1wxZIlQlhNuIhMZoc80vaVH.jpg"
+    },
+    {
+      "name": "Morgan Schild",
+      "character": "Maggie",
+      "profile": ""
+    },
+    {
+      "name": "Jamie Anderson",
+      "character": "Beauty Salon Athlete",
+      "profile": ""
+    }
+  ],
+  "director": "Jeremy Teicher",
+  "tmdbId": 575941,
+  "xtream": {
+    "streamId": 3125879,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_7519",
+  "type": "series",
+  "title": "Os Assassinatos da Loja de Iogurte",
+  "originalTitle": "The Yogurt Shop Murders",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/iRxkWxg7SRUw4CCgGV9qUsyl7BT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hDnZH0EnLJyAc4c1tu0mRE2O6qr.jpg",
+  "overview": "Docussérie que investiga os assassinatos de quatro garotas em uma loja de frozen iogurte no Texas, em 1991, revelando o profundo trauma vivido por suas famílias, as falsas confissões que confundiram o caso e as décadas de luta por justiça.",
+  "rating": 6.6,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 277831,
+  "xtream": {
+    "seriesId": 7519
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3366706",
+          "episodeId": 3366706,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Assassinatos da Loja de Iogurte [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3366707",
+          "episodeId": 3366707,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Assassinatos da Loja de Iogurte [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3366708",
+          "episodeId": 3366708,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Assassinatos da Loja de Iogurte [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3366709",
+          "episodeId": 3366709,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Assassinatos da Loja de Iogurte [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "series_1905",
+  "type": "series",
+  "title": "Aquaman: Rei de Atlântida",
+  "originalTitle": "Aquaman: King of Atlantis",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/7IaKfcoz91R7t0gscRHuzyuWPVm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5ebwuVn4BfDvMFMDoGXayjynAne.jpg",
+  "overview": "Entre lidar com habitantes sem escrúpulos da superfície, males antigos e seu próprio meio-irmão, Aquaman terá que enfrentar os desafios e provar para seus súditos, e para si mesmo, que ele é o homem certo para o tridente.",
+  "rating": 6.2,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 98137,
+  "xtream": {
+    "seriesId": 1905
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3221249",
+          "episodeId": 3221249,
+          "season": 1,
+          "episode": 1,
+          "title": "Aquaman: King of Atlantis S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221250",
+          "episodeId": 3221250,
+          "season": 1,
+          "episode": 2,
+          "title": "Aquaman: King of Atlantis S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221251",
+          "episodeId": 3221251,
+          "season": 1,
+          "episode": 3,
+          "title": "Aquaman: King of Atlantis S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

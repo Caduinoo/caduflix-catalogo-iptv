@@ -1,0 +1,92 @@
+{
+  "id": "series_3254",
+  "type": "series",
+  "title": "Freeridge",
+  "originalTitle": "Freeridge",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/jSCM3IjyYoLqJW0z6OuIjmSUdYh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1MoNmwLWUYxAu76he68dYGrutjE.jpg",
+  "overview": "Um grupo de adolescentes comprou uma caixa estranha, mas agora precisa reverter a maldição que está arruinando suas vidas.",
+  "rating": 6.6,
+  "genres": [
+    "comedia",
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 136394,
+  "xtream": {
+    "seriesId": 3254
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3259828",
+          "episodeId": 3259828,
+          "season": 1,
+          "episode": 1,
+          "title": "Freeridge S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259829",
+          "episodeId": 3259829,
+          "season": 1,
+          "episode": 2,
+          "title": "Freeridge S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259830",
+          "episodeId": 3259830,
+          "season": 1,
+          "episode": 3,
+          "title": "Freeridge S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259831",
+          "episodeId": 3259831,
+          "season": 1,
+          "episode": 4,
+          "title": "Freeridge S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259832",
+          "episodeId": 3259832,
+          "season": 1,
+          "episode": 5,
+          "title": "Freeridge S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259833",
+          "episodeId": 3259833,
+          "season": 1,
+          "episode": 6,
+          "title": "Freeridge S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259834",
+          "episodeId": 3259834,
+          "season": 1,
+          "episode": 7,
+          "title": "Freeridge S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259835",
+          "episodeId": 3259835,
+          "season": 1,
+          "episode": 8,
+          "title": "Freeridge S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

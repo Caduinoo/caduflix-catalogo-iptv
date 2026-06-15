@@ -1,0 +1,90 @@
+{
+  "id": "series_2864",
+  "type": "series",
+  "title": "Prisma",
+  "originalTitle": "Prisma",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/dsHR29EQnCZcMRTc8bzDkwY9mRh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6WTkgbEibXUSLChEP6VFcLTfcEX.jpg",
+  "overview": "A série explora as relações e identidades de Marco e André, dois gêmeos que parecem idênticos, mas que abordam a vida de formas muito diferentes. Os gêmeos iniciam uma jornada de descoberta e transição do que deveriam ser para o que querem ser, que envolverá também seu grupo de amigos, todos unidos pela busca de seu lugar no mundo.",
+  "rating": 7,
+  "genres": [
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 158053,
+  "xtream": {
+    "seriesId": 2864
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3249807",
+          "episodeId": 3249807,
+          "season": 1,
+          "episode": 1,
+          "title": "Prisma S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249808",
+          "episodeId": 3249808,
+          "season": 1,
+          "episode": 2,
+          "title": "Prisma S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249809",
+          "episodeId": 3249809,
+          "season": 1,
+          "episode": 3,
+          "title": "Prisma S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249810",
+          "episodeId": 3249810,
+          "season": 1,
+          "episode": 4,
+          "title": "Prisma S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249811",
+          "episodeId": 3249811,
+          "season": 1,
+          "episode": 5,
+          "title": "Prisma S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249812",
+          "episodeId": 3249812,
+          "season": 1,
+          "episode": 6,
+          "title": "Prisma S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249813",
+          "episodeId": 3249813,
+          "season": 1,
+          "episode": 7,
+          "title": "Prisma S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249814",
+          "episodeId": 3249814,
+          "season": 1,
+          "episode": 8,
+          "title": "Prisma S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

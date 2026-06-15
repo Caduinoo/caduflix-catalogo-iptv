@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "id": "movie_3395211",
+    "type": "movie",
+    "title": "ANIME SE BEBE - CHEER UP BABY - VA TORCER BEBE",
+    "year": null,
+    "poster": "http://cdn38246.radiogaucha.net:80/images/b5deb60d6d6d4f1b09943a48e5d912e4.jpg",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 0,
+    "genres": [
+      "anime",
+      "animacao"
+    ],
+    "xtream": {
+      "streamId": 3395211,
+      "containerExtension": "mp4"
+    }
+  },
+  {
+    "id": "movie_3414485",
+    "type": "movie",
+    "title": "ANIME SE BEBE - CHEER UP BABY - VA TORCER BEBE",
+    "year": 2026,
+    "poster": "http://cdn38246.radiogaucha.net:80/images/b5deb60d6d6d4f1b09943a48e5d912e4.jpg",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 8,
+    "genres": [
+      "anime",
+      "animacao"
+    ],
+    "xtream": {
+      "streamId": 3414485,
+      "containerExtension": "mp4"
+    }
+  }
+]

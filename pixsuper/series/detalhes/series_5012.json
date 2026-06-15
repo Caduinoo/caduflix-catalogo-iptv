@@ -1,0 +1,91 @@
+{
+  "id": "series_5012",
+  "type": "series",
+  "title": "Kennedy",
+  "originalTitle": "Kennedy",
+  "year": 1983,
+  "poster": "https://image.tmdb.org/t/p/w500/a41msrYPkMZe0q9rMAhBBacvz0V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8jcpxgkPvSHRvy2u5WZtECXXxYE.jpg",
+  "overview": "Imagens históricas e grandes personagens da época analisam o \"Fenômeno Bobby\" dos anos 60 e o legado do homem que ajudou a redefinir um país.",
+  "rating": 6.278,
+  "genres": [
+    "drama",
+    "guerra"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 15800,
+  "xtream": {
+    "seriesId": 5012
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3306922",
+          "episodeId": 3306922,
+          "season": 1,
+          "episode": 1,
+          "title": "Kennedy [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306923",
+          "episodeId": 3306923,
+          "season": 1,
+          "episode": 2,
+          "title": "Kennedy [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306924",
+          "episodeId": 3306924,
+          "season": 1,
+          "episode": 3,
+          "title": "Kennedy [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306925",
+          "episodeId": 3306925,
+          "season": 1,
+          "episode": 4,
+          "title": "Kennedy [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306926",
+          "episodeId": 3306926,
+          "season": 1,
+          "episode": 5,
+          "title": "Kennedy [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306927",
+          "episodeId": 3306927,
+          "season": 1,
+          "episode": 6,
+          "title": "Kennedy [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306928",
+          "episodeId": 3306928,
+          "season": 1,
+          "episode": 7,
+          "title": "Kennedy [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306929",
+          "episodeId": 3306929,
+          "season": 1,
+          "episode": 8,
+          "title": "Kennedy [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "series_2468",
+  "type": "series",
+  "title": "Reação Nuclear",
+  "originalTitle": "Meltdown: Three Mile Island",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/6JGixD9P7hOhHBfiTpAdzWcpCxV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bQhaniCnd6PeS0u158UAOiyYmFO.jpg",
+  "overview": "Pessoas que viram de perto o acidente na usina nuclear Three Mile Island, na Pensilvânia, explicam os eventos, as controvérsias e as consequências que duram até hoje.",
+  "rating": 6.875,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 198200,
+  "xtream": {
+    "seriesId": 2468
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3239321",
+          "episodeId": 3239321,
+          "season": 1,
+          "episode": 1,
+          "title": "Reação Nuclear S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239322",
+          "episodeId": 3239322,
+          "season": 1,
+          "episode": 2,
+          "title": "Reação Nuclear S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239323",
+          "episodeId": 3239323,
+          "season": 1,
+          "episode": 3,
+          "title": "Reação Nuclear S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239324",
+          "episodeId": 3239324,
+          "season": 1,
+          "episode": 4,
+          "title": "Reação Nuclear S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

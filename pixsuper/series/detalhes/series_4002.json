@@ -1,0 +1,91 @@
+{
+  "id": "series_4002",
+  "type": "series",
+  "title": "B.O.",
+  "originalTitle": "B.O.",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/z6PaZNt8SNQyJZtSLFXOA31kDCB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mWoDkCl7mbaOw8mlxOwydLNOpPP.jpg",
+  "overview": "Depois de assumir a função de delegado em um novo distrito, o tímido Suzano precisa provar seu valor para a equipe.",
+  "rating": 7.7,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 232644,
+  "xtream": {
+    "seriesId": 4002
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3278869",
+          "episodeId": 3278869,
+          "season": 1,
+          "episode": 1,
+          "title": "B.O. S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278870",
+          "episodeId": 3278870,
+          "season": 1,
+          "episode": 2,
+          "title": "B.O. S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278871",
+          "episodeId": 3278871,
+          "season": 1,
+          "episode": 3,
+          "title": "B.O. S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278872",
+          "episodeId": 3278872,
+          "season": 1,
+          "episode": 4,
+          "title": "B.O. S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278873",
+          "episodeId": 3278873,
+          "season": 1,
+          "episode": 5,
+          "title": "B.O. S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278874",
+          "episodeId": 3278874,
+          "season": 1,
+          "episode": 6,
+          "title": "B.O. S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278875",
+          "episodeId": 3278875,
+          "season": 1,
+          "episode": 7,
+          "title": "B.O. S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278876",
+          "episodeId": 3278876,
+          "season": 1,
+          "episode": 8,
+          "title": "B.O. S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

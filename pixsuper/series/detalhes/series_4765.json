@@ -1,0 +1,76 @@
+{
+  "id": "series_4765",
+  "type": "series",
+  "title": "Detetive Forst",
+  "originalTitle": "Forst",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/m2UGZGtVTsmVLlmw8D08kjiiqSN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bvggkV5OlLywY427fPkNpge63tU.jpg",
+  "overview": "Suspenso por usar métodos pouco convencionais, um detetive se une a uma jornalista para tentar resolver uma série de assassinatos violentos por conta própria.",
+  "rating": 6.2,
+  "genres": [
+    "crime",
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 217522,
+  "xtream": {
+    "seriesId": 4765
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3298923",
+          "episodeId": 3298923,
+          "season": 1,
+          "episode": 1,
+          "title": "Detective Forst S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3298924",
+          "episodeId": 3298924,
+          "season": 1,
+          "episode": 2,
+          "title": "Detective Forst S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3298925",
+          "episodeId": 3298925,
+          "season": 1,
+          "episode": 3,
+          "title": "Detective Forst S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3298926",
+          "episodeId": 3298926,
+          "season": 1,
+          "episode": 4,
+          "title": "Detective Forst S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3298927",
+          "episodeId": 3298927,
+          "season": 1,
+          "episode": 5,
+          "title": "Detective Forst S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3298928",
+          "episodeId": 3298928,
+          "season": 1,
+          "episode": 6,
+          "title": "Detective Forst S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

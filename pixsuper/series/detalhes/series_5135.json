@@ -1,0 +1,59 @@
+{
+  "id": "series_5135",
+  "type": "series",
+  "title": "O Caso Outreau: Um Pesadelo Francês",
+  "originalTitle": "Outreau : Un cauchemar français",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/7cmdHBlYqXmzFK4EOo0VyVlGjmT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/v3m0wLgBdWhQYhPNyLaPBmwcpC9.jpg",
+  "overview": "Esta série documental revisita o caso Outreau, uma tragédia envolvendo abuso infantil e erro judicial que resultou em um dos maiores escândalos na história da França.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 247665,
+  "xtream": {
+    "seriesId": 5135
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308899",
+          "episodeId": 3308899,
+          "season": 1,
+          "episode": 1,
+          "title": "O Caso Outreau Um Pesadelo Frances S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308900",
+          "episodeId": 3308900,
+          "season": 1,
+          "episode": 2,
+          "title": "O Caso Outreau Um Pesadelo Frances S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308901",
+          "episodeId": 3308901,
+          "season": 1,
+          "episode": 3,
+          "title": "O Caso Outreau Um Pesadelo Frances S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308902",
+          "episodeId": 3308902,
+          "season": 1,
+          "episode": 4,
+          "title": "O Caso Outreau Um Pesadelo Frances S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

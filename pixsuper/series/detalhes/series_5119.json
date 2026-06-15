@@ -1,0 +1,84 @@
+{
+  "id": "series_5119",
+  "type": "series",
+  "title": "No Caminho",
+  "originalTitle": "On the Roam",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/iC4SReLwwAiWOAbQghjRjl5UYbQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dhl3koMC87Ar3YncHSQMPwf54Lq.jpg",
+  "overview": "Esta série documental em oito episódios acompanha Jason Momoa em viagens pelos Estados Unidos, onde o astro busca novas aventuras e amizades.",
+  "rating": 6.533,
+  "genres": [
+    "documentario",
+    "acao",
+    "aventura"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 242945,
+  "xtream": {
+    "seriesId": 5119
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308743",
+          "episodeId": 3308743,
+          "season": 1,
+          "episode": 1,
+          "title": "No Caminho S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308744",
+          "episodeId": 3308744,
+          "season": 1,
+          "episode": 2,
+          "title": "No Caminho S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308745",
+          "episodeId": 3308745,
+          "season": 1,
+          "episode": 3,
+          "title": "No Caminho S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308746",
+          "episodeId": 3308746,
+          "season": 1,
+          "episode": 4,
+          "title": "No Caminho S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308747",
+          "episodeId": 3308747,
+          "season": 1,
+          "episode": 5,
+          "title": "No Caminho S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308748",
+          "episodeId": 3308748,
+          "season": 1,
+          "episode": 6,
+          "title": "No Caminho S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308749",
+          "episodeId": 3308749,
+          "season": 1,
+          "episode": 7,
+          "title": "No Caminho S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

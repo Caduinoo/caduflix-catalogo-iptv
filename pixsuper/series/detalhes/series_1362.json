@@ -1,0 +1,58 @@
+{
+  "id": "series_1362",
+  "type": "series",
+  "title": "O Segredo das Baleias",
+  "originalTitle": "Secrets of the Whales",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/cX8AuzY7xhWnFAROk28FuwVicJr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s6TARldXJKt5zvfo8ijY8SPzW31.jpg",
+  "overview": "O Segredo das Baleias faz os espectadores mergulharem profundamente no epicentro da cultura das baleias, para observarem as habilidades extraordinárias de comunicação e estruturas sociais intrincadas de cinco diferentes espécies de baleias. Filmado ao longo de 3 anos em 24 locais diferentes, ao longo dessa jornada épica, nós aprendemos que as baleias são muito mais complexas e parecidas conosco do que jamais imaginamos.",
+  "rating": 7.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 106899,
+  "xtream": {
+    "seriesId": 1362
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3196296",
+          "episodeId": 3196296,
+          "season": 1,
+          "episode": 1,
+          "title": "O Segredo das Baleias S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3196297",
+          "episodeId": 3196297,
+          "season": 1,
+          "episode": 2,
+          "title": "O Segredo das Baleias S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3196298",
+          "episodeId": 3196298,
+          "season": 1,
+          "episode": 3,
+          "title": "O Segredo das Baleias S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3196299",
+          "episodeId": 3196299,
+          "season": 1,
+          "episode": 4,
+          "title": "O Segredo das Baleias S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

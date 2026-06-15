@@ -1,0 +1,67 @@
+{
+  "id": "series_2051",
+  "type": "series",
+  "title": "Gil na Califórnia",
+  "originalTitle": "Gil na Califórnia",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/mWUo21drlb6Jwb7Ika0KFsQYp1V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xFBMHs6Am2wnoIA1SclHXexhH8D.jpg",
+  "overview": "A trajetória de Gil do Vigor, como é mais conhecido, desde as dificuldades da sua infância no Recife até a mudança para os Estados Unidos, onde ele cursa atualmente o doutorado.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 139575,
+  "xtream": {
+    "seriesId": 2051
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3226002",
+          "episodeId": 3226002,
+          "season": 1,
+          "episode": 1,
+          "title": "Gil na Califórnia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226003",
+          "episodeId": 3226003,
+          "season": 1,
+          "episode": 2,
+          "title": "Gil na Califórnia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226004",
+          "episodeId": 3226004,
+          "season": 1,
+          "episode": 3,
+          "title": "Gil na Califórnia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226005",
+          "episodeId": 3226005,
+          "season": 1,
+          "episode": 4,
+          "title": "Gil na Califórnia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226006",
+          "episodeId": 3226006,
+          "season": 1,
+          "episode": 5,
+          "title": "Gil na Califórnia S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

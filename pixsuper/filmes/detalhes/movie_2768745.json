@@ -1,0 +1,40 @@
+{
+  "id": "movie_2768745",
+  "type": "movie",
+  "title": "Borboleta",
+  "originalTitle": "Borboleta",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/hgo7ILgVLkAZxbHurhIlvkMacUH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kQStVjZvn7zHlqAD2hsnAP3JBhJ.jpg",
+  "overview": "Lelê lida com a perda de alguém próximo, navegando pela dor e o luto até encontrar um novo sentido e paz.",
+  "rating": 5.5,
+  "runtime": 10,
+  "genres": [
+    "animacao",
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Letícia Silva",
+      "character": "Lelê",
+      "profile": ""
+    },
+    {
+      "name": "Dan Claudino",
+      "character": "Lucas",
+      "profile": "https://image.tmdb.org/t/p/w185/7F6Fhs8k63Nr8SkaQJKtjpN2Umb.jpg"
+    },
+    {
+      "name": "Fernanda Bou Anni",
+      "character": "Amiga",
+      "profile": ""
+    }
+  ],
+  "director": "Fernanda Bou Anni",
+  "tmdbId": 1329397,
+  "xtream": {
+    "streamId": 2768745,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "series_3586",
+  "type": "series",
+  "title": "Smartless: Na Estrada",
+  "originalTitle": "SmartLess: On the Road",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/7HCVDu6r9QpvAy15zIAWF1fh3Ct.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pp5almBRuulg0LgTp8LCXPLhYqB.jpg",
+  "overview": "Caia na estrada com Will Arnett, Jason Bateman e Sean Hayes para acompanhar de perto a turnê ao vivo do podcast \"SmartLess\". Viajando de cidade em cidade, o trio recebe convidados muito especiais como Conan O'Brien, Will Ferrell e outros.",
+  "rating": 8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 224382,
+  "xtream": {
+    "seriesId": 3586
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3267560",
+          "episodeId": 3267560,
+          "season": 1,
+          "episode": 1,
+          "title": "Smartless: Na Estrada S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267561",
+          "episodeId": 3267561,
+          "season": 1,
+          "episode": 2,
+          "title": "Smartless: Na Estrada S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267562",
+          "episodeId": 3267562,
+          "season": 1,
+          "episode": 3,
+          "title": "Smartless: Na Estrada S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267563",
+          "episodeId": 3267563,
+          "season": 1,
+          "episode": 4,
+          "title": "Smartless: Na Estrada S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267564",
+          "episodeId": 3267564,
+          "season": 1,
+          "episode": 5,
+          "title": "Smartless: Na Estrada S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267565",
+          "episodeId": 3267565,
+          "season": 1,
+          "episode": 6,
+          "title": "Smartless: Na Estrada S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

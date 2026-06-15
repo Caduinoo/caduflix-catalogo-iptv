@@ -1,0 +1,39 @@
+{
+  "id": "movie_2777340",
+  "type": "movie",
+  "title": "Goodbye Stranger",
+  "originalTitle": "Goodbye Stranger",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/bOtFTKrUqZ5sriwsuktQimnWztZ.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 16,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Charley Rowan McCain",
+      "character": "Lily",
+      "profile": "https://image.tmdb.org/t/p/w185/pATxYKSESMgY9ziEhQG9Uw08sZI.jpg"
+    },
+    {
+      "name": "Max Adler",
+      "character": "Jim",
+      "profile": "https://image.tmdb.org/t/p/w185/tOW5l3r73G6odIZsAKNgRUhFkMI.jpg"
+    },
+    {
+      "name": "Jim O'Heir",
+      "character": "Cliff",
+      "profile": "https://image.tmdb.org/t/p/w185/qrdzPtyh0lWQp8ZxRvWDqBxyi0P.jpg"
+    }
+  ],
+  "director": "Neil Zafar Haeems",
+  "tmdbId": 1356697,
+  "xtream": {
+    "streamId": 2777340,
+    "containerExtension": "mp4"
+  }
+}

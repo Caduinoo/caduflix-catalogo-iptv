@@ -1,0 +1,55 @@
+{
+  "id": "movie_3123478",
+  "type": "movie",
+  "title": "Sombras do Terror",
+  "originalTitle": "The Terror",
+  "year": 1963,
+  "poster": "https://image.tmdb.org/t/p/w500/7ls64LquXB0nc5MkJFWyWaXlBLj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yZ0dExpNW44xrpOG6qHwLV8pq3P.jpg",
+  "overview": "",
+  "rating": 5.156,
+  "runtime": 79,
+  "genres": [
+    "terror",
+    "misterio",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Boris Karloff",
+      "character": "Baron Victor Frederick Von Leppe",
+      "profile": "https://image.tmdb.org/t/p/w185/fVi0QkiziavXB8HnWk5NzRcnCO1.jpg"
+    },
+    {
+      "name": "Jack Nicholson",
+      "character": "Lt. Andre Duvalier",
+      "profile": "https://image.tmdb.org/t/p/w185/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+    },
+    {
+      "name": "Sandra Knight",
+      "character": "Helene / Ghost of Ilsa The Baroness Von Leppe",
+      "profile": "https://image.tmdb.org/t/p/w185/nRbocQ8VvImE3SCMWWng66v4c1X.jpg"
+    },
+    {
+      "name": "Dick Miller",
+      "character": "Stefan",
+      "profile": "https://image.tmdb.org/t/p/w185/zyQXh8BkLg0DDo23pxJN2dy6Bqj.jpg"
+    },
+    {
+      "name": "Dorothy Neumann",
+      "character": "Katrina, Witch / Eric's Mother",
+      "profile": "https://image.tmdb.org/t/p/w185/k6bisxSgSwMRbHkxKYbeYpIg60J.jpg"
+    },
+    {
+      "name": "Jonathan Haze",
+      "character": "Gustaf",
+      "profile": "https://image.tmdb.org/t/p/w185/lFKaVuZW3gHF1Qw4CZQS5ZPr926.jpg"
+    }
+  ],
+  "director": "Roger Corman",
+  "tmdbId": 31655,
+  "xtream": {
+    "streamId": 3123478,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "series_7483",
+  "type": "series",
+  "title": "Uma Fazenda de Flores",
+  "originalTitle": "Growing Floret",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/qduIKCuMWaPqoPq3NpmgIXdiJQB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aUD5wjgRmw4xlNYuzxfBPHQes8P.jpg",
+  "overview": "Erin e Chris Benzakein passaram a última década construindo o negócio da família, Floret Farms, no fértil Vale do Rio Skagit. Agora, eles arriscam tudo para recuperar uma área de quase 100 mil metros quadrados e expandir o negócio.",
+  "rating": 0,
+  "genres": [
+    "reality"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 209356,
+  "xtream": {
+    "seriesId": 7483
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3366207",
+          "episodeId": 3366207,
+          "season": 1,
+          "episode": 1,
+          "title": "Uma Fazenda de Flores S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3366208",
+          "episodeId": 3366208,
+          "season": 1,
+          "episode": 2,
+          "title": "Uma Fazenda de Flores S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3366209",
+          "episodeId": 3366209,
+          "season": 1,
+          "episode": 3,
+          "title": "Uma Fazenda de Flores S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3366210",
+          "episodeId": 3366210,
+          "season": 1,
+          "episode": 4,
+          "title": "Uma Fazenda de Flores S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

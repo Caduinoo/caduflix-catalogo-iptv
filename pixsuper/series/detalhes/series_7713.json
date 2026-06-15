@@ -1,0 +1,62 @@
+{
+  "id": "series_7713",
+  "type": "series",
+  "title": "Marvel Zumbis",
+  "originalTitle": "Marvel Zombies",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/aTgFMz0CSVCDCgq0e93X0oNT2Dp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+  "overview": "Depois que os Vingadores foram dominados por uma praga zumbi, um grupo desesperado de sobreviventes descobre a chave para acabar com os mortos-vivos superpoderosos, percorrendo uma paisagem distópica e arriscando a vida e os membros para salvarem seu mundo.",
+  "rating": 7.259,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "animacao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 138505,
+  "xtream": {
+    "seriesId": 7713
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3370646",
+          "episodeId": 3370646,
+          "season": 1,
+          "episode": 1,
+          "title": "Marvel Zombies S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3370647",
+          "episodeId": 3370647,
+          "season": 1,
+          "episode": 2,
+          "title": "Marvel Zombies S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3370648",
+          "episodeId": 3370648,
+          "season": 1,
+          "episode": 3,
+          "title": "Marvel Zombies S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3370649",
+          "episodeId": 3370649,
+          "season": 1,
+          "episode": 4,
+          "title": "Marvel Zombies S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

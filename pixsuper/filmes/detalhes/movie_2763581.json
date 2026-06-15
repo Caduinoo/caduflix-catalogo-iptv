@@ -1,0 +1,41 @@
+{
+  "id": "movie_2763581",
+  "type": "movie",
+  "title": "O Hóspede",
+  "originalTitle": "O Hóspede",
+  "year": 2011,
+  "poster": "https://image.tmdb.org/t/p/w500/byuYlsxp53lRxa3jmgOjrpjdXOc.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6.8,
+  "runtime": 17,
+  "genres": [
+    "misterio",
+    "ficcao",
+    "suspense",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Fernando Teixeira",
+      "character": "Edgar",
+      "profile": "https://image.tmdb.org/t/p/w185/qcUlYCrCUOtIC1ywSi04vhDSBx9.jpg"
+    },
+    {
+      "name": "Soia Lira",
+      "character": "Esmeralda",
+      "profile": "https://image.tmdb.org/t/p/w185/7MXEjIPDRxTxq1FQ2FgmdAhJX3k.jpg"
+    },
+    {
+      "name": "Walmar Pessoa",
+      "character": "O Hóspede",
+      "profile": ""
+    }
+  ],
+  "director": "Ramon Porto Mota",
+  "tmdbId": 274933,
+  "xtream": {
+    "streamId": 2763581,
+    "containerExtension": "mp4"
+  }
+}

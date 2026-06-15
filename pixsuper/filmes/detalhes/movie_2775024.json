@@ -1,0 +1,33 @@
+{
+  "id": "movie_2775024",
+  "type": "movie",
+  "title": "Vermin",
+  "originalTitle": "Vermin",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/yxJiT53rBEHLxoosd73jjeIEijE.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 12,
+  "genres": [
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Mackenzie Mazur",
+      "character": "Beverly",
+      "profile": "https://image.tmdb.org/t/p/w185/7n220fjBXEvbeqYv98XUCJ0koP5.jpg"
+    },
+    {
+      "name": "Kate Thurkle",
+      "character": "Charlie",
+      "profile": ""
+    }
+  ],
+  "director": "Jonah Howell",
+  "tmdbId": 1247242,
+  "xtream": {
+    "streamId": 2775024,
+    "containerExtension": "mp4"
+  }
+}

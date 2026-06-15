@@ -1,0 +1,39 @@
+{
+  "id": "movie_2779720",
+  "type": "movie",
+  "title": "Trip",
+  "originalTitle": "Trip",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/pbqQGtmc41hRZyBQZuFlAXfW8ON.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5.5,
+  "runtime": 23,
+  "genres": [
+    "musica",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Jhené Aiko",
+      "character": "Penny",
+      "profile": "https://image.tmdb.org/t/p/w185/aire10SYnNY7LksGnMx4HT11PXj.jpg"
+    },
+    {
+      "name": "Ben Whalen",
+      "character": "Dante",
+      "profile": "https://image.tmdb.org/t/p/w185/kFH6tbozF1jy53dV9w3DGVNnV7s.jpg"
+    },
+    {
+      "name": "Alex Benjamin",
+      "character": "Ayo",
+      "profile": "https://image.tmdb.org/t/p/w185/bh7tmYB7KdQChT4lfi60o3DrJqd.jpg"
+    }
+  ],
+  "director": "Tracy Oliver",
+  "tmdbId": 478140,
+  "xtream": {
+    "streamId": 2779720,
+    "containerExtension": "mp4"
+  }
+}

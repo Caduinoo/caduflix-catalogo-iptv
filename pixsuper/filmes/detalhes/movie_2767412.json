@@ -1,0 +1,44 @@
+{
+  "id": "movie_2767412",
+  "type": "movie",
+  "title": "A Colheita",
+  "originalTitle": "A Colheita",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/1OP0tCN36vC1WuMvjDD5tEXa2xw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7p8YFhviUbjwclrGrfDI6TdYjj2.jpg",
+  "overview": "Joaquim, um idoso iletrado com problemas de memória recebe um quadro de sua esposa que o faz ter fragmentos de memória de dois jovens caminhando por uma floresta. Após vasculhar seu armário acaba encontrando uma carta nunca lida. Depois de pedir pra sua esposa ler a carta ele finalmente consegue se lembrar de Samuel, uma antiga paixão que ele escondeu por muitos anos.",
+  "rating": 10,
+  "runtime": 9,
+  "genres": [
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Al Nascimento",
+      "character": "Joaquim",
+      "profile": "https://image.tmdb.org/t/p/w185/tDOtDywU6KK8W5zASLiW6gZTa8m.jpg"
+    },
+    {
+      "name": "Diana Bruner",
+      "character": "Inês",
+      "profile": "https://image.tmdb.org/t/p/w185/uBeMzZhbgS6E7NH8y3Z8m5Wd3Bg.jpg"
+    },
+    {
+      "name": "Pedro Loc",
+      "character": "Samuel",
+      "profile": "https://image.tmdb.org/t/p/w185/lpXWXzqxpeVGGZ98vXe38IPV9fZ.jpg"
+    },
+    {
+      "name": "Vinicius Romero",
+      "character": "Joaquim Jovem",
+      "profile": "https://image.tmdb.org/t/p/w185/if67dtNhlvv8pFJpaGBxVfR0I9W.jpg"
+    }
+  ],
+  "director": "Luiza Lucena",
+  "tmdbId": 1297968,
+  "xtream": {
+    "streamId": 2767412,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "series_1145",
+  "type": "series",
+  "title": "Sakho & Mangane",
+  "originalTitle": "Sakho et Mangane",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/cWsDh5Q19PpqNOe1CE9RLd7pRvv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vHRuRsE6zlGk1WJrT5j7vfk1wtU.jpg",
+  "overview": "Um capitão de polícia certinho e um detetive impetuoso precisam se unir para enfrentar as forças sobrenaturais que assolam Dacar.",
+  "rating": 5.8,
+  "genres": [
+    "comedia",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 115345,
+  "xtream": {
+    "seriesId": 1145
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3187290",
+          "episodeId": 3187290,
+          "season": 1,
+          "episode": 1,
+          "title": "Sakho Mangane [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187291",
+          "episodeId": 3187291,
+          "season": 1,
+          "episode": 2,
+          "title": "Sakho Mangane [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187292",
+          "episodeId": 3187292,
+          "season": 1,
+          "episode": 3,
+          "title": "Sakho Mangane [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187293",
+          "episodeId": 3187293,
+          "season": 1,
+          "episode": 4,
+          "title": "Sakho Mangane [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187294",
+          "episodeId": 3187294,
+          "season": 1,
+          "episode": 5,
+          "title": "Sakho Mangane [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187295",
+          "episodeId": 3187295,
+          "season": 1,
+          "episode": 6,
+          "title": "Sakho Mangane [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187296",
+          "episodeId": 3187296,
+          "season": 1,
+          "episode": 7,
+          "title": "Sakho Mangane [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187297",
+          "episodeId": 3187297,
+          "season": 1,
+          "episode": 8,
+          "title": "Sakho Mangane [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "series_7136",
+  "type": "series",
+  "title": "Planeta Terra III",
+  "originalTitle": "Planet Earth III",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/kGOAzLxXIwvoTW2onLbHE9LbpRt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3TOUvY2NZx8r31UHA3CQdRAY271.jpg",
+  "overview": "Viajando até aos confins de nosso planeta, esta série em oito partes acompanha algumas das espécies mais incríveis do mundo, contando histórias extraordinárias que são dramáticas, emocionantes, engraçadas e, por vezes, comoventes, mas sempre cheias de esperança.",
+  "rating": 8.5,
+  "genres": [
+    "documentario",
+    "familia",
+    "infantil"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 116156,
+  "xtream": {
+    "seriesId": 7136
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3357959",
+          "episodeId": 3357959,
+          "season": 1,
+          "episode": 1,
+          "title": "Planeta Terra II S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357960",
+          "episodeId": 3357960,
+          "season": 1,
+          "episode": 2,
+          "title": "Planeta Terra II S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357961",
+          "episodeId": 3357961,
+          "season": 1,
+          "episode": 3,
+          "title": "Planeta Terra II S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357962",
+          "episodeId": 3357962,
+          "season": 1,
+          "episode": 4,
+          "title": "Planeta Terra II S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357963",
+          "episodeId": 3357963,
+          "season": 1,
+          "episode": 5,
+          "title": "Planeta Terra II S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357964",
+          "episodeId": 3357964,
+          "season": 1,
+          "episode": 6,
+          "title": "Planeta Terra II S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "series_4857",
+  "type": "series",
+  "title": "O Maior Assalto",
+  "originalTitle": "El robo del siglo",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/fWrLw2rHz2W8n8fZjc156hkhTxX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7iBs4QZXYDwQt5Cf0mhrOWKbYFT.jpg",
+  "overview": "Em 1994, uma quadrilha planeja um roubo milionário ao Banco Central da Colômbia. Inspirada em fatos reais.",
+  "rating": 7.259,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 104555,
+  "xtream": {
+    "seriesId": 4857
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3301450",
+          "episodeId": 3301450,
+          "season": 1,
+          "episode": 1,
+          "title": "O Assalto S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3301451",
+          "episodeId": 3301451,
+          "season": 1,
+          "episode": 2,
+          "title": "O Assalto S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3301452",
+          "episodeId": 3301452,
+          "season": 1,
+          "episode": 3,
+          "title": "O Assalto S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

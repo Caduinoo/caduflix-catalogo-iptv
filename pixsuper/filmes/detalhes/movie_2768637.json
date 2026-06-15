@@ -1,0 +1,35 @@
+{
+  "id": "movie_2768637",
+  "type": "movie",
+  "title": "Belinda",
+  "originalTitle": "Belinda",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/oDPULbVedCJASmuCvSy4PxLvsm6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3N61OdAfeI4Mjwmc0Ik5Icq7aWe.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 23,
+  "genres": [
+    "drama",
+    "familia",
+    "infantil"
+  ],
+  "cast": [
+    {
+      "name": "Claus Bue",
+      "character": "Holger",
+      "profile": "https://image.tmdb.org/t/p/w185/4Fs6UdZFkqEI4ERoEYsGIHeT77J.jpg"
+    },
+    {
+      "name": "Annemette Andersen",
+      "character": "Linda",
+      "profile": "https://image.tmdb.org/t/p/w185/1Bp2WSnxwZ4POkcZ9rO5wtVhwWy.jpg"
+    }
+  ],
+  "director": "Maureen Payne-Hahner",
+  "tmdbId": 1479003,
+  "xtream": {
+    "streamId": 2768637,
+    "containerExtension": "mp4"
+  }
+}

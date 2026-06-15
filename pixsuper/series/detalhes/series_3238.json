@@ -1,0 +1,93 @@
+{
+  "id": "series_3238",
+  "type": "series",
+  "title": "Lockwood & Co.",
+  "originalTitle": "Lockwood & Co.",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/lxWSGo8D6MbFbQmM9tqhbaG80TP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/t65wB2iajohomOYqcQVwjBFebHh.jpg",
+  "overview": "Em um mundo infestado de fantasmas, três adolescentes se juntam em investigações paranormais e arriscam tudo para desvendar uma conspiração diabólica.",
+  "rating": 7.6,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213241,
+  "xtream": {
+    "seriesId": 3238
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3259004",
+          "episodeId": 3259004,
+          "season": 1,
+          "episode": 1,
+          "title": "Lockwood & Co. S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259005",
+          "episodeId": 3259005,
+          "season": 1,
+          "episode": 2,
+          "title": "Lockwood & Co. S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259006",
+          "episodeId": 3259006,
+          "season": 1,
+          "episode": 3,
+          "title": "Lockwood & Co. S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259007",
+          "episodeId": 3259007,
+          "season": 1,
+          "episode": 4,
+          "title": "Lockwood & Co. S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259008",
+          "episodeId": 3259008,
+          "season": 1,
+          "episode": 5,
+          "title": "Lockwood & Co. S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259009",
+          "episodeId": 3259009,
+          "season": 1,
+          "episode": 6,
+          "title": "Lockwood & Co. S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259010",
+          "episodeId": 3259010,
+          "season": 1,
+          "episode": 7,
+          "title": "Lockwood & Co. S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259011",
+          "episodeId": 3259011,
+          "season": 1,
+          "episode": 8,
+          "title": "Lockwood & Co. S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

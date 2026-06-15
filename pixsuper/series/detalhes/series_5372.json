@@ -1,0 +1,92 @@
+{
+  "id": "series_5372",
+  "type": "series",
+  "title": "The 8 Show",
+  "originalTitle": "The 8 Show",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/qhMjTKlssxPz3xchJ1DQkDCfy9n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5BvjF6KH25BKSQcNYDdzVhtnPzJ.jpg",
+  "overview": "Oito pessoas presas em um misterioso prédio de oito andares participam de um programa tentador, mas muito perigoso, que dá dinheiro conforme o tempo passa.",
+  "rating": 7.249,
+  "genres": [
+    "misterio",
+    "comedia",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 156484,
+  "xtream": {
+    "seriesId": 5372
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3314901",
+          "episodeId": 3314901,
+          "season": 1,
+          "episode": 1,
+          "title": "The 8 Show S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3314902",
+          "episodeId": 3314902,
+          "season": 1,
+          "episode": 2,
+          "title": "The 8 Show S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3314903",
+          "episodeId": 3314903,
+          "season": 1,
+          "episode": 3,
+          "title": "The 8 Show S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3314904",
+          "episodeId": 3314904,
+          "season": 1,
+          "episode": 4,
+          "title": "The 8 Show S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3314905",
+          "episodeId": 3314905,
+          "season": 1,
+          "episode": 5,
+          "title": "The 8 Show S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3314906",
+          "episodeId": 3314906,
+          "season": 1,
+          "episode": 6,
+          "title": "The 8 Show S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3314907",
+          "episodeId": 3314907,
+          "season": 1,
+          "episode": 7,
+          "title": "The 8 Show S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3314908",
+          "episodeId": 3314908,
+          "season": 1,
+          "episode": 8,
+          "title": "The 8 Show S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

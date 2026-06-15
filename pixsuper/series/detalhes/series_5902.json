@@ -1,0 +1,67 @@
+{
+  "id": "series_5902",
+  "type": "series",
+  "title": "Pra Sempre Paquitas",
+  "originalTitle": "Pra Sempre Paquitas",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/3weyUfCriu7Bm9JDLuEHUHO6dBL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ozwgXhtYyUF7reccdheFdykT3Tg.jpg",
+  "overview": "Nesta série documental, as eternas Paquitas de Xuxa Meneghel revisitam suas experiências nos palcos e nas telas.",
+  "rating": 7.8,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 270579,
+  "xtream": {
+    "seriesId": 5902
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3329411",
+          "episodeId": 3329411,
+          "season": 1,
+          "episode": 1,
+          "title": "Pra Sempre Paquitas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329412",
+          "episodeId": 3329412,
+          "season": 1,
+          "episode": 2,
+          "title": "Pra Sempre Paquitas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329413",
+          "episodeId": 3329413,
+          "season": 1,
+          "episode": 3,
+          "title": "Pra Sempre Paquitas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329414",
+          "episodeId": 3329414,
+          "season": 1,
+          "episode": 4,
+          "title": "Pra Sempre Paquitas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329415",
+          "episodeId": 3329415,
+          "season": 1,
+          "episode": 5,
+          "title": "Pra Sempre Paquitas S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

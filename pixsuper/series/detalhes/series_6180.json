@@ -1,0 +1,58 @@
+{
+  "id": "series_6180",
+  "type": "series",
+  "title": "O Retorno de Simone Biles",
+  "originalTitle": "Simone Biles Rising",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/wfyaNH4OZqNTZ5HleK47lGwwIaN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sHxkM1AvTSg4itM028xviAxI1hx.jpg",
+  "overview": "Acompanhe a ginasta Simone Biles em sua jornada para achar o equilíbrio ideal entre treinamento, vida pessoal e saúde mental antes do tão aguardado retorno às Olimpíadas.",
+  "rating": 6.7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 254930,
+  "xtream": {
+    "seriesId": 6180
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3336881",
+          "episodeId": 3336881,
+          "season": 1,
+          "episode": 1,
+          "title": "O Retorno de Simone Biles S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3336882",
+          "episodeId": 3336882,
+          "season": 1,
+          "episode": 2,
+          "title": "O Retorno de Simone Biles S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3336883",
+          "episodeId": 3336883,
+          "season": 1,
+          "episode": 3,
+          "title": "O Retorno de Simone Biles S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3336884",
+          "episodeId": 3336884,
+          "season": 1,
+          "episode": 4,
+          "title": "O Retorno de Simone Biles S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

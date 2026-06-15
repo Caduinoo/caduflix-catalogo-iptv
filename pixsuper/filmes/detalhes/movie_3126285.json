@@ -1,0 +1,34 @@
+{
+  "id": "movie_3126285",
+  "type": "movie",
+  "title": "Inheritance",
+  "originalTitle": "Inheritance",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/si77FbRflpS8CHsRJdEifNBI0wm.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 8,
+  "genres": [
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Kathie Richardson",
+      "character": "Kate",
+      "profile": "https://image.tmdb.org/t/p/w185/eYwp7wtwEnhwD3a61HiyVD5nc3C.jpg"
+    },
+    {
+      "name": "David Gould",
+      "character": "Tom",
+      "profile": ""
+    }
+  ],
+  "director": "Stephen Broekhuizen",
+  "tmdbId": 1540998,
+  "xtream": {
+    "streamId": 3126285,
+    "containerExtension": "mp4"
+  }
+}

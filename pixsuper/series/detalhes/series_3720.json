@@ -1,0 +1,75 @@
+{
+  "id": "series_3720",
+  "type": "series",
+  "title": "Círculo Fechado",
+  "originalTitle": "Full Circle",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/rIkBQg9c15lw6ydUFUotHqH7BI0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/llFxXeCS1iqU4MPTpY3spBijIRr.jpg",
+  "overview": "Uma investigação sobre um sequestro frustrado revela segredos de longa data que conectam vários personagens e culturas na cidade de Nova York dos dias atuais.",
+  "rating": 6.482,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 132016,
+  "xtream": {
+    "seriesId": 3720
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3270852",
+          "episodeId": 3270852,
+          "season": 1,
+          "episode": 1,
+          "title": "Círculo Fechado S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270853",
+          "episodeId": 3270853,
+          "season": 1,
+          "episode": 2,
+          "title": "Círculo Fechado S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270854",
+          "episodeId": 3270854,
+          "season": 1,
+          "episode": 3,
+          "title": "Círculo Fechado S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270855",
+          "episodeId": 3270855,
+          "season": 1,
+          "episode": 4,
+          "title": "Círculo Fechado S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270856",
+          "episodeId": 3270856,
+          "season": 1,
+          "episode": 5,
+          "title": "Círculo Fechado S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3270857",
+          "episodeId": 3270857,
+          "season": 1,
+          "episode": 6,
+          "title": "Círculo Fechado S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

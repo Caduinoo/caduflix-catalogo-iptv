@@ -1,0 +1,59 @@
+{
+  "id": "series_8571",
+  "type": "series",
+  "title": "Os Dinossauros",
+  "originalTitle": "The Dinosaurs",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/wdpc2htHKoUX42rQNCmlRQ1dMGn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8X2R9uLys3SmkRuQAmSI96xxJAF.jpg",
+  "overview": "Dos primeiros aos últimos dinossauros, esta série documental fascinante explora seu reinado de 165 milhões de anos na Terra e as forças que moldaram essa evolução.",
+  "rating": 7.96,
+  "genres": [
+    "documentario",
+    "animacao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 313298,
+  "xtream": {
+    "seriesId": 8571
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3385762",
+          "episodeId": 3385762,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Dinossauros (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3385763",
+          "episodeId": 3385763,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Dinossauros (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3385764",
+          "episodeId": 3385764,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Dinossauros (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3385765",
+          "episodeId": 3385765,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Dinossauros (2026) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

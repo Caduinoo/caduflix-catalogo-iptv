@@ -1,0 +1,65 @@
+{
+  "id": "series_1910",
+  "type": "series",
+  "title": "Hora de Aventura: Terras Distantes",
+  "originalTitle": "Adventure Time: Distant Lands",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/6J2SIY8huMTNPWudjd1cInMkcLs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vgQnqlVgtlH8dpjX54ChjYZUjE.jpg",
+  "overview": "Finn e Jake, os melhores amigos que atravessaram a mística Terra de Ooo, estão de volta em novas histórias repletas de aventuras, junto com alguns habitantes desse lugar bastante peculiar. Enquanto a dupla redescobre sua amizade, BMO embarca em uma emergência espacial mortal, Marceline e Princesa Jujuba viajam até o Reino de Vidro e Mordomo Menta funda uma escola de magia para tentar salvar a própria reputação",
+  "rating": 8.161,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "comedia",
+    "fantasia",
+    "ficcao",
+    "familia",
+    "infantil"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 94810,
+  "xtream": {
+    "seriesId": 1910
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3221314",
+          "episodeId": 3221314,
+          "season": 1,
+          "episode": 1,
+          "title": "Hora de Aventura: Terras Distantes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221315",
+          "episodeId": 3221315,
+          "season": 1,
+          "episode": 2,
+          "title": "Hora de Aventura: Terras Distantes S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221316",
+          "episodeId": 3221316,
+          "season": 1,
+          "episode": 3,
+          "title": "Hora de Aventura: Terras Distantes S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221317",
+          "episodeId": 3221317,
+          "season": 1,
+          "episode": 4,
+          "title": "Hora de Aventura: Terras Distantes S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

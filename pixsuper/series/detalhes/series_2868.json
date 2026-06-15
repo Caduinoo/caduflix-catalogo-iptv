@@ -1,0 +1,74 @@
+{
+  "id": "series_2868",
+  "type": "series",
+  "title": "Super Natural",
+  "originalTitle": "Super/Natural",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/gdkA762VAb5r4I9cN7mQoqhgBcj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jMJ05hymgeOsKvINHiLUZBOzcx2.jpg",
+  "overview": "Testemunhe os poderes secretos de animais extraordinários, veja o mundo como eles veem e confira o lado Super Natural da natureza como nunca antes. Com James Cameron como produtor executivo e narrada por Benedict Cumberbatch.",
+  "rating": 7.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 157202,
+  "xtream": {
+    "seriesId": 2868
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3249864",
+          "episodeId": 3249864,
+          "season": 1,
+          "episode": 1,
+          "title": "Super Natural S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249865",
+          "episodeId": 3249865,
+          "season": 1,
+          "episode": 2,
+          "title": "Super Natural S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249866",
+          "episodeId": 3249866,
+          "season": 1,
+          "episode": 3,
+          "title": "Super Natural S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249867",
+          "episodeId": 3249867,
+          "season": 1,
+          "episode": 4,
+          "title": "Super Natural S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249868",
+          "episodeId": 3249868,
+          "season": 1,
+          "episode": 5,
+          "title": "Super Natural S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249869",
+          "episodeId": 3249869,
+          "season": 1,
+          "episode": 6,
+          "title": "Super Natural S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

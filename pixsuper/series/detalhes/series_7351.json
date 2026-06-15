@@ -1,0 +1,51 @@
+{
+  "id": "series_7351",
+  "type": "series",
+  "title": "As Mil Mortes de Nora Dalmasso",
+  "originalTitle": "The Many Deaths of Nora Dalmasso",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/6NJDzjLU9Lu6eiw3q1iHwEvFXHr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9txuMkMnK9T50qhb08y6LSP6FEt.jpg",
+  "overview": "Quem matou Nora Dalmasso? Nesta série emocionante sobre um crime real, a família e jornalistas revelam a história de seu assassinato e a repercussão na mídia.",
+  "rating": 7.2,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 293130,
+  "xtream": {
+    "seriesId": 7351
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3363620",
+          "episodeId": 3363620,
+          "season": 1,
+          "episode": 1,
+          "title": "As Mil Mortes de Nora Dalmasso S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3363621",
+          "episodeId": 3363621,
+          "season": 1,
+          "episode": 2,
+          "title": "As Mil Mortes de Nora Dalmasso S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3363622",
+          "episodeId": 3363622,
+          "season": 1,
+          "episode": 3,
+          "title": "As Mil Mortes de Nora Dalmasso S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

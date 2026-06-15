@@ -1,0 +1,51 @@
+{
+  "id": "series_2439",
+  "type": "series",
+  "title": "O Piloto Invisível",
+  "originalTitle": "The Invisible Pilot",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/34pHwSQlwF97InaD4vC1xrXrNL2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gTcjrc4lH7CMwDDKMAIbKbfUoiB.jpg",
+  "overview": "A história segue a vida de um marido e pai carismático e imprudente que inesperadamente pulou de uma ponte em 1977, apesar de levar uma vida familiar aparentemente feliz e uma carreira lucrativa como piloto. Depois que sua comunidade de uma cidadezinha do Arkansas passa anos procurando em vão por seu corpo, e sua família e amigos buscando respostas, surge uma história misteriosa.",
+  "rating": 6.3,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 195099,
+  "xtream": {
+    "seriesId": 2439
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3238882",
+          "episodeId": 3238882,
+          "season": 1,
+          "episode": 1,
+          "title": "O Piloto Invisível S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238883",
+          "episodeId": 3238883,
+          "season": 1,
+          "episode": 2,
+          "title": "O Piloto Invisível S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238884",
+          "episodeId": 3238884,
+          "season": 1,
+          "episode": 3,
+          "title": "O Piloto Invisível S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

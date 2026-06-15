@@ -1,0 +1,76 @@
+{
+  "id": "series_1920",
+  "type": "series",
+  "title": "The Bite",
+  "originalTitle": "The Bite",
+  "year": 1996,
+  "poster": "http://image.tmdb.org/t/p/w300null",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Durante uma segunda onda inesperada e mortal de surto de coronavírus na cidade de Nova York, duas vizinhas, Rachel e Lily, vivem em quarentena. Enquanto Rachel faz malabarismos com seus muito",
+  "rating": 9.5,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "paramount",
+  "tmdbId": 57447,
+  "xtream": {
+    "seriesId": 1920
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3221538",
+          "episodeId": 3221538,
+          "season": 1,
+          "episode": 1,
+          "title": "The Bite S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221539",
+          "episodeId": 3221539,
+          "season": 1,
+          "episode": 2,
+          "title": "The Bite S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221540",
+          "episodeId": 3221540,
+          "season": 1,
+          "episode": 3,
+          "title": "The Bite S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221541",
+          "episodeId": 3221541,
+          "season": 1,
+          "episode": 4,
+          "title": "The Bite S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221542",
+          "episodeId": 3221542,
+          "season": 1,
+          "episode": 5,
+          "title": "The Bite S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3221543",
+          "episodeId": 3221543,
+          "season": 1,
+          "episode": 6,
+          "title": "The Bite S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

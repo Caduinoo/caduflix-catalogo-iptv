@@ -1,0 +1,76 @@
+{
+  "id": "series_7226",
+  "type": "series",
+  "title": "Aparente Maldade",
+  "originalTitle": "Relatively Evil",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/bLPBk2NlrxUm7CEfnxvsuoiFpHH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kcm3Sdovc3hW0QjobM3CMrqviOJ.jpg",
+  "overview": "Cada episódio desta série relata histórias de pessoas que se deixam envolver por uma família aparentemente normal. Depois de algum tempo, elas se veem presas a um clã capaz de cometer abusos, sequestros e até assassinatos.",
+  "rating": 8.3,
+  "genres": [
+    "crime",
+    "documentario",
+    "reality"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 101510,
+  "xtream": {
+    "seriesId": 7226
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3360776",
+          "episodeId": 3360776,
+          "season": 1,
+          "episode": 1,
+          "title": "Aparente Maldade S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360777",
+          "episodeId": 3360777,
+          "season": 1,
+          "episode": 2,
+          "title": "Aparente Maldade S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360778",
+          "episodeId": 3360778,
+          "season": 1,
+          "episode": 3,
+          "title": "Aparente Maldade S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360779",
+          "episodeId": 3360779,
+          "season": 1,
+          "episode": 4,
+          "title": "Aparente Maldade S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360780",
+          "episodeId": 3360780,
+          "season": 1,
+          "episode": 5,
+          "title": "Aparente Maldade S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360781",
+          "episodeId": 3360781,
+          "season": 1,
+          "episode": 6,
+          "title": "Aparente Maldade S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

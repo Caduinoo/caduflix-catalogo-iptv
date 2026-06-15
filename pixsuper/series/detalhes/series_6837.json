@@ -1,0 +1,74 @@
+{
+  "id": "series_6837",
+  "type": "series",
+  "title": "Go! Cartoons",
+  "originalTitle": "Go! Cartoons",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/kdPRukWrreGYYa3ywy8hV0MI94m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wIOfY24pGyvavg8cu0S48XY5oBe.jpg",
+  "overview": "Um jovem corredor tem uma segunda chance ao ganhar uma bolsa de atletismo. Mas será que ele vai realizar seus sonhos sem derrapar nas próprias mentiras?",
+  "rating": 8,
+  "genres": [
+    "animacao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 232235,
+  "xtream": {
+    "seriesId": 6837
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3352905",
+          "episodeId": 3352905,
+          "season": 1,
+          "episode": 1,
+          "title": "Go S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352906",
+          "episodeId": 3352906,
+          "season": 1,
+          "episode": 2,
+          "title": "Go S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352907",
+          "episodeId": 3352907,
+          "season": 1,
+          "episode": 3,
+          "title": "Go S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352908",
+          "episodeId": 3352908,
+          "season": 1,
+          "episode": 4,
+          "title": "Go S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352909",
+          "episodeId": 3352909,
+          "season": 1,
+          "episode": 5,
+          "title": "Go S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352910",
+          "episodeId": 3352910,
+          "season": 1,
+          "episode": 6,
+          "title": "Go S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

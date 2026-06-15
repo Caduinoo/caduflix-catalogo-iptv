@@ -1,0 +1,59 @@
+{
+  "id": "series_3260",
+  "type": "series",
+  "title": "The Teacher",
+  "originalTitle": "The Teacher",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/qiCWlhjAL0SHj0UDDL7DFuZJ2ZT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jV8OMgxMIIyRUmytlhN85F3L0uM.jpg",
+  "overview": "Um thriller psicológico conta a história de Jenna, uma professora popular com uma vida privada caótica. Depois de uma noite comemorando uma promoção, Jenna é acusada de dormir com Kyle Hope, um aluno de 15 anos.",
+  "rating": 6.1,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 156085,
+  "xtream": {
+    "seriesId": 3260
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3259872",
+          "episodeId": 3259872,
+          "season": 1,
+          "episode": 1,
+          "title": "The Teacher S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259873",
+          "episodeId": 3259873,
+          "season": 1,
+          "episode": 2,
+          "title": "The Teacher S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259874",
+          "episodeId": 3259874,
+          "season": 1,
+          "episode": 3,
+          "title": "The Teacher S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259875",
+          "episodeId": 3259875,
+          "season": 1,
+          "episode": 4,
+          "title": "The Teacher S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

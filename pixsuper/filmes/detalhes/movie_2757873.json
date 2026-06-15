@@ -1,0 +1,34 @@
+{
+  "id": "movie_2757873",
+  "type": "movie",
+  "title": "Zoom",
+  "originalTitle": "Zoom",
+  "year": 2007,
+  "poster": "https://image.tmdb.org/t/p/w500/6t5G8RDVGpWByAuDMnBGR3mYCdZ.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5,
+  "runtime": 3,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Ainhoa Ramírez Lucendo",
+      "character": "Mujer",
+      "profile": ""
+    },
+    {
+      "name": "Luis Callejo",
+      "character": "Voz",
+      "profile": "https://image.tmdb.org/t/p/w185/s4SkMqVL7cGNLuCgYDSHzOfiu1p.jpg"
+    }
+  ],
+  "director": "Elías León Siminiani",
+  "tmdbId": 354124,
+  "xtream": {
+    "streamId": 2757873,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "series_1544",
+  "type": "series",
+  "title": "RUN",
+  "originalTitle": "RUN",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/rbYfDspa6vUTAxif5SZJABgB8pr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7aMoV1v6A8uwTRaGV8LHIBcVBuN.jpg",
+  "overview": "A série segue Ruby, que se afasta de sua vida comum depois de receber uma mensagem de seu namorado da faculdade dizendo “RUN”, convidando-a a largar tudo e encontrá-lo para cumprir o pacto que fizeram 17 anos antes.",
+  "rating": 6.495,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 87393,
+  "xtream": {
+    "seriesId": 1544
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3203642",
+          "episodeId": 3203642,
+          "season": 1,
+          "episode": 1,
+          "title": "RUN S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203643",
+          "episodeId": 3203643,
+          "season": 1,
+          "episode": 2,
+          "title": "RUN S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203644",
+          "episodeId": 3203644,
+          "season": 1,
+          "episode": 3,
+          "title": "RUN S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203645",
+          "episodeId": 3203645,
+          "season": 1,
+          "episode": 4,
+          "title": "RUN S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203646",
+          "episodeId": 3203646,
+          "season": 1,
+          "episode": 5,
+          "title": "RUN S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203647",
+          "episodeId": 3203647,
+          "season": 1,
+          "episode": 6,
+          "title": "RUN S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203648",
+          "episodeId": 3203648,
+          "season": 1,
+          "episode": 7,
+          "title": "RUN S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

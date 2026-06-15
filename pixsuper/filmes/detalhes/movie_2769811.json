@@ -1,0 +1,40 @@
+{
+  "id": "movie_2769811",
+  "type": "movie",
+  "title": "Enjaulada",
+  "originalTitle": "Enjaulada",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/6gQbAMOIcHZxqaEPpuXfiu3SDVV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eivf0ousXoa0RWGgzQmlWdTHcvQ.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 20,
+  "genres": [
+    "familia",
+    "infantil",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Koret Cuervo",
+      "character": "Atenea",
+      "profile": "https://image.tmdb.org/t/p/w185/dMPmqMrOTNjY6IYlSw7eCj53k89.jpg"
+    },
+    {
+      "name": "Israel Flores",
+      "character": "Eduardo",
+      "profile": "https://image.tmdb.org/t/p/w185/6XGPl4xBZ4ZXyT9MqAOTkn4Nxsh.jpg"
+    },
+    {
+      "name": "Pedro Berú",
+      "character": "Francisco",
+      "profile": "https://image.tmdb.org/t/p/w185/xmNna5cS3pQG8k6QLQP3iyDmBao.jpg"
+    }
+  ],
+  "director": "Vanessa Picazzo",
+  "tmdbId": 1202944,
+  "xtream": {
+    "streamId": 2769811,
+    "containerExtension": "mp4"
+  }
+}

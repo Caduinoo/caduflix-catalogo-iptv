@@ -1,0 +1,88 @@
+{
+  "id": "series_370",
+  "type": "series",
+  "title": "Criminal - Reino Unido",
+  "originalTitle": "Criminal: UK",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/4WOdzg0BHuGLyB7lSj1rHFYEU2G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3BrydJp2XpdWevRbMP8ZZ0xJYrj.jpg",
+  "overview": "Numa sala de interrogatório em Londres, investigadores questionam suspeitos de crimes hediondos até que a verdade seja revelada.",
+  "rating": 7.188,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 92926,
+  "xtream": {
+    "seriesId": 370
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3149771",
+          "episodeId": 3149771,
+          "season": 1,
+          "episode": 1,
+          "title": "Criminal: UK S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149772",
+          "episodeId": 3149772,
+          "season": 1,
+          "episode": 2,
+          "title": "Criminal: UK S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149773",
+          "episodeId": 3149773,
+          "season": 1,
+          "episode": 3,
+          "title": "Criminal: UK S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3149774",
+          "episodeId": 3149774,
+          "season": 2,
+          "episode": 1,
+          "title": "Criminal: UK S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149775",
+          "episodeId": 3149775,
+          "season": 2,
+          "episode": 2,
+          "title": "Criminal: UK S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149776",
+          "episodeId": 3149776,
+          "season": 2,
+          "episode": 3,
+          "title": "Criminal: UK S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149777",
+          "episodeId": 3149777,
+          "season": 2,
+          "episode": 4,
+          "title": "Criminal: UK S02 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

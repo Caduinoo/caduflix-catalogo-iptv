@@ -1,0 +1,76 @@
+{
+  "id": "series_3440",
+  "type": "series",
+  "title": "Yonderland",
+  "originalTitle": "Yonderland",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/oudkqR3P9qJVgB6QJmHvAV6L1Dw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/l3Xm5xjjvl9PPhI1mpYPhXGK0nB.jpg",
+  "overview": "Yonderland é uma série de sitcom de televisão britânica que foi transmitida na Sky 1 de novembro de 2013 a dezembro de 2016. Foi produzida por Sioned Wiliam e foi criada por, escrita por e estrelada pelos atores principais da série Horrible Histories do CBBC.",
+  "rating": 7.4,
+  "genres": [
+    "comedia",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "paramount",
+  "tmdbId": 63236,
+  "xtream": {
+    "seriesId": 3440
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3263748",
+          "episodeId": 3263748,
+          "season": 1,
+          "episode": 1,
+          "title": "Yonder S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263749",
+          "episodeId": 3263749,
+          "season": 1,
+          "episode": 2,
+          "title": "Yonder S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263750",
+          "episodeId": 3263750,
+          "season": 1,
+          "episode": 3,
+          "title": "Yonder S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263751",
+          "episodeId": 3263751,
+          "season": 1,
+          "episode": 4,
+          "title": "Yonder S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263752",
+          "episodeId": 3263752,
+          "season": 1,
+          "episode": 5,
+          "title": "Yonder S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263753",
+          "episodeId": 3263753,
+          "season": 1,
+          "episode": 6,
+          "title": "Yonder S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "series_8880",
+  "type": "series",
+  "title": "Mãos na Terra",
+  "originalTitle": "This Is a Gardening Show",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/2UQusRJ5HHTMvqMBGPBLwS1ybbE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gIeD6FGxdwmfqDjTGYaAqPE0xO5.jpg",
+  "overview": "Zach Galifianakis mergulha no universo da horticultura, entrevistando crianças curiosas e especialistas excêntricos nesta divertida celebração dos alimentos que comemos.",
+  "rating": 8,
+  "genres": [
+    "comedia",
+    "documentario",
+    "reality"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 316920,
+  "xtream": {
+    "seriesId": 8880
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3390545",
+          "episodeId": 3390545,
+          "season": 1,
+          "episode": 1,
+          "title": "Maos na Terra (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390546",
+          "episodeId": 3390546,
+          "season": 1,
+          "episode": 2,
+          "title": "Maos na Terra (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390547",
+          "episodeId": 3390547,
+          "season": 1,
+          "episode": 3,
+          "title": "Maos na Terra (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390548",
+          "episodeId": 3390548,
+          "season": 1,
+          "episode": 4,
+          "title": "Maos na Terra (2026) [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390549",
+          "episodeId": 3390549,
+          "season": 1,
+          "episode": 5,
+          "title": "Maos na Terra (2026) [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390550",
+          "episodeId": 3390550,
+          "season": 1,
+          "episode": 6,
+          "title": "Maos na Terra (2026) [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

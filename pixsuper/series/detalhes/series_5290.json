@@ -1,0 +1,50 @@
+{
+  "id": "series_5290",
+  "type": "series",
+  "title": "Segredos dos Polvos",
+  "originalTitle": "Secrets of the Octopus",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/9IS81R4PWJDmcIiE4zcBmpBwhtK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bU0QtRVelXGwAPiVdQDP9VClLxw.jpg",
+  "overview": "Os polvos quebram todas as regras da inteligência animal. Eles nascem como órfãos e desenvolvem suas mentes sozinhos, solucionando problemas complexos, criando estratégias e planejando o futuro. Superpoderes que são o segredo do seu sucesso.",
+  "rating": 8.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 157200,
+  "xtream": {
+    "seriesId": 5290
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3311941",
+          "episodeId": 3311941,
+          "season": 1,
+          "episode": 1,
+          "title": "Segredos dos Polvos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311942",
+          "episodeId": 3311942,
+          "season": 1,
+          "episode": 2,
+          "title": "Segredos dos Polvos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311943",
+          "episodeId": 3311943,
+          "season": 1,
+          "episode": 3,
+          "title": "Segredos dos Polvos S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

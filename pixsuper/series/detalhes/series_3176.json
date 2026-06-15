@@ -1,0 +1,66 @@
+{
+  "id": "series_3176",
+  "type": "series",
+  "title": "Hotel Portofino",
+  "originalTitle": "Hotel Portofino",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/916OfS7N9bp18ZtpOUyGwhWu95h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/45q7HugII4otdzxUvwgLKQP3Qqo.jpg",
+  "overview": "Na década de 1920 da Riviera Italiana, Bella Ainsworth gerencia o Hotel Portofino e precisa lidar com os desafios da ascensão do fascismo.",
+  "rating": 6.6,
+  "genres": [
+    "drama"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 155623,
+  "xtream": {
+    "seriesId": 3176
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3257389",
+          "episodeId": 3257389,
+          "season": 1,
+          "episode": 1,
+          "title": "Hotel Portofino S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3257390",
+          "episodeId": 3257390,
+          "season": 1,
+          "episode": 2,
+          "title": "Hotel Portofino S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3257391",
+          "episodeId": 3257391,
+          "season": 1,
+          "episode": 3,
+          "title": "Hotel Portofino S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3257392",
+          "episodeId": 3257392,
+          "season": 1,
+          "episode": 4,
+          "title": "Hotel Portofino S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3257393",
+          "episodeId": 3257393,
+          "season": 1,
+          "episode": 5,
+          "title": "Hotel Portofino S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

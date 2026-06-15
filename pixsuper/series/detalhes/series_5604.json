@@ -1,0 +1,59 @@
+{
+  "id": "series_5604",
+  "type": "series",
+  "title": "Narcoamérica",
+  "originalTitle": "America's War on Drugs",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/w4fO648QTlfIGfI2Qg5TqwhafRa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4gx07utgOHrMRaaahKQ3blT3Ywx.jpg",
+  "overview": "Conheça as origens da guerra às drogas nos Estados Unidos, que abrange cinco décadas, e seus efeitos inesperados sobre a cultura, as instituições e a política norte-americana.",
+  "rating": 6.7,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 72405,
+  "xtream": {
+    "seriesId": 5604
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3319783",
+          "episodeId": 3319783,
+          "season": 1,
+          "episode": 1,
+          "title": "Narcoamerica S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319784",
+          "episodeId": 3319784,
+          "season": 1,
+          "episode": 2,
+          "title": "Narcoamerica S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319785",
+          "episodeId": 3319785,
+          "season": 1,
+          "episode": 3,
+          "title": "Narcoamerica S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319786",
+          "episodeId": 3319786,
+          "season": 1,
+          "episode": 4,
+          "title": "Narcoamerica S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

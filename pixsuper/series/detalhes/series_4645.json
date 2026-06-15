@@ -1,0 +1,90 @@
+{
+  "id": "series_4645",
+  "type": "series",
+  "title": "La casa de papel: De Tóquio a Berlim",
+  "originalTitle": "La casa de papel: De Tokio a Berlín",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/wnJzgLcf4OCGSiqHsAnkjNdQm7Z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gk1enrMtCVABqJd4ujVwIIeswTT.jpg",
+  "overview": "A equipe de \"La casa de papel\", responsável por dar vida a personagens como Tóquio e o Professor, fala sobre o emocionante processo de gravação da série.",
+  "rating": 8.185,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 132719,
+  "xtream": {
+    "seriesId": 4645
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3295971",
+          "episodeId": 3295971,
+          "season": 1,
+          "episode": 1,
+          "title": "La Casa de Papel Berlim S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295972",
+          "episodeId": 3295972,
+          "season": 1,
+          "episode": 2,
+          "title": "La Casa de Papel Berlim S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295973",
+          "episodeId": 3295973,
+          "season": 1,
+          "episode": 3,
+          "title": "La Casa de Papel Berlim S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295974",
+          "episodeId": 3295974,
+          "season": 1,
+          "episode": 4,
+          "title": "La Casa de Papel Berlim S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295975",
+          "episodeId": 3295975,
+          "season": 1,
+          "episode": 5,
+          "title": "La Casa de Papel Berlim S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295976",
+          "episodeId": 3295976,
+          "season": 1,
+          "episode": 6,
+          "title": "La Casa de Papel Berlim S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295977",
+          "episodeId": 3295977,
+          "season": 1,
+          "episode": 7,
+          "title": "La Casa de Papel Berlim S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295978",
+          "episodeId": 3295978,
+          "season": 1,
+          "episode": 8,
+          "title": "La Casa de Papel Berlim S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

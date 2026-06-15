@@ -1,0 +1,42 @@
+{
+  "id": "series_8345",
+  "type": "series",
+  "title": "Gladiadores da Natureza",
+  "originalTitle": "Gladiators",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/d9Wo51aTdlnzuiaOBvULhRVxuV9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sOeiP3Ohn6BU9KMqmskyVGjAuQ8.jpg",
+  "overview": "Armados com armas naturais, astúcia e táticas impressionantes, os gladiadores da natureza estão prontos para a batalha. Alguns lutam por território, outros por comida ou por um parceiro, mas todos têm o mesmo objetivo: sobreviver.",
+  "rating": 6.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 260644,
+  "xtream": {
+    "seriesId": 8345
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3382628",
+          "episodeId": 3382628,
+          "season": 1,
+          "episode": 1,
+          "title": "Gladiadores da Natureza S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3382629",
+          "episodeId": 3382629,
+          "season": 1,
+          "episode": 2,
+          "title": "Gladiadores da Natureza S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

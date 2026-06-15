@@ -1,0 +1,101 @@
+{
+  "id": "series_1150",
+  "type": "series",
+  "title": "WandaVision",
+  "originalTitle": "WandaVision",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+  "overview": "Wanda Maximoff  e Visão, um casal de super-heróis com uma vida perfeita, que começa a suspeitar que nem tudo é o que parece.",
+  "rating": 8.189,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "misterio",
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 85271,
+  "xtream": {
+    "seriesId": 1150
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3187508",
+          "episodeId": 3187508,
+          "season": 1,
+          "episode": 1,
+          "title": "WandaVision S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187509",
+          "episodeId": 3187509,
+          "season": 1,
+          "episode": 2,
+          "title": "WandaVision S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187510",
+          "episodeId": 3187510,
+          "season": 1,
+          "episode": 3,
+          "title": "WandaVision S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187511",
+          "episodeId": 3187511,
+          "season": 1,
+          "episode": 4,
+          "title": "WandaVision S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187512",
+          "episodeId": 3187512,
+          "season": 1,
+          "episode": 5,
+          "title": "WandaVision S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187513",
+          "episodeId": 3187513,
+          "season": 1,
+          "episode": 6,
+          "title": "WandaVision S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187514",
+          "episodeId": 3187514,
+          "season": 1,
+          "episode": 7,
+          "title": "WandaVision S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187515",
+          "episodeId": 3187515,
+          "season": 1,
+          "episode": 8,
+          "title": "WandaVision S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187516",
+          "episodeId": 3187516,
+          "season": 1,
+          "episode": 9,
+          "title": "WandaVision S01 E09",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

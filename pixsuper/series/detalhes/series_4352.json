@@ -1,0 +1,94 @@
+{
+  "id": "series_4352",
+  "type": "series",
+  "title": "Onimusha",
+  "originalTitle": "鬼武者",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/rDjR4tInAxqPGuBEg6IxkEzYSdI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7HNkjJlC3Vk6hQ4zMAJC2CcGqMO.jpg",
+  "overview": "De posse de uma arma demoníaca que consome almas, um espadachim lendário e uma irmandade de samurais tentam deter uma insurreição de zumbis sedentos por sangue.",
+  "rating": 7.5,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 210945,
+  "xtream": {
+    "seriesId": 4352
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3287688",
+          "episodeId": 3287688,
+          "season": 1,
+          "episode": 1,
+          "title": "Onimusha S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287689",
+          "episodeId": 3287689,
+          "season": 1,
+          "episode": 2,
+          "title": "Onimusha S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287690",
+          "episodeId": 3287690,
+          "season": 1,
+          "episode": 3,
+          "title": "Onimusha S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287691",
+          "episodeId": 3287691,
+          "season": 1,
+          "episode": 4,
+          "title": "Onimusha S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287692",
+          "episodeId": 3287692,
+          "season": 1,
+          "episode": 5,
+          "title": "Onimusha S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287693",
+          "episodeId": 3287693,
+          "season": 1,
+          "episode": 6,
+          "title": "Onimusha S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287694",
+          "episodeId": 3287694,
+          "season": 1,
+          "episode": 7,
+          "title": "Onimusha S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287695",
+          "episodeId": 3287695,
+          "season": 1,
+          "episode": 8,
+          "title": "Onimusha S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

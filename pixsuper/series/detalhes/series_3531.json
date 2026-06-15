@@ -1,0 +1,67 @@
+{
+  "id": "series_3531",
+  "type": "series",
+  "title": "A Internet do Mal",
+  "originalTitle": "Devil in the Web",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/btTaA58H4cOIP6Ixloc0cPuecKj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gJS9UG4tQcldDbR9nAmL6udipLz.jpg",
+  "overview": "Os crimes na Internet costumam ter um preço devastador para as vítimas. Estranhos agora podem acessar a vida pessoal de outras pessoas para assediar, violar e até atacá-los fisicamente.",
+  "rating": 6.7,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 202960,
+  "xtream": {
+    "seriesId": 3531
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3265788",
+          "episodeId": 3265788,
+          "season": 1,
+          "episode": 1,
+          "title": "A Internet do Mal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3265789",
+          "episodeId": 3265789,
+          "season": 1,
+          "episode": 2,
+          "title": "A Internet do Mal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3265790",
+          "episodeId": 3265790,
+          "season": 1,
+          "episode": 3,
+          "title": "A Internet do Mal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3265791",
+          "episodeId": 3265791,
+          "season": 1,
+          "episode": 4,
+          "title": "A Internet do Mal S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3265792",
+          "episodeId": 3265792,
+          "season": 1,
+          "episode": 5,
+          "title": "A Internet do Mal S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

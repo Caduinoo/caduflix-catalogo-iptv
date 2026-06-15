@@ -1,0 +1,58 @@
+{
+  "id": "series_576",
+  "type": "series",
+  "title": "Nada Ortodoxa",
+  "originalTitle": "Unorthodox",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/mdH0FbD328BIann1TPVwsPdCi0G.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8Czs5ituRaAQu7BTRPbSkwF2pTr.jpg",
+  "overview": "Para escapar de um casamento arranjado, uma jovem judia foge do Brooklyn para Berlim e se junta a um grupo de músicos. Mas deixar o passado para trás não vai ser fácil.",
+  "rating": 7.715,
+  "genres": [
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 99581,
+  "xtream": {
+    "seriesId": 576
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3156745",
+          "episodeId": 3156745,
+          "season": 1,
+          "episode": 1,
+          "title": "Nada Ortodoxa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156746",
+          "episodeId": 3156746,
+          "season": 1,
+          "episode": 2,
+          "title": "Nada Ortodoxa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156747",
+          "episodeId": 3156747,
+          "season": 1,
+          "episode": 3,
+          "title": "Nada Ortodoxa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156748",
+          "episodeId": 3156748,
+          "season": 1,
+          "episode": 4,
+          "title": "Nada Ortodoxa S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

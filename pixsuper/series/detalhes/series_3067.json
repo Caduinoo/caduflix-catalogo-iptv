@@ -1,0 +1,59 @@
+{
+  "id": "series_3067",
+  "type": "series",
+  "title": "Housing Complex C",
+  "originalTitle": "Housing Complex C",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/dJHp3WlbbBhhKo2h0avTHTrwp4C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kKFUtMcC6oVT18O34MeEWAHMkty.jpg",
+  "overview": "Kimi mora em um pequeno complexo habitacional numa cidade litorânea, onde os problemas parecem segui-la por onde quer que ela vá, e incidentes horríveis começam a acontecer. Será que um espírito maligno persegue os moradores do complexo?",
+  "rating": 7.12,
+  "genres": [
+    "animacao",
+    "misterio"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 195382,
+  "xtream": {
+    "seriesId": 3067
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3255180",
+          "episodeId": 3255180,
+          "season": 1,
+          "episode": 1,
+          "title": "Housing Complex C S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255181",
+          "episodeId": 3255181,
+          "season": 1,
+          "episode": 2,
+          "title": "Housing Complex C S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255182",
+          "episodeId": 3255182,
+          "season": 1,
+          "episode": 3,
+          "title": "Housing Complex C S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255183",
+          "episodeId": 3255183,
+          "season": 1,
+          "episode": 4,
+          "title": "Housing Complex C S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

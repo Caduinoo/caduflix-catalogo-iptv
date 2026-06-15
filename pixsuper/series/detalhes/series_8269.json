@@ -1,0 +1,75 @@
+{
+  "id": "series_8269",
+  "type": "series",
+  "title": "Os casos do Inspetor Vrenko",
+  "originalTitle": "Primeri inšpektorja Vrenka",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/drWN1PQJI8zZpuOCBIxEvvBUBq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fXrCkdeTWhL6vRQizxrXDnmFTY2.jpg",
+  "overview": "Uma série de histórias sobre o inspetor-chefe Martin Vrenko, que enfrenta vários casos incomuns, personagens interessantes, enredos inteligentes e reviravoltas surpreendentes.",
+  "rating": 7.5,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 117079,
+  "xtream": {
+    "seriesId": 8269
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3381514",
+          "episodeId": 3381514,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Casos do Inspetor Vrenko [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3381515",
+          "episodeId": 3381515,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Casos do Inspetor Vrenko [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3381516",
+          "episodeId": 3381516,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Casos do Inspetor Vrenko [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3381517",
+          "episodeId": 3381517,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Casos do Inspetor Vrenko [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3381518",
+          "episodeId": 3381518,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Casos do Inspetor Vrenko [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3381519",
+          "episodeId": 3381519,
+          "season": 1,
+          "episode": 6,
+          "title": "Os Casos do Inspetor Vrenko [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

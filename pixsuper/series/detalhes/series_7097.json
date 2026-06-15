@@ -1,0 +1,75 @@
+{
+  "id": "series_7097",
+  "type": "series",
+  "title": "People Magazine: Crimes da Moda",
+  "originalTitle": "People Magazine Investigates: Crimes of Fashion",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/7HmjF2EV9LGm530fP0WcQ1vtd3f.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rA6jzbwqxCMdsu56uDXeNZdgEuz.jpg",
+  "overview": "Esta série relata casos de crimes reais ocorridos no mundo da moda. Cada episódio acompanha a jornada das vítimas até o topo, entre estilistas e modelos, e os eventos que levaram a seu destino trágico.",
+  "rating": 7.3,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 125842,
+  "xtream": {
+    "seriesId": 7097
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3357003",
+          "episodeId": 3357003,
+          "season": 1,
+          "episode": 1,
+          "title": "People Magazine Crimes da Moda S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357004",
+          "episodeId": 3357004,
+          "season": 1,
+          "episode": 2,
+          "title": "People Magazine Crimes da Moda S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357005",
+          "episodeId": 3357005,
+          "season": 1,
+          "episode": 3,
+          "title": "People Magazine Crimes da Moda S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357006",
+          "episodeId": 3357006,
+          "season": 1,
+          "episode": 4,
+          "title": "People Magazine Crimes da Moda S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357007",
+          "episodeId": 3357007,
+          "season": 1,
+          "episode": 5,
+          "title": "People Magazine Crimes da Moda S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357008",
+          "episodeId": 3357008,
+          "season": 1,
+          "episode": 6,
+          "title": "People Magazine Crimes da Moda S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "series_2489",
+  "type": "series",
+  "title": "The Kids in the Hall",
+  "originalTitle": "The Kids in the Hall",
+  "year": 1989,
+  "poster": "https://image.tmdb.org/t/p/w500/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6OkpAR1IWKYe8bJPt1FVCtcPB7T.jpg",
+  "overview": "Uma nova temporada empolgante traz um novo lote de personagens divertidos e favoritos já amados, com esquetes que dão um soco satírico, misturados com a comédia ousada e destemida da qual os ",
+  "rating": 7.5,
+  "genres": [
+    "comedia",
+    "infantil"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 1551,
+  "xtream": {
+    "seriesId": 2489
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3239557",
+          "episodeId": 3239557,
+          "season": 1,
+          "episode": 1,
+          "title": "The Kids in the Hall S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239558",
+          "episodeId": 3239558,
+          "season": 1,
+          "episode": 2,
+          "title": "The Kids in the Hall S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239559",
+          "episodeId": 3239559,
+          "season": 1,
+          "episode": 3,
+          "title": "The Kids in the Hall S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239560",
+          "episodeId": 3239560,
+          "season": 1,
+          "episode": 4,
+          "title": "The Kids in the Hall S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239561",
+          "episodeId": 3239561,
+          "season": 1,
+          "episode": 5,
+          "title": "The Kids in the Hall S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239562",
+          "episodeId": 3239562,
+          "season": 1,
+          "episode": 6,
+          "title": "The Kids in the Hall S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239563",
+          "episodeId": 3239563,
+          "season": 1,
+          "episode": 7,
+          "title": "The Kids in the Hall S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239564",
+          "episodeId": 3239564,
+          "season": 1,
+          "episode": 8,
+          "title": "The Kids in the Hall S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

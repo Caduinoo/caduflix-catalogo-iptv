@@ -1,0 +1,59 @@
+{
+  "id": "series_5479",
+  "type": "series",
+  "title": "Me Salva Dessa!",
+  "originalTitle": "This Came Out of Me",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/ugPzLIRCbdhonyyZPjDER169u4P.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bVnLsbNjR6RExWoK3eiCBJ7VSwU.jpg",
+  "overview": "Dr. Ruby Rose revela o fascinante mundo da medicina de emergência em todo o Texas, como médicos e equipe de apoio tratam uma grande variedade de pacientes que sofrem de lesões excruciantes, infecções com risco de vida e doenças incomuns.",
+  "rating": 7.8,
+  "genres": [
+    "documentario",
+    "reality"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 155468,
+  "xtream": {
+    "seriesId": 5479
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3316743",
+          "episodeId": 3316743,
+          "season": 1,
+          "episode": 1,
+          "title": "Me Salva Dessa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3316744",
+          "episodeId": 3316744,
+          "season": 1,
+          "episode": 2,
+          "title": "Me Salva Dessa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3316745",
+          "episodeId": 3316745,
+          "season": 1,
+          "episode": 3,
+          "title": "Me Salva Dessa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3316746",
+          "episodeId": 3316746,
+          "season": 1,
+          "episode": 4,
+          "title": "Me Salva Dessa S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

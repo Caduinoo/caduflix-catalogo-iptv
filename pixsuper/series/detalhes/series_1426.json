@@ -1,0 +1,60 @@
+{
+  "id": "series_1426",
+  "type": "series",
+  "title": "A Dança da Morte",
+  "originalTitle": "The Stand",
+  "year": 1994,
+  "poster": "https://image.tmdb.org/t/p/w500/kHV7sGzzpFMb2SypKpLUwNC10sN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mCbh1Mzcu6AlTO4aFlfnwfKsxsE.jpg",
+  "overview": "Na épica visão de Stephen King de um apocalíptico futuro, os poucos sobreviventes de um devastado por uma epidemia tem que se dividir em uma definitiva batalha entre o bem e o mal, que vai decidir o destino da humanidade. Enquanto os seguidores do demoníaco Randall Flagg tramam reconstruir o mundo com sua imagem sombria, um corajoso grupo assume uma heróica missão contra Flagg e seu bando. Lutando contra poderosos desafios, eles vão arriscar mais que suas vidas, enquanto monta uma última e desesperada resistência contra o mal.",
+  "rating": 6.8,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "paramount",
+  "tmdbId": 9045,
+  "xtream": {
+    "seriesId": 1426
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3198155",
+          "episodeId": 3198155,
+          "season": 1,
+          "episode": 1,
+          "title": "A Dança da Morte S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198156",
+          "episodeId": 3198156,
+          "season": 1,
+          "episode": 2,
+          "title": "A Dança da Morte S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198157",
+          "episodeId": 3198157,
+          "season": 1,
+          "episode": 3,
+          "title": "A Dança da Morte S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198158",
+          "episodeId": 3198158,
+          "season": 1,
+          "episode": 4,
+          "title": "A Dança da Morte S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

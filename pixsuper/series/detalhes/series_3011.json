@@ -1,0 +1,74 @@
+{
+  "id": "series_3011",
+  "type": "series",
+  "title": "Gol Contra",
+  "originalTitle": "Goles en contra",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/9vqkM576PihvYMeNlqoNwaBOV0n.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4IAp50UydzvFUSRp86Pid08MFJ.jpg",
+  "overview": "Esta série examina o impacto do clima sociopolítico no futebol da Colômbia nas décadas de 1980 e 1990 e sua relação com a morte do jogador Andrés Escobar.",
+  "rating": 7.9,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213550,
+  "xtream": {
+    "seriesId": 3011
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3253435",
+          "episodeId": 3253435,
+          "season": 1,
+          "episode": 1,
+          "title": "Gol Contra S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253436",
+          "episodeId": 3253436,
+          "season": 1,
+          "episode": 2,
+          "title": "Gol Contra S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253437",
+          "episodeId": 3253437,
+          "season": 1,
+          "episode": 3,
+          "title": "Gol Contra S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253438",
+          "episodeId": 3253438,
+          "season": 1,
+          "episode": 4,
+          "title": "Gol Contra S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253439",
+          "episodeId": 3253439,
+          "season": 1,
+          "episode": 5,
+          "title": "Gol Contra S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253440",
+          "episodeId": 3253440,
+          "season": 1,
+          "episode": 6,
+          "title": "Gol Contra S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

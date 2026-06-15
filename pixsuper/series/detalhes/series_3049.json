@@ -1,0 +1,59 @@
+{
+  "id": "series_3049",
+  "type": "series",
+  "title": "Esquemas da FIFA",
+  "originalTitle": "FIFA Uncovered",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/ajJl0eZfZCxeWiPoudfu4PgCAO4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/no1PSE0IZXsHaDSqX4l3U1tdRyX.jpg",
+  "overview": "Das disputas de poder à política internacional: esta minissérie documental revela a controversa história da FIFA e o que é preciso para sediar uma Copa do Mundo.",
+  "rating": 7.1,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213193,
+  "xtream": {
+    "seriesId": 3049
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3254664",
+          "episodeId": 3254664,
+          "season": 1,
+          "episode": 1,
+          "title": "Esquemas da FIFA S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3254665",
+          "episodeId": 3254665,
+          "season": 1,
+          "episode": 2,
+          "title": "Esquemas da FIFA S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3254666",
+          "episodeId": 3254666,
+          "season": 1,
+          "episode": 3,
+          "title": "Esquemas da FIFA S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3254667",
+          "episodeId": 3254667,
+          "season": 1,
+          "episode": 4,
+          "title": "Esquemas da FIFA S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_6993",
+  "type": "series",
+  "title": "Crimes na Cabana",
+  "originalTitle": "Cabin in the Woods",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/8wwOTi9pSIsDjEHa87oUpsFt5hu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/r1mEjjvoJWtRiNKzFs9yTp3kws0.jpg",
+  "overview": "Nesta série instigante relata crimes reais que parecem saídos de um filme de terror. Os eventos acontecem em chalés remotos, onde indivíduos com intenções malignas cometem atos brutais sem serem vistos.",
+  "rating": 7.3,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 261572,
+  "xtream": {
+    "seriesId": 6993
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3354941",
+          "episodeId": 3354941,
+          "season": 1,
+          "episode": 1,
+          "title": "Crimes na Cabana S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354942",
+          "episodeId": 3354942,
+          "season": 1,
+          "episode": 2,
+          "title": "Crimes na Cabana S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354943",
+          "episodeId": 3354943,
+          "season": 1,
+          "episode": 3,
+          "title": "Crimes na Cabana S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354944",
+          "episodeId": 3354944,
+          "season": 1,
+          "episode": 4,
+          "title": "Crimes na Cabana S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354945",
+          "episodeId": 3354945,
+          "season": 1,
+          "episode": 5,
+          "title": "Crimes na Cabana S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354946",
+          "episodeId": 3354946,
+          "season": 1,
+          "episode": 6,
+          "title": "Crimes na Cabana S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

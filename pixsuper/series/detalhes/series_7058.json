@@ -1,0 +1,50 @@
+{
+  "id": "series_7058",
+  "type": "series",
+  "title": "Oklahoma City Bombing: One Day in America",
+  "originalTitle": "Oklahoma City Bombing: One Day in America",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/1KaPTegaOr6hU6qNuiOE1E3k1ha.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dgTmcHjZVk06T2rMt3czrdWqZwm.jpg",
+  "overview": "",
+  "rating": 6.6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 286671,
+  "xtream": {
+    "seriesId": 7058
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3355978",
+          "episodeId": 3355978,
+          "season": 1,
+          "episode": 1,
+          "title": "Oklahoma City Bombing One Day in America [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355979",
+          "episodeId": 3355979,
+          "season": 1,
+          "episode": 2,
+          "title": "Oklahoma City Bombing One Day in America [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355980",
+          "episodeId": 3355980,
+          "season": 1,
+          "episode": 3,
+          "title": "Oklahoma City Bombing One Day in America [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "series_633",
+  "type": "series",
+  "title": "Cursed Films",
+  "originalTitle": "Cursed Films",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/qrdhQ2jVx8Ewu33ahp7HbhT1hHn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/veBzDrayUD3judzRzCntwroDT0y.jpg",
+  "overview": "",
+  "rating": 7.14,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 101137,
+  "xtream": {
+    "seriesId": 633
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3159389",
+          "episodeId": 3159389,
+          "season": 1,
+          "episode": 1,
+          "title": "Cursed Films [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159390",
+          "episodeId": 3159390,
+          "season": 1,
+          "episode": 2,
+          "title": "Cursed Films [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159391",
+          "episodeId": 3159391,
+          "season": 1,
+          "episode": 3,
+          "title": "Cursed Films [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159392",
+          "episodeId": 3159392,
+          "season": 1,
+          "episode": 4,
+          "title": "Cursed Films [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159393",
+          "episodeId": 3159393,
+          "season": 1,
+          "episode": 5,
+          "title": "Cursed Films [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

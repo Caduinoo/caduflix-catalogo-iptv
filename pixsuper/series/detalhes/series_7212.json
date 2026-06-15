@@ -1,0 +1,76 @@
+{
+  "id": "series_7212",
+  "type": "series",
+  "title": "Agora Muppets",
+  "originalTitle": "Muppets Now",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/porL1UExXMIWH78lTAESV7x4l1j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pUG8saIHhLOakv7VOdGJndNbBEE.jpg",
+  "overview": "Esta série curta e sem roteiro apresenta personagens icônicos de Muppet ao lado de celebridades convidadas em um fórum que inspira uma tolice surpreendente e uma diversão sincera.",
+  "rating": 5.647,
+  "genres": [
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 92824,
+  "xtream": {
+    "seriesId": 7212
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3360689",
+          "episodeId": 3360689,
+          "season": 1,
+          "episode": 1,
+          "title": "Agora Muppets S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360690",
+          "episodeId": 3360690,
+          "season": 1,
+          "episode": 2,
+          "title": "Agora Muppets S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360691",
+          "episodeId": 3360691,
+          "season": 1,
+          "episode": 3,
+          "title": "Agora Muppets S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360692",
+          "episodeId": 3360692,
+          "season": 1,
+          "episode": 4,
+          "title": "Agora Muppets S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360693",
+          "episodeId": 3360693,
+          "season": 1,
+          "episode": 5,
+          "title": "Agora Muppets S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360694",
+          "episodeId": 3360694,
+          "season": 1,
+          "episode": 6,
+          "title": "Agora Muppets S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "series_5163",
+  "type": "series",
+  "title": "Marcas do Terror",
+  "originalTitle": "Raw Terror",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/luAMx7V27gbIGFlWRB7c0kp5hEW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qQs0u8veG5mr750bbvFzfm3JNa8.jpg",
+  "overview": "Conheça histórias de pessoas devastadas pelo assassinato de um ente querido. O impacto deixado naqueles que ficaram para trás por meio de depoimentos íntimos e pessoais.",
+  "rating": 8.3,
+  "genres": [
+    "documentario",
+    "crime",
+    "drama",
+    "terror"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 101885,
+  "xtream": {
+    "seriesId": 5163
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3309683",
+          "episodeId": 3309683,
+          "season": 1,
+          "episode": 1,
+          "title": "Raw Terror S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3309684",
+          "episodeId": 3309684,
+          "season": 1,
+          "episode": 2,
+          "title": "Raw Terror S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3309685",
+          "episodeId": 3309685,
+          "season": 1,
+          "episode": 3,
+          "title": "Raw Terror S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3309686",
+          "episodeId": 3309686,
+          "season": 1,
+          "episode": 4,
+          "title": "Raw Terror S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3309687",
+          "episodeId": 3309687,
+          "season": 1,
+          "episode": 5,
+          "title": "Raw Terror S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3309688",
+          "episodeId": 3309688,
+          "season": 1,
+          "episode": 6,
+          "title": "Raw Terror S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

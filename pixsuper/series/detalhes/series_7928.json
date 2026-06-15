@@ -1,0 +1,75 @@
+{
+  "id": "series_7928",
+  "type": "series",
+  "title": "A Agente",
+  "originalTitle": "Legenden",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/yk44xZCWWzcgmwlyCWCQyFyxVIw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/n9YnfHabjCNwCHUXfT6DPxzFa3e.jpg",
+  "overview": "Uma jovem policial se infiltra para fazer amizade com a esposa de um traficante de drogas. Mas, quanto mais se aproxima dela, mais a missão se complica.",
+  "rating": 7.21,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 262920,
+  "xtream": {
+    "seriesId": 7928
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3374482",
+          "episodeId": 3374482,
+          "season": 1,
+          "episode": 1,
+          "title": "A Agente S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374483",
+          "episodeId": 3374483,
+          "season": 1,
+          "episode": 2,
+          "title": "A Agente S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374484",
+          "episodeId": 3374484,
+          "season": 1,
+          "episode": 3,
+          "title": "A Agente S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374485",
+          "episodeId": 3374485,
+          "season": 1,
+          "episode": 4,
+          "title": "A Agente S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374486",
+          "episodeId": 3374486,
+          "season": 1,
+          "episode": 5,
+          "title": "A Agente S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3374487",
+          "episodeId": 3374487,
+          "season": 1,
+          "episode": 6,
+          "title": "A Agente S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

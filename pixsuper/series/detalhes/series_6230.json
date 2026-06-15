@@ -1,0 +1,75 @@
+{
+  "id": "series_6230",
+  "type": "series",
+  "title": "The Creep Tapes",
+  "originalTitle": "The Creep Tapes",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5Srx9kUx439wPTsw8a5n8uRMlbb.jpg",
+  "overview": "Ele explora uma coleção de fitas de vídeo de um serial killer que contrata vítimas sob falsos pretextos para filmá-lo. Cada episódio apresenta uma nova vítima.",
+  "rating": 6.5,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 256201,
+  "xtream": {
+    "seriesId": 6230
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3338287",
+          "episodeId": 3338287,
+          "season": 1,
+          "episode": 1,
+          "title": "The Creep Tapes [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338288",
+          "episodeId": 3338288,
+          "season": 1,
+          "episode": 2,
+          "title": "The Creep Tapes [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338289",
+          "episodeId": 3338289,
+          "season": 1,
+          "episode": 3,
+          "title": "The Creep Tapes [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338290",
+          "episodeId": 3338290,
+          "season": 1,
+          "episode": 4,
+          "title": "The Creep Tapes [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338291",
+          "episodeId": 3338291,
+          "season": 1,
+          "episode": 5,
+          "title": "The Creep Tapes [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338292",
+          "episodeId": 3338292,
+          "season": 1,
+          "episode": 6,
+          "title": "The Creep Tapes [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

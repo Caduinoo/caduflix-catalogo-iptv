@@ -1,0 +1,33 @@
+{
+  "id": "movie_2768944",
+  "type": "movie",
+  "title": "Centauro",
+  "originalTitle": "Centauro",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/2tEBjhrVqXSZMZX92IDr1oSPEzk.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 8,
+  "runtime": 14,
+  "genres": [
+    "animacao"
+  ],
+  "cast": [
+    {
+      "name": "Agustín Alcides Otero",
+      "character": "",
+      "profile": ""
+    },
+    {
+      "name": "Walter Jakob",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg"
+    }
+  ],
+  "director": "Nicolás Suárez",
+  "tmdbId": 445221,
+  "xtream": {
+    "streamId": 2768944,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_2218",
+  "type": "series",
+  "title": "Um Capitão",
+  "originalTitle": "Speravo de morì prima",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/qxLUfj2LAyIn3hd4xI0EUZ8sGzA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1xNJx416OoOPio8GI7qZfvM1vf5.jpg",
+  "overview": "A irônica e comovedora história dos últimos 18 meses de Francesco Totti como jogador de futebol, sua luta contra o tempo e contra o seu treinador, culminando na despedida mais comovente da história do futebol.",
+  "rating": 6.5,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 119927,
+  "xtream": {
+    "seriesId": 2218
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3232003",
+          "episodeId": 3232003,
+          "season": 1,
+          "episode": 1,
+          "title": "Um Capitão S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3232004",
+          "episodeId": 3232004,
+          "season": 1,
+          "episode": 2,
+          "title": "Um Capitão S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3232005",
+          "episodeId": 3232005,
+          "season": 1,
+          "episode": 3,
+          "title": "Um Capitão S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3232006",
+          "episodeId": 3232006,
+          "season": 1,
+          "episode": 4,
+          "title": "Um Capitão S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3232007",
+          "episodeId": 3232007,
+          "season": 1,
+          "episode": 5,
+          "title": "Um Capitão S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3232008",
+          "episodeId": 3232008,
+          "season": 1,
+          "episode": 6,
+          "title": "Um Capitão S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

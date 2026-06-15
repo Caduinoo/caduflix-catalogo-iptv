@@ -1,0 +1,107 @@
+{
+  "id": "series_7547",
+  "type": "series",
+  "title": "Long Story Short",
+  "originalTitle": "Long Story Short",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/22nh2kTuFpitrqTxxixhWjxEqFa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m6BhmbdNfZCybiLNbFJ6n8vYmR7.jpg",
+  "overview": "Do criador de BoJack Horseman, esta comédia de animação sobre uma família vai e volta no tempo, acompanhando os irmãos da infância à idade adulta.",
+  "rating": 7.591,
+  "genres": [
+    "comedia",
+    "animacao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 262375,
+  "xtream": {
+    "seriesId": 7547
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3367098",
+          "episodeId": 3367098,
+          "season": 1,
+          "episode": 1,
+          "title": "Long Story Short S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367099",
+          "episodeId": 3367099,
+          "season": 1,
+          "episode": 2,
+          "title": "Long Story Short S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367100",
+          "episodeId": 3367100,
+          "season": 1,
+          "episode": 3,
+          "title": "Long Story Short S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367101",
+          "episodeId": 3367101,
+          "season": 1,
+          "episode": 4,
+          "title": "Long Story Short S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367102",
+          "episodeId": 3367102,
+          "season": 1,
+          "episode": 5,
+          "title": "Long Story Short S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367103",
+          "episodeId": 3367103,
+          "season": 1,
+          "episode": 6,
+          "title": "Long Story Short S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367104",
+          "episodeId": 3367104,
+          "season": 1,
+          "episode": 7,
+          "title": "Long Story Short S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367105",
+          "episodeId": 3367105,
+          "season": 1,
+          "episode": 8,
+          "title": "Long Story Short S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367106",
+          "episodeId": 3367106,
+          "season": 1,
+          "episode": 9,
+          "title": "Long Story Short S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367107",
+          "episodeId": 3367107,
+          "season": 1,
+          "episode": 10,
+          "title": "Long Story Short S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

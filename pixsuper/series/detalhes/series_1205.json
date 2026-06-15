@@ -1,0 +1,129 @@
+{
+  "id": "series_1205",
+  "type": "series",
+  "title": "A Hora",
+  "originalTitle": "The Hour",
+  "year": 2011,
+  "poster": "https://image.tmdb.org/t/p/w500/72JWVRK6VvqNx1gYumVxhtoXc03.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jINW7XYCw3tHDdvtHj2nmhfOzPc.jpg",
+  "overview": "Na década de 1950, o jornalista Freddie, a ambiciosa produtora Bel, e Hector, o apresentador galã, criam um programa de televisão investigativo. As tensões aumentam entre os três quando acabam envolvidos em um triângulo amoroso.",
+  "rating": 7.455,
+  "genres": [
+    "drama",
+    "guerra",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 39718,
+  "xtream": {
+    "seriesId": 1205
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3190218",
+          "episodeId": 3190218,
+          "season": 1,
+          "episode": 1,
+          "title": "The Hour S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190219",
+          "episodeId": 3190219,
+          "season": 1,
+          "episode": 2,
+          "title": "The Hour S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190220",
+          "episodeId": 3190220,
+          "season": 1,
+          "episode": 3,
+          "title": "The Hour S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190221",
+          "episodeId": 3190221,
+          "season": 1,
+          "episode": 4,
+          "title": "The Hour S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190222",
+          "episodeId": 3190222,
+          "season": 1,
+          "episode": 5,
+          "title": "The Hour S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190223",
+          "episodeId": 3190223,
+          "season": 1,
+          "episode": 6,
+          "title": "The Hour S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3190224",
+          "episodeId": 3190224,
+          "season": 2,
+          "episode": 1,
+          "title": "The Hour S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190225",
+          "episodeId": 3190225,
+          "season": 2,
+          "episode": 2,
+          "title": "The Hour S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190226",
+          "episodeId": 3190226,
+          "season": 2,
+          "episode": 3,
+          "title": "The Hour S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190227",
+          "episodeId": 3190227,
+          "season": 2,
+          "episode": 4,
+          "title": "The Hour S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190228",
+          "episodeId": 3190228,
+          "season": 2,
+          "episode": 5,
+          "title": "The Hour S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190229",
+          "episodeId": 3190229,
+          "season": 2,
+          "episode": 6,
+          "title": "The Hour S02 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "series_4434",
+  "type": "series",
+  "title": "Relembre",
+  "originalTitle": "Informacja zwrotna",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/ppHm3nlWpaxzIzbIKAWKR5Atng8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yqUmDqUZjyRBY7qeyeAyYs7NXT1.jpg",
+  "overview": "Entre crises familiares e problemas de memória por causa das drogas, um ex-astro do rock embarca em uma busca frenética pelo filho desaparecido.",
+  "rating": 6.8,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 230370,
+  "xtream": {
+    "seriesId": 4434
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3289540",
+          "episodeId": 3289540,
+          "season": 1,
+          "episode": 1,
+          "title": "Relembre S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289541",
+          "episodeId": 3289541,
+          "season": 1,
+          "episode": 2,
+          "title": "Relembre S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289542",
+          "episodeId": 3289542,
+          "season": 1,
+          "episode": 3,
+          "title": "Relembre S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289543",
+          "episodeId": 3289543,
+          "season": 1,
+          "episode": 4,
+          "title": "Relembre S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289544",
+          "episodeId": 3289544,
+          "season": 1,
+          "episode": 5,
+          "title": "Relembre S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

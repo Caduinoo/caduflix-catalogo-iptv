@@ -1,0 +1,75 @@
+{
+  "id": "series_5234",
+  "type": "series",
+  "title": "Quando As Luzes Se Apagam",
+  "originalTitle": "Does Murder Sleep",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/dpt80v6CAQxTGl6YwgQT0NvzkaY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e0vGE3k57MfF8tSrQO5RqVdjmBO.jpg",
+  "overview": "Quando dormimos, ficamos mais vulneráveis. Às vezes, os crimes ocorrem quando alguns ou mesmo todos os personagens principais estão dormindo profundamente. Estas histórias exploram o medo primordial, presente desde a infância, do que acontece quando fechamos os olhos.",
+  "rating": 6,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 231899,
+  "xtream": {
+    "seriesId": 5234
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3310933",
+          "episodeId": 3310933,
+          "season": 1,
+          "episode": 1,
+          "title": "Quando As Luzes Se Apagam S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310934",
+          "episodeId": 3310934,
+          "season": 1,
+          "episode": 2,
+          "title": "Quando As Luzes Se Apagam S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310935",
+          "episodeId": 3310935,
+          "season": 1,
+          "episode": 3,
+          "title": "Quando As Luzes Se Apagam S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310936",
+          "episodeId": 3310936,
+          "season": 1,
+          "episode": 4,
+          "title": "Quando As Luzes Se Apagam S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310937",
+          "episodeId": 3310937,
+          "season": 1,
+          "episode": 5,
+          "title": "Quando As Luzes Se Apagam S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310938",
+          "episodeId": 3310938,
+          "season": 1,
+          "episode": 6,
+          "title": "Quando As Luzes Se Apagam S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "series_7763",
+  "type": "series",
+  "title": "Polvo!",
+  "originalTitle": "Octopus!",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/9KvT68S2ZGinOUhln4zFFHcrLZL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yN0Ogle1f2WkMqmjW9b0VGlC2Fx.jpg",
+  "overview": "Este é um documentário sobre ser assassinado pelo parceiro, se perder no México, encontrar um unicórnio, uma bordadeira competitiva, Tracy Morgan e explorar nossa conexão com um possível alienígena. Em outras palavras, é um documentário sobre polvos.",
+  "rating": 5.6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 285657,
+  "xtream": {
+    "seriesId": 7763
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3371413",
+          "episodeId": 3371413,
+          "season": 1,
+          "episode": 1,
+          "title": "Polvo [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3371414",
+          "episodeId": 3371414,
+          "season": 1,
+          "episode": 2,
+          "title": "Polvo [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

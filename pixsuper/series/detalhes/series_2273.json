@@ -1,0 +1,74 @@
+{
+  "id": "series_2273",
+  "type": "series",
+  "title": "La divina gula",
+  "originalTitle": "La divina gula",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/wROX6TYSbOWp2IRFvzyvQ4VudzH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dAXB3kHwLtJyF9DUTtlQ0JyE7vm.jpg",
+  "overview": "Delicie-se com esta viagem gastronômica pelas maravilhas da culinária mexicana e seus sabores peculiares.",
+  "rating": 6.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 155099,
+  "xtream": {
+    "seriesId": 2273
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3233533",
+          "episodeId": 3233533,
+          "season": 1,
+          "episode": 1,
+          "title": "La divina gula S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233534",
+          "episodeId": 3233534,
+          "season": 1,
+          "episode": 2,
+          "title": "La divina gula S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233535",
+          "episodeId": 3233535,
+          "season": 1,
+          "episode": 3,
+          "title": "La divina gula S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233536",
+          "episodeId": 3233536,
+          "season": 1,
+          "episode": 4,
+          "title": "La divina gula S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233537",
+          "episodeId": 3233537,
+          "season": 1,
+          "episode": 5,
+          "title": "La divina gula S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233538",
+          "episodeId": 3233538,
+          "season": 1,
+          "episode": 6,
+          "title": "La divina gula S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

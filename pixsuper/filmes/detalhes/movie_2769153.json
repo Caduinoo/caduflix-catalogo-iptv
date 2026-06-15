@@ -1,0 +1,64 @@
+{
+  "id": "movie_2769153",
+  "type": "movie",
+  "title": "Control X",
+  "originalTitle": "Control X",
+  "year": 2007,
+  "poster": "https://image.tmdb.org/t/p/w500/b50KepkP5bPFs1HVPXIzNUyD5w9.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6,
+  "runtime": 82,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Bruno Borsu",
+      "character": "Seb",
+      "profile": ""
+    },
+    {
+      "name": "Simon Fraud",
+      "character": "Sam",
+      "profile": ""
+    },
+    {
+      "name": "Camille de Leu",
+      "character": "Julie",
+      "profile": "https://image.tmdb.org/t/p/w185/vqkDhoOpnRMip5S7eeW6w2f6HTh.jpg"
+    },
+    {
+      "name": "Erico Salamone",
+      "character": "Pierre Van Hove",
+      "profile": "https://image.tmdb.org/t/p/w185/nSUUnH7moMM00YRsNuG6PW8uuqG.jpg"
+    },
+    {
+      "name": "Thierry de Coster",
+      "character": "Henri",
+      "profile": "https://image.tmdb.org/t/p/w185/58kkXHnAyAqLqW9DHOXudCggPnC.jpg"
+    },
+    {
+      "name": "Mehdi Hammouti",
+      "character": "Mehdi",
+      "profile": ""
+    },
+    {
+      "name": "Magloire Goblet",
+      "character": "Alex",
+      "profile": ""
+    },
+    {
+      "name": "Renaud Rutten",
+      "character": "Jacques",
+      "profile": "https://image.tmdb.org/t/p/w185/k0VU9PwYrlwYcKQd0u5wTw5FozD.jpg"
+    }
+  ],
+  "director": "Thomas François",
+  "tmdbId": 369628,
+  "xtream": {
+    "streamId": 2769153,
+    "containerExtension": "mp4"
+  }
+}

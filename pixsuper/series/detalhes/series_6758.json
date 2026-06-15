@@ -1,0 +1,75 @@
+{
+  "id": "series_6758",
+  "type": "series",
+  "title": "Isto é Ciência com Mark Rober",
+  "originalTitle": "This Is Mark Rober",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/23fetcCsXnwhXNkwiEyG3ltXzik.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m2VZMDK4dWpEXCFGioQRH4rM0Jd.jpg",
+  "overview": "Mark Rober levará o público aos bastidores, destacando seus momentos favoritos e mergulhando mais fundo nos conceitos e processos de cada vídeo viral.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "reality"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 224739,
+  "xtream": {
+    "seriesId": 6758
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3351360",
+          "episodeId": 3351360,
+          "season": 1,
+          "episode": 1,
+          "title": "Isto e Ciencia com Mark Rober S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3351361",
+          "episodeId": 3351361,
+          "season": 1,
+          "episode": 2,
+          "title": "Isto e Ciencia com Mark Rober S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3351362",
+          "episodeId": 3351362,
+          "season": 1,
+          "episode": 3,
+          "title": "Isto e Ciencia com Mark Rober S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3351363",
+          "episodeId": 3351363,
+          "season": 1,
+          "episode": 4,
+          "title": "Isto e Ciencia com Mark Rober S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3351364",
+          "episodeId": 3351364,
+          "season": 1,
+          "episode": 5,
+          "title": "Isto e Ciencia com Mark Rober S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3351365",
+          "episodeId": 3351365,
+          "season": 1,
+          "episode": 6,
+          "title": "Isto e Ciencia com Mark Rober S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

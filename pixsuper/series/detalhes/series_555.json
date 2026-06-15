@@ -1,0 +1,50 @@
+{
+  "id": "series_555",
+  "type": "series",
+  "title": "Morte e Rouxinóis",
+  "originalTitle": "Death and Nightingales",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/kRPsa4ntdUyFmcbygGJlIIJjBMF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4mXiOtPWNuzG0JQXBCAhtFv1R3T.jpg",
+  "overview": "Um conto de amor, traição, decepções e vingança situado na zona rural de Fermanagh em 1885. No dia de seu aniversário de 25 anos, Beth Winters decide fugir com o encantador Liam Ward, deixando pra trás sua vida limitada e seu relacionamento complexo com seu padrasto religioso Billy.",
+  "rating": 5.9,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 84534,
+  "xtream": {
+    "seriesId": 555
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3156378",
+          "episodeId": 3156378,
+          "season": 1,
+          "episode": 1,
+          "title": "Morte e Rouxinóis S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156379",
+          "episodeId": 3156379,
+          "season": 1,
+          "episode": 2,
+          "title": "Morte e Rouxinóis S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156380",
+          "episodeId": 3156380,
+          "season": 1,
+          "episode": 3,
+          "title": "Morte e Rouxinóis S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

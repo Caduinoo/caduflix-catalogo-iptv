@@ -1,0 +1,50 @@
+{
+  "id": "series_4313",
+  "type": "series",
+  "title": "A Incrível Madagascar",
+  "originalTitle": "Land of Gremlins",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/s5OMIomJ4svwJ4bhuY0CP4pLE6D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1LATCs69AFxD6dqT6HwNbLjUDab.jpg",
+  "overview": "Explore Madagascar, a quarta maior ilha da Terra, onde 88 milhões de anos de isolamento criaram espécies animais que não são encontradas em nenhum outro lugar do planeta.",
+  "rating": 7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 114160,
+  "xtream": {
+    "seriesId": 4313
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3287010",
+          "episodeId": 3287010,
+          "season": 1,
+          "episode": 1,
+          "title": "A Incrivel Madagascar S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287011",
+          "episodeId": 3287011,
+          "season": 1,
+          "episode": 2,
+          "title": "A Incrivel Madagascar S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287012",
+          "episodeId": 3287012,
+          "season": 1,
+          "episode": 3,
+          "title": "A Incrivel Madagascar S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

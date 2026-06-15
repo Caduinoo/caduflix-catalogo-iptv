@@ -1,0 +1,51 @@
+{
+  "id": "series_8558",
+  "type": "series",
+  "title": "Congresso Bitcoin",
+  "originalTitle": "Congresso Bitcoin",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/vMqQX10ZjwGTKF2sb3ncwOBQfe4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eHiLZzZWN5isS2ELWr8M6pH7m5E.jpg",
+  "overview": "Uma análise sobre a evolução do dinheiro, as mudanças no sistema financeiro e o papel do Bitcoin nesse cenário.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 315654,
+  "xtream": {
+    "seriesId": 8558
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3385586",
+          "episodeId": 3385586,
+          "season": 1,
+          "episode": 1,
+          "title": "Congresso Bitcoin (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3385587",
+          "episodeId": 3385587,
+          "season": 1,
+          "episode": 2,
+          "title": "Congresso Bitcoin (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3385588",
+          "episodeId": 3385588,
+          "season": 1,
+          "episode": 3,
+          "title": "Congresso Bitcoin (2026) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

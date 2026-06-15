@@ -1,0 +1,38 @@
+{
+  "id": "movie_2775201",
+  "type": "movie",
+  "title": "But Why?",
+  "originalTitle": "But Why?",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w300/zsATKx7B970yqPNri093CE7DUBW.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 2,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Terence Davies",
+      "character": "Narrator (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/uBbFee7ggk5vrCK4kcAcLOSYi0y.jpg"
+    },
+    {
+      "name": "Peter Capaldi",
+      "character": "Older Man (uncredited)",
+      "profile": "https://image.tmdb.org/t/p/w185/r5bEXZBOSA89SZvv4jjqa4iSgst.jpg"
+    },
+    {
+      "name": "Richard Goulding",
+      "character": "Younger Man (uncredited)",
+      "profile": "https://image.tmdb.org/t/p/w185/j34bDxMm039OuhELWbOSXTvFCVo.jpg"
+    }
+  ],
+  "director": "Terence Davies",
+  "tmdbId": 1663848,
+  "xtream": {
+    "streamId": 2775201,
+    "containerExtension": "mp4"
+  }
+}

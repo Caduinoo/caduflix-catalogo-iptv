@@ -1,0 +1,75 @@
+{
+  "id": "series_5593",
+  "type": "series",
+  "title": "Rebus",
+  "originalTitle": "Rebus",
+  "year": 2000,
+  "poster": "https://image.tmdb.org/t/p/w500/quXSK0nqneQ0fIgvDfW9EK0Txfy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y4EM70bKlMctNrSm2cszVhRCrXe.jpg",
+  "overview": "",
+  "rating": 6.9,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 1165,
+  "xtream": {
+    "seriesId": 5593
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3319566",
+          "episodeId": 3319566,
+          "season": 1,
+          "episode": 1,
+          "title": "Rebus [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319567",
+          "episodeId": 3319567,
+          "season": 1,
+          "episode": 2,
+          "title": "Rebus [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319568",
+          "episodeId": 3319568,
+          "season": 1,
+          "episode": 3,
+          "title": "Rebus [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319569",
+          "episodeId": 3319569,
+          "season": 1,
+          "episode": 4,
+          "title": "Rebus [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319570",
+          "episodeId": 3319570,
+          "season": 1,
+          "episode": 5,
+          "title": "Rebus [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319571",
+          "episodeId": 3319571,
+          "season": 1,
+          "episode": 6,
+          "title": "Rebus [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

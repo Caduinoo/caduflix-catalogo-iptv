@@ -1,0 +1,105 @@
+{
+  "id": "series_4342",
+  "type": "series",
+  "title": "Academia Unicórnio",
+  "originalTitle": "Unicorn Academy",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/l8VmqILTBuDPtoijOxb2RwlR8rY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/w1OI696IzYW37hZwdLfiGUYzAvX.jpg",
+  "overview": "Quando uma força sombria ameaça destruir a Ilha Unicórnio, uma adolescente corajosa e cinco colegas precisam se unir para proteger a academia mágica que tanto amam.",
+  "rating": 7.9,
+  "genres": [
+    "animacao",
+    "infantil",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura",
+    "comedia",
+    "familia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 221504,
+  "xtream": {
+    "seriesId": 4342
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3287491",
+          "episodeId": 3287491,
+          "season": 1,
+          "episode": 1,
+          "title": "Academia Unicornio S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287492",
+          "episodeId": 3287492,
+          "season": 1,
+          "episode": 2,
+          "title": "Academia Unicornio S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287493",
+          "episodeId": 3287493,
+          "season": 1,
+          "episode": 3,
+          "title": "Academia Unicornio S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287494",
+          "episodeId": 3287494,
+          "season": 1,
+          "episode": 4,
+          "title": "Academia Unicornio S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287495",
+          "episodeId": 3287495,
+          "season": 1,
+          "episode": 5,
+          "title": "Academia Unicornio S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287496",
+          "episodeId": 3287496,
+          "season": 1,
+          "episode": 6,
+          "title": "Academia Unicornio S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287497",
+          "episodeId": 3287497,
+          "season": 1,
+          "episode": 7,
+          "title": "Academia Unicornio S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287498",
+          "episodeId": 3287498,
+          "season": 1,
+          "episode": 8,
+          "title": "Academia Unicornio S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287499",
+          "episodeId": 3287499,
+          "season": 1,
+          "episode": 9,
+          "title": "Academia Unicornio S01 E09",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

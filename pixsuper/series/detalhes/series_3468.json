@@ -1,0 +1,58 @@
+{
+  "id": "series_3468",
+  "type": "series",
+  "title": "O Império dos Chimpanzés",
+  "originalTitle": "Chimp Empire",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/AgNMf3ntOR2maKE4C6cupg8m9Sp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zghH6YyQT8Fglu7ilYy1a9A5gko.jpg",
+  "overview": "Uma grande comunidade de chimpanzés vive numa floresta de Uganda enfrentando políticas sociais e dinâmicas familiares complexas, além de perigosas disputas territoriais.",
+  "rating": 8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 222792,
+  "xtream": {
+    "seriesId": 3468
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3264223",
+          "episodeId": 3264223,
+          "season": 1,
+          "episode": 1,
+          "title": "O Império dos Chimpanzés S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264224",
+          "episodeId": 3264224,
+          "season": 1,
+          "episode": 2,
+          "title": "O Império dos Chimpanzés S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264225",
+          "episodeId": 3264225,
+          "season": 1,
+          "episode": 3,
+          "title": "O Império dos Chimpanzés S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264226",
+          "episodeId": 3264226,
+          "season": 1,
+          "episode": 4,
+          "title": "O Império dos Chimpanzés S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

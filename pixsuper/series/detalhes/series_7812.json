@@ -1,0 +1,53 @@
+{
+  "id": "series_7812",
+  "type": "series",
+  "title": "A Menina e o Porquinho",
+  "originalTitle": "E.B. White's Charlotte's Web",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/n39McSQ1mlhjitNS7ojebUY3SRu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a8beHMNvA2rpcpdujVvtzOR9ZPU.jpg",
+  "overview": "Um porquinho chamado Wilbur faz amizade com uma aranha do celeiro chamada Charlotte. Quando Wilbur descobre que está sendo criado para o abate, Charlotte escreve mensagens elogiando-o em sua teia para convencer o fazendeiro a deixá-lo viver.",
+  "rating": 6.6,
+  "genres": [
+    "animacao",
+    "drama",
+    "familia",
+    "infantil"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 205192,
+  "xtream": {
+    "seriesId": 7812
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3372127",
+          "episodeId": 3372127,
+          "season": 1,
+          "episode": 1,
+          "title": "A Menina e o Porquinho S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372128",
+          "episodeId": 3372128,
+          "season": 1,
+          "episode": 2,
+          "title": "A Menina e o Porquinho S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372129",
+          "episodeId": 3372129,
+          "season": 1,
+          "episode": 3,
+          "title": "A Menina e o Porquinho S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

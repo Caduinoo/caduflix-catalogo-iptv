@@ -1,0 +1,39 @@
+{
+  "id": "movie_3121934",
+  "type": "movie",
+  "title": "Joy!",
+  "originalTitle": "Joy!",
+  "year": 2024,
+  "poster": "http://image.tmdb.org//t/p/w600_and_h900_bestv2/zciWal3a5QPjqqJAgmpHVLBlFMj.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 10,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Christina Hilliard",
+      "character": "Joy",
+      "profile": ""
+    },
+    {
+      "name": "Bob Fisher",
+      "character": "Pain",
+      "profile": ""
+    },
+    {
+      "name": "Colin Dowda",
+      "character": "Doctor Clown aka Pete Rutabaga",
+      "profile": "https://image.tmdb.org/t/p/w185/dCCtOoHlyEWG3SRvQTHkvFSPP3R.jpg"
+    }
+  ],
+  "director": "Colin Dowda",
+  "tmdbId": 1440480,
+  "xtream": {
+    "streamId": 3121934,
+    "containerExtension": "mp4"
+  }
+}

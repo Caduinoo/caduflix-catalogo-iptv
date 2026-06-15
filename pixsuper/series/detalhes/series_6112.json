@@ -1,0 +1,67 @@
+{
+  "id": "series_6112",
+  "type": "series",
+  "title": "Histórias Assustadoras do Mickey",
+  "originalTitle": "Mickey's Spooky Stories",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/gT1MDtqUqxmbikmtY979jpycFAn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kwrJwEobAvFMyPhrdheQCIvVxMh.jpg",
+  "overview": "Mickey e seus amigos contam histórias divertidas de Halloween.",
+  "rating": 5.333,
+  "genres": [
+    "animacao",
+    "infantil"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 273266,
+  "xtream": {
+    "seriesId": 6112
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3334391",
+          "episodeId": 3334391,
+          "season": 1,
+          "episode": 1,
+          "title": "Historias Assustadoras do Mickey S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3334392",
+          "episodeId": 3334392,
+          "season": 1,
+          "episode": 2,
+          "title": "Historias Assustadoras do Mickey S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3334393",
+          "episodeId": 3334393,
+          "season": 1,
+          "episode": 3,
+          "title": "Historias Assustadoras do Mickey S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3334394",
+          "episodeId": 3334394,
+          "season": 1,
+          "episode": 4,
+          "title": "Historias Assustadoras do Mickey S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3334395",
+          "episodeId": 3334395,
+          "season": 1,
+          "episode": 5,
+          "title": "Historias Assustadoras do Mickey S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

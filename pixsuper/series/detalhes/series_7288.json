@@ -1,0 +1,76 @@
+{
+  "id": "series_7288",
+  "type": "series",
+  "title": "I, Jack Wright",
+  "originalTitle": "I, Jack Wright",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/yWo8QNGADcVRFiWFn0vDE8u9BQS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eDB1CCNcxnFANadgiWyFlzaqvK6.jpg",
+  "overview": "O testamento de Jack revela que sua fortuna excluiu sua terceira esposa e filhos, então os detetives Morgan e Jones suspeitam de um assassinato. A inimizade da família torna todos suspeitos.",
+  "rating": 5.5,
+  "genres": [
+    "crime",
+    "misterio",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 262899,
+  "xtream": {
+    "seriesId": 7288
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3362719",
+          "episodeId": 3362719,
+          "season": 1,
+          "episode": 1,
+          "title": "I Jack Wright [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3362720",
+          "episodeId": 3362720,
+          "season": 1,
+          "episode": 2,
+          "title": "I Jack Wright [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3362721",
+          "episodeId": 3362721,
+          "season": 1,
+          "episode": 3,
+          "title": "I Jack Wright [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3362722",
+          "episodeId": 3362722,
+          "season": 1,
+          "episode": 4,
+          "title": "I Jack Wright [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3362723",
+          "episodeId": 3362723,
+          "season": 1,
+          "episode": 5,
+          "title": "I Jack Wright [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3362724",
+          "episodeId": 3362724,
+          "season": 1,
+          "episode": 6,
+          "title": "I Jack Wright [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

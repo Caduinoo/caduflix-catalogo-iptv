@@ -1,0 +1,66 @@
+{
+  "id": "series_6658",
+  "type": "series",
+  "title": "Harlem Ice",
+  "originalTitle": "Harlem Ice",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/z5pfdGKqVef3gpN3TsDdyBKkITj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8uD264Ma262TJomsuYJoIRi64gE.jpg",
+  "overview": "Uma série documental que acompanha as meninas do Patinação Artística no Harlem, enquanto elas se preparam para competições, performances e uma experiência global transformadora. Pelos olhos delas, acompanhamos os altos e baixos da temporada do PAH, e sua experiência única como garotas negras, furando a bolha do gelo e ganhando acesso a um palco global.",
+  "rating": 3.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 282252,
+  "xtream": {
+    "seriesId": 6658
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3349556",
+          "episodeId": 3349556,
+          "season": 1,
+          "episode": 1,
+          "title": "Harlem Ice [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3349557",
+          "episodeId": 3349557,
+          "season": 1,
+          "episode": 2,
+          "title": "Harlem Ice [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3349558",
+          "episodeId": 3349558,
+          "season": 1,
+          "episode": 3,
+          "title": "Harlem Ice [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3349559",
+          "episodeId": 3349559,
+          "season": 1,
+          "episode": 4,
+          "title": "Harlem Ice [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3349560",
+          "episodeId": 3349560,
+          "season": 1,
+          "episode": 5,
+          "title": "Harlem Ice [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

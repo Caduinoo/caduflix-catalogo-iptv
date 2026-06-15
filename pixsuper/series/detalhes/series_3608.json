@@ -1,0 +1,50 @@
+{
+  "id": "series_3608",
+  "type": "series",
+  "title": "Arnold",
+  "originalTitle": "Arnold",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/A5ITI2kmvcMpQYEPpToTSdtWZzX.jpg",
+  "overview": "Esta série documental intimista retrata a vida e a carreira multifacetada de Arnold Schwarzenegger, campeão de fisiculturismo, astro de Hollywood e político.",
+  "rating": 7.865,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 226135,
+  "xtream": {
+    "seriesId": 3608
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3268072",
+          "episodeId": 3268072,
+          "season": 1,
+          "episode": 1,
+          "title": "Arnold S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3268073",
+          "episodeId": 3268073,
+          "season": 1,
+          "episode": 2,
+          "title": "Arnold S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3268074",
+          "episodeId": 3268074,
+          "season": 1,
+          "episode": 3,
+          "title": "Arnold S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

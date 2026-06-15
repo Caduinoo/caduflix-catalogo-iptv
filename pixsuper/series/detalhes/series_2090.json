@@ -1,0 +1,74 @@
+{
+  "id": "series_2090",
+  "type": "series",
+  "title": "Califórnia em Chamas",
+  "originalTitle": "Cal Fire",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/rD5SYb7Yk8PHuHWBrQ1I5iAbCDb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oGzWWUpkYXZ5qvqd5LCfPnzMkyv.jpg",
+  "overview": "Este programa mostra ao espectador o trabalho da maior força de emergência dos EUA. Acompanhe o trabalho de 6100 bombeiros para conter incêndios recorrentes na Califórnia.",
+  "rating": 9,
+  "genres": [
+    "reality"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 116647,
+  "xtream": {
+    "seriesId": 2090
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3227846",
+          "episodeId": 3227846,
+          "season": 1,
+          "episode": 1,
+          "title": "Califórnia em Chamas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227847",
+          "episodeId": 3227847,
+          "season": 1,
+          "episode": 2,
+          "title": "Califórnia em Chamas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227848",
+          "episodeId": 3227848,
+          "season": 1,
+          "episode": 3,
+          "title": "Califórnia em Chamas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227849",
+          "episodeId": 3227849,
+          "season": 1,
+          "episode": 4,
+          "title": "Califórnia em Chamas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227850",
+          "episodeId": 3227850,
+          "season": 1,
+          "episode": 5,
+          "title": "Califórnia em Chamas S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227851",
+          "episodeId": 3227851,
+          "season": 1,
+          "episode": 6,
+          "title": "Califórnia em Chamas S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

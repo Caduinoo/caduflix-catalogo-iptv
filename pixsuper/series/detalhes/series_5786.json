@@ -1,0 +1,59 @@
+{
+  "id": "series_5786",
+  "type": "series",
+  "title": "Cowboy Cartel",
+  "originalTitle": "Cowboy Cartel",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/qrT4s9PZaLYw61NWA29V1ApKyh9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tIA4C3NKQWe1H53IilRpWx1OM7f.jpg",
+  "overview": "Quando um agente novato do FBI descobre um enorme esquema de lavagem de dinheiro no turfe dos EUA, ele arrisca a vida para derrubar os culpados: o cartel mais letal do México.",
+  "rating": 7,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 259684,
+  "xtream": {
+    "seriesId": 5786
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3325952",
+          "episodeId": 3325952,
+          "season": 1,
+          "episode": 1,
+          "title": "Cowboy Cartel [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3325953",
+          "episodeId": 3325953,
+          "season": 1,
+          "episode": 2,
+          "title": "Cowboy Cartel [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3325954",
+          "episodeId": 3325954,
+          "season": 1,
+          "episode": 3,
+          "title": "Cowboy Cartel [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3325955",
+          "episodeId": 3325955,
+          "season": 1,
+          "episode": 4,
+          "title": "Cowboy Cartel [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

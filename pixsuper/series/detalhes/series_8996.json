@@ -1,0 +1,43 @@
+{
+  "id": "series_8996",
+  "type": "series",
+  "title": "Payback",
+  "originalTitle": "Payback",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/wqoxASIvfbJTVjDsgFbw6FKlDMk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aWukDVpQ7DfrsxopBle0TtnzfkX.jpg",
+  "overview": "",
+  "rating": 4,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 205591,
+  "xtream": {
+    "seriesId": 8996
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3391821",
+          "episodeId": 3391821,
+          "season": 1,
+          "episode": 1,
+          "title": "Payback (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3393554",
+          "episodeId": 3393554,
+          "season": 1,
+          "episode": 2,
+          "title": "Payback (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

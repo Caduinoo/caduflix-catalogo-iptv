@@ -1,0 +1,74 @@
+{
+  "id": "series_3091",
+  "type": "series",
+  "title": "Enigmas do Universo",
+  "originalTitle": "Our Universe",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/a2nqf5uvfEDdGmO0Z6J57w1duGm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6iKU8ttTQhbZAysn0gQvlU2NvqO.jpg",
+  "overview": "Esta impressionante série documental conta a incrível história do universo ao longo de bilhões de anos e sua relação direta com a vida na Terra.",
+  "rating": 7.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213608,
+  "xtream": {
+    "seriesId": 3091
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3255508",
+          "episodeId": 3255508,
+          "season": 1,
+          "episode": 1,
+          "title": "Enigmas do Universo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255509",
+          "episodeId": 3255509,
+          "season": 1,
+          "episode": 2,
+          "title": "Enigmas do Universo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255510",
+          "episodeId": 3255510,
+          "season": 1,
+          "episode": 3,
+          "title": "Enigmas do Universo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255511",
+          "episodeId": 3255511,
+          "season": 1,
+          "episode": 4,
+          "title": "Enigmas do Universo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255512",
+          "episodeId": 3255512,
+          "season": 1,
+          "episode": 5,
+          "title": "Enigmas do Universo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255513",
+          "episodeId": 3255513,
+          "season": 1,
+          "episode": 6,
+          "title": "Enigmas do Universo S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

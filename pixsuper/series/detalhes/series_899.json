@@ -1,0 +1,75 @@
+{
+  "id": "series_899",
+  "type": "series",
+  "title": "Silêncio na Floresta",
+  "originalTitle": "W głębi lasu",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/9frAI9Ivj2WUEkRWhrM6IKV8h6I.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/939fj4JSFqd1OOXEpBD18h7USKy.jpg",
+  "overview": "Um promotor renova as esperanças de que sua irmã, desaparecida há 25 anos, possa estar viva depois que encontram evidências em uma vítima de homicídio.",
+  "rating": 6.9,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 103425,
+  "xtream": {
+    "seriesId": 899
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3177349",
+          "episodeId": 3177349,
+          "season": 1,
+          "episode": 1,
+          "title": "Silêncio na Floresta S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177350",
+          "episodeId": 3177350,
+          "season": 1,
+          "episode": 2,
+          "title": "Silêncio na Floresta S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177351",
+          "episodeId": 3177351,
+          "season": 1,
+          "episode": 3,
+          "title": "Silêncio na Floresta S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177352",
+          "episodeId": 3177352,
+          "season": 1,
+          "episode": 4,
+          "title": "Silêncio na Floresta S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177353",
+          "episodeId": 3177353,
+          "season": 1,
+          "episode": 5,
+          "title": "Silêncio na Floresta S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177354",
+          "episodeId": 3177354,
+          "season": 1,
+          "episode": 6,
+          "title": "Silêncio na Floresta S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

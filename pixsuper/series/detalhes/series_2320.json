@@ -1,0 +1,75 @@
+{
+  "id": "series_2320",
+  "type": "series",
+  "title": "Faz-me Rir",
+  "originalTitle": "Drôle",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/mHYaSvnyon3TKK3726EyCHXRZw7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mhdGOAY8KJ977wymVMxxELHTN5i.jpg",
+  "overview": "Para fazer o mundo rir e arrasar no stand-up, estes quatro amigos estão dispostos a tudo, custe o que custar!",
+  "rating": 6.847,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 157726,
+  "xtream": {
+    "seriesId": 2320
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3235468",
+          "episodeId": 3235468,
+          "season": 1,
+          "episode": 1,
+          "title": "Faz-me Rir S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3235469",
+          "episodeId": 3235469,
+          "season": 1,
+          "episode": 2,
+          "title": "Faz-me Rir S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3235470",
+          "episodeId": 3235470,
+          "season": 1,
+          "episode": 3,
+          "title": "Faz-me Rir S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3235471",
+          "episodeId": 3235471,
+          "season": 1,
+          "episode": 4,
+          "title": "Faz-me Rir S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3235472",
+          "episodeId": 3235472,
+          "season": 1,
+          "episode": 5,
+          "title": "Faz-me Rir S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3235473",
+          "episodeId": 3235473,
+          "season": 1,
+          "episode": 6,
+          "title": "Faz-me Rir S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

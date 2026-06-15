@@ -1,0 +1,75 @@
+{
+  "id": "series_4205",
+  "type": "series",
+  "title": "My Runway",
+  "originalTitle": "마이 런웨이",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/tCKwuuTZr5Yx8rTt1FWvQKDrXnw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oj9eX0U3nPlAzuTWOLSpxVgYNq5.jpg",
+  "overview": "Um modelo egocêntrico e uma aspirante a modelo embarcam em divertidas e inusitadas aventuras ao trocar de vida e de corpo.",
+  "rating": 7.3,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 69850,
+  "xtream": {
+    "seriesId": 4205
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3284295",
+          "episodeId": 3284295,
+          "season": 1,
+          "episode": 1,
+          "title": "My Runway S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3284296",
+          "episodeId": 3284296,
+          "season": 1,
+          "episode": 2,
+          "title": "My Runway S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3284297",
+          "episodeId": 3284297,
+          "season": 1,
+          "episode": 3,
+          "title": "My Runway S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3284298",
+          "episodeId": 3284298,
+          "season": 1,
+          "episode": 4,
+          "title": "My Runway S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3284299",
+          "episodeId": 3284299,
+          "season": 1,
+          "episode": 5,
+          "title": "My Runway S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3284300",
+          "episodeId": 3284300,
+          "season": 1,
+          "episode": 6,
+          "title": "My Runway S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

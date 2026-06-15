@@ -1,0 +1,60 @@
+{
+  "id": "series_6085",
+  "type": "series",
+  "title": "Uzumaki",
+  "originalTitle": "Uzumaki",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/wtQIgqEQEIQnNqLVGTShUf7qLap.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
+  "overview": "Na tentativa de escapar da maldição das espirais, Kirie, uma estudante do ensino médio, decide deixar sua cidade natal. Será que ela conseguirá?",
+  "rating": 6.949,
+  "genres": [
+    "animacao",
+    "misterio",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 93241,
+  "xtream": {
+    "seriesId": 6085
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3333805",
+          "episodeId": 3333805,
+          "season": 1,
+          "episode": 1,
+          "title": "Uzumaki [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3333806",
+          "episodeId": 3333806,
+          "season": 1,
+          "episode": 2,
+          "title": "Uzumaki [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3333807",
+          "episodeId": 3333807,
+          "season": 1,
+          "episode": 3,
+          "title": "Uzumaki [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3333808",
+          "episodeId": 3333808,
+          "season": 1,
+          "episode": 4,
+          "title": "Uzumaki [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

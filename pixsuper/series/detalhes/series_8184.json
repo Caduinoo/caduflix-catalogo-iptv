@@ -1,0 +1,50 @@
+{
+  "id": "series_8184",
+  "type": "series",
+  "title": "Alex vs ARod",
+  "originalTitle": "Alex vs ARod",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/qZyWiRLcD2uuiyVKE2TukxLVMY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pMwpgzXcS6WYmazRGChUNjt2zyn.jpg",
+  "overview": "Alex Rodríguez reflete sobre sua trajetória: de jovem promessa do beisebol a uma das figuras mais controversas desse esporte.",
+  "rating": 5.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 303175,
+  "xtream": {
+    "seriesId": 8184
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3379969",
+          "episodeId": 3379969,
+          "season": 1,
+          "episode": 1,
+          "title": "Alex vs ARod [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3379970",
+          "episodeId": 3379970,
+          "season": 1,
+          "episode": 2,
+          "title": "Alex vs ARod [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3379971",
+          "episodeId": 3379971,
+          "season": 1,
+          "episode": 3,
+          "title": "Alex vs ARod [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

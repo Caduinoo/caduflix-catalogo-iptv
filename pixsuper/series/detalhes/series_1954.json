@@ -1,0 +1,95 @@
+{
+  "id": "series_1954",
+  "type": "series",
+  "title": "Cowboy Bebop",
+  "originalTitle": "カウボーイビバップ",
+  "year": 1998,
+  "poster": "https://image.tmdb.org/t/p/w500/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
+  "overview": "Spike Spiegel, um rapaz com o passado misterioso e Jet Black, um  ex-policial, se unem para ir atrás de criminosos que possuem a cabeça a  prêmio, dentro da nave “Bebop”. Ao longo do caminho eles se encontram  com personagens nada comuns, um cão muito raro que possui grande  inteligência, Ein, a gananciosa e fatal Feye Valentine e muitos outros.",
+  "rating": 8.501,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao",
+    "faroeste"
+  ],
+  "producer": "netflix",
+  "tmdbId": 30991,
+  "xtream": {
+    "seriesId": 1954
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3222812",
+          "episodeId": 3222812,
+          "season": 1,
+          "episode": 1,
+          "title": "Cowboy Bebop S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222813",
+          "episodeId": 3222813,
+          "season": 1,
+          "episode": 2,
+          "title": "Cowboy Bebop S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222814",
+          "episodeId": 3222814,
+          "season": 1,
+          "episode": 3,
+          "title": "Cowboy Bebop S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222815",
+          "episodeId": 3222815,
+          "season": 1,
+          "episode": 4,
+          "title": "Cowboy Bebop S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222816",
+          "episodeId": 3222816,
+          "season": 1,
+          "episode": 5,
+          "title": "Cowboy Bebop S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222817",
+          "episodeId": 3222817,
+          "season": 1,
+          "episode": 6,
+          "title": "Cowboy Bebop S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222818",
+          "episodeId": 3222818,
+          "season": 1,
+          "episode": 7,
+          "title": "Cowboy Bebop S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222819",
+          "episodeId": 3222819,
+          "season": 1,
+          "episode": 8,
+          "title": "Cowboy Bebop S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

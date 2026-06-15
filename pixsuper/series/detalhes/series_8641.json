@@ -1,0 +1,51 @@
+{
+  "id": "series_8641",
+  "type": "series",
+  "title": "Colosio: Assassinato Político",
+  "originalTitle": "Los asesinos de Colosio",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/itBSLSwciPftAiwYfD7NVLTrMyn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qeDej4EC24g2JRqGRVyL3uJUtnU.jpg",
+  "overview": "Documentário da HBO que expõe contradições, provas ignoradas e depoimentos inéditos do arquivo desclassificado sobre o assassinato de Luis Donaldo Colosio. A sombra de um caso que mudou o México e que segue presente décadas depois.",
+  "rating": 10,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 316961,
+  "xtream": {
+    "seriesId": 8641
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3386781",
+          "episodeId": 3386781,
+          "season": 1,
+          "episode": 1,
+          "title": "Colosio Assassinato Politico (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3386782",
+          "episodeId": 3386782,
+          "season": 1,
+          "episode": 2,
+          "title": "Colosio Assassinato Politico (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3386783",
+          "episodeId": 3386783,
+          "season": 1,
+          "episode": 3,
+          "title": "Colosio Assassinato Politico (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "series_7565",
+  "type": "series",
+  "title": "Atomic",
+  "originalTitle": "Atomic",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/jL8JqP6Okn6ND1SmwStGAZEXqjH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1PMrsy2oeuVPEhefvOwJnHbDNCT.jpg",
+  "overview": "Quando o traficante Max e o ex-jihadista JJ se encontram no deserto do Norte da África, um acaso vira uma jornada violenta e espiritual. Agora, eles enfrentam a missão mais importante de suas vidas.",
+  "rating": 5.853,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 254701,
+  "xtream": {
+    "seriesId": 7565
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3367498",
+          "episodeId": 3367498,
+          "season": 1,
+          "episode": 1,
+          "title": "Atomic S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367499",
+          "episodeId": 3367499,
+          "season": 1,
+          "episode": 2,
+          "title": "Atomic S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367500",
+          "episodeId": 3367500,
+          "season": 1,
+          "episode": 3,
+          "title": "Atomic S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367501",
+          "episodeId": 3367501,
+          "season": 1,
+          "episode": 4,
+          "title": "Atomic S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367502",
+          "episodeId": 3367502,
+          "season": 1,
+          "episode": 5,
+          "title": "Atomic S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

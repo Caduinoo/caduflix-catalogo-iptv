@@ -1,0 +1,38 @@
+{
+  "id": "movie_2770140",
+  "type": "movie",
+  "title": "Fragmentos para Vênus",
+  "originalTitle": "Fragments for Venus",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/15Xja9WDqxylfwrV7QQ1aP8ABsb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lNeBO4E3j8gZExh0QeY7a7c8kCO.jpg",
+  "overview": "Uma mulher negra perambula sozinha pelas galerias de um museu, examinando atentamente cada pintura, em busca de algo. Do outro lado do Brooklyn, outra mulher negra anda pelas ruas, admirando as mulheres negras que encontra pelo caminho.",
+  "rating": 6.7,
+  "runtime": 21,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Sephora Pondi",
+      "character": "Woman in Harlem",
+      "profile": "https://image.tmdb.org/t/p/w185/p7KmPpKMtB6XbO97ArMPrBaxsgG.jpg"
+    },
+    {
+      "name": "Kayije Kagame",
+      "character": "Woman in the museum",
+      "profile": "https://image.tmdb.org/t/p/w185/8ZoX4wJfyON4XzpoFYNBMaHt4kp.jpg"
+    },
+    {
+      "name": "Alice Diop",
+      "character": "Voice Over",
+      "profile": "https://image.tmdb.org/t/p/w185/j7jVv6IpOalPm64TXrATaMW0jrv.jpg"
+    }
+  ],
+  "director": "Alice Diop",
+  "tmdbId": 1523096,
+  "xtream": {
+    "streamId": 2770140,
+    "containerExtension": "mp4"
+  }
+}

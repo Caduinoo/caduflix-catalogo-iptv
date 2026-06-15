@@ -1,0 +1,40 @@
+{
+  "id": "movie_3114840",
+  "type": "movie",
+  "title": "Joderism",
+  "originalTitle": "Joderismo",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/tIvRKVUUTWle8lrkLxImqfw6ShH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8SimZdLf4i97JikH2aiJVeWVfwC.jpg",
+  "overview": "Brasil, 2019. Joder é diagnosticado.",
+  "rating": 0,
+  "runtime": 25,
+  "genres": [
+    "drama",
+    "comedia",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Marcus Curvelo",
+      "character": "Joder",
+      "profile": "https://image.tmdb.org/t/p/w185/jVVSJORBa9zoX1itujCtXzV68rx.jpg"
+    },
+    {
+      "name": "Rodrigo Curvelo",
+      "character": "",
+      "profile": ""
+    },
+    {
+      "name": "Joel Curvelo",
+      "character": "",
+      "profile": ""
+    }
+  ],
+  "director": "Marcus Curvelo",
+  "tmdbId": 664795,
+  "xtream": {
+    "streamId": 3114840,
+    "containerExtension": "mp4"
+  }
+}

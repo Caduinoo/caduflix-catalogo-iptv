@@ -1,0 +1,83 @@
+{
+  "id": "series_3345",
+  "type": "series",
+  "title": "Morte no Deserto",
+  "originalTitle": "Two Shallow Graves",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/gemsbM7p5MyjtIWhJvysxaY0UGI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iYEUe58KONCdFeDQ6Rh8lLMP4Os.jpg",
+  "overview": "O desaparecimento da família McStay assombra a polícia por mais de três anos até os corpos aparecerem no deserto. A promotoria diz que as provas indicam que Chase Merritt os matou, mas ele se declara inocente.",
+  "rating": 7,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 202761,
+  "xtream": {
+    "seriesId": 3345
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3261691",
+          "episodeId": 3261691,
+          "season": 1,
+          "episode": 1,
+          "title": "Morte no Deserto S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261692",
+          "episodeId": 3261692,
+          "season": 1,
+          "episode": 2,
+          "title": "Morte no Deserto S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261693",
+          "episodeId": 3261693,
+          "season": 1,
+          "episode": 3,
+          "title": "Morte no Deserto S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261694",
+          "episodeId": 3261694,
+          "season": 1,
+          "episode": 4,
+          "title": "Morte no Deserto S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261695",
+          "episodeId": 3261695,
+          "season": 1,
+          "episode": 5,
+          "title": "Morte no Deserto S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261696",
+          "episodeId": 3261696,
+          "season": 1,
+          "episode": 6,
+          "title": "Morte no Deserto S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261697",
+          "episodeId": 3261697,
+          "season": 1,
+          "episode": 7,
+          "title": "Morte no Deserto S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

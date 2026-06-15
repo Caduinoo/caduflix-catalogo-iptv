@@ -1,0 +1,33 @@
+{
+  "id": "movie_2774205",
+  "type": "movie",
+  "title": "The Craft",
+  "originalTitle": "The Craft",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/lGZFDgxAnXEtAaefVnFvnO240aZ.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 11,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Zoe Terakes",
+      "character": "Priscilla",
+      "profile": "https://image.tmdb.org/t/p/w185/d76CY7JMI2RuxFWwrrNHXRratJf.jpg"
+    },
+    {
+      "name": "Helen Thomson",
+      "character": "Diana",
+      "profile": "https://image.tmdb.org/t/p/w185/uTKMoAEGLbkCHWCuBKbKMM3mR80.jpg"
+    }
+  ],
+  "director": "Armand De Saint-Salvy",
+  "tmdbId": 1231893,
+  "xtream": {
+    "streamId": 2774205,
+    "containerExtension": "mp4"
+  }
+}

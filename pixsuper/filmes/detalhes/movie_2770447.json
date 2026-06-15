@@ -1,0 +1,43 @@
+{
+  "id": "movie_2770447",
+  "type": "movie",
+  "title": "Heroes and Cowards",
+  "originalTitle": "Heroes and Cowards",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/pO2p0KUOvGrIvloIuGGj4TJMUFU.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5,
+  "runtime": 90,
+  "genres": [
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Ivan Doan",
+      "character": "Joshua",
+      "profile": "https://image.tmdb.org/t/p/w185/n2nulyEaXAEqfAvTim5ntylzWOS.jpg"
+    },
+    {
+      "name": "Alan Burgon",
+      "character": "Paul",
+      "profile": "https://image.tmdb.org/t/p/w185/1VEpso4XqLgX6JhrITiMRyojyRe.jpg"
+    },
+    {
+      "name": "Sophie Toropchina",
+      "character": "Lea",
+      "profile": "https://image.tmdb.org/t/p/w185/o2pXHBk7LxfHUVyR7ZdaMvbTSRT.jpg"
+    },
+    {
+      "name": "Peter Zackman",
+      "character": "Floyd",
+      "profile": ""
+    }
+  ],
+  "director": "Harald Holzenleiter",
+  "tmdbId": 650408,
+  "xtream": {
+    "streamId": 2770447,
+    "containerExtension": "mp4"
+  }
+}

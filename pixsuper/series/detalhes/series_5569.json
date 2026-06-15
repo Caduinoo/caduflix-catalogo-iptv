@@ -1,0 +1,74 @@
+{
+  "id": "series_5569",
+  "type": "series",
+  "title": "SPRINT",
+  "originalTitle": "SPRINT",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/2KOWUIR5pnl4VjWsVi5D8E43yXd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lCejMZamzoyAl4A1XQye0Tc4zpJ.jpg",
+  "overview": "Velocistas de elite encaram os treinamentos, a cobertura da mídia e a concorrência nesta série esportiva que acompanha a corrida para ser os mais rápidos do mundo.",
+  "rating": 7.154,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 245251,
+  "xtream": {
+    "seriesId": 5569
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3319224",
+          "episodeId": 3319224,
+          "season": 1,
+          "episode": 1,
+          "title": "SPRINT S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319225",
+          "episodeId": 3319225,
+          "season": 1,
+          "episode": 2,
+          "title": "SPRINT S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319226",
+          "episodeId": 3319226,
+          "season": 1,
+          "episode": 3,
+          "title": "SPRINT S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319227",
+          "episodeId": 3319227,
+          "season": 1,
+          "episode": 4,
+          "title": "SPRINT S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319228",
+          "episodeId": 3319228,
+          "season": 1,
+          "episode": 5,
+          "title": "SPRINT S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319229",
+          "episodeId": 3319229,
+          "season": 1,
+          "episode": 6,
+          "title": "SPRINT S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_6639",
+  "type": "series",
+  "title": "A Reinvenção do Flamengo",
+  "originalTitle": "A Reinvenção do Flamengo",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/eFGmQ2ZxaTWZ7rQ3GvuTBmPxVOa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aEjveJPugKa2erPkdhysSzHR9Fp.jpg",
+  "overview": "Essa reveladora série mostra a disputa pela presidência do Flamengo que tomou conta dos bastidores do time nos últimos 10 anos.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 283972,
+  "xtream": {
+    "seriesId": 6639
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3349154",
+          "episodeId": 3349154,
+          "season": 1,
+          "episode": 1,
+          "title": "A Reinvencao do Flamengo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3349155",
+          "episodeId": 3349155,
+          "season": 1,
+          "episode": 2,
+          "title": "A Reinvencao do Flamengo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3349156",
+          "episodeId": 3349156,
+          "season": 1,
+          "episode": 3,
+          "title": "A Reinvencao do Flamengo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3349157",
+          "episodeId": 3349157,
+          "season": 1,
+          "episode": 4,
+          "title": "A Reinvencao do Flamengo S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

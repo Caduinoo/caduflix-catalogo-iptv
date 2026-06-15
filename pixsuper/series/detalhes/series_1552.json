@@ -1,0 +1,59 @@
+{
+  "id": "series_1552",
+  "type": "series",
+  "title": "Adult Material",
+  "originalTitle": "Adult Material",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/niPoxn9jPgB322BvujD7ZdlfOJd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uEvj4C4dtHJqYoRRy0U9fPZlthP.jpg",
+  "overview": "A vida de uma mulher que trabalha na indústria cinematográfica adulta se estende de seu início decadente a uma empresa de grande sucesso.",
+  "rating": 6.464,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 100444,
+  "xtream": {
+    "seriesId": 1552
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3203978",
+          "episodeId": 3203978,
+          "season": 1,
+          "episode": 1,
+          "title": "Adult Material S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203979",
+          "episodeId": 3203979,
+          "season": 1,
+          "episode": 2,
+          "title": "Adult Material S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203980",
+          "episodeId": 3203980,
+          "season": 1,
+          "episode": 3,
+          "title": "Adult Material S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203981",
+          "episodeId": 3203981,
+          "season": 1,
+          "episode": 4,
+          "title": "Adult Material S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

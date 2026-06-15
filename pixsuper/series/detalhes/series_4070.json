@@ -1,0 +1,58 @@
+{
+  "id": "series_4070",
+  "type": "series",
+  "title": "Mau Comportamento",
+  "originalTitle": "Bad Behaviour",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/lKEZdbcmeIDGfl0uvxu0yWl0sdX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4mEzCZlvoL9SUXt4hfYGNJGfFti.jpg",
+  "overview": "Jo tem um encontro que a faz relembrar os tempos de escola. Lá ela viveu intensas experiências, especialmente na relação com uma garota violenta e sua vítima.",
+  "rating": 6.375,
+  "genres": [
+    "drama"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 207368,
+  "xtream": {
+    "seriesId": 4070
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3280394",
+          "episodeId": 3280394,
+          "season": 1,
+          "episode": 1,
+          "title": "Mau Comportamento S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3280395",
+          "episodeId": 3280395,
+          "season": 1,
+          "episode": 2,
+          "title": "Mau Comportamento S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3280396",
+          "episodeId": 3280396,
+          "season": 1,
+          "episode": 3,
+          "title": "Mau Comportamento S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3280397",
+          "episodeId": 3280397,
+          "season": 1,
+          "episode": 4,
+          "title": "Mau Comportamento S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

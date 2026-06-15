@@ -1,0 +1,79 @@
+{
+  "id": "series_8886",
+  "type": "series",
+  "title": "Assassinos WU",
+  "originalTitle": "Wu Assassins",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/2EKuL9l9wvUk1dFJHRPuFbXKlAY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f0rWmWBn7lxDkx58ZdMZoYtcO1E.jpg",
+  "overview": "Um simples chef de San Francisco é o mais novo entre os inúmeros assassinos escolhidos para evitar que os poderes místicos de Wu caiam em mãos erradas.",
+  "rating": 6.72,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama",
+    "acao",
+    "aventura",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 86752,
+  "xtream": {
+    "seriesId": 8886
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3390592",
+          "episodeId": 3390592,
+          "season": 1,
+          "episode": 1,
+          "title": "WU (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390593",
+          "episodeId": 3390593,
+          "season": 1,
+          "episode": 2,
+          "title": "WU (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390594",
+          "episodeId": 3390594,
+          "season": 1,
+          "episode": 3,
+          "title": "WU (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390595",
+          "episodeId": 3390595,
+          "season": 1,
+          "episode": 4,
+          "title": "WU (2026) [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390596",
+          "episodeId": 3390596,
+          "season": 1,
+          "episode": 5,
+          "title": "WU (2026) [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3412560",
+          "episodeId": 3412560,
+          "season": 1,
+          "episode": 6,
+          "title": "WU (2026) [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

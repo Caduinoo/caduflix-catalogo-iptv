@@ -1,0 +1,74 @@
+{
+  "id": "series_3999",
+  "type": "series",
+  "title": "Pandemia",
+  "originalTitle": "Pandemic: How to Prevent an Outbreak",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/3UledxyPndc0Bdq4cc20RVh0lE2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9sTIxPFsjdcMjI1GdfC9JyQ4rTw.jpg",
+  "overview": "Nesta série documental, conheça os heróis que estão na linha de frente do combate ao vírus da gripe e o que eles estão fazendo para evitar a próxima epidemia global.",
+  "rating": 6.884,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 96557,
+  "xtream": {
+    "seriesId": 3999
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3278849",
+          "episodeId": 3278849,
+          "season": 1,
+          "episode": 1,
+          "title": "Pandemia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278850",
+          "episodeId": 3278850,
+          "season": 1,
+          "episode": 2,
+          "title": "Pandemia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278851",
+          "episodeId": 3278851,
+          "season": 1,
+          "episode": 3,
+          "title": "Pandemia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278852",
+          "episodeId": 3278852,
+          "season": 1,
+          "episode": 4,
+          "title": "Pandemia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278853",
+          "episodeId": 3278853,
+          "season": 1,
+          "episode": 5,
+          "title": "Pandemia S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278854",
+          "episodeId": 3278854,
+          "season": 1,
+          "episode": 6,
+          "title": "Pandemia S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

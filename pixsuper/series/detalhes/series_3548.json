@@ -1,0 +1,59 @@
+{
+  "id": "series_3548",
+  "type": "series",
+  "title": "A Virada",
+  "originalTitle": "A Virada",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/roqr5RyMY1tv9XZX0cAYEvvDDyc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fRKp6TumWTdihKLL95lcy6BSdto.jpg",
+  "overview": "Acompanhe os bastidores do Cruzeiro, dentro e fora de campo, durante a temporada que terminou com a glória do acesso após Ronaldo Nazário assumir o controle do clube.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 225039,
+  "xtream": {
+    "seriesId": 3548
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3266450",
+          "episodeId": 3266450,
+          "season": 1,
+          "episode": 1,
+          "title": "A Virada S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3266451",
+          "episodeId": 3266451,
+          "season": 1,
+          "episode": 2,
+          "title": "A Virada S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3266452",
+          "episodeId": 3266452,
+          "season": 1,
+          "episode": 3,
+          "title": "A Virada S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3266453",
+          "episodeId": 3266453,
+          "season": 1,
+          "episode": 4,
+          "title": "A Virada S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

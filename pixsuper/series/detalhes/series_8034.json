@@ -1,0 +1,42 @@
+{
+  "id": "series_8034",
+  "type": "series",
+  "title": "Agentes do Caos",
+  "originalTitle": "Agents of Chaos",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/lfNm9JtlwPU370qWDkjJzobKgOL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s1uQIMMAngDAS9CI2XLvY2M7Vvd.jpg",
+  "overview": "Documentário em duas partes que oferece um olhar oportuno e perspicaz da interferência da Rússia nas eleições de 2016 nos EUA.",
+  "rating": 6.6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 108154,
+  "xtream": {
+    "seriesId": 8034
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3375928",
+          "episodeId": 3375928,
+          "season": 1,
+          "episode": 1,
+          "title": "Agentes do Caos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375929",
+          "episodeId": 3375929,
+          "season": 1,
+          "episode": 2,
+          "title": "Agentes do Caos S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

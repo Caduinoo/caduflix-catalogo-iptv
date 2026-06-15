@@ -1,0 +1,52 @@
+{
+  "id": "series_1596",
+  "type": "series",
+  "title": "Sophie: Assassinato em West Cork",
+  "originalTitle": "Sophie: A Murder in West Cork",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/ggM1EUJ4KbxMY5uyZ6X0zfznoHY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rL5CblmMvXje9CeQvrOl1MPkvrd.jpg",
+  "overview": "Um assassinato chocante na Irlanda rural desencadeia uma busca cada vez mais complicada por justiça que atravessa décadas e atravessa as fronteiras nacionais.",
+  "rating": 6.411,
+  "genres": [
+    "documentario",
+    "crime",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 126396,
+  "xtream": {
+    "seriesId": 1596
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3206134",
+          "episodeId": 3206134,
+          "season": 1,
+          "episode": 1,
+          "title": "Sophie: Assassinato em West Cork S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206135",
+          "episodeId": 3206135,
+          "season": 1,
+          "episode": 2,
+          "title": "Sophie: Assassinato em West Cork S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206136",
+          "episodeId": 3206136,
+          "season": 1,
+          "episode": 3,
+          "title": "Sophie: Assassinato em West Cork S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

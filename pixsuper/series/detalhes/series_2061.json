@@ -1,0 +1,76 @@
+{
+  "id": "series_2061",
+  "type": "series",
+  "title": "Supernormal",
+  "originalTitle": "Supernormal",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/uU2oftBNJjizWIiF4nctM1Az0PP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eHLRwO4If0snqzgjtdqS6Ead8gQ.jpg",
+  "overview": "Patricia quer ser a melhor em tudo, mas as linhas que separam a família do trabalho são muito tênues e ela vai terminar levando trabalho para casa e a família para o trabalho.",
+  "rating": 4.8,
+  "genres": [
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 126410,
+  "xtream": {
+    "seriesId": 2061
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3226169",
+          "episodeId": 3226169,
+          "season": 1,
+          "episode": 1,
+          "title": "Supernormal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226170",
+          "episodeId": 3226170,
+          "season": 1,
+          "episode": 2,
+          "title": "Supernormal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226171",
+          "episodeId": 3226171,
+          "season": 1,
+          "episode": 3,
+          "title": "Supernormal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226172",
+          "episodeId": 3226172,
+          "season": 1,
+          "episode": 4,
+          "title": "Supernormal S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226173",
+          "episodeId": 3226173,
+          "season": 1,
+          "episode": 5,
+          "title": "Supernormal S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226174",
+          "episodeId": 3226174,
+          "season": 1,
+          "episode": 6,
+          "title": "Supernormal S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

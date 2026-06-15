@@ -1,0 +1,51 @@
+{
+  "id": "series_4754",
+  "type": "series",
+  "title": "Abraham Lincoln",
+  "originalTitle": "Abraham Lincoln",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/nzlh2iEf5DnjeyBMrXFl1Dhi18B.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xZpDIxpYH8lXflwjyYtrMPfzRdk.jpg",
+  "overview": "A verdadeira história do icônico 16º presidente dos Estados Unidos, contada tecendo duas dramatizações roteirizadas de momentos importantes de sua vida e comentários de historiadores de autoridade e figuras públicas.",
+  "rating": 7.7,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 156095,
+  "xtream": {
+    "seriesId": 4754
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3298793",
+          "episodeId": 3298793,
+          "season": 1,
+          "episode": 1,
+          "title": "Abraham Lincoln S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3298794",
+          "episodeId": 3298794,
+          "season": 1,
+          "episode": 2,
+          "title": "Abraham Lincoln S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3298795",
+          "episodeId": 3298795,
+          "season": 1,
+          "episode": 3,
+          "title": "Abraham Lincoln S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

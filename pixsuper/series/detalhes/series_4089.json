@@ -1,0 +1,51 @@
+{
+  "id": "series_4089",
+  "type": "series",
+  "title": "O Assassinato de Jill Dando",
+  "originalTitle": "Who Killed Jill Dando?",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/r34HhQnUMzsiKkWfTWnZKuvUB8A.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1UB7qOEjGV3Ei9E8HOSAS7eEqmo.jpg",
+  "overview": "Este documentário analisa o assassinato da apresentadora britânica Jill Dando, um crime de 1999 que continua desconcertando os especialistas e o público até hoje.",
+  "rating": 6.674,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 233722,
+  "xtream": {
+    "seriesId": 4089
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3280744",
+          "episodeId": 3280744,
+          "season": 1,
+          "episode": 1,
+          "title": "O Assassinato de Jill Dando S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3280745",
+          "episodeId": 3280745,
+          "season": 1,
+          "episode": 2,
+          "title": "O Assassinato de Jill Dando S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3280746",
+          "episodeId": 3280746,
+          "season": 1,
+          "episode": 3,
+          "title": "O Assassinato de Jill Dando S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

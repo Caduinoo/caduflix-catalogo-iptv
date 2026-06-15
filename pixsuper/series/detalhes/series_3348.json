@@ -1,0 +1,77 @@
+{
+  "id": "series_3348",
+  "type": "series",
+  "title": "Os Segredos do Zoológico",
+  "originalTitle": "Secrets of the Zoo",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/h0RoyEirZ05R3NS45gYgsGiUmts.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fcAfJE3QW1BeT7wDoUCataQwO1d.jpg",
+  "overview": "Confira todo o trabalho da equipe do Zoológico de Columbus, que lida com milhares de casos veterinários e centenas de partos todos os anos.",
+  "rating": 8.2,
+  "genres": [
+    "reality",
+    "familia",
+    "infantil",
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 86596,
+  "xtream": {
+    "seriesId": 3348
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3261715",
+          "episodeId": 3261715,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Segredos do Zoológico S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261716",
+          "episodeId": 3261716,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Segredos do Zoológico S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261717",
+          "episodeId": 3261717,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Segredos do Zoológico S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261718",
+          "episodeId": 3261718,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Segredos do Zoológico S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261719",
+          "episodeId": 3261719,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Segredos do Zoológico S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261720",
+          "episodeId": 3261720,
+          "season": 1,
+          "episode": 6,
+          "title": "Os Segredos do Zoológico S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

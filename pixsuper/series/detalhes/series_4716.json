@@ -1,0 +1,128 @@
+{
+  "id": "series_4716",
+  "type": "series",
+  "title": "O Turista",
+  "originalTitle": "The Tourist",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/fxe2t7uQkpnEGD7S1FW2bXtBjti.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i2u22f5fSujYLF2xbUrE8imEtuz.jpg",
+  "overview": "Um homem britânico está viajando pelas estradas da Austrália quando começa a ser seguido por um caminhão não identificado. Rapidamente, o motorista do caminhão tenha jogá-lo para fora da estrada, e ele acaba sofrendo um grave acidente.",
+  "rating": 6.8,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 120909,
+  "xtream": {
+    "seriesId": 4716
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3297661",
+          "episodeId": 3297661,
+          "season": 1,
+          "episode": 1,
+          "title": "O Turista [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297662",
+          "episodeId": 3297662,
+          "season": 1,
+          "episode": 2,
+          "title": "O Turista [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297663",
+          "episodeId": 3297663,
+          "season": 1,
+          "episode": 3,
+          "title": "O Turista [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297664",
+          "episodeId": 3297664,
+          "season": 1,
+          "episode": 4,
+          "title": "O Turista [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297665",
+          "episodeId": 3297665,
+          "season": 1,
+          "episode": 5,
+          "title": "O Turista [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297666",
+          "episodeId": 3297666,
+          "season": 1,
+          "episode": 6,
+          "title": "O Turista [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3297667",
+          "episodeId": 3297667,
+          "season": 2,
+          "episode": 1,
+          "title": "O Turista [L] S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297668",
+          "episodeId": 3297668,
+          "season": 2,
+          "episode": 2,
+          "title": "O Turista [L] S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297669",
+          "episodeId": 3297669,
+          "season": 2,
+          "episode": 3,
+          "title": "O Turista [L] S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297670",
+          "episodeId": 3297670,
+          "season": 2,
+          "episode": 4,
+          "title": "O Turista [L] S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297671",
+          "episodeId": 3297671,
+          "season": 2,
+          "episode": 5,
+          "title": "O Turista [L] S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297672",
+          "episodeId": 3297672,
+          "season": 2,
+          "episode": 6,
+          "title": "O Turista [L] S02 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

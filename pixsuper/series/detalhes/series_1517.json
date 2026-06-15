@@ -1,0 +1,83 @@
+{
+  "id": "series_1517",
+  "type": "series",
+  "title": "Solos",
+  "originalTitle": "Solos",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/fcmHjfvk1c32dqwfgEdmoUck4L5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1CCzfY6VL8VmPBd2fuRKi6ldN8u.jpg",
+  "overview": "Sete histórias únicas. Cada personagem embarcará em uma aventura emocionante em um futuro incerto e eles passarão a acreditar que mesmo em nossos momentos mais isolados, estamos todos conecta",
+  "rating": 5.5,
+  "genres": [
+    "reality",
+    "comedia"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 219408,
+  "xtream": {
+    "seriesId": 1517
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3202757",
+          "episodeId": 3202757,
+          "season": 1,
+          "episode": 1,
+          "title": "Solos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202758",
+          "episodeId": 3202758,
+          "season": 1,
+          "episode": 2,
+          "title": "Solos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202759",
+          "episodeId": 3202759,
+          "season": 1,
+          "episode": 3,
+          "title": "Solos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202760",
+          "episodeId": 3202760,
+          "season": 1,
+          "episode": 4,
+          "title": "Solos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202761",
+          "episodeId": 3202761,
+          "season": 1,
+          "episode": 5,
+          "title": "Solos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202762",
+          "episodeId": 3202762,
+          "season": 1,
+          "episode": 6,
+          "title": "Solos S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202763",
+          "episodeId": 3202763,
+          "season": 1,
+          "episode": 7,
+          "title": "Solos S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

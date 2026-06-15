@@ -1,0 +1,59 @@
+{
+  "id": "series_4147",
+  "type": "series",
+  "title": "Clara e o Chuveiro do Tempo",
+  "originalTitle": "Clara e o Chuveiro do Tempo",
+  "year": 2005,
+  "poster": "https://image.tmdb.org/t/p/w500/2tHxfaCsj6B1hj9NJPKMhr6UC1h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1T9oh8ZKXVLIRgid3l6c1oU5euZ.jpg",
+  "overview": "Depois de inventar uma máquina do tempo, Vô Teodoro acaba se perdendo no passado. Clara e seu melhor amigo Nico se aventuram para trazer o avô da menina de volta ao presente.",
+  "rating": 7,
+  "genres": [
+    "infantil",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 129462,
+  "xtream": {
+    "seriesId": 4147
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3282697",
+          "episodeId": 3282697,
+          "season": 1,
+          "episode": 1,
+          "title": "Clara e o Chuveiro do Tempo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3282698",
+          "episodeId": 3282698,
+          "season": 1,
+          "episode": 2,
+          "title": "Clara e o Chuveiro do Tempo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3282699",
+          "episodeId": 3282699,
+          "season": 1,
+          "episode": 3,
+          "title": "Clara e o Chuveiro do Tempo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3282700",
+          "episodeId": 3282700,
+          "season": 1,
+          "episode": 4,
+          "title": "Clara e o Chuveiro do Tempo S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

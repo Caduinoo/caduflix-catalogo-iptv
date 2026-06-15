@@ -1,0 +1,58 @@
+{
+  "id": "series_3350",
+  "type": "series",
+  "title": "PoderM",
+  "originalTitle": "MPower",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/8MLJKaCkObEaODCvmQaPVnBAGfe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gtrVTpxqhNO0mDjs6EpiqurfdZD.jpg",
+  "overview": "De Carol Danvers e Wanda Maximoff às mulheres de Wakanda e as Guardiãs da Galáxia, esta série desvenda as jornadas de personagens desde seu nascimento nos quadrinhos da Marvel até o MCU e além. Gravações de bastidores, animações criativas e entrevistas emocionantes são reunidas aqui para mostrar como essas personagens e as mulheres por trás desse sucesso causam impacto em fãs ao redor do mundo inteiro.",
+  "rating": 7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 220597,
+  "xtream": {
+    "seriesId": 3350
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3261729",
+          "episodeId": 3261729,
+          "season": 1,
+          "episode": 1,
+          "title": "PoderM S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261730",
+          "episodeId": 3261730,
+          "season": 1,
+          "episode": 2,
+          "title": "PoderM S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261731",
+          "episodeId": 3261731,
+          "season": 1,
+          "episode": 3,
+          "title": "PoderM S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3261732",
+          "episodeId": 3261732,
+          "season": 1,
+          "episode": 4,
+          "title": "PoderM S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

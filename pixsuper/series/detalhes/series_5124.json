@@ -1,0 +1,50 @@
+{
+  "id": "series_5124",
+  "type": "series",
+  "title": "Escalada No Ártico com Alex Honnold",
+  "originalTitle": "Arctic Ascent with Alex Honnold",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/98Crhyw978GDWEeuy83697thrGt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j0GtRLKVJtZhv5NUqVbum85F699.jpg",
+  "overview": "Alex Honnold lidera uma expedição à Groenlândia para escalar um imenso rochedo marinho de 1.200 metros para investigar os impactos da mudança climática na região.",
+  "rating": 6.9,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 131433,
+  "xtream": {
+    "seriesId": 5124
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308815",
+          "episodeId": 3308815,
+          "season": 1,
+          "episode": 1,
+          "title": "Arctic Ascent with Alex Honnold S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308816",
+          "episodeId": 3308816,
+          "season": 1,
+          "episode": 2,
+          "title": "Arctic Ascent with Alex Honnold S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308817",
+          "episodeId": 3308817,
+          "season": 1,
+          "episode": 3,
+          "title": "Arctic Ascent with Alex Honnold S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

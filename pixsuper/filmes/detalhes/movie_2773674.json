@@ -1,0 +1,43 @@
+{
+  "id": "movie_2773674",
+  "type": "movie",
+  "title": "Scott",
+  "originalTitle": "Scott",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/pEN3QwFf84QJ0cmMtQ8Zm0UuKjI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bKh9mTeAjHyyE8YqSxrdCT8PO3r.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 20,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "George Sear",
+      "character": "Scott",
+      "profile": "https://image.tmdb.org/t/p/w185/UVO6Hcfe3FgP2HbwDbQyI214Dm.jpg"
+    },
+    {
+      "name": "Stevie Sailor Marie",
+      "character": "Marianne",
+      "profile": ""
+    },
+    {
+      "name": "Luke Brandon Field",
+      "character": "Andrew",
+      "profile": "https://image.tmdb.org/t/p/w185/oFxfxwnJAZ6JSSpXWNuAt9ffW8W.jpg"
+    },
+    {
+      "name": "Ben Edlin",
+      "character": "The Date",
+      "profile": "https://image.tmdb.org/t/p/w185/67l3UtmeQDo0XElIigHABNvuUcX.jpg"
+    }
+  ],
+  "director": "George Sear",
+  "tmdbId": 1576489,
+  "xtream": {
+    "streamId": 2773674,
+    "containerExtension": "mp4"
+  }
+}

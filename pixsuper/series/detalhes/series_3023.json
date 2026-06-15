@@ -1,0 +1,95 @@
+{
+  "id": "series_3023",
+  "type": "series",
+  "title": "ReBoot",
+  "originalTitle": "ReBoot",
+  "year": 1994,
+  "poster": "https://image.tmdb.org/t/p/w500/5C2ZVZEZJdQLkaeO9cCw7rJ0EUM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bO4BrAyqkIYSYOpC9z2aE3OGSZX.jpg",
+  "overview": "O cenário é no mundo interior de um sistema de computador conhecido por seus habitantes como Mainframe. Ele foi deliberadamente escolhido devido a restrições de tecnológicas da época, como o mundo da informática ficcional permitido para blocos de modelos de aparência e animação mecânica  A maioria dos episódios estabelece personagens, locais e elementos da história, como os cubos de jogo gigantescos. Quando o usuário carrega um jogo, um cubo de jogo fica em um local aleatório no Mainframe, isolando-a do resto do sistema e transformando-o em um gamescape. Bob freqüentemente entra nos jogos, reinicia a tornar-se um personagem do jogo, e luta contra o caráter do usuário para salvar o setor. Se o usuário ganha um jogo, o setor do cubo caiu é destruído, e os sprites e binomes que foram pegos dentro são transformados em parasitas semelhantes a vermes, que consomem energia chamados nulos.",
+  "rating": 7.418,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "animacao",
+    "acao",
+    "aventura",
+    "infantil"
+  ],
+  "producer": "star_plus",
+  "tmdbId": 2121,
+  "xtream": {
+    "seriesId": 3023
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3253566",
+          "episodeId": 3253566,
+          "season": 1,
+          "episode": 1,
+          "title": "Reboot S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253567",
+          "episodeId": 3253567,
+          "season": 1,
+          "episode": 2,
+          "title": "Reboot S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253568",
+          "episodeId": 3253568,
+          "season": 1,
+          "episode": 3,
+          "title": "Reboot S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253569",
+          "episodeId": 3253569,
+          "season": 1,
+          "episode": 4,
+          "title": "Reboot S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253570",
+          "episodeId": 3253570,
+          "season": 1,
+          "episode": 5,
+          "title": "Reboot S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253571",
+          "episodeId": 3253571,
+          "season": 1,
+          "episode": 6,
+          "title": "Reboot S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253572",
+          "episodeId": 3253572,
+          "season": 1,
+          "episode": 7,
+          "title": "Reboot S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253573",
+          "episodeId": 3253573,
+          "season": 1,
+          "episode": 8,
+          "title": "Reboot S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

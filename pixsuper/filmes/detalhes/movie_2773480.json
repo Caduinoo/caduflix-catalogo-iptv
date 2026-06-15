@@ -1,0 +1,48 @@
+{
+  "id": "movie_2773480",
+  "type": "movie",
+  "title": "The Relic",
+  "originalTitle": "The Relic",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/oYOZ5Y6SK8XT1MhIOe6YbXJlgHR.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6.6,
+  "runtime": 14,
+  "genres": [
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Johnny Wactor",
+      "character": "Marcus",
+      "profile": "https://image.tmdb.org/t/p/w185/9wJSTHgsIydp7ARsnc8f6f1qnlS.jpg"
+    },
+    {
+      "name": "Stephanie Einstein",
+      "character": "Sadie",
+      "profile": "https://image.tmdb.org/t/p/w185/iDvwGKuLa7lpJEbXOkCX23Ngpjd.jpg"
+    },
+    {
+      "name": "Jesse Einstein",
+      "character": "Jacob",
+      "profile": "https://image.tmdb.org/t/p/w185/sA1bJxK5lX0moWBBeD4ZhdQPStP.jpg"
+    },
+    {
+      "name": "Andrew Oliveri",
+      "character": "The Man",
+      "profile": "https://image.tmdb.org/t/p/w185/aaROtwwBv2nowuIRqPhuLllZoKY.jpg"
+    },
+    {
+      "name": "Megan Le",
+      "character": "Kayla",
+      "profile": "https://image.tmdb.org/t/p/w185/5WIQmIMgEqSo3w69TiDoUKehae8.jpg"
+    }
+  ],
+  "director": "J.M. Logan",
+  "tmdbId": 752434,
+  "xtream": {
+    "streamId": 2773480,
+    "containerExtension": "mp4"
+  }
+}

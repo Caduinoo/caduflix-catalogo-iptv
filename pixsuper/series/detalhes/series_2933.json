@@ -1,0 +1,67 @@
+{
+  "id": "series_2933",
+  "type": "series",
+  "title": "Parques Nacionais dos Estados Unidos",
+  "originalTitle": "America's National Parks",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/bnpR0WOR3AxtwfO00bR81LrkReP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/re1SHTIIbpTrRKuhj7D1olvcYse.jpg",
+  "overview": "A série mostra as paisagens e vida selvagem de dez parques incrivelmente diversos e belos, alguns famosos e outros surpreendentemente desconhecidos. Cada um destes parques é uma joia natural e juntos deviam ser celebrados como um Tesouro Nacional.",
+  "rating": 7.5,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 207459,
+  "xtream": {
+    "seriesId": 2933
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3251889",
+          "episodeId": 3251889,
+          "season": 1,
+          "episode": 1,
+          "title": "Parques Nacionais dos Estados Unidos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251890",
+          "episodeId": 3251890,
+          "season": 1,
+          "episode": 2,
+          "title": "Parques Nacionais dos Estados Unidos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251891",
+          "episodeId": 3251891,
+          "season": 1,
+          "episode": 3,
+          "title": "Parques Nacionais dos Estados Unidos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251892",
+          "episodeId": 3251892,
+          "season": 1,
+          "episode": 4,
+          "title": "Parques Nacionais dos Estados Unidos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251893",
+          "episodeId": 3251893,
+          "season": 1,
+          "episode": 5,
+          "title": "Parques Nacionais dos Estados Unidos S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

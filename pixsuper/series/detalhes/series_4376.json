@@ -1,0 +1,58 @@
+{
+  "id": "series_4376",
+  "type": "series",
+  "title": "Segredos do Miss América",
+  "originalTitle": "Secrets of Miss America",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/7PM9KGMcefll2Gnqq5IerXr6GON.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/upiZwlLvGlEiMtbGjONgyfRyNuI.jpg",
+  "overview": "Conheça os segredos há muito guardados do concurso de beleza mais antigo dos Estados Unidos.",
+  "rating": 7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 230826,
+  "xtream": {
+    "seriesId": 4376
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3288206",
+          "episodeId": 3288206,
+          "season": 1,
+          "episode": 1,
+          "title": "Segredos do Miss America S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288207",
+          "episodeId": 3288207,
+          "season": 1,
+          "episode": 2,
+          "title": "Segredos do Miss America S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288208",
+          "episodeId": 3288208,
+          "season": 1,
+          "episode": 3,
+          "title": "Segredos do Miss America S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288209",
+          "episodeId": 3288209,
+          "season": 1,
+          "episode": 4,
+          "title": "Segredos do Miss America S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

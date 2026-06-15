@@ -1,0 +1,76 @@
+{
+  "id": "series_7064",
+  "type": "series",
+  "title": "Um Homem Decente",
+  "originalTitle": "Porządny człowiek",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/uJpsd5akdn7cWicHUoF9cKbvFbj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4yUqOxRK8cPABHB6BAxuAyfNWwi.jpg",
+  "overview": "Pawel é um homem decente, um marido dedicado, um bom pai e um cirurgião cardíaco bem-sucedido. Mas quando seu filho é brutalmente espancado na escola, Pawel toma uma decisão precipitada que altera para sempre o curso de sua idílica vida.",
+  "rating": 6.4,
+  "genres": [
+    "drama",
+    "misterio",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 270443,
+  "xtream": {
+    "seriesId": 7064
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3356046",
+          "episodeId": 3356046,
+          "season": 1,
+          "episode": 1,
+          "title": "Um Homem Decente [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356047",
+          "episodeId": 3356047,
+          "season": 1,
+          "episode": 2,
+          "title": "Um Homem Decente [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356048",
+          "episodeId": 3356048,
+          "season": 1,
+          "episode": 3,
+          "title": "Um Homem Decente [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356049",
+          "episodeId": 3356049,
+          "season": 1,
+          "episode": 4,
+          "title": "Um Homem Decente [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356050",
+          "episodeId": 3356050,
+          "season": 1,
+          "episode": 5,
+          "title": "Um Homem Decente [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356051",
+          "episodeId": 3356051,
+          "season": 1,
+          "episode": 6,
+          "title": "Um Homem Decente [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

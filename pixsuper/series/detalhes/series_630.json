@@ -1,0 +1,82 @@
+{
+  "id": "series_630",
+  "type": "series",
+  "title": "Hollywood",
+  "originalTitle": "Hollywood",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/8AvVBcuCpESqdQicuX7s4WOGo1V.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5QEzscZSI9CXCb7NAU9GsFM1n7X.jpg",
+  "overview": "Em Hollywood, após a Segunda Guerra, um ambicioso grupo de cineastas e atores faz de tudo para realizar seus sonhos de fama e sucesso.",
+  "rating": 7.215,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 87050,
+  "xtream": {
+    "seriesId": 630
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3159332",
+          "episodeId": 3159332,
+          "season": 1,
+          "episode": 1,
+          "title": "Hollywood [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159333",
+          "episodeId": 3159333,
+          "season": 1,
+          "episode": 2,
+          "title": "Hollywood [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159334",
+          "episodeId": 3159334,
+          "season": 1,
+          "episode": 3,
+          "title": "Hollywood [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159335",
+          "episodeId": 3159335,
+          "season": 1,
+          "episode": 4,
+          "title": "Hollywood [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159336",
+          "episodeId": 3159336,
+          "season": 1,
+          "episode": 5,
+          "title": "Hollywood [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159337",
+          "episodeId": 3159337,
+          "season": 1,
+          "episode": 6,
+          "title": "Hollywood [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3159338",
+          "episodeId": 3159338,
+          "season": 1,
+          "episode": 7,
+          "title": "Hollywood [L] S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

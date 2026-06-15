@@ -1,0 +1,67 @@
+{
+  "id": "series_7017",
+  "type": "series",
+  "title": "New Kids in the Wild",
+  "originalTitle": "New Kids in the Wild",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/xxMItgjyvpSa514ips7Gj8McowQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/27ijRJ7LBEwsMvloZO5XX2Ud0R3.jpg",
+  "overview": "",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "infantil"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 222211,
+  "xtream": {
+    "seriesId": 7017
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3355379",
+          "episodeId": 3355379,
+          "season": 1,
+          "episode": 1,
+          "title": "New Kids in the Wild S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355380",
+          "episodeId": 3355380,
+          "season": 1,
+          "episode": 2,
+          "title": "New Kids in the Wild S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355381",
+          "episodeId": 3355381,
+          "season": 1,
+          "episode": 3,
+          "title": "New Kids in the Wild S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355382",
+          "episodeId": 3355382,
+          "season": 1,
+          "episode": 4,
+          "title": "New Kids in the Wild S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355383",
+          "episodeId": 3355383,
+          "season": 1,
+          "episode": 5,
+          "title": "New Kids in the Wild S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

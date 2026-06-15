@@ -1,0 +1,58 @@
+{
+  "id": "series_8015",
+  "type": "series",
+  "title": "MARINES",
+  "originalTitle": "MARINES",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/PySOZY8U6xldNTw0g3sou4QEtX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kCf0Ydkeue3vnRljYxMRhigU2nx.jpg",
+  "overview": "Esta série documental militar acompanha a 31ª Unidade Expedicionária de Fuzileiros Navais dos EUA em exercícios de combate de alto risco no Pacífico.",
+  "rating": 6.2,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 303173,
+  "xtream": {
+    "seriesId": 8015
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3375710",
+          "episodeId": 3375710,
+          "season": 1,
+          "episode": 1,
+          "title": "MARINES S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375711",
+          "episodeId": 3375711,
+          "season": 1,
+          "episode": 2,
+          "title": "MARINES S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375712",
+          "episodeId": 3375712,
+          "season": 1,
+          "episode": 3,
+          "title": "MARINES S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375713",
+          "episodeId": 3375713,
+          "season": 1,
+          "episode": 4,
+          "title": "MARINES S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "movie_2761584",
+  "type": "movie",
+  "title": "Revolta",
+  "originalTitle": "Revolta",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/hw58moGnPB0RCoMSc3fCylyvNeC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ge2YTNbmyW39UokXFgsVRXr6Uzw.jpg",
+  "overview": "",
+  "rating": 6.2,
+  "runtime": 91,
+  "genres": [
+    "drama",
+    "ficcao",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Teresa Tavares",
+      "character": "Cristina",
+      "profile": "https://image.tmdb.org/t/p/w185/btgvIC5TeKDuQBaevcgyE6q9bTH.jpg"
+    },
+    {
+      "name": "Ricardo Pereira",
+      "character": "Paulo",
+      "profile": "https://image.tmdb.org/t/p/w185/ka35HapmYDkf1GSzmcDcl3YWEQa.jpg"
+    },
+    {
+      "name": "Cristovão Campos",
+      "character": "João",
+      "profile": "https://image.tmdb.org/t/p/w185/aYXD2mz9NWs5hG2xfJ2hB1v6PSs.jpg"
+    },
+    {
+      "name": "Margarida Vila-Nova",
+      "character": "Raquel",
+      "profile": "https://image.tmdb.org/t/p/w185/xhuae5uvfzonRaIy1jR8ctKVal4.jpg"
+    }
+  ],
+  "director": "Tiago R. Santos",
+  "tmdbId": 979772,
+  "xtream": {
+    "streamId": 2761584,
+    "containerExtension": "mp4"
+  }
+}

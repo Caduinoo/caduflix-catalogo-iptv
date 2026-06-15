@@ -1,0 +1,74 @@
+{
+  "id": "series_3935",
+  "type": "series",
+  "title": "Game of Silence",
+  "originalTitle": "Game of Silence",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/bXFCYa8Kx35aEp68F3Q9RG8mAYX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/35szhk4sNfjOuomIcr6KOHzUR0x.jpg",
+  "overview": "Game of Silence conta a história de um advogado em ascensão que pode perder todo o seu dinheiro e sua vida perfeita quando um grupo de colegas de infância começa a ameaçar contar um segredo sombrio do passado violento que tiveram juntos.",
+  "rating": 5.2,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 64482,
+  "xtream": {
+    "seriesId": 3935
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3277311",
+          "episodeId": 3277311,
+          "season": 1,
+          "episode": 1,
+          "title": "Silence [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277312",
+          "episodeId": 3277312,
+          "season": 1,
+          "episode": 2,
+          "title": "Silence [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277313",
+          "episodeId": 3277313,
+          "season": 1,
+          "episode": 3,
+          "title": "Silence [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277314",
+          "episodeId": 3277314,
+          "season": 1,
+          "episode": 4,
+          "title": "Silence [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277315",
+          "episodeId": 3277315,
+          "season": 1,
+          "episode": 5,
+          "title": "Silence [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277316",
+          "episodeId": 3277316,
+          "season": 1,
+          "episode": 6,
+          "title": "Silence [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

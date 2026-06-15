@@ -1,0 +1,40 @@
+{
+  "id": "series_8829",
+  "type": "series",
+  "title": "Well Be Fine",
+  "originalTitle": "Well Be Fine",
+  "year": 2026,
+  "poster": "http://image.tmdb.org/t/p/w300/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 7,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 8829
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3389952",
+          "episodeId": 3389952,
+          "season": 1,
+          "episode": 1,
+          "title": "Well Be Fine (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3389953",
+          "episodeId": 3389953,
+          "season": 1,
+          "episode": 2,
+          "title": "Well Be Fine (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

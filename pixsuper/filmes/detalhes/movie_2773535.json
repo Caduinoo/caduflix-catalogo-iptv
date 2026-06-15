@@ -1,0 +1,35 @@
+{
+  "id": "movie_2773535",
+  "type": "movie",
+  "title": "The Ride",
+  "originalTitle": "The Ride",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w300/vozQNEvIKWkQIIiaMPvTOArxGkH.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 7,
+  "genres": [
+    "comedia",
+    "crime",
+    "romance"
+  ],
+  "cast": [
+    {
+      "name": "Belinda Misevski",
+      "character": "Woman",
+      "profile": ""
+    },
+    {
+      "name": "Benjamin Rigby",
+      "character": "Man",
+      "profile": "https://image.tmdb.org/t/p/w185/le5qTKDolOJBZ5mWjnx5QwNbCPA.jpg"
+    }
+  ],
+  "director": "Timothy Melville",
+  "tmdbId": 376671,
+  "xtream": {
+    "streamId": 2773535,
+    "containerExtension": "mp4"
+  }
+}

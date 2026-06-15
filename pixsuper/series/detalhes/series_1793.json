@@ -1,0 +1,83 @@
+{
+  "id": "series_1793",
+  "type": "series",
+  "title": "Missa da Meia-Noite",
+  "originalTitle": "Midnight Mass",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/rka8ibtD6HayiEJmb6rns47lyAL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/YauN3gyvgqktYhze4gXPWuoZBY.jpg",
+  "overview": "A chegada de um jovem sacerdote carismático traz milagres, mistérios e um fervor religioso renovado a uma cidade moribunda e desesperada por fé.",
+  "rating": 7.552,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 97400,
+  "xtream": {
+    "seriesId": 1793
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3217005",
+          "episodeId": 3217005,
+          "season": 1,
+          "episode": 1,
+          "title": "Missa da Meia-Noite S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217006",
+          "episodeId": 3217006,
+          "season": 1,
+          "episode": 2,
+          "title": "Missa da Meia-Noite S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217007",
+          "episodeId": 3217007,
+          "season": 1,
+          "episode": 3,
+          "title": "Missa da Meia-Noite S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217008",
+          "episodeId": 3217008,
+          "season": 1,
+          "episode": 4,
+          "title": "Missa da Meia-Noite S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217009",
+          "episodeId": 3217009,
+          "season": 1,
+          "episode": 5,
+          "title": "Missa da Meia-Noite S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217010",
+          "episodeId": 3217010,
+          "season": 1,
+          "episode": 6,
+          "title": "Missa da Meia-Noite S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217011",
+          "episodeId": 3217011,
+          "season": 1,
+          "episode": 7,
+          "title": "Missa da Meia-Noite S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

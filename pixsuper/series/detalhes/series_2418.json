@@ -1,0 +1,76 @@
+{
+  "id": "series_2418",
+  "type": "series",
+  "title": "Sentença",
+  "originalTitle": "Sentença",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/uGozGq4skp2bYfNeJWscx8bHIw2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h8Env8iYWHXDZ8R4fypu9JvERsF.jpg",
+  "overview": "Heloísa é uma advogada criminalista que acredita na lei e no direito à defesa, mas se vê numa encruzilhada quando a justiça falha com quem mais ama.",
+  "rating": 5.1,
+  "genres": [
+    "drama",
+    "crime",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 123378,
+  "xtream": {
+    "seriesId": 2418
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3238503",
+          "episodeId": 3238503,
+          "season": 1,
+          "episode": 1,
+          "title": "Sentença S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238504",
+          "episodeId": 3238504,
+          "season": 1,
+          "episode": 2,
+          "title": "Sentença S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238505",
+          "episodeId": 3238505,
+          "season": 1,
+          "episode": 3,
+          "title": "Sentença S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238506",
+          "episodeId": 3238506,
+          "season": 1,
+          "episode": 4,
+          "title": "Sentença S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238507",
+          "episodeId": 3238507,
+          "season": 1,
+          "episode": 5,
+          "title": "Sentença S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238508",
+          "episodeId": 3238508,
+          "season": 1,
+          "episode": 6,
+          "title": "Sentença S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

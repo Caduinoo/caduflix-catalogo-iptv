@@ -1,0 +1,70 @@
+{
+  "id": "series_4148",
+  "type": "series",
+  "title": "O Relógio da Aventura",
+  "originalTitle": "O Relógio da Aventura",
+  "year": 2010,
+  "poster": "https://image.tmdb.org/t/p/w500/5TO6gj5gLagFk5paFNFrQw49oZD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6F7UlaRvSlnSuVXL1aFPPovgc1X.jpg",
+  "overview": "Um relógio permite que o menino João seja transportado de sua casa, em uma cidade do Brasil de hoje, para a Roma antiga.",
+  "rating": 0,
+  "genres": [
+    "infantil",
+    "familia",
+    "comedia",
+    "aventura",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 99247,
+  "xtream": {
+    "seriesId": 4148
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3282701",
+          "episodeId": 3282701,
+          "season": 1,
+          "episode": 1,
+          "title": "O Relogio da Aventura S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3282702",
+          "episodeId": 3282702,
+          "season": 1,
+          "episode": 2,
+          "title": "O Relogio da Aventura S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3282703",
+          "episodeId": 3282703,
+          "season": 1,
+          "episode": 3,
+          "title": "O Relogio da Aventura S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3282704",
+          "episodeId": 3282704,
+          "season": 1,
+          "episode": 4,
+          "title": "O Relogio da Aventura S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3282705",
+          "episodeId": 3282705,
+          "season": 1,
+          "episode": 5,
+          "title": "O Relogio da Aventura S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

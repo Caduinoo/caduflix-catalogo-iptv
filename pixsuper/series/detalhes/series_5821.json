@@ -1,0 +1,66 @@
+{
+  "id": "series_5821",
+  "type": "series",
+  "title": "Viver para Dançar",
+  "originalTitle": "Dance Life",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/2UmohKyif7SyZlSFDrdHYJNGRU5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pfCtdIH8ewYeqe0eyc2z7q3hHZA.jpg",
+  "overview": "Esta série acompanha a trajetória dos alunos mais talentosos da principal academia de dança da Austrália. Na busca incansável para se tornarem dançarinos profissionais, os riscos são altos, e nem todos realizarão seus sonhos.",
+  "rating": 9,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 242844,
+  "xtream": {
+    "seriesId": 5821
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3326660",
+          "episodeId": 3326660,
+          "season": 1,
+          "episode": 1,
+          "title": "Viver para Dancar [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3326661",
+          "episodeId": 3326661,
+          "season": 1,
+          "episode": 2,
+          "title": "Viver para Dancar [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3326662",
+          "episodeId": 3326662,
+          "season": 1,
+          "episode": 3,
+          "title": "Viver para Dancar [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3326663",
+          "episodeId": 3326663,
+          "season": 1,
+          "episode": 4,
+          "title": "Viver para Dancar [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3326664",
+          "episodeId": 3326664,
+          "season": 1,
+          "episode": 5,
+          "title": "Viver para Dancar [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

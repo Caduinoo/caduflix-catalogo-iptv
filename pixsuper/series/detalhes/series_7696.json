@@ -1,0 +1,50 @@
+{
+  "id": "series_7696",
+  "type": "series",
+  "title": "Os Segredos de Tutancâmon",
+  "originalTitle": "Tut's Treasures: Hidden Secrets",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/eFeB2aaLvuzOmryzI9mnVeYvlym.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8RZxX7Urzkq1pKHHeC2HWKEtU2I.jpg",
+  "overview": "Descubra a história de um jovem rei e líder poderoso o suficiente para restabelecer um Egito falido no centro do mundo antigo.",
+  "rating": 6.9,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 80225,
+  "xtream": {
+    "seriesId": 7696
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3370384",
+          "episodeId": 3370384,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Segredos de Tutancamon S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3370385",
+          "episodeId": 3370385,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Segredos de Tutancamon S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3370386",
+          "episodeId": 3370386,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Segredos de Tutancamon S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "movie_2754163",
+  "type": "movie",
+  "title": "Paradise Beach",
+  "originalTitle": "Paradise Beach",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/aNTEIJFwkpFgoHsYzI9gCXv0ieH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zjsqJ5l3EyOoZ97J8EA6TO2v74U.jpg",
+  "overview": "",
+  "rating": 10,
+  "runtime": 5,
+  "genres": [
+    "comedia",
+    "fantasia",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Ralph Fellows",
+      "character": "Jon",
+      "profile": ""
+    },
+    {
+      "name": "Joseph Stacey",
+      "character": "Bradley",
+      "profile": "https://image.tmdb.org/t/p/w185/xsexaurAWPw2Djx80CZIjvCqEQ7.jpg"
+    },
+    {
+      "name": "Nika Kushnir",
+      "character": "singer",
+      "profile": ""
+    },
+    {
+      "name": "Liam Mac An Bhaird",
+      "character": "guitar player",
+      "profile": ""
+    }
+  ],
+  "director": "Dave Lojek",
+  "tmdbId": 1217347,
+  "xtream": {
+    "streamId": 2754163,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "movie_3122782",
+  "type": "movie",
+  "title": "Three Months",
+  "originalTitle": "Three Months",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/vRjmzPB2vZm1PmlV3O1XnFKEtER.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/AoYALOs1XqxXu7QT7oWA3GNGgcC.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 24,
+  "genres": [
+    "drama",
+    "ficcao"
+  ],
+  "cast": [
+    {
+      "name": "Konstantin Belenko",
+      "character": "Boy",
+      "profile": "https://image.tmdb.org/t/p/w185/jFvUdVxZthHT9VpqkdW5WUQ4Or0.jpg"
+    },
+    {
+      "name": "Ian McCuen",
+      "character": "Alien",
+      "profile": "https://image.tmdb.org/t/p/w185/6U40OU5s19qQVjQLPHniGvdPv6l.jpg"
+    }
+  ],
+  "director": "Konstantin Belenko",
+  "tmdbId": 977874,
+  "xtream": {
+    "streamId": 3122782,
+    "containerExtension": "mp4"
+  }
+}

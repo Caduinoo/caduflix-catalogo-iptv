@@ -1,0 +1,79 @@
+{
+  "id": "series_608",
+  "type": "series",
+  "title": "Rocketeer",
+  "originalTitle": "The Rocketeer",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/jkrGFCn9Yb0Lbb4kGROohoJ2gxM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tPyCjag3aJMGJYvtMmY6XRsTJRe.jpg",
+  "overview": "Kit Secord, uma jovem garota que recebe um pacote surpresa em seu aniversário, revelando que é a próxima na fila para se tornar a Rocketeer, uma super-heroína lendária que tem a capacidade de voar com a ajuda de um jet pack movido a foguete. Armada com seu novo equipamento e identidade secreta, Kit está pronta para voar e salvar o dia com seu melhor amiga, Tesh, e seu tio mecânico de aviões, Ambrose, que se juntam a ela em aventuras épicas.",
+  "rating": 8.1,
+  "genres": [
+    "animacao",
+    "comedia",
+    "acao",
+    "aventura",
+    "familia",
+    "infantil"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 95543,
+  "xtream": {
+    "seriesId": 608
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3158773",
+          "episodeId": 3158773,
+          "season": 1,
+          "episode": 1,
+          "title": "Rocketeer S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3158774",
+          "episodeId": 3158774,
+          "season": 1,
+          "episode": 2,
+          "title": "Rocketeer S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3158775",
+          "episodeId": 3158775,
+          "season": 1,
+          "episode": 3,
+          "title": "Rocketeer S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3158776",
+          "episodeId": 3158776,
+          "season": 1,
+          "episode": 4,
+          "title": "Rocketeer S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3158777",
+          "episodeId": 3158777,
+          "season": 1,
+          "episode": 5,
+          "title": "Rocketeer S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3158778",
+          "episodeId": 3158778,
+          "season": 1,
+          "episode": 6,
+          "title": "Rocketeer S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

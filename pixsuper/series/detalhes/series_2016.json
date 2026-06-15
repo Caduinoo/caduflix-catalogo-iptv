@@ -1,0 +1,74 @@
+{
+  "id": "series_2016",
+  "type": "series",
+  "title": "Apaixonados por Comida",
+  "originalTitle": "Food Obsessed",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/jOCNZLZfh6lqZOw1v06aLXnghBJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8A4QHYGvqh4xFa0GliAXqlR6KST.jpg",
+  "overview": "Amantes da comida do mundo, unam-se. Estamos trazendo nossos maiores apetites e mergulhando nas refeições mais saborosas do mundo neste guia definitivo para tudo relacionado à comida. De pizzas incríveis a montes de macarrão, passando por delícias fritas e muito mais, não há necessidade de esconder sua obsessão por comida - estamos aqui para celebrá-la.",
+  "rating": 0,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 246014,
+  "xtream": {
+    "seriesId": 2016
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3225108",
+          "episodeId": 3225108,
+          "season": 1,
+          "episode": 1,
+          "title": "Apaixonados Por Comida S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225109",
+          "episodeId": 3225109,
+          "season": 1,
+          "episode": 2,
+          "title": "Apaixonados Por Comida S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225110",
+          "episodeId": 3225110,
+          "season": 1,
+          "episode": 3,
+          "title": "Apaixonados Por Comida S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225111",
+          "episodeId": 3225111,
+          "season": 1,
+          "episode": 4,
+          "title": "Apaixonados Por Comida S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225112",
+          "episodeId": 3225112,
+          "season": 1,
+          "episode": 5,
+          "title": "Apaixonados Por Comida S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225113",
+          "episodeId": 3225113,
+          "season": 1,
+          "episode": 6,
+          "title": "Apaixonados Por Comida S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

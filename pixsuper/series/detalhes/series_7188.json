@@ -1,0 +1,74 @@
+{
+  "id": "series_7188",
+  "type": "series",
+  "title": "Kafka",
+  "originalTitle": "Kafka",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/9aJiagZHkt1ke9NQ4zFyAReun9l.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/37pf39HIS5ESbZ1xEKj2elZEJyx.jpg",
+  "overview": "A série celebra o legado do mais conhecido autor alemão: Franz Kafka. Seus amores, o relacionamento com o pai autoritário, e a amizade com Max Brod. Junho de 2024 marca o centenário da morte do escritor.",
+  "rating": 7.571,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 246459,
+  "xtream": {
+    "seriesId": 7188
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3360203",
+          "episodeId": 3360203,
+          "season": 1,
+          "episode": 1,
+          "title": "Kafka [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360204",
+          "episodeId": 3360204,
+          "season": 1,
+          "episode": 2,
+          "title": "Kafka [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360205",
+          "episodeId": 3360205,
+          "season": 1,
+          "episode": 3,
+          "title": "Kafka [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360206",
+          "episodeId": 3360206,
+          "season": 1,
+          "episode": 4,
+          "title": "Kafka [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360207",
+          "episodeId": 3360207,
+          "season": 1,
+          "episode": 5,
+          "title": "Kafka [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360208",
+          "episodeId": 3360208,
+          "season": 1,
+          "episode": 6,
+          "title": "Kafka [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

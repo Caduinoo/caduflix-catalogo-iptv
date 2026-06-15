@@ -1,0 +1,77 @@
+{
+  "id": "series_2534",
+  "type": "series",
+  "title": "Obi-Wan Kenobi",
+  "originalTitle": "Obi-Wan Kenobi",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/dnHP6MdJ4jMZgKvNrOYTjrgqn9l.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p3Jmm6d1ShUrJEuU3DYD2K19c66.jpg",
+  "overview": "Durante o reinado do Império Galáctico, o antigo Mestre Jedi Obi-Wan Kenobi embarca em uma missão crucial. Kenobi deve confrontar aliados que se tornaram inimigos e enfrentar a fúria do Império.",
+  "rating": 7.013,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 92830,
+  "xtream": {
+    "seriesId": 2534
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3241359",
+          "episodeId": 3241359,
+          "season": 1,
+          "episode": 1,
+          "title": "Obi-Wan Kenobi S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241360",
+          "episodeId": 3241360,
+          "season": 1,
+          "episode": 2,
+          "title": "Obi-Wan Kenobi S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241361",
+          "episodeId": 3241361,
+          "season": 1,
+          "episode": 3,
+          "title": "Obi-Wan Kenobi S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241362",
+          "episodeId": 3241362,
+          "season": 1,
+          "episode": 4,
+          "title": "Obi-Wan Kenobi S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241363",
+          "episodeId": 3241363,
+          "season": 1,
+          "episode": 5,
+          "title": "Obi-Wan Kenobi S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241364",
+          "episodeId": 3241364,
+          "season": 1,
+          "episode": 6,
+          "title": "Obi-Wan Kenobi S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

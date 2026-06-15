@@ -1,0 +1,74 @@
+{
+  "id": "series_5212",
+  "type": "series",
+  "title": "Hope on the Street",
+  "originalTitle": "Hope on the Street",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/tuEgLvnYyKFQYpAQhNuVZN3Fciu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vJAMQUHVpXJxBLezmwtKTeA6bo2.jpg",
+  "overview": "Hope On The Street é uma série documental que vai contar a história de amor de J-Hope pela dança, quando ele começa uma nova jornada na sua carreira profissional. J-Hope explora as ruas de Osaka, Seul, Paris, Nova York e Gwangju, encontrando dançarinos de rua inspiradores ao longo do caminho.",
+  "rating": 8.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 246711,
+  "xtream": {
+    "seriesId": 5212
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3310590",
+          "episodeId": 3310590,
+          "season": 1,
+          "episode": 1,
+          "title": "Hope on the Street [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310591",
+          "episodeId": 3310591,
+          "season": 1,
+          "episode": 2,
+          "title": "Hope on the Street [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310592",
+          "episodeId": 3310592,
+          "season": 1,
+          "episode": 3,
+          "title": "Hope on the Street [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310593",
+          "episodeId": 3310593,
+          "season": 1,
+          "episode": 4,
+          "title": "Hope on the Street [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310594",
+          "episodeId": 3310594,
+          "season": 1,
+          "episode": 5,
+          "title": "Hope on the Street [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310595",
+          "episodeId": 3310595,
+          "season": 1,
+          "episode": 6,
+          "title": "Hope on the Street [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

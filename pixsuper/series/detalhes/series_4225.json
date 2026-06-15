@@ -1,0 +1,75 @@
+{
+  "id": "series_4225",
+  "type": "series",
+  "title": "Codex 632",
+  "originalTitle": "Codex 632",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/vHZXbxI1ChUDmXGpD3GRrl5vCHW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s0h0Cuw4rk0wV2v29GondvZP5ij.jpg",
+  "overview": "Tomás, um professor especialista em criptologia, é contratado por uma fundação para decifrar o enigma deixado por seu falecido mentor.",
+  "rating": 6,
+  "genres": [
+    "drama",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 210363,
+  "xtream": {
+    "seriesId": 4225
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3285262",
+          "episodeId": 3285262,
+          "season": 1,
+          "episode": 1,
+          "title": "Codex 632 S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285263",
+          "episodeId": 3285263,
+          "season": 1,
+          "episode": 2,
+          "title": "Codex 632 S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285264",
+          "episodeId": 3285264,
+          "season": 1,
+          "episode": 3,
+          "title": "Codex 632 S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285265",
+          "episodeId": 3285265,
+          "season": 1,
+          "episode": 4,
+          "title": "Codex 632 S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285266",
+          "episodeId": 3285266,
+          "season": 1,
+          "episode": 5,
+          "title": "Codex 632 S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285267",
+          "episodeId": 3285267,
+          "season": 1,
+          "episode": 6,
+          "title": "Codex 632 S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

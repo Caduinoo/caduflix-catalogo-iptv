@@ -1,0 +1,91 @@
+{
+  "id": "series_301",
+  "type": "series",
+  "title": "Pesca Implacável",
+  "originalTitle": "Battlefish",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/2mkpG3lbEKqPxTHpREHO9LSUHgT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8FXoAEbtEWw3MbHrqujNQF3JzzU.jpg",
+  "overview": "Uma série de Reality Show da Netflix completa e dublada sobre pesca. Durante a temporada, pescadores arriscam tudo na disputa pelo lucrativo atum albacora nas águas do estado de Oregon, na costa oeste dos EUA.\n\nEste é o peixe mais caro do mundo. Mas fisgá-lo é uma luta contra o tempo, a natureza – e o próprio pescador.",
+  "rating": 6,
+  "genres": [
+    "documentario",
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 82498,
+  "xtream": {
+    "seriesId": 301
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3147602",
+          "episodeId": 3147602,
+          "season": 1,
+          "episode": 1,
+          "title": "Pesca Implacavel S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3147603",
+          "episodeId": 3147603,
+          "season": 1,
+          "episode": 2,
+          "title": "Pesca Implacavel S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3147604",
+          "episodeId": 3147604,
+          "season": 1,
+          "episode": 3,
+          "title": "Pesca Implacavel S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3147605",
+          "episodeId": 3147605,
+          "season": 1,
+          "episode": 4,
+          "title": "Pesca Implacavel S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3147606",
+          "episodeId": 3147606,
+          "season": 1,
+          "episode": 5,
+          "title": "Pesca Implacavel S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3147607",
+          "episodeId": 3147607,
+          "season": 1,
+          "episode": 6,
+          "title": "Pesca Implacavel S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3147608",
+          "episodeId": 3147608,
+          "season": 1,
+          "episode": 7,
+          "title": "Pesca Implacavel S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3147609",
+          "episodeId": 3147609,
+          "season": 1,
+          "episode": 8,
+          "title": "Pesca Implacavel S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

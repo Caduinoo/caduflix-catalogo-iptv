@@ -1,0 +1,35 @@
+{
+  "id": "movie_3119231",
+  "type": "movie",
+  "title": "Irresistible",
+  "originalTitle": "Irresistible",
+  "year": 2011,
+  "poster": "https://image.tmdb.org/t/p/w500/yHn3U3PSXffo46zE2GUrhAkPhTC.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 4,
+  "runtime": 5,
+  "genres": [
+    "comedia",
+    "drama",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Rebecca Ferguson",
+      "character": "Woman",
+      "profile": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+    },
+    {
+      "name": "Daniel Goody",
+      "character": "Man",
+      "profile": ""
+    }
+  ],
+  "director": "Per Muhlow",
+  "tmdbId": 583312,
+  "xtream": {
+    "streamId": 3119231,
+    "containerExtension": "mp4"
+  }
+}

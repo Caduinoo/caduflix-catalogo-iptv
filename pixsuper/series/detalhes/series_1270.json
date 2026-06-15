@@ -1,0 +1,93 @@
+{
+  "id": "series_1270",
+  "type": "series",
+  "title": "The One",
+  "originalTitle": "The One",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/klL9vBIRdEeSLtjhn83pCNcVguZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1kPC5upPbdfh4l42cB824ywT0sq.jpg",
+  "overview": "Uma pesquisadora ajuda a descobrir como encontrar o par ideal com base no DNA e cria um novo serviço de relacionamentos que vai dar o que falar.",
+  "rating": 6.452,
+  "genres": [
+    "crime",
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 119284,
+  "xtream": {
+    "seriesId": 1270
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3193443",
+          "episodeId": 3193443,
+          "season": 1,
+          "episode": 1,
+          "title": "The One S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193444",
+          "episodeId": 3193444,
+          "season": 1,
+          "episode": 2,
+          "title": "The One S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193445",
+          "episodeId": 3193445,
+          "season": 1,
+          "episode": 3,
+          "title": "The One S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193446",
+          "episodeId": 3193446,
+          "season": 1,
+          "episode": 4,
+          "title": "The One S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193447",
+          "episodeId": 3193447,
+          "season": 1,
+          "episode": 5,
+          "title": "The One S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193448",
+          "episodeId": 3193448,
+          "season": 1,
+          "episode": 6,
+          "title": "The One S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193449",
+          "episodeId": 3193449,
+          "season": 1,
+          "episode": 7,
+          "title": "The One S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3193450",
+          "episodeId": 3193450,
+          "season": 1,
+          "episode": 8,
+          "title": "The One S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

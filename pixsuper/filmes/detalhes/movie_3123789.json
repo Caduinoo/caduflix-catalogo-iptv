@@ -1,0 +1,60 @@
+{
+  "id": "movie_3123789",
+  "type": "movie",
+  "title": "O Trem de Natal",
+  "originalTitle": "Meet Me at the Christmas Train Parade",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/icNMfI2UhFXHWGgWC9PksNeI1hs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2h12mUzzNoXZVCAomnJPmrbEjP7.jpg",
+  "overview": "O filho de Charlotte, Benny, ouve sobre a antiga tradição do desfile de um trem natalino, então ele a convence a tentar reacender a magia do Natal que uniu sua comunidade.",
+  "rating": 5.4,
+  "runtime": 90,
+  "genres": [
+    "comedia",
+    "romance",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Emma Johnson",
+      "character": "Charlotte Atkins",
+      "profile": "https://image.tmdb.org/t/p/w185/9vAfqkbXGN4CPPyer1IMZ8rCXPw.jpg"
+    },
+    {
+      "name": "Ryan Northcott",
+      "character": "Zachary Gregory",
+      "profile": "https://image.tmdb.org/t/p/w185/ieL66ybAR6VCEgMNYYkqAvYulzP.jpg"
+    },
+    {
+      "name": "Maxwell Jones",
+      "character": "Benny",
+      "profile": ""
+    },
+    {
+      "name": "Will Brisbin",
+      "character": "Mayor Healy",
+      "profile": "https://image.tmdb.org/t/p/w185/nm3Odfo47PcZvF1kEupMwgYJe6m.jpg"
+    },
+    {
+      "name": "Chris Aanderson",
+      "character": "Governor Mike Tufts",
+      "profile": "https://image.tmdb.org/t/p/w185/zWFYFW3sEgTLqQDJ7aXVEW71J55.jpg"
+    },
+    {
+      "name": "John Hudson",
+      "character": "Oliver",
+      "profile": ""
+    },
+    {
+      "name": "Maureen Rooney",
+      "character": "Grandma Kathy",
+      "profile": ""
+    }
+  ],
+  "director": "Dylan Pearce",
+  "tmdbId": 1180406,
+  "xtream": {
+    "streamId": 3123789,
+    "containerExtension": "mp4"
+  }
+}

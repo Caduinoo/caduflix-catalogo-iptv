@@ -1,0 +1,90 @@
+{
+  "id": "series_8500",
+  "type": "series",
+  "title": "Play Park",
+  "originalTitle": "รักไม่คาดฝัน",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/ge5wHhO5wumJ3oEECV8v6c7IwVU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/neyH4XXapY4T2bzlQE0XvxtRj51.jpg",
+  "overview": "Um romance inesperado floresce no cenário colorido de um parque de diversões entre Lilin, herdeira de uma poderosa empresa familiar, e Ing Ing, a diligente gerente do parque.",
+  "rating": 7,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 295351,
+  "xtream": {
+    "seriesId": 8500
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3384585",
+          "episodeId": 3384585,
+          "season": 1,
+          "episode": 1,
+          "title": "Play Park [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384586",
+          "episodeId": 3384586,
+          "season": 1,
+          "episode": 2,
+          "title": "Play Park [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384587",
+          "episodeId": 3384587,
+          "season": 1,
+          "episode": 3,
+          "title": "Play Park [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384588",
+          "episodeId": 3384588,
+          "season": 1,
+          "episode": 4,
+          "title": "Play Park [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384589",
+          "episodeId": 3384589,
+          "season": 1,
+          "episode": 5,
+          "title": "Play Park [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384590",
+          "episodeId": 3384590,
+          "season": 1,
+          "episode": 6,
+          "title": "Play Park [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384591",
+          "episodeId": 3384591,
+          "season": 1,
+          "episode": 7,
+          "title": "Play Park [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384592",
+          "episodeId": 3384592,
+          "season": 1,
+          "episode": 8,
+          "title": "Play Park [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

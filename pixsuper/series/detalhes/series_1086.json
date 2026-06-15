@@ -1,0 +1,74 @@
+{
+  "id": "series_1086",
+  "type": "series",
+  "title": "A Última Onda",
+  "originalTitle": "La Dernière Vague",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/4OO7jdAp8n95nIRd8S4JU700mHV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hIN4Xpq1kcEjdlkLkhEcXouKcpL.jpg",
+  "overview": "Uma cidade costeira é abalada pelo encontro de uma nuvem sinistra e uma onda gigante durante uma competição de surfe, resultando em fenômenos difíceis de explicar.",
+  "rating": 6.1,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 87776,
+  "xtream": {
+    "seriesId": 1086
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3185843",
+          "episodeId": 3185843,
+          "season": 1,
+          "episode": 1,
+          "title": "A Última Onda S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185844",
+          "episodeId": 3185844,
+          "season": 1,
+          "episode": 2,
+          "title": "A Última Onda S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185845",
+          "episodeId": 3185845,
+          "season": 1,
+          "episode": 3,
+          "title": "A Última Onda S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185846",
+          "episodeId": 3185846,
+          "season": 1,
+          "episode": 4,
+          "title": "A Última Onda S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185847",
+          "episodeId": 3185847,
+          "season": 1,
+          "episode": 5,
+          "title": "A Última Onda S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185848",
+          "episodeId": 3185848,
+          "season": 1,
+          "episode": 6,
+          "title": "A Última Onda S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

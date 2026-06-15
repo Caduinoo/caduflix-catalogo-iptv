@@ -1,0 +1,35 @@
+{
+  "id": "movie_2758386",
+  "type": "movie",
+  "title": "A Viagem",
+  "originalTitle": "A Viagem",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w300/ivHwYw3b03dFqRkcqaDSxjj2LQT.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 29,
+  "genres": [
+    "documentario",
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Manuel Mozos",
+      "character": "Himself",
+      "profile": "https://image.tmdb.org/t/p/w185/9pKKGBhU9gKwmdsBBt4rLJdDWh0.jpg"
+    },
+    {
+      "name": "Sónia Balacó",
+      "character": "Herself",
+      "profile": "https://image.tmdb.org/t/p/w185/syZg1VAJJDxShzB97c7UqFrI2vj.jpg"
+    }
+  ],
+  "director": "Mário de Oliveira",
+  "tmdbId": 749184,
+  "xtream": {
+    "streamId": 2758386,
+    "containerExtension": "mp4"
+  }
+}

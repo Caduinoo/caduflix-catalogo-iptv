@@ -1,0 +1,78 @@
+{
+  "id": "series_6211",
+  "type": "series",
+  "title": "Tokyo Override",
+  "originalTitle": "Tokyo Override",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tugaJ46tP8r8aqnv4ORq1rDqQMY.jpg",
+  "overview": "Quando uma hacker solitária se envolve com um grupo de entregadores rebeldes, eles descobrem uma verdade sombria que se esconde atrás de uma Tóquio perfeita demais.",
+  "rating": 7.239,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 256324,
+  "xtream": {
+    "seriesId": 6211
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3337722",
+          "episodeId": 3337722,
+          "season": 1,
+          "episode": 1,
+          "title": "Tokyo Override S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3337723",
+          "episodeId": 3337723,
+          "season": 1,
+          "episode": 2,
+          "title": "Tokyo Override S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3337724",
+          "episodeId": 3337724,
+          "season": 1,
+          "episode": 3,
+          "title": "Tokyo Override S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3337725",
+          "episodeId": 3337725,
+          "season": 1,
+          "episode": 4,
+          "title": "Tokyo Override S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3337726",
+          "episodeId": 3337726,
+          "season": 1,
+          "episode": 5,
+          "title": "Tokyo Override S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3337727",
+          "episodeId": 3337727,
+          "season": 1,
+          "episode": 6,
+          "title": "Tokyo Override S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

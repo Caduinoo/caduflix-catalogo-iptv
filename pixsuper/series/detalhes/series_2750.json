@@ -1,0 +1,77 @@
+{
+  "id": "series_2750",
+  "type": "series",
+  "title": "Infiniti",
+  "originalTitle": "Infiniti",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/nQetektTsSnfaBJiGByc76boATG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m4Stmu3Xdbk0Dn7ypvS3iKmOORN.jpg",
+  "overview": "Um cadáver é encontrado em um telhado no Cazaquistão: pertence a Anthony Kurz, um astronauta americano atualmente na ISS. Anna Zarathi, uma astronauta francesa, e Isaak Turgun, um policial cazaque, decidiram resolver esse misterioso paradoxo.",
+  "rating": 7,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "misterio",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 128798,
+  "xtream": {
+    "seriesId": 2750
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3247313",
+          "episodeId": 3247313,
+          "season": 1,
+          "episode": 1,
+          "title": "Infiniti S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247314",
+          "episodeId": 3247314,
+          "season": 1,
+          "episode": 2,
+          "title": "Infiniti S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247315",
+          "episodeId": 3247315,
+          "season": 1,
+          "episode": 3,
+          "title": "Infiniti S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247316",
+          "episodeId": 3247316,
+          "season": 1,
+          "episode": 4,
+          "title": "Infiniti S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247317",
+          "episodeId": 3247317,
+          "season": 1,
+          "episode": 5,
+          "title": "Infiniti S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247318",
+          "episodeId": 3247318,
+          "season": 1,
+          "episode": 6,
+          "title": "Infiniti S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

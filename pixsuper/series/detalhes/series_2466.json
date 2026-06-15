@@ -1,0 +1,76 @@
+{
+  "id": "series_2466",
+  "type": "series",
+  "title": "O Som da Magia",
+  "originalTitle": "안나라수마나라",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/fZUHoANJaXgB82pVqgHm44jeYXT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ft9kPRULcAN7hgjvzpEfmtROiQR.jpg",
+  "overview": "Um mágico misterioso que mora em um parque de diversões abandonado ensina sua arte para uma adolescente que enfrenta dificuldades na vida.",
+  "rating": 7.661,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 123349,
+  "xtream": {
+    "seriesId": 2466
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3239302",
+          "episodeId": 3239302,
+          "season": 1,
+          "episode": 1,
+          "title": "O Som da Magia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239303",
+          "episodeId": 3239303,
+          "season": 1,
+          "episode": 2,
+          "title": "O Som da Magia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239304",
+          "episodeId": 3239304,
+          "season": 1,
+          "episode": 3,
+          "title": "O Som da Magia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239305",
+          "episodeId": 3239305,
+          "season": 1,
+          "episode": 4,
+          "title": "O Som da Magia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239306",
+          "episodeId": 3239306,
+          "season": 1,
+          "episode": 5,
+          "title": "O Som da Magia S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3239307",
+          "episodeId": 3239307,
+          "season": 1,
+          "episode": 6,
+          "title": "O Som da Magia S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

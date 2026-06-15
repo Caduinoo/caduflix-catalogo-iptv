@@ -1,0 +1,34 @@
+{
+  "id": "movie_2768586",
+  "type": "movie",
+  "title": "Bark",
+  "originalTitle": "Bark",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/yUMZeDmDcSdxJ3Io1AX3IVW1Qee.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3Dys0gfDQucEH0cyUWWeaQiYaj0.jpg",
+  "overview": "",
+  "rating": 6,
+  "runtime": 11,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Gina Piersanti",
+      "character": "Lo",
+      "profile": "https://image.tmdb.org/t/p/w185/fi9rFj5mYuXHdMygDb7KpX23Juo.jpg"
+    },
+    {
+      "name": "Lucia Ribisi",
+      "character": "Dot",
+      "profile": "https://image.tmdb.org/t/p/w185/9Pwpnkc8ODdEfKfeOYmN4w75hRu.jpg"
+    }
+  ],
+  "director": "Amanda Kramer",
+  "tmdbId": 421724,
+  "xtream": {
+    "streamId": 2768586,
+    "containerExtension": "mp4"
+  }
+}

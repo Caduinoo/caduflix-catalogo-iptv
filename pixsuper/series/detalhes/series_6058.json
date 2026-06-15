@@ -1,0 +1,79 @@
+{
+  "id": "series_6058",
+  "type": "series",
+  "title": "A Super Máquina",
+  "originalTitle": "Knight Rider",
+  "year": 1982,
+  "poster": "https://image.tmdb.org/t/p/w500/w2PPvITj7nSKgmMPYzyi84qK288.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lW07RQWXBXww1wsErDtcWzobFDz.jpg",
+  "overview": "As aventuras de Michael Knight, um combatente do crime, e KITT, seu carro futurista que possui inteligência artificial e muitos outros acessórios, além de um revestimento molecular super-resistente que o torna indestrutível.",
+  "rating": 7.533,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "fantasia",
+    "ficcao",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 2384,
+  "xtream": {
+    "seriesId": 6058
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3333312",
+          "episodeId": 3333312,
+          "season": 1,
+          "episode": 1,
+          "title": "A Maquina [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3333313",
+          "episodeId": 3333313,
+          "season": 1,
+          "episode": 2,
+          "title": "A Maquina [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3333314",
+          "episodeId": 3333314,
+          "season": 1,
+          "episode": 3,
+          "title": "A Maquina [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3333315",
+          "episodeId": 3333315,
+          "season": 1,
+          "episode": 4,
+          "title": "A Maquina [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3333316",
+          "episodeId": 3333316,
+          "season": 1,
+          "episode": 5,
+          "title": "A Maquina [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3333317",
+          "episodeId": 3333317,
+          "season": 1,
+          "episode": 6,
+          "title": "A Maquina [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "series_1789",
+  "type": "series",
+  "title": "Cenas de um Casamento",
+  "originalTitle": "Scenes from a Marriage",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/wlsivaJuU6HScCFKcgv1cgtdmQt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/skO0UIpNYaSjQYc8hQsE890ViOG.jpg",
+  "overview": "O amor, ódio, desejo, monogamia, casamento e divórcio através das lentes de um casal americano contemporâneo. Mira (Jessica Chastain) é uma executiva de tecnologia ambiciosa e confiante de que não se sente satisfeita com seu casamento, e Jonathan (Oscar Isaac) é um professor de filosofia, desesperado para manter seu relacionamento intacto.",
+  "rating": 7.2,
+  "genres": [
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 112077,
+  "xtream": {
+    "seriesId": 1789
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3216961",
+          "episodeId": 3216961,
+          "season": 1,
+          "episode": 1,
+          "title": "Scenes from a Marriage S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3216962",
+          "episodeId": 3216962,
+          "season": 1,
+          "episode": 2,
+          "title": "Scenes from a Marriage S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3216963",
+          "episodeId": 3216963,
+          "season": 1,
+          "episode": 3,
+          "title": "Scenes from a Marriage S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3216964",
+          "episodeId": 3216964,
+          "season": 1,
+          "episode": 4,
+          "title": "Scenes from a Marriage S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3216965",
+          "episodeId": 3216965,
+          "season": 1,
+          "episode": 5,
+          "title": "Scenes from a Marriage S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "movie_2765041",
+  "type": "movie",
+  "title": "Quarentena",
+  "originalTitle": "Quarentena",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/up0rGfxgzbqoQxkg4WJK7nm9FT9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3QnPc4rAxfIsu57qGo4D5eXJIN5.jpg",
+  "overview": "Brasil. É noite. Mãe e filho descobrem que não estão sozinhos durante a quarentena.",
+  "rating": 0,
+  "runtime": 6,
+  "genres": [
+    "terror",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Saravy",
+      "character": "Mãe",
+      "profile": "https://image.tmdb.org/t/p/w185/ukeIl0dIQjsJxad9Qy2fFQ2rgE2.jpg"
+    },
+    {
+      "name": "Bento Venduscrolo",
+      "character": "Filho",
+      "profile": ""
+    },
+    {
+      "name": "Maurício Ramos Marques",
+      "character": "Pai",
+      "profile": ""
+    },
+    {
+      "name": "Gabriel Borges",
+      "character": "Radialista",
+      "profile": "https://image.tmdb.org/t/p/w185/lRr3vdiOs2cMN73hJXw3TiqCHfL.jpg"
+    }
+  ],
+  "director": "Nando Sturmer",
+  "tmdbId": 876920,
+  "xtream": {
+    "streamId": 2765041,
+    "containerExtension": "mp4"
+  }
+}

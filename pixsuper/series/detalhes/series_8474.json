@@ -1,0 +1,60 @@
+{
+  "id": "series_8474",
+  "type": "series",
+  "title": "Fora de Controle",
+  "originalTitle": "Fora de Controle",
+  "year": 2012,
+  "poster": "https://image.tmdb.org/t/p/w500/54c7VczaCFKC3L39ZicaPrwEm78.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jtGc8sMdSL09SHUOpeY8eaayxqn.jpg",
+  "overview": "O instigante universo das investigações policiais na cidade do Rio de Janeiro. Em cada episódio, um crime é investigado e resolvido, mostrando como o funcionamento da cidade interliga todos os tipos de moradores e visitantes.",
+  "rating": 6,
+  "genres": [
+    "crime",
+    "misterio",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 116935,
+  "xtream": {
+    "seriesId": 8474
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3384390",
+          "episodeId": 3384390,
+          "season": 1,
+          "episode": 1,
+          "title": "Fora de Controle S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384391",
+          "episodeId": 3384391,
+          "season": 1,
+          "episode": 2,
+          "title": "Fora de Controle S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384392",
+          "episodeId": 3384392,
+          "season": 1,
+          "episode": 3,
+          "title": "Fora de Controle S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384393",
+          "episodeId": 3384393,
+          "season": 1,
+          "episode": 4,
+          "title": "Fora de Controle S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

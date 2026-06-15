@@ -1,0 +1,75 @@
+{
+  "id": "series_2527",
+  "type": "series",
+  "title": "The Thing About Pam",
+  "originalTitle": "The Thing About Pam",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/mimnqhjGdo3qlhn5tTJtjIETEJU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xCCvBqQvUjmbdPwHyOJJ8P5AWmd.jpg",
+  "overview": "Baseado no assassinato de Betsy Faria, a série narra as reviravoltas inacreditáveis de um caso de homicídio aparentemente simples que acabaria por revelar uma trama mortal ligada a uma mulher chamada Pam Hupp.",
+  "rating": 6.9,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 125714,
+  "xtream": {
+    "seriesId": 2527
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3241255",
+          "episodeId": 3241255,
+          "season": 1,
+          "episode": 1,
+          "title": "The Thing About Pam S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241256",
+          "episodeId": 3241256,
+          "season": 1,
+          "episode": 2,
+          "title": "The Thing About Pam S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241257",
+          "episodeId": 3241257,
+          "season": 1,
+          "episode": 3,
+          "title": "The Thing About Pam S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241258",
+          "episodeId": 3241258,
+          "season": 1,
+          "episode": 4,
+          "title": "The Thing About Pam S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241259",
+          "episodeId": 3241259,
+          "season": 1,
+          "episode": 5,
+          "title": "The Thing About Pam S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241260",
+          "episodeId": 3241260,
+          "season": 1,
+          "episode": 6,
+          "title": "The Thing About Pam S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

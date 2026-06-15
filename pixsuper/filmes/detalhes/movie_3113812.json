@@ -1,0 +1,33 @@
+{
+  "id": "movie_3113812",
+  "type": "movie",
+  "title": "Nu",
+  "originalTitle": "Nu",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/somO2MAxVbTyzbikglFnB8lPvNX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pTaLPt7p3ekddYyl0mmcjPvlvhe.jpg",
+  "overview": "",
+  "rating": 4,
+  "runtime": 14,
+  "genres": [
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Étienne Galloy",
+      "character": "Will",
+      "profile": "https://image.tmdb.org/t/p/w185/4slzBjhNgoeUHJwtEPQ9C7tal8m.jpg"
+    },
+    {
+      "name": "Roxane Tremblay-Marcotte",
+      "character": "Cath",
+      "profile": "https://image.tmdb.org/t/p/w185/ehMAB0O1kiqDvHisxK03kWjy37c.jpg"
+    }
+  ],
+  "director": "Olivier Labonté LeMoyne",
+  "tmdbId": 925836,
+  "xtream": {
+    "streamId": 3113812,
+    "containerExtension": "mp4"
+  }
+}

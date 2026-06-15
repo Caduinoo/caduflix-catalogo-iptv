@@ -1,0 +1,91 @@
+{
+  "id": "series_2079",
+  "type": "series",
+  "title": "O Show do Sábado",
+  "originalTitle": "Saturday Morning All Star Hits!",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/vHB2sMGWVjknajaKYhRPutJyQDd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qB0ajoSfmaQWAdmWOoSku08PhsP.jpg",
+  "overview": "Sinta a nostalgia nesta série de animação para adultos que mistura comédia com um toque constrangedor e um pouco perturbador dos desenhos dos anos 80 e 90.",
+  "rating": 5.8,
+  "genres": [
+    "comedia",
+    "animacao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 138600,
+  "xtream": {
+    "seriesId": 2079
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3227682",
+          "episodeId": 3227682,
+          "season": 1,
+          "episode": 1,
+          "title": "O Show do Sábado S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227683",
+          "episodeId": 3227683,
+          "season": 1,
+          "episode": 2,
+          "title": "O Show do Sábado S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227684",
+          "episodeId": 3227684,
+          "season": 1,
+          "episode": 3,
+          "title": "O Show do Sábado S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227685",
+          "episodeId": 3227685,
+          "season": 1,
+          "episode": 4,
+          "title": "O Show do Sábado S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227686",
+          "episodeId": 3227686,
+          "season": 1,
+          "episode": 5,
+          "title": "O Show do Sábado S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227687",
+          "episodeId": 3227687,
+          "season": 1,
+          "episode": 6,
+          "title": "O Show do Sábado S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227688",
+          "episodeId": 3227688,
+          "season": 1,
+          "episode": 7,
+          "title": "O Show do Sábado S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227689",
+          "episodeId": 3227689,
+          "season": 1,
+          "episode": 8,
+          "title": "O Show do Sábado S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

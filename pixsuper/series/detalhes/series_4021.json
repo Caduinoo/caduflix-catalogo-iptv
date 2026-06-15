@@ -1,0 +1,66 @@
+{
+  "id": "series_4021",
+  "type": "series",
+  "title": "Predadores do Mundo Animal",
+  "originalTitle": "Predators",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/sO4zfgOpn8gzfIBjgijT7unCivz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sYSdQUrfqb6BFBO7MR5YNg1Detp.jpg",
+  "overview": "Descubra como os guepardos, ursos polares e outros predadores entre os mais fortes do planeta enfrentam as adversidades para sobreviver.",
+  "rating": 8.281,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 215344,
+  "xtream": {
+    "seriesId": 4021
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3279258",
+          "episodeId": 3279258,
+          "season": 1,
+          "episode": 1,
+          "title": "Predadores do Mundo Animal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3279259",
+          "episodeId": 3279259,
+          "season": 1,
+          "episode": 2,
+          "title": "Predadores do Mundo Animal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3279260",
+          "episodeId": 3279260,
+          "season": 1,
+          "episode": 3,
+          "title": "Predadores do Mundo Animal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3279261",
+          "episodeId": 3279261,
+          "season": 1,
+          "episode": 4,
+          "title": "Predadores do Mundo Animal S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3279262",
+          "episodeId": 3279262,
+          "season": 1,
+          "episode": 5,
+          "title": "Predadores do Mundo Animal S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

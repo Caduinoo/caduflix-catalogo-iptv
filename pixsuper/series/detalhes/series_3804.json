@@ -1,0 +1,91 @@
+{
+  "id": "series_3804",
+  "type": "series",
+  "title": "Novela",
+  "originalTitle": "Novela",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/msMIkS6HPRWWXXHLaTa8nQLbnz6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gU2Qr6kIGipMUB3yDKmAAV0xSO8.jpg",
+  "overview": "Isabel é uma promissora roteirista que dedicou sua vida a se tornar autora de uma novela do horário nobre. Quando finalmente chega a hora, ela é traída por seu mentor, Lauro, um autor bem estabelecido, mas fora de forma, que aproveita a oportunidade para estabelecer seu próprio sucesso no horário nobre. Na estreia, quando Isabel decide enfrentá-lo, ela acaba entrando magicamente em sua novela como protagonista.",
+  "rating": 6.5,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 130845,
+  "xtream": {
+    "seriesId": 3804
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3272764",
+          "episodeId": 3272764,
+          "season": 1,
+          "episode": 1,
+          "title": "Novela S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272765",
+          "episodeId": 3272765,
+          "season": 1,
+          "episode": 2,
+          "title": "Novela S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272766",
+          "episodeId": 3272766,
+          "season": 1,
+          "episode": 3,
+          "title": "Novela S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272767",
+          "episodeId": 3272767,
+          "season": 1,
+          "episode": 4,
+          "title": "Novela S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272768",
+          "episodeId": 3272768,
+          "season": 1,
+          "episode": 5,
+          "title": "Novela S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272769",
+          "episodeId": 3272769,
+          "season": 1,
+          "episode": 6,
+          "title": "Novela S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272770",
+          "episodeId": 3272770,
+          "season": 1,
+          "episode": 7,
+          "title": "Novela S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272771",
+          "episodeId": 3272771,
+          "season": 1,
+          "episode": 8,
+          "title": "Novela S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

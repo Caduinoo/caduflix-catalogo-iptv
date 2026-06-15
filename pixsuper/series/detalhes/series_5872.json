@@ -1,0 +1,51 @@
+{
+  "id": "series_5872",
+  "type": "series",
+  "title": "Submarinos Perdidos da Segunda Guerra",
+  "originalTitle": "Lost U-Boats of WWII",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/eFprpgVXPn5rlHhrB2XvFoRt8Mf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uBmH8rMExgXmVmlwLxonBf18RvB.jpg",
+  "overview": "O caçador de tesouros Darrel Miklos e sua equipe embarcam em uma missão extraordinária para conseguir resolver um dos mistérios mais intrigantes da história: o que aconteceu com o tesouro saqueado pelos nazistas durante a Segunda Guerra Mundial.",
+  "rating": 6.7,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 247674,
+  "xtream": {
+    "seriesId": 5872
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3328205",
+          "episodeId": 3328205,
+          "season": 1,
+          "episode": 1,
+          "title": "Submarinos Perdidos da Segunda Guerra S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3328206",
+          "episodeId": 3328206,
+          "season": 1,
+          "episode": 2,
+          "title": "Submarinos Perdidos da Segunda Guerra S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3328207",
+          "episodeId": 3328207,
+          "season": 1,
+          "episode": 3,
+          "title": "Submarinos Perdidos da Segunda Guerra S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

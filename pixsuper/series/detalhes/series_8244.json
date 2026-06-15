@@ -1,0 +1,55 @@
+{
+  "id": "series_8244",
+  "type": "series",
+  "title": "Dinotopia: A Terra dos Dinossauros",
+  "originalTitle": "Dinotopia",
+  "year": 2002,
+  "poster": "https://image.tmdb.org/t/p/w500/jVlT8Zt0DJaiEOYWX8sP2E0z603.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vQzJ9KvRzM1lJeUufBXcf9h7HDO.jpg",
+  "overview": "Dois irmãos sobrevivem após um acidente aéreo e vão parar em uma ilha que irá transformar suas vidas. Uma terra sem tempo exato e um mundo além do real, onde dinossauros e pessoas convivem em harmonia andando, conversando e até se divertindo juntos.",
+  "rating": 6.447,
+  "genres": [
+    "acao",
+    "aventura",
+    "familia",
+    "infantil",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 73536,
+  "xtream": {
+    "seriesId": 8244
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3380818",
+          "episodeId": 3380818,
+          "season": 1,
+          "episode": 1,
+          "title": "Dinotopia A Terra dos Dinossauros S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3380819",
+          "episodeId": 3380819,
+          "season": 1,
+          "episode": 2,
+          "title": "Dinotopia A Terra dos Dinossauros S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3380820",
+          "episodeId": 3380820,
+          "season": 1,
+          "episode": 3,
+          "title": "Dinotopia A Terra dos Dinossauros S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

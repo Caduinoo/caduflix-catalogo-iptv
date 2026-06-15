@@ -1,0 +1,50 @@
+{
+  "id": "series_3784",
+  "type": "series",
+  "title": "Gigantes da Era do Gelo",
+  "originalTitle": "Ice Age Giants",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/v1R2vN1ZmxFLaqBJFNoJB4phMT6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cWX6nC0Isyc7yRZJE1b7dxL764d.jpg",
+  "overview": "",
+  "rating": 7.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 61255,
+  "xtream": {
+    "seriesId": 3784
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3272522",
+          "episodeId": 3272522,
+          "season": 1,
+          "episode": 1,
+          "title": "Gigantes da Era do Gelo [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272523",
+          "episodeId": 3272523,
+          "season": 1,
+          "episode": 2,
+          "title": "Gigantes da Era do Gelo [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272524",
+          "episodeId": 3272524,
+          "season": 1,
+          "episode": 3,
+          "title": "Gigantes da Era do Gelo [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

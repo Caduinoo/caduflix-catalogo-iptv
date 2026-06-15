@@ -1,0 +1,94 @@
+{
+  "id": "series_3109",
+  "type": "series",
+  "title": "Willow",
+  "originalTitle": "Willow",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/lw4n5CBlLR62nogy46FyJaIFziH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/93SxdkiR3gBcbG5FxIt0DCBttul.jpg",
+  "overview": "Anos após os eventos do filme “Willow” original, esta série apresenta novos personagens ao reino encantado das rainhas das fadas e monstros Eborsisk de duas cabeças, e dá as boas-vindas ao seu herói homônimo, Willow Ufgood.",
+  "rating": 6.636,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 111837,
+  "xtream": {
+    "seriesId": 3109
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3255780",
+          "episodeId": 3255780,
+          "season": 1,
+          "episode": 1,
+          "title": "Willow S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255781",
+          "episodeId": 3255781,
+          "season": 1,
+          "episode": 2,
+          "title": "Willow S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255782",
+          "episodeId": 3255782,
+          "season": 1,
+          "episode": 3,
+          "title": "Willow S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255783",
+          "episodeId": 3255783,
+          "season": 1,
+          "episode": 4,
+          "title": "Willow S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255784",
+          "episodeId": 3255784,
+          "season": 1,
+          "episode": 5,
+          "title": "Willow S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255785",
+          "episodeId": 3255785,
+          "season": 1,
+          "episode": 6,
+          "title": "Willow S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255786",
+          "episodeId": 3255786,
+          "season": 1,
+          "episode": 7,
+          "title": "Willow S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255787",
+          "episodeId": 3255787,
+          "season": 1,
+          "episode": 8,
+          "title": "Willow S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

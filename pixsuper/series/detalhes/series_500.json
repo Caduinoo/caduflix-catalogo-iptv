@@ -1,0 +1,72 @@
+{
+  "id": "series_500",
+  "type": "series",
+  "title": "Lua Negra",
+  "originalTitle": "Lua Negra",
+  "year": 2020,
+  "poster": "http://gstaticontent.com/images/5dpUwYhOtbwKUVN6auG6U9qQhX9_big.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Na Itália do século 17, uma adolescente descobre o seu destino em uma família de bruxas, mas o pai do seu namorado planeja capturá-la por bruxaria.",
+  "rating": 8,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 500
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3153669",
+          "episodeId": 3153669,
+          "season": 1,
+          "episode": 1,
+          "title": "Lua Negra S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153670",
+          "episodeId": 3153670,
+          "season": 1,
+          "episode": 2,
+          "title": "Lua Negra S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153671",
+          "episodeId": 3153671,
+          "season": 1,
+          "episode": 3,
+          "title": "Lua Negra S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153672",
+          "episodeId": 3153672,
+          "season": 1,
+          "episode": 4,
+          "title": "Lua Negra S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153673",
+          "episodeId": 3153673,
+          "season": 1,
+          "episode": 5,
+          "title": "Lua Negra S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153674",
+          "episodeId": 3153674,
+          "season": 1,
+          "episode": 6,
+          "title": "Lua Negra S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

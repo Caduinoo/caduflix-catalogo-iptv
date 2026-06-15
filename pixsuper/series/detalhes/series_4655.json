@@ -1,0 +1,59 @@
+{
+  "id": "series_4655",
+  "type": "series",
+  "title": "Retrospectiva 2023: Edição Globoplay",
+  "originalTitle": "Retrospectiva 2023: Edição Globoplay",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/yRDILzJBbOoiLfwHrvo5heAuMl4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cXsgVriXnUydgJOrKj4PSaRHev9.jpg",
+  "overview": "Série de quatro episódios com resumo do ano de extremos: ataques à democracia e guerras, calor recorde e tempestades, o retrocesso dos preconceitos e os avanços da ciência.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 242571,
+  "xtream": {
+    "seriesId": 4655
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3296321",
+          "episodeId": 3296321,
+          "season": 1,
+          "episode": 1,
+          "title": "Retrospectiva 2023 Edicao Globoplay S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3296322",
+          "episodeId": 3296322,
+          "season": 1,
+          "episode": 2,
+          "title": "Retrospectiva 2023 Edicao Globoplay S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3296323",
+          "episodeId": 3296323,
+          "season": 1,
+          "episode": 3,
+          "title": "Retrospectiva 2023 Edicao Globoplay S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3296324",
+          "episodeId": 3296324,
+          "season": 1,
+          "episode": 4,
+          "title": "Retrospectiva 2023 Edicao Globoplay S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

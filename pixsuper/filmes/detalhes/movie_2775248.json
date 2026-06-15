@@ -1,0 +1,33 @@
+{
+  "id": "movie_2775248",
+  "type": "movie",
+  "title": "Yummy",
+  "originalTitle": "Yummy",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/67ga9dOdv03pC9II7VRYKNFuFoX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uooIIiSADOIJH9C2PIHMCfb0tEn.jpg",
+  "overview": "",
+  "rating": 6.5,
+  "runtime": 9,
+  "genres": [
+    "animacao"
+  ],
+  "cast": [
+    {
+      "name": "Ardo Ran Varres",
+      "character": "(voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/3lXaXtcAh8i8ABqG16bNpKAu0gO.jpg"
+    },
+    {
+      "name": "Maria Taimre-Varres",
+      "character": "(voice)",
+      "profile": ""
+    }
+  ],
+  "director": "Martinus Klemet",
+  "tmdbId": 1364987,
+  "xtream": {
+    "streamId": 2775248,
+    "containerExtension": "mp4"
+  }
+}

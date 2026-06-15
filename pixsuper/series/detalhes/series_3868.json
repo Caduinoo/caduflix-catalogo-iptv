@@ -1,0 +1,74 @@
+{
+  "id": "series_3868",
+  "type": "series",
+  "title": "Jack Frost",
+  "originalTitle": "ジャックフロスト",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/hZv3rTe3U0VqxjVgr5e1PEbtcy8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/g9manUyhWyttwLUN4MAMrdfauTI.jpg",
+  "overview": "A história de amor do ilustrador Ritsu e do vendedor Fumiya começa em uma pitoresca cafeteria. Apesar de sua união feliz, um mal-entendido causa uma separação entre os dois. Após uma discussão acalorada, Ritsu sofre um acidente e perde toda a memória de Fumiya.",
+  "rating": 6.9,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 219586,
+  "xtream": {
+    "seriesId": 3868
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3275467",
+          "episodeId": 3275467,
+          "season": 1,
+          "episode": 1,
+          "title": "Jack Frost [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3275468",
+          "episodeId": 3275468,
+          "season": 1,
+          "episode": 2,
+          "title": "Jack Frost [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3275469",
+          "episodeId": 3275469,
+          "season": 1,
+          "episode": 3,
+          "title": "Jack Frost [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3275470",
+          "episodeId": 3275470,
+          "season": 1,
+          "episode": 4,
+          "title": "Jack Frost [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3275471",
+          "episodeId": 3275471,
+          "season": 1,
+          "episode": 5,
+          "title": "Jack Frost [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3275472",
+          "episodeId": 3275472,
+          "season": 1,
+          "episode": 6,
+          "title": "Jack Frost [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

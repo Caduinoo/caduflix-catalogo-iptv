@@ -1,0 +1,40 @@
+{
+  "id": "series_7668",
+  "type": "series",
+  "title": "Os Amores de Anne",
+  "originalTitle": "Os Amores de Anne",
+  "year": 2006,
+  "poster": "http://image.tmdb.org//t/p/w600_and_h900_bestv2/jnGFTcuNGoQy7VMKSDt64T8Y2jQ.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7668
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3369779",
+          "episodeId": 3369779,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Amores de Anne [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3369780",
+          "episodeId": 3369780,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Amores de Anne [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

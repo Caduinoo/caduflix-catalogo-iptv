@@ -1,0 +1,59 @@
+{
+  "id": "series_1452",
+  "type": "series",
+  "title": "Just a Little Game: Os Bastidores da LOUD",
+  "originalTitle": "Just a Little Game: Os Bastidores da LOUD",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/lMCSktxVOhvvTqInq6jGdngyK7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5mKG69SE3kMUvGuIOnIB2n3DzIU.jpg",
+  "overview": "Jovens Pro Players da LOUD, uma das maiores organizações de eSports do Brasil, lutam para se livrar dos maus resultados na temporada 2020 da Liga Brasileira de Free Fire.",
+  "rating": 5,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 126451,
+  "xtream": {
+    "seriesId": 1452
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3199554",
+          "episodeId": 3199554,
+          "season": 1,
+          "episode": 1,
+          "title": "Just a Little Game: Os Bastidores da LOUD S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3199555",
+          "episodeId": 3199555,
+          "season": 1,
+          "episode": 2,
+          "title": "Just a Little Game: Os Bastidores da LOUD S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3199556",
+          "episodeId": 3199556,
+          "season": 1,
+          "episode": 3,
+          "title": "Just a Little Game: Os Bastidores da LOUD S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3199557",
+          "episodeId": 3199557,
+          "season": 1,
+          "episode": 4,
+          "title": "Just a Little Game: Os Bastidores da LOUD S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

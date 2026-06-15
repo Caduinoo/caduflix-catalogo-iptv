@@ -1,0 +1,85 @@
+{
+  "id": "series_3750",
+  "type": "series",
+  "title": "Slip",
+  "originalTitle": "Slip",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/cVTI4ZkfO54PJMMEC94sGeuGGRI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9eaYiY2EYD8YVTxUCCBIVlLCb43.jpg",
+  "overview": "Segue Mae Cannon enquanto ela se encontra inquieta dentro de um casamento que funciona totalmente. Uma nova jornada fantástica a levará a universos paralelos.",
+  "rating": 6.25,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao",
+    "comedia"
+  ],
+  "producer": "paramount",
+  "tmdbId": 221908,
+  "xtream": {
+    "seriesId": 3750
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3271652",
+          "episodeId": 3271652,
+          "season": 1,
+          "episode": 1,
+          "title": "Slip S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3271653",
+          "episodeId": 3271653,
+          "season": 1,
+          "episode": 2,
+          "title": "Slip S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3271654",
+          "episodeId": 3271654,
+          "season": 1,
+          "episode": 3,
+          "title": "Slip S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3271655",
+          "episodeId": 3271655,
+          "season": 1,
+          "episode": 4,
+          "title": "Slip S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3271656",
+          "episodeId": 3271656,
+          "season": 1,
+          "episode": 5,
+          "title": "Slip S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3271657",
+          "episodeId": 3271657,
+          "season": 1,
+          "episode": 6,
+          "title": "Slip S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3271658",
+          "episodeId": 3271658,
+          "season": 1,
+          "episode": 7,
+          "title": "Slip S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

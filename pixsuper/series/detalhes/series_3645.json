@@ -1,0 +1,91 @@
+{
+  "id": "series_3645",
+  "type": "series",
+  "title": "Barra Bravas",
+  "originalTitle": "Puerta 7",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/wVsbOle5wUEEX127yD7kxXAFKvW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eYrPeNV0W3zKfyZB9Ml9DQy7RPq.jpg",
+  "overview": "Uma mulher determinada tenta livrar um time de futebol argentino dos crimes violentos e da corrupção que cercam sua torcida fanática.",
+  "rating": 7,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 99633,
+  "xtream": {
+    "seriesId": 3645
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3268790",
+          "episodeId": 3268790,
+          "season": 1,
+          "episode": 1,
+          "title": "Barra Brava S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3268791",
+          "episodeId": 3268791,
+          "season": 1,
+          "episode": 2,
+          "title": "Barra Brava S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3268792",
+          "episodeId": 3268792,
+          "season": 1,
+          "episode": 3,
+          "title": "Barra Brava S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3268793",
+          "episodeId": 3268793,
+          "season": 1,
+          "episode": 4,
+          "title": "Barra Brava S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3268794",
+          "episodeId": 3268794,
+          "season": 1,
+          "episode": 5,
+          "title": "Barra Brava S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3268795",
+          "episodeId": 3268795,
+          "season": 1,
+          "episode": 6,
+          "title": "Barra Brava S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3268796",
+          "episodeId": 3268796,
+          "season": 1,
+          "episode": 7,
+          "title": "Barra Brava S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3268797",
+          "episodeId": 3268797,
+          "season": 1,
+          "episode": 8,
+          "title": "Barra Brava S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

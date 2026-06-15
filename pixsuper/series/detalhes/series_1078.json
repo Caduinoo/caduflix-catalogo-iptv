@@ -1,0 +1,74 @@
+{
+  "id": "series_1078",
+  "type": "series",
+  "title": "Destinos Inesperados",
+  "originalTitle": "Rogue Trip",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/uvIQhIwupS0yOG9BrbXVlhpzCch.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vcQEvq3kNA1oO45wOnV3v9GTwvO.jpg",
+  "overview": "O correspondente da ABC News, Bob Woodruff e seu filho de 28 anos, Mack Woodruff, levam os espectadores em uma aventura de pai e filho em alguns dos lugares mais inesperados do mundo - nações e territórios conhecidos principalmente por conflitos, mas cada um com um poder único de surpreender e inspirar.",
+  "rating": 6.5,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 105229,
+  "xtream": {
+    "seriesId": 1078
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3185773",
+          "episodeId": 3185773,
+          "season": 1,
+          "episode": 1,
+          "title": "Destinos Inesperados S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185774",
+          "episodeId": 3185774,
+          "season": 1,
+          "episode": 2,
+          "title": "Destinos Inesperados S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185775",
+          "episodeId": 3185775,
+          "season": 1,
+          "episode": 3,
+          "title": "Destinos Inesperados S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185776",
+          "episodeId": 3185776,
+          "season": 1,
+          "episode": 4,
+          "title": "Destinos Inesperados S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185777",
+          "episodeId": 3185777,
+          "season": 1,
+          "episode": 5,
+          "title": "Destinos Inesperados S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185778",
+          "episodeId": 3185778,
+          "season": 1,
+          "episode": 6,
+          "title": "Destinos Inesperados S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "series_8929",
+  "type": "series",
+  "title": "The Grand-ioso Tour",
+  "originalTitle": "The Grand-ish Tour",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iOLxzG9TlBUyiDyNWrKtAD9gd5u.jpg",
+  "overview": "Reunidos no retiro para idosos onde vivem agora, Jeremy Clarkson, Richard Hammond e James May fazem três episódios especiais com seus momentos favoritos de The Grand Tour. Ou pelo menos os que eles conseguem lembrar. Suas memórias falhas vão da Califórnia para a Mongólia, para a Itália e outros lugares, e incluem momentos clássicos de sofrimento com lama, água e pelo menos dois ferimentos reais.",
+  "rating": 7.3,
+  "genres": [
+    "reality"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 321267,
+  "xtream": {
+    "seriesId": 8929
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3391122",
+          "episodeId": 3391122,
+          "season": 1,
+          "episode": 1,
+          "title": "The Grand ioso Tour (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391123",
+          "episodeId": 3391123,
+          "season": 1,
+          "episode": 2,
+          "title": "The Grand ioso Tour (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391124",
+          "episodeId": 3391124,
+          "season": 1,
+          "episode": 3,
+          "title": "The Grand ioso Tour (2026) S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

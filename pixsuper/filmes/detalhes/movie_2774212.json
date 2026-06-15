@@ -1,0 +1,44 @@
+{
+  "id": "movie_2774212",
+  "type": "movie",
+  "title": "Before the Dawn",
+  "originalTitle": "Before the Dawn",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/c9NonzdK62zI7tvhopif6L5jNtc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gyJdHqRpfNidxdABZr6Xwz5lmf9.jpg",
+  "overview": "",
+  "rating": 5.6,
+  "runtime": 105,
+  "genres": [
+    "drama",
+    "romance"
+  ],
+  "cast": [
+    {
+      "name": "Alana de Freitas",
+      "character": "Lila Kendy",
+      "profile": "https://image.tmdb.org/t/p/w185/tXmLNJn6xexdLf7iEAGEhp042IV.jpg"
+    },
+    {
+      "name": "Jared Scott",
+      "character": "Jason Walker",
+      "profile": "https://image.tmdb.org/t/p/w185/8TgzwBt7nEZcN3qMWxjMk2EUp1q.jpg"
+    },
+    {
+      "name": "Houston Rhines",
+      "character": "Andrew Matthews",
+      "profile": "https://image.tmdb.org/t/p/w185/cbl7fwLuuxVsh1mPcBqcNGZRd3E.jpg"
+    },
+    {
+      "name": "Kelly Hancock",
+      "character": "Shelly Walker",
+      "profile": "https://image.tmdb.org/t/p/w185/qnI2CgwlQL1gJgaBrFdFrhptN65.jpg"
+    }
+  ],
+  "director": "Jay Holben",
+  "tmdbId": 552646,
+  "xtream": {
+    "streamId": 2774212,
+    "containerExtension": "mp4"
+  }
+}

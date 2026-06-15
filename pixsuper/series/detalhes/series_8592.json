@@ -1,0 +1,66 @@
+{
+  "id": "series_8592",
+  "type": "series",
+  "title": "Chernobyl",
+  "originalTitle": "Chernobyl",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
+  "overview": "Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.",
+  "rating": 8.714,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 87108,
+  "xtream": {
+    "seriesId": 8592
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3386025",
+          "episodeId": 3386025,
+          "season": 1,
+          "episode": 1,
+          "title": "Chernobyl [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3386026",
+          "episodeId": 3386026,
+          "season": 1,
+          "episode": 2,
+          "title": "Chernobyl [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3386027",
+          "episodeId": 3386027,
+          "season": 1,
+          "episode": 3,
+          "title": "Chernobyl [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3386028",
+          "episodeId": 3386028,
+          "season": 1,
+          "episode": 4,
+          "title": "Chernobyl [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3386029",
+          "episodeId": 3386029,
+          "season": 1,
+          "episode": 5,
+          "title": "Chernobyl [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

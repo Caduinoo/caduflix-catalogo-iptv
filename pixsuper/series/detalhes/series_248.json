@@ -1,0 +1,53 @@
+{
+  "id": "series_248",
+  "type": "series",
+  "title": "Los Espookys",
+  "originalTitle": "Los Espookys",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/ta0weEMHFnnLArj0RCicSZBQuRk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j52dl6b9s7Sp58iaMdxoj2LyZTC.jpg",
+  "overview": "Um grupo de amigos transforma seu amor pelo horror em um negócio peculiar em um país latino-americano, no qual o estranho e o misterioso são apenas parte da vida cotidiana.",
+  "rating": 6.189,
+  "genres": [
+    "comedia",
+    "drama",
+    "familia",
+    "infantil"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 87107,
+  "xtream": {
+    "seriesId": 248
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3145592",
+          "episodeId": 3145592,
+          "season": 1,
+          "episode": 1,
+          "title": "Los Espookys S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3145593",
+          "episodeId": 3145593,
+          "season": 1,
+          "episode": 2,
+          "title": "Los Espookys S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3145594",
+          "episodeId": 3145594,
+          "season": 1,
+          "episode": 3,
+          "title": "Los Espookys S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

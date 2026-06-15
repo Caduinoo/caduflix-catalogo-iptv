@@ -1,0 +1,76 @@
+{
+  "id": "series_7160",
+  "type": "series",
+  "title": "Sara: A Mulher nas Sombras",
+  "originalTitle": "Sara - La donna nell'ombra",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/dmEXwLTDQXQ1QRc6VqvNEFUotZf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cBsAo9icWr0mZBvd4Rc0R4kxnDU.jpg",
+  "overview": "A morte suspeita do filho leva uma ex-agente secreta a voltar à ativa, investigando uma série de crimes que ficam cada vez mais sinistros.",
+  "rating": 6.349,
+  "genres": [
+    "misterio",
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 291256,
+  "xtream": {
+    "seriesId": 7160
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3359872",
+          "episodeId": 3359872,
+          "season": 1,
+          "episode": 1,
+          "title": "Sara A Mulher nas Sombras S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3359873",
+          "episodeId": 3359873,
+          "season": 1,
+          "episode": 2,
+          "title": "Sara A Mulher nas Sombras S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3359874",
+          "episodeId": 3359874,
+          "season": 1,
+          "episode": 3,
+          "title": "Sara A Mulher nas Sombras S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3359875",
+          "episodeId": 3359875,
+          "season": 1,
+          "episode": 4,
+          "title": "Sara A Mulher nas Sombras S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3359876",
+          "episodeId": 3359876,
+          "season": 1,
+          "episode": 5,
+          "title": "Sara A Mulher nas Sombras S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3359877",
+          "episodeId": 3359877,
+          "season": 1,
+          "episode": 6,
+          "title": "Sara A Mulher nas Sombras S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "movie_2768031",
+  "type": "movie",
+  "title": "Again",
+  "originalTitle": "Again",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/dbviJe8vQMRF8l83tr5MWTTabqE.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6.5,
+  "runtime": 10,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Aubrey Dollar",
+      "character": "Woman",
+      "profile": "https://image.tmdb.org/t/p/w185/peTaoNxX0YR9uv6xHdBAMfCq34N.jpg"
+    },
+    {
+      "name": "Morrison Keddie",
+      "character": "Man",
+      "profile": ""
+    }
+  ],
+  "director": "Alexis Jacknow",
+  "tmdbId": 582942,
+  "xtream": {
+    "streamId": 2768031,
+    "containerExtension": "mp4"
+  }
+}

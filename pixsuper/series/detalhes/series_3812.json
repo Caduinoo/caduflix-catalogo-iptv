@@ -1,0 +1,66 @@
+{
+  "id": "series_3812",
+  "type": "series",
+  "title": "Um Conto de Fadas Perfeito",
+  "originalTitle": "Un cuento perfecto",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/AuqvwOLmvkPfe9lAQmUJVXf34SM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kopWhwMvga5WbJznalmhhtvjRos.jpg",
+  "overview": "Quando foge do próprio casamento, Margot se sente perdida. Mal sabe ela que David e seu caos encantador podem ajudá-la a se reencontrar.",
+  "rating": 7.825,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 226216,
+  "xtream": {
+    "seriesId": 3812
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3272870",
+          "episodeId": 3272870,
+          "season": 1,
+          "episode": 1,
+          "title": "Um Conto de Fadas Perfeito S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272871",
+          "episodeId": 3272871,
+          "season": 1,
+          "episode": 2,
+          "title": "Um Conto de Fadas Perfeito S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272872",
+          "episodeId": 3272872,
+          "season": 1,
+          "episode": 3,
+          "title": "Um Conto de Fadas Perfeito S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272873",
+          "episodeId": 3272873,
+          "season": 1,
+          "episode": 4,
+          "title": "Um Conto de Fadas Perfeito S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272874",
+          "episodeId": 3272874,
+          "season": 1,
+          "episode": 5,
+          "title": "Um Conto de Fadas Perfeito S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

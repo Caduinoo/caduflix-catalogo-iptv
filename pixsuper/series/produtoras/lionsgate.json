@@ -14,5 +14,106 @@
     "xtream": {
       "seriesId": 36
     }
+  },
+  {
+    "id": "series_1311",
+    "type": "series",
+    "title": "Fleming",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/T1Vha4ZptEh5AWNCnQAVUnhA3t.jpg",
+    "rating": 6.8,
+    "producer": "lionsgate",
+    "genres": [
+      "drama",
+      "guerra"
+    ],
+    "xtream": {
+      "seriesId": 1311
+    }
+  },
+  {
+    "id": "series_2344",
+    "type": "series",
+    "title": "Men in Kilts: A Roadtrip with Sam and Graham",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/6XxC7cnwRxBQ0wgb2oUdHb0XO23.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/glc3cG3Sx0uRDCTxYl7kY1SqofD.jpg",
+    "rating": 7.5,
+    "producer": "lionsgate",
+    "genres": [
+      "documentario",
+      "reality"
+    ],
+    "xtream": {
+      "seriesId": 2344
+    }
+  },
+  {
+    "id": "series_3141",
+    "type": "series",
+    "title": "Tudo Aquilo Que Nunca Foi Dito",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/pxw83qQI1R9PY5I2imkctuWfrQu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xHL0CBlJLigCiYW0k49lIjUOSjw.jpg",
+    "rating": 8.2,
+    "producer": "lionsgate",
+    "genres": [
+      "drama",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 3141
+    }
+  },
+  {
+    "id": "series_3333",
+    "type": "series",
+    "title": "Nacho",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/bcfpovydjIs6PnIPrc04A1SVCcx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2EkVfJlLCns0JD4tgXtymNVvkjr.jpg",
+    "rating": 6.338,
+    "producer": "lionsgate",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 3333
+    }
+  },
+  {
+    "id": "series_3528",
+    "type": "series",
+    "title": "Vanda",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/77IhZGuDoyqVvZfbaubO8GPgZ9Z.jpg",
+    "rating": 7.1,
+    "producer": "lionsgate",
+    "genres": [
+      "drama",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3528
+    }
+  },
+  {
+    "id": "series_3874",
+    "type": "series",
+    "title": "Survivor's Remorse",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/1kJwkzdsGKlmRrK8HIOCgGtw6oU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6C6GQ6f2bNmXY3oCPBYV23PqDwY.jpg",
+    "rating": 6.603,
+    "producer": "lionsgate",
+    "genres": [
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 3874
+    }
   }
 ]

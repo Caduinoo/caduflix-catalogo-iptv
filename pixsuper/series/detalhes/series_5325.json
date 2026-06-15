@@ -1,0 +1,51 @@
+{
+  "id": "series_5325",
+  "type": "series",
+  "title": "Senna por Ayrton",
+  "originalTitle": "Senna por Ayrton",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/jWB7ocxSX55Q6IYFsQPTEqcA5tW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7yiIHv7cFUPScrKFjGoDUnMlaHp.jpg",
+  "overview": "Ayrton Senna conta sua própria história. O início da carreira, o auge na F1, as rivalidades, o tri mundial e a consagração como o maior ídolo de uma geração de brasileiros.",
+  "rating": 7,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 253225,
+  "xtream": {
+    "seriesId": 5325
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3312658",
+          "episodeId": 3312658,
+          "season": 1,
+          "episode": 1,
+          "title": "Senna por Ayrton S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3312659",
+          "episodeId": 3312659,
+          "season": 1,
+          "episode": 2,
+          "title": "Senna por Ayrton S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3312660",
+          "episodeId": 3312660,
+          "season": 1,
+          "episode": 3,
+          "title": "Senna por Ayrton S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

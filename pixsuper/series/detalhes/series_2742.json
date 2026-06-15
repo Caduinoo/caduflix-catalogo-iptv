@@ -1,0 +1,50 @@
+{
+  "id": "series_2742",
+  "type": "series",
+  "title": "Eu Matei Meu Pai",
+  "originalTitle": "I Just Killed My Dad",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/eqtM4BGjHpND7LHC8YI0FGCtOVt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uG6In99nOragnREhf3C6v38gwhc.jpg",
+  "overview": "Anthony Templet assassinou o próprio pai e nunca negou isso. Mas o motivo é uma questão complexa, com implicações profundas que vão muito além da família.",
+  "rating": 7.1,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 206492,
+  "xtream": {
+    "seriesId": 2742
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3247237",
+          "episodeId": 3247237,
+          "season": 1,
+          "episode": 1,
+          "title": "Eu Matei Meu Pai S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247238",
+          "episodeId": 3247238,
+          "season": 1,
+          "episode": 2,
+          "title": "Eu Matei Meu Pai S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247239",
+          "episodeId": 3247239,
+          "season": 1,
+          "episode": 3,
+          "title": "Eu Matei Meu Pai S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_3007",
+  "type": "series",
+  "title": "Deceit",
+  "originalTitle": "Deceit",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/peIkWRJNnufq5n8al7Ngzmk9ujZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gXRG5uERAGualRB7SAOctGELVaH.jpg",
+  "overview": "Uma policial disfarçada, de codinome \"Lizzie James\", é encarregada de liderar uma armadilha contra Colin Stagg, o principal suspeito do assassinato de uma jovem em 1992.\n\nO impacto que a Operação Edzell teve sobre Lizzie será explorado em quatro partes, no novo drama que é contado do ponto de vista de Lizzie.",
+  "rating": 6.2,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 130738,
+  "xtream": {
+    "seriesId": 3007
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3253387",
+          "episodeId": 3253387,
+          "season": 1,
+          "episode": 1,
+          "title": "Deceit S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253388",
+          "episodeId": 3253388,
+          "season": 1,
+          "episode": 2,
+          "title": "Deceit S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253389",
+          "episodeId": 3253389,
+          "season": 1,
+          "episode": 3,
+          "title": "Deceit S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253390",
+          "episodeId": 3253390,
+          "season": 1,
+          "episode": 4,
+          "title": "Deceit S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

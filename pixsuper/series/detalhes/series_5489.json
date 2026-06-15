@@ -1,0 +1,82 @@
+{
+  "id": "series_5489",
+  "type": "series",
+  "title": "Hierarchy",
+  "originalTitle": "하이라키",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/dE9lgQZIMMgC0iBvbv5SaNEHcOd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9VPNHVHT3d3FzLQiHO4cq4Ysl3r.jpg",
+  "overview": "O seleto grupo dos 0,01% melhores alunos domina o Colégio Jooshin, mas um novo estudante consegue encontrar uma brecha nessa hierarquia implacável.",
+  "rating": 7.672,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 226527,
+  "xtream": {
+    "seriesId": 5489
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3316939",
+          "episodeId": 3316939,
+          "season": 1,
+          "episode": 1,
+          "title": "Hierarchy S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3316940",
+          "episodeId": 3316940,
+          "season": 1,
+          "episode": 2,
+          "title": "Hierarchy S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3316941",
+          "episodeId": 3316941,
+          "season": 1,
+          "episode": 3,
+          "title": "Hierarchy S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3316942",
+          "episodeId": 3316942,
+          "season": 1,
+          "episode": 4,
+          "title": "Hierarchy S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3316943",
+          "episodeId": 3316943,
+          "season": 1,
+          "episode": 5,
+          "title": "Hierarchy S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3316944",
+          "episodeId": 3316944,
+          "season": 1,
+          "episode": 6,
+          "title": "Hierarchy S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3316945",
+          "episodeId": 3316945,
+          "season": 1,
+          "episode": 7,
+          "title": "Hierarchy S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

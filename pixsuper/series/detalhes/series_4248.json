@@ -1,0 +1,75 @@
+{
+  "id": "series_4248",
+  "type": "series",
+  "title": "Copenhagen Cowboy",
+  "originalTitle": "Copenhagen Cowboy",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/gee0HSmgYdrhVha6aY9x5akM8J7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oDNtE32GYBDtVGyxeigIoUa8XHq.jpg",
+  "overview": "Cansada de servir como amuleto da sorte, uma mulher com misteriosos poderes sobrenaturais decide buscar vingança.",
+  "rating": 6.908,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 206510,
+  "xtream": {
+    "seriesId": 4248
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3285701",
+          "episodeId": 3285701,
+          "season": 1,
+          "episode": 1,
+          "title": "Copenhagen Cowboy S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285702",
+          "episodeId": 3285702,
+          "season": 1,
+          "episode": 2,
+          "title": "Copenhagen Cowboy S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285703",
+          "episodeId": 3285703,
+          "season": 1,
+          "episode": 3,
+          "title": "Copenhagen Cowboy S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285704",
+          "episodeId": 3285704,
+          "season": 1,
+          "episode": 4,
+          "title": "Copenhagen Cowboy S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285705",
+          "episodeId": 3285705,
+          "season": 1,
+          "episode": 5,
+          "title": "Copenhagen Cowboy S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285706",
+          "episodeId": 3285706,
+          "season": 1,
+          "episode": 6,
+          "title": "Copenhagen Cowboy S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

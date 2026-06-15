@@ -1,0 +1,75 @@
+{
+  "id": "series_2753",
+  "type": "series",
+  "title": "Ludik",
+  "originalTitle": "Ludik",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/pNdYJdE1sSACnjgWjnIJAm7lfiV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8dJ9WoQldrr08ce21ZCLptHPtY5.jpg",
+  "overview": "Para salvar um parente sequestrado, um magnata do ramo de móveis precisa usar sua operação de contrabando de diamantes para transportar armas.",
+  "rating": 7.3,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 206910,
+  "xtream": {
+    "seriesId": 2753
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3247341",
+          "episodeId": 3247341,
+          "season": 1,
+          "episode": 1,
+          "title": "Ludik S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247342",
+          "episodeId": 3247342,
+          "season": 1,
+          "episode": 2,
+          "title": "Ludik S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247343",
+          "episodeId": 3247343,
+          "season": 1,
+          "episode": 3,
+          "title": "Ludik S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247344",
+          "episodeId": 3247344,
+          "season": 1,
+          "episode": 4,
+          "title": "Ludik S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247345",
+          "episodeId": 3247345,
+          "season": 1,
+          "episode": 5,
+          "title": "Ludik S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247346",
+          "episodeId": 3247346,
+          "season": 1,
+          "episode": 6,
+          "title": "Ludik S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "series_852",
+  "type": "series",
+  "title": "A Era dos Dados",
+  "originalTitle": "Connected",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/u1xTMUr9aCplVLi67zsJ0DOpbz0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wbS5gQCwfl5Psa8PEyVNH89tBWY.jpg",
+  "overview": "O jornalista de ciências Latif Nasser investiga as maneiras surpreendentes e intrincadas pelas quais estamos conectados, ao mundo e ao universo.",
+  "rating": 6.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 106525,
+  "xtream": {
+    "seriesId": 852
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3176244",
+          "episodeId": 3176244,
+          "season": 1,
+          "episode": 1,
+          "title": "A Era dos Dados S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176245",
+          "episodeId": 3176245,
+          "season": 1,
+          "episode": 2,
+          "title": "A Era dos Dados S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176246",
+          "episodeId": 3176246,
+          "season": 1,
+          "episode": 3,
+          "title": "A Era dos Dados S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176247",
+          "episodeId": 3176247,
+          "season": 1,
+          "episode": 4,
+          "title": "A Era dos Dados S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176248",
+          "episodeId": 3176248,
+          "season": 1,
+          "episode": 5,
+          "title": "A Era dos Dados S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176249",
+          "episodeId": 3176249,
+          "season": 1,
+          "episode": 6,
+          "title": "A Era dos Dados S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

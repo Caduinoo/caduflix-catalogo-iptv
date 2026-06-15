@@ -1,0 +1,69 @@
+{
+  "id": "series_1814",
+  "type": "series",
+  "title": "A Vida de Dug",
+  "originalTitle": "Dug Days",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/h2RXddBTovp6nimkDIVkyKKzjZe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pgWgB8AfFOtwKSSoGYbmWsO5Mfq.jpg",
+  "overview": "Segue as engraçadas desventuras de Dug, o adorável cachorro de \"Up: Altas Aventuras\". Cada curta mostra um pouco do cotidiano de Dug em seu quintal, tudo através do olhar animado (e levemente distorcido) de nosso cão falante preferido.",
+  "rating": 7.393,
+  "genres": [
+    "animacao",
+    "comedia",
+    "familia",
+    "infantil"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 114501,
+  "xtream": {
+    "seriesId": 1814
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3217782",
+          "episodeId": 3217782,
+          "season": 1,
+          "episode": 1,
+          "title": "A Vida de Dug S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217783",
+          "episodeId": 3217783,
+          "season": 1,
+          "episode": 2,
+          "title": "A Vida de Dug S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217784",
+          "episodeId": 3217784,
+          "season": 1,
+          "episode": 3,
+          "title": "A Vida de Dug S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217785",
+          "episodeId": 3217785,
+          "season": 1,
+          "episode": 4,
+          "title": "A Vida de Dug S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217786",
+          "episodeId": 3217786,
+          "season": 1,
+          "episode": 5,
+          "title": "A Vida de Dug S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

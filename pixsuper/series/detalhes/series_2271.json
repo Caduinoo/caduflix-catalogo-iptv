@@ -1,0 +1,50 @@
+{
+  "id": "series_2271",
+  "type": "series",
+  "title": "jeen-yuhs: Uma Trilogia Kanye",
+  "originalTitle": "jeen-yuhs: A Kanye Trilogy",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/qX9Li9ozQFQIhkg5A6Bs0xiKdiC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mnAY51TaVOtfi7WkFI5qczVhu9W.jpg",
+  "overview": "Um astro em ascensão e um cineasta. Duas vidas que se cruzam nesta série documental intensa e intimista que mostra a carreira de Kanye West, filmada durante duas décadas.",
+  "rating": 7.1,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 155094,
+  "xtream": {
+    "seriesId": 2271
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3233520",
+          "episodeId": 3233520,
+          "season": 1,
+          "episode": 1,
+          "title": "jeen-yuhs: Trilogia Kanye S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233521",
+          "episodeId": 3233521,
+          "season": 1,
+          "episode": 2,
+          "title": "jeen-yuhs: Trilogia Kanye S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233522",
+          "episodeId": 3233522,
+          "season": 1,
+          "episode": 3,
+          "title": "jeen-yuhs: Trilogia Kanye S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

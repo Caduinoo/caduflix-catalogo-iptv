@@ -1,0 +1,40 @@
+{
+  "id": "series_4753",
+  "type": "series",
+  "title": "World on a Wire",
+  "originalTitle": "World on a Wire",
+  "year": 1973,
+  "poster": "http://image.tmdb.org/t/p/w300/4mjzFozVRsOaPjL3MOTxRYVU1OJ.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 7,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 4753
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3298791",
+          "episodeId": 3298791,
+          "season": 1,
+          "episode": 1,
+          "title": "World on a Wire [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3298792",
+          "episodeId": 3298792,
+          "season": 1,
+          "episode": 2,
+          "title": "World on a Wire [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

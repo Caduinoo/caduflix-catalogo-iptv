@@ -1,0 +1,75 @@
+{
+  "id": "series_5517",
+  "type": "series",
+  "title": "Requiem",
+  "originalTitle": "Requiem",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hXaXiqm9AFiSLtjZIJ4pJ0xL6ol.jpg",
+  "overview": "Após uma tragédia súbita, uma violoncelista londrina desenterra segredos que ligam sua mãe ao desaparecimento de uma jovem em uma pequena cidade galesa.",
+  "rating": 6.27,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 76819,
+  "xtream": {
+    "seriesId": 5517
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3317629",
+          "episodeId": 3317629,
+          "season": 1,
+          "episode": 1,
+          "title": "Requiem S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3317630",
+          "episodeId": 3317630,
+          "season": 1,
+          "episode": 2,
+          "title": "Requiem S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3317631",
+          "episodeId": 3317631,
+          "season": 1,
+          "episode": 3,
+          "title": "Requiem S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3317632",
+          "episodeId": 3317632,
+          "season": 1,
+          "episode": 4,
+          "title": "Requiem S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3317633",
+          "episodeId": 3317633,
+          "season": 1,
+          "episode": 5,
+          "title": "Requiem S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3317634",
+          "episodeId": 3317634,
+          "season": 1,
+          "episode": 6,
+          "title": "Requiem S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

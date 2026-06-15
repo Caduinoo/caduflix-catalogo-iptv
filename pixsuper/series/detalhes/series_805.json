@@ -1,0 +1,62 @@
+{
+  "id": "series_805",
+  "type": "series",
+  "title": "O Auto da Compadecida",
+  "originalTitle": "O Auto da Compadecida",
+  "year": 1999,
+  "poster": "https://image.tmdb.org/t/p/w500/4ZDE60qWgDLHH7GeZY2UFANNV8w.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fZcwdKOSszddEjf6zPWbNWk96Ok.jpg",
+  "overview": "Baseado na peça teatral homônima de Ariano Suassuna, O Auto da Compadecida é uma comédia que mistura regionalismos e religiosidade para contar a história de João Grilo e Chicó.",
+  "rating": 9,
+  "genres": [
+    "comedia",
+    "fantasia",
+    "ficcao",
+    "drama",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 91630,
+  "xtream": {
+    "seriesId": 805
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3174340",
+          "episodeId": 3174340,
+          "season": 1,
+          "episode": 1,
+          "title": "O Auto da Compadecida S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3174341",
+          "episodeId": 3174341,
+          "season": 1,
+          "episode": 2,
+          "title": "O Auto da Compadecida S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3174342",
+          "episodeId": 3174342,
+          "season": 1,
+          "episode": 3,
+          "title": "O Auto da Compadecida S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3174343",
+          "episodeId": 3174343,
+          "season": 1,
+          "episode": 4,
+          "title": "O Auto da Compadecida S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

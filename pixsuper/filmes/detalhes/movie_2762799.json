@@ -1,0 +1,29 @@
+{
+  "id": "movie_2762799",
+  "type": "movie",
+  "title": "Copenhagen",
+  "originalTitle": "Copenhagen",
+  "year": 1937,
+  "poster": "https://image.tmdb.org/t/p/w500/f5LTXns4ACaobT06YQSupV3Yqk6.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5.5,
+  "runtime": 9,
+  "genres": [
+    "documentario",
+    "romance"
+  ],
+  "cast": [
+    {
+      "name": "James A. FitzPatrick",
+      "character": "Narrator (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/mJFMGvw6vyxgkD8GNDh1mT5TDU6.jpg"
+    }
+  ],
+  "director": "Ralph Donaldson",
+  "tmdbId": 252001,
+  "xtream": {
+    "streamId": 2762799,
+    "containerExtension": "mp4"
+  }
+}

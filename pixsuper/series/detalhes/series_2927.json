@@ -1,0 +1,93 @@
+{
+  "id": "series_2927",
+  "type": "series",
+  "title": "exception",
+  "originalTitle": "exception",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/5i6brHMAczSKnR1tvGIMkjz1wft.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4sMLQ0EdAthgggrg8Rvy1drd4jn.jpg",
+  "overview": "Em um futuro distante, a humanidade foi forçada a deixar a Terra. Uma nave com uma equipe de especialistas impressa em 3D é enviada para colonizar um novo planeta.",
+  "rating": 6.962,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 127325,
+  "xtream": {
+    "seriesId": 2927
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3251837",
+          "episodeId": 3251837,
+          "season": 1,
+          "episode": 1,
+          "title": "Exception S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251838",
+          "episodeId": 3251838,
+          "season": 1,
+          "episode": 2,
+          "title": "Exception S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251839",
+          "episodeId": 3251839,
+          "season": 1,
+          "episode": 3,
+          "title": "Exception S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251840",
+          "episodeId": 3251840,
+          "season": 1,
+          "episode": 4,
+          "title": "Exception S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251841",
+          "episodeId": 3251841,
+          "season": 1,
+          "episode": 5,
+          "title": "Exception S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251842",
+          "episodeId": 3251842,
+          "season": 1,
+          "episode": 6,
+          "title": "Exception S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251843",
+          "episodeId": 3251843,
+          "season": 1,
+          "episode": 7,
+          "title": "Exception S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251844",
+          "episodeId": 3251844,
+          "season": 1,
+          "episode": 8,
+          "title": "Exception S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

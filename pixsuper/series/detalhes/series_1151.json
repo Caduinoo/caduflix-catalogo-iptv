@@ -1,0 +1,130 @@
+{
+  "id": "series_1151",
+  "type": "series",
+  "title": "A Peste",
+  "originalTitle": "La peste",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/lMv9BfXtClkvjWk2yFL2JyuKXLt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pOB1PGAvoD0wtWdxcFyo4TDpUPt.jpg",
+  "overview": "Uma série de assassinatos ocorre na Sevilha do século 16, devastada pela praga. Um condenado enfrenta a Inquisição enquanto tenta salvar o filho de um amigo.",
+  "rating": 7,
+  "genres": [
+    "acao",
+    "aventura",
+    "crime",
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 76303,
+  "xtream": {
+    "seriesId": 1151
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3187517",
+          "episodeId": 3187517,
+          "season": 1,
+          "episode": 1,
+          "title": "A Peste S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187518",
+          "episodeId": 3187518,
+          "season": 1,
+          "episode": 2,
+          "title": "A Peste S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187519",
+          "episodeId": 3187519,
+          "season": 1,
+          "episode": 3,
+          "title": "A Peste S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187520",
+          "episodeId": 3187520,
+          "season": 1,
+          "episode": 4,
+          "title": "A Peste S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187521",
+          "episodeId": 3187521,
+          "season": 1,
+          "episode": 5,
+          "title": "A Peste S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187522",
+          "episodeId": 3187522,
+          "season": 1,
+          "episode": 6,
+          "title": "A Peste S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3187523",
+          "episodeId": 3187523,
+          "season": 2,
+          "episode": 1,
+          "title": "A Peste S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187524",
+          "episodeId": 3187524,
+          "season": 2,
+          "episode": 2,
+          "title": "A Peste S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187525",
+          "episodeId": 3187525,
+          "season": 2,
+          "episode": 3,
+          "title": "A Peste S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187526",
+          "episodeId": 3187526,
+          "season": 2,
+          "episode": 4,
+          "title": "A Peste S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187527",
+          "episodeId": 3187527,
+          "season": 2,
+          "episode": 5,
+          "title": "A Peste S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187528",
+          "episodeId": 3187528,
+          "season": 2,
+          "episode": 6,
+          "title": "A Peste S02 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

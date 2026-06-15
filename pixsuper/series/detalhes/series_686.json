@@ -1,0 +1,75 @@
+{
+  "id": "series_686",
+  "type": "series",
+  "title": "Flack",
+  "originalTitle": "Flack",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/i2bW3nZE8iThEgqNYjaxAz3qZoo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6lkZYlgKF77OOcsoLP6Rdj4Lwy9.jpg",
+  "overview": "Robyn é uma profissional de relações públicas. Ela impulsiona, faz publicidade e protege os clientes. Seu trabalho é esse, consertar a vida de outras pessoas, apesar de ser incapaz de corrigir a sua própria.",
+  "rating": 6.8,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 86632,
+  "xtream": {
+    "seriesId": 686
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3160912",
+          "episodeId": 3160912,
+          "season": 1,
+          "episode": 1,
+          "title": "Flack S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160913",
+          "episodeId": 3160913,
+          "season": 1,
+          "episode": 2,
+          "title": "Flack S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160914",
+          "episodeId": 3160914,
+          "season": 1,
+          "episode": 3,
+          "title": "Flack S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160915",
+          "episodeId": 3160915,
+          "season": 1,
+          "episode": 4,
+          "title": "Flack S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160916",
+          "episodeId": 3160916,
+          "season": 1,
+          "episode": 5,
+          "title": "Flack S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160917",
+          "episodeId": 3160917,
+          "season": 1,
+          "episode": 6,
+          "title": "Flack S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

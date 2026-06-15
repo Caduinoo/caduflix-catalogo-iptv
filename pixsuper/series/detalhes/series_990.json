@@ -1,0 +1,74 @@
+{
+  "id": "series_990",
+  "type": "series",
+  "title": "Menu Selvagem",
+  "originalTitle": "Kings of the Wild",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/Ao9If5oIF6Dts9LIfKbQhUK8j7X.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y925Du7OYQq6oGUYo2POg3gdEk5.jpg",
+  "overview": "Josh James é o típico caçador – o neozelandês exerce sua função de procurar e trazer a presa sem o menor requinte; já Matt Tebbutt é um chef britânico que aprecia o sabor e a elegância de pratos bem preparados. Os dois formam uma dupla improvável nessa série do Discovery MENU SELVAGEM (Kings of The Wild) e aceitam o desafio da produção: provar que podem preparar banquetes dignos da realeza em alguns dos lugares mais remotos da Terra, sem equipamentos ou regalias.",
+  "rating": 10,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 104682,
+  "xtream": {
+    "seriesId": 990
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3180522",
+          "episodeId": 3180522,
+          "season": 1,
+          "episode": 1,
+          "title": "Menu Selvagem S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3180523",
+          "episodeId": 3180523,
+          "season": 1,
+          "episode": 2,
+          "title": "Menu Selvagem S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3180524",
+          "episodeId": 3180524,
+          "season": 1,
+          "episode": 3,
+          "title": "Menu Selvagem S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3180525",
+          "episodeId": 3180525,
+          "season": 1,
+          "episode": 4,
+          "title": "Menu Selvagem S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3180526",
+          "episodeId": 3180526,
+          "season": 1,
+          "episode": 5,
+          "title": "Menu Selvagem S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3180527",
+          "episodeId": 3180527,
+          "season": 1,
+          "episode": 6,
+          "title": "Menu Selvagem S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

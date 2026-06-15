@@ -1,0 +1,36 @@
+{
+  "id": "movie_3124233",
+  "type": "movie",
+  "title": "Minha Querida Esme",
+  "originalTitle": "Esme, My Love",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/ehTjdJSSnEeHkyTozLQ92vlgb7h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uQHYjTm8DOmUDnEnxPurPCw7gsl.jpg",
+  "overview": "Quando Esme começa a apresentar sintomas de uma terrível doença de família, sua mãe decide levá-la até a casa abandonada de seus avós na esperança de se reconectar com seu passado.",
+  "rating": 5.8,
+  "runtime": 106,
+  "genres": [
+    "drama",
+    "suspense",
+    "thriller",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Audrey Grace Marshall",
+      "character": "Esme",
+      "profile": "https://image.tmdb.org/t/p/w185/rG8M3rVJiepFMLdF0763UIvIYTv.jpg"
+    },
+    {
+      "name": "Stacey Weckstein",
+      "character": "Hannah",
+      "profile": ""
+    }
+  ],
+  "director": "Cory Choy",
+  "tmdbId": 923994,
+  "xtream": {
+    "streamId": 3124233,
+    "containerExtension": "mp4"
+  }
+}

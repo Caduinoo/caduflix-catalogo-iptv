@@ -1,0 +1,90 @@
+{
+  "id": "series_896",
+  "type": "series",
+  "title": "Matchday: FC Barcelona",
+  "originalTitle": "Matchday: Inside FC Barcelona",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/1GcReVmzKbNFfeydGPc2mDM8Gws.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mg7iAA5rZVPBDi849S1JDWypxmb.jpg",
+  "overview": "Dentro e fora de campo, imagens inéditas garantem um mergulho exclusivo no dia a dia do Barcelona, um dos times mais amados e bem-sucedidos do planeta.",
+  "rating": 7.7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 95356,
+  "xtream": {
+    "seriesId": 896
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3177296",
+          "episodeId": 3177296,
+          "season": 1,
+          "episode": 1,
+          "title": "Matchday S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177297",
+          "episodeId": 3177297,
+          "season": 1,
+          "episode": 2,
+          "title": "Matchday S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177298",
+          "episodeId": 3177298,
+          "season": 1,
+          "episode": 3,
+          "title": "Matchday S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177299",
+          "episodeId": 3177299,
+          "season": 1,
+          "episode": 4,
+          "title": "Matchday S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177300",
+          "episodeId": 3177300,
+          "season": 1,
+          "episode": 5,
+          "title": "Matchday S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177301",
+          "episodeId": 3177301,
+          "season": 1,
+          "episode": 6,
+          "title": "Matchday S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177302",
+          "episodeId": 3177302,
+          "season": 1,
+          "episode": 7,
+          "title": "Matchday S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177303",
+          "episodeId": 3177303,
+          "season": 1,
+          "episode": 8,
+          "title": "Matchday S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "series_546",
+  "type": "series",
+  "title": "Marielle: O Documentário",
+  "originalTitle": "Marielle: O Documentário",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/4LCEBNJdN4X7BRde24GBw0H0tpR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pf3P6hgFJxBB5Ny3ghKr0MUGFMm.jpg",
+  "overview": "Na noite de 14 de março de 2018, Marielle Franco e o motorista Anderson Gomes foram assassinados. Dois anos depois, os mandantes do crime ainda não foram identificados.",
+  "rating": 3.6,
+  "genres": [
+    "documentario",
+    "crime",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 100417,
+  "xtream": {
+    "seriesId": 546
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3156308",
+          "episodeId": 3156308,
+          "season": 1,
+          "episode": 1,
+          "title": "Marielle O Documentario S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156309",
+          "episodeId": 3156309,
+          "season": 1,
+          "episode": 2,
+          "title": "Marielle O Documentario S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156310",
+          "episodeId": 3156310,
+          "season": 1,
+          "episode": 3,
+          "title": "Marielle O Documentario S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156311",
+          "episodeId": 3156311,
+          "season": 1,
+          "episode": 4,
+          "title": "Marielle O Documentario S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156312",
+          "episodeId": 3156312,
+          "season": 1,
+          "episode": 5,
+          "title": "Marielle O Documentario S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156313",
+          "episodeId": 3156313,
+          "season": 1,
+          "episode": 6,
+          "title": "Marielle O Documentario S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

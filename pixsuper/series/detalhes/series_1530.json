@@ -1,0 +1,63 @@
+{
+  "id": "series_1530",
+  "type": "series",
+  "title": "Resident Evil: No Escuro Absoluto",
+  "originalTitle": "バイオハザード: インフィニット ダークネス",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/xyQEqeCLAyHv43Nlh1nESbFqke4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uPHXbrh9jlq2XgfjjTFlkJfgtOQ.jpg",
+  "overview": "Anos depois dos horrores de Raccoon City, Claire e Leon se envolvem em uma conspiração sombria depois que um ataque viral assola a Casa Branca.",
+  "rating": 7.57,
+  "genres": [
+    "animacao",
+    "drama",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 110642,
+  "xtream": {
+    "seriesId": 1530
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3203195",
+          "episodeId": 3203195,
+          "season": 1,
+          "episode": 1,
+          "title": "Resident Evil: No Escuro Absoluto S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203196",
+          "episodeId": 3203196,
+          "season": 1,
+          "episode": 2,
+          "title": "Resident Evil: No Escuro Absoluto S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203197",
+          "episodeId": 3203197,
+          "season": 1,
+          "episode": 3,
+          "title": "Resident Evil: No Escuro Absoluto S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203198",
+          "episodeId": 3203198,
+          "season": 1,
+          "episode": 4,
+          "title": "Resident Evil: No Escuro Absoluto S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

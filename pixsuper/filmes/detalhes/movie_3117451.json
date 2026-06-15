@@ -1,0 +1,71 @@
+{
+  "id": "movie_3117451",
+  "type": "movie",
+  "title": "Viagem à Lua de Júpiter",
+  "originalTitle": "Europa Report",
+  "year": 2013,
+  "poster": "https://image.tmdb.org/t/p/w500/QIt5991D5zMP3QTsqwcReADo11.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nnGluGp4Bowcy7STdDAEScQcwzV.jpg",
+  "overview": "Um grupo de astronautas viaja até Europa, uma das luas de Júpiter, em busca de sinais de vida. Chegando ao local, uma série de incidentes levam-nos a perder contato com a Terra, devendo sobreviver sozinhos e num ambiente hostil.",
+  "rating": 6.3,
+  "runtime": 90,
+  "genres": [
+    "ficcao",
+    "suspense",
+    "thriller",
+    "fantasia"
+  ],
+  "cast": [
+    {
+      "name": "Anamaria Marinca",
+      "character": "Rosa Dasque",
+      "profile": "https://image.tmdb.org/t/p/w185/aucTa4er4RHqSpLPxyltjXZpWDa.jpg"
+    },
+    {
+      "name": "Michael Nyqvist",
+      "character": "Andrei Blok",
+      "profile": "https://image.tmdb.org/t/p/w185/d9nGt8MloJwosRbGp10gaeHExcZ.jpg"
+    },
+    {
+      "name": "Sharlto Copley",
+      "character": "James Corrigan",
+      "profile": "https://image.tmdb.org/t/p/w185/em89OJJvBRX7kNJJPASmNKQujsC.jpg"
+    },
+    {
+      "name": "吳彥祖",
+      "character": "William Xu",
+      "profile": "https://image.tmdb.org/t/p/w185/2pNO5dwxk3uaQpL87OBw31s7uSb.jpg"
+    },
+    {
+      "name": "Karolina Wydra",
+      "character": "Dr. Katya Petrovna",
+      "profile": "https://image.tmdb.org/t/p/w185/141nqX6Ikw7sXgWAkMTEbLbzqpU.jpg"
+    },
+    {
+      "name": "Christian Camargo",
+      "character": "Dr. Daniel Luxembourg",
+      "profile": "https://image.tmdb.org/t/p/w185/7smKRlZUxTJqt1smgarwzzks684.jpg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "character": "Dr. Samantha Unger",
+      "profile": "https://image.tmdb.org/t/p/w185/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+    },
+    {
+      "name": "Dan Fogler",
+      "character": "Dr. Sokolov",
+      "profile": "https://image.tmdb.org/t/p/w185/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
+    },
+    {
+      "name": "Isiah Whitlock Jr.",
+      "character": "Dr. Pamuk",
+      "profile": "https://image.tmdb.org/t/p/w185/8OIhQb53rMX7VcTLZbAMeVd7tHc.jpg"
+    }
+  ],
+  "director": "Sebastián Cordero",
+  "tmdbId": 174772,
+  "xtream": {
+    "streamId": 3117451,
+    "containerExtension": "mp4"
+  }
+}

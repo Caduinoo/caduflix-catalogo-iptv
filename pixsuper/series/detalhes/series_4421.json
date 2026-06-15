@@ -1,0 +1,58 @@
+{
+  "id": "series_4421",
+  "type": "series",
+  "title": "O Universo: Mistérios Revelados",
+  "originalTitle": "O Universo: Mistérios Revelados",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/nNBiBDRksSXwlueMQ7BrdcUyuDE.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "A série tenta solucionar mistérios do universo do passado usando atual conhecimento científico. Como por exemplo, a possibilidade de o monumento pré-histórico Stonehenge ter sido usado como observatório astronômico.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 239592,
+  "xtream": {
+    "seriesId": 4421
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3289212",
+          "episodeId": 3289212,
+          "season": 1,
+          "episode": 1,
+          "title": "O Universo Misterios Revelados S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289213",
+          "episodeId": 3289213,
+          "season": 1,
+          "episode": 2,
+          "title": "O Universo Misterios Revelados S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289214",
+          "episodeId": 3289214,
+          "season": 1,
+          "episode": 3,
+          "title": "O Universo Misterios Revelados S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289215",
+          "episodeId": 3289215,
+          "season": 1,
+          "episode": 4,
+          "title": "O Universo Misterios Revelados S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

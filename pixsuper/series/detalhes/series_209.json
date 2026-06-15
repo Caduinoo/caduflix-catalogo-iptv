@@ -1,0 +1,90 @@
+{
+  "id": "series_209",
+  "type": "series",
+  "title": "É o Bruno!",
+  "originalTitle": "It's Bruno!",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/5T7QerajngWRWlNUrDg9hiruf9w.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/meLsBF7DV6VR6y9r8VwFDH0XnTv.jpg",
+  "overview": "Um morador do Brooklyn dedica seus dias a cuidar do adorável cão Bruno e garantir que a vizinhança do bairro trate seu fiel escudeiro com o devido respeito.",
+  "rating": 7,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 89490,
+  "xtream": {
+    "seriesId": 209
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3144200",
+          "episodeId": 3144200,
+          "season": 1,
+          "episode": 1,
+          "title": "It's Bruno! S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144201",
+          "episodeId": 3144201,
+          "season": 1,
+          "episode": 2,
+          "title": "It's Bruno! S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144202",
+          "episodeId": 3144202,
+          "season": 1,
+          "episode": 3,
+          "title": "It's Bruno! S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144203",
+          "episodeId": 3144203,
+          "season": 1,
+          "episode": 4,
+          "title": "It's Bruno! S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144204",
+          "episodeId": 3144204,
+          "season": 1,
+          "episode": 5,
+          "title": "It's Bruno! S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144205",
+          "episodeId": 3144205,
+          "season": 1,
+          "episode": 6,
+          "title": "It's Bruno! S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144206",
+          "episodeId": 3144206,
+          "season": 1,
+          "episode": 7,
+          "title": "It's Bruno! S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144207",
+          "episodeId": 3144207,
+          "season": 1,
+          "episode": 8,
+          "title": "It's Bruno! S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

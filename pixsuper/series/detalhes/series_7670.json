@@ -1,0 +1,59 @@
+{
+  "id": "series_7670",
+  "type": "series",
+  "title": "Abel, O Grande",
+  "originalTitle": "Abel, O Grande",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/cFXA7AkLfGLkG8yx3Ot92r71zYv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gfwo8F80qiKom286co2mfnfKPrt.jpg",
+  "overview": "Esta série documental é sobre a vida e carreira marcantes de Abel Braga, técnico de futebol campeão do Mundial de Clubes em 2006 com o Internacional. O documentário joga luz sobre o lado humano do treinador e conta como Abel superou sua pior partida, a trágica perda de seu filho João Pedro em 2017.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 300570,
+  "xtream": {
+    "seriesId": 7670
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3369784",
+          "episodeId": 3369784,
+          "season": 1,
+          "episode": 1,
+          "title": "Abel O Grande S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3369785",
+          "episodeId": 3369785,
+          "season": 1,
+          "episode": 2,
+          "title": "Abel O Grande S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3369786",
+          "episodeId": 3369786,
+          "season": 1,
+          "episode": 3,
+          "title": "Abel O Grande S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3369787",
+          "episodeId": 3369787,
+          "season": 1,
+          "episode": 4,
+          "title": "Abel O Grande S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

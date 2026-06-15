@@ -1,0 +1,90 @@
+{
+  "id": "series_2050",
+  "type": "series",
+  "title": "Cozinhando o Impossível",
+  "originalTitle": "Baking Impossible",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/hqvELiloDxYwAv1SF0Nkg7vmbfv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zZzgs1OFs2uzs2DGi9trdEGrVho.jpg",
+  "overview": "Na disputa pelo prêmio de 100 mil dólares, confeiteiros e engenheiros geniais se unem para elaborar criações que, além de deliciosas, devem ser muito resistentes.",
+  "rating": 7,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 133090,
+  "xtream": {
+    "seriesId": 2050
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3225994",
+          "episodeId": 3225994,
+          "season": 1,
+          "episode": 1,
+          "title": "Cozinhando o Impossível S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225995",
+          "episodeId": 3225995,
+          "season": 1,
+          "episode": 2,
+          "title": "Cozinhando o Impossível S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225996",
+          "episodeId": 3225996,
+          "season": 1,
+          "episode": 3,
+          "title": "Cozinhando o Impossível S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225997",
+          "episodeId": 3225997,
+          "season": 1,
+          "episode": 4,
+          "title": "Cozinhando o Impossível S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225998",
+          "episodeId": 3225998,
+          "season": 1,
+          "episode": 5,
+          "title": "Cozinhando o Impossível S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225999",
+          "episodeId": 3225999,
+          "season": 1,
+          "episode": 6,
+          "title": "Cozinhando o Impossível S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226000",
+          "episodeId": 3226000,
+          "season": 1,
+          "episode": 7,
+          "title": "Cozinhando o Impossível S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226001",
+          "episodeId": 3226001,
+          "season": 1,
+          "episode": 8,
+          "title": "Cozinhando o Impossível S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

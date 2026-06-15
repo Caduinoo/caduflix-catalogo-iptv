@@ -1,0 +1,74 @@
+{
+  "id": "series_5105",
+  "type": "series",
+  "title": "Neuland",
+  "originalTitle": "Neuland",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/p1gUzEyG6yzMwqlch0fucpHBCdO.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Talk Show de Origem Canadense com pitada de Comédia",
+  "rating": 0,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 90671,
+  "xtream": {
+    "seriesId": 5105
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308552",
+          "episodeId": 3308552,
+          "season": 1,
+          "episode": 1,
+          "title": "Neuland [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308553",
+          "episodeId": 3308553,
+          "season": 1,
+          "episode": 2,
+          "title": "Neuland [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308554",
+          "episodeId": 3308554,
+          "season": 1,
+          "episode": 3,
+          "title": "Neuland [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308555",
+          "episodeId": 3308555,
+          "season": 1,
+          "episode": 4,
+          "title": "Neuland [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308556",
+          "episodeId": 3308556,
+          "season": 1,
+          "episode": 5,
+          "title": "Neuland [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308557",
+          "episodeId": 3308557,
+          "season": 1,
+          "episode": 6,
+          "title": "Neuland [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

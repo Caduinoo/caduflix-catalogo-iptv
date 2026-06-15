@@ -1,0 +1,50 @@
+{
+  "id": "series_5375",
+  "type": "series",
+  "title": "A Rainha da Trapaça de Hollywood",
+  "originalTitle": "Hollywood Con Queen",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/tuOIbodSaE0zy5hhkm3irKpg3JD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u5Dz5kM3MZ8sQPXqCZsCeKwr3xt.jpg",
+  "overview": "Uma figura misteriosa, conhecida como a Rainha Golpista, está se passando por executivas poderosas de Hollywood e atraindo vítimas com promessas de oportunidades de carreira que mudam a vida. Um jornalista e uma investigadora particular decidem descobrir quem está por trás do golpe.",
+  "rating": 6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 251927,
+  "xtream": {
+    "seriesId": 5375
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3314947",
+          "episodeId": 3314947,
+          "season": 1,
+          "episode": 1,
+          "title": "A Rainha da Trapaca de Hollywood [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3314948",
+          "episodeId": 3314948,
+          "season": 1,
+          "episode": 2,
+          "title": "A Rainha da Trapaca de Hollywood [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3314949",
+          "episodeId": 3314949,
+          "season": 1,
+          "episode": 3,
+          "title": "A Rainha da Trapaca de Hollywood [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "series_3256",
+  "type": "series",
+  "title": "Make My Day",
+  "originalTitle": "MAKE MY DAY",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/74qmlWDOVB2YXN5Cr1PclL808kG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/21wZ83vCQ6tzhmFQwspjO8x1ex5.jpg",
+  "overview": "Em um planeta distante e gelado, prisioneiros forçados a escavar uma rara fonte de energia fazem uma descoberta terrível.",
+  "rating": 6.4,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 217710,
+  "xtream": {
+    "seriesId": 3256
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3259840",
+          "episodeId": 3259840,
+          "season": 1,
+          "episode": 1,
+          "title": "MAKE MY DAY S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259841",
+          "episodeId": 3259841,
+          "season": 1,
+          "episode": 2,
+          "title": "MAKE MY DAY S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259842",
+          "episodeId": 3259842,
+          "season": 1,
+          "episode": 3,
+          "title": "MAKE MY DAY S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259843",
+          "episodeId": 3259843,
+          "season": 1,
+          "episode": 4,
+          "title": "MAKE MY DAY S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259844",
+          "episodeId": 3259844,
+          "season": 1,
+          "episode": 5,
+          "title": "MAKE MY DAY S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259845",
+          "episodeId": 3259845,
+          "season": 1,
+          "episode": 6,
+          "title": "MAKE MY DAY S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259846",
+          "episodeId": 3259846,
+          "season": 1,
+          "episode": 7,
+          "title": "MAKE MY DAY S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259847",
+          "episodeId": 3259847,
+          "season": 1,
+          "episode": 8,
+          "title": "MAKE MY DAY S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

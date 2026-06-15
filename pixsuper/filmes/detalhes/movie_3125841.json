@@ -1,0 +1,75 @@
+{
+  "id": "movie_3125841",
+  "type": "movie",
+  "title": "Uma Ilha Quase Deserta",
+  "originalTitle": "La ternura",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/1FjxLo1IRaeKFzCIjCn9Wv76zry.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/scjZzQUCMwaIn6uJHbKaOjLwO39.jpg",
+  "overview": "A Rainha Esmeralda odeia os homens pois foram eles os responsáveis por tirar toda sua liberdade. Disposta a não deixar que suas duas filhas sofram do mesmo destino, ela decide levá-las para uma ilha deserta. O único problema é que a ilha é habitada por um lenhador e seus dois filhos, que desejam nunca mais se encontrarem com uma mulher.",
+  "rating": 6.3,
+  "runtime": 105,
+  "genres": [
+    "comedia",
+    "fantasia",
+    "romance"
+  ],
+  "cast": [
+    {
+      "name": "Emma Suárez",
+      "character": "Reina Esmeralda",
+      "profile": "https://image.tmdb.org/t/p/w185/46VjvDA7znpxJvYmbu4t9PjoGfJ.jpg"
+    },
+    {
+      "name": "Gonzalo de Castro",
+      "character": "Leñador Marron",
+      "profile": "https://image.tmdb.org/t/p/w185/24FPQXdyBtOPbSQRTkE8fXEef4I.jpg"
+    },
+    {
+      "name": "Alexandra Jiménez",
+      "character": "Princesa Rubi",
+      "profile": "https://image.tmdb.org/t/p/w185/wkVjpWajYRV1Bj7OyJmmFcb5ixF.jpg"
+    },
+    {
+      "name": "Fernando Guallar",
+      "character": "Leñador Verdemar",
+      "profile": "https://image.tmdb.org/t/p/w185/yvlJ68jeSaT1amwgsNLDbvX44L3.jpg"
+    },
+    {
+      "name": "Anna Moliner",
+      "character": "Princesa Salmón",
+      "profile": "https://image.tmdb.org/t/p/w185/w9dp2fN5lxahSec6XT2TAkWQz1z.jpg"
+    },
+    {
+      "name": "Carlos Cuevas",
+      "character": "Leñador Azulcielo",
+      "profile": "https://image.tmdb.org/t/p/w185/he5a5qQV3ZydOpTiBGb4HCrc8Z6.jpg"
+    },
+    {
+      "name": "Raquel Arroyo",
+      "character": "Madre Azulcielo",
+      "profile": ""
+    },
+    {
+      "name": "Héctor Aníbal",
+      "character": "El Pescador",
+      "profile": "https://image.tmdb.org/t/p/w185/5PU9da9gJrZFizL0teCm7YCosPT.jpg"
+    },
+    {
+      "name": "Martin Sancho",
+      "character": "Niño Azulcielo (10 años)",
+      "profile": ""
+    },
+    {
+      "name": "Leonardo Fernández",
+      "character": "Niño Azulcielo (6 años)",
+      "profile": ""
+    }
+  ],
+  "director": "Vicente Villanueva",
+  "tmdbId": 1053996,
+  "xtream": {
+    "streamId": 3125841,
+    "containerExtension": "mp4"
+  }
+}

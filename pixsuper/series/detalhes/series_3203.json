@@ -1,0 +1,75 @@
+{
+  "id": "series_3203",
+  "type": "series",
+  "title": "A Inglesa",
+  "originalTitle": "The English",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/iset8RxTaEpcipeYaYdYRe7GEHl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eenxjEAPwPbkjN6W5ZzTbfLA4GM.jpg",
+  "overview": "Uma aristocrática inglesa, Lady Cornelia Locke, chega à nova e selvagem paisagem do Ocidente para se vingar do homem que ela considera responsável pela morte de seu filho.",
+  "rating": 7.284,
+  "genres": [
+    "drama",
+    "faroeste"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 99346,
+  "xtream": {
+    "seriesId": 3203
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3258277",
+          "episodeId": 3258277,
+          "season": 1,
+          "episode": 1,
+          "title": "A Inglesa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258278",
+          "episodeId": 3258278,
+          "season": 1,
+          "episode": 2,
+          "title": "A Inglesa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258279",
+          "episodeId": 3258279,
+          "season": 1,
+          "episode": 3,
+          "title": "A Inglesa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258280",
+          "episodeId": 3258280,
+          "season": 1,
+          "episode": 4,
+          "title": "A Inglesa S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258281",
+          "episodeId": 3258281,
+          "season": 1,
+          "episode": 5,
+          "title": "A Inglesa S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258282",
+          "episodeId": 3258282,
+          "season": 1,
+          "episode": 6,
+          "title": "A Inglesa S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

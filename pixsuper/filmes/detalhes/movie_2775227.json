@@ -1,0 +1,33 @@
+{
+  "id": "movie_2775227",
+  "type": "movie",
+  "title": "Wrong Numbers",
+  "originalTitle": "Wrong Numbers",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/5pk1YiwaAHvdTjEc37Hy2ZnkEh6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4FmJYpRg4vNcXNNkdjqRqRrYsc0.jpg",
+  "overview": "Após um encontro às cegas desastroso, Emma inicia uma conversa com Jack. Eles embarcam em um caso de uma noite que se revela complicado e destrutivo.",
+  "rating": 4,
+  "runtime": 90,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Emily Hall",
+      "character": "Emma",
+      "profile": "https://image.tmdb.org/t/p/w185/8ksIocdmnyV1M82SkrqoDpze3TO.jpg"
+    },
+    {
+      "name": "David Kelsey",
+      "character": "Jack",
+      "profile": "https://image.tmdb.org/t/p/w185/7i39MiXC6puiuhOYmh36zimjuO6.jpg"
+    }
+  ],
+  "director": "Duane Edwards",
+  "tmdbId": 1113224,
+  "xtream": {
+    "streamId": 2775227,
+    "containerExtension": "mp4"
+  }
+}

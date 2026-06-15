@@ -1,0 +1,74 @@
+{
+  "id": "series_1673",
+  "type": "series",
+  "title": "Sneakerheads",
+  "originalTitle": "Sneakerheads",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/nyNFE30mDGiVBxebUS38nPmmc0j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4V5s1IMSqtF44nCbIuOWCtXsxNc.jpg",
+  "overview": "Devin é um pai de família louco por tênis, mas sua obsessão piora quando seu amigo Bobby o convence a entrar em um esquema para conseguir um par de tênis lendário.",
+  "rating": 7.293,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 109616,
+  "xtream": {
+    "seriesId": 1673
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3210997",
+          "episodeId": 3210997,
+          "season": 1,
+          "episode": 1,
+          "title": "Sneakerheads S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210998",
+          "episodeId": 3210998,
+          "season": 1,
+          "episode": 2,
+          "title": "Sneakerheads S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210999",
+          "episodeId": 3210999,
+          "season": 1,
+          "episode": 3,
+          "title": "Sneakerheads S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3211000",
+          "episodeId": 3211000,
+          "season": 1,
+          "episode": 4,
+          "title": "Sneakerheads S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3211001",
+          "episodeId": 3211001,
+          "season": 1,
+          "episode": 5,
+          "title": "Sneakerheads S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3211002",
+          "episodeId": 3211002,
+          "season": 1,
+          "episode": 6,
+          "title": "Sneakerheads S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_1497",
+  "type": "series",
+  "title": "Meu Amigo Bussunda",
+  "originalTitle": "Meu Amigo Bussunda",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/2dTxtR9kUMfgTdTHc3nGphG24yQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/50fNA8XeVVLghIIUGYg5ManQ42V.jpg",
+  "overview": "Cláudio Manoel, parceiro inseparável de Bussunda, ouve amigos e familiares, e lembra a história desse grande nome do humor nacional, da infância até sua morte precoce, aos 43 anos.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 127650,
+  "xtream": {
+    "seriesId": 1497
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3202234",
+          "episodeId": 3202234,
+          "season": 1,
+          "episode": 1,
+          "title": "Meu Amigo Bussunda S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202235",
+          "episodeId": 3202235,
+          "season": 1,
+          "episode": 2,
+          "title": "Meu Amigo Bussunda S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202236",
+          "episodeId": 3202236,
+          "season": 1,
+          "episode": 3,
+          "title": "Meu Amigo Bussunda S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202237",
+          "episodeId": 3202237,
+          "season": 1,
+          "episode": 4,
+          "title": "Meu Amigo Bussunda S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

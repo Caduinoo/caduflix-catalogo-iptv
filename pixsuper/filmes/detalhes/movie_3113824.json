@@ -1,0 +1,35 @@
+{
+  "id": "movie_3113824",
+  "type": "movie",
+  "title": "Shaitaan",
+  "originalTitle": "Shaitaan",
+  "year": 1974,
+  "poster": "https://image.tmdb.org/t/p/w500/38xAhCjGMwJpqTFETr0VxQkYCDv.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 9,
+  "runtime": 121,
+  "genres": [
+    "terror",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Shatrughan Sinha",
+      "character": "Inspector Ashok",
+      "profile": "https://image.tmdb.org/t/p/w185/qPjI1TdA2cYAcvSOUveCSYGOHmy.jpg"
+    },
+    {
+      "name": "Sharmila Tagore",
+      "character": "Nisha",
+      "profile": "https://image.tmdb.org/t/p/w185/m2MFSVdx4aKVoLRFPJoO5u0FMon.jpg"
+    }
+  ],
+  "director": "Feroz Chinoy",
+  "tmdbId": 517276,
+  "xtream": {
+    "streamId": 3113824,
+    "containerExtension": "mp4"
+  }
+}

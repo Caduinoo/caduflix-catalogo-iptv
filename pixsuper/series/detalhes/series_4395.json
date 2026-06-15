@@ -1,0 +1,75 @@
+{
+  "id": "series_4395",
+  "type": "series",
+  "title": "Fazendas e Sonhos",
+  "originalTitle": "Farm Dreams",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/nixNlJOHN9jkPcPyql1I8c2AElb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qFFvgg0ImykoDZ2WsHegPdwHp5m.jpg",
+  "overview": "A especialista em agricultura Indy Officinalis visita agricultores e fazendas iniciantes que precisam de ajuda para realizar seus sonhos.",
+  "rating": 7,
+  "genres": [
+    "reality",
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 202142,
+  "xtream": {
+    "seriesId": 4395
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3288750",
+          "episodeId": 3288750,
+          "season": 1,
+          "episode": 1,
+          "title": "Fazendas e Sonhos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288751",
+          "episodeId": 3288751,
+          "season": 1,
+          "episode": 2,
+          "title": "Fazendas e Sonhos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288752",
+          "episodeId": 3288752,
+          "season": 1,
+          "episode": 3,
+          "title": "Fazendas e Sonhos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288753",
+          "episodeId": 3288753,
+          "season": 1,
+          "episode": 4,
+          "title": "Fazendas e Sonhos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288754",
+          "episodeId": 3288754,
+          "season": 1,
+          "episode": 5,
+          "title": "Fazendas e Sonhos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3288755",
+          "episodeId": 3288755,
+          "season": 1,
+          "episode": 6,
+          "title": "Fazendas e Sonhos S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

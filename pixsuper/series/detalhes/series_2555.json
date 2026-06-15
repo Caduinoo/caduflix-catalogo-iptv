@@ -1,0 +1,80 @@
+{
+  "id": "series_2555",
+  "type": "series",
+  "title": "Lovely Little Farm",
+  "originalTitle": "Lovely Little Farm",
+  "year": 2022,
+  "poster": "http://image.tmdb.org/t/p/w300/ft4FCipTavS6cWAuTvHskf2Uwit.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Aninhada em campos de lavanda, existe uma adorável fazendinha onde as irmãs Jill e Jacky cuidam e amam todos os seus animais, inclusive os falantes. Ser uma jovem fazendeira não é fácil, mas ",
+  "rating": 10,
+  "genres": [],
+  "producer": "apple_tv_plus",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 2555
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3241894",
+          "episodeId": 3241894,
+          "season": 1,
+          "episode": 1,
+          "title": "Lovely Little Farm S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241895",
+          "episodeId": 3241895,
+          "season": 1,
+          "episode": 2,
+          "title": "Lovely Little Farm S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241896",
+          "episodeId": 3241896,
+          "season": 1,
+          "episode": 3,
+          "title": "Lovely Little Farm S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241897",
+          "episodeId": 3241897,
+          "season": 1,
+          "episode": 4,
+          "title": "Lovely Little Farm S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241898",
+          "episodeId": 3241898,
+          "season": 1,
+          "episode": 5,
+          "title": "Lovely Little Farm S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241899",
+          "episodeId": 3241899,
+          "season": 1,
+          "episode": 6,
+          "title": "Lovely Little Farm S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241900",
+          "episodeId": 3241900,
+          "season": 1,
+          "episode": 7,
+          "title": "Lovely Little Farm S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

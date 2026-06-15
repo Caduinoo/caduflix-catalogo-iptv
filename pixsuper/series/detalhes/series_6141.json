@@ -1,0 +1,68 @@
+{
+  "id": "series_6141",
+  "type": "series",
+  "title": "O Ringue",
+  "originalTitle": "La Cage",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/udy3hudTgKADO6oo0cAiEYYoQCC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wTVcYDdghQNroQLuBnae9cDp2va.jpg",
+  "overview": "Sonhando em se profissionalizar, um jovem lutador tenta ser notado até que um combate inesperado dá a ele a chance de sua vida, além de um rival violento no ringue.",
+  "rating": 6.646,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 230003,
+  "xtream": {
+    "seriesId": 6141
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3336188",
+          "episodeId": 3336188,
+          "season": 1,
+          "episode": 1,
+          "title": "O Ringue S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3336189",
+          "episodeId": 3336189,
+          "season": 1,
+          "episode": 2,
+          "title": "O Ringue S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3336190",
+          "episodeId": 3336190,
+          "season": 1,
+          "episode": 3,
+          "title": "O Ringue S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3336191",
+          "episodeId": 3336191,
+          "season": 1,
+          "episode": 4,
+          "title": "O Ringue S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3336192",
+          "episodeId": 3336192,
+          "season": 1,
+          "episode": 5,
+          "title": "O Ringue S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

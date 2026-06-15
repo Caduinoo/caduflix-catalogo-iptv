@@ -1,0 +1,56 @@
+{
+  "id": "series_7550",
+  "type": "series",
+  "title": "Pssica",
+  "originalTitle": "Pssica",
+  "year": 2025,
+  "poster": "http://image.tmdb.org/t/p/w300/AspGWTFcEFgnDTTRA70at5zyKYj.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Quando uma adolescente é vítima de tráfico sexual, um pirata fluvial e uma mãe corajosa embarcam em jornadas paralelas para encontrá-la, até que seus caminhos se cruzam.",
+  "rating": 6,
+  "genres": [],
+  "producer": "netflix",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7550
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3367117",
+          "episodeId": 3367117,
+          "season": 1,
+          "episode": 1,
+          "title": "Pssica S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367118",
+          "episodeId": 3367118,
+          "season": 1,
+          "episode": 2,
+          "title": "Pssica S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367119",
+          "episodeId": 3367119,
+          "season": 1,
+          "episode": 3,
+          "title": "Pssica S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367120",
+          "episodeId": 3367120,
+          "season": 1,
+          "episode": 4,
+          "title": "Pssica S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "series_8383",
+  "type": "series",
+  "title": "PONIES",
+  "originalTitle": "PONIES",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/5b4fmLexJl31U04LWyUWPUsvthN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Ak7AdQpvmZpSe9WYBd5KrgjSsSX.jpg",
+  "overview": "Em Moscou, em 1977, duas \"PONIES\" (\"pessoas sem interesse\") tornam-se agentes da CIA e descobrem uma conspiração da Guerra Fria pela qual seus maridos foram mortos.",
+  "rating": 6.838,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 262793,
+  "xtream": {
+    "seriesId": 8383
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3383123",
+          "episodeId": 3383123,
+          "season": 1,
+          "episode": 1,
+          "title": "PONIES [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383124",
+          "episodeId": 3383124,
+          "season": 1,
+          "episode": 2,
+          "title": "PONIES [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383125",
+          "episodeId": 3383125,
+          "season": 1,
+          "episode": 3,
+          "title": "PONIES [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383126",
+          "episodeId": 3383126,
+          "season": 1,
+          "episode": 4,
+          "title": "PONIES [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383127",
+          "episodeId": 3383127,
+          "season": 1,
+          "episode": 5,
+          "title": "PONIES [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

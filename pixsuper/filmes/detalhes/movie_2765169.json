@@ -1,0 +1,51 @@
+{
+  "id": "movie_2765169",
+  "type": "movie",
+  "title": "Sweetheart",
+  "originalTitle": "Sweetheart",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/xaGwgh9KgL5CSIk6YEyE1qMxtoa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pNXoO1OWPniiNdY1VXwzzrY1nDm.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 20,
+  "genres": [
+    "drama",
+    "suspense",
+    "thriller",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Dominic Boucher",
+      "character": "Bradley",
+      "profile": "https://image.tmdb.org/t/p/w185/jQ9VwnsYDKNMbTYDvkpEJQ9pJJy.jpg"
+    },
+    {
+      "name": "Hailey Jackson Boucher",
+      "character": "Sweetheart",
+      "profile": "https://image.tmdb.org/t/p/w185/x2pnRjwiI0wKjkd8om7CQArtojQ.jpg"
+    },
+    {
+      "name": "Andrew Koltuniuk",
+      "character": "Flirting guy #3",
+      "profile": ""
+    },
+    {
+      "name": "Adam Przybylski",
+      "character": "Party guest #1",
+      "profile": ""
+    },
+    {
+      "name": "Ian Barth",
+      "character": "Party Guest #3",
+      "profile": ""
+    }
+  ],
+  "director": "Chris Weingart",
+  "tmdbId": 1378799,
+  "xtream": {
+    "streamId": 2765169,
+    "containerExtension": "mp4"
+  }
+}

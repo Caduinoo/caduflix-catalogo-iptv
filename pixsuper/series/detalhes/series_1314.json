@@ -1,0 +1,75 @@
+{
+  "id": "series_1314",
+  "type": "series",
+  "title": "Casamento sem Filtro",
+  "originalTitle": "The Wedding Coach",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/evQbhMe2QGgsAzcIjao0Uvm2Xsa.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/BvDJdSDzMRkHxGhaLXTvX0xx5X.jpg",
+  "overview": "A comediante Jamie Lee usa sua experiência para ajudar casais apaixonados, dando dicas úteis e irreverentes de como organizar um casamento.",
+  "rating": 6.3,
+  "genres": [
+    "reality",
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 122249,
+  "xtream": {
+    "seriesId": 1314
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3194481",
+          "episodeId": 3194481,
+          "season": 1,
+          "episode": 1,
+          "title": "Casamento sem Filtro S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194482",
+          "episodeId": 3194482,
+          "season": 1,
+          "episode": 2,
+          "title": "Casamento sem Filtro S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194483",
+          "episodeId": 3194483,
+          "season": 1,
+          "episode": 3,
+          "title": "Casamento sem Filtro S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194484",
+          "episodeId": 3194484,
+          "season": 1,
+          "episode": 4,
+          "title": "Casamento sem Filtro S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194485",
+          "episodeId": 3194485,
+          "season": 1,
+          "episode": 5,
+          "title": "Casamento sem Filtro S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194486",
+          "episodeId": 3194486,
+          "season": 1,
+          "episode": 6,
+          "title": "Casamento sem Filtro S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

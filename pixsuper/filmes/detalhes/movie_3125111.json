@@ -1,0 +1,61 @@
+{
+  "id": "movie_3125111",
+  "type": "movie",
+  "title": "O Fascínio",
+  "originalTitle": "Il legame",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/plQ0vnvI28VzEdeIlrSAw4Dtxic.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tOOfXpIKyY80kY108pwSgLozgRA.jpg",
+  "overview": "Durante uma viagem ao sul da Itália para conhecer a mãe do noivo, uma mulher luta contra forças misteriosas que ameaçam sua filha.",
+  "rating": 5.475,
+  "runtime": 93,
+  "genres": [
+    "terror",
+    "suspense",
+    "thriller",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Mía Maestro",
+      "character": "Emma",
+      "profile": "https://image.tmdb.org/t/p/w185/qRbV2yIrviokWENK7yhzNGGiWrr.jpg"
+    },
+    {
+      "name": "Riccardo Scamarcio",
+      "character": "Francesco",
+      "profile": "https://image.tmdb.org/t/p/w185/s3ZAW6QA6yZaOx9wmAZfGZ1Z8BP.jpg"
+    },
+    {
+      "name": "Giulia Patrignani",
+      "character": "Sofia",
+      "profile": "https://image.tmdb.org/t/p/w185/qNESWUMdhOFOlM06hP4DnuPCxb9.jpg"
+    },
+    {
+      "name": "Mariella Lo Sardo",
+      "character": "Teresa",
+      "profile": "https://image.tmdb.org/t/p/w185/7HbZnF9ThqbcQlPw5UpULvXoxg.jpg"
+    },
+    {
+      "name": "Raffaella D'Avella",
+      "character": "Sabrina",
+      "profile": ""
+    },
+    {
+      "name": "Federica Rosellini",
+      "character": "Ada",
+      "profile": "https://image.tmdb.org/t/p/w185/l3PJ6PRZSb3OSFqHX9KRYFlrllP.jpg"
+    },
+    {
+      "name": "Sebastiano Filocamo",
+      "character": "Don Gino",
+      "profile": "https://image.tmdb.org/t/p/w185/tW4PXKkV9ZT7vrw0rAHNMYsk7gL.jpg"
+    }
+  ],
+  "director": "Domenico Emanuele de Feudis",
+  "tmdbId": 741998,
+  "xtream": {
+    "streamId": 3125111,
+    "containerExtension": "mp4"
+  }
+}

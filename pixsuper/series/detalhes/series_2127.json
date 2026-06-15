@@ -1,0 +1,66 @@
+{
+  "id": "series_2127",
+  "type": "series",
+  "title": "O.J.: Made in America",
+  "originalTitle": "O.J.: Made in America",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/fZ17ZtCsfKGKqkt835IVtRWGUt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i3NhOOReEd1cxlIetYvAlCnfvRO.jpg",
+  "overview": "A ascensão e queda da estrela de futebol americano, O.J. Simpson. De seus dias de infância em Los Angeles ao seu julgamento por assassinato que polarizam o país.",
+  "rating": 8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 66738,
+  "xtream": {
+    "seriesId": 2127
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3229234",
+          "episodeId": 3229234,
+          "season": 1,
+          "episode": 1,
+          "title": "O.J.: Made in America [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3229235",
+          "episodeId": 3229235,
+          "season": 1,
+          "episode": 2,
+          "title": "O.J.: Made in America [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3229236",
+          "episodeId": 3229236,
+          "season": 1,
+          "episode": 3,
+          "title": "O.J.: Made in America [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3229237",
+          "episodeId": 3229237,
+          "season": 1,
+          "episode": 4,
+          "title": "O.J.: Made in America [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3229238",
+          "episodeId": 3229238,
+          "season": 1,
+          "episode": 5,
+          "title": "O.J.: Made in America [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

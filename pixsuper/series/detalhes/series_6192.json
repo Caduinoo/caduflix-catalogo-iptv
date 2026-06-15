@@ -1,0 +1,50 @@
+{
+  "id": "series_6192",
+  "type": "series",
+  "title": "Contagem Regressiva: Jake Paul vs. Mike Tyson",
+  "originalTitle": "Countdown: Paul vs. Tyson",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/prIFPe2pLMIhS0q2hh98CsKotOC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jQawsddb4QGKvRKJ61Avb0k32Bl.jpg",
+  "overview": "Acompanhe o dia a dia e os treinos de Jake Paul e Mike Tyson, que estão se preparando para uma luta imperdível. O embate vai acontecer no dia 15 de novembro.",
+  "rating": 7.1,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 274413,
+  "xtream": {
+    "seriesId": 6192
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3337260",
+          "episodeId": 3337260,
+          "season": 1,
+          "episode": 1,
+          "title": "Contagem Regressiva Jake Paul vs Mike Tyson S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3337261",
+          "episodeId": 3337261,
+          "season": 1,
+          "episode": 2,
+          "title": "Contagem Regressiva Jake Paul vs Mike Tyson S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3337262",
+          "episodeId": 3337262,
+          "season": 1,
+          "episode": 3,
+          "title": "Contagem Regressiva Jake Paul vs Mike Tyson S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

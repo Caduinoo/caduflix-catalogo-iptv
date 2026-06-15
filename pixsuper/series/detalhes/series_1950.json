@@ -1,0 +1,74 @@
+{
+  "id": "series_1950",
+  "type": "series",
+  "title": "A Grande Corrida: Volta ao Mundo",
+  "originalTitle": "Race Across the World",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/zK4WoFaXM1mBnlnIedQCSyQo2jH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fOqhmvOshZS7T2lfTSdQd5R276D.jpg",
+  "overview": "Como você viajaria pelo mundo se não pudesse voar nem tivesse telefone celular? Neste programa, cinco duplas competem para chegar mais rápido de um ponto a outro, sem usar avião.",
+  "rating": 7,
+  "genres": [
+    "reality"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 87340,
+  "xtream": {
+    "seriesId": 1950
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3222741",
+          "episodeId": 3222741,
+          "season": 1,
+          "episode": 1,
+          "title": "A Grande Corrida: Volta ao Mundo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222742",
+          "episodeId": 3222742,
+          "season": 1,
+          "episode": 2,
+          "title": "A Grande Corrida: Volta ao Mundo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222743",
+          "episodeId": 3222743,
+          "season": 1,
+          "episode": 3,
+          "title": "A Grande Corrida: Volta ao Mundo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222744",
+          "episodeId": 3222744,
+          "season": 1,
+          "episode": 4,
+          "title": "A Grande Corrida: Volta ao Mundo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222745",
+          "episodeId": 3222745,
+          "season": 1,
+          "episode": 5,
+          "title": "A Grande Corrida: Volta ao Mundo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222746",
+          "episodeId": 3222746,
+          "season": 1,
+          "episode": 6,
+          "title": "A Grande Corrida: Volta ao Mundo S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

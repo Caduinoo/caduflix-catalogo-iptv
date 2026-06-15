@@ -1,0 +1,83 @@
+{
+  "id": "series_2739",
+  "type": "series",
+  "title": "Echoes",
+  "originalTitle": "Echoes",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/hz8YGIZETHJhXYWGaHsFPVwU4YU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yG5FpiueqbU3pQUgmldnD4LNYc9.jpg",
+  "overview": "Leni e Gina são gêmeas idênticas e trocaram secretamente de lugar durante anos. Mas tudo começa a desmoronar quando uma delas desaparece.",
+  "rating": 6.538,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 129612,
+  "xtream": {
+    "seriesId": 2739
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3247214",
+          "episodeId": 3247214,
+          "season": 1,
+          "episode": 1,
+          "title": "Echoes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247215",
+          "episodeId": 3247215,
+          "season": 1,
+          "episode": 2,
+          "title": "Echoes S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247216",
+          "episodeId": 3247216,
+          "season": 1,
+          "episode": 3,
+          "title": "Echoes S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247217",
+          "episodeId": 3247217,
+          "season": 1,
+          "episode": 4,
+          "title": "Echoes S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247218",
+          "episodeId": 3247218,
+          "season": 1,
+          "episode": 5,
+          "title": "Echoes S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247219",
+          "episodeId": 3247219,
+          "season": 1,
+          "episode": 6,
+          "title": "Echoes S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247220",
+          "episodeId": 3247220,
+          "season": 1,
+          "episode": 7,
+          "title": "Echoes S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

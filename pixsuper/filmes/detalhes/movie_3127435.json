@@ -1,0 +1,40 @@
+{
+  "id": "movie_3127435",
+  "type": "movie",
+  "title": "Bark",
+  "originalTitle": "Bark",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/knnDeQR0nEjbyxaKWLmMpK0WBPt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ubQ0cgDtvMy4n8KBMoDMjjY2msi.jpg",
+  "overview": "",
+  "rating": 6.444,
+  "runtime": 7,
+  "genres": [
+    "comedia",
+    "terror",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Ty Clarke",
+      "character": "Gordon",
+      "profile": ""
+    },
+    {
+      "name": "Owen Knight",
+      "character": "Andy",
+      "profile": "https://image.tmdb.org/t/p/w185/8q06SLm0WvTBbc3deOVwq606Lge.jpg"
+    },
+    {
+      "name": "Carmen Wile",
+      "character": "Emma",
+      "profile": "https://image.tmdb.org/t/p/w185/8LVNawocAVTteX2GCWz12EIVTiB.jpg"
+    }
+  ],
+  "director": "Alexander Kyriacou",
+  "tmdbId": 1324381,
+  "xtream": {
+    "streamId": 3127435,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "series_2211",
+  "type": "series",
+  "title": "Murderville",
+  "originalTitle": "Murderville",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/q55FVqMOG5C091tGENGixgRggcx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wZ6r2aTwQeezt3QtKYO6czFEEWv.jpg",
+  "overview": "O excêntrico detetive Terry Seattle e convidados famosos investigam vários assassinatos nesta comédia de improviso sobre crimes. Eles não têm noção do que vai acontecer!",
+  "rating": 6.375,
+  "genres": [
+    "comedia",
+    "crime",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 155594,
+  "xtream": {
+    "seriesId": 2211
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3231875",
+          "episodeId": 3231875,
+          "season": 1,
+          "episode": 1,
+          "title": "Murderville S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3231876",
+          "episodeId": 3231876,
+          "season": 1,
+          "episode": 2,
+          "title": "Murderville S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3231877",
+          "episodeId": 3231877,
+          "season": 1,
+          "episode": 3,
+          "title": "Murderville S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3231878",
+          "episodeId": 3231878,
+          "season": 1,
+          "episode": 4,
+          "title": "Murderville S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3231879",
+          "episodeId": 3231879,
+          "season": 1,
+          "episode": 5,
+          "title": "Murderville S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3231880",
+          "episodeId": 3231880,
+          "season": 1,
+          "episode": 6,
+          "title": "Murderville S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "movie_2769675",
+  "type": "movie",
+  "title": "Duna",
+  "originalTitle": "Duna",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/7PQdUB1KDxMxdw7KBdFFgI9kJPv.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5.4,
+  "runtime": 14,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Elīna Vaska",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/lcAOBE6edNoTUvCMGkFlGAsjznF.jpg"
+    },
+    {
+      "name": "Mārtiņš Upenieks",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/5JRI7eTedHzpuA3ipudhP6q88zX.jpg"
+    },
+    {
+      "name": "Kaspars Marhlevičs",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/uPeuiAncGKlKigPhdpxfZqFIcB0.jpg"
+    }
+  ],
+  "director": "Una Cekule",
+  "tmdbId": 783658,
+  "xtream": {
+    "streamId": 2769675,
+    "containerExtension": "mp4"
+  }
+}

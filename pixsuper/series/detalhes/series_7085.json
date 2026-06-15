@@ -1,0 +1,70 @@
+{
+  "id": "series_7085",
+  "type": "series",
+  "title": "H2O: Meninas Sereias",
+  "originalTitle": "H2O: Just Add Water",
+  "year": 2006,
+  "poster": "https://image.tmdb.org/t/p/w500/52KX7Y9yxYf2XojmbEMpMbbTA4L.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/waQxGw44tKEsKcLOkAWJsxyz7Bf.jpg",
+  "overview": "Três amigas de colégio se transformam em sereias sempre que tocam na água e embarcam em diversas aventuras no fundo do mar com a nova identidade.",
+  "rating": 7.8,
+  "genres": [
+    "drama",
+    "familia",
+    "infantil",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 2260,
+  "xtream": {
+    "seriesId": 7085
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3356713",
+          "episodeId": 3356713,
+          "season": 1,
+          "episode": 1,
+          "title": "Sereias S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356714",
+          "episodeId": 3356714,
+          "season": 1,
+          "episode": 2,
+          "title": "Sereias S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356715",
+          "episodeId": 3356715,
+          "season": 1,
+          "episode": 3,
+          "title": "Sereias S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356716",
+          "episodeId": 3356716,
+          "season": 1,
+          "episode": 4,
+          "title": "Sereias S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3356717",
+          "episodeId": 3356717,
+          "season": 1,
+          "episode": 5,
+          "title": "Sereias S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

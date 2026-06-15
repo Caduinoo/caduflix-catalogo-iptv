@@ -1,0 +1,44 @@
+{
+  "id": "series_5575",
+  "type": "series",
+  "title": "How Music Got Free",
+  "originalTitle": "How Music Got Free",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/7v6hPstl6PJFKYwQiysxbMSBRQr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6P9dQINxsripfOYlAErUQwDWX1b.jpg",
+  "overview": "Um trabalhador de uma fábrica de CDs e hackers adolescentes inventam a pirataria de MP3, abalando o mundo da música.",
+  "rating": 7.5,
+  "genres": [
+    "documentario",
+    "crime",
+    "musica"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 255124,
+  "xtream": {
+    "seriesId": 5575
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3319279",
+          "episodeId": 3319279,
+          "season": 1,
+          "episode": 1,
+          "title": "How Music Got Free [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319280",
+          "episodeId": 3319280,
+          "season": 1,
+          "episode": 2,
+          "title": "How Music Got Free [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

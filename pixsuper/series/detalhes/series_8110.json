@@ -1,0 +1,74 @@
+{
+  "id": "series_8110",
+  "type": "series",
+  "title": "Orgulho e Preconceito",
+  "originalTitle": "Pride and Prejudice",
+  "year": 1995,
+  "poster": "https://image.tmdb.org/t/p/w500/8xV9i5KwzbDXZsPQvAD07C6RB2S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6d1yCaiI7AexmtGX2vORqEbZ0oV.jpg",
+  "overview": "Ambientada na Inglaterra no início do século XIX, conta a história das irmãs Bennet, após o rico Mr. Bingley e seu amigo Mr. Darcy se instalarem nas vizinhanças. Enquanto Bingley imediatamente se interessa pela mais velha, Darcy tem dificuldades em se adaptar à sociedade local e entra em discórdia com a segunda das irmãs.",
+  "rating": 8.212,
+  "genres": [
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 1457,
+  "xtream": {
+    "seriesId": 8110
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3378379",
+          "episodeId": 3378379,
+          "season": 1,
+          "episode": 1,
+          "title": "Orgulho e Preconceito S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3378380",
+          "episodeId": 3378380,
+          "season": 1,
+          "episode": 2,
+          "title": "Orgulho e Preconceito S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3378381",
+          "episodeId": 3378381,
+          "season": 1,
+          "episode": 3,
+          "title": "Orgulho e Preconceito S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3378382",
+          "episodeId": 3378382,
+          "season": 1,
+          "episode": 4,
+          "title": "Orgulho e Preconceito S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3378383",
+          "episodeId": 3378383,
+          "season": 1,
+          "episode": 5,
+          "title": "Orgulho e Preconceito S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3378384",
+          "episodeId": 3378384,
+          "season": 1,
+          "episode": 6,
+          "title": "Orgulho e Preconceito S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

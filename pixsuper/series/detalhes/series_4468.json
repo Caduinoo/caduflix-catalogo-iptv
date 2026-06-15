@@ -1,0 +1,50 @@
+{
+  "id": "series_4468",
+  "type": "series",
+  "title": "Ancient Empires",
+  "originalTitle": "Ancient Empires",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/lA5PD0qVEueVfAxRMuPsyqk7TEg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nqslEAF88tLQMyRkxB3FEqDYExh.jpg",
+  "overview": "",
+  "rating": 7.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 233919,
+  "xtream": {
+    "seriesId": 4468
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3290528",
+          "episodeId": 3290528,
+          "season": 1,
+          "episode": 1,
+          "title": "Ancient Empires [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3290529",
+          "episodeId": 3290529,
+          "season": 1,
+          "episode": 2,
+          "title": "Ancient Empires [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3290530",
+          "episodeId": 3290530,
+          "season": 1,
+          "episode": 3,
+          "title": "Ancient Empires [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

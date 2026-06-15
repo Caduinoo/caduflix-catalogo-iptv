@@ -1,0 +1,51 @@
+{
+  "id": "series_2327",
+  "type": "series",
+  "title": "Putin: A Russian Spy Story",
+  "originalTitle": "Putin: A Russian Spy Story",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/b3WP4gf7Rd1gEhp6yrCAFyoYslJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/f7U5B8PwYmiSjc3vpPQRvt84noi.jpg",
+  "overview": "",
+  "rating": 7.222,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 107701,
+  "xtream": {
+    "seriesId": 2327
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3235570",
+          "episodeId": 3235570,
+          "season": 1,
+          "episode": 1,
+          "title": "Putin: A Russian Spy Story [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3235571",
+          "episodeId": 3235571,
+          "season": 1,
+          "episode": 2,
+          "title": "Putin: A Russian Spy Story [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3235572",
+          "episodeId": 3235572,
+          "season": 1,
+          "episode": 3,
+          "title": "Putin: A Russian Spy Story [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

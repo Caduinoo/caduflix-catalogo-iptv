@@ -1,0 +1,75 @@
+{
+  "id": "series_545",
+  "type": "series",
+  "title": "A História do Imagineering",
+  "originalTitle": "The Imagineering Story",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/1GafzR5BLaC4FqaCmLNOmnBipU1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/P32v8u5z3SFV27joJX451MaeNd.jpg",
+  "overview": "Explore o passado, presente e futuro da Walt Disney Imagineering com a notável cineasta, Leslie Iwerks. Iwerks vem de uma família com profunda história da Disney - seu avô era um dos primeiros animadores da Disney e seu pai era um ex-Imagineer - e seu trabalho anterior inclui perfis da Pixar Animation Studios e da casa de efeitos visuais Industrial Light & Magic.",
+  "rating": 8.1,
+  "genres": [
+    "documentario",
+    "historia"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 95339,
+  "xtream": {
+    "seriesId": 545
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3156302",
+          "episodeId": 3156302,
+          "season": 1,
+          "episode": 1,
+          "title": "A História do Imagineering S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156303",
+          "episodeId": 3156303,
+          "season": 1,
+          "episode": 2,
+          "title": "A História do Imagineering S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156304",
+          "episodeId": 3156304,
+          "season": 1,
+          "episode": 3,
+          "title": "A História do Imagineering S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156305",
+          "episodeId": 3156305,
+          "season": 1,
+          "episode": 4,
+          "title": "A História do Imagineering S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156306",
+          "episodeId": 3156306,
+          "season": 1,
+          "episode": 5,
+          "title": "A História do Imagineering S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3156307",
+          "episodeId": 3156307,
+          "season": 1,
+          "episode": 6,
+          "title": "A História do Imagineering S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

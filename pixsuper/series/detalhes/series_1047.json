@@ -1,0 +1,76 @@
+{
+  "id": "series_1047",
+  "type": "series",
+  "title": "The Undoing",
+  "originalTitle": "The Undoing",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/fQ1DBYexHUyj7L3YYYKvN8OQDBb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tJjwEzTglpxoWJXwEbZlKLppMhr.jpg",
+  "overview": "Grace Fraser, uma mulher de sucesso em cuja vida se abre um abismo quando uma morte violenta desmancha horríveis segredos.",
+  "rating": 7.353,
+  "genres": [
+    "drama",
+    "crime",
+    "misterio"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 83851,
+  "xtream": {
+    "seriesId": 1047
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3184510",
+          "episodeId": 3184510,
+          "season": 1,
+          "episode": 1,
+          "title": "The Undoing S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184511",
+          "episodeId": 3184511,
+          "season": 1,
+          "episode": 2,
+          "title": "The Undoing S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184512",
+          "episodeId": 3184512,
+          "season": 1,
+          "episode": 3,
+          "title": "The Undoing S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184513",
+          "episodeId": 3184513,
+          "season": 1,
+          "episode": 4,
+          "title": "The Undoing S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184514",
+          "episodeId": 3184514,
+          "season": 1,
+          "episode": 5,
+          "title": "The Undoing S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184515",
+          "episodeId": 3184515,
+          "season": 1,
+          "episode": 6,
+          "title": "The Undoing S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

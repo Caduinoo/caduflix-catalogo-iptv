@@ -1,0 +1,76 @@
+{
+  "id": "series_1801",
+  "type": "series",
+  "title": "O Homem das Castanhas",
+  "originalTitle": "Kastanjemanden",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/bKo9d4eFhytfIWm3ptsJd5pHdK2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
+  "overview": "Ela foi assassinada em um playground de Copenhague. Perto do corpo, um bonequinho de castanhas pode ser a chave do mistério. Baseada no best-seller nórdico",
+  "rating": 7.491,
+  "genres": [
+    "drama",
+    "crime",
+    "misterio"
+  ],
+  "producer": "netflix",
+  "tmdbId": 127865,
+  "xtream": {
+    "seriesId": 1801
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3217204",
+          "episodeId": 3217204,
+          "season": 1,
+          "episode": 1,
+          "title": "O Homem das Castanhas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217205",
+          "episodeId": 3217205,
+          "season": 1,
+          "episode": 2,
+          "title": "O Homem das Castanhas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217206",
+          "episodeId": 3217206,
+          "season": 1,
+          "episode": 3,
+          "title": "O Homem das Castanhas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217207",
+          "episodeId": 3217207,
+          "season": 1,
+          "episode": 4,
+          "title": "O Homem das Castanhas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217208",
+          "episodeId": 3217208,
+          "season": 1,
+          "episode": 5,
+          "title": "O Homem das Castanhas S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3217209",
+          "episodeId": 3217209,
+          "season": 1,
+          "episode": 6,
+          "title": "O Homem das Castanhas S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

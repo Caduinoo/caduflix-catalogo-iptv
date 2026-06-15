@@ -1,0 +1,60 @@
+{
+  "id": "series_5742",
+  "type": "series",
+  "title": "Dr. Death: The Undoctored Story",
+  "originalTitle": "Dr. Death: The Undoctored Story",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/38OL5fgHrxJnAG1UbKrWXsjXeGh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9s5wGPSL1UVtIynle5Qp18MsH7A.jpg",
+  "overview": "Conheça a história do cirurgião Dr. Christopher Duntsch, que deixou 30 pacientes mutilados e dois mortos. Apresentando novas entrevistas e filmagens nunca antes vistas, veja sua história, infância, seus crimes, o julgamento e suas consequências.",
+  "rating": 6.857,
+  "genres": [
+    "documentario",
+    "crime",
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 130074,
+  "xtream": {
+    "seriesId": 5742
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3325035",
+          "episodeId": 3325035,
+          "season": 1,
+          "episode": 1,
+          "title": "Dr. Death The Undoctored Story S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3325036",
+          "episodeId": 3325036,
+          "season": 1,
+          "episode": 2,
+          "title": "Dr. Death The Undoctored Story S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3325037",
+          "episodeId": 3325037,
+          "season": 1,
+          "episode": 3,
+          "title": "Dr. Death The Undoctored Story S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3325038",
+          "episodeId": 3325038,
+          "season": 1,
+          "episode": 4,
+          "title": "Dr. Death The Undoctored Story S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

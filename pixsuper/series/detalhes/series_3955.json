@@ -1,0 +1,94 @@
+{
+  "id": "series_3955",
+  "type": "series",
+  "title": "Ahsoka",
+  "originalTitle": "Ahsoka",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/loDy1LWCkPjECjVTRmyKtOoUpNN.jpg",
+  "overview": "Situada após a queda do Império, a série segue a ex-cavaleira Jedi Ahsoka Tano enquanto ela investiga uma ameaça emergente a uma galáxia vulnerável.",
+  "rating": 7.4,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 114461,
+  "xtream": {
+    "seriesId": 3955
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3277804",
+          "episodeId": 3277804,
+          "season": 1,
+          "episode": 1,
+          "title": "Ahsoka S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277805",
+          "episodeId": 3277805,
+          "season": 1,
+          "episode": 2,
+          "title": "Ahsoka S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277806",
+          "episodeId": 3277806,
+          "season": 1,
+          "episode": 3,
+          "title": "Ahsoka S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277807",
+          "episodeId": 3277807,
+          "season": 1,
+          "episode": 4,
+          "title": "Ahsoka S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277808",
+          "episodeId": 3277808,
+          "season": 1,
+          "episode": 5,
+          "title": "Ahsoka S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277809",
+          "episodeId": 3277809,
+          "season": 1,
+          "episode": 6,
+          "title": "Ahsoka S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277810",
+          "episodeId": 3277810,
+          "season": 1,
+          "episode": 7,
+          "title": "Ahsoka S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277811",
+          "episodeId": 3277811,
+          "season": 1,
+          "episode": 8,
+          "title": "Ahsoka S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

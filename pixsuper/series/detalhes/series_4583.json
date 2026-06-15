@@ -1,0 +1,60 @@
+{
+  "id": "series_4583",
+  "type": "series",
+  "title": "Via Pública",
+  "originalTitle": "Via Pública",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/8TiqXHlFeSKSJiM1w8fdlacL73M.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h3QF6GSAUg1ZhO0RkWKZJ3SA2Ll.jpg",
+  "overview": "Via Pública é uma mini-série sobre a relação do homem com a cidade na qual vive. Mais variadas realidades pedalam suas bicicletas por prazer, esporte ou necessidade",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "drama",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 241736,
+  "xtream": {
+    "seriesId": 4583
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3293714",
+          "episodeId": 3293714,
+          "season": 1,
+          "episode": 1,
+          "title": "Via Publica S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3293715",
+          "episodeId": 3293715,
+          "season": 1,
+          "episode": 2,
+          "title": "Via Publica S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3293716",
+          "episodeId": 3293716,
+          "season": 1,
+          "episode": 3,
+          "title": "Via Publica S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3293717",
+          "episodeId": 3293717,
+          "season": 1,
+          "episode": 4,
+          "title": "Via Publica S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

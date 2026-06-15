@@ -1,0 +1,44 @@
+{
+  "id": "movie_2773578",
+  "type": "movie",
+  "title": "Rosalina",
+  "originalTitle": "Rosalina",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/vqc3bNpuDFPiKmWlfkyi5YOIMUT.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5,
+  "runtime": 20,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "cast": [
+    {
+      "name": "Kristoffer Joner",
+      "character": "Vinny",
+      "profile": "https://image.tmdb.org/t/p/w185/vufeSWAdY9653t5Vxu3HysCnIkY.jpg"
+    },
+    {
+      "name": "Oliver Hohlbrugger",
+      "character": "Hjalmar",
+      "profile": ""
+    },
+    {
+      "name": "Linda Tveiten",
+      "character": "Woman",
+      "profile": ""
+    },
+    {
+      "name": "Asbjørn Røen Halsten",
+      "character": "Man",
+      "profile": ""
+    }
+  ],
+  "director": "Fredrik S. Hana",
+  "tmdbId": 550037,
+  "xtream": {
+    "streamId": 2773578,
+    "containerExtension": "mp4"
+  }
+}

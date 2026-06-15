@@ -1,0 +1,47 @@
+{
+  "id": "movie_3124903",
+  "type": "movie",
+  "title": "A Casa",
+  "originalTitle": "La casa muda",
+  "year": 2010,
+  "poster": "https://image.tmdb.org/t/p/w500/u2EsFIISvfA5yZWLSlMIJjqYUDw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qRYiSL8Awc06m8DMCLVmRETfdu4.jpg",
+  "overview": "Sarah, seu pai e o tio vão para a cabana no lago arrumar as coisas, pois a casa será vendida. O tio sai em busca de um eletricista, e Sarah começa a ouvir ruídos esquisitos. Logo começam a acontecer coisas incomuns, que a deixam em pânico.",
+  "rating": 5.412,
+  "runtime": 79,
+  "genres": [
+    "drama",
+    "terror",
+    "misterio",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Florencia Colucci",
+      "character": "Laura",
+      "profile": "https://image.tmdb.org/t/p/w185/6cIXff7St5JOolxqwbrNUkUmqcP.jpg"
+    },
+    {
+      "name": "Abel Tripaldi",
+      "character": "Néstor",
+      "profile": "https://image.tmdb.org/t/p/w185/gk17qo8sIkYnCkOW5SZ3xDdIUnX.jpg"
+    },
+    {
+      "name": "Gustavo Alonso",
+      "character": "Wilson",
+      "profile": ""
+    },
+    {
+      "name": "María Salazar",
+      "character": "Niña",
+      "profile": ""
+    }
+  ],
+  "director": "Gustavo Hernández",
+  "tmdbId": 56180,
+  "xtream": {
+    "streamId": 3124903,
+    "containerExtension": "mp4"
+  }
+}

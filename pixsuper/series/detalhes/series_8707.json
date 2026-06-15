@@ -1,0 +1,83 @@
+{
+  "id": "series_8707",
+  "type": "series",
+  "title": "RILAKKUMA",
+  "originalTitle": "リラックマ",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lHIfDwuhQcLVI8bncg2gXATgINz.jpg",
+  "overview": "Conheça o mundo descontraído do Rilakkuma, o ursinho relaxado que faz com que a preguiça pareça algo natural.",
+  "rating": 8,
+  "genres": [
+    "animacao",
+    "infantil"
+  ],
+  "producer": "crunchyroll",
+  "tmdbId": 299144,
+  "xtream": {
+    "seriesId": 8707
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3387617",
+          "episodeId": 3387617,
+          "season": 1,
+          "episode": 1,
+          "title": "RILAKKUMA (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387618",
+          "episodeId": 3387618,
+          "season": 1,
+          "episode": 2,
+          "title": "RILAKKUMA (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387619",
+          "episodeId": 3387619,
+          "season": 1,
+          "episode": 3,
+          "title": "RILAKKUMA (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387620",
+          "episodeId": 3387620,
+          "season": 1,
+          "episode": 4,
+          "title": "RILAKKUMA (2026) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387621",
+          "episodeId": 3387621,
+          "season": 1,
+          "episode": 5,
+          "title": "RILAKKUMA (2026) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387622",
+          "episodeId": 3387622,
+          "season": 1,
+          "episode": 6,
+          "title": "RILAKKUMA (2026) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387623",
+          "episodeId": 3387623,
+          "season": 1,
+          "episode": 7,
+          "title": "RILAKKUMA (2026) S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

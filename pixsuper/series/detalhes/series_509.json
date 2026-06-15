@@ -1,0 +1,59 @@
+{
+  "id": "series_509",
+  "type": "series",
+  "title": "Gilmore Girls: Um Ano para Recordar",
+  "originalTitle": "Gilmore Girls: A Year in the Life",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/6faSlarSOy6Fa6UBzFI3Nrxd6K.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/knjULBItjSimvRqgvSi23qcXiq1.jpg",
+  "overview": "Quase uma década depois do último episódio da série original, Lorelai, Rory e Emily Gilmore estão de volta para viver as quatro estações do ano juntas.",
+  "rating": 7.322,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 68799,
+  "xtream": {
+    "seriesId": 509
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3153892",
+          "episodeId": 3153892,
+          "season": 1,
+          "episode": 1,
+          "title": "Gilmore Girls: Um Ano para Recordar S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153893",
+          "episodeId": 3153893,
+          "season": 1,
+          "episode": 2,
+          "title": "Gilmore Girls: Um Ano para Recordar S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153894",
+          "episodeId": 3153894,
+          "season": 1,
+          "episode": 3,
+          "title": "Gilmore Girls: Um Ano para Recordar S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153895",
+          "episodeId": 3153895,
+          "season": 1,
+          "episode": 4,
+          "title": "Gilmore Girls: Um Ano para Recordar S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

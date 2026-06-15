@@ -1,0 +1,60 @@
+{
+  "id": "series_2052",
+  "type": "series",
+  "title": "Harry Potter: O Campeonato das Casas de Hogwarts",
+  "originalTitle": "Harry Potter: Hogwarts Tournament of Houses",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/93yokFX7LQQDN4IwhtZqByvtzGx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/saCYLtfiYHxvnQzAQTP4mc6YHtX.jpg",
+  "overview": "Este evento especial de quatro partes revelará fãs do mundo bruxo que estão dispostos a colocar seus conhecimentos sobre Harry Potter à prova para receber a grande honra de ser nomeado campeão da Taça das Casas.",
+  "rating": 7.3,
+  "genres": [
+    "reality",
+    "familia",
+    "infantil"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 133723,
+  "xtream": {
+    "seriesId": 2052
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3226007",
+          "episodeId": 3226007,
+          "season": 1,
+          "episode": 1,
+          "title": "Harry Potter: O Campeonato das Casas de Hogwarts S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226008",
+          "episodeId": 3226008,
+          "season": 1,
+          "episode": 2,
+          "title": "Harry Potter: O Campeonato das Casas de Hogwarts S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226009",
+          "episodeId": 3226009,
+          "season": 1,
+          "episode": 3,
+          "title": "Harry Potter: O Campeonato das Casas de Hogwarts S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3226010",
+          "episodeId": 3226010,
+          "season": 1,
+          "episode": 4,
+          "title": "Harry Potter: O Campeonato das Casas de Hogwarts S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

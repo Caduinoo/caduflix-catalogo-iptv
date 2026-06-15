@@ -1,0 +1,85 @@
+{
+  "id": "series_2101",
+  "type": "series",
+  "title": "O Livro de Boba Fett",
+  "originalTitle": "The Book of Boba Fett",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/ptSA0gnrXuJSa5YRqn7Gj5SwFFR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oMWnpUUCeIqvTdP3IYZ0JnPdrmU.jpg",
+  "overview": "Uma emocionante aventura Star Wars que encontra o lendário caçador de recompensas Boba Fett e o mercenário Fennec Shand explorando o submundo da Galáxia quando retornam às areias de Tatooine para reivindicar o território antes governado por Jabba, o Hutt e seu sindicato do crime.",
+  "rating": 7.478,
+  "genres": [
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 115036,
+  "xtream": {
+    "seriesId": 2101
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3228002",
+          "episodeId": 3228002,
+          "season": 1,
+          "episode": 1,
+          "title": "O Livro de Boba Fett S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228003",
+          "episodeId": 3228003,
+          "season": 1,
+          "episode": 2,
+          "title": "O Livro de Boba Fett S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228004",
+          "episodeId": 3228004,
+          "season": 1,
+          "episode": 3,
+          "title": "O Livro de Boba Fett S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228005",
+          "episodeId": 3228005,
+          "season": 1,
+          "episode": 4,
+          "title": "O Livro de Boba Fett S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228006",
+          "episodeId": 3228006,
+          "season": 1,
+          "episode": 5,
+          "title": "O Livro de Boba Fett S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228007",
+          "episodeId": 3228007,
+          "season": 1,
+          "episode": 6,
+          "title": "O Livro de Boba Fett S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228008",
+          "episodeId": 3228008,
+          "season": 1,
+          "episode": 7,
+          "title": "O Livro de Boba Fett S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

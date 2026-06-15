@@ -1,0 +1,50 @@
+{
+  "id": "series_4119",
+  "type": "series",
+  "title": "O Falso Sheik",
+  "originalTitle": "The Fake Sheikh",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/dTmu3RJyaJDxSeWOZN8ZB7MUBpW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dcXAX5pslcwRRaERDkpAG2qLWcz.jpg",
+  "overview": "Esta é a história emocionante do rebelde repórter de tabloide Mazher Mahmood, o Rei do Flagrante. Interpretando um sheik árabe, ele induz modelos, membros da realeza e celebridades do alto escalão com elaboradas operações secretas. Ele passou quase três décadas no topo do jornalismo britânico, mas sua queda foi extraordinária. Mahmood passou a ser a capa dos jornais após uma grande reviravolta.",
+  "rating": 5.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 233340,
+  "xtream": {
+    "seriesId": 4119
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3281426",
+          "episodeId": 3281426,
+          "season": 1,
+          "episode": 1,
+          "title": "O Falso Sheik [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281427",
+          "episodeId": 3281427,
+          "season": 1,
+          "episode": 2,
+          "title": "O Falso Sheik [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281428",
+          "episodeId": 3281428,
+          "season": 1,
+          "episode": 3,
+          "title": "O Falso Sheik [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

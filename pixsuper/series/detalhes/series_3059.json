@@ -1,0 +1,78 @@
+{
+  "id": "series_3059",
+  "type": "series",
+  "title": "Zootopia+",
+  "originalTitle": "Zootopia+",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/pcWy2oFpb2whagjUWcwoHI1d7IP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kq4IbjT5LRWVHEafDzLVZZEAf0O.jpg",
+  "overview": "Volte a metrópole dos mamíferos e conheça melhor a vida de uma série de personagens intrigantes.",
+  "rating": 7.088,
+  "genres": [
+    "animacao",
+    "familia",
+    "infantil",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 114463,
+  "xtream": {
+    "seriesId": 3059
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3254767",
+          "episodeId": 3254767,
+          "season": 1,
+          "episode": 1,
+          "title": "Zootopia+ S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3254768",
+          "episodeId": 3254768,
+          "season": 1,
+          "episode": 2,
+          "title": "Zootopia+ S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3254769",
+          "episodeId": 3254769,
+          "season": 1,
+          "episode": 3,
+          "title": "Zootopia+ S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3254770",
+          "episodeId": 3254770,
+          "season": 1,
+          "episode": 4,
+          "title": "Zootopia+ S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3254771",
+          "episodeId": 3254771,
+          "season": 1,
+          "episode": 5,
+          "title": "Zootopia+ S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3254772",
+          "episodeId": 3254772,
+          "season": 1,
+          "episode": 6,
+          "title": "Zootopia+ S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

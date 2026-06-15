@@ -1,0 +1,93 @@
+{
+  "id": "series_8923",
+  "type": "series",
+  "title": "Nêmesis",
+  "originalTitle": "Nemesis",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/c9IMELhK0H8axXg6zF16ZxosR0D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+  "overview": "Um policial implacável fica obcecado em derrubar um ladrão responsável por vários roubos ousados. Mas só um dos dois pode sair ganhando.",
+  "rating": 7.2,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 285807,
+  "xtream": {
+    "seriesId": 8923
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3391080",
+          "episodeId": 3391080,
+          "season": 1,
+          "episode": 1,
+          "title": "Nemesis (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391081",
+          "episodeId": 3391081,
+          "season": 1,
+          "episode": 2,
+          "title": "Nemesis (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391082",
+          "episodeId": 3391082,
+          "season": 1,
+          "episode": 3,
+          "title": "Nemesis (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391083",
+          "episodeId": 3391083,
+          "season": 1,
+          "episode": 4,
+          "title": "Nemesis (2026) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391084",
+          "episodeId": 3391084,
+          "season": 1,
+          "episode": 5,
+          "title": "Nemesis (2026) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391085",
+          "episodeId": 3391085,
+          "season": 1,
+          "episode": 6,
+          "title": "Nemesis (2026) S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391086",
+          "episodeId": 3391086,
+          "season": 1,
+          "episode": 7,
+          "title": "Nemesis (2026) S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391087",
+          "episodeId": 3391087,
+          "season": 1,
+          "episode": 8,
+          "title": "Nemesis (2026) S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

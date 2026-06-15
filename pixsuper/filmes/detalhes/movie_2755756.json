@@ -1,0 +1,50 @@
+{
+  "id": "movie_2755756",
+  "type": "movie",
+  "title": "A Grande Luta",
+  "originalTitle": "A Grande Luta",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/kHu4DhathGTdrjoJHHdPEB1Oumi.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iPzIXgesZmlFOXX9XiG3z4OjVbY.jpg",
+  "overview": "",
+  "rating": 10,
+  "runtime": 25,
+  "genres": [
+    "drama",
+    "comedia",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Anna Campos",
+      "character": "Lorena Rodrigues",
+      "profile": ""
+    },
+    {
+      "name": "Daniel Jaber",
+      "character": "Marcos",
+      "profile": "https://image.tmdb.org/t/p/w185/gvNhub3ymctIUGcPQKqeOCQuJnd.jpg"
+    },
+    {
+      "name": "Daniel Jaber",
+      "character": "Entrevistador",
+      "profile": "https://image.tmdb.org/t/p/w185/gvNhub3ymctIUGcPQKqeOCQuJnd.jpg"
+    },
+    {
+      "name": "Sileide Lopez",
+      "character": "Treinadora",
+      "profile": ""
+    },
+    {
+      "name": "Heloiza Meireles",
+      "character": "Lutadora",
+      "profile": ""
+    }
+  ],
+  "director": "Julio Folha",
+  "tmdbId": 857278,
+  "xtream": {
+    "streamId": 2755756,
+    "containerExtension": "mp4"
+  }
+}

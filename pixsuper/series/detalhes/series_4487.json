@@ -1,0 +1,75 @@
+{
+  "id": "series_4487",
+  "type": "series",
+  "title": "Koodinimi: Annika",
+  "originalTitle": "Koodinimi: Annika",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/r5xPGmMh6JVOh5RzoB46CoC005S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7qfcoimwvP0tWUOJ0zCFronVMrY.jpg",
+  "overview": "",
+  "rating": 6.4,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 218030,
+  "xtream": {
+    "seriesId": 4487
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3291147",
+          "episodeId": 3291147,
+          "season": 1,
+          "episode": 1,
+          "title": "Codename Annika [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291148",
+          "episodeId": 3291148,
+          "season": 1,
+          "episode": 2,
+          "title": "Codename Annika [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291149",
+          "episodeId": 3291149,
+          "season": 1,
+          "episode": 3,
+          "title": "Codename Annika [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291150",
+          "episodeId": 3291150,
+          "season": 1,
+          "episode": 4,
+          "title": "Codename Annika [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291151",
+          "episodeId": 3291151,
+          "season": 1,
+          "episode": 5,
+          "title": "Codename Annika [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291152",
+          "episodeId": 3291152,
+          "season": 1,
+          "episode": 6,
+          "title": "Codename Annika [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

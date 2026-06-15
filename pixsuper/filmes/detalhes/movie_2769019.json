@@ -1,0 +1,39 @@
+{
+  "id": "movie_2769019",
+  "type": "movie",
+  "title": "Clickbait",
+  "originalTitle": "Clickbait",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/9yOAsjMohE5hL5YUIB0OBkK60Ac.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xXt0TpkbtjTyflGtAiyqrcvw7W2.jpg",
+  "overview": "",
+  "rating": 0,
+  "runtime": 3,
+  "genres": [
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "James Parks",
+      "character": "James",
+      "profile": ""
+    },
+    {
+      "name": "Brady O'Malley",
+      "character": "Zeke",
+      "profile": ""
+    },
+    {
+      "name": "Steve Aaron",
+      "character": "Homeless Man",
+      "profile": "https://image.tmdb.org/t/p/w185/eBbmtJNdVLysr0S9WkIOoj5rQFh.jpg"
+    }
+  ],
+  "director": "Sam Hardee",
+  "tmdbId": 1602619,
+  "xtream": {
+    "streamId": 2769019,
+    "containerExtension": "mp4"
+  }
+}

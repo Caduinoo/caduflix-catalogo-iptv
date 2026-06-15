@@ -1,0 +1,38 @@
+{
+  "id": "movie_2768694",
+  "type": "movie",
+  "title": "Blackbird",
+  "originalTitle": "Blackbird",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/1nJUOHZQv07okTGr2CmqpTbk0GA.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 16,
+  "genres": [
+    "ficcao"
+  ],
+  "cast": [
+    {
+      "name": "Sarah East",
+      "character": "Sarah Scott",
+      "profile": ""
+    },
+    {
+      "name": "Chris Petty",
+      "character": "Matthew Scott",
+      "profile": ""
+    },
+    {
+      "name": "Rebekah Lynn Dow",
+      "character": "Sebastian Synthetics Representative",
+      "profile": "https://image.tmdb.org/t/p/w185/epc4jWjQMCQuSi0bpS6XIkC7F7e.jpg"
+    }
+  ],
+  "director": "Mike Thompson",
+  "tmdbId": 954878,
+  "xtream": {
+    "streamId": 2768694,
+    "containerExtension": "mp4"
+  }
+}

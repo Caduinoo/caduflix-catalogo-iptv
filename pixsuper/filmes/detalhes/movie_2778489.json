@@ -1,0 +1,44 @@
+{
+  "id": "movie_2778489",
+  "type": "movie",
+  "title": "CTRL - Vírus Letal",
+  "originalTitle": "CTRL",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/bnP6Jpnh3eJ78mMnSYRwsBnZKwC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2HsUrTGR5xGeqIUFALtTR8IIYIT.jpg",
+  "overview": "Um programador de computador cria um dispositivo de inteligência artificial que tem capacidade de evoluir e se adaptar. Quando o dispositivo é infectado por um vírus, um grupo de amigos se veem presos em um prédio incapazes de sair. Mas fugir é apenas o primeiro passo, pois o vírus aparentemente se espalhou mais rápido do que se imaginava.",
+  "rating": 3.8,
+  "runtime": 80,
+  "genres": [
+    "terror",
+    "ficcao"
+  ],
+  "cast": [
+    {
+      "name": "Hainsley Lloyd Bennett",
+      "character": "Dru",
+      "profile": "https://image.tmdb.org/t/p/w185/fV1brjt4HsTTnlPwN6KWPd0Xz13.jpg"
+    },
+    {
+      "name": "Julian Mack",
+      "character": "Leo",
+      "profile": ""
+    },
+    {
+      "name": "Saabeah Theos",
+      "character": "Lex",
+      "profile": ""
+    },
+    {
+      "name": "Mia Foo",
+      "character": "Tinkerbell",
+      "profile": "https://image.tmdb.org/t/p/w185/5VwLjaphPdt12QBGNm0GVcWCL4c.jpg"
+    }
+  ],
+  "director": "Harry Lindley",
+  "tmdbId": 532657,
+  "xtream": {
+    "streamId": 2778489,
+    "containerExtension": "mp4"
+  }
+}

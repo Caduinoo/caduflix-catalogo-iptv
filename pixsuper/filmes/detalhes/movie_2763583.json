@@ -1,0 +1,60 @@
+{
+  "id": "movie_2763583",
+  "type": "movie",
+  "title": "O Inquilino",
+  "originalTitle": "O Inquilino",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/4X69xbe2LWn1ldPgN2euYh7oiAm.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 20,
+  "genres": [
+    "comedia",
+    "suspense",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Frederico Vittola",
+      "character": "César",
+      "profile": "https://image.tmdb.org/t/p/w185/3xXQ5lPxg00Bq1MlYoBR04NulKW.jpg"
+    },
+    {
+      "name": "Luis Franke",
+      "character": "Emílio (Sindico)",
+      "profile": ""
+    },
+    {
+      "name": "Sabrina Vianna",
+      "character": "Vanessa",
+      "profile": "https://image.tmdb.org/t/p/w185/wJPCufq0ct5d4frFUKuWl2qrAGu.jpg"
+    },
+    {
+      "name": "Guilherme Eyng",
+      "character": "Pintor",
+      "profile": "https://image.tmdb.org/t/p/w185/90rkDSyo2QfSEmPcwKXKdBZKYAd.jpg"
+    },
+    {
+      "name": "Luiza Voltolini",
+      "character": "Esposa",
+      "profile": ""
+    },
+    {
+      "name": "João Massadar",
+      "character": "Marido",
+      "profile": ""
+    },
+    {
+      "name": "Jordana Beck",
+      "character": "Chefe",
+      "profile": "https://image.tmdb.org/t/p/w185/o4lkbGI53vDaARpivoxsaSI6QBX.jpg"
+    }
+  ],
+  "director": "Jordana Beck",
+  "tmdbId": 1439876,
+  "xtream": {
+    "streamId": 2763583,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "series_6988",
+  "type": "series",
+  "title": "Asterix e Obelix: O Combate dos Chefes",
+  "originalTitle": "Astérix & Obélix : Le Combat des chefs",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/t6wi8CeA2psLmlEWAUEBfzoKlgJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rLUC7hOsXtYCg1DfUIVpnes4VJX.jpg",
+  "overview": "O druida esqueceu a receita da poção mágica. Agora, Asterix e Obelix precisam defender os gauleses contra César, que planeja usar as leis deles a favor dos romanos.",
+  "rating": 7.784,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "comedia",
+    "fantasia",
+    "ficcao",
+    "familia",
+    "infantil"
+  ],
+  "producer": "netflix",
+  "tmdbId": 122781,
+  "xtream": {
+    "seriesId": 6988
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3354918",
+          "episodeId": 3354918,
+          "season": 1,
+          "episode": 1,
+          "title": "Asterix e Obelix O Combate dos Chefes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354919",
+          "episodeId": 3354919,
+          "season": 1,
+          "episode": 2,
+          "title": "Asterix e Obelix O Combate dos Chefes S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354920",
+          "episodeId": 3354920,
+          "season": 1,
+          "episode": 3,
+          "title": "Asterix e Obelix O Combate dos Chefes S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354921",
+          "episodeId": 3354921,
+          "season": 1,
+          "episode": 4,
+          "title": "Asterix e Obelix O Combate dos Chefes S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354922",
+          "episodeId": 3354922,
+          "season": 1,
+          "episode": 5,
+          "title": "Asterix e Obelix O Combate dos Chefes S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

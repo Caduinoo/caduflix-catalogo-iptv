@@ -1,0 +1,35 @@
+{
+  "id": "movie_2756303",
+  "type": "movie",
+  "title": "Domingo",
+  "originalTitle": "Domingo",
+  "year": 2007,
+  "poster": "https://image.tmdb.org/t/p/w500/aO44eMnpH52rglUR06tNQkPXEYB.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 5.2,
+  "runtime": 4,
+  "genres": [
+    "romance",
+    "ficcao",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Pilar Gil",
+      "character": "Chica",
+      "profile": ""
+    },
+    {
+      "name": "Alejandro Tejerías",
+      "character": "Chico",
+      "profile": "https://image.tmdb.org/t/p/w185/p3CEKpLoOo0tHRyWEPGMe8GT1F3.jpg"
+    }
+  ],
+  "director": "Nacho Vigalondo",
+  "tmdbId": 162761,
+  "xtream": {
+    "streamId": 2756303,
+    "containerExtension": "mp4"
+  }
+}

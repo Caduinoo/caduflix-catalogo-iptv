@@ -1,0 +1,92 @@
+{
+  "id": "series_7820",
+  "type": "series",
+  "title": "Néro",
+  "originalTitle": "Néro",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/twNHmxeFkDEdGzYMeGTp9stoGUC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lMdOqInVxIvEapJjxAvOoHc7tl5.jpg",
+  "overview": "França, 1504. Um assassino impiedoso foge com a filha que não conhecia para protegê-la de inimigos mortais e forças malignas.",
+  "rating": 6.601,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura"
+  ],
+  "producer": "netflix",
+  "tmdbId": 249551,
+  "xtream": {
+    "seriesId": 7820
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3372216",
+          "episodeId": 3372216,
+          "season": 1,
+          "episode": 1,
+          "title": "Nero S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372217",
+          "episodeId": 3372217,
+          "season": 1,
+          "episode": 2,
+          "title": "Nero S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372218",
+          "episodeId": 3372218,
+          "season": 1,
+          "episode": 3,
+          "title": "Nero S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372219",
+          "episodeId": 3372219,
+          "season": 1,
+          "episode": 4,
+          "title": "Nero S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372220",
+          "episodeId": 3372220,
+          "season": 1,
+          "episode": 5,
+          "title": "Nero S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372221",
+          "episodeId": 3372221,
+          "season": 1,
+          "episode": 6,
+          "title": "Nero S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372222",
+          "episodeId": 3372222,
+          "season": 1,
+          "episode": 7,
+          "title": "Nero S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372223",
+          "episodeId": 3372223,
+          "season": 1,
+          "episode": 8,
+          "title": "Nero S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

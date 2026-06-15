@@ -1,0 +1,76 @@
+{
+  "id": "series_2708",
+  "type": "series",
+  "title": "Respire!",
+  "originalTitle": "Keep Breathing",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/cQkebNKStYeEK16O9y8N2zNINli.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i8jlzgfgj9e9eR0IvhDQUhqlIRV.jpg",
+  "overview": "Uma jovem sobrevive à queda de um avião no meio da selva canadense. Para se manter viva, ela precisa aprender a lidar com a natureza e com seus próprios demônios.",
+  "rating": 6.119,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 195822,
+  "xtream": {
+    "seriesId": 2708
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3246178",
+          "episodeId": 3246178,
+          "season": 1,
+          "episode": 1,
+          "title": "Respire! S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3246179",
+          "episodeId": 3246179,
+          "season": 1,
+          "episode": 2,
+          "title": "Respire! S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3246180",
+          "episodeId": 3246180,
+          "season": 1,
+          "episode": 3,
+          "title": "Respire! S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3246181",
+          "episodeId": 3246181,
+          "season": 1,
+          "episode": 4,
+          "title": "Respire! S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3246182",
+          "episodeId": 3246182,
+          "season": 1,
+          "episode": 5,
+          "title": "Respire! S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3246183",
+          "episodeId": 3246183,
+          "season": 1,
+          "episode": 6,
+          "title": "Respire! S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

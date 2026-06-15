@@ -1,0 +1,96 @@
+{
+  "id": "series_4346",
+  "type": "series",
+  "title": "Diário de um Jovem Médico",
+  "originalTitle": "A Young Doctor's Notebook",
+  "year": 2012,
+  "poster": "https://image.tmdb.org/t/p/w500/tSIRwEX89s6HojrOhPudkdWsNYU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ep5it7BcXcxAVnKCmq9GrJa6NuW.jpg",
+  "overview": "No início do Século XX, um jovem médico chega a uma pequena vila durante a Revolução Russa para trabalhar em um hospital local.",
+  "rating": 7.134,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 47523,
+  "xtream": {
+    "seriesId": 4346
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3287568",
+          "episodeId": 3287568,
+          "season": 1,
+          "episode": 1,
+          "title": "Diario de um Jovem Medico [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287569",
+          "episodeId": 3287569,
+          "season": 1,
+          "episode": 2,
+          "title": "Diario de um Jovem Medico [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287570",
+          "episodeId": 3287570,
+          "season": 1,
+          "episode": 3,
+          "title": "Diario de um Jovem Medico [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287571",
+          "episodeId": 3287571,
+          "season": 1,
+          "episode": 4,
+          "title": "Diario de um Jovem Medico [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3287572",
+          "episodeId": 3287572,
+          "season": 2,
+          "episode": 1,
+          "title": "Diario de um Jovem Medico [L] S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287573",
+          "episodeId": 3287573,
+          "season": 2,
+          "episode": 2,
+          "title": "Diario de um Jovem Medico [L] S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287574",
+          "episodeId": 3287574,
+          "season": 2,
+          "episode": 3,
+          "title": "Diario de um Jovem Medico [L] S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287575",
+          "episodeId": 3287575,
+          "season": 2,
+          "episode": 4,
+          "title": "Diario de um Jovem Medico [L] S02 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

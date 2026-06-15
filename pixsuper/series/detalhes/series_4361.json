@@ -1,0 +1,74 @@
+{
+  "id": "series_4361",
+  "type": "series",
+  "title": "Romanceiro",
+  "originalTitle": "Romancero",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/6U0yAl7QCxesaTzd8IL4fmLzkzB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h7qKBKfzpfAGJfimWSNw77L1VoQ.jpg",
+  "overview": "Jordán e Cornelia são duas crianças indefesas que, na calada da noite, tentam escapar das pessoas enfurecidas que os acusam de assassinato. Apavorados e temendo por suas vidas, eles cuidarão um do outro e farão tudo o que for possível para não serem pegos por dois policiais violentos: Teodoro e Sorroche. Na fuga, eles também tentarão evitar os perigos sobrenaturais que encontram pelo caminho.",
+  "rating": 5.5,
+  "genres": [
+    "misterio"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 225287,
+  "xtream": {
+    "seriesId": 4361
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3287826",
+          "episodeId": 3287826,
+          "season": 1,
+          "episode": 1,
+          "title": "Romanceiro S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287827",
+          "episodeId": 3287827,
+          "season": 1,
+          "episode": 2,
+          "title": "Romanceiro S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287828",
+          "episodeId": 3287828,
+          "season": 1,
+          "episode": 3,
+          "title": "Romanceiro S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287829",
+          "episodeId": 3287829,
+          "season": 1,
+          "episode": 4,
+          "title": "Romanceiro S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287830",
+          "episodeId": 3287830,
+          "season": 1,
+          "episode": 5,
+          "title": "Romanceiro S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3287831",
+          "episodeId": 3287831,
+          "season": 1,
+          "episode": 6,
+          "title": "Romanceiro S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

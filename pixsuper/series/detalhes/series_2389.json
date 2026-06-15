@@ -1,0 +1,83 @@
+{
+  "id": "series_2389",
+  "type": "series",
+  "title": "Isso Vai Doer",
+  "originalTitle": "This Is Going to Hurt",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/bUTv4ZJ8GLjCne0ajTlFMpwJ0fS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/icgOrvpT7ANec2rBdzZQPwB7Ykj.jpg",
+  "overview": "Aclamada comédia dramática baseada nas memórias reais do médico Adam Kay. A série acompanha Adam, um médico júnior exausto e cínico que trabalha na ala de obstetrícia. Com humor ácido, ela expõe o lado caótico e subfinanciado do hospital, mostrando o preço emocional das decisões de vida ou morte e dos plantões intermináveis",
+  "rating": 7.607,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "amc_plus",
+  "tmdbId": 154359,
+  "xtream": {
+    "seriesId": 2389
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3237460",
+          "episodeId": 3237460,
+          "season": 1,
+          "episode": 1,
+          "title": "This Is Going to Hurt S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237461",
+          "episodeId": 3237461,
+          "season": 1,
+          "episode": 2,
+          "title": "This Is Going to Hurt S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237462",
+          "episodeId": 3237462,
+          "season": 1,
+          "episode": 3,
+          "title": "This Is Going to Hurt S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237463",
+          "episodeId": 3237463,
+          "season": 1,
+          "episode": 4,
+          "title": "This Is Going to Hurt S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237464",
+          "episodeId": 3237464,
+          "season": 1,
+          "episode": 5,
+          "title": "This Is Going to Hurt S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237465",
+          "episodeId": 3237465,
+          "season": 1,
+          "episode": 6,
+          "title": "This Is Going to Hurt S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237466",
+          "episodeId": 3237466,
+          "season": 1,
+          "episode": 7,
+          "title": "This Is Going to Hurt S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

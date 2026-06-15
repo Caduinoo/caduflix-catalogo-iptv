@@ -1,0 +1,76 @@
+{
+  "id": "series_1206",
+  "type": "series",
+  "title": "Tribos da Europa",
+  "originalTitle": "Tribes of Europa",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1bztL5ZgA9m8OSxO51TBYyoVO8P.jpg",
+  "overview": "Em 2070, três irmãos lutam para mudar o destino da Europa após uma catástrofe global ter dividido o continente em microestados que disputam o poder.",
+  "rating": 6.95,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 93808,
+  "xtream": {
+    "seriesId": 1206
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3190230",
+          "episodeId": 3190230,
+          "season": 1,
+          "episode": 1,
+          "title": "Tribos da Europa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190231",
+          "episodeId": 3190231,
+          "season": 1,
+          "episode": 2,
+          "title": "Tribos da Europa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190232",
+          "episodeId": 3190232,
+          "season": 1,
+          "episode": 3,
+          "title": "Tribos da Europa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190233",
+          "episodeId": 3190233,
+          "season": 1,
+          "episode": 4,
+          "title": "Tribos da Europa S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190234",
+          "episodeId": 3190234,
+          "season": 1,
+          "episode": 5,
+          "title": "Tribos da Europa S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3190235",
+          "episodeId": 3190235,
+          "season": 1,
+          "episode": 6,
+          "title": "Tribos da Europa S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

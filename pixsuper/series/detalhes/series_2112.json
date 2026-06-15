@@ -1,0 +1,74 @@
+{
+  "id": "series_2112",
+  "type": "series",
+  "title": "Vida dos Suricatos",
+  "originalTitle": "Meet The Meerkats",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/2NT8iWVeKurHTk2opo2kUQOv6jJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lKUoKlimuBt3ODLTo9gxZ9ddWsX.jpg",
+  "overview": "Esta é a história de uma família de suricatos muito especiais. Resgatados do comércio clandestino de animais silvestres, eles serão devolvidos à sua verdadeira casa, o Kalahari.",
+  "rating": 8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 125179,
+  "xtream": {
+    "seriesId": 2112
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3228158",
+          "episodeId": 3228158,
+          "season": 1,
+          "episode": 1,
+          "title": "Vida dos Suricatos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228159",
+          "episodeId": 3228159,
+          "season": 1,
+          "episode": 2,
+          "title": "Vida dos Suricatos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228160",
+          "episodeId": 3228160,
+          "season": 1,
+          "episode": 3,
+          "title": "Vida dos Suricatos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228161",
+          "episodeId": 3228161,
+          "season": 1,
+          "episode": 4,
+          "title": "Vida dos Suricatos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228162",
+          "episodeId": 3228162,
+          "season": 1,
+          "episode": 5,
+          "title": "Vida dos Suricatos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3228163",
+          "episodeId": 3228163,
+          "season": 1,
+          "episode": 6,
+          "title": "Vida dos Suricatos S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "series_4108",
+  "type": "series",
+  "title": "Mocro Maffia",
+  "originalTitle": "Mocro Maffia",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/iM6tRt7VQ6p6yqnpBkwb8zZmprC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/52YPN3cHpj5cgCCJrsO1bckoUK5.jpg",
+  "overview": "",
+  "rating": 7.9,
+  "genres": [
+    "crime",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 83062,
+  "xtream": {
+    "seriesId": 4108
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3281225",
+          "episodeId": 3281225,
+          "season": 1,
+          "episode": 1,
+          "title": "Mocro Maffia [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281226",
+          "episodeId": 3281226,
+          "season": 1,
+          "episode": 2,
+          "title": "Mocro Maffia [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281227",
+          "episodeId": 3281227,
+          "season": 1,
+          "episode": 3,
+          "title": "Mocro Maffia [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281228",
+          "episodeId": 3281228,
+          "season": 1,
+          "episode": 4,
+          "title": "Mocro Maffia [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281229",
+          "episodeId": 3281229,
+          "season": 1,
+          "episode": 5,
+          "title": "Mocro Maffia [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281230",
+          "episodeId": 3281230,
+          "season": 1,
+          "episode": 6,
+          "title": "Mocro Maffia [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281231",
+          "episodeId": 3281231,
+          "season": 1,
+          "episode": 7,
+          "title": "Mocro Maffia [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281232",
+          "episodeId": 3281232,
+          "season": 1,
+          "episode": 8,
+          "title": "Mocro Maffia [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

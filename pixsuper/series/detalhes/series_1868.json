@@ -1,0 +1,74 @@
+{
+  "id": "series_1868",
+  "type": "series",
+  "title": "Q: No Olho da Tempestade",
+  "originalTitle": "Q: Into the Storm",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/8Al8jHqAd7Cjh6EYBAbEe5FV5up.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bRapYGbAnJxH61jrdmvTWAPU6Xn.jpg",
+  "overview": "É um documentário americano dirigida e produzida por Cullen Hoback. Ele explora a teoria da conspiração QAnon e as pessoas envolvidas com ela. Estreou na HBO em 21 de março de 2021.",
+  "rating": 7.1,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 119761,
+  "xtream": {
+    "seriesId": 1868
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3220055",
+          "episodeId": 3220055,
+          "season": 1,
+          "episode": 1,
+          "title": "Q: No Olho da Tempestade S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3220056",
+          "episodeId": 3220056,
+          "season": 1,
+          "episode": 2,
+          "title": "Q: No Olho da Tempestade S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3220057",
+          "episodeId": 3220057,
+          "season": 1,
+          "episode": 3,
+          "title": "Q: No Olho da Tempestade S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3220058",
+          "episodeId": 3220058,
+          "season": 1,
+          "episode": 4,
+          "title": "Q: No Olho da Tempestade S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3220059",
+          "episodeId": 3220059,
+          "season": 1,
+          "episode": 5,
+          "title": "Q: No Olho da Tempestade S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3220060",
+          "episodeId": 3220060,
+          "season": 1,
+          "episode": 6,
+          "title": "Q: No Olho da Tempestade S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

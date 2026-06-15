@@ -1,0 +1,30 @@
+{
+  "id": "movie_2763621",
+  "type": "movie",
+  "title": "O Som",
+  "originalTitle": "O Som",
+  "year": 2024,
+  "poster": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-poster.png",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Matuê em busca do Som",
+  "rating": 0,
+  "runtime": 6,
+  "genres": [
+    "musica",
+    "suspense",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Matuê",
+      "character": "Matuê",
+      "profile": "https://image.tmdb.org/t/p/w185/jBDStPSGTcgICmt6QUI0TMVltmh.jpg"
+    }
+  ],
+  "director": "Rafael Carmo",
+  "tmdbId": 1572845,
+  "xtream": {
+    "streamId": 2763621,
+    "containerExtension": "mp4"
+  }
+}

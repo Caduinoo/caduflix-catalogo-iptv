@@ -1,0 +1,74 @@
+{
+  "id": "series_2070",
+  "type": "series",
+  "title": "Batalha das Comidinhas",
+  "originalTitle": "Tiny Food Fight",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/27DXPlKE4bcsalvgzPg8FvkNogE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9HYvpNPSHmmsOPWbA9hMMb4ehUm.jpg",
+  "overview": "O chef Darnell Ferguson e a comediante Mamrie Hart apresentam a maior competição de comidas minúsculas do mundo, com um prêmio de 5 mil dólares e um mini troféu em jogo.",
+  "rating": 10,
+  "genres": [
+    "reality"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 133811,
+  "xtream": {
+    "seriesId": 2070
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3227510",
+          "episodeId": 3227510,
+          "season": 1,
+          "episode": 1,
+          "title": "Batalha das Comidinhas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227511",
+          "episodeId": 3227511,
+          "season": 1,
+          "episode": 2,
+          "title": "Batalha das Comidinhas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227512",
+          "episodeId": 3227512,
+          "season": 1,
+          "episode": 3,
+          "title": "Batalha das Comidinhas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227513",
+          "episodeId": 3227513,
+          "season": 1,
+          "episode": 4,
+          "title": "Batalha das Comidinhas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227514",
+          "episodeId": 3227514,
+          "season": 1,
+          "episode": 5,
+          "title": "Batalha das Comidinhas S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3227515",
+          "episodeId": 3227515,
+          "season": 1,
+          "episode": 6,
+          "title": "Batalha das Comidinhas S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

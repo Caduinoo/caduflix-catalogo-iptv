@@ -1,0 +1,61 @@
+{
+  "id": "series_6952",
+  "type": "series",
+  "title": "Projeto OVNI",
+  "originalTitle": "Projekt UFO",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/4RYN5jFx6irVt4zBECyZnZv0oCS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1kDcpOzVcyqqP0UXj0kX8WIOIY7.jpg",
+  "overview": "Um apresentador de TV arrogante e um ufólogo trabalham para descobrir as origens da suposta aparição de um OVNI, dividindo a nação em um mar de dúvidas e crenças.",
+  "rating": 6.517,
+  "genres": [
+    "comedia",
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 252591,
+  "xtream": {
+    "seriesId": 6952
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3354564",
+          "episodeId": 3354564,
+          "season": 1,
+          "episode": 1,
+          "title": "Projeto OVNI S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354565",
+          "episodeId": 3354565,
+          "season": 1,
+          "episode": 2,
+          "title": "Projeto OVNI S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354566",
+          "episodeId": 3354566,
+          "season": 1,
+          "episode": 3,
+          "title": "Projeto OVNI S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3354567",
+          "episodeId": 3354567,
+          "season": 1,
+          "episode": 4,
+          "title": "Projeto OVNI S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

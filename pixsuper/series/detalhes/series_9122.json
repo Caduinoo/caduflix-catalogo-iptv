@@ -1,0 +1,82 @@
+{
+  "id": "series_9122",
+  "type": "series",
+  "title": "Lutadores",
+  "originalTitle": "Wrestlers",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/srsEAAt95Vqgcc2M9us4VMlr6cS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/auwhE8C0tlewZCxvWBFEgq4Jmex.jpg",
+  "overview": "Nesta série documental, os novos proprietários e atletas de uma organização de luta livre profissional tentam deixar sua marca dentro e fora dos ringues.",
+  "rating": 7.1,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 233051,
+  "xtream": {
+    "seriesId": 9122
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3400434",
+          "episodeId": 3400434,
+          "season": 1,
+          "episode": 1,
+          "title": "Lutadores 2023 S01E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400435",
+          "episodeId": 3400435,
+          "season": 1,
+          "episode": 2,
+          "title": "Lutadores 2023 S01E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400436",
+          "episodeId": 3400436,
+          "season": 1,
+          "episode": 3,
+          "title": "Lutadores 2023 S01E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400437",
+          "episodeId": 3400437,
+          "season": 1,
+          "episode": 4,
+          "title": "Lutadores 2023 S01E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400438",
+          "episodeId": 3400438,
+          "season": 1,
+          "episode": 5,
+          "title": "Lutadores 2023 S01E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400439",
+          "episodeId": 3400439,
+          "season": 1,
+          "episode": 6,
+          "title": "Lutadores 2023 S01E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400440",
+          "episodeId": 3400440,
+          "season": 1,
+          "episode": 7,
+          "title": "Lutadores 2023 S01E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

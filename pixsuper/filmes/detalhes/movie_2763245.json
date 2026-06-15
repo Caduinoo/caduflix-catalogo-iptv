@@ -1,0 +1,55 @@
+{
+  "id": "movie_2763245",
+  "type": "movie",
+  "title": "A Suspeita",
+  "originalTitle": "A Suspeita",
+  "year": 2000,
+  "poster": "https://image.tmdb.org/t/p/w500/nRJL5Kt02f82sDrjY7fTD1yf0ob.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/m0yJAURCDEitcsVpIbprEVyRDmQ.jpg",
+  "overview": "",
+  "rating": 6.5,
+  "runtime": 25,
+  "genres": [
+    "animacao",
+    "suspense",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Paulo Raposo",
+      "character": "Jonas (voice)",
+      "profile": ""
+    },
+    {
+      "name": "Dora Bernardo",
+      "character": "Esmeralda (voice)",
+      "profile": ""
+    },
+    {
+      "name": "Teresa Côrte-Real",
+      "character": "Helena (voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/of7PQ9qcXYLFNYBtOgD10itzkwP.jpg"
+    },
+    {
+      "name": "Vitor Soares",
+      "character": "Salcedas / Revisor",
+      "profile": ""
+    },
+    {
+      "name": "João Catarino",
+      "character": "voice off in the train",
+      "profile": ""
+    },
+    {
+      "name": "Mafalda Vilhena",
+      "character": "voice off in the train station",
+      "profile": "https://image.tmdb.org/t/p/w185/z9mtDVFYx08i3YkIPX4u8UYEeSS.jpg"
+    }
+  ],
+  "director": "José Miguel Ribeiro",
+  "tmdbId": 92535,
+  "xtream": {
+    "streamId": 2763245,
+    "containerExtension": "mp4"
+  }
+}

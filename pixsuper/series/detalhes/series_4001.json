@@ -1,0 +1,77 @@
+{
+  "id": "series_4001",
+  "type": "series",
+  "title": "Apartamento 6/9",
+  "originalTitle": "เรื่องตลก 69 เดอะซีรีส์",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/mmCXluylhf9qJLW9oAvvs40opnk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3FglVhFuPWwzVWH7sQZKzVcvE0E.jpg",
+  "overview": "Depois de perder o emprego, uma mulher encontra um misterioso pacote na porta do apartamento. E a vida dela muda para pior.",
+  "rating": 5.7,
+  "genres": [
+    "comedia",
+    "crime",
+    "misterio",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 231380,
+  "xtream": {
+    "seriesId": 4001
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3278863",
+          "episodeId": 3278863,
+          "season": 1,
+          "episode": 1,
+          "title": "Apartamento 6/9 S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278864",
+          "episodeId": 3278864,
+          "season": 1,
+          "episode": 2,
+          "title": "Apartamento 6/9 S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278865",
+          "episodeId": 3278865,
+          "season": 1,
+          "episode": 3,
+          "title": "Apartamento 6/9 S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278866",
+          "episodeId": 3278866,
+          "season": 1,
+          "episode": 4,
+          "title": "Apartamento 6/9 S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278867",
+          "episodeId": 3278867,
+          "season": 1,
+          "episode": 5,
+          "title": "Apartamento 6/9 S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3278868",
+          "episodeId": 3278868,
+          "season": 1,
+          "episode": 6,
+          "title": "Apartamento 6/9 S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_3072",
+  "type": "series",
+  "title": "Meu Encontro com o Mal",
+  "originalTitle": "Mi encuentro con el mal",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/wepmAKAfDuVlZGmkIqdLWORa7A3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kI8DGcgPOfZfruOrrVxt0R1e0iU.jpg",
+  "overview": "Vítimas relatam suas experiências com possessão demoníaca nesta série documental que conta com reconstituições e depoimentos.",
+  "rating": 6.5,
+  "genres": [
+    "documentario",
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213288,
+  "xtream": {
+    "seriesId": 3072
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3255250",
+          "episodeId": 3255250,
+          "season": 1,
+          "episode": 1,
+          "title": "Meu Encontro com o Mal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255251",
+          "episodeId": 3255251,
+          "season": 1,
+          "episode": 2,
+          "title": "Meu Encontro com o Mal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255252",
+          "episodeId": 3255252,
+          "season": 1,
+          "episode": 3,
+          "title": "Meu Encontro com o Mal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255253",
+          "episodeId": 3255253,
+          "season": 1,
+          "episode": 4,
+          "title": "Meu Encontro com o Mal S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

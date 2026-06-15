@@ -1,0 +1,35 @@
+{
+  "id": "movie_2773724",
+  "type": "movie",
+  "title": "Sem Ar",
+  "originalTitle": "Sem Ar",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/un1G1sGQ0tpQtyRLuMO2P1vWy6l.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "A vida feliz de um casal, intercalado com uma crise.",
+  "rating": 0,
+  "runtime": 3,
+  "genres": [
+    "drama",
+    "romance",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Leticia Monteiro",
+      "character": "Esposa",
+      "profile": "https://image.tmdb.org/t/p/w185/pKtN7xdYjks6uZEVpJzEE9QKpnu.jpg"
+    },
+    {
+      "name": "Otávio Fontes",
+      "character": "Esposo",
+      "profile": "https://image.tmdb.org/t/p/w185/2AVtgQP7jvXJPl6A6fXSkyn0Gw3.jpg"
+    }
+  ],
+  "director": "Otávio Fontes",
+  "tmdbId": 945694,
+  "xtream": {
+    "streamId": 2773724,
+    "containerExtension": "mp4"
+  }
+}

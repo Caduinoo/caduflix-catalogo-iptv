@@ -1,0 +1,74 @@
+{
+  "id": "series_1646",
+  "type": "series",
+  "title": "Lendas da Natureza",
+  "originalTitle": "Legends of the Wild",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/tkTpd9tQ2Df8sNMR9J5yyOsglEh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iSZNq8AGRFi0sZHdWjCdygJfKfB.jpg",
+  "overview": "Especialistas em áreas selvagens, Damian Duffy e Matt Hoffman buscam resolver os mistérios mais incríveis do mundo natural, desde criaturas marinhas inexplicáveis descobertas no Alasca a ataques mortais de um predador aéreo na Papua Nova Guiné.",
+  "rating": 4,
+  "genres": [
+    "reality"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 101499,
+  "xtream": {
+    "seriesId": 1646
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3210166",
+          "episodeId": 3210166,
+          "season": 1,
+          "episode": 1,
+          "title": "Lendas da Natureza S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210167",
+          "episodeId": 3210167,
+          "season": 1,
+          "episode": 2,
+          "title": "Lendas da Natureza S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210168",
+          "episodeId": 3210168,
+          "season": 1,
+          "episode": 3,
+          "title": "Lendas da Natureza S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210169",
+          "episodeId": 3210169,
+          "season": 1,
+          "episode": 4,
+          "title": "Lendas da Natureza S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210170",
+          "episodeId": 3210170,
+          "season": 1,
+          "episode": 5,
+          "title": "Lendas da Natureza S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3210171",
+          "episodeId": 3210171,
+          "season": 1,
+          "episode": 6,
+          "title": "Lendas da Natureza S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

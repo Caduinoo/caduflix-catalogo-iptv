@@ -1,0 +1,87 @@
+{
+  "id": "series_8080",
+  "type": "series",
+  "title": "Isso é um Bolo? Vamos Celebrar!",
+  "originalTitle": "Is It Cake? Holiday",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/ju9NH1YIJvi07qw8HEAvAr9Y5Tz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/961OPA1TxyLY3KA5i846K19F0wF.jpg",
+  "overview": "Pasteleiros das temporadas passadas regressam para prepararem réplicas deliciosas de patins no gelo, quebra-nozes e muito mais, nesta versão natalícia do célebre concurso.",
+  "rating": 7.3,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 275144,
+  "xtream": {
+    "seriesId": 8080
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3376815",
+          "episodeId": 3376815,
+          "season": 1,
+          "episode": 1,
+          "title": "Isso e um Bolo Vamos Celebrar S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376816",
+          "episodeId": 3376816,
+          "season": 1,
+          "episode": 2,
+          "title": "Isso e um Bolo Vamos Celebrar S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376817",
+          "episodeId": 3376817,
+          "season": 1,
+          "episode": 3,
+          "title": "Isso e um Bolo Vamos Celebrar S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376818",
+          "episodeId": 3376818,
+          "season": 1,
+          "episode": 4,
+          "title": "Isso e um Bolo Vamos Celebrar S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3376819",
+          "episodeId": 3376819,
+          "season": 2,
+          "episode": 1,
+          "title": "Isso e um Bolo Vamos Celebrar S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376820",
+          "episodeId": 3376820,
+          "season": 2,
+          "episode": 2,
+          "title": "Isso e um Bolo Vamos Celebrar S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3376821",
+          "episodeId": 3376821,
+          "season": 2,
+          "episode": 3,
+          "title": "Isso e um Bolo Vamos Celebrar S02 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

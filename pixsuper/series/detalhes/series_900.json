@@ -1,0 +1,78 @@
+{
+  "id": "series_900",
+  "type": "series",
+  "title": "SS-GB: Remontando a Segunda Guerra",
+  "originalTitle": "SS-GB",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jf7K081EEjuypr2uQLB0X0Z1kvw.jpg",
+  "overview": "O SS-GB é uma série dramática britânica de 2017 produzida para a BBC e baseada no romance de 1978 de mesmo nome de Len Deighton. Está ambientado em uma linha do tempo alternativa de 1941 em que o Reino Unido é ocupado pela Alemanha nazista durante a Segunda Guerra Mundial.",
+  "rating": 6.2,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 68003,
+  "xtream": {
+    "seriesId": 900
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3177355",
+          "episodeId": 3177355,
+          "season": 1,
+          "episode": 1,
+          "title": "SS GB S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177356",
+          "episodeId": 3177356,
+          "season": 1,
+          "episode": 2,
+          "title": "SS GB S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177357",
+          "episodeId": 3177357,
+          "season": 1,
+          "episode": 3,
+          "title": "SS GB S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177358",
+          "episodeId": 3177358,
+          "season": 1,
+          "episode": 4,
+          "title": "SS GB S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177359",
+          "episodeId": 3177359,
+          "season": 1,
+          "episode": 5,
+          "title": "SS GB S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3177360",
+          "episodeId": 3177360,
+          "season": 1,
+          "episode": 6,
+          "title": "SS GB S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

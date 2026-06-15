@@ -1,0 +1,51 @@
+{
+  "id": "series_3446",
+  "type": "series",
+  "title": "Procurados - EUA: O Atentado à Maratona de Boston",
+  "originalTitle": "American Manhunt: The Boston Marathon Bombing",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/dkLQcc0Q20UDo0Hco0OOuvmqlOE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nBF4H6NEJyAl60gp1q7fTz7Ij1t.jpg",
+  "overview": "Imagens de arquivo, reconstituições arrepiantes e entrevistas exclusivas lançam um novo olhar sobre a tragédia e os dois irmãos que chocaram uma cidade.",
+  "rating": 7.538,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 222314,
+  "xtream": {
+    "seriesId": 3446
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3263803",
+          "episodeId": 3263803,
+          "season": 1,
+          "episode": 1,
+          "title": "Procurados - EUA: O Atentado à Maratona de Boston S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263804",
+          "episodeId": 3263804,
+          "season": 1,
+          "episode": 2,
+          "title": "Procurados - EUA: O Atentado à Maratona de Boston S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263805",
+          "episodeId": 3263805,
+          "season": 1,
+          "episode": 3,
+          "title": "Procurados - EUA: O Atentado à Maratona de Boston S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

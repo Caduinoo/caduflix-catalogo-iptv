@@ -1,0 +1,39 @@
+{
+  "id": "movie_2770002",
+  "type": "movie",
+  "title": "Fantasmas",
+  "originalTitle": "Fantasmas",
+  "year": 2010,
+  "poster": "https://image.tmdb.org/t/p/w500/pR7XgFFKkPeXHnTbQDCWSobh2Av.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jhY1GVffWRM559CZSQFshuXaVPO.jpg",
+  "overview": "Um homem está no telhado de sua casa com seu amigo. Eles conversam tranquilamente até que este amigo percebe algo muito estranho.",
+  "rating": 7.2,
+  "runtime": 11,
+  "genres": [
+    "comedia",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Gabriel Martins",
+      "character": "Gabriel",
+      "profile": "https://image.tmdb.org/t/p/w185/6lM36lUdZvLjPapPMXJV3WYfvMs.jpg"
+    },
+    {
+      "name": "Maurílio Martins",
+      "character": "Maurílio",
+      "profile": "https://image.tmdb.org/t/p/w185/yx2PrNkvggQdKupy63dQOxXxTz6.jpg"
+    },
+    {
+      "name": "Gabriela Monteiro",
+      "character": "Camila",
+      "profile": ""
+    }
+  ],
+  "director": "André Novais Oliveira",
+  "tmdbId": 340558,
+  "xtream": {
+    "streamId": 2770002,
+    "containerExtension": "mp4"
+  }
+}

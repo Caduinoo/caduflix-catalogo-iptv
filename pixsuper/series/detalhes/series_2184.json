@@ -1,0 +1,78 @@
+{
+  "id": "series_2184",
+  "type": "series",
+  "title": "Fora de Órbita",
+  "originalTitle": "地球外少年少女",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/i1ROfeOW34wJ2vaOSgf0GHGlR8h.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/a69AAQO2cHTYiR50Z8SmHwIF8rD.jpg",
+  "overview": "Em 2045, duas crianças nascidas na Lua e três da Terra precisam fazer de tudo para sobreviver após um acidente na estação espacial.",
+  "rating": 7.3,
+  "genres": [
+    "animacao",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 138190,
+  "xtream": {
+    "seriesId": 2184
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3230901",
+          "episodeId": 3230901,
+          "season": 1,
+          "episode": 1,
+          "title": "Fora de Órbita S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3230902",
+          "episodeId": 3230902,
+          "season": 1,
+          "episode": 2,
+          "title": "Fora de Órbita S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3230903",
+          "episodeId": 3230903,
+          "season": 1,
+          "episode": 3,
+          "title": "Fora de Órbita S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3230904",
+          "episodeId": 3230904,
+          "season": 1,
+          "episode": 4,
+          "title": "Fora de Órbita S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3230905",
+          "episodeId": 3230905,
+          "season": 1,
+          "episode": 5,
+          "title": "Fora de Órbita S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3230906",
+          "episodeId": 3230906,
+          "season": 1,
+          "episode": 6,
+          "title": "Fora de Órbita S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

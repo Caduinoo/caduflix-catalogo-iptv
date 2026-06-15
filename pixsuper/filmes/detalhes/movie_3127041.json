@@ -1,0 +1,65 @@
+{
+  "id": "movie_3127041",
+  "type": "movie",
+  "title": "Bela",
+  "originalTitle": "Belle",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/heRsOVrhzokKQAbDlLJurIZIkZO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1bntYrhWGNEueJeQi5qqfu9O69N.jpg",
+  "overview": "Uma garota de fazenda torna-se prisioneira de um animal carnívoro para curar a doença de seu pai.",
+  "rating": 5.5,
+  "runtime": 92,
+  "genres": [
+    "terror",
+    "fantasia",
+    "romance"
+  ],
+  "cast": [
+    {
+      "name": "Andrea Snædal",
+      "character": "Belle",
+      "profile": "https://image.tmdb.org/t/p/w185/nkMwOOcupZAXLiWBkHapqe6OAZ5.jpg"
+    },
+    {
+      "name": "Ingi Hrafn Hilmarsson",
+      "character": "Beast",
+      "profile": "https://image.tmdb.org/t/p/w185/2j3LZ7B1o77PSSy1I0LkXZ0wBB9.jpg"
+    },
+    {
+      "name": "Gudmundur Thorvaldsson",
+      "character": "Papa",
+      "profile": "https://image.tmdb.org/t/p/w185/bb0WgMKxnH0XuP8jgPIOw4QDZNN.jpg"
+    },
+    {
+      "name": "Sigurður Sigurjónsson",
+      "character": "Odr",
+      "profile": "https://image.tmdb.org/t/p/w185/771PMUbylZqX4TbUmONzfOBhsSK.jpg"
+    },
+    {
+      "name": "Helga Braga Jónsdóttir",
+      "character": "Freyja",
+      "profile": "https://image.tmdb.org/t/p/w185/iZQlo7v1eMToUOHhYtsdRgBTdX3.jpg"
+    },
+    {
+      "name": "Árni Pétur Guðjónsson",
+      "character": "Skuggi",
+      "profile": "https://image.tmdb.org/t/p/w185/ppc6didXMSY9hzCv1gzmv1wquw5.jpg"
+    },
+    {
+      "name": "Hafþór Júlíus Björnsson",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/wDyF1bkjZb2c4zw7hi27LZh2H6a.jpg"
+    },
+    {
+      "name": "Sölvi Fannar Viðarsson",
+      "character": "",
+      "profile": "https://image.tmdb.org/t/p/w185/h9HPhpsBYIxD5s6dgMq5ZTAVqsr.jpg"
+    }
+  ],
+  "director": "Max Gold",
+  "tmdbId": 509447,
+  "xtream": {
+    "streamId": 3127041,
+    "containerExtension": "mp4"
+  }
+}

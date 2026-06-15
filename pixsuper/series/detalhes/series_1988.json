@@ -1,0 +1,60 @@
+{
+  "id": "series_1988",
+  "type": "series",
+  "title": "Dúvida Razoável: Uma História de Dois Sequestros",
+  "originalTitle": "Duda razonable: Historia de dos secuestros",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/3hB2opv80uPA4jBFLVM54Mji1O8.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9NjlqmT7FLbWy4qkTR9mQ3pogGS.jpg",
+  "overview": "Uma batida de carro que se transforma em sequestro leva o documentarista Roberto Hernández a revelar as falhas da Justiça no México.",
+  "rating": 7.2,
+  "genres": [
+    "crime",
+    "documentario",
+    "historia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 137717,
+  "xtream": {
+    "seriesId": 1988
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3224268",
+          "episodeId": 3224268,
+          "season": 1,
+          "episode": 1,
+          "title": "Dúvida Razoável: Uma História de Dois Sequestros S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224269",
+          "episodeId": 3224269,
+          "season": 1,
+          "episode": 2,
+          "title": "Dúvida Razoável: Uma História de Dois Sequestros S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224270",
+          "episodeId": 3224270,
+          "season": 1,
+          "episode": 3,
+          "title": "Dúvida Razoável: Uma História de Dois Sequestros S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224271",
+          "episodeId": 3224271,
+          "season": 1,
+          "episode": 4,
+          "title": "Dúvida Razoável: Uma História de Dois Sequestros S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

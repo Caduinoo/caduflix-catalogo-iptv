@@ -1,0 +1,58 @@
+{
+  "id": "series_8648",
+  "type": "series",
+  "title": "Contos",
+  "originalTitle": "Tales",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/ztHn1ZC30gEUk0zDkT9muuRwFUY.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Uma série documental que explora o impacto cultural, histórico e econômico dos ingredientes básicos, examinando como eles moldaram civilizações, tradições e sistemas globais ao longo do tempo.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 317344,
+  "xtream": {
+    "seriesId": 8648
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3386838",
+          "episodeId": 3386838,
+          "season": 1,
+          "episode": 1,
+          "title": "Contos (2026) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3386839",
+          "episodeId": 3386839,
+          "season": 1,
+          "episode": 2,
+          "title": "Contos (2026) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3386840",
+          "episodeId": 3386840,
+          "season": 1,
+          "episode": 3,
+          "title": "Contos (2026) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3386841",
+          "episodeId": 3386841,
+          "season": 1,
+          "episode": 4,
+          "title": "Contos (2026) S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

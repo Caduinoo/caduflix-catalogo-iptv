@@ -1,0 +1,91 @@
+{
+  "id": "series_9100",
+  "type": "series",
+  "title": "Mariachis",
+  "originalTitle": "Mariachis",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mcssBp6XdeZJty0fV6FYeAS1Cv1.jpg",
+  "overview": "O patriarca Rosendo Cuevas sofre com o início repentino e agressivo do mal de Alzheimer, sua esposa, Lucía, e seus dois filhos, Jorge e Pedro, formam uma banda mariachi para ajudá-lo a lembrar do passado e para retardar o processo da doença. Mas tudo isso traz à tona questões que talvez não devessem ser revividas.",
+  "rating": 8.333,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 220009,
+  "xtream": {
+    "seriesId": 9100
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3400165",
+          "episodeId": 3400165,
+          "season": 1,
+          "episode": 1,
+          "title": "Mariachis 2023 S01E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400166",
+          "episodeId": 3400166,
+          "season": 1,
+          "episode": 2,
+          "title": "Mariachis 2023 S01E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400167",
+          "episodeId": 3400167,
+          "season": 1,
+          "episode": 3,
+          "title": "Mariachis 2023 S01E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400168",
+          "episodeId": 3400168,
+          "season": 1,
+          "episode": 4,
+          "title": "Mariachis 2023 S01E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400169",
+          "episodeId": 3400169,
+          "season": 1,
+          "episode": 5,
+          "title": "Mariachis 2023 S01E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400170",
+          "episodeId": 3400170,
+          "season": 1,
+          "episode": 6,
+          "title": "Mariachis 2023 S01E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400171",
+          "episodeId": 3400171,
+          "season": 1,
+          "episode": 7,
+          "title": "Mariachis 2023 S01E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3400172",
+          "episodeId": 3400172,
+          "season": 1,
+          "episode": 8,
+          "title": "Mariachis 2023 S01E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

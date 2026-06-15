@@ -1,0 +1,75 @@
+{
+  "id": "series_1056",
+  "type": "series",
+  "title": "Paranormal",
+  "originalTitle": "Paranormal",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/e3WmEPVjDyvp4jjgJDMcLCepbM7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mmvJumm2L0MRwGDKNeYPJyDglBY.jpg",
+  "overview": "Depois de se envolver em uma série de acontecimentos inexplicáveis, um médico cético se torna uma autoridade em investigações paranormais, mesmo contra sua vontade.",
+  "rating": 6,
+  "genres": [
+    "documentario",
+    "misterio"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 232645,
+  "xtream": {
+    "seriesId": 1056
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3184806",
+          "episodeId": 3184806,
+          "season": 1,
+          "episode": 1,
+          "title": "Paranormal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184807",
+          "episodeId": 3184807,
+          "season": 1,
+          "episode": 2,
+          "title": "Paranormal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184808",
+          "episodeId": 3184808,
+          "season": 1,
+          "episode": 3,
+          "title": "Paranormal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184809",
+          "episodeId": 3184809,
+          "season": 1,
+          "episode": 4,
+          "title": "Paranormal S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184810",
+          "episodeId": 3184810,
+          "season": 1,
+          "episode": 5,
+          "title": "Paranormal S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184811",
+          "episodeId": 3184811,
+          "season": 1,
+          "episode": 6,
+          "title": "Paranormal S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

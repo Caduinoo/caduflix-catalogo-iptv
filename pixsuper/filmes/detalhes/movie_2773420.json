@@ -1,0 +1,44 @@
+{
+  "id": "movie_2773420",
+  "type": "movie",
+  "title": "Reality XL",
+  "originalTitle": "Reality XL",
+  "year": 2012,
+  "poster": "https://image.tmdb.org/t/p/w500/mKpZB5zf1n89wMh2X0v426D71PD.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6.8,
+  "runtime": 81,
+  "genres": [
+    "misterio",
+    "ficcao"
+  ],
+  "cast": [
+    {
+      "name": "Heiner Lauterbach",
+      "character": "Professor Carus",
+      "profile": "https://image.tmdb.org/t/p/w185/AuDVCHI4myGKsjVzUCXrVKIqu8x.jpg"
+    },
+    {
+      "name": "Max Tidof",
+      "character": "Robin Spector",
+      "profile": ""
+    },
+    {
+      "name": "Godehard Giese",
+      "character": "Antoine",
+      "profile": "https://image.tmdb.org/t/p/w185/2vz3pSqdPUEtJ5xcNTWh7eZVdkj.jpg"
+    },
+    {
+      "name": "Annika Blendl",
+      "character": "Sophia Dekkers",
+      "profile": "https://image.tmdb.org/t/p/w185/ifuXml57v4iU7O7fJPcRl3kVd09.jpg"
+    }
+  ],
+  "director": "Thomas Bohn",
+  "tmdbId": 82664,
+  "xtream": {
+    "streamId": 2773420,
+    "containerExtension": "mp4"
+  }
+}

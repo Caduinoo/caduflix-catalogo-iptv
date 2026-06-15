@@ -1,0 +1,67 @@
+{
+  "id": "series_1401",
+  "type": "series",
+  "title": "Acesso Total: Corinthians",
+  "originalTitle": "Acesso Total: Corinthians",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/iACF2nyuQVtB3B6DzgBQNgzvMr4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hdsOB5kxvEcRzHt4XkMD6l6QEhF.jpg",
+  "overview": "Acompanhe os bastidores do ano do Corinthians. Veja os momentos no CT e no vestiário do time.",
+  "rating": 10,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 135454,
+  "xtream": {
+    "seriesId": 1401
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3197132",
+          "episodeId": 3197132,
+          "season": 1,
+          "episode": 1,
+          "title": "Acesso Total Corinthians S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3197133",
+          "episodeId": 3197133,
+          "season": 1,
+          "episode": 2,
+          "title": "Acesso Total Corinthians S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3197134",
+          "episodeId": 3197134,
+          "season": 1,
+          "episode": 3,
+          "title": "Acesso Total Corinthians S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3197135",
+          "episodeId": 3197135,
+          "season": 1,
+          "episode": 4,
+          "title": "Acesso Total Corinthians S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3197136",
+          "episodeId": 3197136,
+          "season": 1,
+          "episode": 5,
+          "title": "Acesso Total Corinthians S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

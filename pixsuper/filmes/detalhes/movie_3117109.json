@@ -1,0 +1,49 @@
+{
+  "id": "movie_3117109",
+  "type": "movie",
+  "title": "A Princesa e o Dragão",
+  "originalTitle": "Принцесса и дракон",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/eWpbrTpACpLIGUA2RNdVwpwkdd0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fryB9DApUwB0zEdlZtDH1RefHuD.jpg",
+  "overview": "A jovem princesa Barbara descobre um livro mágico que a teletransporta para um lugar repleto de criaturas fantásticas. Junto do dragão Dragosha, ela encara muitas aventuras e faz novos amigos.",
+  "rating": 6.7,
+  "runtime": 75,
+  "genres": [
+    "animacao",
+    "fantasia"
+  ],
+  "cast": [
+    {
+      "name": "Ирина Киреева",
+      "character": "Queen",
+      "profile": "https://image.tmdb.org/t/p/w185/7ohjYfffIa6lbBrFb5KjFCElnnN.jpg"
+    },
+    {
+      "name": "Ані Лорак",
+      "character": "Princess Barbara",
+      "profile": "https://image.tmdb.org/t/p/w185/wej6W3WSrllkFthRQB0lTnaN7vP.jpg"
+    },
+    {
+      "name": "Сергей Смирнов",
+      "character": "Dragosha",
+      "profile": "https://image.tmdb.org/t/p/w185/qeUAuj0bUXHRPMuBcBi0Mmwgfl0.jpg"
+    },
+    {
+      "name": "Диомид Виноградов",
+      "character": "King",
+      "profile": "https://image.tmdb.org/t/p/w185/4VXryQlIAvpsXwUm2VTqsQI4ouJ.jpg"
+    },
+    {
+      "name": "Konstantin Kozhevnikov",
+      "character": "Balthasar",
+      "profile": "https://image.tmdb.org/t/p/w185/rJ1kykRzR2MusB63QUi1zgzlRPz.jpg"
+    }
+  ],
+  "director": "Marina Nefedova",
+  "tmdbId": 518604,
+  "xtream": {
+    "streamId": 3117109,
+    "containerExtension": "mp4"
+  }
+}

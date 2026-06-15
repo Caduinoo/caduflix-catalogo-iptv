@@ -1,0 +1,76 @@
+{
+  "id": "series_4895",
+  "type": "series",
+  "title": "Monsieur Spade",
+  "originalTitle": "Monsieur Spade",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/5B0fvoxRPT7mhZMgMSAM27j6QZb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eKwFd5jJfBZ0el9kpLp0VVvCfy6.jpg",
+  "overview": "",
+  "rating": 6.2,
+  "genres": [
+    "drama",
+    "misterio",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 209479,
+  "xtream": {
+    "seriesId": 4895
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3303000",
+          "episodeId": 3303000,
+          "season": 1,
+          "episode": 1,
+          "title": "Monsieur Spade [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3303001",
+          "episodeId": 3303001,
+          "season": 1,
+          "episode": 2,
+          "title": "Monsieur Spade [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3303002",
+          "episodeId": 3303002,
+          "season": 1,
+          "episode": 3,
+          "title": "Monsieur Spade [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3303003",
+          "episodeId": 3303003,
+          "season": 1,
+          "episode": 4,
+          "title": "Monsieur Spade [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3303004",
+          "episodeId": 3303004,
+          "season": 1,
+          "episode": 5,
+          "title": "Monsieur Spade [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3303005",
+          "episodeId": 3303005,
+          "season": 1,
+          "episode": 6,
+          "title": "Monsieur Spade [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_4102",
+  "type": "series",
+  "title": "Palmeiras, 13 Finais",
+  "originalTitle": "Palmeiras, 13 Finais",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/k0JZyYwCrGWOE6kd0Wb9bGfuplY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tYnUAXvEC7odby0FvcG8imLx28m.jpg",
+  "overview": "Após a traumática eliminação na Libertadores de 2022, Abel Ferreira e o elenco definem o objetivo do time para a temporada. Serão 13 finais em busca de mais um título brasileiro.",
+  "rating": 3,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 236007,
+  "xtream": {
+    "seriesId": 4102
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3281110",
+          "episodeId": 3281110,
+          "season": 1,
+          "episode": 1,
+          "title": "Palmeiras 13 finais S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281111",
+          "episodeId": 3281111,
+          "season": 1,
+          "episode": 2,
+          "title": "Palmeiras 13 finais S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281112",
+          "episodeId": 3281112,
+          "season": 1,
+          "episode": 3,
+          "title": "Palmeiras 13 finais S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281113",
+          "episodeId": 3281113,
+          "season": 1,
+          "episode": 4,
+          "title": "Palmeiras 13 finais S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

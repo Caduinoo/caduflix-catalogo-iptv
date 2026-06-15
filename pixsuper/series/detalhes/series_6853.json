@@ -1,0 +1,52 @@
+{
+  "id": "series_6853",
+  "type": "series",
+  "title": "A Caça ao Tesouro de Fenn",
+  "originalTitle": "Gold & Greed: The Hunt for Fenn's Treasure",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/1dwFP0t5LHPLdX2hBkaeezGcyIU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wXlMjRWFduQZDKT1Tlo6a5dOkve.jpg",
+  "overview": "O excêntrico Forrest Fenn esconde um baú valioso nas Montanhas Rochosas e propõe uma verdadeira caça ao tesouro, com dicas escondidas em um poema.",
+  "rating": 6.429,
+  "genres": [
+    "documentario",
+    "acao",
+    "aventura"
+  ],
+  "producer": "netflix",
+  "tmdbId": 285380,
+  "xtream": {
+    "seriesId": 6853
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3353136",
+          "episodeId": 3353136,
+          "season": 1,
+          "episode": 1,
+          "title": "A Caca ao Tesouro de Fenn S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353137",
+          "episodeId": 3353137,
+          "season": 1,
+          "episode": 2,
+          "title": "A Caca ao Tesouro de Fenn S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353138",
+          "episodeId": 3353138,
+          "season": 1,
+          "episode": 3,
+          "title": "A Caca ao Tesouro de Fenn S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

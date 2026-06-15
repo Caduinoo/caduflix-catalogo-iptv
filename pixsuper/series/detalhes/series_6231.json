@@ -1,0 +1,81 @@
+{
+  "id": "series_6231",
+  "type": "series",
+  "title": "The Killing - Além de um Crime",
+  "originalTitle": "The Killing",
+  "year": 2011,
+  "poster": "https://image.tmdb.org/t/p/w500/3yiwAUNGn1rsPSVmFgVwPVJFtYf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/LjXBJaNaBGgAsNHDYfFTwGOUWb.jpg",
+  "overview": "Em Seattle, a detetive Sarah Linden (Mireille Enos) está em seu último dia de trabalho, antes de partir com seu filho, Jack (Liam James), para encontrar seu noivo em Sonoma. O substituto de Sarah, Detetive Stephen Holder (Joel Kinnaman), está pronto para assumir o cargo, quando eles atendem a uma chamada de um policial em carro de patrulha, que encontrou um casaco manchado de sangue em um campo. O corpo da garota desaparecida, Rosie Lauren, é encontrado no porta-malas de um carro registrado no comitê de campanha do vereador Darren Richmond (Billy Campbell), que está concorrendo a prefeito. Linden, então, adia a sua partida, supostamente por uns dias, até que o caso seja resolvido.",
+  "rating": 7.828,
+  "genres": [
+    "drama",
+    "crime",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 34415,
+  "xtream": {
+    "seriesId": 6231
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3338293",
+          "episodeId": 3338293,
+          "season": 1,
+          "episode": 1,
+          "title": "The Crime [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338294",
+          "episodeId": 3338294,
+          "season": 1,
+          "episode": 2,
+          "title": "The Crime [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338295",
+          "episodeId": 3338295,
+          "season": 1,
+          "episode": 3,
+          "title": "The Crime [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3338296",
+          "episodeId": 3338296,
+          "season": 2,
+          "episode": 1,
+          "title": "The Crime [L] S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338297",
+          "episodeId": 3338297,
+          "season": 2,
+          "episode": 2,
+          "title": "The Crime [L] S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338298",
+          "episodeId": 3338298,
+          "season": 2,
+          "episode": 3,
+          "title": "The Crime [L] S02 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

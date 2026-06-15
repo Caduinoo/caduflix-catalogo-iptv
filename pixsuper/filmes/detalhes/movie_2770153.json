@@ -1,0 +1,43 @@
+{
+  "id": "movie_2770153",
+  "type": "movie",
+  "title": "Freelancer",
+  "originalTitle": "Freelancer",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/pp7jkkcO6Ht1kMNSIKafHiqMGDa.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 9,
+  "genres": [
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Babak Ganjei",
+      "character": "Babak",
+      "profile": ""
+    },
+    {
+      "name": "Alistair Green",
+      "character": "Mr. Bow Tie",
+      "profile": ""
+    },
+    {
+      "name": "Katy Wix",
+      "character": "Ellie",
+      "profile": "https://image.tmdb.org/t/p/w185/vVr5KhTeqvxTjgYE1xA6SnfxUuB.jpg"
+    },
+    {
+      "name": "Yasmin Taheri",
+      "character": "Waiter",
+      "profile": ""
+    }
+  ],
+  "director": "Behnam Taheri",
+  "tmdbId": 1107773,
+  "xtream": {
+    "streamId": 2770153,
+    "containerExtension": "mp4"
+  }
+}

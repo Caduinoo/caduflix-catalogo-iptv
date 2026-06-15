@@ -1,0 +1,75 @@
+{
+  "id": "series_3592",
+  "type": "series",
+  "title": "Barracuda Queens",
+  "originalTitle": "Barracuda Queens",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/gnlWpchunjLzgFXt2KVJZT4Jonf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ib8oVZJlhfmnMko4EJJVOnOVX52.jpg",
+  "overview": "Ao se afundar em uma dívida gigantesca, um grupo de garotas de um bairro rico de Estocolmo passa a roubar as casas vizinhas. Inspirada em uma história real.",
+  "rating": 5.672,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 225152,
+  "xtream": {
+    "seriesId": 3592
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3267630",
+          "episodeId": 3267630,
+          "season": 1,
+          "episode": 1,
+          "title": "Barracuda Queens S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267631",
+          "episodeId": 3267631,
+          "season": 1,
+          "episode": 2,
+          "title": "Barracuda Queens S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267632",
+          "episodeId": 3267632,
+          "season": 1,
+          "episode": 3,
+          "title": "Barracuda Queens S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267633",
+          "episodeId": 3267633,
+          "season": 1,
+          "episode": 4,
+          "title": "Barracuda Queens S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267634",
+          "episodeId": 3267634,
+          "season": 1,
+          "episode": 5,
+          "title": "Barracuda Queens S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3267635",
+          "episodeId": 3267635,
+          "season": 1,
+          "episode": 6,
+          "title": "Barracuda Queens S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

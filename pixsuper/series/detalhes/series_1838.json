@@ -1,0 +1,75 @@
+{
+  "id": "series_1838",
+  "type": "series",
+  "title": "Mary & Mike",
+  "originalTitle": "Mary & Mike",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/1qcv11hx35vnXcELgSjRG3iktbM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kOcMAXXTlRsNly9p8UbMuPmvnYp.jpg",
+  "overview": "Mary e Mike são um casal de agentes de elite da sanguinária polícia secreta chilena. Seu trabalho na Direção de Inteligência Nacional (DINA) consiste em eliminar líderes da oposição à ditadura de Augusto Pinochet.",
+  "rating": 6.3,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 77772,
+  "xtream": {
+    "seriesId": 1838
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3218730",
+          "episodeId": 3218730,
+          "season": 1,
+          "episode": 1,
+          "title": "Mary & Mike S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3218731",
+          "episodeId": 3218731,
+          "season": 1,
+          "episode": 2,
+          "title": "Mary & Mike S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3218732",
+          "episodeId": 3218732,
+          "season": 1,
+          "episode": 3,
+          "title": "Mary & Mike S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3218733",
+          "episodeId": 3218733,
+          "season": 1,
+          "episode": 4,
+          "title": "Mary & Mike S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3218734",
+          "episodeId": 3218734,
+          "season": 1,
+          "episode": 5,
+          "title": "Mary & Mike S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3218735",
+          "episodeId": 3218735,
+          "season": 1,
+          "episode": 6,
+          "title": "Mary & Mike S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

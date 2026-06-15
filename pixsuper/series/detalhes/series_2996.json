@@ -1,0 +1,78 @@
+{
+  "id": "series_2996",
+  "type": "series",
+  "title": "Star Wars: Histórias dos Jedi",
+  "originalTitle": "Star Wars: Tales of the Jedi",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/feAh0yPlfegj6w5ts7lGxdZFk1v.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vp52Er9JebGn49GG37jFTwx15Lw.jpg",
+  "overview": "Histórias sobre os Jedi numa era antes da que conhecemos. Uma jornada pela vida de dois Jedi distintos: Ahsoka Tano e Conde Dookan. Eles serão testados enquanto tomam decisões que determinarão os destinos deles.",
+  "rating": 7.9,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 203085,
+  "xtream": {
+    "seriesId": 2996
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3253286",
+          "episodeId": 3253286,
+          "season": 1,
+          "episode": 1,
+          "title": "Star Wars: Histórias dos Jedi S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253287",
+          "episodeId": 3253287,
+          "season": 1,
+          "episode": 2,
+          "title": "Star Wars: Histórias dos Jedi S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253288",
+          "episodeId": 3253288,
+          "season": 1,
+          "episode": 3,
+          "title": "Star Wars: Histórias dos Jedi S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253289",
+          "episodeId": 3253289,
+          "season": 1,
+          "episode": 4,
+          "title": "Star Wars: Histórias dos Jedi S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253290",
+          "episodeId": 3253290,
+          "season": 1,
+          "episode": 5,
+          "title": "Star Wars: Histórias dos Jedi S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253291",
+          "episodeId": 3253291,
+          "season": 1,
+          "episode": 6,
+          "title": "Star Wars: Histórias dos Jedi S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

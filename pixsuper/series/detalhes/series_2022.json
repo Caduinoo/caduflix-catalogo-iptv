@@ -1,0 +1,77 @@
+{
+  "id": "series_2022",
+  "type": "series",
+  "title": "Elfos",
+  "originalTitle": "Nisser",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/hvg5F0t4zEI6mluMpt647nBAEep.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pNCZbQ5jvCbgoBfeoSx0l5dJhIM.jpg",
+  "overview": "Dois irmãos decidem tirar férias em uma ilha remota, e acabam descobrindo que elfos sanguinários aterrorizam os moradores do lugar.",
+  "rating": 6.9,
+  "genres": [
+    "drama",
+    "misterio",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 135864,
+  "xtream": {
+    "seriesId": 2022
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3225200",
+          "episodeId": 3225200,
+          "season": 1,
+          "episode": 1,
+          "title": "Elfos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225201",
+          "episodeId": 3225201,
+          "season": 1,
+          "episode": 2,
+          "title": "Elfos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225202",
+          "episodeId": 3225202,
+          "season": 1,
+          "episode": 3,
+          "title": "Elfos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225203",
+          "episodeId": 3225203,
+          "season": 1,
+          "episode": 4,
+          "title": "Elfos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225204",
+          "episodeId": 3225204,
+          "season": 1,
+          "episode": 5,
+          "title": "Elfos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225205",
+          "episodeId": 3225205,
+          "season": 1,
+          "episode": 6,
+          "title": "Elfos S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

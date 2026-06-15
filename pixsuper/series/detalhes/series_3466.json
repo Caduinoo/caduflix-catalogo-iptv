@@ -1,0 +1,66 @@
+{
+  "id": "series_3466",
+  "type": "series",
+  "title": "Ilhas Selvagens",
+  "originalTitle": "Wild Isles",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/iFLlplnPa0rJitXp6wCL5PW2vsr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pFP9F8tAkd28CF1W38he5n4Lj3H.jpg",
+  "overview": "Nesta série de cinco episódios, David Attenborough revela a vida selvagem e espetáculos naturais tão exóticos e espetaculares como todos os que ele já viu pelo mundo. De baleias assassinas e grandes revoadas de aves limícolas à vida íntima da borboleta-azul, narrativas valiosas de história natural revelam a importância da vida selvagem britânica, mas também reconhecem o desafio de protegê-las.",
+  "rating": 8.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 208230,
+  "xtream": {
+    "seriesId": 3466
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3264210",
+          "episodeId": 3264210,
+          "season": 1,
+          "episode": 1,
+          "title": "Ilhas Selvagens S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264211",
+          "episodeId": 3264211,
+          "season": 1,
+          "episode": 2,
+          "title": "Ilhas Selvagens S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264212",
+          "episodeId": 3264212,
+          "season": 1,
+          "episode": 3,
+          "title": "Ilhas Selvagens S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264213",
+          "episodeId": 3264213,
+          "season": 1,
+          "episode": 4,
+          "title": "Ilhas Selvagens S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264214",
+          "episodeId": 3264214,
+          "season": 1,
+          "episode": 5,
+          "title": "Ilhas Selvagens S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

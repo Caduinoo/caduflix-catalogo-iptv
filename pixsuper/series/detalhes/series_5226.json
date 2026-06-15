@@ -1,0 +1,78 @@
+{
+  "id": "series_5226",
+  "type": "series",
+  "title": "Parasyte: The Grey",
+  "originalTitle": "기생수: 더 그레이",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/uaYlFpBYbzi3trD32w2LHimiMzJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
+  "overview": "Parasitas não identificados dominam os corpos humanos de forma violenta e ganham cada vez mais poder. Agora, a humanidade precisa combater essa crescente ameaça.",
+  "rating": 7.417,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 208825,
+  "xtream": {
+    "seriesId": 5226
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3310838",
+          "episodeId": 3310838,
+          "season": 1,
+          "episode": 1,
+          "title": "Parasyte The Grey S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310839",
+          "episodeId": 3310839,
+          "season": 1,
+          "episode": 2,
+          "title": "Parasyte The Grey S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310840",
+          "episodeId": 3310840,
+          "season": 1,
+          "episode": 3,
+          "title": "Parasyte The Grey S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310841",
+          "episodeId": 3310841,
+          "season": 1,
+          "episode": 4,
+          "title": "Parasyte The Grey S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310842",
+          "episodeId": 3310842,
+          "season": 1,
+          "episode": 5,
+          "title": "Parasyte The Grey S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310843",
+          "episodeId": 3310843,
+          "season": 1,
+          "episode": 6,
+          "title": "Parasyte The Grey S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

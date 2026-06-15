@@ -1,0 +1,78 @@
+{
+  "id": "series_2561",
+  "type": "series",
+  "title": "Ms. Marvel",
+  "originalTitle": "Ms. Marvel",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/8Rzkt43GnMyTN0srvn3Z4u7C7VU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mfcLUWASJghU8MTNK38eYktfE83.jpg",
+  "overview": "Kamala Khan é uma adolescente muçulmana de Jersey City. Ela adora jogar videogames e escrever fanfictions, além de ser fã de super-heróis e ter uma imaginação sem limites – especialmente quando se trata da Capitã Marvel. Kamala sente que não se encaixa na escola e, às vezes, nem mesmo em casa. Mas um dia ela descobre que tem superpoderes como os heróis que sempre admirou... e a vida fica bem melhor com superpoderes, não é?",
+  "rating": 6.287,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura",
+    "comedia"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 92782,
+  "xtream": {
+    "seriesId": 2561
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3241957",
+          "episodeId": 3241957,
+          "season": 1,
+          "episode": 1,
+          "title": "Ms. Marvel S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241958",
+          "episodeId": 3241958,
+          "season": 1,
+          "episode": 2,
+          "title": "Ms. Marvel S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241959",
+          "episodeId": 3241959,
+          "season": 1,
+          "episode": 3,
+          "title": "Ms. Marvel S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241960",
+          "episodeId": 3241960,
+          "season": 1,
+          "episode": 4,
+          "title": "Ms. Marvel S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241961",
+          "episodeId": 3241961,
+          "season": 1,
+          "episode": 5,
+          "title": "Ms. Marvel S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3241962",
+          "episodeId": 3241962,
+          "season": 1,
+          "episode": 6,
+          "title": "Ms. Marvel S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

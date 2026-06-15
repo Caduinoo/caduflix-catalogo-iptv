@@ -1,0 +1,75 @@
+{
+  "id": "series_144",
+  "type": "series",
+  "title": "Somewhere Between",
+  "originalTitle": "Somewhere Between",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/seXbYwMR9fNqEYwaPPvPReZGiJQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bw9L4RbikDXdsiLrFMJ1eiZHE2z.jpg",
+  "overview": "Laura Price é uma produtora de telejornal que descobre que sua filha, Serena, será morta. Ela não conhece o assassino ou suspeita de seus motivos, mas sabe exatamente quando, como e onde o crime acontecerá. Apesar de todas essas informações, a protagonista terá grande dificuldade de manter sua filha a salvo, mas o destino terrível de Serena manterá Laura no encalço do criminoso.",
+  "rating": 6.489,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 70390,
+  "xtream": {
+    "seriesId": 144
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3138906",
+          "episodeId": 3138906,
+          "season": 1,
+          "episode": 1,
+          "title": "Somewhere Between S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3138907",
+          "episodeId": 3138907,
+          "season": 1,
+          "episode": 2,
+          "title": "Somewhere Between S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3138908",
+          "episodeId": 3138908,
+          "season": 1,
+          "episode": 3,
+          "title": "Somewhere Between S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3138909",
+          "episodeId": 3138909,
+          "season": 1,
+          "episode": 4,
+          "title": "Somewhere Between S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3138910",
+          "episodeId": 3138910,
+          "season": 1,
+          "episode": 5,
+          "title": "Somewhere Between S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3138911",
+          "episodeId": 3138911,
+          "season": 1,
+          "episode": 6,
+          "title": "Somewhere Between S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

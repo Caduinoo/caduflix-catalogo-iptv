@@ -1,0 +1,91 @@
+{
+  "id": "series_1013",
+  "type": "series",
+  "title": "Os Eleitos",
+  "originalTitle": "Os Eleitos",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/5rSQctPhQl2gp7cbtxSHrnzTIyP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iZ74Jk6tzLeT36q0l15zkCB38FF.jpg",
+  "overview": "A incrível história dos primórdios do programa espacial dos EUA, baseada no icônico best-seller de Tom Wolfe. No auge da Guerra Fria, a recém-criada NASA seleciona sete dos melhores pilotos d",
+  "rating": 7.2,
+  "genres": [
+    "drama",
+    "nacional"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 240992,
+  "xtream": {
+    "seriesId": 1013
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3181776",
+          "episodeId": 3181776,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Eleitos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3181777",
+          "episodeId": 3181777,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Eleitos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3181778",
+          "episodeId": 3181778,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Eleitos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3181779",
+          "episodeId": 3181779,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Eleitos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3181780",
+          "episodeId": 3181780,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Eleitos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3181781",
+          "episodeId": 3181781,
+          "season": 1,
+          "episode": 6,
+          "title": "Os Eleitos S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3181782",
+          "episodeId": 3181782,
+          "season": 1,
+          "episode": 7,
+          "title": "Os Eleitos S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3181783",
+          "episodeId": 3181783,
+          "season": 1,
+          "episode": 8,
+          "title": "Os Eleitos S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

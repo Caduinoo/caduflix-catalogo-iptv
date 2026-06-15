@@ -1,0 +1,34 @@
+{
+  "id": "movie_2762051",
+  "type": "movie",
+  "title": "María",
+  "originalTitle": "María",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/eN6MwOqqxx0AZeKALYE4hZEATYs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uh1lzwTVXu5JkWcLMdTrfgyMMqS.jpg",
+  "overview": "",
+  "rating": 10,
+  "runtime": 0,
+  "genres": [
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Luisa Gavasa",
+      "character": "María",
+      "profile": "https://image.tmdb.org/t/p/w185/wpw0QjiM1JhTVA7YlgBXOhQ30q6.jpg"
+    },
+    {
+      "name": "Lluís Marquès",
+      "character": "Bruno",
+      "profile": "https://image.tmdb.org/t/p/w185/hRCydNUx6FQatFyq93veV7UVGyp.jpg"
+    }
+  ],
+  "director": "Paco Ruiz",
+  "tmdbId": 1085312,
+  "xtream": {
+    "streamId": 2762051,
+    "containerExtension": "mp4"
+  }
+}

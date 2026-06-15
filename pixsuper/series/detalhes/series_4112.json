@@ -1,0 +1,59 @@
+{
+  "id": "series_4112",
+  "type": "series",
+  "title": "The Starter Wife",
+  "originalTitle": "The Starter Wife",
+  "year": 2007,
+  "poster": "https://image.tmdb.org/t/p/w500/tPfEIOHtVzL1h2dnjxM4TVE6uMo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ulyoO3REhX8xjZWVqgJnIq2v0fM.jpg",
+  "overview": "Tasha tem a casa perfeita, um marido amoroso e uma linda garotinha. Sua vida poderia ser perfeita se não fosse por Jen, a ex-mulher de seu marido que simplesmente não quer deixá-los sozinhos.",
+  "rating": 4.4,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 5900,
+  "xtream": {
+    "seriesId": 4112
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3281299",
+          "episodeId": 3281299,
+          "season": 1,
+          "episode": 1,
+          "title": "The Ex Wife [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281300",
+          "episodeId": 3281300,
+          "season": 1,
+          "episode": 2,
+          "title": "The Ex Wife [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281301",
+          "episodeId": 3281301,
+          "season": 1,
+          "episode": 3,
+          "title": "The Ex Wife [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3281302",
+          "episodeId": 3281302,
+          "season": 1,
+          "episode": 4,
+          "title": "The Ex Wife [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

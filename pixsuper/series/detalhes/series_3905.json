@@ -1,0 +1,51 @@
+{
+  "id": "series_3905",
+  "type": "series",
+  "title": "Johnny Depp x Amber Heard",
+  "originalTitle": "Depp V Heard",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/sw4iqBQKxpX4oPwnPjC5XGx7uuz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s7FuyFlBwsLXwKN6yq9IrwJsxKz.jpg",
+  "overview": "Mostrando os dois depoimentos lado a lado pela primeira vez, esta série explora o julgamento que abalou Hollywood e dominou a internet.",
+  "rating": 5.9,
+  "genres": [
+    "reality",
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 227381,
+  "xtream": {
+    "seriesId": 3905
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3276632",
+          "episodeId": 3276632,
+          "season": 1,
+          "episode": 1,
+          "title": "Johnny Depp x Amber Heard S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3276633",
+          "episodeId": 3276633,
+          "season": 1,
+          "episode": 2,
+          "title": "Johnny Depp x Amber Heard S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3276634",
+          "episodeId": 3276634,
+          "season": 1,
+          "episode": 3,
+          "title": "Johnny Depp x Amber Heard S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

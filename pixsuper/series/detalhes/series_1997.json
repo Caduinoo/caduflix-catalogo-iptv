@@ -1,0 +1,58 @@
+{
+  "id": "series_1997",
+  "type": "series",
+  "title": "Vidrados no Natal",
+  "originalTitle": "Blown Away: Christmas",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/fNrKfD2igYvN4nlW0yNACKqToHL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8YVXH8FATvrwxWvInkKXaUbHpvL.jpg",
+  "overview": "Cinco artistas estão de volta para encher a oficina do vidro com criações natalinas. Mas só um deles vai para casa com um generoso presente de Natal.",
+  "rating": 6,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 136101,
+  "xtream": {
+    "seriesId": 1997
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3224415",
+          "episodeId": 3224415,
+          "season": 1,
+          "episode": 1,
+          "title": "Vidrados no Natal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224416",
+          "episodeId": 3224416,
+          "season": 1,
+          "episode": 2,
+          "title": "Vidrados no Natal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224417",
+          "episodeId": 3224417,
+          "season": 1,
+          "episode": 3,
+          "title": "Vidrados no Natal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224418",
+          "episodeId": 3224418,
+          "season": 1,
+          "episode": 4,
+          "title": "Vidrados no Natal S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

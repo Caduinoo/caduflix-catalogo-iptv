@@ -1,0 +1,92 @@
+{
+  "id": "series_7984",
+  "type": "series",
+  "title": "O Caso Íris",
+  "originalTitle": "The Iris Affair",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/1IXvgIWxeudTHBPP3OEPsJOgvsh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gwfifpetC1DsL1OnzZFUgebGKib.jpg",
+  "overview": "Um gênio sem raízes, Iris Nixon, rouba um código enigmático de um charmoso filantropo e desaparece. Uma tensa contagem regressiva se inicia enquanto ela corre para desvendar o mistério do código.",
+  "rating": 6.4,
+  "genres": [
+    "crime",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 253368,
+  "xtream": {
+    "seriesId": 7984
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3375084",
+          "episodeId": 3375084,
+          "season": 1,
+          "episode": 1,
+          "title": "O Caso Iris [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375085",
+          "episodeId": 3375085,
+          "season": 1,
+          "episode": 2,
+          "title": "O Caso Iris [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375086",
+          "episodeId": 3375086,
+          "season": 1,
+          "episode": 3,
+          "title": "O Caso Iris [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375087",
+          "episodeId": 3375087,
+          "season": 1,
+          "episode": 4,
+          "title": "O Caso Iris [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375088",
+          "episodeId": 3375088,
+          "season": 1,
+          "episode": 5,
+          "title": "O Caso Iris [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375089",
+          "episodeId": 3375089,
+          "season": 1,
+          "episode": 6,
+          "title": "O Caso Iris [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375090",
+          "episodeId": 3375090,
+          "season": 1,
+          "episode": 7,
+          "title": "O Caso Iris [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3375091",
+          "episodeId": 3375091,
+          "season": 1,
+          "episode": 8,
+          "title": "O Caso Iris [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

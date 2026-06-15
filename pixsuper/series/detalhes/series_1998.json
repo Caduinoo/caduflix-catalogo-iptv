@@ -1,0 +1,83 @@
+{
+  "id": "series_1998",
+  "type": "series",
+  "title": "A Mais Pura Verdade",
+  "originalTitle": "True Story",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/r54v12tgVRMpuRQwA8xrSOSLPVM.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yGpmZYJ8fb543B3tIKjzcRHgJsX.jpg",
+  "overview": "Após uma noite desastrosa com o irmão, um comediante famoso vê sua vida virar de cabeça para baixo, correndo o risco de perder tudo o que conquistou.",
+  "rating": 7.062,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 134029,
+  "xtream": {
+    "seriesId": 1998
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3224419",
+          "episodeId": 3224419,
+          "season": 1,
+          "episode": 1,
+          "title": "A Mais Pura Verdade S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224420",
+          "episodeId": 3224420,
+          "season": 1,
+          "episode": 2,
+          "title": "A Mais Pura Verdade S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224421",
+          "episodeId": 3224421,
+          "season": 1,
+          "episode": 3,
+          "title": "A Mais Pura Verdade S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224422",
+          "episodeId": 3224422,
+          "season": 1,
+          "episode": 4,
+          "title": "A Mais Pura Verdade S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224423",
+          "episodeId": 3224423,
+          "season": 1,
+          "episode": 5,
+          "title": "A Mais Pura Verdade S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224424",
+          "episodeId": 3224424,
+          "season": 1,
+          "episode": 6,
+          "title": "A Mais Pura Verdade S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224425",
+          "episodeId": 3224425,
+          "season": 1,
+          "episode": 7,
+          "title": "A Mais Pura Verdade S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

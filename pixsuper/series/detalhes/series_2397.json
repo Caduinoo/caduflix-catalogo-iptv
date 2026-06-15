@@ -1,0 +1,60 @@
+{
+  "id": "series_2397",
+  "type": "series",
+  "title": "DMZ",
+  "originalTitle": "DMZ",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/wnug9DhsenurS5dWCypjZSRFnH6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fUjATGfykF0EU57DhMDkIXqQlc5.jpg",
+  "overview": "Em um futuro próximo, a América encontra-se dividida por uma violenta guerra civil que deixa Manhattan, uma zona desmilitarizada (DMZ), destruída e isolada do resto do mundo.",
+  "rating": 5.567,
+  "genres": [
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 113566,
+  "xtream": {
+    "seriesId": 2397
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3237761",
+          "episodeId": 3237761,
+          "season": 1,
+          "episode": 1,
+          "title": "DMZ S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237762",
+          "episodeId": 3237762,
+          "season": 1,
+          "episode": 2,
+          "title": "DMZ S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237763",
+          "episodeId": 3237763,
+          "season": 1,
+          "episode": 3,
+          "title": "DMZ S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237764",
+          "episodeId": 3237764,
+          "season": 1,
+          "episode": 4,
+          "title": "DMZ S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

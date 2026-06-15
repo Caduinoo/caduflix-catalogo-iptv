@@ -1,0 +1,66 @@
+{
+  "id": "series_1947",
+  "type": "series",
+  "title": "Um Planeta Perfeito",
+  "originalTitle": "A Perfect Planet",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/2kptTpwMIwikKsIV1HAIIReiEq5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vLmR4e0XP2ecCTFBzauNwQt40Bp.jpg",
+  "overview": "Em cinco episódios, a série explica como o planeta funciona, mostrando como forças da natureza - o clima, as correntes oceânicas, a energia solar e os vulcões – moldam e mantêm a grande diversidade de vida na terra.",
+  "rating": 8.7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 115194,
+  "xtream": {
+    "seriesId": 1947
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3222381",
+          "episodeId": 3222381,
+          "season": 1,
+          "episode": 1,
+          "title": "Um Planeta Perfeito S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222382",
+          "episodeId": 3222382,
+          "season": 1,
+          "episode": 2,
+          "title": "Um Planeta Perfeito S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222383",
+          "episodeId": 3222383,
+          "season": 1,
+          "episode": 3,
+          "title": "Um Planeta Perfeito S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222384",
+          "episodeId": 3222384,
+          "season": 1,
+          "episode": 4,
+          "title": "Um Planeta Perfeito S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222385",
+          "episodeId": 3222385,
+          "season": 1,
+          "episode": 5,
+          "title": "Um Planeta Perfeito S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

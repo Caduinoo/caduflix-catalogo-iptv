@@ -1,0 +1,80 @@
+{
+  "id": "series_7006",
+  "type": "series",
+  "title": "Star Wars: Histórias do Submundo",
+  "originalTitle": "Star Wars: Tales of the Underworld",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/phktSbh2mnaBw8qUgzTO8yK3jih.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hMMWtinDnIjvUeiWKmvpkmnxGnK.jpg",
+  "overview": "Dois bandidos devem passar pelo submundo perigoso da galáxia enquanto planejam seus destinos.",
+  "rating": 7.3,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura",
+    "crime",
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 288055,
+  "xtream": {
+    "seriesId": 7006
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3355271",
+          "episodeId": 3355271,
+          "season": 1,
+          "episode": 1,
+          "title": "Star Wars Historias do Submundo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355272",
+          "episodeId": 3355272,
+          "season": 1,
+          "episode": 2,
+          "title": "Star Wars Historias do Submundo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355273",
+          "episodeId": 3355273,
+          "season": 1,
+          "episode": 3,
+          "title": "Star Wars Historias do Submundo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355274",
+          "episodeId": 3355274,
+          "season": 1,
+          "episode": 4,
+          "title": "Star Wars Historias do Submundo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355275",
+          "episodeId": 3355275,
+          "season": 1,
+          "episode": 5,
+          "title": "Star Wars Historias do Submundo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355276",
+          "episodeId": 3355276,
+          "season": 1,
+          "episode": 6,
+          "title": "Star Wars Historias do Submundo S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

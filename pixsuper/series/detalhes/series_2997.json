@@ -1,0 +1,58 @@
+{
+  "id": "series_2997",
+  "type": "series",
+  "title": "Terra Tempestuosa",
+  "originalTitle": "Earthstorm",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/kfquSOmQxKS1c9ROj9kKiOwCLq4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8W7lcxN51SiubiwXvCOYTyG4IoZ.jpg",
+  "overview": "Caçadores de tempestades, sobreviventes e profissionais de resgate contam suas experiências eletrizantes com vulcões, tornados, furacões e terremotos.",
+  "rating": 7.1,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 211942,
+  "xtream": {
+    "seriesId": 2997
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3253292",
+          "episodeId": 3253292,
+          "season": 1,
+          "episode": 1,
+          "title": "Terra Tempestuosa S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253293",
+          "episodeId": 3253293,
+          "season": 1,
+          "episode": 2,
+          "title": "Terra Tempestuosa S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253294",
+          "episodeId": 3253294,
+          "season": 1,
+          "episode": 3,
+          "title": "Terra Tempestuosa S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3253295",
+          "episodeId": 3253295,
+          "season": 1,
+          "episode": 4,
+          "title": "Terra Tempestuosa S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

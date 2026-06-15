@@ -1,0 +1,106 @@
+{
+  "id": "series_7194",
+  "type": "series",
+  "title": "News Anchor",
+  "originalTitle": "キャスター",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/rlV1A5Up6ADVF28s4fCdAU8EAXZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sShPLA286IF7Oykws3dxeF572ik.jpg",
+  "overview": "Promovido a âncora de um programa com grande queda de audiência, um jornalista testa todos os limites para investigar e expor verdades que nem todos querem enxergar.",
+  "rating": 7.7,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 285916,
+  "xtream": {
+    "seriesId": 7194
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3360247",
+          "episodeId": 3360247,
+          "season": 1,
+          "episode": 1,
+          "title": "News Anchor [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360248",
+          "episodeId": 3360248,
+          "season": 1,
+          "episode": 2,
+          "title": "News Anchor [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360249",
+          "episodeId": 3360249,
+          "season": 1,
+          "episode": 3,
+          "title": "News Anchor [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360250",
+          "episodeId": 3360250,
+          "season": 1,
+          "episode": 4,
+          "title": "News Anchor [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360251",
+          "episodeId": 3360251,
+          "season": 1,
+          "episode": 5,
+          "title": "News Anchor [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360252",
+          "episodeId": 3360252,
+          "season": 1,
+          "episode": 6,
+          "title": "News Anchor [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360253",
+          "episodeId": 3360253,
+          "season": 1,
+          "episode": 7,
+          "title": "News Anchor [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360254",
+          "episodeId": 3360254,
+          "season": 1,
+          "episode": 8,
+          "title": "News Anchor [L] S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360255",
+          "episodeId": 3360255,
+          "season": 1,
+          "episode": 9,
+          "title": "News Anchor [L] S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3360256",
+          "episodeId": 3360256,
+          "season": 1,
+          "episode": 10,
+          "title": "News Anchor [L] S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

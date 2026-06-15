@@ -1,0 +1,40 @@
+{
+  "id": "movie_2773525",
+  "type": "movie",
+  "title": "Revenger",
+  "originalTitle": "Revenger",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/lEMZMuYNwhE0eTwWR9luYECKtGV.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 15,
+  "genres": [
+    "comedia",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Adrian Stokes",
+      "character": "Tony",
+      "profile": ""
+    },
+    {
+      "name": "David Wilson",
+      "character": "Robin the hill-walker",
+      "profile": ""
+    },
+    {
+      "name": "Russell Shaw",
+      "character": "Gavin",
+      "profile": "https://image.tmdb.org/t/p/w185/4Of8J2eQvduPFzXNRlarwVLgYBC.jpg"
+    }
+  ],
+  "director": "Owain Paciuszko",
+  "tmdbId": 1146994,
+  "xtream": {
+    "streamId": 2773525,
+    "containerExtension": "mp4"
+  }
+}

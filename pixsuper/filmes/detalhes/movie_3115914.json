@@ -1,0 +1,40 @@
+{
+  "id": "movie_3115914",
+  "type": "movie",
+  "title": "A Escolha de Summer",
+  "originalTitle": "Summer at Charlotte's",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/vPJsbtWuTvmBaINSD4Khbnpyobv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qnbDiFEXCzWjl9w7sqNtP2GrpXL.jpg",
+  "overview": "Para escapar da cidade grande, Summer decide passar algumas semanas na casa de sua avó, onde ela redescobrirá sua verdadeira identidade. Agora Summer precisa decidir se deseja voltar a viver sua antiga vida ou seguir os seus instintos.",
+  "rating": 5.2,
+  "runtime": 90,
+  "genres": [
+    "comedia",
+    "drama",
+    "romance"
+  ],
+  "cast": [
+    {
+      "name": "Lucy Hill",
+      "character": "Summer",
+      "profile": "https://image.tmdb.org/t/p/w185/m8vpnUunyvkpM1fPRZ4Gz12egvz.jpg"
+    },
+    {
+      "name": "Rylan Lukey",
+      "character": "Young Dev",
+      "profile": "https://image.tmdb.org/t/p/w185/kaMmw8IcFLcOZBcZcJoQb3T6MR.jpg"
+    },
+    {
+      "name": "Jill Frappier",
+      "character": "Charlotte",
+      "profile": "https://image.tmdb.org/t/p/w185/946TPr7589zniVfNGU8Fe3x3fKc.jpg"
+    }
+  ],
+  "director": "Avi Federgreen",
+  "tmdbId": 1032377,
+  "xtream": {
+    "streamId": 3115914,
+    "containerExtension": "mp4"
+  }
+}

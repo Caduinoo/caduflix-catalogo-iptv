@@ -1,0 +1,83 @@
+{
+  "id": "movie_2774936",
+  "type": "movie",
+  "title": "Un actor malo",
+  "originalTitle": "Un actor malo",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/sBASNWe649hZ1GEYsVRRjnZ110U.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hBPiwjiNCyI08gftr2IxOX3LYPg.jpg",
+  "overview": "Em um set de filmagem, uma atriz acusa seu colega de má conduta durante uma cena íntima. Enquanto ela move uma ação judicial, a produção se esforça para conter as consequências e evitar um escândalo público.",
+  "rating": 7.5,
+  "runtime": 129,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Alfonso Dosal",
+      "character": "Daniel Zavala el Actor",
+      "profile": "https://image.tmdb.org/t/p/w185/rU5OxxV1lsJuhUM1n5TSWdZSb8S.jpg"
+    },
+    {
+      "name": "Fiona Palomo",
+      "character": "Sandra Navarro la Actriz",
+      "profile": "https://image.tmdb.org/t/p/w185/fWA3iIpU1MH43J0ke2ui6vGbJ5R.jpg"
+    },
+    {
+      "name": "Gerardo Trejoluna",
+      "character": "Gerardo Villa el Director",
+      "profile": "https://image.tmdb.org/t/p/w185/fJzcjj3JrARh3iQEx5lMbCEfRKq.jpg"
+    },
+    {
+      "name": "Juan Pablo de Santiago",
+      "character": "Luis Medina el Abogado",
+      "profile": "https://image.tmdb.org/t/p/w185/cdhzvOui6Q5CmiXPFKGt7wuBH7y.jpg"
+    },
+    {
+      "name": "Ana Karina Guevara",
+      "character": "Patricia Morales la Abogada",
+      "profile": "https://image.tmdb.org/t/p/w185/q5jYQh7c1teAglDDjsItnsmKBnQ.jpg"
+    },
+    {
+      "name": "Karla Rodríguez Coronado",
+      "character": "Regina Torres la Asistente de Dirección",
+      "profile": "https://image.tmdb.org/t/p/w185/ll0jiVSdiKB3kW6k3DbmwIOUzOP.jpg"
+    },
+    {
+      "name": "Mónica Jiménez",
+      "character": "Mónica la Productora",
+      "profile": ""
+    },
+    {
+      "name": "Patricia Soto",
+      "character": "Ximena la Vestuarista",
+      "profile": ""
+    },
+    {
+      "name": "Luis José Sevilla",
+      "character": "Fabián el Representante",
+      "profile": ""
+    },
+    {
+      "name": "Erick Israel Consuelo",
+      "character": "Bruno el Second",
+      "profile": ""
+    },
+    {
+      "name": "Solana Azulay",
+      "character": "Lorena la Esposa",
+      "profile": ""
+    },
+    {
+      "name": "Carola Vázquez",
+      "character": "Lola la Maquillista",
+      "profile": ""
+    }
+  ],
+  "director": "Jorge Cuchí",
+  "tmdbId": 1111869,
+  "xtream": {
+    "streamId": 2774936,
+    "containerExtension": "mp4"
+  }
+}

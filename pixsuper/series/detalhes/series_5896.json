@@ -1,0 +1,66 @@
+{
+  "id": "series_5896",
+  "type": "series",
+  "title": "Heróis da Bíblia",
+  "originalTitle": "Heróis da Bíblia",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/ncq5JD1MARfT5gmdXpiaBtrJ1qh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2SRzYSLun3G85jS3UJAHDEe0geW.jpg",
+  "overview": "A Bíblia é uma compilação das Escrituras Sagradas, que mostra a história de homens e mulheres que foram escolhidos pelo Próprio Deus. Conheça mais sobre suas trajetórias e entenda por que eles são conhecidos como heróis da Bíblia!",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 271603,
+  "xtream": {
+    "seriesId": 5896
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3329307",
+          "episodeId": 3329307,
+          "season": 1,
+          "episode": 1,
+          "title": "Herois da Biblia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329308",
+          "episodeId": 3329308,
+          "season": 1,
+          "episode": 2,
+          "title": "Herois da Biblia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329309",
+          "episodeId": 3329309,
+          "season": 1,
+          "episode": 3,
+          "title": "Herois da Biblia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329310",
+          "episodeId": 3329310,
+          "season": 1,
+          "episode": 4,
+          "title": "Herois da Biblia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329311",
+          "episodeId": 3329311,
+          "season": 1,
+          "episode": 5,
+          "title": "Herois da Biblia S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

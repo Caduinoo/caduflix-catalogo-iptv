@@ -1,0 +1,75 @@
+{
+  "id": "series_428",
+  "type": "series",
+  "title": "O Toque do Silêncio",
+  "originalTitle": "The Last Post",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/iQPE4wB39N4oYM0dctVeI1bqAb5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/UNbIUhbc891gHunUi4GQLB5PNe.jpg",
+  "overview": "Militares britânicos vivem com mulheres e filhos no Iêmen, em 1965, para combater o levante da população local. Além dos confrontos, eles precisam superar as questões familiares.",
+  "rating": 6.6,
+  "genres": [
+    "drama",
+    "guerra"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 74253,
+  "xtream": {
+    "seriesId": 428
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3150798",
+          "episodeId": 3150798,
+          "season": 1,
+          "episode": 1,
+          "title": "O Toque Do Silencio S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150799",
+          "episodeId": 3150799,
+          "season": 1,
+          "episode": 2,
+          "title": "O Toque Do Silencio S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150800",
+          "episodeId": 3150800,
+          "season": 1,
+          "episode": 3,
+          "title": "O Toque Do Silencio S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150801",
+          "episodeId": 3150801,
+          "season": 1,
+          "episode": 4,
+          "title": "O Toque Do Silencio S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150802",
+          "episodeId": 3150802,
+          "season": 1,
+          "episode": 5,
+          "title": "O Toque Do Silencio S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3150803",
+          "episodeId": 3150803,
+          "season": 1,
+          "episode": 6,
+          "title": "O Toque Do Silencio S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

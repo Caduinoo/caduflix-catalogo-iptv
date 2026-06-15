@@ -1,0 +1,36 @@
+{
+  "id": "movie_2777759",
+  "type": "movie",
+  "title": "Ursa",
+  "originalTitle": "Ursa",
+  "year": null,
+  "poster": "https://image.tmdb.org/t/p/w500/vFML0kePxsUsED1ymgbgmA31tIb.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 8,
+  "genres": [
+    "terror",
+    "suspense",
+    "thriller",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Emily Gerber",
+      "character": "Daughter",
+      "profile": ""
+    },
+    {
+      "name": "Jamie Day",
+      "character": "Father",
+      "profile": "https://image.tmdb.org/t/p/w185/cCxtP1Q7wtuEnLz4bkQUAKkxejj.jpg"
+    }
+  ],
+  "director": "Jake Hirsch",
+  "tmdbId": 676770,
+  "xtream": {
+    "streamId": 2777759,
+    "containerExtension": "mp4"
+  }
+}

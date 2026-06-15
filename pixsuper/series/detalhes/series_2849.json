@@ -1,0 +1,58 @@
+{
+  "id": "series_2849",
+  "type": "series",
+  "title": "A Artista da Enganação",
+  "originalTitle": "Wanna",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/4MQN4YkyJNw17RxziTzEvzwxIXs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yLg78hbxldTCDWj4UfKp1E8J93b.jpg",
+  "overview": "Do sucesso na TV aos golpes e à prisão, conheça a história de Wanna Marchi e Stefania Nobile, vendedoras de cremes de emagrecimento que viraram vigaristas.",
+  "rating": 6.3,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 205657,
+  "xtream": {
+    "seriesId": 2849
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3249572",
+          "episodeId": 3249572,
+          "season": 1,
+          "episode": 1,
+          "title": "A Artista da Enganação S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249573",
+          "episodeId": 3249573,
+          "season": 1,
+          "episode": 2,
+          "title": "A Artista da Enganação S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249574",
+          "episodeId": 3249574,
+          "season": 1,
+          "episode": 3,
+          "title": "A Artista da Enganação S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249575",
+          "episodeId": 3249575,
+          "season": 1,
+          "episode": 4,
+          "title": "A Artista da Enganação S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

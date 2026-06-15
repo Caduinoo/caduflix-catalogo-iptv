@@ -1,0 +1,78 @@
+{
+  "id": "series_5206",
+  "type": "series",
+  "title": "ARK: A Série Animada",
+  "originalTitle": "ARK: The Animated Series",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/3qzBCXJLifxund1QMa8BiXmH3xp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wbwvYUCr0dIZYISXPWFSqQiJfsO.jpg",
+  "overview": "Uma paleontóloga do século 21 vê-se ressuscitada em uma ilha misteriosa, habitada por dinossauros e outras criaturas já extintas, e luta para sobreviver!",
+  "rating": 7.839,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 123625,
+  "xtream": {
+    "seriesId": 5206
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3310487",
+          "episodeId": 3310487,
+          "season": 1,
+          "episode": 1,
+          "title": "ARK The Animated Series [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310488",
+          "episodeId": 3310488,
+          "season": 1,
+          "episode": 2,
+          "title": "ARK The Animated Series [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310489",
+          "episodeId": 3310489,
+          "season": 1,
+          "episode": 3,
+          "title": "ARK The Animated Series [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310490",
+          "episodeId": 3310490,
+          "season": 1,
+          "episode": 4,
+          "title": "ARK The Animated Series [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310491",
+          "episodeId": 3310491,
+          "season": 1,
+          "episode": 5,
+          "title": "ARK The Animated Series [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310492",
+          "episodeId": 3310492,
+          "season": 1,
+          "episode": 6,
+          "title": "ARK The Animated Series [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

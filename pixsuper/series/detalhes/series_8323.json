@@ -1,0 +1,51 @@
+{
+  "id": "series_8323",
+  "type": "series",
+  "title": "Vozes do Rio Pinheiros",
+  "originalTitle": "Vozes do Rio Pinheiros",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/Ai4LYFsQIOsrl7IGRFvwn1q5uWX.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Esta série vai mostrar como o Pinheiros vem se recuperando. O sonho de paulistanos com uma cidade mais verde e o trabalho árduo de equipes comprometidas com o bem-estar e a saúde ambiental da população para que seja possível usufruir de um rio que não estampe apenas reportagens sobre os problemas da metrópole, mas que, seja um exemplo de recuperação, transformando a vida da cidade de São Paulo.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 311017,
+  "xtream": {
+    "seriesId": 8323
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3382269",
+          "episodeId": 3382269,
+          "season": 1,
+          "episode": 1,
+          "title": "Vozes do Rio Pinheiros S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3382270",
+          "episodeId": 3382270,
+          "season": 1,
+          "episode": 2,
+          "title": "Vozes do Rio Pinheiros S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3382271",
+          "episodeId": 3382271,
+          "season": 1,
+          "episode": 3,
+          "title": "Vozes do Rio Pinheiros S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

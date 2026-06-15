@@ -1,0 +1,50 @@
+{
+  "id": "series_3567",
+  "type": "series",
+  "title": "Glee: O Preço da Fama",
+  "originalTitle": "The Price of Glee",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/m1tb0fmCxStxGtPskQg4R2eAtki.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zZEsD2jRHq10eS0LS0NJqBe3Fz1.jpg",
+  "overview": "Elenco e equipe técnica de \"Glee\" revelam verdades surpreendentes sobre os bastidores da série e também comentam as tragédias que se abateram sobre algumas das principais estrelas do programa.",
+  "rating": 5.9,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 218502,
+  "xtream": {
+    "seriesId": 3567
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3266825",
+          "episodeId": 3266825,
+          "season": 1,
+          "episode": 1,
+          "title": "Glee: O Preço da Fama S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3266826",
+          "episodeId": 3266826,
+          "season": 1,
+          "episode": 2,
+          "title": "Glee: O Preço da Fama S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3266827",
+          "episodeId": 3266827,
+          "season": 1,
+          "episode": 3,
+          "title": "Glee: O Preço da Fama S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

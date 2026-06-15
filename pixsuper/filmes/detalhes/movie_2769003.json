@@ -1,0 +1,33 @@
+{
+  "id": "movie_2769003",
+  "type": "movie",
+  "title": "Cinderela",
+  "originalTitle": "Cinderela",
+  "year": 2011,
+  "poster": "https://image.tmdb.org/t/p/w500/97uGphrufb7Yr2sP6EmHqPrE3Vc.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 11,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Clara Choveaux",
+      "character": "Luiza",
+      "profile": "https://image.tmdb.org/t/p/w185/isP7hCRXQB4iqWrlbJUFz3I6fQE.jpg"
+    },
+    {
+      "name": "René Ferrer",
+      "character": "Rico",
+      "profile": ""
+    }
+  ],
+  "director": "Magali Magistry",
+  "tmdbId": 702896,
+  "xtream": {
+    "streamId": 2769003,
+    "containerExtension": "mp4"
+  }
+}

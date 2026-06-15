@@ -1,0 +1,42 @@
+{
+  "id": "series_5194",
+  "type": "series",
+  "title": "STEVE! (martin): documentário em 2 partes",
+  "originalTitle": "STEVE! (martin) a documentary in 2 pieces",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/f9V1GuMo0rImbKo5P3FgnsK54bI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6xNZM4falw86qINarl7XsDn8Ojt.jpg",
+  "overview": "Steve Martin é uma das figuras mais amadas e enigmáticas do mundo do entretenimento. Conheça a extraordinária história dele a partir de dois pontos de vistas distintos — o passado e o presente — enquanto Steve Martin reflete sobre como o início de sua carreira levou a uma vida inesperadamente completa.",
+  "rating": 7.846,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 248287,
+  "xtream": {
+    "seriesId": 5194
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3310226",
+          "episodeId": 3310226,
+          "season": 1,
+          "episode": 1,
+          "title": "STEVE (martin) documentario em 2 partes [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310227",
+          "episodeId": 3310227,
+          "season": 1,
+          "episode": 2,
+          "title": "STEVE (martin) documentario em 2 partes [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

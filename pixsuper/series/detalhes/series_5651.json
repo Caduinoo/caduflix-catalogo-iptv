@@ -1,0 +1,77 @@
+{
+  "id": "series_5651",
+  "type": "series",
+  "title": "Northern Exposure",
+  "originalTitle": "Northern Exposure",
+  "year": 1990,
+  "poster": "https://image.tmdb.org/t/p/w500/BUSw61C2kNoMuKFQTamIgqMC5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fi2vspZ6xuHZF1kU8wVXmYzYCMi.jpg",
+  "overview": "",
+  "rating": 7.9,
+  "genres": [
+    "comedia",
+    "drama",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 4396,
+  "xtream": {
+    "seriesId": 5651
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3321678",
+          "episodeId": 3321678,
+          "season": 1,
+          "episode": 1,
+          "title": "Exposure [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3321679",
+          "episodeId": 3321679,
+          "season": 1,
+          "episode": 2,
+          "title": "Exposure [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3321680",
+          "episodeId": 3321680,
+          "season": 1,
+          "episode": 3,
+          "title": "Exposure [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3321681",
+          "episodeId": 3321681,
+          "season": 1,
+          "episode": 4,
+          "title": "Exposure [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3321682",
+          "episodeId": 3321682,
+          "season": 1,
+          "episode": 5,
+          "title": "Exposure [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3321683",
+          "episodeId": 3321683,
+          "season": 1,
+          "episode": 6,
+          "title": "Exposure [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

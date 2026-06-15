@@ -1,0 +1,43 @@
+{
+  "id": "movie_2768878",
+  "type": "movie",
+  "title": "Carter",
+  "originalTitle": "Carter",
+  "year": 2009,
+  "poster": "https://image.tmdb.org/t/p/w500/xJV3G4olfjfSMkvfi2TP2PzkdmG.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 4,
+  "runtime": 80,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Mark Robert Ryan",
+      "character": "Jebadiah",
+      "profile": ""
+    },
+    {
+      "name": "Julia Porter Howe",
+      "character": "Carter",
+      "profile": ""
+    },
+    {
+      "name": "Richard Buonagurio",
+      "character": "Donald Lancer",
+      "profile": "https://image.tmdb.org/t/p/w185/sKbGN5mFodrMLAwTB3WrOjyRYU8.jpg"
+    },
+    {
+      "name": "Dee Herlihy",
+      "character": "Maggie",
+      "profile": "https://image.tmdb.org/t/p/w185/cO9410DTRixxkcwejT1gaSGLpLc.jpg"
+    }
+  ],
+  "director": "Ryan Andrew Balas",
+  "tmdbId": 477025,
+  "xtream": {
+    "streamId": 2768878,
+    "containerExtension": "mp4"
+  }
+}

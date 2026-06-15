@@ -1,0 +1,75 @@
+{
+  "id": "series_919",
+  "type": "series",
+  "title": "Masaba Masaba",
+  "originalTitle": "मसाबा मसाबा",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/ffu1aIhHffNLnanapqSnFuU9TuI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s7EDgcCT3B5xW43q4cNiiA7fE4Y.jpg",
+  "overview": "Neena e Masaba Gupta, mãe e filha na vida real, estrelam esta divertida série fictícia sobre a vida no mundo da moda e do cinema.",
+  "rating": 6.3,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 107451,
+  "xtream": {
+    "seriesId": 919
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3178061",
+          "episodeId": 3178061,
+          "season": 1,
+          "episode": 1,
+          "title": "Masaba Masaba [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3178062",
+          "episodeId": 3178062,
+          "season": 1,
+          "episode": 2,
+          "title": "Masaba Masaba [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3178063",
+          "episodeId": 3178063,
+          "season": 1,
+          "episode": 3,
+          "title": "Masaba Masaba [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3178064",
+          "episodeId": 3178064,
+          "season": 1,
+          "episode": 4,
+          "title": "Masaba Masaba [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3178065",
+          "episodeId": 3178065,
+          "season": 1,
+          "episode": 5,
+          "title": "Masaba Masaba [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3178066",
+          "episodeId": 3178066,
+          "season": 1,
+          "episode": 6,
+          "title": "Masaba Masaba [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

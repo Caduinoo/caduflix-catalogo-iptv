@@ -1,0 +1,56 @@
+{
+  "id": "series_5061",
+  "type": "series",
+  "title": "Me Hereafter",
+  "originalTitle": "Me Hereafter",
+  "year": 2024,
+  "poster": "http://image.tmdb.org/t/p/w300/6YqDpeawmkvveLtqSMnBXBSnC57.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "As vozes das vítimas ganham vida nesta série de crimes reais. Cheio de reviravoltas intrincadas, a verdade é revelada pelo ponto de vista da vítima.",
+  "rating": 0,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 5061
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3307692",
+          "episodeId": 3307692,
+          "season": 1,
+          "episode": 1,
+          "title": "Me Hereafter [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307693",
+          "episodeId": 3307693,
+          "season": 1,
+          "episode": 2,
+          "title": "Me Hereafter [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307694",
+          "episodeId": 3307694,
+          "season": 1,
+          "episode": 3,
+          "title": "Me Hereafter [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307695",
+          "episodeId": 3307695,
+          "season": 1,
+          "episode": 4,
+          "title": "Me Hereafter [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

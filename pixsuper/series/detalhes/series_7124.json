@@ -1,0 +1,82 @@
+{
+  "id": "series_7124",
+  "type": "series",
+  "title": "Unicórnio Implacável",
+  "originalTitle": "สงคราม ส่งด่วน",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/rNd7LcQjsTLACZy33TAucmsyzes.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/65Ku5mNJIoBa6gxMsRpsjDPpz6s.jpg",
+  "overview": "Um jovem empreendedor cria uma startup que traz várias novas oportunidades, mas também muitos inimigos poderosos.",
+  "rating": 8.879,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 283776,
+  "xtream": {
+    "seriesId": 7124
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3357643",
+          "episodeId": 3357643,
+          "season": 1,
+          "episode": 1,
+          "title": "Unicornio Implacavel S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357644",
+          "episodeId": 3357644,
+          "season": 1,
+          "episode": 2,
+          "title": "Unicornio Implacavel S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357645",
+          "episodeId": 3357645,
+          "season": 1,
+          "episode": 3,
+          "title": "Unicornio Implacavel S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357646",
+          "episodeId": 3357646,
+          "season": 1,
+          "episode": 4,
+          "title": "Unicornio Implacavel S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357647",
+          "episodeId": 3357647,
+          "season": 1,
+          "episode": 5,
+          "title": "Unicornio Implacavel S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357648",
+          "episodeId": 3357648,
+          "season": 1,
+          "episode": 6,
+          "title": "Unicornio Implacavel S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3357649",
+          "episodeId": 3357649,
+          "season": 1,
+          "episode": 7,
+          "title": "Unicornio Implacavel S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

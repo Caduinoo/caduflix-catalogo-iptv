@@ -1,0 +1,34 @@
+{
+  "id": "movie_2774163",
+  "type": "movie",
+  "title": "The American Dream",
+  "originalTitle": "The American Dream",
+  "year": 2010,
+  "poster": "https://image.tmdb.org/t/p/w500/urh3IoMjRKv6JsPCPRLJ3LLfCAP.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 6.2,
+  "runtime": 30,
+  "genres": [
+    "comedia",
+    "animacao"
+  ],
+  "cast": [
+    {
+      "name": "Jess Harnell",
+      "character": "(voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+    },
+    {
+      "name": "D. C. Douglas",
+      "character": "(voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/suXu7UYETw3LINlZjedvpxbwtnD.jpg"
+    }
+  ],
+  "director": "Tad Lumpkin",
+  "tmdbId": 77826,
+  "xtream": {
+    "streamId": 2774163,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "series_1981",
+  "type": "series",
+  "title": "Gavião Arqueiro",
+  "originalTitle": "Hawkeye",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/yPRl1dvc0FHi8Syy1XhsoMumw9J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+  "overview": "O ex-vingador Clint Barton tem uma missão aparentemente simples: voltar para sua família no Natal. Será possível? Talvez com a ajuda de Kate Bishop, uma arqueira de 22 anos que sonha em se tornar uma super-heroína. Os dois são forçados a trabalhar juntos quando uma presença do passado de Barton ameaça descarrilar muito mais do que o espírito festivo.",
+  "rating": 7.789,
+  "genres": [
+    "drama",
+    "comedia",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 88329,
+  "xtream": {
+    "seriesId": 1981
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3224220",
+          "episodeId": 3224220,
+          "season": 1,
+          "episode": 1,
+          "title": "Gavião Arqueiro S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224221",
+          "episodeId": 3224221,
+          "season": 1,
+          "episode": 2,
+          "title": "Gavião Arqueiro S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224222",
+          "episodeId": 3224222,
+          "season": 1,
+          "episode": 3,
+          "title": "Gavião Arqueiro S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224223",
+          "episodeId": 3224223,
+          "season": 1,
+          "episode": 4,
+          "title": "Gavião Arqueiro S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224224",
+          "episodeId": 3224224,
+          "season": 1,
+          "episode": 5,
+          "title": "Gavião Arqueiro S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224225",
+          "episodeId": 3224225,
+          "season": 1,
+          "episode": 6,
+          "title": "Gavião Arqueiro S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

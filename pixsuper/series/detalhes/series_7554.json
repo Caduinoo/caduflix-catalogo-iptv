@@ -1,0 +1,51 @@
+{
+  "id": "series_7554",
+  "type": "series",
+  "title": "Filhos de Cister",
+  "originalTitle": "Filhos de Cister",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/6DNe6KUoiNakoR4fZP0IpKJRiYm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cYnbuYshqYB9oQ1YfcF86Zc6Iq7.jpg",
+  "overview": "Um retrato da vida dos monges cistercienses do Mosteiro Nossa Senhora de Nazaré, no sul do Brasil. Suas histórias pessoais, dificuldades, e práticas devocionais são apresentadas nos três episódios da série.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 252009,
+  "xtream": {
+    "seriesId": 7554
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3367274",
+          "episodeId": 3367274,
+          "season": 1,
+          "episode": 1,
+          "title": "Filhos de Cister S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367275",
+          "episodeId": 3367275,
+          "season": 1,
+          "episode": 2,
+          "title": "Filhos de Cister S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3367276",
+          "episodeId": 3367276,
+          "season": 1,
+          "episode": 3,
+          "title": "Filhos de Cister S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

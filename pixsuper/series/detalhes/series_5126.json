@@ -1,0 +1,75 @@
+{
+  "id": "series_5126",
+  "type": "series",
+  "title": "Crime em Tempo Real",
+  "originalTitle": "Real Time Crime",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/l1FkdVhded2l4qLa16PSU9Z7EU7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rU15hist9z9hY91O4Eux7TWYiUy.jpg",
+  "overview": "Com a tecnologia moderna ao alcance de todos, a possibilidade de resolver os casos aumentou e este show provará exatamente o porquê. Apresentando histórias verdadeiras de alta octanagem com riscos de vida e morte, cada episódio inclui imagens de CCTV e entrevistas com a polícia resolvendo os crimes, testemunhas e as famílias das vítimas.",
+  "rating": 5.5,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 216516,
+  "xtream": {
+    "seriesId": 5126
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308828",
+          "episodeId": 3308828,
+          "season": 1,
+          "episode": 1,
+          "title": "Crime em Tempo Real S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308829",
+          "episodeId": 3308829,
+          "season": 1,
+          "episode": 2,
+          "title": "Crime em Tempo Real S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308830",
+          "episodeId": 3308830,
+          "season": 1,
+          "episode": 3,
+          "title": "Crime em Tempo Real S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308831",
+          "episodeId": 3308831,
+          "season": 1,
+          "episode": 4,
+          "title": "Crime em Tempo Real S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308832",
+          "episodeId": 3308832,
+          "season": 1,
+          "episode": 5,
+          "title": "Crime em Tempo Real S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308833",
+          "episodeId": 3308833,
+          "season": 1,
+          "episode": 6,
+          "title": "Crime em Tempo Real S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "movie_2753600",
+  "type": "movie",
+  "title": "The Real Jurassic Park",
+  "originalTitle": "The Real Jurassic Park",
+  "year": 1993,
+  "poster": "https://image.tmdb.org/t/p/w500/vdH1Gk5V5R9cXILsoLmYol6OYLW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yftxycsUOH7Qy3cmFcjL6iiUyA3.jpg",
+  "overview": "",
+  "rating": 5.8,
+  "runtime": 55,
+  "genres": [
+    "documentario",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Jeff Goldblum",
+      "character": "Narrator",
+      "profile": "https://image.tmdb.org/t/p/w185/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+    }
+  ],
+  "director": "David Dugan",
+  "tmdbId": 331984,
+  "xtream": {
+    "streamId": 2753600,
+    "containerExtension": "mp4"
+  }
+}

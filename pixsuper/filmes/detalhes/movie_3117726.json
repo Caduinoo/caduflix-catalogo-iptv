@@ -1,0 +1,44 @@
+{
+  "id": "movie_3117726",
+  "type": "movie",
+  "title": "A Clínica",
+  "originalTitle": "Γυάλα",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/aZq8Fk6ui2NxTZzlbBF25AO45ZA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uMbigm2zSNBptyRUmVyto1PrbLm.jpg",
+  "overview": "Após um acidente, uma mulher com amnésia percebe que está em uma clínica misteriosa, em uma ilha remota. Rapidamente, ela começa a descobrir sua terrível natureza.",
+  "rating": 3.9,
+  "runtime": 73,
+  "genres": [
+    "misterio",
+    "suspense"
+  ],
+  "cast": [
+    {
+      "name": "Μαρία Δαμασιώτη",
+      "character": "φωτεινή",
+      "profile": "https://image.tmdb.org/t/p/w185/2BXUcxEryqQbABcrdL91qPSTeQS.jpg"
+    },
+    {
+      "name": "Γιώργος Καφετζόπουλος",
+      "character": "χρήστος",
+      "profile": "https://image.tmdb.org/t/p/w185/iRErkJv1dJSpZyyFIeBl4adTIz7.jpg"
+    },
+    {
+      "name": "Νάνσυ Μπούκλη",
+      "character": "μάρω",
+      "profile": "https://image.tmdb.org/t/p/w185/pjfSpl2mwBObElNSHWEh5dHKDAG.jpg"
+    },
+    {
+      "name": "Κορίνα Γουγούλη",
+      "character": "η αδερφή του Χρήστου",
+      "profile": "https://image.tmdb.org/t/p/w185/kUQzGCEFOkoRny4Mp75NQnFm8Vg.jpg"
+    }
+  ],
+  "director": "Konstantinos Fragkoulis",
+  "tmdbId": 1203905,
+  "xtream": {
+    "streamId": 3117726,
+    "containerExtension": "mp4"
+  }
+}

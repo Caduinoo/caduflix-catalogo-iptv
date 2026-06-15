@@ -1,0 +1,76 @@
+{
+  "id": "series_7036",
+  "type": "series",
+  "title": "Franklin",
+  "originalTitle": "Franklin",
+  "year": 1997,
+  "poster": "https://image.tmdb.org/t/p/w500/ep0ol2okz8IB8T0LxhfJMXvJ3Mk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yWHVK0Gswv2mH8V7fsJ2wshBJRO.jpg",
+  "overview": "A tartaruga Franklin descobre seu lugar no mundo e o lugar que o mundo ocupa em sua vida. Ele é um personagem extraordinário que se conecta imediatamente com as crianças. Junte-se a Franklin e seus amigos, Urso, Caracol, Coelho, Castor e Gansa, e descubra o mundo com eles. Baseado nos livros best-sellers de Paulette Bourgeois e Brenda Clark. Produzido por Nelvana.",
+  "rating": 6.702,
+  "genres": [
+    "animacao",
+    "infantil",
+    "familia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 1458,
+  "xtream": {
+    "seriesId": 7036
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3355703",
+          "episodeId": 3355703,
+          "season": 1,
+          "episode": 1,
+          "title": "Franklin S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355704",
+          "episodeId": 3355704,
+          "season": 1,
+          "episode": 2,
+          "title": "Franklin S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355705",
+          "episodeId": 3355705,
+          "season": 1,
+          "episode": 3,
+          "title": "Franklin S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355706",
+          "episodeId": 3355706,
+          "season": 1,
+          "episode": 4,
+          "title": "Franklin S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355707",
+          "episodeId": 3355707,
+          "season": 1,
+          "episode": 5,
+          "title": "Franklin S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355708",
+          "episodeId": 3355708,
+          "season": 1,
+          "episode": 6,
+          "title": "Franklin S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

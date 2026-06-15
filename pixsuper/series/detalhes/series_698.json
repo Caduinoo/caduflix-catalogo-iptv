@@ -1,0 +1,75 @@
+{
+  "id": "series_698",
+  "type": "series",
+  "title": "Le chalet",
+  "originalTitle": "Le chalet",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/osUm9DIEQZJzqQELiWeh3i5TGUr.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ey4AbAPyPOQtdMYEtwSp9bO5Czy.jpg",
+  "overview": "Era para ser uma reunião de verão em um chalé afastado. Mas estes amigos caíram em uma cilada mortal que vai revelar um segredo obscuro do passado.",
+  "rating": 7.2,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 67176,
+  "xtream": {
+    "seriesId": 698
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3161134",
+          "episodeId": 3161134,
+          "season": 1,
+          "episode": 1,
+          "title": "Le Chalet [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161135",
+          "episodeId": 3161135,
+          "season": 1,
+          "episode": 2,
+          "title": "Le Chalet [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161136",
+          "episodeId": 3161136,
+          "season": 1,
+          "episode": 3,
+          "title": "Le Chalet [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161137",
+          "episodeId": 3161137,
+          "season": 1,
+          "episode": 4,
+          "title": "Le Chalet [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161138",
+          "episodeId": 3161138,
+          "season": 1,
+          "episode": 5,
+          "title": "Le Chalet [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161139",
+          "episodeId": 3161139,
+          "season": 1,
+          "episode": 6,
+          "title": "Le Chalet [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

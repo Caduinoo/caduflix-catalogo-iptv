@@ -1,0 +1,59 @@
+{
+  "id": "series_2027",
+  "type": "series",
+  "title": "O Desaparecimento de Birgit Meier",
+  "originalTitle": "Dig Deeper: Das Verschwinden von Birgit Meier",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/jUjfNRuPbCTbHAYNeTmWc475P9D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gv89jN3WW5uLmWurBj10rKNenxS.jpg",
+  "overview": "O caso do desaparecimento de Birgit Meier, em 1989, ficou marcado pelos erros da polícia. Mas seu irmão nunca desistiu de lutar pela verdade.",
+  "rating": 7.212,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 137903,
+  "xtream": {
+    "seriesId": 2027
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3225466",
+          "episodeId": 3225466,
+          "season": 1,
+          "episode": 1,
+          "title": "O Desaparecimento de Birgit Meier S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225467",
+          "episodeId": 3225467,
+          "season": 1,
+          "episode": 2,
+          "title": "O Desaparecimento de Birgit Meier S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225468",
+          "episodeId": 3225468,
+          "season": 1,
+          "episode": 3,
+          "title": "O Desaparecimento de Birgit Meier S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3225469",
+          "episodeId": 3225469,
+          "season": 1,
+          "episode": 4,
+          "title": "O Desaparecimento de Birgit Meier S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

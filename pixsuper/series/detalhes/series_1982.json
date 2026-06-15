@@ -1,0 +1,74 @@
+{
+  "id": "series_1982",
+  "type": "series",
+  "title": "90 Dias na Cozinha",
+  "originalTitle": "90 Day: Foody Call",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/nS1c6i3nKRelFVZPkEPoLjGR6uj.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qZzpUAqCCL0DmZr4EwC1E22Yqxt.jpg",
+  "overview": "Os casais preferidos de “90 Dias para Casar” se unem na cozinha para dividir truques culinários, responder perguntas picantes dos fãs e servir conselhos de relacionamento. Segredos são revelados quando a temperatura aumenta.",
+  "rating": 1.5,
+  "genres": [
+    "reality"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 124081,
+  "xtream": {
+    "seriesId": 1982
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3224226",
+          "episodeId": 3224226,
+          "season": 1,
+          "episode": 1,
+          "title": "90 Dias na Cozinha S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224227",
+          "episodeId": 3224227,
+          "season": 1,
+          "episode": 2,
+          "title": "90 Dias na Cozinha S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224228",
+          "episodeId": 3224228,
+          "season": 1,
+          "episode": 3,
+          "title": "90 Dias na Cozinha S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224229",
+          "episodeId": 3224229,
+          "season": 1,
+          "episode": 4,
+          "title": "90 Dias na Cozinha S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224230",
+          "episodeId": 3224230,
+          "season": 1,
+          "episode": 5,
+          "title": "90 Dias na Cozinha S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224231",
+          "episodeId": 3224231,
+          "season": 1,
+          "episode": 6,
+          "title": "90 Dias na Cozinha S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

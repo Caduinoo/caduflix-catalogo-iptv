@@ -1,0 +1,50 @@
+{
+  "id": "series_503",
+  "type": "series",
+  "title": "Sra. Wilson",
+  "originalTitle": "Mrs Wilson",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/vD8SzDX7mUbMM3wxqw5okaiwFOh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bj1rMa0MT077Vgz5x3JMbRbzlUN.jpg",
+  "overview": "Alison Wilson vive um casamento feliz, mas a morte de seu marido traz à tona um mundo de mentiras e segredos, incluindo outra mulher que diz ser a Senhora Wilson.",
+  "rating": 7,
+  "genres": [
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 78969,
+  "xtream": {
+    "seriesId": 503
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3153811",
+          "episodeId": 3153811,
+          "season": 1,
+          "episode": 1,
+          "title": "Sra. Wilson S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153812",
+          "episodeId": 3153812,
+          "season": 1,
+          "episode": 2,
+          "title": "Sra. Wilson S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3153813",
+          "episodeId": 3153813,
+          "season": 1,
+          "episode": 3,
+          "title": "Sra. Wilson S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

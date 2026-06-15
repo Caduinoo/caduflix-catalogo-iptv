@@ -1,0 +1,53 @@
+{
+  "id": "movie_2768615",
+  "type": "movie",
+  "title": "Beauty",
+  "originalTitle": "Beauty",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/usChG4loiZDaDgm3PNMN9HLbuJY.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 7,
+  "runtime": 28,
+  "genres": [
+    "musica"
+  ],
+  "cast": [
+    {
+      "name": "Gualtiero Burzi",
+      "character": "Confectioner",
+      "profile": "https://image.tmdb.org/t/p/w185/de6c5YXEOMCJNWWWZtm8d8igmS1.jpg"
+    },
+    {
+      "name": "James Clyde",
+      "character": "Anvil",
+      "profile": "https://image.tmdb.org/t/p/w185/hvoSN25Gz2ifx9O4PaEPKJdV5BZ.jpg"
+    },
+    {
+      "name": "Richard Henders",
+      "character": "Chisel",
+      "profile": "https://image.tmdb.org/t/p/w185/vQjVsfarUBWCe8dmtE5Li4SVS6K.jpg"
+    },
+    {
+      "name": "Sylvester McCoy",
+      "character": "Henry",
+      "profile": "https://image.tmdb.org/t/p/w185/5F5FIUhaLv91eVALiYxXZEKsLNW.jpg"
+    },
+    {
+      "name": "Simon Paisley Day",
+      "character": "Stick",
+      "profile": "https://image.tmdb.org/t/p/w185/85s4XMpNWHwQzDy6I0wNTV3TsA9.jpg"
+    },
+    {
+      "name": "Hugh Sachs",
+      "character": "Sickle",
+      "profile": "https://image.tmdb.org/t/p/w185/adKAI0xh68jPXRpL4QfQTCxdHLN.jpg"
+    }
+  ],
+  "director": "Nicola Abbatangelo",
+  "tmdbId": 714878,
+  "xtream": {
+    "streamId": 2768615,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "series_8950",
+  "type": "series",
+  "title": "Kylie",
+  "originalTitle": "Kylie",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/89qQzMmXD5r0UOOxH6ob8U6T8ei.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wTehSVPfmzggbLIAH9UBvrHxjzC.jpg",
+  "overview": "De protagonista de novelas a estrela mundial, Kylie passou por várias reviravoltas na carreira. E ela compartilha tudo isto neste documentário sem filtros.",
+  "rating": 8.6,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 320472,
+  "xtream": {
+    "seriesId": 8950
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3391318",
+          "episodeId": 3391318,
+          "season": 1,
+          "episode": 1,
+          "title": "Kylie (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391319",
+          "episodeId": 3391319,
+          "season": 1,
+          "episode": 2,
+          "title": "Kylie (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3391320",
+          "episodeId": 3391320,
+          "season": 1,
+          "episode": 3,
+          "title": "Kylie (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

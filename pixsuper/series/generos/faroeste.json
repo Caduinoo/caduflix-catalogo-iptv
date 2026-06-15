@@ -1,1 +1,677 @@
-[]
+[
+  {
+    "id": "series_52",
+    "type": "series",
+    "title": "Godless",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3CdnJBsEm2hZffF23wOJtfC0EIq.jpg",
+    "rating": 7.748,
+    "producer": "netflix",
+    "genres": [
+      "faroeste",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 52
+    }
+  },
+  {
+    "id": "series_111",
+    "type": "series",
+    "title": "Os Inocentes",
+    "year": 1974,
+    "poster": "https://image.tmdb.org/t/p/w500/3JmZ4c8eo6z7izfQm2SSd9Xx14n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4V5gTlD39tGAO1foDwwGZcvtY91.jpg",
+    "rating": 9,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance",
+      "faroeste",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 111
+    }
+  },
+  {
+    "id": "series_187",
+    "type": "series",
+    "title": "Westworld",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/3xwpiixCoif2cf7MUofd3Xxob6I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
+    "rating": 8.021,
+    "producer": "outras_produtoras",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 187
+    }
+  },
+  {
+    "id": "series_600",
+    "type": "series",
+    "title": "Deadwood",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/fWwxYAuqY4Na7fKI3Qq2nFWCwG8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dGzPJnh8YcUS4J10sNunohaXMVn.jpg",
+    "rating": 8.106,
+    "producer": "paramount",
+    "genres": [
+      "faroeste",
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 600
+    }
+  },
+  {
+    "id": "series_642",
+    "type": "series",
+    "title": "Warrior",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/akshc6F3VmhJpvniRRlgqDt1ndT.jpg",
+    "rating": 7.973,
+    "producer": "hbo_max",
+    "genres": [
+      "crime",
+      "drama",
+      "acao",
+      "aventura",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 642
+    }
+  },
+  {
+    "id": "series_854",
+    "type": "series",
+    "title": "A Xerife Callie no Oeste",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/maT6jmgmYDQnqkueTCsNi8dQ1Ux.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bOZnotuzyE3EQbTV1UF4ptuHkhJ.jpg",
+    "rating": 5.5,
+    "producer": "disney_plus",
+    "genres": [
+      "animacao",
+      "faroeste",
+      "fantasia",
+      "ficcao",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 854
+    }
+  },
+  {
+    "id": "series_859",
+    "type": "series",
+    "title": "Hatfields & McCoys",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/jeu57tLFpYTuRttIusgdcAUf2Iq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iKpAp9R2yQbv4OW3U59H38HbSHp.jpg",
+    "rating": 7.478,
+    "producer": "outras_produtoras",
+    "genres": [
+      "faroeste",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 859
+    }
+  },
+  {
+    "id": "series_907",
+    "type": "series",
+    "title": "Wynonna Earp: A Maldição dos Renascidos",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/qnIaDelA81dmFaXrhpz6M6dpGSD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qVu5MC7DiDOrlcKNZsb9rEJJ1UI.jpg",
+    "rating": 7.856,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "fantasia",
+      "ficcao",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 907
+    }
+  },
+  {
+    "id": "series_6901",
+    "type": "series",
+    "title": "Yellowstone",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/rrOYi7Zj2OmBojo1VuuZM129gic.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+    "rating": 8.266,
+    "producer": "outras_produtoras",
+    "genres": [
+      "faroeste",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 6901
+    }
+  },
+  {
+    "id": "series_1101",
+    "type": "series",
+    "title": "Rastro Perdido",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/8xAuh1KvxT9vHkJNwQIzyroMCqY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9PlnIwjzTPMsQQQtcvdovbVyJzU.jpg",
+    "rating": 6.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 1101
+    }
+  },
+  {
+    "id": "series_1158",
+    "type": "series",
+    "title": "Longmire: O Xerife",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/ba2nuLDLejuAcFnqJYfmztUqym4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nh3n0jQeS0FgWH84kzyc8q5yLEp.jpg",
+    "rating": 7.689,
+    "producer": "netflix",
+    "genres": [
+      "faroeste",
+      "crime",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 1158
+    }
+  },
+  {
+    "id": "series_1269",
+    "type": "series",
+    "title": "The Good Lord Bird",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/bNFcWrxlnFXvrjJezId6bAoePzT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8WwsIKZEGXhxhKpa4LwstfqgYxJ.jpg",
+    "rating": 6.7,
+    "producer": "paramount",
+    "genres": [
+      "drama",
+      "faroeste",
+      "guerra"
+    ],
+    "xtream": {
+      "seriesId": 1269
+    }
+  },
+  {
+    "id": "series_1346",
+    "type": "series",
+    "title": "The Rebel",
+    "year": 1959,
+    "poster": "https://image.tmdb.org/t/p/w500/5Qs3Bk38S65h5Tsi2EVZGHvSLIG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/j7LMUCYLuUbSo8egTZYUu7LCzbe.jpg",
+    "rating": 5.091,
+    "producer": "outras_produtoras",
+    "genres": [
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 1346
+    }
+  },
+  {
+    "id": "series_1537",
+    "type": "series",
+    "title": "Inferno Sobre Rodas",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/xu1LmA6fwFQDeQxJEHpIvziAZgA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pXwEO7OYA7LhVPYyGIIqa58wwcF.jpg",
+    "rating": 7.61,
+    "producer": "amc_plus",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 1537
+    }
+  },
+  {
+    "id": "series_1653",
+    "type": "series",
+    "title": "Deputy: O Novo Xerife",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/5shPt9oZNtpimZRpQxj37LSr8bD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aihukMCstacDLxWJSk1QtnufQwK.jpg",
+    "rating": 6.871,
+    "producer": "outras_produtoras",
+    "genres": [
+      "faroeste",
+      "drama",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 1653
+    }
+  },
+  {
+    "id": "series_1832",
+    "type": "series",
+    "title": "Quando Chama o Coração",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/uX8MenFl573lHXdT9Th4fddRFyv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mTC6WbMEgZ6LLdwRqSDR5NVEslr.jpg",
+    "rating": 8.25,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 1832
+    }
+  },
+  {
+    "id": "series_1902",
+    "type": "series",
+    "title": "Chuck Norris: O Homem da Lei",
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/6IphgBHMJ2vjN3v8l0Lh0SV5bFX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2XFBqLWmMem1nImSPCnPVOXH1MF.jpg",
+    "rating": 7.014,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "faroeste",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 1902
+    }
+  },
+  {
+    "id": "series_4831",
+    "type": "series",
+    "title": "Zorro",
+    "year": 1957,
+    "poster": "https://image.tmdb.org/t/p/w500/1i4HdLMCRfEXLeA6JGTsQj6WU3k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dtTaLgRQPEQW1TQjLhPKI7mc6WC.jpg",
+    "rating": 7.51,
+    "producer": "prime_video",
+    "genres": [
+      "faroeste",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 4831
+    }
+  },
+  {
+    "id": "series_1954",
+    "type": "series",
+    "title": "Cowboy Bebop",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
+    "rating": 8.501,
+    "producer": "netflix",
+    "genres": [
+      "animacao",
+      "acao",
+      "aventura",
+      "fantasia",
+      "ficcao",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 1954
+    }
+  },
+  {
+    "id": "series_4443",
+    "type": "series",
+    "title": "1883",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+    "rating": 8.269,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 4443
+    }
+  },
+  {
+    "id": "series_2506",
+    "type": "series",
+    "title": "Damnation",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/rmoUClMYqrQ7EWWQXvgzWcjlb1W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3rmS7KF3JxrSFlFqsz1yyhxgQcL.jpg",
+    "rating": 6.8,
+    "producer": "netflix",
+    "genres": [
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 2506
+    }
+  },
+  {
+    "id": "series_2511",
+    "type": "series",
+    "title": "Onde Nascem os Fortes",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/6IaIHKGzy5wjVEG7KfjY6krDvMW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kxDsLoUDa7Q9nDExcVXXApdWr7S.jpg",
+    "rating": 6.8,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "misterio",
+      "faroeste",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2511
+    }
+  },
+  {
+    "id": "series_3203",
+    "type": "series",
+    "title": "A Inglesa",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/iset8RxTaEpcipeYaYdYRe7GEHl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eenxjEAPwPbkjN6W5ZzTbfLA4GM.jpg",
+    "rating": 7.284,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 3203
+    }
+  },
+  {
+    "id": "series_4215",
+    "type": "series",
+    "title": "Billy the Kid",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/hwPPA0sqlU9kGRHDDyl4cVp4Vum.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wk00DBQ4hmAInKSDw4s7eX3jCAj.jpg",
+    "rating": 7.618,
+    "producer": "outras_produtoras",
+    "genres": [
+      "faroeste",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 4215
+    }
+  },
+  {
+    "id": "series_9086",
+    "type": "series",
+    "title": "A Cabeça de Joaquín Murrieta",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/b4cRVn14ISRIxczusriGZKq2tbT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Ap1qqXyZmAEaTA8gCMi0qb7xBHd.jpg",
+    "rating": 6.39,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "faroeste",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 9086
+    }
+  },
+  {
+    "id": "series_3823",
+    "type": "series",
+    "title": "Joe Pickett",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gazijGFhqouUBvrTiFE9f0ZqF07.jpg",
+    "rating": 7.049,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 3823
+    }
+  },
+  {
+    "id": "series_4150",
+    "type": "series",
+    "title": "Jericho",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/a57H9UsS388Av2LSLKO9inNmY7j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6GIf7uiQ4Y5xPzIRkTct2NIyBqK.jpg",
+    "rating": 7.418,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "misterio",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 4150
+    }
+  },
+  {
+    "id": "series_4466",
+    "type": "series",
+    "title": "Spirit - Cavalgando Livre",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/jRJYUWTH1qyTL0us4dix6wasN0A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2boe4RpWbab88pPRIa3iBbU5NvJ.jpg",
+    "rating": 7.75,
+    "producer": "netflix",
+    "genres": [
+      "animacao",
+      "acao",
+      "aventura",
+      "familia",
+      "infantil",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 4466
+    }
+  },
+  {
+    "id": "series_4509",
+    "type": "series",
+    "title": "Bem-Vindos à Austrália",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/aUGfSkKDmldCnmOjlesgkqP2uGO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/it34RMnArwzl38hoAtgXfCkkqpX.jpg",
+    "rating": 6.823,
+    "producer": "disney_plus",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 4509
+    }
+  },
+  {
+    "id": "series_5962",
+    "type": "series",
+    "title": "Homens da Montanha: Franco Atirador",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/uUevSgU0VI6s3JFnAMBHLOorX2E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rcu9xfb4GCyi3ljNcN3qlJbP16P.jpg",
+    "rating": 0,
+    "producer": "discovery_plus",
+    "genres": [
+      "reality",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 5962
+    }
+  },
+  {
+    "id": "series_6097",
+    "type": "series",
+    "title": "Territory",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dfRvmXp4sdMd052ZV9jYZkuLpc2.jpg",
+    "rating": 6.896,
+    "producer": "netflix",
+    "genres": [
+      "faroeste",
+      "drama",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 6097
+    }
+  },
+  {
+    "id": "series_6429",
+    "type": "series",
+    "title": "Terra Indomável",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/4uHGMf2ifvcNLI3LouDuO41E1Dq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
+    "rating": 7.671,
+    "producer": "netflix",
+    "genres": [
+      "faroeste",
+      "drama",
+      "acao",
+      "aventura"
+    ],
+    "xtream": {
+      "seriesId": 6429
+    }
+  },
+  {
+    "id": "series_6883",
+    "type": "series",
+    "title": "Maria e o Cangaço",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9g4iGqPniDP3ueKCDwVfRUAu14T.jpg",
+    "rating": 7.5,
+    "producer": "disney_plus",
+    "genres": [
+      "drama",
+      "faroeste",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6883
+    }
+  },
+  {
+    "id": "series_6967",
+    "type": "series",
+    "title": "Ransom Canyon",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/cEPbLzK7wH2mvULOMOhRUWPDuRE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/29P64FqDp0UVa9oJsIl49PHn5tH.jpg",
+    "rating": 7.005,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 6967
+    }
+  },
+  {
+    "id": "series_8089",
+    "type": "series",
+    "title": "Os Abandonados",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dHCr5HgldBavJPzAYFYmM0rEdQo.jpg",
+    "rating": 5.741,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "faroeste"
+    ],
+    "xtream": {
+      "seriesId": 8089
+    }
+  },
+  {
+    "id": "series_8358",
+    "type": "series",
+    "title": "Kung Fu",
+    "year": 1972,
+    "poster": "https://image.tmdb.org/t/p/w500/vUqmS40PRyAe3COHh7wHpDFnspC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tKrWxPuqYwr7bvOE93JVCz44GmC.jpg",
+    "rating": 7.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "drama",
+      "faroeste",
+      "fantasia",
+      "ficcao"
+    ],
+    "xtream": {
+      "seriesId": 8358
+    }
+  },
+  {
+    "id": "series_8928",
+    "type": "series",
+    "title": "Rancho Dutton",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aJVroxZZKReiSlASpODQ23qrdGa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+    "rating": 9.3,
+    "producer": "prime_video",
+    "genres": [
+      "faroeste",
+      "drama"
+    ],
+    "xtream": {
+      "seriesId": 8928
+    }
+  }
+]

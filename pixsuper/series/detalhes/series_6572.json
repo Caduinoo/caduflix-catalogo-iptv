@@ -1,0 +1,60 @@
+{
+  "id": "series_6572",
+  "type": "series",
+  "title": "Os Caçadores de Peles",
+  "originalTitle": "Łowcy skór",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/mrA9N93ngXPPmqXjZdPveEKLiLw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nyqsepvLu1BNAYE1ejU7T7pRdCv.jpg",
+  "overview": "A história do macabro acordo entre equipes de emergência e funerárias na Polônia, que causou a morte de centenas de vítimas.",
+  "rating": 8,
+  "genres": [
+    "documentario",
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 273235,
+  "xtream": {
+    "seriesId": 6572
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3346401",
+          "episodeId": 3346401,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Cacadores de Peles [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3346402",
+          "episodeId": 3346402,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Cacadores de Peles [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3346403",
+          "episodeId": 3346403,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Cacadores de Peles [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3346404",
+          "episodeId": 3346404,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Cacadores de Peles [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

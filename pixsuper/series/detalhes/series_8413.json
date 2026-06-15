@@ -1,0 +1,93 @@
+{
+  "id": "series_8413",
+  "type": "series",
+  "title": "Sr. & Sra. Smith",
+  "originalTitle": "Mr. & Mrs. Smith",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/83Oqz9KJaK0l58OW3S0Y4Rqi9BE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5mC90b2FrJMe3Xr26cL0HeWcrvG.jpg",
+  "overview": "Conheçam os Smiths: dois desconhecidos solitários, John e Jane, que abriram mão de suas vidas e identidades para se tornarem parceiros – tanto na espionagem quanto no casamento.",
+  "rating": 6.562,
+  "genres": [
+    "acao",
+    "aventura",
+    "comedia",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 118642,
+  "xtream": {
+    "seriesId": 8413
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3383532",
+          "episodeId": 3383532,
+          "season": 1,
+          "episode": 1,
+          "title": "Sr e Sra Smith [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383533",
+          "episodeId": 3383533,
+          "season": 1,
+          "episode": 2,
+          "title": "Sr e Sra Smith [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383534",
+          "episodeId": 3383534,
+          "season": 1,
+          "episode": 3,
+          "title": "Sr e Sra Smith [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383535",
+          "episodeId": 3383535,
+          "season": 1,
+          "episode": 4,
+          "title": "Sr e Sra Smith [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383536",
+          "episodeId": 3383536,
+          "season": 1,
+          "episode": 5,
+          "title": "Sr e Sra Smith [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383537",
+          "episodeId": 3383537,
+          "season": 1,
+          "episode": 6,
+          "title": "Sr e Sra Smith [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383538",
+          "episodeId": 3383538,
+          "season": 1,
+          "episode": 7,
+          "title": "Sr e Sra Smith [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383539",
+          "episodeId": 3383539,
+          "season": 1,
+          "episode": 8,
+          "title": "Sr e Sra Smith [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

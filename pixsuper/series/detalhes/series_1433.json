@@ -1,0 +1,91 @@
+{
+  "id": "series_1433",
+  "type": "series",
+  "title": "The Red Line: Vidas Cruzadas",
+  "originalTitle": "The Red Line",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/nCWJL4ky03pg5tLclM34gWKHqST.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nnbR4yktSO6ej305rl8zMxeoUFI.jpg",
+  "overview": "Um policial branco mata por engano um médico negro em Chicago. Após esse acontecimento, três famílias conectadas ao caso revelam suas perspectivas sobre o ocorrido.",
+  "rating": 7.1,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 86365,
+  "xtream": {
+    "seriesId": 1433
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3198521",
+          "episodeId": 3198521,
+          "season": 1,
+          "episode": 1,
+          "title": "The Red Line: Vidas Cruzadas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198522",
+          "episodeId": 3198522,
+          "season": 1,
+          "episode": 2,
+          "title": "The Red Line: Vidas Cruzadas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198523",
+          "episodeId": 3198523,
+          "season": 1,
+          "episode": 3,
+          "title": "The Red Line: Vidas Cruzadas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198524",
+          "episodeId": 3198524,
+          "season": 1,
+          "episode": 4,
+          "title": "The Red Line: Vidas Cruzadas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198525",
+          "episodeId": 3198525,
+          "season": 1,
+          "episode": 5,
+          "title": "The Red Line: Vidas Cruzadas S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198526",
+          "episodeId": 3198526,
+          "season": 1,
+          "episode": 6,
+          "title": "The Red Line: Vidas Cruzadas S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198527",
+          "episodeId": 3198527,
+          "season": 1,
+          "episode": 7,
+          "title": "The Red Line: Vidas Cruzadas S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3198528",
+          "episodeId": 3198528,
+          "season": 1,
+          "episode": 8,
+          "title": "The Red Line: Vidas Cruzadas S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

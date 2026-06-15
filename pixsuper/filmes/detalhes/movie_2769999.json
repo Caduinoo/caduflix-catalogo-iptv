@@ -1,0 +1,48 @@
+{
+  "id": "movie_2769999",
+  "type": "movie",
+  "title": "Fantasma",
+  "originalTitle": "Fantasma",
+  "year": 2007,
+  "poster": "https://image.tmdb.org/t/p/w500/8ncw6smQzlnXaaLcQzyPf444O3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/krrpvp7CEaFKYlPPozAG5P6fqSU.jpg",
+  "overview": "",
+  "rating": 5.8,
+  "runtime": 63,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Argentino Vargas",
+      "character": "Argentino",
+      "profile": "https://image.tmdb.org/t/p/w185/5eb3iC0UStss4RnQX5h9febq4cx.jpg"
+    },
+    {
+      "name": "Misael Saavedra",
+      "character": "Misael",
+      "profile": "https://image.tmdb.org/t/p/w185/w2pmuFk3mhiY82De7AjnGgj9dRB.jpg"
+    },
+    {
+      "name": "Carlos Darío Landini",
+      "character": "",
+      "profile": ""
+    },
+    {
+      "name": "Jorge Luis Franceschelli",
+      "character": "",
+      "profile": ""
+    },
+    {
+      "name": "Rosa Martínez Rivero",
+      "character": "",
+      "profile": ""
+    }
+  ],
+  "director": "Lisandro Alonso",
+  "tmdbId": 114246,
+  "xtream": {
+    "streamId": 2769999,
+    "containerExtension": "mp4"
+  }
+}

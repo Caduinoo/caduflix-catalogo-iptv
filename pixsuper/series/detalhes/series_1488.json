@@ -1,0 +1,91 @@
+{
+  "id": "series_1488",
+  "type": "series",
+  "title": "Cidade dos Pinguins",
+  "originalTitle": "Penguin Town",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/3LtKOlUBdk6t3B01gbaR332YI2U.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/36C5wgMbDJcGhVfRuzNxqbyFxHG.jpg",
+  "overview": "Em uma pitoresca cidade da África do Sul, um grupo de pinguins eclético e em perigo de extinção se reúne para acasalar, formar família e se enturmar.",
+  "rating": 7.3,
+  "genres": [
+    "documentario",
+    "infantil"
+  ],
+  "producer": "netflix",
+  "tmdbId": 125970,
+  "xtream": {
+    "seriesId": 1488
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3201995",
+          "episodeId": 3201995,
+          "season": 1,
+          "episode": 1,
+          "title": "Cidade dos Pinguins S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3201996",
+          "episodeId": 3201996,
+          "season": 1,
+          "episode": 2,
+          "title": "Cidade dos Pinguins S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3201997",
+          "episodeId": 3201997,
+          "season": 1,
+          "episode": 3,
+          "title": "Cidade dos Pinguins S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3201998",
+          "episodeId": 3201998,
+          "season": 1,
+          "episode": 4,
+          "title": "Cidade dos Pinguins S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3201999",
+          "episodeId": 3201999,
+          "season": 1,
+          "episode": 5,
+          "title": "Cidade dos Pinguins S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202000",
+          "episodeId": 3202000,
+          "season": 1,
+          "episode": 6,
+          "title": "Cidade dos Pinguins S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202001",
+          "episodeId": 3202001,
+          "season": 1,
+          "episode": 7,
+          "title": "Cidade dos Pinguins S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3202002",
+          "episodeId": 3202002,
+          "season": 1,
+          "episode": 8,
+          "title": "Cidade dos Pinguins S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

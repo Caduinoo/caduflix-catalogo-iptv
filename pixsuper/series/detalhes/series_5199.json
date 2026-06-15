@@ -1,0 +1,74 @@
+{
+  "id": "series_5199",
+  "type": "series",
+  "title": "Mistérios Bíblicos",
+  "originalTitle": "Mistérios Bíblicos",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/jXfPZgXURWBNRj7EB07QYTVZvaj.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Uma abordagem sobre os eventos históricos por trás das lendas e fenômenos bíblicos, levando a uma extensa jornada desde Jerusalém, Turim, Roma, o Mar da Galileia e muito mais, com informações de arqueólogos, historiadores e cientistas.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 250985,
+  "xtream": {
+    "seriesId": 5199
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3310272",
+          "episodeId": 3310272,
+          "season": 1,
+          "episode": 1,
+          "title": "Misterios Biblicos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310273",
+          "episodeId": 3310273,
+          "season": 1,
+          "episode": 2,
+          "title": "Misterios Biblicos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310274",
+          "episodeId": 3310274,
+          "season": 1,
+          "episode": 3,
+          "title": "Misterios Biblicos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310275",
+          "episodeId": 3310275,
+          "season": 1,
+          "episode": 4,
+          "title": "Misterios Biblicos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310276",
+          "episodeId": 3310276,
+          "season": 1,
+          "episode": 5,
+          "title": "Misterios Biblicos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310277",
+          "episodeId": 3310277,
+          "season": 1,
+          "episode": 6,
+          "title": "Misterios Biblicos S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_6256",
+  "type": "series",
+  "title": "Senna",
+  "originalTitle": "Senna",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/3WMHCcYR2pVWyc85h3kLev20nbk.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pP9Or3dN8k0go1G2OSldcwBpUFO.jpg",
+  "overview": "A trajetória de superação, desencontros, alegrias e tristezas do tricampeão de Fórmula 1, Ayrton Senna, desbravando sua personalidade e suas relações pessoais. O ponto de partida será o começo da carreira automobilística do Ayrton, quando ele se muda para a Inglaterra para competir na Fórmula Ford, até o trágico acidente em Ímola, na Itália, durante o Grande Prêmio de San Marino.",
+  "rating": 8.128,
+  "genres": [
+    "drama",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 211039,
+  "xtream": {
+    "seriesId": 6256
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3338744",
+          "episodeId": 3338744,
+          "season": 1,
+          "episode": 1,
+          "title": "Senna S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338745",
+          "episodeId": 3338745,
+          "season": 1,
+          "episode": 2,
+          "title": "Senna S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338746",
+          "episodeId": 3338746,
+          "season": 1,
+          "episode": 3,
+          "title": "Senna S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338747",
+          "episodeId": 3338747,
+          "season": 1,
+          "episode": 4,
+          "title": "Senna S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338748",
+          "episodeId": 3338748,
+          "season": 1,
+          "episode": 5,
+          "title": "Senna S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338749",
+          "episodeId": 3338749,
+          "season": 1,
+          "episode": 6,
+          "title": "Senna S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

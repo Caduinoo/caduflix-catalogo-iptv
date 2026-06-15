@@ -1,0 +1,59 @@
+{
+  "id": "series_1599",
+  "type": "series",
+  "title": "Catarina, A Grande",
+  "originalTitle": "Catherine the Great",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/urNIL8B91rzdwwgvJafGEMBiTSF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2bfdpmknShJgvczyJO76sNARQJF.jpg",
+  "overview": "Por entre escândalos, intriga e muito conflito, a imperatriz russa Catarina, a Grande, desenvolve uma relação fervorosa e singular com Grigory Potemkin enquanto ambos vencem adversários e agem como os arquitetos da Rússia moderna.",
+  "rating": 6.705,
+  "genres": [
+    "drama",
+    "guerra"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 76692,
+  "xtream": {
+    "seriesId": 1599
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3206238",
+          "episodeId": 3206238,
+          "season": 1,
+          "episode": 1,
+          "title": "Catherine the Great S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206239",
+          "episodeId": 3206239,
+          "season": 1,
+          "episode": 2,
+          "title": "Catherine the Great S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206240",
+          "episodeId": 3206240,
+          "season": 1,
+          "episode": 3,
+          "title": "Catherine the Great S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3206241",
+          "episodeId": 3206241,
+          "season": 1,
+          "episode": 4,
+          "title": "Catherine the Great S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

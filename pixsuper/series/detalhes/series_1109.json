@@ -1,0 +1,58 @@
+{
+  "id": "series_1109",
+  "type": "series",
+  "title": "40m²",
+  "originalTitle": "40m²",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/gTi48Rgoego7IkngSFRJZhg67vy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6YDciyydwjSO6FVO4Wq1lkP57Rj.jpg",
+  "overview": "Série faz um retrato da vida durante a pandemia feito por quem mora nos bairros mais pobres de São Paulo. Duzentos curtas metragem unidos para formar quatro episódios temáticos.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 119089,
+  "xtream": {
+    "seriesId": 1109
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3186438",
+          "episodeId": 3186438,
+          "season": 1,
+          "episode": 1,
+          "title": "40m S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3186439",
+          "episodeId": 3186439,
+          "season": 1,
+          "episode": 2,
+          "title": "40m S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3186440",
+          "episodeId": 3186440,
+          "season": 1,
+          "episode": 3,
+          "title": "40m S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3186441",
+          "episodeId": 3186441,
+          "season": 1,
+          "episode": 4,
+          "title": "40m S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

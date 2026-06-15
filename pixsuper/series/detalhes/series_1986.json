@@ -1,0 +1,50 @@
+{
+  "id": "series_1986",
+  "type": "series",
+  "title": "Ana Bolena: A Rainha",
+  "originalTitle": "Anne Boleyn",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/gkoPzDTE2psYWcMcnDxNkapYP09.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bM9aExeCQ8FuxTItoqfRXwZ5d4X.jpg",
+  "overview": "Ana Bolena enfrenta a sociedade patriarcal em busca de um futuro melhor para a filha enquanto lida com as traições do rei e a pressão para conceber um herdeiro masculino.",
+  "rating": 2.3,
+  "genres": [
+    "drama"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 126400,
+  "xtream": {
+    "seriesId": 1986
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3224259",
+          "episodeId": 3224259,
+          "season": 1,
+          "episode": 1,
+          "title": "Ana Bolena: A Rainha S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224260",
+          "episodeId": 3224260,
+          "season": 1,
+          "episode": 2,
+          "title": "Ana Bolena: A Rainha S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3224261",
+          "episodeId": 3224261,
+          "season": 1,
+          "episode": 3,
+          "title": "Ana Bolena: A Rainha S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

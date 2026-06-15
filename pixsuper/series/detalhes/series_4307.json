@@ -1,0 +1,94 @@
+{
+  "id": "series_4307",
+  "type": "series",
+  "title": "PLUTO",
+  "originalTitle": "PLUTO",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/tDFSYOVUmDVkEBjfxZs59r2qSo4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oz3LT9glLNWpSQACnWlIYoSZA5M.jpg",
+  "overview": "Quando os sete robôs mais avançados do mundo e seus aliados humanos são assassinados um a um, o Inspetor Gesicht logo descobre que também está em perigo.",
+  "rating": 7.837,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "misterio",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 91997,
+  "xtream": {
+    "seriesId": 4307
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3286889",
+          "episodeId": 3286889,
+          "season": 1,
+          "episode": 1,
+          "title": "PLUTO S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3286890",
+          "episodeId": 3286890,
+          "season": 1,
+          "episode": 2,
+          "title": "PLUTO S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3286891",
+          "episodeId": 3286891,
+          "season": 1,
+          "episode": 3,
+          "title": "PLUTO S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3286892",
+          "episodeId": 3286892,
+          "season": 1,
+          "episode": 4,
+          "title": "PLUTO S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3286893",
+          "episodeId": 3286893,
+          "season": 1,
+          "episode": 5,
+          "title": "PLUTO S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3286894",
+          "episodeId": 3286894,
+          "season": 1,
+          "episode": 6,
+          "title": "PLUTO S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3286895",
+          "episodeId": 3286895,
+          "season": 1,
+          "episode": 7,
+          "title": "PLUTO S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3286896",
+          "episodeId": 3286896,
+          "season": 1,
+          "episode": 8,
+          "title": "PLUTO S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

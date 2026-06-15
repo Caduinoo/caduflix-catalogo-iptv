@@ -1,0 +1,96 @@
+{
+  "id": "series_7000",
+  "type": "series",
+  "title": "The Last Woodsmen",
+  "originalTitle": "The Last Woodsmen",
+  "year": 2024,
+  "poster": "http://image.tmdb.org/t/p/w300/9Xq2vPbJrOgEdoPgMYLfjZwn8uK.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Jared Douglas e sua equipe enfrentam riscos mortais para cortar e transportar árvores valiosas no Noroeste do Pacífico.",
+  "rating": 8,
+  "genres": [],
+  "producer": "prime_video",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 7000
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3355212",
+          "episodeId": 3355212,
+          "season": 1,
+          "episode": 1,
+          "title": "The Last Woodsmen S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355213",
+          "episodeId": 3355213,
+          "season": 1,
+          "episode": 2,
+          "title": "The Last Woodsmen S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355214",
+          "episodeId": 3355214,
+          "season": 1,
+          "episode": 3,
+          "title": "The Last Woodsmen S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355215",
+          "episodeId": 3355215,
+          "season": 1,
+          "episode": 4,
+          "title": "The Last Woodsmen S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355216",
+          "episodeId": 3355216,
+          "season": 1,
+          "episode": 5,
+          "title": "The Last Woodsmen S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355217",
+          "episodeId": 3355217,
+          "season": 1,
+          "episode": 6,
+          "title": "The Last Woodsmen S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355218",
+          "episodeId": 3355218,
+          "season": 1,
+          "episode": 7,
+          "title": "The Last Woodsmen S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355219",
+          "episodeId": 3355219,
+          "season": 1,
+          "episode": 8,
+          "title": "The Last Woodsmen S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355220",
+          "episodeId": 3355220,
+          "season": 1,
+          "episode": 9,
+          "title": "The Last Woodsmen S01 E09",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

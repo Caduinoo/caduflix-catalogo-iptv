@@ -1,0 +1,76 @@
+{
+  "id": "series_6344",
+  "type": "series",
+  "title": "Obituary",
+  "originalTitle": "Obituary",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/wPXRHoafzOiqz3WqUYNu66awUvo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mPucdbSF7zw8fwLFoXRzgE2zZKX.jpg",
+  "overview": "Um obituarista de uma cidade pequena recorre ao assassinato quando o trabalho se esgota no local.",
+  "rating": 7.4,
+  "genres": [
+    "comedia",
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 235769,
+  "xtream": {
+    "seriesId": 6344
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3340546",
+          "episodeId": 3340546,
+          "season": 1,
+          "episode": 1,
+          "title": "Obituary [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3340547",
+          "episodeId": 3340547,
+          "season": 1,
+          "episode": 2,
+          "title": "Obituary [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3340548",
+          "episodeId": 3340548,
+          "season": 1,
+          "episode": 3,
+          "title": "Obituary [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3340549",
+          "episodeId": 3340549,
+          "season": 1,
+          "episode": 4,
+          "title": "Obituary [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3340550",
+          "episodeId": 3340550,
+          "season": 1,
+          "episode": 5,
+          "title": "Obituary [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3340551",
+          "episodeId": 3340551,
+          "season": 1,
+          "episode": 6,
+          "title": "Obituary [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

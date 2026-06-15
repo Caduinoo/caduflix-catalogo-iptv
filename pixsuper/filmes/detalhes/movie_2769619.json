@@ -1,0 +1,59 @@
+{
+  "id": "movie_2769619",
+  "type": "movie",
+  "title": "Don't Let Them In",
+  "originalTitle": "Don't Let Them In",
+  "year": null,
+  "poster": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-poster.png",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 70,
+  "genres": [
+    "terror",
+    "misterio"
+  ],
+  "cast": [
+    {
+      "name": "Steven Williams",
+      "character": "Jameson (segment \"Fly Paper\")",
+      "profile": "https://image.tmdb.org/t/p/w185/nOsMJ7zPykxlPkjgoMrk677BaqQ.jpg"
+    },
+    {
+      "name": "Jessica Morris",
+      "character": "Kathy (segment \"All Sales are Final\")",
+      "profile": "https://image.tmdb.org/t/p/w185/vnRqsSs1iZenoGCJGc0vdUgjg7A.jpg"
+    },
+    {
+      "name": "Tiffany Shepis",
+      "character": "Rae (segment \"Campfire Tales\")",
+      "profile": "https://image.tmdb.org/t/p/w185/3tsmpYw309lw23i94x6yuqgDCm5.jpg"
+    },
+    {
+      "name": "Brandin Rackley",
+      "character": "Molly (segment \"Cinnamon\")",
+      "profile": "https://image.tmdb.org/t/p/w185/lrwSyoI0KqAkn5c3BAsytovleIt.jpg"
+    },
+    {
+      "name": "Yan Birch",
+      "character": "Nick (segment \"Campfire Tales\")",
+      "profile": "https://image.tmdb.org/t/p/w185/yi7vKInjBPdJ6IxaMxr6APqxI20.jpg"
+    },
+    {
+      "name": "Brandon Fobbs",
+      "character": "Mike (segment \"All Sales are Final\")",
+      "profile": "https://image.tmdb.org/t/p/w185/eTBOceaRtAwS5PYCKnjqWrA5NWz.jpg"
+    },
+    {
+      "name": "Elizabeth Fields",
+      "character": "Jennifer (segment \"Campfire Tales\")",
+      "profile": "https://image.tmdb.org/t/p/w185/bcZqtSOQ0L97g9M4L9LcH4D3iIq.jpg"
+    }
+  ],
+  "director": "Kevin Tenney",
+  "tmdbId": 926467,
+  "xtream": {
+    "streamId": 2769619,
+    "containerExtension": "mp4"
+  }
+}

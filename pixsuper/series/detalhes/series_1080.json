@@ -1,0 +1,66 @@
+{
+  "id": "series_1080",
+  "type": "series",
+  "title": "Mildred Pierce",
+  "originalTitle": "Mildred Pierce",
+  "year": 2011,
+  "poster": "https://image.tmdb.org/t/p/w500/eZ7TUocetldADAXZfnMSEVl7SbJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nYGVRE2VVJZ71gqsm1AYAjO0C1G.jpg",
+  "overview": "Glendale, Califórnia, 1931: Mildred Pierce, uma jovem mãe incrivelmente talentosa na cozinha, precisa cuidar da vida sozinha após expulsar seu marido, Bert, de casa. Forçada a procurar um trabalho para sustentar suas duas filhas, Veda , 11, e Ray, 7, Mildred procura uma agência de empregos, só para encontrar trabalhos que estão abaixo de suas qualidades. Em meio a dicas falhas de relacionamento de sua amiga Lucy Gessler e empregos mal-sucedidos, ela acaba indo parar em um restaurante local, Cristofor’s Café, onde o destino e uma garçonete chamada Ida irão desempenhar papéis importantíssimos para o seu futuro.",
+  "rating": 7.017,
+  "genres": [
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 39468,
+  "xtream": {
+    "seriesId": 1080
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3185794",
+          "episodeId": 3185794,
+          "season": 1,
+          "episode": 1,
+          "title": "Mildred Pierce S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185795",
+          "episodeId": 3185795,
+          "season": 1,
+          "episode": 2,
+          "title": "Mildred Pierce S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185796",
+          "episodeId": 3185796,
+          "season": 1,
+          "episode": 3,
+          "title": "Mildred Pierce S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185797",
+          "episodeId": 3185797,
+          "season": 1,
+          "episode": 4,
+          "title": "Mildred Pierce S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3185798",
+          "episodeId": 3185798,
+          "season": 1,
+          "episode": 5,
+          "title": "Mildred Pierce S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "series_2381",
+  "type": "series",
+  "title": "Disque Prazer",
+  "originalTitle": "Dirty Lines",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/3DV6RxWAarWX84TEhfcEFqafB56.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rbq4SsY1gJKLMO18i2XrUrswyLS.jpg",
+  "overview": "Na Amsterdã dos anos 1980, uma estudante ambiciosa descobre uma nova carreira por acaso: atendente de um serviço de telessexo criado por dois irmãos bem diferentes.",
+  "rating": 6.2,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 105306,
+  "xtream": {
+    "seriesId": 2381
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3237379",
+          "episodeId": 3237379,
+          "season": 1,
+          "episode": 1,
+          "title": "Disque Prazer S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237380",
+          "episodeId": 3237380,
+          "season": 1,
+          "episode": 2,
+          "title": "Disque Prazer S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237381",
+          "episodeId": 3237381,
+          "season": 1,
+          "episode": 3,
+          "title": "Disque Prazer S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237382",
+          "episodeId": 3237382,
+          "season": 1,
+          "episode": 4,
+          "title": "Disque Prazer S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237383",
+          "episodeId": 3237383,
+          "season": 1,
+          "episode": 5,
+          "title": "Disque Prazer S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3237384",
+          "episodeId": 3237384,
+          "season": 1,
+          "episode": 6,
+          "title": "Disque Prazer S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

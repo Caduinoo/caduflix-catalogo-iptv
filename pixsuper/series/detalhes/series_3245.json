@@ -1,0 +1,92 @@
+{
+  "id": "series_3245",
+  "type": "series",
+  "title": "Wolf Pack",
+  "originalTitle": "Wolf Pack",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jvoRuN9yzMFaMRv8FuZKiKczE4E.jpg",
+  "overview": "Quatro vidas de adolescentes são mudadas para sempre quando um incêndio florestal na Califórnia desperta um lobismo terrível e um vínculo entre eles",
+  "rating": 7.663,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "paramount",
+  "tmdbId": 134865,
+  "xtream": {
+    "seriesId": 3245
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3259226",
+          "episodeId": 3259226,
+          "season": 1,
+          "episode": 1,
+          "title": "Wolf Pack S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259227",
+          "episodeId": 3259227,
+          "season": 1,
+          "episode": 2,
+          "title": "Wolf Pack S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259228",
+          "episodeId": 3259228,
+          "season": 1,
+          "episode": 3,
+          "title": "Wolf Pack S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259229",
+          "episodeId": 3259229,
+          "season": 1,
+          "episode": 4,
+          "title": "Wolf Pack S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259230",
+          "episodeId": 3259230,
+          "season": 1,
+          "episode": 5,
+          "title": "Wolf Pack S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259231",
+          "episodeId": 3259231,
+          "season": 1,
+          "episode": 6,
+          "title": "Wolf Pack S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259232",
+          "episodeId": 3259232,
+          "season": 1,
+          "episode": 7,
+          "title": "Wolf Pack S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3259233",
+          "episodeId": 3259233,
+          "season": 1,
+          "episode": 8,
+          "title": "Wolf Pack S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

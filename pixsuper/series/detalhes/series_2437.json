@@ -1,0 +1,91 @@
+{
+  "id": "series_2437",
+  "type": "series",
+  "title": "Leonardo Da Vinci",
+  "originalTitle": "Leonardo",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/dDjLdoDSNsttWDVu8FZmQs4fESK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/eu7Bicrl7M3T6MlTbov3IgOZzRh.jpg",
+  "overview": "Leonardo da Vinci é um homem extraordinário. Obcecado pela perfeição, ele vive os anseios e as tormentas de um jovem pintor, enquanto enfrenta a acusação de assassinar sua musa inspiradora.",
+  "rating": 7.324,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 96230,
+  "xtream": {
+    "seriesId": 2437
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3238848",
+          "episodeId": 3238848,
+          "season": 1,
+          "episode": 1,
+          "title": "Leonardo Da Vinci S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238849",
+          "episodeId": 3238849,
+          "season": 1,
+          "episode": 2,
+          "title": "Leonardo Da Vinci S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238850",
+          "episodeId": 3238850,
+          "season": 1,
+          "episode": 3,
+          "title": "Leonardo Da Vinci S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238851",
+          "episodeId": 3238851,
+          "season": 1,
+          "episode": 4,
+          "title": "Leonardo Da Vinci S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238852",
+          "episodeId": 3238852,
+          "season": 1,
+          "episode": 5,
+          "title": "Leonardo Da Vinci S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238853",
+          "episodeId": 3238853,
+          "season": 1,
+          "episode": 6,
+          "title": "Leonardo Da Vinci S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238854",
+          "episodeId": 3238854,
+          "season": 1,
+          "episode": 7,
+          "title": "Leonardo Da Vinci S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3238855",
+          "episodeId": 3238855,
+          "season": 1,
+          "episode": 8,
+          "title": "Leonardo Da Vinci S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

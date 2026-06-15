@@ -1,0 +1,51 @@
+{
+  "id": "movie_3122072",
+  "type": "movie",
+  "title": "O Último Sol",
+  "originalTitle": "Dernier soleil",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/t9X1KTfm09AJj4r6lQJkfNccPP2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tJjs53giDorvgK8KyCNP5ngEteF.jpg",
+  "overview": "Éric é um pequeno traficante que mora em seu carro e não quer aceitar a guarda de Esteban, seu filho autista de dez anos de idade. Mas após Esteban ser sequestrado por dois bandidos, ele fará de tudo para conseguir o dinheiro do resgate e salvar a vida do menino.",
+  "rating": 5.4,
+  "runtime": 68,
+  "genres": [
+    "drama",
+    "suspense",
+    "thriller",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "Eric Sobkow",
+      "character": "Eric",
+      "profile": "https://image.tmdb.org/t/p/w185/g9JDqJXKRo5ewpdj296ZqpL6IIh.jpg"
+    },
+    {
+      "name": "Esteban Laroche",
+      "character": "Esteban",
+      "profile": ""
+    },
+    {
+      "name": "Wilfried Renson",
+      "character": "Wilfried",
+      "profile": ""
+    },
+    {
+      "name": "Adrien De Tomassi",
+      "character": "Bad Dogg",
+      "profile": ""
+    },
+    {
+      "name": "LoÏc Rouault",
+      "character": "Loïc",
+      "profile": ""
+    }
+  ],
+  "director": "Etienne Constantinesco",
+  "tmdbId": 838910,
+  "xtream": {
+    "streamId": 3122072,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "movie_3126839",
+  "type": "movie",
+  "title": "O Enxame",
+  "originalTitle": "Rój",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/1mQzOwqCcTHiUHEsAZiHvlBPFo0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q2DZEtjm6ZXqy43nnWVzkP59EBk.jpg",
+  "overview": "Durante dez anos, uma família viveu completamente isolada em uma ilha. Até o dia em que a mãe, contra a vontade de seu marido, decide abandonar tudo e retornar ao mundo que deixou para trás.",
+  "rating": 5,
+  "runtime": 106,
+  "genres": [
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Roma Gąsiorowska",
+      "character": "Mother",
+      "profile": "https://image.tmdb.org/t/p/w185/j7Zl0eo2NPzsZh0oZBv0nTN0ZR2.jpg"
+    },
+    {
+      "name": "Eryk Lubos",
+      "character": "Father",
+      "profile": "https://image.tmdb.org/t/p/w185/igQtMH9TOcNgXiCMK8JItmhrtxe.jpg"
+    },
+    {
+      "name": "Adam Wojciechowski",
+      "character": "Son",
+      "profile": ""
+    },
+    {
+      "name": "Antonina Litwiniak",
+      "character": "Daughter",
+      "profile": "https://image.tmdb.org/t/p/w185/jRCeFeC9n4Bf7vuXoUUA77oN1zQ.jpg"
+    }
+  ],
+  "director": "Bartłomiej Bala",
+  "tmdbId": 1125880,
+  "xtream": {
+    "streamId": 3126839,
+    "containerExtension": "mp4"
+  }
+}

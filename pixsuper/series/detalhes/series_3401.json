@@ -1,0 +1,72 @@
+{
+  "id": "series_3401",
+  "type": "series",
+  "title": "Cuba Libre [PT-PT]",
+  "originalTitle": "Cuba Libre [PT-PT]",
+  "year": 2022,
+  "poster": "http://image.tmdb.org//t/p/w600_and_h900_bestv2/cvkiJkZtyOqoS3FOdlXzzr7d6Ks.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "A atribulada luta de Annie Silva Pais, filha única do último diretor da polícia política de Salazar, apaixonada por Che Guevara e pela Cuba de Fidel Castro.Baseado numa história real, a extra",
+  "rating": 5,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 3401
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3263108",
+          "episodeId": 3263108,
+          "season": 1,
+          "episode": 1,
+          "title": "Cuba Libre [PT-PT] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263109",
+          "episodeId": 3263109,
+          "season": 1,
+          "episode": 2,
+          "title": "Cuba Libre [PT-PT] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263110",
+          "episodeId": 3263110,
+          "season": 1,
+          "episode": 3,
+          "title": "Cuba Libre [PT-PT] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263111",
+          "episodeId": 3263111,
+          "season": 1,
+          "episode": 4,
+          "title": "Cuba Libre [PT-PT] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263112",
+          "episodeId": 3263112,
+          "season": 1,
+          "episode": 5,
+          "title": "Cuba Libre [PT-PT] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263113",
+          "episodeId": 3263113,
+          "season": 1,
+          "episode": 6,
+          "title": "Cuba Libre [PT-PT] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

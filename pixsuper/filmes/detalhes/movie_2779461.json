@@ -1,0 +1,58 @@
+{
+  "id": "movie_2779461",
+  "type": "movie",
+  "title": "Ultravioleta",
+  "originalTitle": "Ultravioleta",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/f22q6UGTq0IRL7uM6hzqwjpW5DQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rmgSrFsVtJEFqtpQjFxwfmV43NT.jpg",
+  "overview": "",
+  "rating": 5.7,
+  "runtime": 11,
+  "genres": [
+    "ficcao"
+  ],
+  "cast": [
+    {
+      "name": "Maribel Verdú",
+      "character": "Lola",
+      "profile": "https://image.tmdb.org/t/p/w185/xfpNy6z0eN2jwhv8NQnUxUYGq2P.jpg"
+    },
+    {
+      "name": "Julián Villagrán",
+      "character": "Toni",
+      "profile": "https://image.tmdb.org/t/p/w185/fr3Srgr4Ta9okoigvY46Rj4Ht4k.jpg"
+    },
+    {
+      "name": "Marc Blanch",
+      "character": "Criatura",
+      "profile": ""
+    },
+    {
+      "name": "Akemi Goto",
+      "character": "Guía japonesa",
+      "profile": ""
+    },
+    {
+      "name": "Koichi Sughiara",
+      "character": "Visitante 1",
+      "profile": ""
+    },
+    {
+      "name": "Rina Ota",
+      "character": "Visitante 2",
+      "profile": "https://image.tmdb.org/t/p/w185/g0yCFvNX3kBuLRrxUp1V6L4F7K0.jpg"
+    },
+    {
+      "name": "Mònica van Campen",
+      "character": "Voz Andrea",
+      "profile": "https://image.tmdb.org/t/p/w185/gtZGWusox7WQkVe2OtNBHpwzoBV.jpg"
+    }
+  ],
+  "director": "Paco Plaza",
+  "tmdbId": 295077,
+  "xtream": {
+    "streamId": 2779461,
+    "containerExtension": "mp4"
+  }
+}

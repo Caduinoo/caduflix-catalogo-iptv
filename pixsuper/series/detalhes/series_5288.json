@@ -1,0 +1,43 @@
+{
+  "id": "series_5288",
+  "type": "series",
+  "title": "Os Gigantes",
+  "originalTitle": "Os Gigantes",
+  "year": 1979,
+  "poster": "https://image.tmdb.org/t/p/w500/3grNms2qokoFaNIakTeMizAgazK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o1hlrAZyjlojgkzxbvrgcOjZe1u.jpg",
+  "overview": "Frederico está em coma no hospital. Angustiada com o sofrimento do irmão, Paloma desliga os aparelhos que o mantêm vivo. A partir de então, inicia-se uma batalha judicial entre ela e a cunhada Veridiana, que a acusa de ter praticado eutanásia.",
+  "rating": 8,
+  "genres": [
+    "drama",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 227022,
+  "xtream": {
+    "seriesId": 5288
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3311931",
+          "episodeId": 3311931,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Gigantes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311932",
+          "episodeId": 3311932,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Gigantes S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

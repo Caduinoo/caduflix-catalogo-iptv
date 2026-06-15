@@ -1,0 +1,75 @@
+{
+  "id": "series_8859",
+  "type": "series",
+  "title": "O Artista",
+  "originalTitle": "The Artist",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/3EJouC7Pg7BbgARJ8Zsq3AGV01f.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fc1BPGojpM1HQYAimGeGFKDGrwy.jpg",
+  "overview": "No crepúsculo da Era Dourada, um magnata excêntrico em decadência e sua brilhante esposa recebem um grupo das maiores celebridades da época, incluindo Thomas Edison, Edgar Degas e Evelyn Nesbit. O encontro acaba sendo mortal.",
+  "rating": 6.2,
+  "genres": [
+    "crime",
+    "misterio"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 276117,
+  "xtream": {
+    "seriesId": 8859
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3390355",
+          "episodeId": 3390355,
+          "season": 1,
+          "episode": 1,
+          "title": "O Artista (2025) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390356",
+          "episodeId": 3390356,
+          "season": 1,
+          "episode": 2,
+          "title": "O Artista (2025) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390357",
+          "episodeId": 3390357,
+          "season": 1,
+          "episode": 3,
+          "title": "O Artista (2025) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390358",
+          "episodeId": 3390358,
+          "season": 1,
+          "episode": 4,
+          "title": "O Artista (2025) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390359",
+          "episodeId": 3390359,
+          "season": 1,
+          "episode": 5,
+          "title": "O Artista (2025) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3390360",
+          "episodeId": 3390360,
+          "season": 1,
+          "episode": 6,
+          "title": "O Artista (2025) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

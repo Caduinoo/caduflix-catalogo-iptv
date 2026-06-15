@@ -1,0 +1,94 @@
+{
+  "id": "series_6703",
+  "type": "series",
+  "title": "Ganhar ou Perder",
+  "originalTitle": "Win or Lose",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/ypnGZhXp80tycyWAMzH9GPGbKdd.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/l3RyxkgMEm6E4D1uZDwQfi0P9TK.jpg",
+  "overview": "Enquanto o campeonato se aproxima, oito personagens lidam com as bolas-fora no jogo da vida.",
+  "rating": 8.014,
+  "genres": [
+    "animacao",
+    "comedia",
+    "drama",
+    "familia",
+    "infantil"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 114500,
+  "xtream": {
+    "seriesId": 6703
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3350765",
+          "episodeId": 3350765,
+          "season": 1,
+          "episode": 1,
+          "title": "Ganhar ou Perder S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350766",
+          "episodeId": 3350766,
+          "season": 1,
+          "episode": 2,
+          "title": "Ganhar ou Perder S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350767",
+          "episodeId": 3350767,
+          "season": 1,
+          "episode": 3,
+          "title": "Ganhar ou Perder S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350768",
+          "episodeId": 3350768,
+          "season": 1,
+          "episode": 4,
+          "title": "Ganhar ou Perder S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350769",
+          "episodeId": 3350769,
+          "season": 1,
+          "episode": 5,
+          "title": "Ganhar ou Perder S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350770",
+          "episodeId": 3350770,
+          "season": 1,
+          "episode": 6,
+          "title": "Ganhar ou Perder S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350771",
+          "episodeId": 3350771,
+          "season": 1,
+          "episode": 7,
+          "title": "Ganhar ou Perder S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350772",
+          "episodeId": 3350772,
+          "season": 1,
+          "episode": 8,
+          "title": "Ganhar ou Perder S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

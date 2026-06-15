@@ -1,0 +1,67 @@
+{
+  "id": "series_8498",
+  "type": "series",
+  "title": "Portobello",
+  "originalTitle": "Portobello",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/mS6rJQXFDHk5ZHz6oisEuudpmAo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ebaW4MeaKlWYSABcPlA5zFHGtKb.jpg",
+  "overview": "No início dos anos 80, Enzo Tortora é uma das figuras mais queridas e respeitadas da televisão italiana. Mas a vida de Enzo dá uma guinada quando o vinculam falsamente à infame rede criminosa da Camorra.",
+  "rating": 7.778,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 218557,
+  "xtream": {
+    "seriesId": 8498
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3384570",
+          "episodeId": 3384570,
+          "season": 1,
+          "episode": 1,
+          "title": "Portobello [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384571",
+          "episodeId": 3384571,
+          "season": 1,
+          "episode": 2,
+          "title": "Portobello [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384572",
+          "episodeId": 3384572,
+          "season": 1,
+          "episode": 3,
+          "title": "Portobello [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384573",
+          "episodeId": 3384573,
+          "season": 1,
+          "episode": 4,
+          "title": "Portobello [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3384574",
+          "episodeId": 3384574,
+          "season": 1,
+          "episode": 5,
+          "title": "Portobello [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_6885",
+  "type": "series",
+  "title": "Operação Infiltrados",
+  "originalTitle": "Operation Undercover",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/q8Y2B7O8vkS1WZAfMDhyVUV6E9B.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/771HZol17CrYmIgCLuVLyio5Oj0.jpg",
+  "overview": "Policiais disfarçados e o CIS trabalham juntos para prender traficantes ativos em diversas cidades dos EUA.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 275437,
+  "xtream": {
+    "seriesId": 6885
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3353595",
+          "episodeId": 3353595,
+          "season": 1,
+          "episode": 1,
+          "title": "Operacao Infiltrados S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353596",
+          "episodeId": 3353596,
+          "season": 1,
+          "episode": 2,
+          "title": "Operacao Infiltrados S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353597",
+          "episodeId": 3353597,
+          "season": 1,
+          "episode": 3,
+          "title": "Operacao Infiltrados S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353598",
+          "episodeId": 3353598,
+          "season": 1,
+          "episode": 4,
+          "title": "Operacao Infiltrados S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353599",
+          "episodeId": 3353599,
+          "season": 1,
+          "episode": 5,
+          "title": "Operacao Infiltrados S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353600",
+          "episodeId": 3353600,
+          "season": 1,
+          "episode": 6,
+          "title": "Operacao Infiltrados S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

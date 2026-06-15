@@ -1,0 +1,75 @@
+{
+  "id": "series_3791",
+  "type": "series",
+  "title": "North Shore",
+  "originalTitle": "North Shore",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/8EwbJS9G5utrEspbIeaXk0l5QVn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3Db72d9iOZlnMQ2hspoNeIsXcom.jpg",
+  "overview": "Quando detetives britânicos e australianos se unem para resolver um mistério de assassinato, eles descobrem uma conspiração com consequências políticas internacionais, bem como um choque de culturas.",
+  "rating": 6.6,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 226267,
+  "xtream": {
+    "seriesId": 3791
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3272617",
+          "episodeId": 3272617,
+          "season": 1,
+          "episode": 1,
+          "title": "North Shore [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272618",
+          "episodeId": 3272618,
+          "season": 1,
+          "episode": 2,
+          "title": "North Shore [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272619",
+          "episodeId": 3272619,
+          "season": 1,
+          "episode": 3,
+          "title": "North Shore [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272620",
+          "episodeId": 3272620,
+          "season": 1,
+          "episode": 4,
+          "title": "North Shore [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272621",
+          "episodeId": 3272621,
+          "season": 1,
+          "episode": 5,
+          "title": "North Shore [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272622",
+          "episodeId": 3272622,
+          "season": 1,
+          "episode": 6,
+          "title": "North Shore [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

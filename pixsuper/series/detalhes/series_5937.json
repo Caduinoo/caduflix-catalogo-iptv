@@ -1,0 +1,66 @@
+{
+  "id": "series_5937",
+  "type": "series",
+  "title": "O Professor",
+  "originalTitle": "English Teacher",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/t0hEVuk1cTJ1ryT81fRIJ0xkqet.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mzCTs9DIcOb95Tl4myzpnI0vP0f.jpg",
+  "overview": "Evan Marquez é um professor de ensino médio em Austin, Texas, que frequentemente se encontra na interseção dos aspectos pessoais, profissionais e políticos de trabalhar em uma escola de ensino médio.",
+  "rating": 6.183,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 258902,
+  "xtream": {
+    "seriesId": 5937
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3329996",
+          "episodeId": 3329996,
+          "season": 1,
+          "episode": 1,
+          "title": "O Professor [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329997",
+          "episodeId": 3329997,
+          "season": 1,
+          "episode": 2,
+          "title": "O Professor [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329998",
+          "episodeId": 3329998,
+          "season": 1,
+          "episode": 3,
+          "title": "O Professor [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329999",
+          "episodeId": 3329999,
+          "season": 1,
+          "episode": 4,
+          "title": "O Professor [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3330000",
+          "episodeId": 3330000,
+          "season": 1,
+          "episode": 5,
+          "title": "O Professor [L] S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

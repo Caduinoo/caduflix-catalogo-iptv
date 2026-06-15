@@ -1,0 +1,91 @@
+{
+  "id": "series_721",
+  "type": "series",
+  "title": "Spides",
+  "originalTitle": "Spides",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/p6x2Y8tAy1XVA3EfRgZzo0JHxAT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3s77ZE601fTEEzGPHU1eE8IZq9i.jpg",
+  "overview": "Assassinatos, desaparecimentos e ocorrências estranhas começam a se acumular em conexão com o surgimento de um novo medicamento para clubes chamado 'Blis'.",
+  "rating": 5.9,
+  "genres": [
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 97724,
+  "xtream": {
+    "seriesId": 721
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3161901",
+          "episodeId": 3161901,
+          "season": 1,
+          "episode": 1,
+          "title": "Spides [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161902",
+          "episodeId": 3161902,
+          "season": 1,
+          "episode": 2,
+          "title": "Spides [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161903",
+          "episodeId": 3161903,
+          "season": 1,
+          "episode": 3,
+          "title": "Spides [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161904",
+          "episodeId": 3161904,
+          "season": 1,
+          "episode": 4,
+          "title": "Spides [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161905",
+          "episodeId": 3161905,
+          "season": 1,
+          "episode": 5,
+          "title": "Spides [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161906",
+          "episodeId": 3161906,
+          "season": 1,
+          "episode": 6,
+          "title": "Spides [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161907",
+          "episodeId": 3161907,
+          "season": 1,
+          "episode": 7,
+          "title": "Spides [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161908",
+          "episodeId": 3161908,
+          "season": 1,
+          "episode": 8,
+          "title": "Spides [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

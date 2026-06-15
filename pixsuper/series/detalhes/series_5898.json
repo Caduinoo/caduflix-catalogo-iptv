@@ -1,0 +1,43 @@
+{
+  "id": "series_5898",
+  "type": "series",
+  "title": "O Último Ano de Hitler",
+  "originalTitle": "Hitler's Last Year",
+  "year": 2015,
+  "poster": "https://image.tmdb.org/t/p/w500/e9m67tzrRPCOGVsInGhEhXyu8E2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/r6qKvf5me0t5WkIe7eJVZS4UDVZ.jpg",
+  "overview": "Entre a invasão da Normandia, no Dia D, à queda de Hitler, os Aliados levaram onze meses brutais para derrubar o Reich. Esse foi o ano mais mortal da 2ª Guerra Mundial.",
+  "rating": 5.4,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 65900,
+  "xtream": {
+    "seriesId": 5898
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3329332",
+          "episodeId": 3329332,
+          "season": 1,
+          "episode": 1,
+          "title": "O Ultimo Ano de Hitler S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329333",
+          "episodeId": 3329333,
+          "season": 1,
+          "episode": 2,
+          "title": "O Ultimo Ano de Hitler S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

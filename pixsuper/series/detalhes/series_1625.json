@@ -1,0 +1,74 @@
+{
+  "id": "series_1625",
+  "type": "series",
+  "title": "Cozinhando com Paris Hilton",
+  "originalTitle": "Cooking with Paris",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/ywS9JyFFruoYiv0Rmju0VOmTDVm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5bMqCe6ikr3lgNeSO411UzNiEIW.jpg",
+  "overview": "Paris cozinhando de tudo: de batatas fritas do McDonald’s a cannolis, sem nunca descer do salto. Para provar o resultado, ela traz convidados muito especiais, como Kim Kardashian West, Demi Lovato, Saweetie e vários outros.",
+  "rating": 6.391,
+  "genres": [
+    "reality"
+  ],
+  "producer": "netflix",
+  "tmdbId": 129024,
+  "xtream": {
+    "seriesId": 1625
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3207505",
+          "episodeId": 3207505,
+          "season": 1,
+          "episode": 1,
+          "title": "Cozinhando com Paris Hilton S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207506",
+          "episodeId": 3207506,
+          "season": 1,
+          "episode": 2,
+          "title": "Cozinhando com Paris Hilton S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207507",
+          "episodeId": 3207507,
+          "season": 1,
+          "episode": 3,
+          "title": "Cozinhando com Paris Hilton S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207508",
+          "episodeId": 3207508,
+          "season": 1,
+          "episode": 4,
+          "title": "Cozinhando com Paris Hilton S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207509",
+          "episodeId": 3207509,
+          "season": 1,
+          "episode": 5,
+          "title": "Cozinhando com Paris Hilton S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3207510",
+          "episodeId": 3207510,
+          "season": 1,
+          "episode": 6,
+          "title": "Cozinhando com Paris Hilton S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "movie_3113846",
+  "type": "movie",
+  "title": "Tchau Tchau",
+  "originalTitle": "Tchau Tchau",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/ljpYDt58w359ptTFAv8nm9VsmV9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1vLmLuXlQgKl3WziO7mIAWbqzTb.jpg",
+  "overview": "",
+  "rating": 5,
+  "runtime": 19,
+  "genres": [
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Lua Michel",
+      "character": "Lua",
+      "profile": ""
+    },
+    {
+      "name": "David Meira",
+      "character": "Papi",
+      "profile": ""
+    },
+    {
+      "name": "Cristèle Alves Meira",
+      "character": "La mère",
+      "profile": "https://image.tmdb.org/t/p/w185/xSPXfi4KFvJA9TmacphBCS8JYjm.jpg"
+    },
+    {
+      "name": "Elmano Sancho",
+      "character": "Père Nuno",
+      "profile": "https://image.tmdb.org/t/p/w185/iT9THqxRKVuNN0sJJxBZmjS42Fr.jpg"
+    },
+    {
+      "name": "Saul Michel",
+      "character": "Bébé Saul",
+      "profile": ""
+    }
+  ],
+  "director": "Cristèle Alves Meira",
+  "tmdbId": 900749,
+  "xtream": {
+    "streamId": 3113846,
+    "containerExtension": "mp4"
+  }
+}

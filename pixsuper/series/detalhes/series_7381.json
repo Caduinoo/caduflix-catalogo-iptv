@@ -1,0 +1,75 @@
+{
+  "id": "series_7381",
+  "type": "series",
+  "title": "SuperStar",
+  "originalTitle": "SuperStar",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/xTDy9hlQQPJrI1LtCfEiC3NJRgU.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Reality musical, com formato inovador e interativo, que revela novas bandas. A atração é eclética e traz diversas vertentes musicais: rock, reggae, tecnobrega, samba, pagode, funk, pop, forró, entre outras. Fernanda Lima e André Marques comandam a atração e têm auxílio da Sala de Interatividade, onde acompanham a reação do público e as performances nas redes sociais. O clima e a torcida de parentes, amigos e famosos são destaques.",
+  "rating": 5,
+  "genres": [
+    "reality",
+    "nacional"
+  ],
+  "producer": "netflix",
+  "tmdbId": 66690,
+  "xtream": {
+    "seriesId": 7381
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3364449",
+          "episodeId": 3364449,
+          "season": 1,
+          "episode": 1,
+          "title": "Superstar S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364450",
+          "episodeId": 3364450,
+          "season": 1,
+          "episode": 2,
+          "title": "Superstar S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364451",
+          "episodeId": 3364451,
+          "season": 1,
+          "episode": 3,
+          "title": "Superstar S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364452",
+          "episodeId": 3364452,
+          "season": 1,
+          "episode": 4,
+          "title": "Superstar S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364453",
+          "episodeId": 3364453,
+          "season": 1,
+          "episode": 5,
+          "title": "Superstar S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3364454",
+          "episodeId": 3364454,
+          "season": 1,
+          "episode": 6,
+          "title": "Superstar S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

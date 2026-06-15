@@ -1,0 +1,61 @@
+{
+  "id": "series_1140",
+  "type": "series",
+  "title": "Night Stalker: Tortura e Terror",
+  "originalTitle": "Night Stalker: The Hunt for a Serial Killer",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kjFIgkEyAFUkYZebQF2cIb0TYYS.jpg",
+  "overview": "Sob o glamour ensolarado de 1985, Los Angeles esconde um assassino em série cruel e implacável. Nesta história de crime verdadeiro, dois detetives não vão descansar até pegá-lo.",
+  "rating": 7.466,
+  "genres": [
+    "documentario",
+    "crime",
+    "misterio",
+    "terror"
+  ],
+  "producer": "netflix",
+  "tmdbId": 114705,
+  "xtream": {
+    "seriesId": 1140
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3187067",
+          "episodeId": 3187067,
+          "season": 1,
+          "episode": 1,
+          "title": "Night Stalker: Tortura e Terror S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187068",
+          "episodeId": 3187068,
+          "season": 1,
+          "episode": 2,
+          "title": "Night Stalker: Tortura e Terror S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187069",
+          "episodeId": 3187069,
+          "season": 1,
+          "episode": 3,
+          "title": "Night Stalker: Tortura e Terror S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187070",
+          "episodeId": 3187070,
+          "season": 1,
+          "episode": 4,
+          "title": "Night Stalker: Tortura e Terror S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

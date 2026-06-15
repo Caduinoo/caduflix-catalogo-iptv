@@ -1,0 +1,96 @@
+{
+  "id": "series_6850",
+  "type": "series",
+  "title": "O Lado Sombrio de Hollywood",
+  "originalTitle": "Hollywood Demons",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/t5ZalUqcnH3yEkMI5zZDgjDKWHt.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yINZUBxBvXThLgv5rIzjvKWx1iD.jpg",
+  "overview": "Alguns atores alcançam a fama apenas para cair no esquecimento, enquanto outros revelam o lado mais trágico e sombrio da fama.",
+  "rating": 6.75,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 286269,
+  "xtream": {
+    "seriesId": 6850
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3353108",
+          "episodeId": 3353108,
+          "season": 1,
+          "episode": 1,
+          "title": "O Lado Sombrio de Hollywood S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353109",
+          "episodeId": 3353109,
+          "season": 1,
+          "episode": 2,
+          "title": "O Lado Sombrio de Hollywood S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353110",
+          "episodeId": 3353110,
+          "season": 1,
+          "episode": 3,
+          "title": "O Lado Sombrio de Hollywood S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353111",
+          "episodeId": 3353111,
+          "season": 1,
+          "episode": 4,
+          "title": "O Lado Sombrio de Hollywood S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353112",
+          "episodeId": 3353112,
+          "season": 1,
+          "episode": 5,
+          "title": "O Lado Sombrio de Hollywood S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353113",
+          "episodeId": 3353113,
+          "season": 1,
+          "episode": 6,
+          "title": "O Lado Sombrio de Hollywood S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3353114",
+          "episodeId": 3353114,
+          "season": 2,
+          "episode": 1,
+          "title": "O Lado Sombrio de Hollywood S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3353115",
+          "episodeId": 3353115,
+          "season": 2,
+          "episode": 2,
+          "title": "O Lado Sombrio de Hollywood S02 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

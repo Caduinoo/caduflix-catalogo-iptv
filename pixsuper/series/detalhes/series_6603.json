@@ -1,0 +1,58 @@
+{
+  "id": "series_6603",
+  "type": "series",
+  "title": "Segredos das Múmias",
+  "originalTitle": "Kingdom of the Mummies",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/pvX8uBNyIpdB2CCpv5QJWoBGGsb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2TczLZMh6Q8ovIjUsMW1X0i6nQ6.jpg",
+  "overview": "Uma equipe de arqueólogos liderada pelo Dr. Ramadan Hussein faz a descoberta de uma vida.",
+  "rating": 6.7,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 103076,
+  "xtream": {
+    "seriesId": 6603
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3347697",
+          "episodeId": 3347697,
+          "season": 1,
+          "episode": 1,
+          "title": "Segredos das Mumias [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3347698",
+          "episodeId": 3347698,
+          "season": 1,
+          "episode": 2,
+          "title": "Segredos das Mumias [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3347699",
+          "episodeId": 3347699,
+          "season": 1,
+          "episode": 3,
+          "title": "Segredos das Mumias [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3347700",
+          "episodeId": 3347700,
+          "season": 1,
+          "episode": 4,
+          "title": "Segredos das Mumias [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "series_3934",
+  "type": "series",
+  "title": "Sala de Aula dos Heróis",
+  "originalTitle": "英雄教室",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/pYLG2vRGQnklJpFBgjazQaCTDB4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7NXMz4qtIT608BIQx3pL4nsD24S.jpg",
+  "overview": "Nesta escola para heróis em treinamento, um garoto com um segredo lendário chega com tudo!",
+  "rating": 7.674,
+  "genres": [
+    "animacao",
+    "comedia",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 134742,
+  "xtream": {
+    "seriesId": 3934
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3277303",
+          "episodeId": 3277303,
+          "season": 1,
+          "episode": 1,
+          "title": "Sala de Aula dos Heróis [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277304",
+          "episodeId": 3277304,
+          "season": 1,
+          "episode": 2,
+          "title": "Sala de Aula dos Heróis [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277305",
+          "episodeId": 3277305,
+          "season": 1,
+          "episode": 3,
+          "title": "Sala de Aula dos Heróis [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277306",
+          "episodeId": 3277306,
+          "season": 1,
+          "episode": 4,
+          "title": "Sala de Aula dos Heróis [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277307",
+          "episodeId": 3277307,
+          "season": 1,
+          "episode": 5,
+          "title": "Sala de Aula dos Heróis [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277308",
+          "episodeId": 3277308,
+          "season": 1,
+          "episode": 6,
+          "title": "Sala de Aula dos Heróis [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277309",
+          "episodeId": 3277309,
+          "season": 1,
+          "episode": 7,
+          "title": "Sala de Aula dos Heróis [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3277310",
+          "episodeId": 3277310,
+          "season": 1,
+          "episode": 8,
+          "title": "Sala de Aula dos Heróis [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

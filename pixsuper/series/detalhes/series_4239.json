@@ -1,0 +1,66 @@
+{
+  "id": "series_4239",
+  "type": "series",
+  "title": "Sobrevivendo a Amazônia",
+  "originalTitle": "Surviving the Amazon",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/ztwIOAjhJd5beuzDgdIjRw8EQug.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xw0cKKXGYLXUIoQx0rDLeGWy7WC.jpg",
+  "overview": "",
+  "rating": 9,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 243410,
+  "xtream": {
+    "seriesId": 4239
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3285389",
+          "episodeId": 3285389,
+          "season": 1,
+          "episode": 1,
+          "title": "Sobrevivendo a Amazonia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285390",
+          "episodeId": 3285390,
+          "season": 1,
+          "episode": 2,
+          "title": "Sobrevivendo a Amazonia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285391",
+          "episodeId": 3285391,
+          "season": 1,
+          "episode": 3,
+          "title": "Sobrevivendo a Amazonia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285392",
+          "episodeId": 3285392,
+          "season": 1,
+          "episode": 4,
+          "title": "Sobrevivendo a Amazonia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3285393",
+          "episodeId": 3285393,
+          "season": 1,
+          "episode": 5,
+          "title": "Sobrevivendo a Amazonia S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "movie_3126599",
+  "type": "movie",
+  "title": "Alta Temperatura",
+  "originalTitle": "The Steam Experiment",
+  "year": 2009,
+  "poster": "https://image.tmdb.org/t/p/w500/tEZKz8x1fZjphsC8RjWMQJCv7vG.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1z25GGl5ontXQwltr9fNdAow3j.jpg",
+  "overview": "A vida de seis pessoas corre perigo quando um professor aposentado tranca todos em uma sauna a vapor. Ele ameaça aumentar a temperatura do local, se sua teoria sobre o aquecimento global não for publicada na primeira página do jornal.",
+  "rating": 4.2,
+  "runtime": 90,
+  "genres": [
+    "crime",
+    "drama",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Val Kilmer",
+      "character": "Jimmy",
+      "profile": "https://image.tmdb.org/t/p/w185/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+    },
+    {
+      "name": "Armand Assante",
+      "character": "Detective Mancini",
+      "profile": "https://image.tmdb.org/t/p/w185/9HbbWAJacTHguO2InDVHKGnaasm.jpg"
+    },
+    {
+      "name": "Eric Roberts",
+      "character": "Grant",
+      "profile": "https://image.tmdb.org/t/p/w185/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+    },
+    {
+      "name": "Megan Brown Martinez",
+      "character": "Catherine",
+      "profile": "https://image.tmdb.org/t/p/w185/jUZWnffw7dy1imnfc1zNccYv3yQ.jpg"
+    },
+    {
+      "name": "Patrick Muldoon",
+      "character": "Christopher",
+      "profile": "https://image.tmdb.org/t/p/w185/nuqKElpRossYTwh9BIymHLA5G6e.jpg"
+    },
+    {
+      "name": "Cordelia Reynolds",
+      "character": "Margaret",
+      "profile": "https://image.tmdb.org/t/p/w185/sexlKCZbMbd7dKypjVR3qW4UQzM.jpg"
+    },
+    {
+      "name": "Eve Mauro",
+      "character": "Jessie",
+      "profile": "https://image.tmdb.org/t/p/w185/jaY2RiuWQsS2w7wtRKbtBZOBzEn.jpg"
+    },
+    {
+      "name": "Quinn Duffy",
+      "character": "Frank",
+      "profile": "https://image.tmdb.org/t/p/w185/8xBIEOXmMSgaDMWYcHDVR5MReY6.jpg"
+    }
+  ],
+  "director": "Philippe Martinez",
+  "tmdbId": 20047,
+  "xtream": {
+    "streamId": 3126599,
+    "containerExtension": "mp4"
+  }
+}

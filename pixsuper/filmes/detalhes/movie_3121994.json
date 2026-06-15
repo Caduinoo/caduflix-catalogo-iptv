@@ -1,0 +1,86 @@
+{
+  "id": "movie_3121994",
+  "type": "movie",
+  "title": "M - A Última Esperança",
+  "originalTitle": "M",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/8oQxbLDGcQ0ZQqNgKfQqmOnrWKs.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cJJEPBwyjEZ9dEUyHwEY2Sio7SJ.jpg",
+  "overview": "O mundo foi devastado por uma pandemia. Sozinho e fora da segurança da floresta, Marko enfrenta um mundo despedaçado, envolto em silêncio e perigo.",
+  "rating": 7.2,
+  "runtime": 96,
+  "genres": [
+    "ficcao",
+    "drama",
+    "aventura",
+    "terror"
+  ],
+  "cast": [
+    {
+      "name": "Matej Sivakov",
+      "character": "Marko",
+      "profile": ""
+    },
+    {
+      "name": "Saško Kocev",
+      "character": "Tatko na Marko",
+      "profile": "https://image.tmdb.org/t/p/w185/pbGUTxBRZpSkcOBGoBrDTIjXXwd.jpg"
+    },
+    {
+      "name": "Aleksandar Ničovski",
+      "character": "Momo",
+      "profile": ""
+    },
+    {
+      "name": "Kamka Tocinovski",
+      "character": "Majkata na Momo",
+      "profile": "https://image.tmdb.org/t/p/w185/e5YdMbkH1AspZHehheK9SwFhM2P.jpg"
+    },
+    {
+      "name": "Bojana Gregorić Vejzović",
+      "character": "The Lieutenant",
+      "profile": "https://image.tmdb.org/t/p/w185/uMrR3jrpOL7w2yfwmjlNA5P1JL1.jpg"
+    },
+    {
+      "name": "Verica Nedeska",
+      "character": "Majkata na Marko",
+      "profile": "https://image.tmdb.org/t/p/w185/nOw7x70Ub65kkTGb6hziMbeCDZV.jpg"
+    },
+    {
+      "name": "Vladimir Tuliev",
+      "character": "Man in a raincoat",
+      "profile": ""
+    },
+    {
+      "name": "Oliver Mitkovski",
+      "character": "Skinny man",
+      "profile": "https://image.tmdb.org/t/p/w185/bMue2MxHvlswP4ZrA1fQrL9n5Lj.jpg"
+    },
+    {
+      "name": "Miroslav Petković",
+      "character": "Bearded man",
+      "profile": ""
+    },
+    {
+      "name": "Žaklina Petrovska",
+      "character": "Ženata vo Jonova grupa",
+      "profile": ""
+    },
+    {
+      "name": "Blagoj Veselinov",
+      "character": "Younger Soldier",
+      "profile": "https://image.tmdb.org/t/p/w185/lik9UdT52e6dBpsDf17y1X8cH2v.jpg"
+    },
+    {
+      "name": "Boris Damovski",
+      "character": "Older soldier",
+      "profile": ""
+    }
+  ],
+  "director": "Vardan Tozija",
+  "tmdbId": 829361,
+  "xtream": {
+    "streamId": 3121994,
+    "containerExtension": "mp4"
+  }
+}

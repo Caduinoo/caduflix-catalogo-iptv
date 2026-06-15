@@ -1,0 +1,50 @@
+{
+  "id": "series_7835",
+  "type": "series",
+  "title": "Fight Inc: Por dentro do UFC",
+  "originalTitle": "Fight Inc: Inside the UFC",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/cxJf0iXU4orrT8RGpbyWuhhQgRO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uPxrgNt3Uy9Xd1CwHEfjxaDP0CV.jpg",
+  "overview": "Já se passaram 30 anos desde o evento inaugural do UFC em 1993, uma era de marcos épicos, apesar dos enormes desafios. Mas para o presidente do UFC, Dana White, ainda há muito a realizar. Crônicas dos altos eufóricos e baixos esmagadores que White e seus conselheiros mais confiáveis enfrentam todos os dias no ramo da luta.",
+  "rating": 8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 256404,
+  "xtream": {
+    "seriesId": 7835
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3372425",
+          "episodeId": 3372425,
+          "season": 1,
+          "episode": 1,
+          "title": "Fight Inc Por dentro do UFC [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372426",
+          "episodeId": 3372426,
+          "season": 1,
+          "episode": 2,
+          "title": "Fight Inc Por dentro do UFC [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3372427",
+          "episodeId": 3372427,
+          "season": 1,
+          "episode": 3,
+          "title": "Fight Inc Por dentro do UFC [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

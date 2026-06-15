@@ -1,0 +1,93 @@
+{
+  "id": "series_3102",
+  "type": "series",
+  "title": "Cabeça Quente",
+  "originalTitle": "Sıcak Kafa",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/dt1RGQTZs1wqywXSdygWU62zCmX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3ki76LOS8nXo8GcM03i0jiwZvGI.jpg",
+  "overview": "Nesta realidade distópica, uma epidemia se dissemina pela comunicação verbal, mas um linguista é imune à doença. E ele vai ser caçado por isso.",
+  "rating": 5.949,
+  "genres": [
+    "drama",
+    "misterio",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 212818,
+  "xtream": {
+    "seriesId": 3102
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3255723",
+          "episodeId": 3255723,
+          "season": 1,
+          "episode": 1,
+          "title": "Cabeça Quente S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255724",
+          "episodeId": 3255724,
+          "season": 1,
+          "episode": 2,
+          "title": "Cabeça Quente S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255725",
+          "episodeId": 3255725,
+          "season": 1,
+          "episode": 3,
+          "title": "Cabeça Quente S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255726",
+          "episodeId": 3255726,
+          "season": 1,
+          "episode": 4,
+          "title": "Cabeça Quente S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255727",
+          "episodeId": 3255727,
+          "season": 1,
+          "episode": 5,
+          "title": "Cabeça Quente S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255728",
+          "episodeId": 3255728,
+          "season": 1,
+          "episode": 6,
+          "title": "Cabeça Quente S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255729",
+          "episodeId": 3255729,
+          "season": 1,
+          "episode": 7,
+          "title": "Cabeça Quente S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255730",
+          "episodeId": 3255730,
+          "season": 1,
+          "episode": 8,
+          "title": "Cabeça Quente S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "movie_3115600",
+  "type": "movie",
+  "title": "Sisu",
+  "originalTitle": "Sisu",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/h4uvgNH99FwREoBllzx2Rrsldah.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 23,
+  "genres": [
+    "drama",
+    "guerra"
+  ],
+  "cast": [
+    {
+      "name": "Vincent Rottiers",
+      "character": "Jérémy",
+      "profile": "https://image.tmdb.org/t/p/w185/m0o6G0uYoOWQgMPVSgaA27uH56f.jpg"
+    },
+    {
+      "name": "Margot Bancilhon",
+      "character": "Stéphanie",
+      "profile": "https://image.tmdb.org/t/p/w185/5q9IUPXJgB2wWp5GzFRLHCKPPcn.jpg"
+    },
+    {
+      "name": "Henri-Noël Tabary",
+      "character": "Le co-pilote",
+      "profile": "https://image.tmdb.org/t/p/w185/ePnqxQ9pCEj7UdnBfDMQs5pSVX3.jpg"
+    }
+  ],
+  "director": "Frédéric Farrucci",
+  "tmdbId": 592900,
+  "xtream": {
+    "streamId": 3115600,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "series_5931",
+  "type": "series",
+  "title": "Historia Esportiva Americana",
+  "originalTitle": "Historia Esportiva Americana",
+  "year": 2024,
+  "poster": "http://image.tmdb.org//t/p/w600_and_h900_bestv2/yXE3m8SyicvIy8jpalv2dQkaeVP.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Uma série de antologias com foco em eventos importantes envolvendo uma figura esportiva, reexaminados pelo prisma do mundo de hoje e contando a história de múltiplas perspectivas.",
+  "rating": 7,
+  "genres": [
+    "historia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 5931
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3329885",
+          "episodeId": 3329885,
+          "season": 1,
+          "episode": 1,
+          "title": "Historia Esportiva Americana [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3329886",
+          "episodeId": 3329886,
+          "season": 1,
+          "episode": 2,
+          "title": "Historia Esportiva Americana [L] S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

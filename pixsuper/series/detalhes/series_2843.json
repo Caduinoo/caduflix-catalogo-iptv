@@ -1,0 +1,75 @@
+{
+  "id": "series_2843",
+  "type": "series",
+  "title": "Santo",
+  "originalTitle": "Santo",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/iVMyt9nXneQwqTAKNjQ500OslSn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/twybTlqm4v7JKjkxktZqmffGT8k.jpg",
+  "overview": "Dois policiais em diferentes continentes se unem em uma perseguição desenfreada para capturar um traficante de drogas internacional, cujo rosto ninguém conhece.",
+  "rating": 5.6,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 128013,
+  "xtream": {
+    "seriesId": 2843
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3249429",
+          "episodeId": 3249429,
+          "season": 1,
+          "episode": 1,
+          "title": "Santo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249430",
+          "episodeId": 3249430,
+          "season": 1,
+          "episode": 2,
+          "title": "Santo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249431",
+          "episodeId": 3249431,
+          "season": 1,
+          "episode": 3,
+          "title": "Santo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249432",
+          "episodeId": 3249432,
+          "season": 1,
+          "episode": 4,
+          "title": "Santo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249433",
+          "episodeId": 3249433,
+          "season": 1,
+          "episode": 5,
+          "title": "Santo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3249434",
+          "episodeId": 3249434,
+          "season": 1,
+          "episode": 6,
+          "title": "Santo S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

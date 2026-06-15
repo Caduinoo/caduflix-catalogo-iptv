@@ -1,0 +1,75 @@
+{
+  "id": "series_3209",
+  "type": "series",
+  "title": "Cidade do Caos",
+  "originalTitle": "Shanty Town",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/jfQvIZEQ9qbFgboOtynOpzr06Of.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6qDujYplO8CFrjtgUdqDesidxV.jpg",
+  "overview": "Um grupo de mulheres tenta escapar das garras de um criminoso, mas a corrupção e as relações familiares deixam esse sonho de liberdade cada vez mais distante.",
+  "rating": 8.4,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 217460,
+  "xtream": {
+    "seriesId": 3209
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3258360",
+          "episodeId": 3258360,
+          "season": 1,
+          "episode": 1,
+          "title": "Cidade do Caos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258361",
+          "episodeId": 3258361,
+          "season": 1,
+          "episode": 2,
+          "title": "Cidade do Caos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258362",
+          "episodeId": 3258362,
+          "season": 1,
+          "episode": 3,
+          "title": "Cidade do Caos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258363",
+          "episodeId": 3258363,
+          "season": 1,
+          "episode": 4,
+          "title": "Cidade do Caos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258364",
+          "episodeId": 3258364,
+          "season": 1,
+          "episode": 5,
+          "title": "Cidade do Caos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3258365",
+          "episodeId": 3258365,
+          "season": 1,
+          "episode": 6,
+          "title": "Cidade do Caos S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

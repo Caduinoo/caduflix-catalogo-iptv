@@ -1,0 +1,64 @@
+{
+  "id": "movie_2769861",
+  "type": "movie",
+  "title": "Era uma vez… Uma estrela",
+  "originalTitle": "Había una vez una estrella",
+  "year": 1989,
+  "poster": "https://image.tmdb.org/t/p/w500/aXngaTgtLtE1UrjLZEkUU6drojd.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Depois da morte de sua mãe, Rodrigo tem que cuidar dos irmãos.",
+  "rating": 6.8,
+  "runtime": 90,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Pedro Fernández",
+      "character": "Rodrigo",
+      "profile": "https://image.tmdb.org/t/p/w185/waha0JE8N66vLxN90BgPgVplpyX.jpg"
+    },
+    {
+      "name": "David Reynoso",
+      "character": "Don Fernando",
+      "profile": ""
+    },
+    {
+      "name": "José Elías Moreno",
+      "character": "Ernesto",
+      "profile": "https://image.tmdb.org/t/p/w185/2mguGy9ooe0a0SGyAAxxqZyl088.jpg"
+    },
+    {
+      "name": "Anahí",
+      "character": "Maria",
+      "profile": "https://image.tmdb.org/t/p/w185/lUf6WeBHo6cCl1FRqtVVQGgCj4E.jpg"
+    },
+    {
+      "name": "Blanca Lidia Muñoz",
+      "character": "Doña",
+      "profile": ""
+    },
+    {
+      "name": "Beatriz Moreno",
+      "character": "Inés",
+      "profile": ""
+    },
+    {
+      "name": "Yolanda Merida",
+      "character": "Rita",
+      "profile": ""
+    },
+    {
+      "name": "Luis Enrique Roldán",
+      "character": "Javier",
+      "profile": ""
+    }
+  ],
+  "director": "Sergio Véjar",
+  "tmdbId": 466705,
+  "xtream": {
+    "streamId": 2769861,
+    "containerExtension": "mp4"
+  }
+}

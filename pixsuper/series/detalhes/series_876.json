@@ -1,0 +1,110 @@
+{
+  "id": "series_876",
+  "type": "series",
+  "title": "Robin of Sherwood",
+  "originalTitle": "Robin of Sherwood",
+  "year": 1984,
+  "poster": "https://image.tmdb.org/t/p/w500/9w2VHgqZ4pQTAdUX5BDhMvaA7mo.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1WLIpPMAryGpd2rQFI14JuVYgb7.jpg",
+  "overview": "Durante toda a vida, a hacker adolescente de Sherwood pensou que era órfã. Mas quando um misterioso Gauntlet abre um segredo que transforma seu mundo de cabeça para baixo, Robin se une a um g",
+  "rating": 7.6,
+  "genres": [
+    "fantasia",
+    "ficcao",
+    "drama",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 4488,
+  "xtream": {
+    "seriesId": 876
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3176960",
+          "episodeId": 3176960,
+          "season": 1,
+          "episode": 1,
+          "title": "Sherwood [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176961",
+          "episodeId": 3176961,
+          "season": 1,
+          "episode": 2,
+          "title": "Sherwood [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176962",
+          "episodeId": 3176962,
+          "season": 1,
+          "episode": 3,
+          "title": "Sherwood [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176963",
+          "episodeId": 3176963,
+          "season": 1,
+          "episode": 4,
+          "title": "Sherwood [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176964",
+          "episodeId": 3176964,
+          "season": 1,
+          "episode": 5,
+          "title": "Sherwood [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176965",
+          "episodeId": 3176965,
+          "season": 1,
+          "episode": 6,
+          "title": "Sherwood [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176966",
+          "episodeId": 3176966,
+          "season": 1,
+          "episode": 7,
+          "title": "Sherwood [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176967",
+          "episodeId": 3176967,
+          "season": 1,
+          "episode": 8,
+          "title": "Sherwood [L] S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176968",
+          "episodeId": 3176968,
+          "season": 1,
+          "episode": 9,
+          "title": "Sherwood [L] S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176969",
+          "episodeId": 3176969,
+          "season": 1,
+          "episode": 10,
+          "title": "Sherwood [L] S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

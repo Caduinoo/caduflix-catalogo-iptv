@@ -1,0 +1,66 @@
+{
+  "id": "series_710",
+  "type": "series",
+  "title": "O Dia de Amanhã",
+  "originalTitle": "El día de mañana",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/naQEaxWNCdAw6FxkuSnOCyOeAsE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aMyZWS9HApine865O8ISLycnmmj.jpg",
+  "overview": "Em 1966, Justo Gil chega a Barcelona como um migrante com o objetivo de ganhar dinheiro suficiente para dar a sua mãe doente os melhores cuidados. Seu grande carisma lhe permite socializar com os jovens da classe alta, até que uma reviravolta inesperada dos acontecimentos o torna um informante da polícia política, a fim de perseguir as células comunistas.",
+  "rating": 7.519,
+  "genres": [
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 80070,
+  "xtream": {
+    "seriesId": 710
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3161600",
+          "episodeId": 3161600,
+          "season": 1,
+          "episode": 1,
+          "title": "O Dia de Amanhã S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161601",
+          "episodeId": 3161601,
+          "season": 1,
+          "episode": 2,
+          "title": "O Dia de Amanhã S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161602",
+          "episodeId": 3161602,
+          "season": 1,
+          "episode": 3,
+          "title": "O Dia de Amanhã S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161603",
+          "episodeId": 3161603,
+          "season": 1,
+          "episode": 4,
+          "title": "O Dia de Amanhã S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3161604",
+          "episodeId": 3161604,
+          "season": 1,
+          "episode": 5,
+          "title": "O Dia de Amanhã S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

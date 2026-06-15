@@ -1,0 +1,90 @@
+{
+  "id": "series_7001",
+  "type": "series",
+  "title": "Bad Boy",
+  "originalTitle": "ילד רע",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/rnojt7Kg5S6iTBUDvOpFt8QsCcI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aDlM7M9PQuIwZr6vA4d5n7AYn3F.jpg",
+  "overview": "Nesta série sobre amadurecimento inspirada em eventos reais, um comediante conta como sobreviveu a um violento abrigo de reabilitação juvenil graças ao humor.",
+  "rating": 6.5,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 234034,
+  "xtream": {
+    "seriesId": 7001
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3355221",
+          "episodeId": 3355221,
+          "season": 1,
+          "episode": 1,
+          "title": "Bad Boy S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355222",
+          "episodeId": 3355222,
+          "season": 1,
+          "episode": 2,
+          "title": "Bad Boy S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355223",
+          "episodeId": 3355223,
+          "season": 1,
+          "episode": 3,
+          "title": "Bad Boy S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355224",
+          "episodeId": 3355224,
+          "season": 1,
+          "episode": 4,
+          "title": "Bad Boy S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355225",
+          "episodeId": 3355225,
+          "season": 1,
+          "episode": 5,
+          "title": "Bad Boy S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355226",
+          "episodeId": 3355226,
+          "season": 1,
+          "episode": 6,
+          "title": "Bad Boy S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355227",
+          "episodeId": 3355227,
+          "season": 1,
+          "episode": 7,
+          "title": "Bad Boy S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355228",
+          "episodeId": 3355228,
+          "season": 1,
+          "episode": 8,
+          "title": "Bad Boy S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

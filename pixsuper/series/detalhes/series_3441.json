@@ -1,0 +1,75 @@
+{
+  "id": "series_3441",
+  "type": "series",
+  "title": "Wreck",
+  "originalTitle": "Wreck",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/3bR8paDozNtcA1Lf7Qx0Q8Hn7uI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dYZDWNN9pFtdFndp31vxcPBTCQq.jpg",
+  "overview": "A bordo do mega navio de cruzeiro Sacramentum, o novo recruta de 20 anos, Jamie, se infiltra na tripulação de 3.000 homens em uma corrida desesperada para encontrar sua irmã desaparecida. Ela estava trabalhando a bordo do mesmo navio em uma viagem anterior e desapareceu no meio do fretamento.",
+  "rating": 5.7,
+  "genres": [
+    "comedia",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 169582,
+  "xtream": {
+    "seriesId": 3441
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3263754",
+          "episodeId": 3263754,
+          "season": 1,
+          "episode": 1,
+          "title": "Wreck S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263755",
+          "episodeId": 3263755,
+          "season": 1,
+          "episode": 2,
+          "title": "Wreck S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263756",
+          "episodeId": 3263756,
+          "season": 1,
+          "episode": 3,
+          "title": "Wreck S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263757",
+          "episodeId": 3263757,
+          "season": 1,
+          "episode": 4,
+          "title": "Wreck S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263758",
+          "episodeId": 3263758,
+          "season": 1,
+          "episode": 5,
+          "title": "Wreck S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263759",
+          "episodeId": 3263759,
+          "season": 1,
+          "episode": 6,
+          "title": "Wreck S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

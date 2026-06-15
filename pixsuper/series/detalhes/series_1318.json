@@ -1,0 +1,78 @@
+{
+  "id": "series_1318",
+  "type": "series",
+  "title": "Pretty Hard Cases",
+  "originalTitle": "Pretty Hard Cases",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/logy60poXm2R5RKPE0YaArgcZv1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dAXej68c1I68bQahHameQZyKwyS.jpg",
+  "overview": "",
+  "rating": 6.2,
+  "genres": [
+    "comedia",
+    "acao",
+    "aventura",
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 117327,
+  "xtream": {
+    "seriesId": 1318
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3194626",
+          "episodeId": 3194626,
+          "season": 1,
+          "episode": 1,
+          "title": "Pretty Hard Cases S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194627",
+          "episodeId": 3194627,
+          "season": 1,
+          "episode": 2,
+          "title": "Pretty Hard Cases S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194628",
+          "episodeId": 3194628,
+          "season": 1,
+          "episode": 3,
+          "title": "Pretty Hard Cases S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194629",
+          "episodeId": 3194629,
+          "season": 1,
+          "episode": 4,
+          "title": "Pretty Hard Cases S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194630",
+          "episodeId": 3194630,
+          "season": 1,
+          "episode": 5,
+          "title": "Pretty Hard Cases S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194631",
+          "episodeId": 3194631,
+          "season": 1,
+          "episode": 6,
+          "title": "Pretty Hard Cases S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

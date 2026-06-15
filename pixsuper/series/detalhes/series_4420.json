@@ -1,0 +1,50 @@
+{
+  "id": "series_4420",
+  "type": "series",
+  "title": "O Desastre de Chernobyl",
+  "originalTitle": "The Chernobyl Disaster",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/oAgLqwBjxKoG5KzEvThd0Lre910.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3W8OwrffCh5xXWUoHQRETJ3ohgp.jpg",
+  "overview": "Veja um relato definitivo da cronologia do desastre de Chernobyl, e entrevistas com especialistas.",
+  "rating": 6.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 203450,
+  "xtream": {
+    "seriesId": 4420
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3289209",
+          "episodeId": 3289209,
+          "season": 1,
+          "episode": 1,
+          "title": "O Desastre de Chernobyl S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289210",
+          "episodeId": 3289210,
+          "season": 1,
+          "episode": 2,
+          "title": "O Desastre de Chernobyl S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289211",
+          "episodeId": 3289211,
+          "season": 1,
+          "episode": 3,
+          "title": "O Desastre de Chernobyl S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

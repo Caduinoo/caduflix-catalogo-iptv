@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "id": "series_1612",
+    "type": "series",
+    "title": "High School Musical: A Série: O Musical",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/66rTi7wHI8IZ9lWClY876hTegNi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uUojnsT9WVrGG4eiQheaDkPUI9M.jpg",
+    "rating": 7.959,
+    "producer": "disney_plus",
+    "genres": [
+      "familia",
+      "infantil",
+      "comedia",
+      "drama",
+      "musica"
+    ],
+    "xtream": {
+      "seriesId": 1612
+    }
+  },
+  {
+    "id": "series_1774",
+    "type": "series",
+    "title": "1971: O Ano em Que a Música Mudou o Mundo",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/9pjoXyPmhbLWeFVuCv4h9IfFEHj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/f6Xfluys6C6BHOTKXpn5nTAvxMk.jpg",
+    "rating": 7.552,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "documentario",
+      "musica"
+    ],
+    "xtream": {
+      "seriesId": 1774
+    }
+  },
+  {
+    "id": "series_1961",
+    "type": "series",
+    "title": "Doddy's Music Box",
+    "year": 1967,
+    "poster": "http://image.tmdb.org/t/p/w300null",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 0,
+    "producer": "outras_produtoras",
+    "genres": [
+      "musica"
+    ],
+    "xtream": {
+      "seriesId": 1961
+    }
+  },
+  {
+    "id": "series_3442",
+    "type": "series",
+    "title": "Estrelas da Música",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/yoKfcvXy84cdNO7DUf9LlMJXQNb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/n3VUxEL7Gxemf3U5YSpAavzHeen.jpg",
+    "rating": 7.667,
+    "producer": "netflix",
+    "genres": [
+      "reality",
+      "musica"
+    ],
+    "xtream": {
+      "seriesId": 3442
+    }
+  },
+  {
+    "id": "series_5575",
+    "type": "series",
+    "title": "How Music Got Free",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/7v6hPstl6PJFKYwQiysxbMSBRQr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6P9dQINxsripfOYlAErUQwDWX1b.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "documentario",
+      "crime",
+      "musica"
+    ],
+    "xtream": {
+      "seriesId": 5575
+    }
+  },
+  {
+    "id": "series_7573",
+    "type": "series",
+    "title": "Os Runarounds: Música e Sonhos",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/mCvGv54KwvIqiPXStDF9riMM79T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oyr8vPGD66eNqruV3LjoI72UNxl.jpg",
+    "rating": 7.9,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "comedia",
+      "familia",
+      "infantil",
+      "musica"
+    ],
+    "xtream": {
+      "seriesId": 7573
+    }
+  },
+  {
+    "id": "series_8670",
+    "type": "series",
+    "title": "Boom Box: Música e Traição",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zrterNBeoHAUFoYTix9QDZarZnd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jC65TuN4gHTUZDPfIGUP809YBjJ.jpg",
+    "rating": 5.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "crime",
+      "documentario",
+      "musica"
+    ],
+    "xtream": {
+      "seriesId": 8670
+    }
+  }
+]

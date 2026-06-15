@@ -1,0 +1,106 @@
+{
+  "id": "series_4563",
+  "type": "series",
+  "title": "Tom Swift",
+  "originalTitle": "Tom Swift",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/g1gxOmj5EBNle208jCD0CLRJ7v9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xERG8q6BiofxS0OL7IkjattC7Qc.jpg",
+  "overview": "Tom é um inventor bilionário que é lançado em um mundo de conspiração de ficção científica e fenômenos inexplicáveis após o chocante desaparecimento de seu pai.",
+  "rating": 4,
+  "genres": [
+    "drama"
+  ],
+  "producer": "star_plus",
+  "tmdbId": 132380,
+  "xtream": {
+    "seriesId": 4563
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3292864",
+          "episodeId": 3292864,
+          "season": 1,
+          "episode": 1,
+          "title": "Tom Swift S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3292865",
+          "episodeId": 3292865,
+          "season": 1,
+          "episode": 2,
+          "title": "Tom Swift S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3292866",
+          "episodeId": 3292866,
+          "season": 1,
+          "episode": 3,
+          "title": "Tom Swift S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3292867",
+          "episodeId": 3292867,
+          "season": 1,
+          "episode": 4,
+          "title": "Tom Swift S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3292868",
+          "episodeId": 3292868,
+          "season": 1,
+          "episode": 5,
+          "title": "Tom Swift S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3292869",
+          "episodeId": 3292869,
+          "season": 1,
+          "episode": 6,
+          "title": "Tom Swift S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3292870",
+          "episodeId": 3292870,
+          "season": 1,
+          "episode": 7,
+          "title": "Tom Swift S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3292871",
+          "episodeId": 3292871,
+          "season": 1,
+          "episode": 8,
+          "title": "Tom Swift S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3292872",
+          "episodeId": 3292872,
+          "season": 1,
+          "episode": 9,
+          "title": "Tom Swift S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3292873",
+          "episodeId": 3292873,
+          "season": 1,
+          "episode": 10,
+          "title": "Tom Swift S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

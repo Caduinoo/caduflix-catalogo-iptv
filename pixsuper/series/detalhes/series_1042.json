@@ -1,0 +1,76 @@
+{
+  "id": "series_1042",
+  "type": "series",
+  "title": "Noturnos",
+  "originalTitle": "Noturnos",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/mKXHxR18x8H9xMYPvEyHR2toALg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5wFYhuaBaGJqTTu6gBE4PDmOp0u.jpg",
+  "overview": "Baseada em contos de terror escritos por Vinicius de Moraes, Noturna segue um grupo de atores que, durante um ensaio, fica preso dentro do teatro por causa de uma tempestade. Já que não podem voltar para casa, eles decidem passar o tempo contando histórias assustadoras e, para isso, se reúnem em torno de uma goteira. Mas, à medida que a noite avança, conflitos mal resolvidos da companhia teatral também se manifestam.",
+  "rating": 0,
+  "genres": [
+    "misterio",
+    "drama",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 111885,
+  "xtream": {
+    "seriesId": 1042
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3184360",
+          "episodeId": 3184360,
+          "season": 1,
+          "episode": 1,
+          "title": "Noturnos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184361",
+          "episodeId": 3184361,
+          "season": 1,
+          "episode": 2,
+          "title": "Noturnos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184362",
+          "episodeId": 3184362,
+          "season": 1,
+          "episode": 3,
+          "title": "Noturnos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184363",
+          "episodeId": 3184363,
+          "season": 1,
+          "episode": 4,
+          "title": "Noturnos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184364",
+          "episodeId": 3184364,
+          "season": 1,
+          "episode": 5,
+          "title": "Noturnos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3184365",
+          "episodeId": 3184365,
+          "season": 1,
+          "episode": 6,
+          "title": "Noturnos S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

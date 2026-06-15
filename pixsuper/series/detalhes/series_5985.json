@@ -1,0 +1,59 @@
+{
+  "id": "series_5985",
+  "type": "series",
+  "title": "Volta Priscila",
+  "originalTitle": "Volta Priscila",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/za3rDKjsuBdVhWqC7HA8itjKnNH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sUfvNWZ9SpWJ0T52ulW9lS87dAA.jpg",
+  "overview": "Em 2004, o Brasil é abalado pelo desaparecimento de Priscila, irmã do campeão mundial de MMA Vitor Belfort. A polícia corre contra o tempo para chegar à solução do caso, mas, 20 anos depois, o que resta são mais perguntas do que respostas.",
+  "rating": 6.8,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 272463,
+  "xtream": {
+    "seriesId": 5985
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3331191",
+          "episodeId": 3331191,
+          "season": 1,
+          "episode": 1,
+          "title": "Volta Priscila S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3331192",
+          "episodeId": 3331192,
+          "season": 1,
+          "episode": 2,
+          "title": "Volta Priscila S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3331193",
+          "episodeId": 3331193,
+          "season": 1,
+          "episode": 3,
+          "title": "Volta Priscila S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3331194",
+          "episodeId": 3331194,
+          "season": 1,
+          "episode": 4,
+          "title": "Volta Priscila S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "series_5141",
+  "type": "series",
+  "title": "The Famous Five",
+  "originalTitle": "The Famous Five",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/4jg2x00j8MRFhsDaFN2ESeJxeZO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5ePUq7CgjDxc0P5mQBOlneZ0FnI.jpg",
+  "overview": "",
+  "rating": 6.2,
+  "genres": [
+    "familia",
+    "infantil",
+    "crime",
+    "acao",
+    "aventura"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 231348,
+  "xtream": {
+    "seriesId": 5141
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308971",
+          "episodeId": 3308971,
+          "season": 1,
+          "episode": 1,
+          "title": "The Famous Five [L] S01 E01",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

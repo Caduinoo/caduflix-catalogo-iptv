@@ -1,0 +1,50 @@
+{
+  "id": "series_5570",
+  "type": "series",
+  "title": "O Homem com Mil Filhos",
+  "originalTitle": "The Man with 1000 Kids",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/cP01iZUgYLEt8Zxkb8FDqHlznRF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rv92pz3fWzhUmkB9KOwuO2hHJz7.jpg",
+  "overview": "Famílias descobrem que o doador de esperma em que confiaram gerou centenas (ou talvez milhares) de crianças no mundo todo.",
+  "rating": 6.576,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 257207,
+  "xtream": {
+    "seriesId": 5570
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3319230",
+          "episodeId": 3319230,
+          "season": 1,
+          "episode": 1,
+          "title": "O Homem com Mil Filhos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319231",
+          "episodeId": 3319231,
+          "season": 1,
+          "episode": 2,
+          "title": "O Homem com Mil Filhos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3319232",
+          "episodeId": 3319232,
+          "season": 1,
+          "episode": 3,
+          "title": "O Homem com Mil Filhos S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

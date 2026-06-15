@@ -1,0 +1,75 @@
+{
+  "id": "series_4432",
+  "type": "series",
+  "title": "Munich Games",
+  "originalTitle": "Munich Games",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/ap67kIekmu6HOUt3NBuLyaOjB6j.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zrGcvWpbJv36I6hazmt4iYqToxU.jpg",
+  "overview": "50 anos depois do Massacre de Munique, Munique acolhe um jogo de futebol entre um clube de futebol israelita e um alemão. Quando as coisas começam a desmoronar, parece que a história pode estar se repetindo novamente.",
+  "rating": 6.3,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "star_plus",
+  "tmdbId": 156315,
+  "xtream": {
+    "seriesId": 4432
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3289521",
+          "episodeId": 3289521,
+          "season": 1,
+          "episode": 1,
+          "title": "Munich Games S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289522",
+          "episodeId": 3289522,
+          "season": 1,
+          "episode": 2,
+          "title": "Munich Games S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289523",
+          "episodeId": 3289523,
+          "season": 1,
+          "episode": 3,
+          "title": "Munich Games S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289524",
+          "episodeId": 3289524,
+          "season": 1,
+          "episode": 4,
+          "title": "Munich Games S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289525",
+          "episodeId": 3289525,
+          "season": 1,
+          "episode": 5,
+          "title": "Munich Games S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289526",
+          "episodeId": 3289526,
+          "season": 1,
+          "episode": 6,
+          "title": "Munich Games S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

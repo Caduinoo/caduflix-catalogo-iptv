@@ -1,0 +1,91 @@
+{
+  "id": "series_3061",
+  "type": "series",
+  "title": "1899",
+  "originalTitle": "1899",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/qmpUDEgZawIlDU5HP3IJ9HjnpI3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s1xnjbOIQtwGObPnydTebp74G2c.jpg",
+  "overview": "O ano é 1899 e eventos misteriosos mudaram o rumo de um navio de imigrantes a caminho de Nova York. Agora, os passageiros terão que desvendar um enigma alucinante.",
+  "rating": 7.465,
+  "genres": [
+    "misterio",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 90669,
+  "xtream": {
+    "seriesId": 3061
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3255074",
+          "episodeId": 3255074,
+          "season": 1,
+          "episode": 1,
+          "title": "1899 S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255075",
+          "episodeId": 3255075,
+          "season": 1,
+          "episode": 2,
+          "title": "1899 S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255076",
+          "episodeId": 3255076,
+          "season": 1,
+          "episode": 3,
+          "title": "1899 S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255077",
+          "episodeId": 3255077,
+          "season": 1,
+          "episode": 4,
+          "title": "1899 S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255078",
+          "episodeId": 3255078,
+          "season": 1,
+          "episode": 5,
+          "title": "1899 S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255079",
+          "episodeId": 3255079,
+          "season": 1,
+          "episode": 6,
+          "title": "1899 S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255080",
+          "episodeId": 3255080,
+          "season": 1,
+          "episode": 7,
+          "title": "1899 S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255081",
+          "episodeId": 3255081,
+          "season": 1,
+          "episode": 8,
+          "title": "1899 S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

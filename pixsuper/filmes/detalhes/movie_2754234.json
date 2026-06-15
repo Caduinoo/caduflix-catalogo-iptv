@@ -1,0 +1,41 @@
+{
+  "id": "movie_2754234",
+  "type": "movie",
+  "title": "Ragnarok",
+  "originalTitle": "Ragnarok",
+  "year": 1983,
+  "poster": "https://image.tmdb.org/t/p/w500/gUwMN1z0DOrtU5qJVgHpfJ9Az5X.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zAtb1nfQ88zE6fw1h9ujpTjTztV.jpg",
+  "overview": "",
+  "rating": 4.8,
+  "runtime": 80,
+  "genres": [
+    "animacao",
+    "ficcao",
+    "aventura",
+    "acao"
+  ],
+  "cast": [
+    {
+      "name": "David Tate",
+      "character": "(voice)",
+      "profile": ""
+    },
+    {
+      "name": "Jon Glover",
+      "character": "(voice)",
+      "profile": "https://image.tmdb.org/t/p/w185/xNsuPkSkiJaeewpV3iIUVKg3Ak5.jpg"
+    },
+    {
+      "name": "Norma Ronald",
+      "character": "(voice)",
+      "profile": ""
+    }
+  ],
+  "director": "",
+  "tmdbId": 731968,
+  "xtream": {
+    "streamId": 2754234,
+    "containerExtension": "mp4"
+  }
+}

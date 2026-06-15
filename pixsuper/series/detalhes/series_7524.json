@@ -1,0 +1,51 @@
+{
+  "id": "series_7524",
+  "type": "series",
+  "title": "A Mulher da Casa Abandonada",
+  "originalTitle": "A Mulher da Casa Abandonada",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/dpYXNGHQBsAr4GhiExDxk4LLAJD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tNtlzOYJpcJYE4Iy2QcK0pmpQS3.jpg",
+  "overview": "O jornalista Chico Felitti investiga uma senhora peculiar que mora em uma mansão em ruínas em um bairro nobre de São Paulo, e que foi acusada, juntamente com seu ex-marido, de agredir e manter ilegalmente uma trabalhadora doméstica brasileira nos Estados Unidos durante os anos 2000.",
+  "rating": 7.654,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 293031,
+  "xtream": {
+    "seriesId": 7524
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3366761",
+          "episodeId": 3366761,
+          "season": 1,
+          "episode": 1,
+          "title": "A Mulher da Casa Abandonada S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3366762",
+          "episodeId": 3366762,
+          "season": 1,
+          "episode": 2,
+          "title": "A Mulher da Casa Abandonada S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3366763",
+          "episodeId": 3366763,
+          "season": 1,
+          "episode": 3,
+          "title": "A Mulher da Casa Abandonada S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "series_6767",
+  "type": "series",
+  "title": "Towards Zero",
+  "originalTitle": "Towards Zero",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/T6P2hxlya0XVWZdktWy6mdrT6J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aqa7FfArWMDMsHnecriLbC1sULA.jpg",
+  "overview": "O Superintendente Battle e o Inspetor Leach investigam o assassinato de uma viúva em Gull's Point. Um suicídio fracassado, uma falsa acusação de roubo e a vida amorosa de uma estrela do tênis surpreendentemente se conectam.",
+  "rating": 6.2,
+  "genres": [
+    "crime",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 245773,
+  "xtream": {
+    "seriesId": 6767
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3351556",
+          "episodeId": 3351556,
+          "season": 1,
+          "episode": 1,
+          "title": "Towards Zero [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3351557",
+          "episodeId": 3351557,
+          "season": 1,
+          "episode": 2,
+          "title": "Towards Zero [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3351558",
+          "episodeId": 3351558,
+          "season": 1,
+          "episode": 3,
+          "title": "Towards Zero [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

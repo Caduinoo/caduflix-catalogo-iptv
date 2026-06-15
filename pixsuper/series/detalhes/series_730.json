@@ -1,0 +1,75 @@
+{
+  "id": "series_730",
+  "type": "series",
+  "title": "The Luminaries",
+  "originalTitle": "The Luminaries",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/sLu91BuGaBK0YCUleK9VTwknQhF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bVHrbGALcEFGMo3Rt3MJejvl5Vm.jpg",
+  "overview": "Uma história épica de amor, assassinato e vingança, enquanto homens e mulheres viajam pelo mundo para fazer fortuna nos anos do boom da corrida do ouro em 1860.",
+  "rating": 6.655,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 95211,
+  "xtream": {
+    "seriesId": 730
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3162480",
+          "episodeId": 3162480,
+          "season": 1,
+          "episode": 1,
+          "title": "The Luminaries [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3162481",
+          "episodeId": 3162481,
+          "season": 1,
+          "episode": 2,
+          "title": "The Luminaries [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3162482",
+          "episodeId": 3162482,
+          "season": 1,
+          "episode": 3,
+          "title": "The Luminaries [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3162483",
+          "episodeId": 3162483,
+          "season": 1,
+          "episode": 4,
+          "title": "The Luminaries [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3162484",
+          "episodeId": 3162484,
+          "season": 1,
+          "episode": 5,
+          "title": "The Luminaries [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3162485",
+          "episodeId": 3162485,
+          "season": 1,
+          "episode": 6,
+          "title": "The Luminaries [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

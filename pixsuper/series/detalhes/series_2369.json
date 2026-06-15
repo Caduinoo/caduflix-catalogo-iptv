@@ -1,0 +1,74 @@
+{
+  "id": "series_2369",
+  "type": "series",
+  "title": "Queen of the Universe",
+  "originalTitle": "Queen of the Universe",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/qaXjnxkmYAKjkZSNJJIpfCQxnhp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/j3du8kOzn5NakXR8T8qAiNGNS1U.jpg",
+  "overview": "Espere saltos altos, oitavas altas e muito drama que vai bagunçar sua peruca quando começar a busca para encontrar a superestrela global drag de canto.",
+  "rating": 4.2,
+  "genres": [
+    "reality"
+  ],
+  "producer": "paramount",
+  "tmdbId": 130048,
+  "xtream": {
+    "seriesId": 2369
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3236851",
+          "episodeId": 3236851,
+          "season": 1,
+          "episode": 1,
+          "title": "Queen of the Universe S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236852",
+          "episodeId": 3236852,
+          "season": 1,
+          "episode": 2,
+          "title": "Queen of the Universe S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236853",
+          "episodeId": 3236853,
+          "season": 1,
+          "episode": 3,
+          "title": "Queen of the Universe S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236854",
+          "episodeId": 3236854,
+          "season": 1,
+          "episode": 4,
+          "title": "Queen of the Universe S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236855",
+          "episodeId": 3236855,
+          "season": 1,
+          "episode": 5,
+          "title": "Queen of the Universe S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236856",
+          "episodeId": 3236856,
+          "season": 1,
+          "episode": 6,
+          "title": "Queen of the Universe S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

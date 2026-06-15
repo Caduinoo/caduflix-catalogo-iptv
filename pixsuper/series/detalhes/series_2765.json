@@ -1,0 +1,74 @@
+{
+  "id": "series_2765",
+  "type": "series",
+  "title": "Pistol",
+  "originalTitle": "Pistol",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/qHswJ2FXpN9jJIqNlxgc5ZooFb4.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/nyeeTs57UBtvhV3ZZVnwn7uk2t7.jpg",
+  "overview": "A série conta a história de uma banda de garotos da classe trabalhadora instáveis, barulhentos e sem futuro, que sacudiram o sistema corrupto, ameaçaram derrubar o governo e mudaram a música e cultura para sempre.",
+  "rating": 7.548,
+  "genres": [
+    "drama"
+  ],
+  "producer": "star_plus",
+  "tmdbId": 132159,
+  "xtream": {
+    "seriesId": 2765
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3247459",
+          "episodeId": 3247459,
+          "season": 1,
+          "episode": 1,
+          "title": "Pistol S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247460",
+          "episodeId": 3247460,
+          "season": 1,
+          "episode": 2,
+          "title": "Pistol S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247461",
+          "episodeId": 3247461,
+          "season": 1,
+          "episode": 3,
+          "title": "Pistol S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247462",
+          "episodeId": 3247462,
+          "season": 1,
+          "episode": 4,
+          "title": "Pistol S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247463",
+          "episodeId": 3247463,
+          "season": 1,
+          "episode": 5,
+          "title": "Pistol S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3247464",
+          "episodeId": 3247464,
+          "season": 1,
+          "episode": 6,
+          "title": "Pistol S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

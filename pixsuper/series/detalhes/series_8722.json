@@ -1,0 +1,76 @@
+{
+  "id": "series_8722",
+  "type": "series",
+  "title": "Magpie Murders",
+  "originalTitle": "Magpie Murders",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/79L8AHJdoDtxtwyBNqNM1HRJ8q5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jNSCKKQEv0rnQ5tTicKnQY8e0PP.jpg",
+  "overview": "Susan Ryeland é uma editora a quem é dado um manuscrito inacabado que mudará sua vida.",
+  "rating": 6.985,
+  "genres": [
+    "drama",
+    "misterio",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 130766,
+  "xtream": {
+    "seriesId": 8722
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3387870",
+          "episodeId": 3387870,
+          "season": 1,
+          "episode": 1,
+          "title": "Magpie Murders (2022) S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387871",
+          "episodeId": 3387871,
+          "season": 1,
+          "episode": 2,
+          "title": "Magpie Murders (2022) S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387872",
+          "episodeId": 3387872,
+          "season": 1,
+          "episode": 3,
+          "title": "Magpie Murders (2022) S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387873",
+          "episodeId": 3387873,
+          "season": 1,
+          "episode": 4,
+          "title": "Magpie Murders (2022) S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387874",
+          "episodeId": 3387874,
+          "season": 1,
+          "episode": 5,
+          "title": "Magpie Murders (2022) S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3387875",
+          "episodeId": 3387875,
+          "season": 1,
+          "episode": 6,
+          "title": "Magpie Murders (2022) S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

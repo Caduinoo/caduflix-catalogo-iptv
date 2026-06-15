@@ -1,0 +1,75 @@
+{
+  "id": "series_7347",
+  "type": "series",
+  "title": "Off Road",
+  "originalTitle": "Off Road",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/xWqpd7xu5eQLSjnFyT828TnBe8J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/oR43KDN2cg2tuJXrDvtEYXEx1s5.jpg",
+  "overview": "Os atores Lior Raz (Fauda) e Rotem Sela (Um Corpo que Gera) conhecem a cultura e a beleza da Ásia Central, num teste de fogo para a amizade deles.",
+  "rating": 7,
+  "genres": [
+    "reality",
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 294191,
+  "xtream": {
+    "seriesId": 7347
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3363580",
+          "episodeId": 3363580,
+          "season": 1,
+          "episode": 1,
+          "title": "Off Road S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3363581",
+          "episodeId": 3363581,
+          "season": 1,
+          "episode": 2,
+          "title": "Off Road S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3363582",
+          "episodeId": 3363582,
+          "season": 1,
+          "episode": 3,
+          "title": "Off Road S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3363583",
+          "episodeId": 3363583,
+          "season": 1,
+          "episode": 4,
+          "title": "Off Road S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3363584",
+          "episodeId": 3363584,
+          "season": 1,
+          "episode": 5,
+          "title": "Off Road S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3363585",
+          "episodeId": 3363585,
+          "season": 1,
+          "episode": 6,
+          "title": "Off Road S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

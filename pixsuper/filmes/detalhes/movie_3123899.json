@@ -1,0 +1,35 @@
+{
+  "id": "movie_3123899",
+  "type": "movie",
+  "title": "O Último Retrato",
+  "originalTitle": "O Último Retrato",
+  "year": 2016,
+  "poster": "https://image.tmdb.org/t/p/w500/rCUdXN1K0vP5rcwdJsLOvgGO4eR.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Amanda precisa lidar com a ausência de Pedro.",
+  "rating": 8.5,
+  "runtime": 15,
+  "genres": [
+    "drama",
+    "misterio",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Camilla Loreta",
+      "character": "Amanda",
+      "profile": ""
+    },
+    {
+      "name": "Marco Barreto",
+      "character": "Pedro",
+      "profile": ""
+    }
+  ],
+  "director": "Arthur Tuoto",
+  "tmdbId": 685949,
+  "xtream": {
+    "streamId": 3123899,
+    "containerExtension": "mp4"
+  }
+}

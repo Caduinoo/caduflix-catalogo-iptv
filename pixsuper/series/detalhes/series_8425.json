@@ -1,0 +1,93 @@
+{
+  "id": "series_8425",
+  "type": "series",
+  "title": "Rainhas da Grana",
+  "originalTitle": "Les Lionnes",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/j03RtWsauZNNFdSrHbJoxdX5HYO.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/djAGltv1bVw625yYku4CyA42gq0.jpg",
+  "overview": "No limite do desespero, cinco amigas decidem que a única saída é formar uma gangue, conseguir armas e começar a assaltar bancos.",
+  "rating": 5.926,
+  "genres": [
+    "comedia",
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 269160,
+  "xtream": {
+    "seriesId": 8425
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3383688",
+          "episodeId": 3383688,
+          "season": 1,
+          "episode": 1,
+          "title": "Rainhas da Grana S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383689",
+          "episodeId": 3383689,
+          "season": 1,
+          "episode": 2,
+          "title": "Rainhas da Grana S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383690",
+          "episodeId": 3383690,
+          "season": 1,
+          "episode": 3,
+          "title": "Rainhas da Grana S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383691",
+          "episodeId": 3383691,
+          "season": 1,
+          "episode": 4,
+          "title": "Rainhas da Grana S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383692",
+          "episodeId": 3383692,
+          "season": 1,
+          "episode": 5,
+          "title": "Rainhas da Grana S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383693",
+          "episodeId": 3383693,
+          "season": 1,
+          "episode": 6,
+          "title": "Rainhas da Grana S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383694",
+          "episodeId": 3383694,
+          "season": 1,
+          "episode": 7,
+          "title": "Rainhas da Grana S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3383695",
+          "episodeId": 3383695,
+          "season": 1,
+          "episode": 8,
+          "title": "Rainhas da Grana S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

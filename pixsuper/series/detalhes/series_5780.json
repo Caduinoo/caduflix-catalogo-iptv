@@ -1,0 +1,58 @@
+{
+  "id": "series_5780",
+  "type": "series",
+  "title": "As Garotas do Surfe",
+  "originalTitle": "Surf Girls",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/lhat4ayvMaE9jw7ywybIs8s0pEH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y1OqshZqRCPVQdYtn61q3D4YgxF.jpg",
+  "overview": "A nova geração de surfistas nativas havaianas compete em níveis de elite para alcançar um lugar de destaque no World Tour do surfe profissional. Esta série em quatro episódios mostra os bastidores das meninas treinando, compartilhando responsabilidades familiares e enfrentando as melhores do ranking para chegar ao pódio.",
+  "rating": 8.8,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 229671,
+  "xtream": {
+    "seriesId": 5780
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3325897",
+          "episodeId": 3325897,
+          "season": 1,
+          "episode": 1,
+          "title": "As Garotas do Surfe Havai [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3325898",
+          "episodeId": 3325898,
+          "season": 1,
+          "episode": 2,
+          "title": "As Garotas do Surfe Havai [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3325899",
+          "episodeId": 3325899,
+          "season": 1,
+          "episode": 3,
+          "title": "As Garotas do Surfe Havai [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3325900",
+          "episodeId": 3325900,
+          "season": 1,
+          "episode": 4,
+          "title": "As Garotas do Surfe Havai [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

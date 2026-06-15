@@ -1,0 +1,78 @@
+{
+  "id": "series_5082",
+  "type": "series",
+  "title": "Contos de The Walking Dead",
+  "originalTitle": "Tales of the Walking Dead",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/jDwjAEQJXP9dkGmh5MWZgbDjFMv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uFU4ItwbxHnFHxntb76ASnZbWTN.jpg",
+  "overview": "Série Antológica composta de episódios independentes focados em personagens novos e já apresentados do universo The Walking Dead.",
+  "rating": 6.956,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 136248,
+  "xtream": {
+    "seriesId": 5082
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308118",
+          "episodeId": 3308118,
+          "season": 1,
+          "episode": 1,
+          "title": "Tales of the Walking Dead S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308119",
+          "episodeId": 3308119,
+          "season": 1,
+          "episode": 2,
+          "title": "Tales of the Walking Dead S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308120",
+          "episodeId": 3308120,
+          "season": 1,
+          "episode": 3,
+          "title": "Tales of the Walking Dead S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308121",
+          "episodeId": 3308121,
+          "season": 1,
+          "episode": 4,
+          "title": "Tales of the Walking Dead S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308122",
+          "episodeId": 3308122,
+          "season": 1,
+          "episode": 5,
+          "title": "Tales of the Walking Dead S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308123",
+          "episodeId": 3308123,
+          "season": 1,
+          "episode": 6,
+          "title": "Tales of the Walking Dead S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

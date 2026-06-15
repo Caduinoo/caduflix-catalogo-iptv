@@ -1,0 +1,76 @@
+{
+  "id": "series_3458",
+  "type": "series",
+  "title": "Bring Back Alice",
+  "originalTitle": "#BringBackAlice",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/nu6IXJDBhsLnatm5gRRdJXr85LR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sqnGbOY5zzvQl75bK80yWmAsOaQ.jpg",
+  "overview": "Há um ano, duas meninas desapareceram. Quando uma delas retorna sem lembranças do ano que passou, o irmão da outra garota tenta provar que os casos estão conectados e descobrir a verdade sobre sua irmã desaparecida.",
+  "rating": 5.909,
+  "genres": [
+    "misterio",
+    "drama",
+    "crime"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 222892,
+  "xtream": {
+    "seriesId": 3458
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3264093",
+          "episodeId": 3264093,
+          "season": 1,
+          "episode": 1,
+          "title": "Bring Back Alice S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264094",
+          "episodeId": 3264094,
+          "season": 1,
+          "episode": 2,
+          "title": "Bring Back Alice S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264095",
+          "episodeId": 3264095,
+          "season": 1,
+          "episode": 3,
+          "title": "Bring Back Alice S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264096",
+          "episodeId": 3264096,
+          "season": 1,
+          "episode": 4,
+          "title": "Bring Back Alice S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264097",
+          "episodeId": 3264097,
+          "season": 1,
+          "episode": 5,
+          "title": "Bring Back Alice S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3264098",
+          "episodeId": 3264098,
+          "season": 1,
+          "episode": 6,
+          "title": "Bring Back Alice S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

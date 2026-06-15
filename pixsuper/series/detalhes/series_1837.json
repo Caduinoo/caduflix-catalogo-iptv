@@ -1,0 +1,59 @@
+{
+  "id": "series_1837",
+  "type": "series",
+  "title": "A Última Jornada dos Vikings",
+  "originalTitle": "Vikingarnas Sista Resa",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/n43aNMQ2muEN21llfi0H2x5s68U.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/r5S1XP0BFD27ava3Y8oBgvBqNux.jpg",
+  "overview": "Quase 1.000 anos atrás, os vikings deixaram a Escandinávia e se estabeleceram pela Europa – dando seu nome à Normandia ao longo do caminho – antes de seus descendentes normandos tomarem o trono inglês na Batalha de Hastings em 1066. Mas o que realmente sabemos sobre eles? Combinando análise de especialistas com drama convincente, ‘A Última Jornada dos Vikings’ (título sueco: ‘Vikingarnas sista resa’) conta uma história nova e muitas vezes surpreendente sobre esse povo complexo.",
+  "rating": 7.8,
+  "genres": [
+    "documentario",
+    "guerra"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 101662,
+  "xtream": {
+    "seriesId": 1837
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3218726",
+          "episodeId": 3218726,
+          "season": 1,
+          "episode": 1,
+          "title": "The Last Journey of The Vikings [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3218727",
+          "episodeId": 3218727,
+          "season": 1,
+          "episode": 2,
+          "title": "The Last Journey of The Vikings [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3218728",
+          "episodeId": 3218728,
+          "season": 1,
+          "episode": 3,
+          "title": "The Last Journey of The Vikings [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3218729",
+          "episodeId": 3218729,
+          "season": 1,
+          "episode": 4,
+          "title": "The Last Journey of The Vikings [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

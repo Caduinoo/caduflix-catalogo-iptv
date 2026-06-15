@@ -1,0 +1,80 @@
+{
+  "id": "series_1142",
+  "type": "series",
+  "title": "Pretend Its a City",
+  "originalTitle": "Pretend Its a City",
+  "year": 2021,
+  "poster": "http://image.tmdb.org/t/p/w300/qFGa1ranQSLPTrhwXi7tslOIb8D.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Passeie por Nova York e conheça a mente a fascinante da escritora e humorista Fran Lebowitz, em uma conversa com Martin Scorsese.",
+  "rating": 8,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": null,
+  "xtream": {
+    "seriesId": 1142
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3187211",
+          "episodeId": 3187211,
+          "season": 1,
+          "episode": 1,
+          "title": "Pretend Its a City [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187212",
+          "episodeId": 3187212,
+          "season": 1,
+          "episode": 2,
+          "title": "Pretend Its a City [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187213",
+          "episodeId": 3187213,
+          "season": 1,
+          "episode": 3,
+          "title": "Pretend Its a City [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187214",
+          "episodeId": 3187214,
+          "season": 1,
+          "episode": 4,
+          "title": "Pretend Its a City [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187215",
+          "episodeId": 3187215,
+          "season": 1,
+          "episode": 5,
+          "title": "Pretend Its a City [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187216",
+          "episodeId": 3187216,
+          "season": 1,
+          "episode": 6,
+          "title": "Pretend Its a City [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3187217",
+          "episodeId": 3187217,
+          "season": 1,
+          "episode": 7,
+          "title": "Pretend Its a City [L] S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

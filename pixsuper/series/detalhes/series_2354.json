@@ -1,0 +1,77 @@
+{
+  "id": "series_2354",
+  "type": "series",
+  "title": "Universos Paralelos",
+  "originalTitle": "Parallèles",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/kWllPMxt5pbtW4Rx0XbgbhcYGmP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lQDmOefJYjRbYgQpVz9Pasnmbx9.jpg",
+  "overview": "As vidas dos quatro amigos de infância, Bilal, Romane, Sam e Victor, são afetadas quando um misterioso evento os separa, enviando-os para dimensões paralelas. Eles tentam entender o que aconteceu e se esforçam para retroceder o tempo, a fim de retornar ao seu mundo anterior.",
+  "rating": 7.7,
+  "genres": [
+    "misterio",
+    "fantasia",
+    "ficcao",
+    "drama"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 118906,
+  "xtream": {
+    "seriesId": 2354
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3236378",
+          "episodeId": 3236378,
+          "season": 1,
+          "episode": 1,
+          "title": "Universos Paralelos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236379",
+          "episodeId": 3236379,
+          "season": 1,
+          "episode": 2,
+          "title": "Universos Paralelos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236380",
+          "episodeId": 3236380,
+          "season": 1,
+          "episode": 3,
+          "title": "Universos Paralelos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236381",
+          "episodeId": 3236381,
+          "season": 1,
+          "episode": 4,
+          "title": "Universos Paralelos S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236382",
+          "episodeId": 3236382,
+          "season": 1,
+          "episode": 5,
+          "title": "Universos Paralelos S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236383",
+          "episodeId": 3236383,
+          "season": 1,
+          "episode": 6,
+          "title": "Universos Paralelos S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "series_3116",
+  "type": "series",
+  "title": "Flordelis: Em Nome da Mãe",
+  "originalTitle": "Flordelis: Em Nome da Mãe",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/qGsEGRJNRuQODlfPdWCpfJczgfV.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5Zywgt8pJfgaAn3YbjrDoTSxRiy.jpg",
+  "overview": "O processo de acusação contra a ex-pastora, que teria orquestrado o crime contra o marido. O caso aconteceu em junho de 2019, e nessa semana, Flordelis foi condenada a mais de 50 anos de prisão pelo homicídio do marido e pastor, Anderson do Carmo.",
+  "rating": 5.6,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 214307,
+  "xtream": {
+    "seriesId": 3116
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3256002",
+          "episodeId": 3256002,
+          "season": 1,
+          "episode": 1,
+          "title": "Flordelis: Em Nome da Mãe S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3256003",
+          "episodeId": 3256003,
+          "season": 1,
+          "episode": 2,
+          "title": "Flordelis: Em Nome da Mãe S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3256004",
+          "episodeId": 3256004,
+          "season": 1,
+          "episode": 3,
+          "title": "Flordelis: Em Nome da Mãe S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3256005",
+          "episodeId": 3256005,
+          "season": 1,
+          "episode": 4,
+          "title": "Flordelis: Em Nome da Mãe S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

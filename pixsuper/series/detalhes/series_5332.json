@@ -1,0 +1,78 @@
+{
+  "id": "series_5332",
+  "type": "series",
+  "title": "Star Wars: Histórias do Império",
+  "originalTitle": "Star Wars: Tales of the Empire",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/vEe6PWm8xUuz8Xa0YitShR6p7LP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/sMxOqjwaHHXuBnHkvVyzqcOPMVF.jpg",
+  "overview": "A jornada pelo assutador Império Galáctico pelos olhos de duas guerreiras em caminhos diferentes.",
+  "rating": 7.349,
+  "genres": [
+    "animacao",
+    "fantasia",
+    "ficcao",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 251091,
+  "xtream": {
+    "seriesId": 5332
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3313200",
+          "episodeId": 3313200,
+          "season": 1,
+          "episode": 1,
+          "title": "Star Wars Historias do Imperio S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3313201",
+          "episodeId": 3313201,
+          "season": 1,
+          "episode": 2,
+          "title": "Star Wars Historias do Imperio S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3313202",
+          "episodeId": 3313202,
+          "season": 1,
+          "episode": 3,
+          "title": "Star Wars Historias do Imperio S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3313203",
+          "episodeId": 3313203,
+          "season": 1,
+          "episode": 4,
+          "title": "Star Wars Historias do Imperio S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3313204",
+          "episodeId": 3313204,
+          "season": 1,
+          "episode": 5,
+          "title": "Star Wars Historias do Imperio S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3313205",
+          "episodeId": 3313205,
+          "season": 1,
+          "episode": 6,
+          "title": "Star Wars Historias do Imperio S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

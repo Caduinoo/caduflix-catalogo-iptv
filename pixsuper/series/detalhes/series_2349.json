@@ -1,0 +1,59 @@
+{
+  "id": "series_2349",
+  "type": "series",
+  "title": "Rumo ao Desconhecido: Especial De Volta para o Futuro",
+  "originalTitle": "Expedition: Back to the Future",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/4RvOtsGW7XMpAWRyB1WPU8DP3bp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7RvHxymrM7jSMsF7XTun0YHylFt.jpg",
+  "overview": "35 anos após a estreia de 'De Volta para o Futuro', Christopher Lloyd, o expedicionário Josh Gates e um elenco de estrelas da Discovery partem em uma missão de busca por representantes únicos do icônico DeLorean.",
+  "rating": 7,
+  "genres": [
+    "comedia",
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 120932,
+  "xtream": {
+    "seriesId": 2349
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3236334",
+          "episodeId": 3236334,
+          "season": 1,
+          "episode": 1,
+          "title": "Rumo ao Desconhecido: Especial De Volta para o Futuro S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236335",
+          "episodeId": 3236335,
+          "season": 1,
+          "episode": 2,
+          "title": "Rumo ao Desconhecido: Especial De Volta para o Futuro S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236336",
+          "episodeId": 3236336,
+          "season": 1,
+          "episode": 3,
+          "title": "Rumo ao Desconhecido: Especial De Volta para o Futuro S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3236337",
+          "episodeId": 3236337,
+          "season": 1,
+          "episode": 4,
+          "title": "Rumo ao Desconhecido: Especial De Volta para o Futuro S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

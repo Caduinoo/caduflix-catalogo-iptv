@@ -1,13 +1,13 @@
 [
   {
-    "id": "series_3",
+    "id": "series_2294",
     "type": "series",
     "title": "A Bíblia",
     "year": 2021,
     "poster": "https://image.tmdb.org/t/p/w500/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w1280/uVuZf6E9HI95P2MsRx2OxEDfWPD.jpg",
     "rating": 8,
-    "producer": "netflix",
+    "producer": "outras_produtoras",
     "genres": [
       "acao",
       "aventura",
@@ -16,7 +16,7 @@
       "nacional"
     ],
     "xtream": {
-      "seriesId": 3
+      "seriesId": 2294
     }
   },
   {
@@ -34,6 +34,5314 @@
     ],
     "xtream": {
       "seriesId": 40
+    }
+  },
+  {
+    "id": "series_111",
+    "type": "series",
+    "title": "Os Inocentes",
+    "year": 1974,
+    "poster": "https://image.tmdb.org/t/p/w500/3JmZ4c8eo6z7izfQm2SSd9Xx14n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4V5gTlD39tGAO1foDwwGZcvtY91.jpg",
+    "rating": 9,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance",
+      "faroeste",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 111
+    }
+  },
+  {
+    "id": "series_5803",
+    "type": "series",
+    "title": "O Sétimo Guardião",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/iazoBKOmyixpOdukKfVipvfCtq7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yNNFFAVtfrMO8nGhi1AIuMDrw4b.jpg",
+    "rating": 3.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "fantasia",
+      "ficcao",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5803
+    }
+  },
+  {
+    "id": "series_230",
+    "type": "series",
+    "title": "Verdades Secretas",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/js4ME0psGSLwJQs3zbiYN2fhlEE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lU28XFV7ITJLnWAqRJpvK10deA6.jpg",
+    "rating": 7.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 230
+    }
+  },
+  {
+    "id": "series_300",
+    "type": "series",
+    "title": "Avenida Brasil",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/p8uzK1Lngu9q9dpnn4SwPKIT1H7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5ssgDp28z1Nif6hR8OFrNQUspd4.jpg",
+    "rating": 8.114,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 300
+    }
+  },
+  {
+    "id": "series_376",
+    "type": "series",
+    "title": "Filhos da Pátria",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/st8Y3tV9NqOVZS82TfMaXkZf9sX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fKuqAJEf7wDbtzspIHLWHIHPVys.jpg",
+    "rating": 9.5,
+    "producer": "globoplay",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 376
+    }
+  },
+  {
+    "id": "series_440",
+    "type": "series",
+    "title": "Club 57",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/juvqXhMrhjRLQxJDy5cXW4ySdzN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dK7m4ZBtwFfYfqauyPSSvJQ3uk8.jpg",
+    "rating": 8.2,
+    "producer": "paramount",
+    "genres": [
+      "comedia",
+      "fantasia",
+      "ficcao",
+      "drama",
+      "romance",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 440
+    }
+  },
+  {
+    "id": "series_533",
+    "type": "series",
+    "title": "Caminho das Índias",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/x4d6gqRBx5FCnPvXCTg2lAJwpqM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vYAkx4BQeIb9OkGCMZe5xL1RUeV.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 533
+    }
+  },
+  {
+    "id": "series_539",
+    "type": "series",
+    "title": "Os Dez Mandamentos",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/lRrp8GgujG7d55KJvJq29JP83oW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cvaXVVVHi7TNv2HPJwQLTsoilbb.jpg",
+    "rating": 7.889,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "historia",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 539
+    }
+  },
+  {
+    "id": "series_577",
+    "type": "series",
+    "title": "O Cravo e a Rosa",
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/kMNNvkzoLIk8NjIegwq7mNI721O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/c7HyfB3VPIxN5M54IVs9GxZTOrI.jpg",
+    "rating": 7.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 577
+    }
+  },
+  {
+    "id": "series_578",
+    "type": "series",
+    "title": "Chocolate com Pimenta",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/vPh5Fo4ptnHrI8Ku0QplHrSoeDe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2XGClQjMgz317DM0FpIjlU7qK49.jpg",
+    "rating": 8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 578
+    }
+  },
+  {
+    "id": "series_582",
+    "type": "series",
+    "title": "O Clone",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/4UiovpqPnttTdVrUzbjFIKlXjnc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7FCw6qSwkz9IJ1o3mQthRbVAGOA.jpg",
+    "rating": 8.078,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "fantasia",
+      "ficcao",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 582
+    }
+  },
+  {
+    "id": "series_739",
+    "type": "series",
+    "title": "Novo Mundo",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/wO4EyZcemibJci2CEKnMGxIPFUY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4FhybaBiQi8VA0VEzBvqtxyp6CF.jpg",
+    "rating": 8.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "acao",
+      "aventura",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 739
+    }
+  },
+  {
+    "id": "series_740",
+    "type": "series",
+    "title": "Chiquititas",
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/rT6FXnFMU9xkzGaISTnCCkJ3fOo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vk7HjvQJZrb7MoOy15GH6lST1f2.jpg",
+    "rating": 7.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "infantil",
+      "familia",
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 740
+    }
+  },
+  {
+    "id": "series_741",
+    "type": "series",
+    "title": "Salve Jorge",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/uyG1iWsAGX7K7o0iTVKGEVT2RPR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/80TdemQlDHOVTQgRwtR4PwWwgXB.jpg",
+    "rating": 7.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 741
+    }
+  },
+  {
+    "id": "series_742",
+    "type": "series",
+    "title": "Império",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/d6Zf2gWK9sKWtU0C68seYi3Toyq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/25FyyCt02iTG77q7qeH6ecsPb0v.jpg",
+    "rating": 6.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 742
+    }
+  },
+  {
+    "id": "series_9143",
+    "type": "series",
+    "title": "A Usurpadora",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/3DkdWuttsr0FOLjKpAvkQ9FOI95.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7isN2RSPLTQ2yquIemmiuTf7fql.jpg",
+    "rating": 7.614,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9143
+    }
+  },
+  {
+    "id": "series_746",
+    "type": "series",
+    "title": "Estrela-Guia",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/mkPB3DBSyxVvh0sXzbVQ2utOoRv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pqhSyurYgiaD7nx5Ku3v6poZSku.jpg",
+    "rating": 6.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "fantasia",
+      "ficcao",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 746
+    }
+  },
+  {
+    "id": "series_747",
+    "type": "series",
+    "title": "Além do Tempo",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/ySntcQ597xOKM4nuaJBAZeIck67.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/chKuEdL9JJ6ZPJPrjLXYiACLFh9.jpg",
+    "rating": 8.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 747
+    }
+  },
+  {
+    "id": "series_3150",
+    "type": "series",
+    "title": "A Próxima Vítima",
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/mzjDrUCgErrWvjyiTTL6OUYysRA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cFbFzDILiJRlGO0RG6istdDJzKT.jpg",
+    "rating": 7.5,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "romance",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3150
+    }
+  },
+  {
+    "id": "series_751",
+    "type": "series",
+    "title": "América",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/hSMaND7FiiwkpLafET7pUeiME7a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tg2zjMG0rtyZvFk75FOHKYjrgL.jpg",
+    "rating": 6.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 751
+    }
+  },
+  {
+    "id": "series_752",
+    "type": "series",
+    "title": "Araguaia",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/1tZmWj5uzYZtOM12yWYKTy4BAbJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oQfJG7dwUQdYX7pQ7UapSSQvBZP.jpg",
+    "rating": 6.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 752
+    }
+  },
+  {
+    "id": "series_753",
+    "type": "series",
+    "title": "Barriga de Aluguel",
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/u6yZJbfbkJocgRggeKeMvhqkeFo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/33ZpRaZwebYsceQTPg5yB0OzTl6.jpg",
+    "rating": 7.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 753
+    }
+  },
+  {
+    "id": "series_5623",
+    "type": "series",
+    "title": "Malhação",
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/arzEXF03COX1Yj39riYGSEfgNtY.jpg",
+    "rating": 6.236,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5623
+    }
+  },
+  {
+    "id": "series_757",
+    "type": "series",
+    "title": "A Força do Querer",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/4y7OiZU8qKTAfAas6imvk0AfPXt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/axPMFFUvLdmuAEjzInJA9dbvU5L.jpg",
+    "rating": 7.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 757
+    }
+  },
+  {
+    "id": "series_758",
+    "type": "series",
+    "title": "Agora é Que São Elas",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/noSzEP1Boo9dcbh5b1TVW6HXo4C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/77a2OMNrj5eh4mOi3c54xbxhcfU.jpg",
+    "rating": 6.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 758
+    }
+  },
+  {
+    "id": "series_759",
+    "type": "series",
+    "title": "Amor à Vida",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/sVEaRE6IrmLpkQydIKy8bQyBp8v.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9vqqstyyhaO6b7Zc3VJgjzpWMJi.jpg",
+    "rating": 5.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 759
+    }
+  },
+  {
+    "id": "series_760",
+    "type": "series",
+    "title": "Brega & Chique",
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/d24zJuoXRXtqdbslNhbdnOjk69d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nj4fVVE0zF5hR6lVv0pYViFG4gU.jpg",
+    "rating": 8.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 760
+    }
+  },
+  {
+    "id": "series_761",
+    "type": "series",
+    "title": "Cama de Gato",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/2MUm6SvV8DdGNeXVS8dfTUCnXx7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vs2fShoF4tqCJ9qLPMCNkB6qSM5.jpg",
+    "rating": 8.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 761
+    }
+  },
+  {
+    "id": "series_762",
+    "type": "series",
+    "title": "Da Cor do Pecado",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/enXaNoI9K6bsBQpQNTXMP57yULF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cLftreXClWhlJnZxgoRiXYB8vaC.jpg",
+    "rating": 6.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 762
+    }
+  },
+  {
+    "id": "series_764",
+    "type": "series",
+    "title": "Escrito nas Estrelas",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/i95XboxtuMY4q4Ln8oR5u2oSeBz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6zq2oapljBsgpB3HqbaQc6WVVZ6.jpg",
+    "rating": 7.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "fantasia",
+      "ficcao",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 764
+    }
+  },
+  {
+    "id": "series_765",
+    "type": "series",
+    "title": "Êta Mundo Bom!",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/gAbt0tV2Z0z2zSYEjDzhsyy74d7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9q0so2KgyKLQkWJHaOF9M2xwdSe.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 765
+    }
+  },
+  {
+    "id": "series_766",
+    "type": "series",
+    "title": "Gabriela",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/9xK1ujz9UMxojYX6fXoXUsdyL2b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7sIhKIufEWofnVUILtGWUOjgwEv.jpg",
+    "rating": 7.653,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 766
+    }
+  },
+  {
+    "id": "series_767",
+    "type": "series",
+    "title": "O Profeta",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/cHAvUk4M37Iwv4ZmQZTevGCtXdC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tELfqlbDBMh4dnETeCTeiMVIljt.jpg",
+    "rating": 6.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 767
+    }
+  },
+  {
+    "id": "series_769",
+    "type": "series",
+    "title": "Senhora do Destino",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/x74oguhQltDFw8rUZX5C0Li9N56.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p5D492rqjQmrcc8rQPLkcJ9FPpa.jpg",
+    "rating": 7.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 769
+    }
+  },
+  {
+    "id": "series_770",
+    "type": "series",
+    "title": "Sinhá Moça",
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/tT7OyXr0VqLK3VEMqPu7WVH81vA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fuPqkE8nDWOZr6WQp6hsnyPP6cI.jpg",
+    "rating": 7.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 770
+    }
+  },
+  {
+    "id": "series_771",
+    "type": "series",
+    "title": "Torre de Babel",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/g4kPA811MgAdrlMr5sxOTxKW9ps.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tDbtGsK8pglWAUxMpHgbAwE88Mh.jpg",
+    "rating": 6.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 771
+    }
+  },
+  {
+    "id": "series_772",
+    "type": "series",
+    "title": "Chamas da Vida",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/4Cl5oc3HrD1ydkxr61NKCP2Piza.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cAxRL73hStrBPRO1WgRS9XKch8o.jpg",
+    "rating": 6.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 772
+    }
+  },
+  {
+    "id": "series_773",
+    "type": "series",
+    "title": "Por Amor",
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/lq3lz2xtJmtNtmoXM7AVtXL1D5v.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xrxvV25snYtjmPTcKnLjw3z3XBS.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 773
+    }
+  },
+  {
+    "id": "series_3247",
+    "type": "series",
+    "title": "A Dona do Pedaço",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/4I7zrtDSbjuaxeIz9dNCsKgsZA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cNx1R1CzdqJ3hlri8JGQWH0gLQp.jpg",
+    "rating": 7.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3247
+    }
+  },
+  {
+    "id": "series_776",
+    "type": "series",
+    "title": "A Viagem",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/zKsvKZ3AO8ruChkwSVRbphaX7Tr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mNdNEIWSorl9aER30gqvQxWTqrE.jpg",
+    "rating": 8.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 776
+    }
+  },
+  {
+    "id": "series_777",
+    "type": "series",
+    "title": "Anjo Mau",
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/hN9pF4XjjpUE6Ik1VFdCB9baWyv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/285rIXbeW5cpbFmZDrCr2XpmDWl.jpg",
+    "rating": 8.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 777
+    }
+  },
+  {
+    "id": "series_779",
+    "type": "series",
+    "title": "Cheias de Charme",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/3S4I5gWnrk6cV783mQto3orO12C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/egcnlLGIJTqd8RaYzmQQO8kNxLb.jpg",
+    "rating": 8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 779
+    }
+  },
+  {
+    "id": "series_780",
+    "type": "series",
+    "title": "Celebridade",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/w1ROW7YvjoPVkQJ6P1yp6rLNOTS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ciwJBJo9eAs1eZVOdFA4d1S8v4E.jpg",
+    "rating": 7.977,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 780
+    }
+  },
+  {
+    "id": "series_781",
+    "type": "series",
+    "title": "Cordel Encantado",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/5RAEdRVymAyipE7hkcuTUltX10Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ljgCd6hhfY3CpJWwe7ksQPqO5xZ.jpg",
+    "rating": 8.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 781
+    }
+  },
+  {
+    "id": "series_782",
+    "type": "series",
+    "title": "Cabocla",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/h9EQxpMg4uJpqPzr31RhSw5DPZ9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg",
+    "rating": 7.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 782
+    }
+  },
+  {
+    "id": "series_783",
+    "type": "series",
+    "title": "Caras & Bocas",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/pVh1kb32ZLqdyxOuHPjPZgrlrYM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1dBh3ZlWYMho0WyywlGM3rpYvbZ.jpg",
+    "rating": 5.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 783
+    }
+  },
+  {
+    "id": "series_784",
+    "type": "series",
+    "title": "Duas Caras",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/xZpHdhEMnN5HRvhUuNUP2OL001P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Ab9YuQV6yKEHx9nWKCDdbftwaKO.jpg",
+    "rating": 6.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 784
+    }
+  },
+  {
+    "id": "series_785",
+    "type": "series",
+    "title": "Éramos Seis",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/pzS9lmilGc3cERf0jW5Dt8JXPFi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7rZrn5jqgLZ0ZwS9iPdO94K6QUn.jpg",
+    "rating": 8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 785
+    }
+  },
+  {
+    "id": "series_786",
+    "type": "series",
+    "title": "Laços de Família",
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/tx2oX3AZ5UMXLsOH7TtLjRVeO7f.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/e57B00sgDb71aDmfGyOOWjN2FlI.jpg",
+    "rating": 6.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 786
+    }
+  },
+  {
+    "id": "series_794",
+    "type": "series",
+    "title": "Morde & Assopra",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/8mLBgn8vmOF97qfgTPnVgSwLdUf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5ljtPgJ1eh8yluGFPTWVeS3lh2x.jpg",
+    "rating": 5.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 794
+    }
+  },
+  {
+    "id": "series_795",
+    "type": "series",
+    "title": "O Outro Lado do Paraíso",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/aNA16YOOgoawbLYltG4CKADPkhK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/de2jfUW4E3X3jl8Tf62BgRPDMHd.jpg",
+    "rating": 6.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 795
+    }
+  },
+  {
+    "id": "series_796",
+    "type": "series",
+    "title": "Porto dos Milagres",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/efYA8J0RTeBHJP1VcAKpZGUQ45k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/plMDSGimBEJc9CRAvFIYXJb2Bhj.jpg",
+    "rating": 6.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 796
+    }
+  },
+  {
+    "id": "series_798",
+    "type": "series",
+    "title": "Topíssima",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/ea0tmZB4JvRqsqpcDK7kXdGpevR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kAoPi3i1x2LOySw6tMFexCpVdBb.jpg",
+    "rating": 8.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "comedia",
+      "crime",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 798
+    }
+  },
+  {
+    "id": "series_799",
+    "type": "series",
+    "title": "Verão 90",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/zdmdrn3EqDGcjZVTPa2tHs1If0c.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ezAiCkRjYW9wSwY3qVBcaSDeXIr.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 799
+    }
+  },
+  {
+    "id": "series_800",
+    "type": "series",
+    "title": "Amor de Mãe",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/k6J6s7vc7iW4kH8U6JJR8QZ9csh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v3V1jBISx3uMORqxl6DTattF7Od.jpg",
+    "rating": 6.982,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "crime",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 800
+    }
+  },
+  {
+    "id": "series_801",
+    "type": "series",
+    "title": "Espelho da Vida",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/mSPKIHUYLHp76yWbwS6kg7diica.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kSrijnN6Ukbi8r20FcU829YqLAx.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 801
+    }
+  },
+  {
+    "id": "series_802",
+    "type": "series",
+    "title": "A Regra do Jogo",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/kyBZHO0hxYjiv0LEDphEf6gxEbd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9D8aJO1j5lm7auUAzACkf6gL0fX.jpg",
+    "rating": 5.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "crime",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 802
+    }
+  },
+  {
+    "id": "series_9142",
+    "type": "series",
+    "title": "A Madrastra",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/kt8bb1jcMlcYObzPpoQYV8Adf9p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eisNn4SS8Dzbow5L9PRUvR4WQTw.jpg",
+    "rating": 8.118,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9142
+    }
+  },
+  {
+    "id": "series_825",
+    "type": "series",
+    "title": "A Favorita",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/9P1bP4G6t8A3BCoscADJV2Rpsi1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fDBIVzxxtQ6jA0AindKKTkWEMq2.jpg",
+    "rating": 7.9,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 825
+    }
+  },
+  {
+    "id": "series_858",
+    "type": "series",
+    "title": "Haja Coração",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/96Jixdjy5z33livtpFY1H50A6Sm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/moY5Z9XqLz9rb5sdav1vjA3uiPb.jpg",
+    "rating": 7.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 858
+    }
+  },
+  {
+    "id": "series_873",
+    "type": "series",
+    "title": "Páginas da Vida",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/8qMjI4skWbMTJWmiFnyXSoGLjEM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6QeI0DzYmFHyKk3Deh9Ua6uFUQm.jpg",
+    "rating": 6.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 873
+    }
+  },
+  {
+    "id": "series_921",
+    "type": "series",
+    "title": "Mulheres Apaixonadas",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/f7xttU79eOEm8YOu4DCONvbPtNX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wephHJw7CMbfTu8bBv95xYRVNaV.jpg",
+    "rating": 6.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 921
+    }
+  },
+  {
+    "id": "series_1000",
+    "type": "series",
+    "title": "Boogie Oogie",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/6Xrd9eC56xKQINbsaQQ2L3gKPYa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5MKQNrCpWXV1ya9Hq6QEa0UNCyt.jpg",
+    "rating": 7.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1000
+    }
+  },
+  {
+    "id": "series_1001",
+    "type": "series",
+    "title": "Pega Pega",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/fuD9U4mmRZCxRlezvu3GgZlvILe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/luwbfOtnvPiK6DqpNIyVLg7sZpP.jpg",
+    "rating": 5.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1001
+    }
+  },
+  {
+    "id": "series_1002",
+    "type": "series",
+    "title": "Sangue Bom",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/v2hfZIieEpl9W0br2FuOhBOzqlE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2TxVtzh0ziTbZloz1R4RYzU57oJ.jpg",
+    "rating": 7.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1002
+    }
+  },
+  {
+    "id": "series_1003",
+    "type": "series",
+    "title": "Velho Chico",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/r1WEsXnKq2tYSaqLjWTv0jdLyPB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bxbzO01znGOLEBds5ZHaTBNZviC.jpg",
+    "rating": 7.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1003
+    }
+  },
+  {
+    "id": "series_1018",
+    "type": "series",
+    "title": "Babilônia",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/4tfuofKH4UMBHwiiJ6mHizkF7Jx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/UsR3dJrhu95wG9P1eiUFlEjdxu.jpg",
+    "rating": 5.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1018
+    }
+  },
+  {
+    "id": "series_1019",
+    "type": "series",
+    "title": "Geração Brasil",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/1liYOtSKq0IcuyjslehM08YeRJG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kCX0hcnSvyVjFYZISkXCXfbAyK7.jpg",
+    "rating": 2.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "fantasia",
+      "ficcao",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1019
+    }
+  },
+  {
+    "id": "series_1020",
+    "type": "series",
+    "title": "I Love Paraisópolis",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/ntQOsXoellc7AUdpIvicFT3HsMY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dVNsJ2ZcQm9sBnVrr46GvO6K7c2.jpg",
+    "rating": 7.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1020
+    }
+  },
+  {
+    "id": "series_1153",
+    "type": "series",
+    "title": "Ana",
+    "year": 1968,
+    "poster": "http://image.tmdb.org/t/p/w300null",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 10,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1153
+    }
+  },
+  {
+    "id": "series_1181",
+    "type": "series",
+    "title": "Gênesis",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/7xc7FI44QTp94oQk6pBjB4NkMN0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/k8rqfo7RWsaILRdXIfpEJcuG1lT.jpg",
+    "rating": 7.848,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1181
+    }
+  },
+  {
+    "id": "series_1187",
+    "type": "series",
+    "title": "Amor Sem Limites",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/v3IKvdL8GHLE3l38MevdWjFgYXg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vV5GFJtp8DgAysY1F0WfIwedi81.jpg",
+    "rating": 8.083,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "crime",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 1187
+    }
+  },
+  {
+    "id": "series_1249",
+    "type": "series",
+    "title": "Mulheres de Areia",
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/zxjJx1m2Mz4zf1HtFrtyWzZfw6m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3PfezrOEgUlw03XKLuPjZt3sRJl.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1249
+    }
+  },
+  {
+    "id": "series_1301",
+    "type": "series",
+    "title": "Salve-se Quem Puder",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/qyhHrk9dq116KJ6jaa3tucIl3H0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xrCnFUtvNFcpDGkCpKVtZtOmT8K.jpg",
+    "rating": 6.278,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1301
+    }
+  },
+  {
+    "id": "series_1316",
+    "type": "series",
+    "title": "Empire: Fama e Poder",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/8Uz4oB6Sa84AZEFif2ZOg2m6K0k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/FNeJtRUd5XID186SHzjNNneP3f.jpg",
+    "rating": 7.147,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 1316
+    }
+  },
+  {
+    "id": "series_1390",
+    "type": "series",
+    "title": "Romance Is a Bonus Book",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/xJh8TVXCNjGA3ZPLJA969JJNoSB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/34Gl5oc5Z42DxlIomvXKHMFupYZ.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 1390
+    }
+  },
+  {
+    "id": "series_1430",
+    "type": "series",
+    "title": "Dawson's Creek",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/arT93dBemanftfWTcf9I0JRIlxU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ofiNBOL7gpuzqXEqWBprF90CtY7.jpg",
+    "rating": 7.3,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 1430
+    }
+  },
+  {
+    "id": "series_9164",
+    "type": "series",
+    "title": "Rubí",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/b5uaSAVnHONZjKX6u5z4dSELKH3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/55gsc08ajOpUIKNAsNPa3V4qWkE.jpg",
+    "rating": 7.689,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 9164
+    }
+  },
+  {
+    "id": "series_1550",
+    "type": "series",
+    "title": "A Cozinheira de Castamar",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/xLlgOfTcXfIMJBSMT2TD1bNGYCa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bYPULzulmE0uy4JgziZVRpmJYcH.jpg",
+    "rating": 6.903,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 1550
+    }
+  },
+  {
+    "id": "series_1632",
+    "type": "series",
+    "title": "A Terra Prometida",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/k9YPIO7IX5EYfjd1LzYYXDXrruF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2oiLsxKo72UekCXEOtSEzSKy3XE.jpg",
+    "rating": 7.809,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1632
+    }
+  },
+  {
+    "id": "series_2376",
+    "type": "series",
+    "title": "Malhação de Verão",
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/sW1RN0sgtRvVOxGdhrqlReeT863.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9jg4JCau5EjgnKnID3rzWHnjzlZ.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2376
+    }
+  },
+  {
+    "id": "series_1634",
+    "type": "series",
+    "title": "Paraíso Tropical",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/eqstFEbqOvwffrRyFjeQg7mWbqj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/psedRtpZwLUoDN3d7b2BgPTBtJi.jpg",
+    "rating": 8.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1634
+    }
+  },
+  {
+    "id": "series_1635",
+    "type": "series",
+    "title": "Sonho Meu",
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/rHtCgszGmxgHBzf1e7eLF1Lfcph.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1Omq3N1TgHwVhoDamSUpSC2zBKm.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1635
+    }
+  },
+  {
+    "id": "series_1636",
+    "type": "series",
+    "title": "A Vida da Gente",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/d61PQsBGfo11FGtG8ynnHT8iJMl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hmiNiC3rdE0yZlYwiLMBSCRUXnO.jpg",
+    "rating": 8.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1636
+    }
+  },
+  {
+    "id": "series_1640",
+    "type": "series",
+    "title": "Sassaricando",
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/apf7jsX5IzktDG3T9TDUnpEFr8y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1njtGZgjrBoHdT7kgyEeb8rdjqC.jpg",
+    "rating": 7.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1640
+    }
+  },
+  {
+    "id": "series_1641",
+    "type": "series",
+    "title": "Terra Nostra",
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/thkRCi1qRJq5scAGg4luO8k1C18.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mHMnnMhG3rJQMETfe5L0GpYvjA0.jpg",
+    "rating": 6.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1641
+    }
+  },
+  {
+    "id": "series_1650",
+    "type": "series",
+    "title": "Nos Tempos do Imperador",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/5YW1k4mFB17STW4jy9mLGwHe53m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/n1bDvk7rCNCN1Y3DrhXFzMj8pOq.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1650
+    }
+  },
+  {
+    "id": "series_1651",
+    "type": "series",
+    "title": "O Salvador da Pátria",
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/znTohwOxX7CsY4LE8PdoNA8OUjU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8QAnW9JDGj5qAu2Il5VvXCEmSqJ.jpg",
+    "rating": 7.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1651
+    }
+  },
+  {
+    "id": "series_1683",
+    "type": "series",
+    "title": "Top Model",
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/i0KFKX1yO9Tig2pZvJdohMMCo3i.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gEtpdhuFBXgjRgex9xUvwW1Gxmp.jpg",
+    "rating": 7.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1683
+    }
+  },
+  {
+    "id": "series_1684",
+    "type": "series",
+    "title": "Tieta",
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/3YNb7mSpuaP18W4yAXjtaV5W2lI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wHi44gV8p2FWgYOuCefyE8jI8Qc.jpg",
+    "rating": 8.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1684
+    }
+  },
+  {
+    "id": "series_1685",
+    "type": "series",
+    "title": "Ti Ti Ti",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/YhejeGfdWkd2aLjHAkD3QfKoKh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3iJfrk24QtZ0mLEyAZ1WiBjoyla.jpg",
+    "rating": 7.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1685
+    }
+  },
+  {
+    "id": "series_1686",
+    "type": "series",
+    "title": "Apocalipse",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/odOflA2ESo7Q9EsyHOqWsU46Nd1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6Wa1OkRpdJAxTfY7cNdJ0XAPF0X.jpg",
+    "rating": 7.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "acao",
+      "aventura",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1686
+    }
+  },
+  {
+    "id": "series_1687",
+    "type": "series",
+    "title": "Fera Ferida",
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/h12BFCn33NccMbFNdMgVlpCEEOL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fZQmcGpWkFZ53a1GZfqHaXKLELJ.jpg",
+    "rating": 7.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1687
+    }
+  },
+  {
+    "id": "series_1688",
+    "type": "series",
+    "title": "Pantanal",
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/yxBYVTjGLKlPMe2rf3doNvQTkTi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a68Cx414WVwyACfuJgkriEXV4iH.jpg",
+    "rating": 6.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1688
+    }
+  },
+  {
+    "id": "series_1689",
+    "type": "series",
+    "title": "Pé na Jaca",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/xduvbkWjCQu2atUDng4fcjuaneh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/h3d7B4ic6qKDB5JeI16Th8K9Y7N.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1689
+    }
+  },
+  {
+    "id": "series_1704",
+    "type": "series",
+    "title": "Dona Beija",
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/zg8ZQqwA4q4XpSDhpuDSJmG6G44.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xLzE9VHyfdLuZNmNvEWc4PNPQdF.jpg",
+    "rating": 8.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1704
+    }
+  },
+  {
+    "id": "series_1705",
+    "type": "series",
+    "title": "Kubanacan",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/z1lzG8OkgHOTyrcFrNSp9gBkcUA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8ztxw1pO1UesrFOJTlEYx4sSBvU.jpg",
+    "rating": 6.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1705
+    }
+  },
+  {
+    "id": "series_1706",
+    "type": "series",
+    "title": "Vamp",
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/uIU87AvtHQI8tr3kNvO8aegtQRI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vdQJWqVX4o5uqrkiGZWJQVfauLN.jpg",
+    "rating": 8.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "acao",
+      "aventura",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1706
+    }
+  },
+  {
+    "id": "series_1722",
+    "type": "series",
+    "title": "Roque Santeiro",
+    "year": 1985,
+    "poster": "https://image.tmdb.org/t/p/w500/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/u1aeiYydw9q1GnPiFkQ416Lzh55.jpg",
+    "rating": 8.769,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1722
+    }
+  },
+  {
+    "id": "series_1723",
+    "type": "series",
+    "title": "Alma Gêmea",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/2HxNkrtEOgP4VEKzVBdBHHsnO6o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qgxBIKr9M2UXzMm6DhFQexdiWli.jpg",
+    "rating": 6.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1723
+    }
+  },
+  {
+    "id": "series_1735",
+    "type": "series",
+    "title": "Amor Eterno Amor",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/qQMvPaT1RW8LAyIVkGW4yuuV0Pw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/z0Jn3QJxfmhCixIzpZXxD3HFlQH.jpg",
+    "rating": 5.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1735
+    }
+  },
+  {
+    "id": "series_9077",
+    "type": "series",
+    "title": "Cuidado com o Anjo",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/sO1RyZAHbLw9FOPcN6qFFWkCuOF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6GVjKfxBrPBLEKWebRxDzsHHMgO.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9077
+    }
+  },
+  {
+    "id": "series_1737",
+    "type": "series",
+    "title": "A Indomada",
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/qa3DYa4aA71kdxP1wIvy1kQLxGI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fkqXzCH8mvubm7cpJKCmzaBrMSt.jpg",
+    "rating": 6.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1737
+    }
+  },
+  {
+    "id": "series_1753",
+    "type": "series",
+    "title": "Segundo Sol",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/eDiqQFhJxnuAyPjdHRpOyt59XOI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tHBG0n0FDb8a4JM9gLiT6v1sM2g.jpg",
+    "rating": 5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1753
+    }
+  },
+  {
+    "id": "series_1754",
+    "type": "series",
+    "title": "Xica da Silva",
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/uWxMIZeg1Mqz0KFOZ1etFdUIuXa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/k2JuTY6vRtyj7FgNeLoKbyeZX0.jpg",
+    "rating": 7.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1754
+    }
+  },
+  {
+    "id": "series_1786",
+    "type": "series",
+    "title": "Operação Pacífico",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/mzWb2cy7iHqqYkG526YLppEEmvP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mJgcR4nSnBWxFxygLOhU6NCEJde.jpg",
+    "rating": 7.662,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "crime",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 1786
+    }
+  },
+  {
+    "id": "series_1795",
+    "type": "series",
+    "title": "Vereda Tropical",
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/ztyooYP5RsznEY8gPSsdYFOmquk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kVs9c8TURDdsESZ1nOS2mrKD1IZ.jpg",
+    "rating": 8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1795
+    }
+  },
+  {
+    "id": "series_6595",
+    "type": "series",
+    "title": "Pai Herói",
+    "year": 1979,
+    "poster": "https://image.tmdb.org/t/p/w500/i0t899pNu0z9NKe0AkreeRLsksx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jS1bazaTXeAhw3uyyjT7xOciK0s.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6595
+    }
+  },
+  {
+    "id": "series_9076",
+    "type": "series",
+    "title": "Marimar",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/eoHl6ISwfzVyW68sv7hUfR9MQh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nDh9cvt64J3gD1wxxxfR85jiEmB.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9076
+    }
+  },
+  {
+    "id": "series_1900",
+    "type": "series",
+    "title": "Verdades Secretas 2",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/kM32hmDGTxmqNeT1x8zJExJdDCM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3CHC5GAlTFoFrf6BUgjO8Z9D0QN.jpg",
+    "rating": 6.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1900
+    }
+  },
+  {
+    "id": "series_1935",
+    "type": "series",
+    "title": "Um Lugar ao Sol",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/iiE0VMpvfggfBy0xXPPLAY9SDPu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8lBlBItnehgOAwFt0ezxlXuWeIO.jpg",
+    "rating": 5.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1935
+    }
+  },
+  {
+    "id": "series_3144",
+    "type": "series",
+    "title": "Disney Entre Laços",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/9PWWD5lB3KC4qGyhPc8ROehQp1E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mxC5PhhrfSkKkpyEY08etSFtysU.jpg",
+    "rating": 7.7,
+    "producer": "disney_plus",
+    "genres": [
+      "fantasia",
+      "ficcao",
+      "comedia",
+      "familia",
+      "infantil",
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 3144
+    }
+  },
+  {
+    "id": "series_1974",
+    "type": "series",
+    "title": "Bebê a Bordo",
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/3fR3JKMrM4sSbpK92PnvpSqmO0w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/k6TcqCLzR0B0kLm61WFppg3XikZ.jpg",
+    "rating": 6.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "familia",
+      "infantil",
+      "reality",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1974
+    }
+  },
+  {
+    "id": "series_1975",
+    "type": "series",
+    "title": "Jezabel",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/m5Dh1RXQaDKZd2J0wYjZ3mhQZNo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/urbF2yHByI66zfhpHvWKDoxeZ5m.jpg",
+    "rating": 7.445,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1975
+    }
+  },
+  {
+    "id": "series_1976",
+    "type": "series",
+    "title": "Rainha da Sucata",
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/cy2zytHLAqX00o9OUoDKZ6k911C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hO8rrI7Ndl2B2JMI1gh7eGmJBv0.jpg",
+    "rating": 7.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1976
+    }
+  },
+  {
+    "id": "series_1977",
+    "type": "series",
+    "title": "Renascer",
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/kXDOzn7rXgF65KWFxzDWZaHgKwm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jdqExm7R4fZpsb7QI4c03hj1YfB.jpg",
+    "rating": 7.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1977
+    }
+  },
+  {
+    "id": "series_1978",
+    "type": "series",
+    "title": "Saramandaia",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/9QzQF0os6mQKVPxlFvMHTsScUuN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m9FssipeYD9SEgL5SB5bOQjcvUW.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "fantasia",
+      "ficcao",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1978
+    }
+  },
+  {
+    "id": "series_1979",
+    "type": "series",
+    "title": "Selva de Pedra",
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/qnGkQyrhKq3q2KNnhrqUQLWU2MP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pjdVPyRVLrni0frkcuzh9JuHNsW.jpg",
+    "rating": 7.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 1979
+    }
+  },
+  {
+    "id": "series_2014",
+    "type": "series",
+    "title": "Quanto Mais Vida, Melhor!",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/bMEkDQCNdzRxDvFuBROMaSDfBCg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bUtu1W9vpAPPECvw6tRzLLmp05N.jpg",
+    "rating": 4.976,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2014
+    }
+  },
+  {
+    "id": "series_2042",
+    "type": "series",
+    "title": "Amor com Amor Se Paga",
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/gsJf1DufI9y19iQTsr1VwEgMtvY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xWseqrivYZuoSmFfdHCBwa0XhP7.jpg",
+    "rating": 6.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2042
+    }
+  },
+  {
+    "id": "series_2065",
+    "type": "series",
+    "title": "Senhor dos Céus",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/skyhugDlUhD7xO2RAmmfa8yl2W7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qUP2Zy4whlLSApTELz0LaxZTBQH.jpg",
+    "rating": 7.938,
+    "producer": "outras_produtoras",
+    "genres": [
+      "crime",
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 2065
+    }
+  },
+  {
+    "id": "series_9075",
+    "type": "series",
+    "title": "Coração Indomável",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/q1AiGP2NDcLBbPXZIP19wD3B12T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/om2JVp4XOo2iU3CFeo9TqJEdsNu.jpg",
+    "rating": 7.767,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9075
+    }
+  },
+  {
+    "id": "series_9074",
+    "type": "series",
+    "title": "Maria do Bairro",
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/xIwIgMAW9e2qUZN9gyYZS0xcdS6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wt1AEm5eqsjiv3WOIvagUaizO9M.jpg",
+    "rating": 7.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9074
+    }
+  },
+  {
+    "id": "series_9073",
+    "type": "series",
+    "title": "A Feia Mais Bela",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/2jI4b5eHHZ9dZ2kb0ULDKUiAhze.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cvHNEZqPguUT97MjwNpsRbtRTDp.jpg",
+    "rating": 8.052,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 9073
+    }
+  },
+  {
+    "id": "series_2116",
+    "type": "series",
+    "title": "Vale Tudo",
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/8O0sIT1hDROp7C82mscGKajSUP3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vrlZvHqAV2iNgacLTDBLdsx11SP.jpg",
+    "rating": 8.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2116
+    }
+  },
+  {
+    "id": "series_2256",
+    "type": "series",
+    "title": "Além da Ilusão",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/8BzuwDAMamf5TX4TepbDDEq7ima.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bytULo2QRTgkn7Qu9pgJSSjS1NJ.jpg",
+    "rating": 6.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2256
+    }
+  },
+  {
+    "id": "series_9072",
+    "type": "series",
+    "title": "Império de Mentiras",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/fNAhBhWxEB6ZIPx4wSB9Ke2B1bP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q2na8PTaxH2csJUM035M2Zoj90q.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "acao",
+      "aventura",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9072
+    }
+  },
+  {
+    "id": "series_7780",
+    "type": "series",
+    "title": "Uma Rosa com Amor",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/4AZcJn0V3laoilTifty7JBRQxat.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/R732CCSxaGJFqqNqQtDmewOQVG.jpg",
+    "rating": 6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 7780
+    }
+  },
+  {
+    "id": "series_2295",
+    "type": "series",
+    "title": "O Beijo do Vampiro",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/fQsnoRyA9Fd0Zw6AUldw4sxrYyR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/51gsll0qNMwqIU4fjwAHDx5MFTG.jpg",
+    "rating": 6.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "fantasia",
+      "ficcao",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2295
+    }
+  },
+  {
+    "id": "series_2296",
+    "type": "series",
+    "title": "Tropicaliente",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/hJtAsTXyDiPE9Ao6Kw28Z3glYDa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eP9E1d6GzayoAiOkQeP2wtjnyoT.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2296
+    }
+  },
+  {
+    "id": "series_2316",
+    "type": "series",
+    "title": "Hilda Furacão",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/xJgDZQDscZpQ5JJ2Ms9QOYoIEk9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2kHhLv6RPZUbYcqk3L9RarOYzlA.jpg",
+    "rating": 8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "guerra",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2316
+    }
+  },
+  {
+    "id": "series_8798",
+    "type": "series",
+    "title": "Que Rei Sou Eu?",
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/uk3wzUAEr21qh8KiQpSeTd9x4tV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dMG5cMO2xDO3mwYd009Afm7ZrK3.jpg",
+    "rating": 7.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 8798
+    }
+  },
+  {
+    "id": "series_2357",
+    "type": "series",
+    "title": "A Gata Comeu",
+    "year": 1985,
+    "poster": "https://image.tmdb.org/t/p/w500/eybIgDIJGg6Q5ZtbDOopTjsyNge.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qDHGYPOSXhmBGq7992xzmz8M4kQ.jpg",
+    "rating": 8.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2357
+    }
+  },
+  {
+    "id": "series_2377",
+    "type": "series",
+    "title": "Pantanal",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/xHBDCDYI6HOXJBRS1SSw4nvnHHV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/g5LkJJCBXxULsY7s48U5VAeWg2I.jpg",
+    "rating": 6.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2377
+    }
+  },
+  {
+    "id": "series_2378",
+    "type": "series",
+    "title": "Poliana Moça",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/sSRFeVwpyUffmqvreVbbNILHYbY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/THHSvcpSeJCjq7WUUGNaGt3x31.jpg",
+    "rating": 6.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "acao",
+      "aventura",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2378
+    }
+  },
+  {
+    "id": "series_2432",
+    "type": "series",
+    "title": "Coração Marcado",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/kZ5nYy77w0ptpZB1RH4ZQBRwboR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eMHyiOFhLYOF1XSs1WCIB4YIhz3.jpg",
+    "rating": 7.682,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 2432
+    }
+  },
+  {
+    "id": "series_2438",
+    "type": "series",
+    "title": "Milo",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/x5B0Y2yvMmLFNcj08V724oMu9am.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xavHGCzcYrAsrevxLnwDKUnJhzd.jpg",
+    "rating": 8.7,
+    "producer": "hbo_max",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 2438
+    }
+  },
+  {
+    "id": "series_2503",
+    "type": "series",
+    "title": "Sou Luna",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/uvrxnOZDQwkZMqedYQT28qcf3QU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mXVr88l7877i0P4cLQl1mUvaXGJ.jpg",
+    "rating": 7.977,
+    "producer": "disney_plus",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "comedia",
+      "misterio"
+    ],
+    "xtream": {
+      "seriesId": 2503
+    }
+  },
+  {
+    "id": "series_2545",
+    "type": "series",
+    "title": "Pão-Pão, Beijo-Beijo",
+    "year": 1983,
+    "poster": "https://image.tmdb.org/t/p/w500/sdIs4MSYBE6t1K6CmmRpCDKDHZi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bq7FMIlgfN4jxh1EWI6QdyAMMSY.jpg",
+    "rating": 8.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2545
+    }
+  },
+  {
+    "id": "series_2636",
+    "type": "series",
+    "title": "Guerra dos Sexos",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/pI0jOUeXnRWX8eh3IJrimIgmKTN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7D8BmOJWq5oct6tKbow4VHvYo0r.jpg",
+    "rating": 8.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "guerra",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2636
+    }
+  },
+  {
+    "id": "series_2637",
+    "type": "series",
+    "title": "O Rei do Gado",
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/gnRalif7ym8ovyDMr3glYVEq1tk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xrJR8Yvw4l6004spZo5MBW17Q2W.jpg",
+    "rating": 7.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2637
+    }
+  },
+  {
+    "id": "series_2667",
+    "type": "series",
+    "title": "Cobras & Lagartos",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/2u5e0zlurzsyDhfb7ybhaS0cgly.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/94jGaS1Mi1bgIofG6yfuMTbRpCc.jpg",
+    "rating": 7.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2667
+    }
+  },
+  {
+    "id": "series_2688",
+    "type": "series",
+    "title": "Pedra Sobre Pedra",
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w500/uJnh5xyZliZOIxEpKLIrnQUbI06.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2tdeT7cAHyxXEWlgczGdBEdq5C1.jpg",
+    "rating": 6.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2688
+    }
+  },
+  {
+    "id": "series_2689",
+    "type": "series",
+    "title": "Violetta",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/wtoh2L6nftcWA2lDiYlHZegn0Zk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xuFNUGqEJ4cKNR7eKCowhDruhSd.jpg",
+    "rating": 8.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "familia",
+      "infantil",
+      "drama",
+      "comedia",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 2689
+    }
+  },
+  {
+    "id": "series_9069",
+    "type": "series",
+    "title": "O Que a Vida Me Roubou",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/tkNWRhncA6FeosHKm93QOczt2Kt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yPCeoIWrVl79Set8XZ46dgayjDK.jpg",
+    "rating": 7.742,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9069
+    }
+  },
+  {
+    "id": "series_2718",
+    "type": "series",
+    "title": "Fortuna",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/u5ULV6qngL0o2n05gXRxK9CH1Bq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aeOj32lgDilNVQK22hrwwhYUvBi.jpg",
+    "rating": 2,
+    "producer": "apple_tv_plus",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 2718
+    }
+  },
+  {
+    "id": "series_2778",
+    "type": "series",
+    "title": "Cara e Coragem",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/8CXbCCGiJxi4AXPBQ1QPrehMIGG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2XCCf9OfJtDyZYWnJOjWKXLsJqH.jpg",
+    "rating": 5.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "acao",
+      "aventura",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2778
+    }
+  },
+  {
+    "id": "series_9068",
+    "type": "series",
+    "title": "Amar a Morte",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/9uw4PT3IOYmFervJSUhvpE009lu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jcOAOJKQphUoMZEsBtsME8Tl3KN.jpg",
+    "rating": 7.794,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9068
+    }
+  },
+  {
+    "id": "series_2804",
+    "type": "series",
+    "title": "Mar do Sertão",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/ixgnqO8xhFMb1zr8RRFsyeZ9CdD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5WELOEOtGukFX25UZI01f0fA6lz.jpg",
+    "rating": 5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2804
+    }
+  },
+  {
+    "id": "series_2806",
+    "type": "series",
+    "title": "Vidas Opostas",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/3Xeg24UKfQEXAty2sHBZJKHHSsF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nwvEqsQlomfwPUNWZ7uL2wcH7oQ.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "acao",
+      "aventura",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2806
+    }
+  },
+  {
+    "id": "series_2873",
+    "type": "series",
+    "title": "Passione",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/d3TjhYwBkrJwHlD9XWwCWbCkgf0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cRZmPBbRVOa6KQRm21tMGnHZ4Hh.jpg",
+    "rating": 6.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2873
+    }
+  },
+  {
+    "id": "series_2876",
+    "type": "series",
+    "title": "Explode Coração",
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/iuLPYmiHyV2imcdmiIZ1P1yc1ii.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/w7eMy8q6yiyqdcwyBZ6eLQssfnY.jpg",
+    "rating": 6.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2876
+    }
+  },
+  {
+    "id": "series_2878",
+    "type": "series",
+    "title": "Felicidade",
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/i8gju3ejk7lMpPicRRvcu4VSnl8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kzradXPAfISuL6WxTrq4LZuJW72.jpg",
+    "rating": 7.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2878
+    }
+  },
+  {
+    "id": "series_2942",
+    "type": "series",
+    "title": "Travessia",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/jFZJEoPzt2RKSsZG8QEWptX5Xyw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xGKTgJlqCkq6tAK2sOTdULh7YaX.jpg",
+    "rating": 4.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2942
+    }
+  },
+  {
+    "id": "series_2944",
+    "type": "series",
+    "title": "Roda de Fogo",
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/9g38SsaZP7eLOD73VWmQphFAfBJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rRMj50qpqTdkgxjJqXRoBq0ouN4.jpg",
+    "rating": 8.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 2944
+    }
+  },
+  {
+    "id": "series_3030",
+    "type": "series",
+    "title": "Todas as Flores",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/zAqaycJCuBKHiyHkvhxpjRM2Cmi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kRgLSJv2TGLEDc9XLh6RGWSEvKz.jpg",
+    "rating": 7.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3030
+    }
+  },
+  {
+    "id": "series_3038",
+    "type": "series",
+    "title": "Coração de Estudante",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/s98cSGwltzSK804v8UHxHLmbDGW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6qluuk9WQZXsj2SHckvs6WMRRSU.jpg",
+    "rating": 6.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3038
+    }
+  },
+  {
+    "id": "series_3039",
+    "type": "series",
+    "title": "Força de um Desejo",
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/4pGJNMZm6esnHPEG4N9FFEGkEzF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8KdIwREBsFfmFBbjMh1pxhxsiGV.jpg",
+    "rating": 8.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3039
+    }
+  },
+  {
+    "id": "series_3040",
+    "type": "series",
+    "title": "Em Família",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/wEGWdqZeJv2ixx78MvU2mPwYywj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/A6nvYyacvBLcQYGlC9w0P3nYVe0.jpg",
+    "rating": 4.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3040
+    }
+  },
+  {
+    "id": "series_3110",
+    "type": "series",
+    "title": "Bambolê",
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/rgmuiMNXejGQeWw2o7OWTVAJ9Pg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3iYVtXoi5YVxliqPa7EZa6LUM3t.jpg",
+    "rating": 7.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3110
+    }
+  },
+  {
+    "id": "series_3127",
+    "type": "series",
+    "title": "Quatro por Quatro",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/eF6rrVrGAfHSLgzAbiPqv7IzGPe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Aa5UufGHmnxExspbocOWTW9IETN.jpg",
+    "rating": 8.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3127
+    }
+  },
+  {
+    "id": "series_3224",
+    "type": "series",
+    "title": "Vai na Fé",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/6QNohzb7YUJ6eWZkXAYU8KGIq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rEDpFywyKnTkOE7Zs41TBnqE2cB.jpg",
+    "rating": 7.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3224
+    }
+  },
+  {
+    "id": "series_3241",
+    "type": "series",
+    "title": "Os Ricos Também Choram",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/crBJLtDQxZbf4RYDGRVBnCCjAM5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ajiNNsP67PParrAI93e2eog3cxj.jpg",
+    "rating": 9,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3241
+    }
+  },
+  {
+    "id": "series_3280",
+    "type": "series",
+    "title": "História de Amor",
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/lBoTUedTinnGYXa8kTB0lhhaUPo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hxS2DI40GM6BaUIomFS16Sl1peB.jpg",
+    "rating": 8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "historia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3280
+    }
+  },
+  {
+    "id": "series_3358",
+    "type": "series",
+    "title": "O Bem-Amado",
+    "year": 1973,
+    "poster": "https://image.tmdb.org/t/p/w500/oQSfS4QaCsB7VdK0rJ6Tb9vKaVR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b0IRXtUgPxfFzHALbTmmwR5l1Qj.jpg",
+    "rating": 9.125,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3358
+    }
+  },
+  {
+    "id": "series_3397",
+    "type": "series",
+    "title": "Amor Perfeito",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/aOPhyvHDauWFuc3rthpHArCNyrm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/azWBrlovNOOdy0eQYEe9BoiROoN.jpg",
+    "rating": 6.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3397
+    }
+  },
+  {
+    "id": "series_9061",
+    "type": "series",
+    "title": "Sortilégio",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/e4IRdU0jsXwowMkCwHS0cXUCqQ7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4MV0zUHCs1cV4N5iQefoO5omTQ9.jpg",
+    "rating": 7.636,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "familia",
+      "infantil",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9061
+    }
+  },
+  {
+    "id": "series_3515",
+    "type": "series",
+    "title": "A Infância de Romeu e Julieta",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/kW7gbPpzJnhxKJWeYAENnwTdOaU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9zQR28Zz5kjP28d91GEysUKVWeh.jpg",
+    "rating": 6.8,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "familia",
+      "infantil",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3515
+    }
+  },
+  {
+    "id": "series_3541",
+    "type": "series",
+    "title": "Terra e Paixão",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/5kCMJ0vVzN9PsoamKctNnUz68Q2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8x3FjMAxAiG0LHyp6UQOHzbVAOj.jpg",
+    "rating": 6.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3541
+    }
+  },
+  {
+    "id": "series_3545",
+    "type": "series",
+    "title": "Lado a Lado",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/essMpxNLj8WvTxzUkN58ZShCsV6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fXC10vd7wzBxFAMEItv7xOuEJvm.jpg",
+    "rating": 9.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3545
+    }
+  },
+  {
+    "id": "series_9066",
+    "type": "series",
+    "title": "A Desalmada",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/7dPclxuZH0imw9G8uBhPuDUC6ix.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/RxfwuFrlZ2lCjYfYDWyS6ouK5J.jpg",
+    "rating": 7.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9066
+    }
+  },
+  {
+    "id": "series_3573",
+    "type": "series",
+    "title": "The Tudors",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/oiRSRTJX5aFrYue4psaDMggdsNK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cKsmzu5YpayNxc6Gs9KD8wyJV8M.jpg",
+    "rating": 7.8,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 3573
+    }
+  },
+  {
+    "id": "series_3630",
+    "type": "series",
+    "title": "Corpo Dourado",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/4BmKvi3YhCWsLejvVOl8A5mj1KY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ctxTVLXLbI9NbCfLn6Ky4wKvjee.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3630
+    }
+  },
+  {
+    "id": "series_3631",
+    "type": "series",
+    "title": "O Sexo dos Anjos",
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/hVCFhER9dRGUVbTCbGINirwCuuZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fZEFrsMxErMCUHOFVgxSwOG8R4s.jpg",
+    "rating": 6.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3631
+    }
+  },
+  {
+    "id": "series_3717",
+    "type": "series",
+    "title": "A Fábrica",
+    "year": 1971,
+    "poster": "http://image.tmdb.org/t/p/w300null",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 10,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3717
+    }
+  },
+  {
+    "id": "series_3754",
+    "type": "series",
+    "title": "Elas por Elas",
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/b9ysG00EgQ9nSr5HzKrmieh0k2F.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lnmOWbi8lVOFMfuJXmSwwHlyHRt.jpg",
+    "rating": 8.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3754
+    }
+  },
+  {
+    "id": "series_3755",
+    "type": "series",
+    "title": "Locomotivas",
+    "year": 1977,
+    "poster": "https://image.tmdb.org/t/p/w500/bid4LAJAkuK613gQyx9eexobWsy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5uJCIwg7pGmRIg1M49p9b8i6yA4.jpg",
+    "rating": 8.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3755
+    }
+  },
+  {
+    "id": "series_3756",
+    "type": "series",
+    "title": "A.mar",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/pOLUJiKWSmq4PUmcd1QxDNbS6Me.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wstv4u10ylaMdnnPi50lMx8f9le.jpg",
+    "rating": 7.2,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 3756
+    }
+  },
+  {
+    "id": "series_3897",
+    "type": "series",
+    "title": "A Lua Me Disse",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/kVFCSXAIvVv5SwHcXkoGApWuwPR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gRzV9crk54qwBlPlCDQKffQGrp8.jpg",
+    "rating": 5.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3897
+    }
+  },
+  {
+    "id": "series_3900",
+    "type": "series",
+    "title": "Uga-Uga",
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/hQPTjWKZnvyz6FpMSCIzlJa8DGT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/agR0mIFWIOtDn22IBHSbmlE8OVK.jpg",
+    "rating": 6.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3900
+    }
+  },
+  {
+    "id": "series_3953",
+    "type": "series",
+    "title": "Fuzuê",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/xWGi7jzvoIcOb4nPNQ3z9erpk1Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9SzAvRAnXghpB4O2gLBTRhO3vhm.jpg",
+    "rating": 5.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 3953
+    }
+  },
+  {
+    "id": "series_4031",
+    "type": "series",
+    "title": "A Intrusa",
+    "year": 1967,
+    "poster": "http://image.tmdb.org/t/p/w300null",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 4031
+    }
+  },
+  {
+    "id": "series_4115",
+    "type": "series",
+    "title": "La Traición",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/b89IDvczzt9htnk3JQNSrxOsXnw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ceglapC9MOGAtksG1oOZhDiN1SR.jpg",
+    "rating": 8.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 4115
+    }
+  },
+  {
+    "id": "series_9057",
+    "type": "series",
+    "title": "Amores Verdadeiros",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/klZCn9W8lzS1AuNZunIEm7spg5Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9PJl6qubokov6PxEdkWyZdF3vuK.jpg",
+    "rating": 7.703,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9057
+    }
+  },
+  {
+    "id": "series_4185",
+    "type": "series",
+    "title": "Romina Poderosa",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7x1fR7YoXWphEbaQFeZZ34g2BGd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9kxWbS88J0BFApxwaFoCv76w5ll.jpg",
+    "rating": 7.7,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 4185
+    }
+  },
+  {
+    "id": "series_4243",
+    "type": "series",
+    "title": "A Escrava Isaura",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/noUAHEU4dNGxhBJcpWlgagg3xHo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4q0y03oIxxhc4HilyameOLxvGTr.jpg",
+    "rating": 7.508,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 4243
+    }
+  },
+  {
+    "id": "series_4306",
+    "type": "series",
+    "title": "Morangos com Açúcar",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/uyzx0JkWOOF3Mfcq4uiuIr2Ykju.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7P7zskNRdowZslBv5yJbnMeBuKR.jpg",
+    "rating": 6.3,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "comedia",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 4306
+    }
+  },
+  {
+    "id": "series_9060",
+    "type": "series",
+    "title": "Penso em Ti",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/5vIhRqO4qWlETGbVGuJtjm44JQO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xfZouXISboN8qRFAHtbS9huF3vd.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9060
+    }
+  },
+  {
+    "id": "series_4423",
+    "type": "series",
+    "title": "Pátria Minha",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/m3EJtyMPsByG5AfFNDCwIuGvjqP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hKdZ1OvOAFcd0TwMj5ANA1aoZnf.jpg",
+    "rating": 8.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 4423
+    }
+  },
+  {
+    "id": "series_4470",
+    "type": "series",
+    "title": "Eu Sou Franky",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/g14iAQLR2aWdL68DNE6eOF3Ujid.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pv0UNk70qmw2b8AvSwIMqJ9Oz91.jpg",
+    "rating": 8.3,
+    "producer": "paramount",
+    "genres": [
+      "drama",
+      "familia",
+      "infantil",
+      "comedia",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 4470
+    }
+  },
+  {
+    "id": "series_4488",
+    "type": "series",
+    "title": "Livre Para Voar",
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/xm6zBDWJuHPDoFpguImipqmLAWa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eKTPY84JQ5iiIvSzPCGMZm0BY9h.jpg",
+    "rating": 8.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 4488
+    }
+  },
+  {
+    "id": "series_4545",
+    "type": "series",
+    "title": "Amor como um Romance Coreano",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/9x9xVqx9h5qTJRXlBeZEEupj9gi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/btZZxXRSVatvi8Ok1qh1w7ZoeGR.jpg",
+    "rating": 8.4,
+    "producer": "netflix",
+    "genres": [
+      "reality",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 4545
+    }
+  },
+  {
+    "id": "series_4568",
+    "type": "series",
+    "title": "O11ZE",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/5SLwlAinusyXIr6sWYhuPpCDfq0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yLyKDdCqSuUXWhAW3TtoXTvmpHo.jpg",
+    "rating": 8.634,
+    "producer": "hbo_max",
+    "genres": [
+      "comedia",
+      "familia",
+      "infantil",
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 4568
+    }
+  },
+  {
+    "id": "series_4585",
+    "type": "series",
+    "title": "Cinderella Chef",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/dGqk4dNCipfcq4Lo2Bq78nvq5mJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sX7RchatIQsbkCRbxqIbCmb6l3i.jpg",
+    "rating": 8.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance",
+      "fantasia",
+      "ficcao"
+    ],
+    "xtream": {
+      "seriesId": 4585
+    }
+  },
+  {
+    "id": "series_4833",
+    "type": "series",
+    "title": "A Herdeira",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/Acf1EEhOZwDNB0IuuICwyIDfYqF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lQFzeBxQBSyHwtaGcsOd9eKnELr.jpg",
+    "rating": 4.2,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 4833
+    }
+  },
+  {
+    "id": "series_4851",
+    "type": "series",
+    "title": "Beleza Pura",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/jLbQtAZVtUpztZFutF4AaKoz0b7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rfAWkSnZDcozhLMu4aAM69GY5yI.jpg",
+    "rating": 7.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 4851
+    }
+  },
+  {
+    "id": "series_4865",
+    "type": "series",
+    "title": "O Rebu",
+    "year": 1974,
+    "poster": "https://image.tmdb.org/t/p/w500/gzl9pMnbFwWVGEMICDKO2ZRtFpW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bZh68H9DjKGCnDjELByCdkY0aPq.jpg",
+    "rating": 6,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "romance",
+      "crime",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 4865
+    }
+  },
+  {
+    "id": "series_4872",
+    "type": "series",
+    "title": "Renascer",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/kUWvvMkNIf21UUDmHjYw55v6o7C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bEKRyT7WN5TjFKv0JTWI2cyNlak.jpg",
+    "rating": 6.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 4872
+    }
+  },
+  {
+    "id": "series_9059",
+    "type": "series",
+    "title": "Teresa",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/5U8eEPG2ESPOsjDB0J9aXMelctc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i5WyNy4tVmRbcOvTfYXWuEpTNK7.jpg",
+    "rating": 7.698,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9059
+    }
+  },
+  {
+    "id": "series_5019",
+    "type": "series",
+    "title": "STM: Seja Você Mesma",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/5hDVKBf2cvfwwfhgp2JYUq8UUo8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1HlbfTsaRak1NTOej4HbVB448Q2.jpg",
+    "rating": 9.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "familia",
+      "infantil",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 5019
+    }
+  },
+  {
+    "id": "series_5072",
+    "type": "series",
+    "title": "Família é Tudo",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/tDbJuSfVhf3ZnxiJrXlXEALyAz5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b848AC0n5SHh4fXc5aDB3VZi0G.jpg",
+    "rating": 5.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "acao",
+      "aventura",
+      "familia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5072
+    }
+  },
+  {
+    "id": "series_5149",
+    "type": "series",
+    "title": "Os Mutantes: Caminhos do Coração",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/74Y6IWQpjbDnCvNwbQvCJfkJY2b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sXa2bUCF5a0a0rz8R7d4ORSNY8C.jpg",
+    "rating": 7.385,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "fantasia",
+      "ficcao",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5149
+    }
+  },
+  {
+    "id": "series_5263",
+    "type": "series",
+    "title": "No Rancho Fundo",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/eONkvEahSQJan1HTzWJKjvaMe29.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9hJqDmWGZLUCZHl0FulvkI6f6qz.jpg",
+    "rating": 5.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5263
+    }
+  },
+  {
+    "id": "series_5274",
+    "type": "series",
+    "title": "Chega Mais",
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/dN6lkmUjiZhtc3Hx1Gc1shwVBpD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/z5aPmRBKQLYxBhn86SMjjFT1nWp.jpg",
+    "rating": 6.7,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5274
+    }
+  },
+  {
+    "id": "series_5276",
+    "type": "series",
+    "title": "Coração Alado",
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/76jiTSxSmbIt4qWWotwJTDdreAR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8DeMwIA4HEEtMhR9iaFx2VwMZGL.jpg",
+    "rating": 7.6,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5276
+    }
+  },
+  {
+    "id": "series_5280",
+    "type": "series",
+    "title": "Happy Ending Romance",
+    "year": 2022,
+    "poster": "http://image.tmdb.org/t/p/w300/tF9nDGdC22wfZSx2P2RjM5k2x7G.jpg",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 5280
+    }
+  },
+  {
+    "id": "series_9058",
+    "type": "series",
+    "title": "Meu Pecado",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/z9LYxVQ4F7tNZ74mE1jPjDjAx2p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sx9WWYJIQEi5W3RWUxvqOKB9suM.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9058
+    }
+  },
+  {
+    "id": "series_5362",
+    "type": "series",
+    "title": "Despedida de Solteiro",
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w500/cTiEQafzkZ3cfwsLfkCLOPaxe8u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8fHsfljegfeX6PsIe3Iet3agx7a.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5362
+    }
+  },
+  {
+    "id": "series_5452",
+    "type": "series",
+    "title": "Montecristo",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/5oGpw6OPb1huq6nN7VMDYf8exY7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xjXzcMSJ2tVBTmGkozw1Xgsbj3c.jpg",
+    "rating": 5.3,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 5452
+    }
+  },
+  {
+    "id": "series_5459",
+    "type": "series",
+    "title": "O Romance da Meia-noite em Hagwon",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/2bVVy1R2rchcqyPjiQtFsJwfOYB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sFngkyuP2WD2Pt9RBKnDqJeriIt.jpg",
+    "rating": 7.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 5459
+    }
+  },
+  {
+    "id": "series_5478",
+    "type": "series",
+    "title": "A Sucessora",
+    "year": 1978,
+    "poster": "https://image.tmdb.org/t/p/w500/6vZihUjSrNDr44EDWwoGngbqgLx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8EFiLr1OOZ2nFomZ4YOhw9H4vdl.jpg",
+    "rating": 7.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5478
+    }
+  },
+  {
+    "id": "series_5532",
+    "type": "series",
+    "title": "A Rainha da Pérsia",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/6vYIqxLrkfpkBDqA8ztw0xMxcfE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/y9uxVJfK79j2NloFe3v8FhRsT36.jpg",
+    "rating": 8.769,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "guerra",
+      "acao",
+      "aventura",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5532
+    }
+  },
+  {
+    "id": "series_5622",
+    "type": "series",
+    "title": "Água Viva",
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/rRV18bRXX1jOINBGnw4ivL2mvif.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7uPPoTExMdPy4QG149tnm9bdtQD.jpg",
+    "rating": 8.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5622
+    }
+  },
+  {
+    "id": "series_5625",
+    "type": "series",
+    "title": "Meu Pedacinho de Chão",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/q1nR6yLskheWEa1EggwVNZFCPq3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/g7bsqAcrBcwvhpz5ITOKgLc9wTS.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5625
+    }
+  },
+  {
+    "id": "series_5626",
+    "type": "series",
+    "title": "O Dono do Mundo",
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/1m3Y4iYkpdMXoZ2NypKLqb1Gms2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pRAqUgWoGMfTb96WzJEe5vF1tdk.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5626
+    }
+  },
+  {
+    "id": "series_5627",
+    "type": "series",
+    "title": "Suave Veneno",
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/6DsyZ6Oyid66vBDYatx7gn4veK6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1qodzzAakExjHMLqexGACYDJsjk.jpg",
+    "rating": 5.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5627
+    }
+  },
+  {
+    "id": "series_5633",
+    "type": "series",
+    "title": "Betty, A Feia - A História Continua",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/1ke3hmcDMfSObDuZvwwKBpuBUn6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l8IOzjaS1YvlfxDXsMhgAJnxld0.jpg",
+    "rating": 7.553,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "historia"
+    ],
+    "xtream": {
+      "seriesId": 5633
+    }
+  },
+  {
+    "id": "series_5688",
+    "type": "series",
+    "title": "A Caverna Encantada",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/5GhlwbZ8ogQUf2Xuq8tE2lX7gk7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rydgjijtjdfs4Aedi59a9gV5M65.jpg",
+    "rating": 5.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil",
+      "acao",
+      "aventura",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5688
+    }
+  },
+  {
+    "id": "series_5709",
+    "type": "series",
+    "title": "Viver a Vida",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/qMgASlyaHMTU4oGkIJWJfv4goSf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8j7pkswHOur1vmRJsd0HnxBcwfL.jpg",
+    "rating": 5.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5709
+    }
+  },
+  {
+    "id": "series_5739",
+    "type": "series",
+    "title": "Deus Salve o Rei",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/vhrHWMfS8n11DjPwfoODSw77vSQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5uZwLNANoiUCLS2y8TXtGM9wa40.jpg",
+    "rating": 4.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "acao",
+      "aventura",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5739
+    }
+  },
+  {
+    "id": "series_5828",
+    "type": "series",
+    "title": "Direito de Amar",
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/yRjQLbOipDw3R3XVN941ljSR1Xc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2EbTMzICsPKSGtrCmIDKxQ5n4dN.jpg",
+    "rating": 7.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5828
+    }
+  },
+  {
+    "id": "series_5876",
+    "type": "series",
+    "title": "Mania de Você",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xeJJZE8yC09lRbiV2f2hqURJmhd.jpg",
+    "rating": 6.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5876
+    }
+  },
+  {
+    "id": "series_5882",
+    "type": "series",
+    "title": "Ciranda de Pedra",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/a0Q6A3WEz5qx9hWO4nOjpJ2aJ0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3Wr492edDk5IilBnCFKndtLnA0x.jpg",
+    "rating": 7.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 5882
+    }
+  },
+  {
+    "id": "series_6003",
+    "type": "series",
+    "title": "Volta por Cima",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/j5CR0gFPjwgmAXkV9HGaF4VMjIW.jpg",
+    "rating": 6.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6003
+    }
+  },
+  {
+    "id": "series_6028",
+    "type": "series",
+    "title": "A História de Ana Raio e Zé Trovão",
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/7tNuwKXzvPAnHwiG2fBDQ2kJa87.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/TN0OtQNPT1IF6YlwRRXLr4r7S1.jpg",
+    "rating": 9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "historia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6028
+    }
+  },
+  {
+    "id": "series_6029",
+    "type": "series",
+    "title": "Felicity",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/i6gZ7fVpLBK3l5FkxCzMtEtT7Bz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/brYNyCDlPoSskLhupEYMYulyyOB.jpg",
+    "rating": 6.621,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 6029
+    }
+  },
+  {
+    "id": "series_6079",
+    "type": "series",
+    "title": "Romance excêntrico",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/j76kcbugBcDLk7FvbVAK0sL0JPo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ta0pxKDKENS2faYW63SBE8UofTE.jpg",
+    "rating": 6.1,
+    "producer": "outras_produtoras",
+    "genres": [
+      "misterio",
+      "comedia",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 6079
+    }
+  },
+  {
+    "id": "series_6110",
+    "type": "series",
+    "title": "Irmãos Coragem",
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/izm51LYqWXQbj08lr2msXhIrzXP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uRXLIG9B2hP7U6TB0IBWiD9pfIL.jpg",
+    "rating": 8,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance",
+      "acao",
+      "aventura",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6110
+    }
+  },
+  {
+    "id": "series_9054",
+    "type": "series",
+    "title": "Meu Caminho é Te Amar",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/fb7VS43lRRM0jgkohzD0fDOmdVG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p0XahmOPJANjYTcUFJPU8LuwnDF.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9054
+    }
+  },
+  {
+    "id": "series_6131",
+    "type": "series",
+    "title": "Garota do Momento",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/jFSkjQSZ5Td52igalpoTQRuHtk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kICcFwhnGOFybe0tTBE47VFB0Uu.jpg",
+    "rating": 7.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6131
+    }
+  },
+  {
+    "id": "series_6181",
+    "type": "series",
+    "title": "A Sonhadora",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/mndpDoIc8xAagZc162xKNNvPROY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uJ3HalVLkaOeH1lvDdrEmeqFxds.jpg",
+    "rating": 8.02,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "comedia",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 6181
+    }
+  },
+  {
+    "id": "series_9056",
+    "type": "series",
+    "title": "Meu Coração é Teu",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/7eQ6whEEEFCoSPmaxcpbiMgXaHq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bevGFsYQkOA6iEYpd7MpS9L3WSf.jpg",
+    "rating": 7.991,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 9056
+    }
+  },
+  {
+    "id": "series_6348",
+    "type": "series",
+    "title": "I'm Sorry Kang Nam-Goo",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/4bFoHByW2jV74v5lwkoQ9JMJWHm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oZUpZdvZJqjynoZeiC1I54iqfiG.jpg",
+    "rating": 6.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 6348
+    }
+  },
+  {
+    "id": "series_9141",
+    "type": "series",
+    "title": "Duas Mulheres Duas Vidas",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/thONDvCfFjWFWECRravmwYC7UbI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oWexULOnhqBEdMbKbPsCsg9qFKb.jpg",
+    "rating": 5.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9141
+    }
+  },
+  {
+    "id": "series_6567",
+    "type": "series",
+    "title": "Man Of Honor",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/yLJBLnl70HyD4Kx6PyhWXVh7KDT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xEFEqhyLMQaT8MnI1xbNFPWZVcO.jpg",
+    "rating": 5.7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 6567
+    }
+  },
+  {
+    "id": "series_6582",
+    "type": "series",
+    "title": "Plumas & Paetês",
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/1oEQi2HSLgezuocBBN99XfhsoYX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sPYVwwFNkJInwAPyQ3cOKDcNFSA.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6582
+    }
+  },
+  {
+    "id": "series_6590",
+    "type": "series",
+    "title": "Beleza Fatal",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/gnqG5Ou3esy5OkhEK5w42vdaq9I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rdeEKPvdDKt5b5lcY3bHsUfrwjU.jpg",
+    "rating": 8.2,
+    "producer": "hbo_max",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio",
+      "crime",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6590
+    }
+  },
+  {
+    "id": "series_6692",
+    "type": "series",
+    "title": "As Filhas da Mãe",
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/k5HknGAVCi30YC5bhWGXgbJnikZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4qfOsyPR9TQeKwsyN4VtstgHvhd.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6692
+    }
+  },
+  {
+    "id": "series_6778",
+    "type": "series",
+    "title": "A Moreninha",
+    "year": 1975,
+    "poster": "https://image.tmdb.org/t/p/w500/iVSbsptwQEdgZneilgid9Qz8t1H.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gimka7e4zv72lrZBdcZt0RBqD7C.jpg",
+    "rating": 9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6778
+    }
+  },
+  {
+    "id": "series_6819",
+    "type": "series",
+    "title": "The Windsors",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/mW3mUGxpuzgvRVdxNDfcuXemFzw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jFw4h3529mr6f9RXxG74ynyCWW7.jpg",
+    "rating": 6.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 6819
+    }
+  },
+  {
+    "id": "series_6877",
+    "type": "series",
+    "title": "Vale Tudo",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/sK82sqOOjrzuxjFyWdgBWQTHYeu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qX9epDSi7n4NGHx9To2HrNPNYty.jpg",
+    "rating": 5.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6877
+    }
+  },
+  {
+    "id": "series_6932",
+    "type": "series",
+    "title": "KOWLOON GENERIC ROMANCE",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/gWKv5pWZRAitLdpZmiA9AEvplpQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ypIWlo7Q4hx4LI2ECWL9vxyRmBO.jpg",
+    "rating": 7.25,
+    "producer": "outras_produtoras",
+    "genres": [
+      "animacao",
+      "drama",
+      "fantasia",
+      "ficcao",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 6932
+    }
+  },
+  {
+    "id": "series_6994",
+    "type": "series",
+    "title": "Dona de Mim",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/1iBQHzNhuW03u79xhkREKkLRf94.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wCavg983SlQC9uiks2iFD9nMggj.jpg",
+    "rating": 7.467,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 6994
+    }
+  },
+  {
+    "id": "series_7018",
+    "type": "series",
+    "title": "Para Sempre",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yG7KQSEkajD8ujOBzJe3IuHVWMC.jpg",
+    "rating": 6.8,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 7018
+    }
+  },
+  {
+    "id": "series_9053",
+    "type": "series",
+    "title": "Triunfo do Amor",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/qjuI9tYDJikLcomkFLwkKoOAagm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qTrWyJL5fCRiUPHaqlGZt8prSA5.jpg",
+    "rating": 7.744,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9053
+    }
+  },
+  {
+    "id": "series_7122",
+    "type": "series",
+    "title": "Pablo, el Apóstol",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/yRFFSL5cid6hbi6rQQycZKgg2AN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ezqcfedWzq7ggxAuar6z23xClow.jpg",
+    "rating": 0,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 7122
+    }
+  },
+  {
+    "id": "series_7150",
+    "type": "series",
+    "title": "Três Irmãs",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/fHCoW0zsfqHowrbFRufbgVU98wl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/46G6kz0JxmCmiDg9y2onxnivaD8.jpg",
+    "rating": 5.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 7150
+    }
+  },
+  {
+    "id": "series_7165",
+    "type": "series",
+    "title": "Aniela",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/B5xMaOvJGA2quijDbla4j7cSyw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bZTPJG5EZVa83aKEhzbsq4F1L3P.jpg",
+    "rating": 6.3,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 7165
+    }
+  },
+  {
+    "id": "series_7166",
+    "type": "series",
+    "title": "Guerreiros do Sol",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/51PSm1PXoRAhvfNc6VPHsIXmr2D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sgHMx0tJQUn08bWpyfH1UNKoUOd.jpg",
+    "rating": 8.625,
+    "producer": "globoplay",
+    "genres": [
+      "drama",
+      "romance",
+      "crime",
+      "acao",
+      "aventura",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 7166
+    }
+  },
+  {
+    "id": "series_9052",
+    "type": "series",
+    "title": "O Amor Invencível",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/xzu9TcurI7qrgeBruKTw1WmVp2P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1CWhCGpl3sx92OATm3tELtLqBdX.jpg",
+    "rating": 7.514,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9052
+    }
+  },
+  {
+    "id": "series_7273",
+    "type": "series",
+    "title": "Apaixone-se Intensamente",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/e0fUe9NUAKhzyEAfzz9qQs05U9d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9f3AJEarmxgfxe0D8RVB93IJs0j.jpg",
+    "rating": 9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 7273
+    }
+  },
+  {
+    "id": "series_7190",
+    "type": "series",
+    "title": "Mentiras, a Série",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/jzfyq5YqzpGG83ZBcODK5BwvcGM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/romZHSReJrR0sHJ55PBWl1jb81s.jpg",
+    "rating": 8.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 7190
+    }
+  },
+  {
+    "id": "series_7243",
+    "type": "series",
+    "title": "Êta Mundo Melhor!",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/wbsKNMO4o3gE1FMW18z8VR1wGka.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cbzHqb6mwkZ1eR1Da9vh5NSiYwp.jpg",
+    "rating": 4.3,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 7243
+    }
+  },
+  {
+    "id": "series_7334",
+    "type": "series",
+    "title": "Ao Sul do Coração",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/iYrqkj9Oya1vpVuJJVV8xr18ycN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3QtbHkk8n1O3GCdw1dEpDIAqZG1.jpg",
+    "rating": 8,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 7334
+    }
+  },
+  {
+    "id": "series_7389",
+    "type": "series",
+    "title": "Kally's Mashup",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/axclJ10eoxxpVyZZC7FPq8jA6Gf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mQy608Xc319ec3H8soJBO5y8fa3.jpg",
+    "rating": 8.4,
+    "producer": "netflix",
+    "genres": [
+      "comedia",
+      "drama",
+      "romance",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 7389
+    }
+  },
+  {
+    "id": "series_7660",
+    "type": "series",
+    "title": "Hipertensão",
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/5WZN8FoWZwAj3UgXRxHjmvk9wIj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dcI98MmAC6AQXFAZeqaN1CEkcDm.jpg",
+    "rating": 6.6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 7660
+    }
+  },
+  {
+    "id": "series_7705",
+    "type": "series",
+    "title": "As Pupilas do Senhor Reitor",
+    "year": 1970,
+    "poster": "https://image.tmdb.org/t/p/w500/bh4WkpfpLdhCoJ4mNS8LEjup1DD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ytQjHGTq2wPELGNGAb0RDo7OnFW.jpg",
+    "rating": 7,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 7705
+    }
+  },
+  {
+    "id": "series_7715",
+    "type": "series",
+    "title": "Sonhos de Liberdade",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/k0uSCsavcoGviQK9rfyH2srRjhZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qwoFxyMtArLpZZzG3mmRDEjGgCM.jpg",
+    "rating": 6.1,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 7715
+    }
+  },
+  {
+    "id": "series_7872",
+    "type": "series",
+    "title": "Girls' Play",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/vLIFjIYa0zX3vouXW81JbOjjImj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jmppa0B4y0OWhWS7Mhwjc08aMbF.jpg",
+    "rating": 0,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "acao",
+      "aventura",
+      "crime"
+    ],
+    "xtream": {
+      "seriesId": 7872
+    }
+  },
+  {
+    "id": "series_7921",
+    "type": "series",
+    "title": "Três Graças",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bsnzAWs9MITfYgsQ8jp1SQ3AyHI.jpg",
+    "rating": 7.792,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 7921
+    }
+  },
+  {
+    "id": "series_8001",
+    "type": "series",
+    "title": "Fascinação",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/zvGD24cVQefA6otHhU0319ZWAe9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gQUYwySiJKK5zoOaGruHdqUAYXr.jpg",
+    "rating": 8.8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 8001
+    }
+  },
+  {
+    "id": "series_8031",
+    "type": "series",
+    "title": "Simplesmente Alicia",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/14GrudBmczec9oZ6G3JOTuSl2iQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xHo8DmcIoYSc27O7CL4Z7Ysp5Tz.jpg",
+    "rating": 7.3,
+    "producer": "netflix",
+    "genres": [
+      "drama",
+      "comedia",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 8031
+    }
+  },
+  {
+    "id": "series_9165",
+    "type": "series",
+    "title": "A Usurpadora",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/tIPEHV0mHaJKFDVb6Vtb4dX8pj2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fsbZAdbojecotA4mpdVOuehpdjO.jpg",
+    "rating": 6.925,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9165
+    }
+  },
+  {
+    "id": "series_9163",
+    "type": "series",
+    "title": "Cautiva por amor",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/2Ozao8saDr8YL7RKsp6mMPUzAIm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dAUBKL4cBQSV6w44PgcmP3ss6nd.jpg",
+    "rating": 7.833,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9163
+    }
+  },
+  {
+    "id": "series_8232",
+    "type": "series",
+    "title": "Second Chance Romance",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/eQhBiO0ELLjOsUPW47ZEwEs62KU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yB0WlkEWHk8MKVptutO5awGUM23.jpg",
+    "rating": 9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 8232
+    }
+  },
+  {
+    "id": "series_8288",
+    "type": "series",
+    "title": "Coração Acelerado",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/dwSw1affkj4DfdqkCfyhpSa4ueP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xTU60aw1LhC3qGjKxK9B2W6gZ9k.jpg",
+    "rating": 6,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 8288
+    }
+  },
+  {
+    "id": "series_8346",
+    "type": "series",
+    "title": "Ninguém Como Tu",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/6zKE77wOMei1YHiHxecDZSAHqUV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cDiPn4blJNbcMlFRhmrXL8S5ZX6.jpg",
+    "rating": 3.7,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 8346
+    }
+  },
+  {
+    "id": "series_8360",
+    "type": "series",
+    "title": "Nina",
+    "year": 1977,
+    "poster": "https://image.tmdb.org/t/p/w500/luHi6wYizTyPfLAOO2Xcpif9ut7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/28Mtu9wbvgnO1JJ5C9cR4f08Qfi.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "misterio",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 8360
+    }
+  },
+  {
+    "id": "series_8402",
+    "type": "series",
+    "title": "Dona Beja",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/eN3jw7AEOwNtTQTsGVHlEPvs6OC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gSvEG4PrNiqBKxNrhrtWsquzIKK.jpg",
+    "rating": 7,
+    "producer": "prime_video",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 8402
+    }
+  },
+  {
+    "id": "series_8628",
+    "type": "series",
+    "title": "A Nobreza do Amor",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/eKWeDBBVlFTeBjCJKr9Dc7A1OGz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wJybYZUCFj1xUQOjXLyxfVFNKlb.jpg",
+    "rating": 9.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "fantasia",
+      "ficcao",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 8628
+    }
+  },
+  {
+    "id": "series_8697",
+    "type": "series",
+    "title": "Nossos dias Felizes",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ty3yIVXlgHHZ5WZ8IaS3GdVgT6Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nydsd4EttPQyzgLaZpX8ybmZo7t.jpg",
+    "rating": 8,
+    "producer": "outras_produtoras",
+    "genres": [
+      "familia",
+      "infantil",
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 8697
+    }
+  },
+  {
+    "id": "series_8703",
+    "type": "series",
+    "title": "The Dark Romance",
+    "year": 2026,
+    "poster": "http://image.tmdb.org/t/p/w300/jYbTb3QRE224v0icaPsZmGnFvnb.jpg",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 8703
+    }
+  },
+  {
+    "id": "series_8710",
+    "type": "series",
+    "title": "Hometown Romance",
+    "year": 2026,
+    "poster": "http://image.tmdb.org/t/p/w300/8LVRD8PUsUb4CJ561hOEy0xCRKg.jpg",
+    "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+    "rating": 0,
+    "producer": "outras_produtoras",
+    "genres": [
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 8710
+    }
+  },
+  {
+    "id": "series_9166",
+    "type": "series",
+    "title": "Domênica Montero",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/1B47AOwnURMftWUGmhGEe5kRZrq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m9vxP7F52vTyFTlMqppxKFOcCPN.jpg",
+    "rating": 8.195,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9166
+    }
+  },
+  {
+    "id": "series_9167",
+    "type": "series",
+    "title": "Esmeralda",
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/lSQZj3JatF1wlqZJFITtIFhRxyG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jdM7XAINHU4sjy7A8hzphOYwmoT.jpg",
+    "rating": 7.289,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9167
+    }
+  },
+  {
+    "id": "series_8941",
+    "type": "series",
+    "title": "Quem Ama Cuida",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lzLkCVaN1l0RBYYDClZ983l4ZOz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/usn2hDX2RIPjvHQE72sSLLHjoDM.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "nacional"
+    ],
+    "xtream": {
+      "seriesId": 8941
+    }
+  },
+  {
+    "id": "series_9067",
+    "type": "series",
+    "title": "Cair em Tentação",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/1VSooFyF4eeZN9W3Js8tkZdpWQQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8BH6d9B6flO2gOeEjWaE6UfmJ1c.jpg",
+    "rating": 7.773,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9067
+    }
+  },
+  {
+    "id": "series_9186",
+    "type": "series",
+    "title": "A Cor da Paixão",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/jjsl79Tsuu7rd25oExLEpwoJz6P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oi3fIpEXqRy8J4Ph4QSRA7xxJuZ.jpg",
+    "rating": 7.61,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9186
+    }
+  },
+  {
+    "id": "series_9187",
+    "type": "series",
+    "title": "A História de Joana: A Virgem",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/rIJMJz5hqSFqMm4QO7iRTjCEDJF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/c8KlKnYxW9K2a0IvxJavphRgAer.jpg",
+    "rating": 8.4,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "historia"
+    ],
+    "xtream": {
+      "seriesId": 9187
+    }
+  },
+  {
+    "id": "series_9190",
+    "type": "series",
+    "title": "A Sombra do Passado",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/2j4tr5ZaY6ljPWik0GQE3RvVyXz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AuCHr3XnOqvEdxbvRd9Iuk6qBTn.jpg",
+    "rating": 7.2,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9190
+    }
+  },
+  {
+    "id": "series_9195",
+    "type": "series",
+    "title": "Amores com Trapaças",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/Gg6JYujNnHYaMz6lIKeYCejmVW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qNCmp7tauMPanjBZndeX8xrkdsy.jpg",
+    "rating": 6.9,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "familia",
+      "infantil"
+    ],
+    "xtream": {
+      "seriesId": 9195
+    }
+  },
+  {
+    "id": "series_9201",
+    "type": "series",
+    "title": "Coração Que Mente",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/xmH51jGILGGaGdnGTZnQFo7QwSj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cMd4GEtNwAkEMVPyihLtUzO6Arc.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9201
+    }
+  },
+  {
+    "id": "series_9204",
+    "type": "series",
+    "title": "Destilando Amor",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/L3MPoQSvfbHZAJEdskXTM1vdHi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+    "rating": 7.646,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "xtream": {
+      "seriesId": 9204
+    }
+  },
+  {
+    "id": "series_9224",
+    "type": "series",
+    "title": "O Amor não tem Receita",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/oEgTz6fhs5ZPopU2AyESPF4Esak.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bIhmqQNXcyWRzH153d3jaCbLTy3.jpg",
+    "rating": 7.5,
+    "producer": "outras_produtoras",
+    "genres": [
+      "acao",
+      "aventura",
+      "fantasia",
+      "ficcao",
+      "drama",
+      "familia",
+      "infantil",
+      "romance",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 9224
+    }
+  },
+  {
+    "id": "series_9240",
+    "type": "series",
+    "title": "Que Pobres tão Ricos",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/AiQ56hQBPsiWM8fTCUk45vk3Jz7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rYoT59MhhQNHtMwarJCGF9qCPPt.jpg",
+    "rating": 7.606,
+    "producer": "outras_produtoras",
+    "genres": [
+      "drama",
+      "romance",
+      "comedia"
+    ],
+    "xtream": {
+      "seriesId": 9240
     }
   }
 ]

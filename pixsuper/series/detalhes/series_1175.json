@@ -1,0 +1,59 @@
+{
+  "id": "series_1175",
+  "type": "series",
+  "title": "O Corredor da Morte",
+  "originalTitle": "En el corredor de la muerte",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/zsF3iHQbG22nMYdsvHnKyoTtEd9.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1nRYuaxJHWjTElDg0OEw6IzD0iR.jpg",
+  "overview": "Junho de 1994. Três corpos crivados de balas são encontrados em uma área tranquila de Miami. A polícia encontra imagens contendo o rosto desfocado de um dos agressores. Um policial vê Pablo Ibar e pensa que ele é o homem do vídeo. Pablo jura que não tem nada a ver com o assassinato, mas é julgado e condenado à morte. É a história da batalha de 25 anos de um homem para provar sua inocência.",
+  "rating": 6.6,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 92500,
+  "xtream": {
+    "seriesId": 1175
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3188146",
+          "episodeId": 3188146,
+          "season": 1,
+          "episode": 1,
+          "title": "O Corredor da Morte S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188147",
+          "episodeId": 3188147,
+          "season": 1,
+          "episode": 2,
+          "title": "O Corredor da Morte S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188148",
+          "episodeId": 3188148,
+          "season": 1,
+          "episode": 3,
+          "title": "O Corredor da Morte S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3188149",
+          "episodeId": 3188149,
+          "season": 1,
+          "episode": 4,
+          "title": "O Corredor da Morte S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

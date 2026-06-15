@@ -1,0 +1,68 @@
+{
+  "id": "series_6422",
+  "type": "series",
+  "title": "Chopped: Nova Geração",
+  "originalTitle": "Chopped Next Gen",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/c6LZONS4IdRjUJhcpi7zUVesNpu.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/hLUi50363kLedUaNPiNFlLKmHlI.jpg",
+  "overview": "A atriz Liza Koshy apresenta a competição em que chefs jovens e ousados enfrentam algumas das cestas de ingredientes mais difíceis de Chopped. Eles inventam pratos criativos enquanto fascinam os jurados.",
+  "rating": 0,
+  "genres": [
+    "reality",
+    "familia",
+    "infantil"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 126385,
+  "xtream": {
+    "seriesId": 6422
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3342307",
+          "episodeId": 3342307,
+          "season": 1,
+          "episode": 1,
+          "title": "Chopped Nova Geracao S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3342308",
+          "episodeId": 3342308,
+          "season": 1,
+          "episode": 2,
+          "title": "Chopped Nova Geracao S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3342309",
+          "episodeId": 3342309,
+          "season": 1,
+          "episode": 3,
+          "title": "Chopped Nova Geracao S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3342310",
+          "episodeId": 3342310,
+          "season": 1,
+          "episode": 4,
+          "title": "Chopped Nova Geracao S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3342311",
+          "episodeId": 3342311,
+          "season": 1,
+          "episode": 5,
+          "title": "Chopped Nova Geracao S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

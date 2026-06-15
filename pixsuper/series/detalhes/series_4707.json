@@ -1,0 +1,51 @@
+{
+  "id": "series_4707",
+  "type": "series",
+  "title": "3x Ártico: O Alerta do Gelo",
+  "originalTitle": "3x Ártico: O Alerta do Gelo",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/8AbWvPr776OYTuysKgyT6jUafKT.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ewVXCiYgTU0XL8vHYFPUGzb1SQe.jpg",
+  "overview": "Ernesto Paglia retorna à Groenlândia, depois de quase 30 anos da primeira viagem, para mostrar o impacto das mudanças climáticas em uma das regiões mais isoladas do mundo.",
+  "rating": 0,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 242929,
+  "xtream": {
+    "seriesId": 4707
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3297456",
+          "episodeId": 3297456,
+          "season": 1,
+          "episode": 1,
+          "title": "3x Artico O Alerta do Gelo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297457",
+          "episodeId": 3297457,
+          "season": 1,
+          "episode": 2,
+          "title": "3x Artico O Alerta do Gelo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3297458",
+          "episodeId": 3297458,
+          "season": 1,
+          "episode": 3,
+          "title": "3x Artico O Alerta do Gelo S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

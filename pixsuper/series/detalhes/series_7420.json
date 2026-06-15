@@ -1,0 +1,92 @@
+{
+  "id": "series_7420",
+  "type": "series",
+  "title": "Washington Black",
+  "originalTitle": "Washington Black",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/oJfZI4pXQQBQutHT15y0evJNGZv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vapoYt08nte9AnFPSGADNau8C6I.jpg",
+  "overview": "Uma história épica que acompanha o artista e cientista George \"Wash\" Black em uma aventura ao redor do mundo com a ajuda de uma estranha máquina voadora. Sua jornada o leva pela América, pelos mares gélidos do Artico, pelas torres góticas da velha Europa e pelos desertos do Norte da África, sempre um passo à frente de um caçador de recompensas mortal.",
+  "rating": 6.1,
+  "genres": [
+    "drama",
+    "acao",
+    "aventura"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 156390,
+  "xtream": {
+    "seriesId": 7420
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3365166",
+          "episodeId": 3365166,
+          "season": 1,
+          "episode": 1,
+          "title": "Washington Black S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3365167",
+          "episodeId": 3365167,
+          "season": 1,
+          "episode": 2,
+          "title": "Washington Black S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3365168",
+          "episodeId": 3365168,
+          "season": 1,
+          "episode": 3,
+          "title": "Washington Black S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3365169",
+          "episodeId": 3365169,
+          "season": 1,
+          "episode": 4,
+          "title": "Washington Black S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3365170",
+          "episodeId": 3365170,
+          "season": 1,
+          "episode": 5,
+          "title": "Washington Black S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3365171",
+          "episodeId": 3365171,
+          "season": 1,
+          "episode": 6,
+          "title": "Washington Black S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3365172",
+          "episodeId": 3365172,
+          "season": 1,
+          "episode": 7,
+          "title": "Washington Black S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3365173",
+          "episodeId": 3365173,
+          "season": 1,
+          "episode": 8,
+          "title": "Washington Black S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

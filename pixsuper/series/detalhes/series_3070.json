@@ -1,0 +1,117 @@
+{
+  "id": "series_3070",
+  "type": "series",
+  "title": "MasterChef",
+  "originalTitle": "MasterChef",
+  "year": 2010,
+  "poster": "http://image.tmdb.org/t/p/w300/tyqJFv8DZ7TzqMG28ZIKVdigQyQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cJXgK6wyemFSUhMuUylA5cUEoly.jpg",
+  "overview": "Novo formato da principal competição culinária, o MasterChef+ é destinado a cozinheiros amadores acima de 60 anos.",
+  "rating": 0,
+  "genres": [],
+  "producer": "outras_produtoras",
+  "tmdbId": 218715,
+  "xtream": {
+    "seriesId": 3070
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3255201",
+          "episodeId": 3255201,
+          "season": 1,
+          "episode": 1,
+          "title": "MasterChef+ S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255202",
+          "episodeId": 3255202,
+          "season": 1,
+          "episode": 2,
+          "title": "MasterChef+ S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255203",
+          "episodeId": 3255203,
+          "season": 1,
+          "episode": 3,
+          "title": "MasterChef+ S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255204",
+          "episodeId": 3255204,
+          "season": 1,
+          "episode": 4,
+          "title": "MasterChef+ S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255205",
+          "episodeId": 3255205,
+          "season": 1,
+          "episode": 5,
+          "title": "MasterChef+ S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3255206",
+          "episodeId": 3255206,
+          "season": 2,
+          "episode": 1,
+          "title": "MasterChef+ S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255207",
+          "episodeId": 3255207,
+          "season": 2,
+          "episode": 2,
+          "title": "MasterChef+ S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255208",
+          "episodeId": 3255208,
+          "season": 2,
+          "episode": 3,
+          "title": "MasterChef+ S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255209",
+          "episodeId": 3255209,
+          "season": 2,
+          "episode": 4,
+          "title": "MasterChef+ S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255210",
+          "episodeId": 3255210,
+          "season": 2,
+          "episode": 5,
+          "title": "MasterChef+ S02 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3255211",
+          "episodeId": 3255211,
+          "season": 2,
+          "episode": 6,
+          "title": "MasterChef+ S02 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "series_5250",
+  "type": "series",
+  "title": "Good Times",
+  "originalTitle": "Good Times",
+  "year": 1974,
+  "poster": "https://image.tmdb.org/t/p/w500/nwQ6QXKjpR74Sxlbs9iat4eOVxb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cnwvAmXCCZ3UF8TNxZ4SypmdDlA.jpg",
+  "overview": "Nesta versão irreverente do clássico da TV, uma nova geração da família Evans tenta sobreviver aos desafios da vida na periferia de Chicago.",
+  "rating": 8,
+  "genres": [
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 154,
+  "xtream": {
+    "seriesId": 5250
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3311232",
+          "episodeId": 3311232,
+          "season": 1,
+          "episode": 1,
+          "title": "Good Times S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311233",
+          "episodeId": 3311233,
+          "season": 1,
+          "episode": 2,
+          "title": "Good Times S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311234",
+          "episodeId": 3311234,
+          "season": 1,
+          "episode": 3,
+          "title": "Good Times S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311235",
+          "episodeId": 3311235,
+          "season": 1,
+          "episode": 4,
+          "title": "Good Times S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311236",
+          "episodeId": 3311236,
+          "season": 1,
+          "episode": 5,
+          "title": "Good Times S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311237",
+          "episodeId": 3311237,
+          "season": 1,
+          "episode": 6,
+          "title": "Good Times S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311238",
+          "episodeId": 3311238,
+          "season": 1,
+          "episode": 7,
+          "title": "Good Times S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311239",
+          "episodeId": 3311239,
+          "season": 1,
+          "episode": 8,
+          "title": "Good Times S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311240",
+          "episodeId": 3311240,
+          "season": 1,
+          "episode": 9,
+          "title": "Good Times S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3311241",
+          "episodeId": 3311241,
+          "season": 1,
+          "episode": 10,
+          "title": "Good Times S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

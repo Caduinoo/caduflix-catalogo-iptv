@@ -1,0 +1,50 @@
+{
+  "id": "series_9005",
+  "type": "series",
+  "title": "Michael Jackson: An American Tragedy",
+  "originalTitle": "Michael Jackson: An American Tragedy",
+  "year": 2026,
+  "poster": "https://image.tmdb.org/t/p/w500/vSdcBSnBRDY29Tz4We4TlKmjtLA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uMjerMT5CmzBcT7cwWPtDtrSCPp.jpg",
+  "overview": "Traçando a trajetória de Michael Jackson, de criança prodígio a ícone global, examinando o gênio, a controvérsia, os julgamentos e a tragédia que moldaram e continuam a dividir seu legado.",
+  "rating": 7.4,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 317555,
+  "xtream": {
+    "seriesId": 9005
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3392532",
+          "episodeId": 3392532,
+          "season": 1,
+          "episode": 1,
+          "title": "Michael Jackson An American Tragedy (2026) [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3392533",
+          "episodeId": 3392533,
+          "season": 1,
+          "episode": 2,
+          "title": "Michael Jackson An American Tragedy (2026) [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3392534",
+          "episodeId": 3392534,
+          "season": 1,
+          "episode": 3,
+          "title": "Michael Jackson An American Tragedy (2026) [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

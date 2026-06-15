@@ -1,0 +1,87 @@
+{
+  "id": "series_2939",
+  "type": "series",
+  "title": "Tesouros Perdidos de Roma",
+  "originalTitle": "Lost Treasures of Rome",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/mtsRzMmJWEGrEjKVK6fxv3WSzXD.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/h3MXhYh98k0qXJSaGJ3qfHeYSEk.jpg",
+  "overview": "Uma equipe internacional de arqueólogos enfrenta o fascinante desafio de trazer à luz os segredos perdidos do Império Romano.",
+  "rating": 7.2,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 202359,
+  "xtream": {
+    "seriesId": 2939
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3251954",
+          "episodeId": 3251954,
+          "season": 1,
+          "episode": 1,
+          "title": "Tesouros Perdidos de Roma S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251955",
+          "episodeId": 3251955,
+          "season": 1,
+          "episode": 2,
+          "title": "Tesouros Perdidos de Roma S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251956",
+          "episodeId": 3251956,
+          "season": 1,
+          "episode": 3,
+          "title": "Tesouros Perdidos de Roma S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251957",
+          "episodeId": 3251957,
+          "season": 1,
+          "episode": 4,
+          "title": "Tesouros Perdidos de Roma S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251958",
+          "episodeId": 3251958,
+          "season": 1,
+          "episode": 5,
+          "title": "Tesouros Perdidos de Roma S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3251959",
+          "episodeId": 3251959,
+          "season": 1,
+          "episode": 6,
+          "title": "Tesouros Perdidos de Roma S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3251960",
+          "episodeId": 3251960,
+          "season": 2,
+          "episode": 1,
+          "title": "Tesouros Perdidos de Roma S02 E01",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

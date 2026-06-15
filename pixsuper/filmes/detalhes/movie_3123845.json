@@ -1,0 +1,49 @@
+{
+  "id": "movie_3123845",
+  "type": "movie",
+  "title": "Capital",
+  "originalTitle": "Capital",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/wNYp1Yhq3mTfO6aw7xJh3SkUrZH.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q2uUMhWeV6Fo4ydIgPvt5LgL1ws.jpg",
+  "overview": "",
+  "rating": 6,
+  "runtime": 16,
+  "genres": [
+    "comedia",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Adam Drake",
+      "character": "Adam Garibaldi",
+      "profile": ""
+    },
+    {
+      "name": "Harry Enfield",
+      "character": "Jeremy Couns",
+      "profile": "https://image.tmdb.org/t/p/w185/fzrYlkfm4JhfM9eKuO7xsZzFeaf.jpg"
+    },
+    {
+      "name": "Charlotte Ritchie",
+      "character": "Charlotte Quince-Wheatley",
+      "profile": "https://image.tmdb.org/t/p/w185/hfwp6YZGYsOIo10euqvYfpZTbQO.jpg"
+    },
+    {
+      "name": "Liam Williams",
+      "character": "Liam Peniston",
+      "profile": "https://image.tmdb.org/t/p/w185/6C9rTlIFIZQ9PHDxkEqhx13KfL2.jpg"
+    },
+    {
+      "name": "Matilda Wnek",
+      "character": "Matilda Stewart",
+      "profile": ""
+    }
+  ],
+  "director": "Freddy Syborn",
+  "tmdbId": 650326,
+  "xtream": {
+    "streamId": 3123845,
+    "containerExtension": "mp4"
+  }
+}

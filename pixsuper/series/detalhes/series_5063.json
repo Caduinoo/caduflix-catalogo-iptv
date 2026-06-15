@@ -1,0 +1,75 @@
+{
+  "id": "series_5063",
+  "type": "series",
+  "title": "O Regime",
+  "originalTitle": "The Regime",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/rmbFAtgpaAMIcifEzQXxiPWY95O.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lp6Rsgid52BIlzYxWDURFSZZU6m.jpg",
+  "overview": "Kate Winslet estrela esta minissérie da HBO que retrata um ano no palácio da chanceler de um moderno regime autoritário europeu prestes a ruir.",
+  "rating": 6.122,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 206829,
+  "xtream": {
+    "seriesId": 5063
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3307736",
+          "episodeId": 3307736,
+          "season": 1,
+          "episode": 1,
+          "title": "O Regime S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307737",
+          "episodeId": 3307737,
+          "season": 1,
+          "episode": 2,
+          "title": "O Regime S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307738",
+          "episodeId": 3307738,
+          "season": 1,
+          "episode": 3,
+          "title": "O Regime S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307739",
+          "episodeId": 3307739,
+          "season": 1,
+          "episode": 4,
+          "title": "O Regime S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307740",
+          "episodeId": 3307740,
+          "season": 1,
+          "episode": 5,
+          "title": "O Regime S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3307741",
+          "episodeId": 3307741,
+          "season": 1,
+          "episode": 6,
+          "title": "O Regime S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

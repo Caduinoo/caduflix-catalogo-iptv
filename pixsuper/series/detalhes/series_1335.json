@@ -1,0 +1,67 @@
+{
+  "id": "series_1335",
+  "type": "series",
+  "title": "A Corrida das Vacinas",
+  "originalTitle": "A Corrida das Vacinas",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/vkyqmRHlWL9HlnVbeWh1JxkJVKP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4os8hnqfMIjCagbGi3xMeAqPUGt.jpg",
+  "overview": "Em 5 episódios, os bastidores de uma grande conquista da ciência: a criação, em tempo recorde, de vacinas contra a Covid-19. Na Índia, na Rússia, na China, nos EUA, na Europa e no Brasil.",
+  "rating": 8.3,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 122884,
+  "xtream": {
+    "seriesId": 1335
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3195464",
+          "episodeId": 3195464,
+          "season": 1,
+          "episode": 1,
+          "title": "A Corrida das Vacinas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3195465",
+          "episodeId": 3195465,
+          "season": 1,
+          "episode": 2,
+          "title": "A Corrida das Vacinas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3195466",
+          "episodeId": 3195466,
+          "season": 1,
+          "episode": 3,
+          "title": "A Corrida das Vacinas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3195467",
+          "episodeId": 3195467,
+          "season": 1,
+          "episode": 4,
+          "title": "A Corrida das Vacinas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3195468",
+          "episodeId": 3195468,
+          "season": 1,
+          "episode": 5,
+          "title": "A Corrida das Vacinas S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

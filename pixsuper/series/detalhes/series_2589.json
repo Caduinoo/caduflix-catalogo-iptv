@@ -1,0 +1,60 @@
+{
+  "id": "series_2589",
+  "type": "series",
+  "title": "Landscapers",
+  "originalTitle": "Landscapers",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/gdtEDSv1j6HXRHheQfUYCiJk7G5.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lJKPrgD8NPK7Jgcr6PrkUEp60ka.jpg",
+  "overview": "Um casal aparentemente comum que se torna o foco de uma investigação quando dois corpos são descobertos no quintal de uma casa.",
+  "rating": 6.755,
+  "genres": [
+    "comedia",
+    "crime",
+    "drama"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 113987,
+  "xtream": {
+    "seriesId": 2589
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3242693",
+          "episodeId": 3242693,
+          "season": 1,
+          "episode": 1,
+          "title": "Landscapers S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3242694",
+          "episodeId": 3242694,
+          "season": 1,
+          "episode": 2,
+          "title": "Landscapers S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3242695",
+          "episodeId": 3242695,
+          "season": 1,
+          "episode": 3,
+          "title": "Landscapers S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3242696",
+          "episodeId": 3242696,
+          "season": 1,
+          "episode": 4,
+          "title": "Landscapers S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

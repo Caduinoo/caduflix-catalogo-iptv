@@ -1,0 +1,75 @@
+{
+  "id": "series_1951",
+  "type": "series",
+  "title": "A Linha Invisível",
+  "originalTitle": "La línea invisible",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/4evwYwGpGjW3XWlyBSFh7hSpdCC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cg3ZraNmvCgjLO6JpV7xKRFnBNv.jpg",
+  "overview": "País Basco 1968. O universitário Txabi Etxabarrieta junta-se a seu irmão em uma organização desconhecida chamada ETA.",
+  "rating": 6.5,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 95925,
+  "xtream": {
+    "seriesId": 1951
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3222747",
+          "episodeId": 3222747,
+          "season": 1,
+          "episode": 1,
+          "title": "A Linha Invisível S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222748",
+          "episodeId": 3222748,
+          "season": 1,
+          "episode": 2,
+          "title": "A Linha Invisível S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222749",
+          "episodeId": 3222749,
+          "season": 1,
+          "episode": 3,
+          "title": "A Linha Invisível S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222750",
+          "episodeId": 3222750,
+          "season": 1,
+          "episode": 4,
+          "title": "A Linha Invisível S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222751",
+          "episodeId": 3222751,
+          "season": 1,
+          "episode": 5,
+          "title": "A Linha Invisível S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3222752",
+          "episodeId": 3222752,
+          "season": 1,
+          "episode": 6,
+          "title": "A Linha Invisível S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

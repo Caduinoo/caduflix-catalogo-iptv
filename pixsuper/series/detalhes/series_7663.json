@@ -1,0 +1,75 @@
+{
+  "id": "series_7663",
+  "type": "series",
+  "title": "Os Sem Nome",
+  "originalTitle": "Los sin nombre",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/mL4hwyK7y9wtvGFV9iSEA6StVc6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/clfxucbDJLe55LAE9R5XvcZ8Zvr.jpg",
+  "overview": "Claudia é uma mulher que perdeu sua filha Angela de forma traumática, descobre anos depois, justo quando começa a se recuperar da dor, que talvez sua filha ainda esteja viva.",
+  "rating": 6.733,
+  "genres": [
+    "misterio",
+    "crime"
+  ],
+  "producer": "disney_plus",
+  "tmdbId": 273916,
+  "xtream": {
+    "seriesId": 7663
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3369726",
+          "episodeId": 3369726,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Sem Nome S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3369727",
+          "episodeId": 3369727,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Sem Nome S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3369728",
+          "episodeId": 3369728,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Sem Nome S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3369729",
+          "episodeId": 3369729,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Sem Nome S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3369730",
+          "episodeId": 3369730,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Sem Nome S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3369731",
+          "episodeId": 3369731,
+          "season": 1,
+          "episode": 6,
+          "title": "Os Sem Nome S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

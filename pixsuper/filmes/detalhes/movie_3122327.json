@@ -1,0 +1,49 @@
+{
+  "id": "movie_3122327",
+  "type": "movie",
+  "title": "Vivere",
+  "originalTitle": "Vivere",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/icbKseAC87TaFggREcj1uLfoEmG.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 9,
+  "runtime": 18,
+  "genres": [
+    "terror",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Sam Cowan",
+      "character": "Dad",
+      "profile": ""
+    },
+    {
+      "name": "Melissa Drew",
+      "character": "Mom",
+      "profile": "https://image.tmdb.org/t/p/w185/qfSLdzNvV8eU0YaoEk2Gow7vlTJ.jpg"
+    },
+    {
+      "name": "Nia Warren",
+      "character": "Vivian",
+      "profile": ""
+    },
+    {
+      "name": "Henry Leith",
+      "character": "Martin",
+      "profile": "https://image.tmdb.org/t/p/w185/lRbFfWC8f4Iul0AKGQusFfgLBVQ.jpg"
+    },
+    {
+      "name": "Mikiala Fleming",
+      "character": "Beherit",
+      "profile": ""
+    }
+  ],
+  "director": "Daniel Sheahan",
+  "tmdbId": 1112916,
+  "xtream": {
+    "streamId": 3122327,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "movie_2780108",
+  "type": "movie",
+  "title": "Guerreiras do Ar",
+  "originalTitle": "Воздух",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/tJBnfoUCCJA2BUoSh88vBFZdMb3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/gO2HGU1twBGTfTXD7IUIRl3HaZq.jpg",
+  "overview": "Em um mundo dominado por homens, jovens russas são recrutadas para pilotar aviões de caça e ajudar a conter o avanço alemão durante a Segunda Guerra Mundial. Elas amadurecem, se apaixonam e passam a enxergar o céu como uma segunda casa.",
+  "rating": 7.167,
+  "runtime": 151,
+  "genres": [
+    "guerra",
+    "drama",
+    "historia"
+  ],
+  "cast": [
+    {
+      "name": "Анастасия Талызина",
+      "character": "Zhenya",
+      "profile": "https://image.tmdb.org/t/p/w185/k0zq3mEdDexJPMjQ5915BgZ2s4J.jpg"
+    },
+    {
+      "name": "Сергей Безруков",
+      "character": "Astafiev",
+      "profile": "https://image.tmdb.org/t/p/w185/sVl02RViDvXF8aAbEwwqb9Pd8zR.jpg"
+    },
+    {
+      "name": "Аглая Тарасова",
+      "character": "Katya",
+      "profile": "https://image.tmdb.org/t/p/w185/kXXaaeJpO7yQOwhikiw2JOC87j8.jpg"
+    },
+    {
+      "name": "Кристина Лапшина",
+      "character": "Masha",
+      "profile": "https://image.tmdb.org/t/p/w185/3jRWjAreuszjFUGvdacdiWSHkec.jpg"
+    },
+    {
+      "name": "Елена Лядова",
+      "character": "Rita",
+      "profile": "https://image.tmdb.org/t/p/w185/149WoD8X21X3A05S4y2SXAbMyem.jpg"
+    },
+    {
+      "name": "Антон Шагин",
+      "character": "Volodya",
+      "profile": "https://image.tmdb.org/t/p/w185/3WufqXOLBq7KpJOwFnrPaJxANBG.jpg"
+    },
+    {
+      "name": "Игорь Коровин",
+      "character": "Stepanov",
+      "profile": "https://image.tmdb.org/t/p/w185/6xotiMCQXnugmqBi46ScgHTyN9s.jpg"
+    },
+    {
+      "name": "Игорь Митюшкин",
+      "character": "Pashechka",
+      "profile": "https://image.tmdb.org/t/p/w185/evsCUQO2EbVoWNtxCylz1bqV11A.jpg"
+    },
+    {
+      "name": "Олег Гринченко",
+      "character": "Bondar",
+      "profile": "https://image.tmdb.org/t/p/w185/nDpd4zbAguUDtlHLKhvINT2Kmqw.jpg"
+    },
+    {
+      "name": "Анна Блинова",
+      "character": "Museum Employee",
+      "profile": "https://image.tmdb.org/t/p/w185/ytl5ZCkZTmQFk9iapX7c0GFsmb9.jpg"
+    },
+    {
+      "name": "Анна Исаева",
+      "character": "Nurse Sveta",
+      "profile": "https://image.tmdb.org/t/p/w185/iWmmGH1SC6fbZyChCjKO38PSp6N.jpg"
+    },
+    {
+      "name": "Владимир Тяптушкин",
+      "character": "Timofey",
+      "profile": "https://image.tmdb.org/t/p/w185/jZkfbT5EX8K4TIL57zO9n7ybSm1.jpg"
+    }
+  ],
+  "director": "Алексей Герман-младший",
+  "tmdbId": 598997,
+  "xtream": {
+    "streamId": 2780108,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "series_3676",
+  "type": "series",
+  "title": "A Thin Line",
+  "originalTitle": "A Thin Line",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/c0zVt0VyznknltDI4WNtVKDUp01.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/rmlEMwmYaxgxlOJZkb4CIctqTWy.jpg",
+  "overview": "Quando as irmãs gêmeas e ativistas digitais Anna e Benni são expostas após um ataque hacker ao governo, elas logo se veem em lados opostos: enquanto Benni fica cada vez mais radicalizada, Anna trabalha com a BKA.",
+  "rating": 5.9,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "paramount",
+  "tmdbId": 220674,
+  "xtream": {
+    "seriesId": 3676
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3269773",
+          "episodeId": 3269773,
+          "season": 1,
+          "episode": 1,
+          "title": "A Thin Line S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3269774",
+          "episodeId": 3269774,
+          "season": 1,
+          "episode": 2,
+          "title": "A Thin Line S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3269775",
+          "episodeId": 3269775,
+          "season": 1,
+          "episode": 3,
+          "title": "A Thin Line S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3269776",
+          "episodeId": 3269776,
+          "season": 1,
+          "episode": 4,
+          "title": "A Thin Line S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3269777",
+          "episodeId": 3269777,
+          "season": 1,
+          "episode": 5,
+          "title": "A Thin Line S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3269778",
+          "episodeId": 3269778,
+          "season": 1,
+          "episode": 6,
+          "title": "A Thin Line S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

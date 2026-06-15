@@ -1,0 +1,74 @@
+{
+  "id": "series_5095",
+  "type": "series",
+  "title": "Predadores do Universo",
+  "originalTitle": "Killers of the Cosmos",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/rVRtJNQKLPrtNx5Ecns9HkQGDdf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y0KDKb8Q7MZbcLVnWPEVU1VRNN2.jpg",
+  "overview": "Esta série fascinante revela os fenômenos violentos que ocorrem no espaço sideral. Cada episódio nos ajuda a entender as maravilhas e perigos que rondam o universo conhecido, de asteroides a raios cósmicos mortais.",
+  "rating": 0,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 133445,
+  "xtream": {
+    "seriesId": 5095
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3308343",
+          "episodeId": 3308343,
+          "season": 1,
+          "episode": 1,
+          "title": "Predadores do Universo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308344",
+          "episodeId": 3308344,
+          "season": 1,
+          "episode": 2,
+          "title": "Predadores do Universo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308345",
+          "episodeId": 3308345,
+          "season": 1,
+          "episode": 3,
+          "title": "Predadores do Universo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308346",
+          "episodeId": 3308346,
+          "season": 1,
+          "episode": 4,
+          "title": "Predadores do Universo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308347",
+          "episodeId": 3308347,
+          "season": 1,
+          "episode": 5,
+          "title": "Predadores do Universo S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3308348",
+          "episodeId": 3308348,
+          "season": 1,
+          "episode": 6,
+          "title": "Predadores do Universo S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "series_5974",
+  "type": "series",
+  "title": "Paul Hollywood - Uma Grande Viagem pela Europa",
+  "originalTitle": "Paul Hollywood's Big Continental Road Trip",
+  "year": 2017,
+  "poster": "https://image.tmdb.org/t/p/w500/zmpfN9emCBRqRQl0EG5F3egaXuR.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/x9RLfXFuy4UlRfpwIJ20W0193dW.jpg",
+  "overview": "Acompanhe o famoso chef Paul Hollywood em uma alucinante viagem cultural e automobilística através da França, Itália e Alemanha.",
+  "rating": 5.2,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 74213,
+  "xtream": {
+    "seriesId": 5974
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3331006",
+          "episodeId": 3331006,
+          "season": 1,
+          "episode": 1,
+          "title": "Paul Hollywoods Big Continental Road Trip S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3331007",
+          "episodeId": 3331007,
+          "season": 1,
+          "episode": 2,
+          "title": "Paul Hollywoods Big Continental Road Trip S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3331008",
+          "episodeId": 3331008,
+          "season": 1,
+          "episode": 3,
+          "title": "Paul Hollywoods Big Continental Road Trip S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

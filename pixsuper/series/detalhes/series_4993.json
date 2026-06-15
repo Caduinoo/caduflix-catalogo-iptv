@@ -1,0 +1,64 @@
+{
+  "id": "series_4993",
+  "type": "series",
+  "title": "Esquadrão Marte",
+  "originalTitle": "Biker Mice from Mars",
+  "year": 1993,
+  "poster": "https://image.tmdb.org/t/p/w500/kVu2bj2ZQKPPEzyarA6hmLEgADx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7O1f7OWj61quryRpuGIGj4Y7jq7.jpg",
+  "overview": "A série segue três ratos antropomórficos motociclistas que escapam de uma guerra em seu planeta natal Marte antes de chegar para defender a Terra do mal que destruiu sua terra natal e um dia retornar a Marte.",
+  "rating": 6.3,
+  "genres": [
+    "infantil",
+    "animacao",
+    "acao",
+    "aventura",
+    "comedia",
+    "fantasia",
+    "ficcao"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 3320,
+  "xtream": {
+    "seriesId": 4993
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3306464",
+          "episodeId": 3306464,
+          "season": 1,
+          "episode": 1,
+          "title": "Marte [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306465",
+          "episodeId": 3306465,
+          "season": 1,
+          "episode": 2,
+          "title": "Marte [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306466",
+          "episodeId": 3306466,
+          "season": 1,
+          "episode": 3,
+          "title": "Marte [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306467",
+          "episodeId": 3306467,
+          "season": 1,
+          "episode": 4,
+          "title": "Marte [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

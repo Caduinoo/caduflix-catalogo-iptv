@@ -1,0 +1,34 @@
+{
+  "id": "movie_3128341",
+  "type": "movie",
+  "title": "A Lista",
+  "originalTitle": "A Lista",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/1f8DPjPGsfc58eu43zVBHAf4ida.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "Em plena pandemia de COVID-19, a aposentada Laurita, usa a jovem vizinha, Amanda, para fazer sua lista de compras de supermercado.",
+  "rating": 0,
+  "runtime": 26,
+  "genres": [
+    "drama",
+    "nacionais"
+  ],
+  "cast": [
+    {
+      "name": "Lília Cabral",
+      "character": "Laurita",
+      "profile": "https://image.tmdb.org/t/p/w185/sRKKZ8caTY0i1uHmW8vJXQ87vgp.jpg"
+    },
+    {
+      "name": "Giulia Bertolli",
+      "character": "Amanda",
+      "profile": "https://image.tmdb.org/t/p/w185/fdlRVTzVuZEaYEHa8WUcvULE9XD.jpg"
+    }
+  ],
+  "director": "Luciana de Oliveira",
+  "tmdbId": 1614583,
+  "xtream": {
+    "streamId": 3128341,
+    "containerExtension": "mp4"
+  }
+}

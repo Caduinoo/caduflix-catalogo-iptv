@@ -1,0 +1,38 @@
+{
+  "id": "movie_2761485",
+  "type": "movie",
+  "title": "Loop",
+  "originalTitle": "Loop",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/dlhinM1589tP4qELsoesTtzZLKm.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 7,
+  "runtime": 13,
+  "genres": [
+    "ficcao"
+  ],
+  "cast": [
+    {
+      "name": "Valeriia Polishchuk",
+      "character": "Beca",
+      "profile": ""
+    },
+    {
+      "name": "Michael J Rogers",
+      "character": "David",
+      "profile": "https://image.tmdb.org/t/p/w185/zJ7OpRS5RhBdA2Rf2glpH4mxMJu.jpg"
+    },
+    {
+      "name": "Tatenda Hatugari",
+      "character": "Isaac",
+      "profile": ""
+    }
+  ],
+  "director": "Stuart Langfield",
+  "tmdbId": 820520,
+  "xtream": {
+    "streamId": 2761485,
+    "containerExtension": "mp4"
+  }
+}

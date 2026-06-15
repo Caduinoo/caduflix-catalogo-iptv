@@ -1,0 +1,67 @@
+{
+  "id": "series_4411",
+  "type": "series",
+  "title": "A Mão do Eurico",
+  "originalTitle": "A Mão do Eurico",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/bfw3YRXoGMmvBjv3jhSjyog9AhF.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/52Bsus8Dp8pwM7GsJME4rfC6ldY.jpg",
+  "overview": "Nenhum cartola foi mais amado e odiado do que ele. Eurico Miranda colecionou títulos, muitas críticas e se tornou o dirigente mais polêmico da história do futebol brasileiro.",
+  "rating": 7.6,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 239465,
+  "xtream": {
+    "seriesId": 4411
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3289028",
+          "episodeId": 3289028,
+          "season": 1,
+          "episode": 1,
+          "title": "A Mao do Eurico S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289029",
+          "episodeId": 3289029,
+          "season": 1,
+          "episode": 2,
+          "title": "A Mao do Eurico S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289030",
+          "episodeId": 3289030,
+          "season": 1,
+          "episode": 3,
+          "title": "A Mao do Eurico S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289031",
+          "episodeId": 3289031,
+          "season": 1,
+          "episode": 4,
+          "title": "A Mao do Eurico S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3289032",
+          "episodeId": 3289032,
+          "season": 1,
+          "episode": 5,
+          "title": "A Mao do Eurico S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

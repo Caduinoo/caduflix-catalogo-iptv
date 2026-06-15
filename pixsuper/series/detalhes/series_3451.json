@@ -1,0 +1,84 @@
+{
+  "id": "series_3451",
+  "type": "series",
+  "title": "Um Homem da Flórida",
+  "originalTitle": "Florida Man",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/6cf1bTalmc4d2c7nEZmdQFfMPvn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/z2CwqBhXDjxGAc9VfHswQxiXGrE.jpg",
+  "overview": "Um ex-policial vai até a Flórida para um trabalho suspeito e acaba se envolvendo em uma odisseia alucinante, que pode ter consequências mortais.",
+  "rating": 6.539,
+  "genres": [
+    "misterio",
+    "comedia",
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 123856,
+  "xtream": {
+    "seriesId": 3451
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3263852",
+          "episodeId": 3263852,
+          "season": 1,
+          "episode": 1,
+          "title": "Um Homem da Flórida S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263853",
+          "episodeId": 3263853,
+          "season": 1,
+          "episode": 2,
+          "title": "Um Homem da Flórida S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263854",
+          "episodeId": 3263854,
+          "season": 1,
+          "episode": 3,
+          "title": "Um Homem da Flórida S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263855",
+          "episodeId": 3263855,
+          "season": 1,
+          "episode": 4,
+          "title": "Um Homem da Flórida S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263856",
+          "episodeId": 3263856,
+          "season": 1,
+          "episode": 5,
+          "title": "Um Homem da Flórida S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263857",
+          "episodeId": 3263857,
+          "season": 1,
+          "episode": 6,
+          "title": "Um Homem da Flórida S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3263858",
+          "episodeId": 3263858,
+          "season": 1,
+          "episode": 7,
+          "title": "Um Homem da Flórida S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

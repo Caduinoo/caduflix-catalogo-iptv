@@ -1,0 +1,75 @@
+{
+  "id": "series_679",
+  "type": "series",
+  "title": "Diário de um Confinado",
+  "originalTitle": "Diário de um Confinado",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/ggXbMvopbdNWAQM3GsFkc3oiE2z.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/Aug6AOomQH9IdqBE7h4SdSvzav4.jpg",
+  "overview": "Ficar em casa virou forma de sobrevivência em tempos de pandemia e os dias parecem se repetir. Agora, Murilo tenta não enlouquecer tocando a vida de dentro de casa.",
+  "rating": 6.5,
+  "genres": [
+    "comedia",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 107509,
+  "xtream": {
+    "seriesId": 679
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3160797",
+          "episodeId": 3160797,
+          "season": 1,
+          "episode": 1,
+          "title": "Diario de Um Confinado S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160798",
+          "episodeId": 3160798,
+          "season": 1,
+          "episode": 2,
+          "title": "Diario de Um Confinado S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160799",
+          "episodeId": 3160799,
+          "season": 1,
+          "episode": 3,
+          "title": "Diario de Um Confinado S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160800",
+          "episodeId": 3160800,
+          "season": 1,
+          "episode": 4,
+          "title": "Diario de Um Confinado S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160801",
+          "episodeId": 3160801,
+          "season": 1,
+          "episode": 5,
+          "title": "Diario de Um Confinado S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3160802",
+          "episodeId": 3160802,
+          "season": 1,
+          "episode": 6,
+          "title": "Diario de Um Confinado S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

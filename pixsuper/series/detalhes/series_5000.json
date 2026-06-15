@@ -1,0 +1,107 @@
+{
+  "id": "series_5000",
+  "type": "series",
+  "title": "Chip e Potato",
+  "originalTitle": "Chip and Potato",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/df2OtvZdUgiNhxRoB9cvwTBttrm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kAZzMgyhRCzbOVd3LY62KKjkp82.jpg",
+  "overview": "Primeiro dia no jardim de infância! É tanta novidade que a cachorrinha Chip nem sabe por onde começar. Ainda bem que a ratinha Potato está sempre pronta para ajudar.",
+  "rating": 8.607,
+  "genres": [
+    "infantil",
+    "animacao"
+  ],
+  "producer": "netflix",
+  "tmdbId": 89504,
+  "xtream": {
+    "seriesId": 5000
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3306555",
+          "episodeId": 3306555,
+          "season": 1,
+          "episode": 1,
+          "title": "Chip e Potato S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306556",
+          "episodeId": 3306556,
+          "season": 1,
+          "episode": 2,
+          "title": "Chip e Potato S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306557",
+          "episodeId": 3306557,
+          "season": 1,
+          "episode": 3,
+          "title": "Chip e Potato S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306558",
+          "episodeId": 3306558,
+          "season": 1,
+          "episode": 4,
+          "title": "Chip e Potato S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306559",
+          "episodeId": 3306559,
+          "season": 1,
+          "episode": 5,
+          "title": "Chip e Potato S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306560",
+          "episodeId": 3306560,
+          "season": 1,
+          "episode": 6,
+          "title": "Chip e Potato S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306561",
+          "episodeId": 3306561,
+          "season": 1,
+          "episode": 7,
+          "title": "Chip e Potato S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306562",
+          "episodeId": 3306562,
+          "season": 1,
+          "episode": 8,
+          "title": "Chip e Potato S01 E08",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306563",
+          "episodeId": 3306563,
+          "season": 1,
+          "episode": 9,
+          "title": "Chip e Potato S01 E09",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3306564",
+          "episodeId": 3306564,
+          "season": 1,
+          "episode": 10,
+          "title": "Chip e Potato S01 E10",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

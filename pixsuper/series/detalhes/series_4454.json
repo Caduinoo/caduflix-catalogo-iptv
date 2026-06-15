@@ -1,0 +1,58 @@
+{
+  "id": "series_4454",
+  "type": "series",
+  "title": "Heróis dos Trilhos",
+  "originalTitle": "द रेलवे मेन - भोपाल की अनकही कहानी 1984",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/rxKIlkL9KntOEKL5Xh0HUGrKjs2.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/s7dpEDsAan8mvC5cikvWidOupsO.jpg",
+  "overview": "Depois do vazamento letal de gás numa fábrica em Bhopal, bravos ferroviários arriscam a vida para salvar outras pessoas de um desastre indescritível.",
+  "rating": 8.1,
+  "genres": [
+    "drama"
+  ],
+  "producer": "netflix",
+  "tmdbId": 213895,
+  "xtream": {
+    "seriesId": 4454
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3290154",
+          "episodeId": 3290154,
+          "season": 1,
+          "episode": 1,
+          "title": "Herois dos Trilhos S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3290155",
+          "episodeId": 3290155,
+          "season": 1,
+          "episode": 2,
+          "title": "Herois dos Trilhos S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3290156",
+          "episodeId": 3290156,
+          "season": 1,
+          "episode": 3,
+          "title": "Herois dos Trilhos S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3290157",
+          "episodeId": 3290157,
+          "season": 1,
+          "episode": 4,
+          "title": "Herois dos Trilhos S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

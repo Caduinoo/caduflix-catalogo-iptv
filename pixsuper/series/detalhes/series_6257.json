@@ -1,0 +1,91 @@
+{
+  "id": "series_6257",
+  "type": "series",
+  "title": "The Trunk",
+  "originalTitle": "트렁크",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/s0hxhkL7zet7yAIdnqglbITiB86.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/79DCyZhUcFsiGfyjNlFH1lS1t4c.jpg",
+  "overview": "Um objeto misterioso aparece no litoral, revelando uma empresa secreta de casamentos e a estranha relação de um casal.",
+  "rating": 7,
+  "genres": [
+    "drama",
+    "misterio"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 230777,
+  "xtream": {
+    "seriesId": 6257
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3338750",
+          "episodeId": 3338750,
+          "season": 1,
+          "episode": 1,
+          "title": "The Trunk S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338751",
+          "episodeId": 3338751,
+          "season": 1,
+          "episode": 2,
+          "title": "The Trunk S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338752",
+          "episodeId": 3338752,
+          "season": 1,
+          "episode": 3,
+          "title": "The Trunk S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338753",
+          "episodeId": 3338753,
+          "season": 1,
+          "episode": 4,
+          "title": "The Trunk S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338754",
+          "episodeId": 3338754,
+          "season": 1,
+          "episode": 5,
+          "title": "The Trunk S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338755",
+          "episodeId": 3338755,
+          "season": 1,
+          "episode": 6,
+          "title": "The Trunk S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338756",
+          "episodeId": 3338756,
+          "season": 1,
+          "episode": 7,
+          "title": "The Trunk S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338757",
+          "episodeId": 3338757,
+          "season": 1,
+          "episode": 8,
+          "title": "The Trunk S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

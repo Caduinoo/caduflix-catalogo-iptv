@@ -1,0 +1,66 @@
+{
+  "id": "series_5188",
+  "type": "series",
+  "title": "Histórias de Animais",
+  "originalTitle": "Histórias de Animais",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/elqgCyu8bPtXDrPt3dIcChVDwFE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ogR5Xqmbi8DeqvE21C8skky7RMX.jpg",
+  "overview": "O biólogo e cinegrafista João Paulo Krajewski viajará para filmar os animais mais incríveis da terra, para compreender a verdadeira essência da vida. Com a ajuda de cientistas, João Paulo fará uma jornada pelo mundo natural sob o olhar de um historiador.",
+  "rating": 10,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "hbo_max",
+  "tmdbId": 250893,
+  "xtream": {
+    "seriesId": 5188
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3310065",
+          "episodeId": 3310065,
+          "season": 1,
+          "episode": 1,
+          "title": "Historias de Animais S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310066",
+          "episodeId": 3310066,
+          "season": 1,
+          "episode": 2,
+          "title": "Historias de Animais S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310067",
+          "episodeId": 3310067,
+          "season": 1,
+          "episode": 3,
+          "title": "Historias de Animais S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310068",
+          "episodeId": 3310068,
+          "season": 1,
+          "episode": 4,
+          "title": "Historias de Animais S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3310069",
+          "episodeId": 3310069,
+          "season": 1,
+          "episode": 5,
+          "title": "Historias de Animais S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "series_8352",
+  "type": "series",
+  "title": "Reféns",
+  "originalTitle": "House of Horrors: Kidnapped",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/6S63gRYcjkzwCHy2Tb6hXOmw8vU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dy8dPHxRptcB3VTpDjW9aE2wNOJ.jpg",
+  "overview": "Histórias de sobreviventes que foram sequestrados, mas saíram vivos.",
+  "rating": 8,
+  "genres": [
+    "crime",
+    "documentario",
+    "reality"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 64974,
+  "xtream": {
+    "seriesId": 8352
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3382699",
+          "episodeId": 3382699,
+          "season": 1,
+          "episode": 1,
+          "title": "Refens [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3382700",
+          "episodeId": 3382700,
+          "season": 1,
+          "episode": 2,
+          "title": "Refens [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3382701",
+          "episodeId": 3382701,
+          "season": 1,
+          "episode": 3,
+          "title": "Refens [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3382702",
+          "episodeId": 3382702,
+          "season": 1,
+          "episode": 4,
+          "title": "Refens [L] S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

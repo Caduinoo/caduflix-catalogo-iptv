@@ -1,0 +1,83 @@
+{
+  "id": "series_7894",
+  "type": "series",
+  "title": "Caçador de Marajás",
+  "originalTitle": "Caçador de Marajás",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/tsf5nLz0QCt95TKoRbJxG3qV3WX.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iG3Y7hNK5BPBjFmZzWNvY4nyXhG.jpg",
+  "overview": "A ascensão e queda de Fernando Collor de Mello, o mais jovem presidente do Brasil e o primeiro presidente das Américas a sofrer um impeachment.",
+  "rating": 9.3,
+  "genres": [
+    "documentario",
+    "nacional"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 303191,
+  "xtream": {
+    "seriesId": 7894
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3373519",
+          "episodeId": 3373519,
+          "season": 1,
+          "episode": 1,
+          "title": "Cacador de Marajas S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3373520",
+          "episodeId": 3373520,
+          "season": 1,
+          "episode": 2,
+          "title": "Cacador de Marajas S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3373521",
+          "episodeId": 3373521,
+          "season": 1,
+          "episode": 3,
+          "title": "Cacador de Marajas S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3373522",
+          "episodeId": 3373522,
+          "season": 1,
+          "episode": 4,
+          "title": "Cacador de Marajas S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3373523",
+          "episodeId": 3373523,
+          "season": 1,
+          "episode": 5,
+          "title": "Cacador de Marajas S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3373524",
+          "episodeId": 3373524,
+          "season": 1,
+          "episode": 6,
+          "title": "Cacador de Marajas S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3373525",
+          "episodeId": 3373525,
+          "season": 1,
+          "episode": 7,
+          "title": "Cacador de Marajas S01 E07",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

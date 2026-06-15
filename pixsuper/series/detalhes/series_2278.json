@@ -1,0 +1,67 @@
+{
+  "id": "series_2278",
+  "type": "series",
+  "title": "Morador Indesejado",
+  "originalTitle": "Worst Roommate Ever",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/gtQPkgGgUGmogdG8Fd6Ui43bi02.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ijqZ6PXFkYrsK2BQemKs2YFwGHH.jpg",
+  "overview": "Vigaristas violentos, assassinos frios e calculistas: veja nesta série alguns moradores com quem você não vai querer dividir a casa.",
+  "rating": 6.823,
+  "genres": [
+    "crime",
+    "documentario"
+  ],
+  "producer": "netflix",
+  "tmdbId": 156595,
+  "xtream": {
+    "seriesId": 2278
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3233621",
+          "episodeId": 3233621,
+          "season": 1,
+          "episode": 1,
+          "title": "Morador Indesejado S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233622",
+          "episodeId": 3233622,
+          "season": 1,
+          "episode": 2,
+          "title": "Morador Indesejado S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233623",
+          "episodeId": 3233623,
+          "season": 1,
+          "episode": 3,
+          "title": "Morador Indesejado S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233624",
+          "episodeId": 3233624,
+          "season": 1,
+          "episode": 4,
+          "title": "Morador Indesejado S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3233625",
+          "episodeId": 3233625,
+          "season": 1,
+          "episode": 5,
+          "title": "Morador Indesejado S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

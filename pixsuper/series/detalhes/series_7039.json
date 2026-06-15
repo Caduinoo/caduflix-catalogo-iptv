@@ -1,0 +1,51 @@
+{
+  "id": "series_7039",
+  "type": "series",
+  "title": "MasterChef Brasil: Creators",
+  "originalTitle": "MasterChef Brasil: Creators",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/uhsHsiaEbH0wNGvDwDoyS6nixN0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/w61xFvdBI5ShvDUB0gyDlpHk9U1.jpg",
+  "overview": "O novo spin-off digital da famosa competição culinária reúne influenciadores em disputas gastronômicas cheias de criatividade. Mistura entretenimento e sabor, com R$ 200 mil em jogo e a autenticidade dos criadores como tempero principal.",
+  "rating": 9,
+  "genres": [
+    "reality",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 290786,
+  "xtream": {
+    "seriesId": 7039
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3355729",
+          "episodeId": 3355729,
+          "season": 1,
+          "episode": 1,
+          "title": "MasterChef Creators S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355730",
+          "episodeId": 3355730,
+          "season": 1,
+          "episode": 2,
+          "title": "MasterChef Creators S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3355731",
+          "episodeId": 3355731,
+          "season": 1,
+          "episode": 3,
+          "title": "MasterChef Creators S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

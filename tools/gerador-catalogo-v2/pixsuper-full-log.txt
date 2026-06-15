@@ -1,0 +1,438 @@
+
+> gerador-catalogo-v2@1.0.0 generate:pixsuper
+> node src/index.js --env .env.pixsuper *
+
+carregando Xtream
+Xtream base: http://ph1.fun
+Xtream usuario: 06***26
+Xtream senha: 01***51
+TMDB: dc***7f
+cache TMDB: ativo em C:\caduflix\github\caduflix-catalogo-iptv\tools\gerador-catalogo-v2\.cache\pixsuper\tmdb
+retry TMDB: 3 tentativa(s), delay 1000ms
+delay get_series_info Xtream: 5000ms, concorrencia 1
+incremental: ativo em C:\caduflix\github\caduflix-catalogo-iptv\tools\gerador-catalogo-v2\.cache\pixsuper\catalog-state.json
+total de filmes Xtream: 46886
+total de series Xtream: 9258
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+[Xtream] tentativa 2/6 em get_series_info
+[Xtream] tentativa 3/6 em get_series_info
+total de filmes encontrados no TMDB: 40916
+total de series encontradas no TMDB: 8638
+total de filmes sem TMDB: 5770
+total de series sem TMDB: 570
+cache TMDB usado: 92942
+chamadas TMDB reais: 16659
+retries TMDB: 0
+falhas TMDB apos retry: 0
+itens nao encontrados usando cache: 7641
+retries Xtream: 382
+falhas Xtream apos retry: 0
+chamadas Xtream com sucesso: 9212
+chamadas get_series_info: 9208
+get_series_info com HTTP 429: 380
+get_series_info recuperadas apos 429: 191
+delay entre get_series_info: 5000ms
+series sem episodios por erro Xtream: 0
+incremental: ativo
+filmes reutilizados: 200
+series reutilizadas: 50
+filmes novos/processados: 46686
+series novas/processadas: 9208
+filmes atualizados: 0
+series atualizadas: 0
+filmes removidos: 0
+series removidas: 0
+duplicados filmes: 23873
+duplicados series: 720
+filmes em Populares: 22953
+filmes em Lancamentos: 4716
+filmes em Tendencias: 22933
+filmes removidos de Populares por repeticao com Lancamentos: 60
+filmes removidos de Tendencias por repeticao: 80
+erros filmes: 0
+erros series: 0
+generos gerados filmes: acao, aventura, animacao, anime, comedia, crime, documentario, drama, familia, fantasia, ficcao, guerra, historia, infantil, misterio, musica, nacionais, romance, suspense, terror, thriller, faroeste
+generos gerados series: acao, aventura, animacao, anime, comedia, crime, documentario, drama, familia, fantasia, ficcao, guerra, historia, infantil, misterio, musica, nacional, reality, romance, suspense, terror, thriller, faroeste
+produtoras geradas: netflix, prime_video, hbo_max, disney_plus, star_plus, paramount, globoplay, crunchyroll, discovery_plus, apple_tv_plus, amc_plus, lionsgate, universal, outras_produtoras
+arquivos escritos: 31637
+catalogo gerado em: C:\caduflix\github\caduflix-catalogo-iptv\pixsuper
+tempo total: 53266.2s

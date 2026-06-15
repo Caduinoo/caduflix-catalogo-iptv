@@ -1,0 +1,59 @@
+{
+  "id": "series_1775",
+  "type": "series",
+  "title": "As 24 Personalidades de Billy Milligan",
+  "originalTitle": "Monsters Inside: The 24 Faces of Billy Milligan",
+  "year": 2021,
+  "poster": "https://image.tmdb.org/t/p/w500/w4BvMx1wNVYFLeXHuGm66OENZEh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3YyEKgBBh1DOyQ22yiObLHwMRbO.jpg",
+  "overview": "No final dos anos 1970, um homem acusado de estupros em série agita os EUA ao afirmar que várias personalidades ditam seu comportamento.",
+  "rating": 6.975,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 132105,
+  "xtream": {
+    "seriesId": 1775
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3216656",
+          "episodeId": 3216656,
+          "season": 1,
+          "episode": 1,
+          "title": "As 24 Personalidades de Billy Milligan S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3216657",
+          "episodeId": 3216657,
+          "season": 1,
+          "episode": 2,
+          "title": "As 24 Personalidades de Billy Milligan S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3216658",
+          "episodeId": 3216658,
+          "season": 1,
+          "episode": 3,
+          "title": "As 24 Personalidades de Billy Milligan S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3216659",
+          "episodeId": 3216659,
+          "season": 1,
+          "episode": 4,
+          "title": "As 24 Personalidades de Billy Milligan S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

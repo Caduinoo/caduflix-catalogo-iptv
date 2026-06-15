@@ -1,0 +1,67 @@
+{
+  "id": "series_871",
+  "type": "series",
+  "title": "Os Mais Procurados do Mundo",
+  "originalTitle": "World's Most Wanted",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/dDaIGQvHHP4xixwqwhgwn8WMZx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/7pJBax2QbrmH7A5hjmg0q09zuGD.jpg",
+  "overview": "Criminosos hediondos evitaram a captura, apesar das recompensas massivas e das investigações globais. Essa documentação perfila alguns dos mais procurados do mundo.",
+  "rating": 6.8,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 106513,
+  "xtream": {
+    "seriesId": 871
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3176627",
+          "episodeId": 3176627,
+          "season": 1,
+          "episode": 1,
+          "title": "Os Mais Procurados do Mundo S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176628",
+          "episodeId": 3176628,
+          "season": 1,
+          "episode": 2,
+          "title": "Os Mais Procurados do Mundo S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176629",
+          "episodeId": 3176629,
+          "season": 1,
+          "episode": 3,
+          "title": "Os Mais Procurados do Mundo S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176630",
+          "episodeId": 3176630,
+          "season": 1,
+          "episode": 4,
+          "title": "Os Mais Procurados do Mundo S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176631",
+          "episodeId": 3176631,
+          "season": 1,
+          "episode": 5,
+          "title": "Os Mais Procurados do Mundo S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

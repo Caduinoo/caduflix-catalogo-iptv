@@ -1,0 +1,147 @@
+{
+  "id": "series_351",
+  "type": "series",
+  "title": "Sherlock",
+  "originalTitle": "Sherlock",
+  "year": 2010,
+  "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+  "overview": "Nesta versão moderna dos livros de Sir Arthur Conan Doyle, o excêntrico Sherlock usa inteligência, psicologia e intuição para interpretar pistas.",
+  "rating": 8.507,
+  "genres": [
+    "crime",
+    "drama",
+    "misterio"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 19885,
+  "xtream": {
+    "seriesId": 351
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3149290",
+          "episodeId": 3149290,
+          "season": 1,
+          "episode": 1,
+          "title": "Sherlock S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149291",
+          "episodeId": 3149291,
+          "season": 1,
+          "episode": 2,
+          "title": "Sherlock S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149292",
+          "episodeId": 3149292,
+          "season": 1,
+          "episode": 3,
+          "title": "Sherlock S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3149293",
+          "episodeId": 3149293,
+          "season": 2,
+          "episode": 1,
+          "title": "Sherlock S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149294",
+          "episodeId": 3149294,
+          "season": 2,
+          "episode": 2,
+          "title": "Sherlock S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149295",
+          "episodeId": 3149295,
+          "season": 2,
+          "episode": 3,
+          "title": "Sherlock S02 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "episodes": [
+        {
+          "id": "episode_3149296",
+          "episodeId": 3149296,
+          "season": 3,
+          "episode": 1,
+          "title": "Sherlock S03 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149297",
+          "episodeId": 3149297,
+          "season": 3,
+          "episode": 2,
+          "title": "Sherlock S03 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149298",
+          "episodeId": 3149298,
+          "season": 3,
+          "episode": 3,
+          "title": "Sherlock S03 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149299",
+          "episodeId": 3149299,
+          "season": 3,
+          "episode": 4,
+          "title": "Sherlock S03 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "episodes": [
+        {
+          "id": "episode_3149300",
+          "episodeId": 3149300,
+          "season": 4,
+          "episode": 1,
+          "title": "Sherlock S04 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149301",
+          "episodeId": 3149301,
+          "season": 4,
+          "episode": 2,
+          "title": "Sherlock S04 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3149302",
+          "episodeId": 3149302,
+          "season": 4,
+          "episode": 3,
+          "title": "Sherlock S04 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

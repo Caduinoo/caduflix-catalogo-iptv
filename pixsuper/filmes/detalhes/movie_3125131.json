@@ -1,0 +1,51 @@
+{
+  "id": "movie_3125131",
+  "type": "movie",
+  "title": "Era Só Uma Brincadeira",
+  "originalTitle": "I'm Just F*cking with You",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/8fKWRBbB07h3as6YrWDDlGZEa8F.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8Nwj1cLYynkd8A8YFL5UOnzqt2c.jpg",
+  "overview": "Dois irmãos sofrem durante uma noite de brincadeiras assustadoras, durante a estadia em um motel isolado.",
+  "rating": 5.9,
+  "runtime": 81,
+  "genres": [
+    "comedia",
+    "terror",
+    "suspense",
+    "thriller"
+  ],
+  "cast": [
+    {
+      "name": "Keir O'Donnell",
+      "character": "Larry Adams",
+      "profile": "https://image.tmdb.org/t/p/w185/1GYWx3q4QNXIIBdwirZPiSHFFfJ.jpg"
+    },
+    {
+      "name": "Hayes MacArthur",
+      "character": "Chester",
+      "profile": "https://image.tmdb.org/t/p/w185/h34sUP8iKK2tGo2swK8muHjEsHA.jpg"
+    },
+    {
+      "name": "Jessica McNamee",
+      "character": "Rachel Adams",
+      "profile": "https://image.tmdb.org/t/p/w185/xX1WxRZyJqVAx24Q3ziziGq2T8A.jpg"
+    },
+    {
+      "name": "Charles Halford",
+      "character": "Biker",
+      "profile": "https://image.tmdb.org/t/p/w185/mrCy6dA5AHqczA4aJX4drCQ3tjC.jpg"
+    },
+    {
+      "name": "John Marshall Jones",
+      "character": "Sheriff",
+      "profile": "https://image.tmdb.org/t/p/w185/8aQ8qxVOeUx23Jw89ouj9gOwy1W.jpg"
+    }
+  ],
+  "director": "Adam Mason",
+  "tmdbId": 586044,
+  "xtream": {
+    "streamId": 3125131,
+    "containerExtension": "mp4"
+  }
+}

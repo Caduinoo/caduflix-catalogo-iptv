@@ -1,0 +1,75 @@
+{
+  "id": "series_3135",
+  "type": "series",
+  "title": "Nevasca de Natal",
+  "originalTitle": "Julestorm",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/aqJ1mf7umoS8bCLg6Rbi8wtWXB3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/A9UixkwiB2qxUSs60G6vOGexsx.jpg",
+  "overview": "Uma nevasca obriga viajantes e funcionários de um aeroporto a passarem as últimas horas da véspera de Natal juntos.",
+  "rating": 6.8,
+  "genres": [
+    "drama",
+    "comedia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 210532,
+  "xtream": {
+    "seriesId": 3135
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3256568",
+          "episodeId": 3256568,
+          "season": 1,
+          "episode": 1,
+          "title": "Nevasca de Natal S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3256569",
+          "episodeId": 3256569,
+          "season": 1,
+          "episode": 2,
+          "title": "Nevasca de Natal S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3256570",
+          "episodeId": 3256570,
+          "season": 1,
+          "episode": 3,
+          "title": "Nevasca de Natal S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3256571",
+          "episodeId": 3256571,
+          "season": 1,
+          "episode": 4,
+          "title": "Nevasca de Natal S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3256572",
+          "episodeId": 3256572,
+          "season": 1,
+          "episode": 5,
+          "title": "Nevasca de Natal S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3256573",
+          "episodeId": 3256573,
+          "season": 1,
+          "episode": 6,
+          "title": "Nevasca de Natal S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

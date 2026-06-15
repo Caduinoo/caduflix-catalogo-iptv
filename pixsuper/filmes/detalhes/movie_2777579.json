@@ -1,0 +1,32 @@
+{
+  "id": "movie_2777579",
+  "type": "movie",
+  "title": "Amor",
+  "originalTitle": "Amor",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/eN01VskE8YAdDaV2Gxhy8Fi1uIn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1JKBXnOOQdR911F3XnhieqlXKoa.jpg",
+  "overview": "",
+  "rating": 2,
+  "runtime": 0,
+  "genres": [
+    "drama",
+    "terror",
+    "suspense",
+    "thriller",
+    "comedia"
+  ],
+  "cast": [
+    {
+      "name": "Valen Eslava",
+      "character": "La niña",
+      "profile": "https://image.tmdb.org/t/p/w185/gDY5oqEake8cvK0CIoZd5E6zTM3.jpg"
+    }
+  ],
+  "director": "Daniel Luzardo",
+  "tmdbId": 1121705,
+  "xtream": {
+    "streamId": 2777579,
+    "containerExtension": "mp4"
+  }
+}

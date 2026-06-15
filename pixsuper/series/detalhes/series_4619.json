@@ -1,0 +1,78 @@
+{
+  "id": "series_4619",
+  "type": "series",
+  "title": "O Outro Lado",
+  "originalTitle": "El otro lado",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/rxkX9TNt8KqvXOpbyM9CZo38tj0.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/r1zSVHcxZicoyWyeFny8j7S5Pw0.jpg",
+  "overview": "Nacho Nieto, um jornalista especializado no paranormal, ressuscita de um suicídio falido acompanhado pelo espírito de seu mentor. Nesse momento, ele se depara com o que pode ser o caso de poltergeist mais importante dos últimos anos.",
+  "rating": 6.8,
+  "genres": [
+    "comedia",
+    "misterio",
+    "fantasia",
+    "ficcao",
+    "documentario"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 230585,
+  "xtream": {
+    "seriesId": 4619
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3295142",
+          "episodeId": 3295142,
+          "season": 1,
+          "episode": 1,
+          "title": "O Outro Lado [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295143",
+          "episodeId": 3295143,
+          "season": 1,
+          "episode": 2,
+          "title": "O Outro Lado [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295144",
+          "episodeId": 3295144,
+          "season": 1,
+          "episode": 3,
+          "title": "O Outro Lado [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295145",
+          "episodeId": 3295145,
+          "season": 1,
+          "episode": 4,
+          "title": "O Outro Lado [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295146",
+          "episodeId": 3295146,
+          "season": 1,
+          "episode": 5,
+          "title": "O Outro Lado [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3295147",
+          "episodeId": 3295147,
+          "season": 1,
+          "episode": 6,
+          "title": "O Outro Lado [L] S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

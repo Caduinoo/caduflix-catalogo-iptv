@@ -1,0 +1,75 @@
+{
+  "id": "series_6702",
+  "type": "series",
+  "title": "Dia Zero",
+  "originalTitle": "Zero Day",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/zG6dUIJ7gNIyKKrDpPionW2J83J.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/t4JPNpET4aEmMA4Fg7Bfc7tI6jQ.jpg",
+  "overview": "Um ex-presidente dos Estados Unidos volta à ativa para investigar a origem de um ataque cibernético letal e descobre uma rede de mentiras e conspirações.",
+  "rating": 6.978,
+  "genres": [
+    "drama",
+    "guerra"
+  ],
+  "producer": "netflix",
+  "tmdbId": 216082,
+  "xtream": {
+    "seriesId": 6702
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3350759",
+          "episodeId": 3350759,
+          "season": 1,
+          "episode": 1,
+          "title": "Dia Zero S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350760",
+          "episodeId": 3350760,
+          "season": 1,
+          "episode": 2,
+          "title": "Dia Zero S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350761",
+          "episodeId": 3350761,
+          "season": 1,
+          "episode": 3,
+          "title": "Dia Zero S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350762",
+          "episodeId": 3350762,
+          "season": 1,
+          "episode": 4,
+          "title": "Dia Zero S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350763",
+          "episodeId": 3350763,
+          "season": 1,
+          "episode": 5,
+          "title": "Dia Zero S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3350764",
+          "episodeId": 3350764,
+          "season": 1,
+          "episode": 6,
+          "title": "Dia Zero S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

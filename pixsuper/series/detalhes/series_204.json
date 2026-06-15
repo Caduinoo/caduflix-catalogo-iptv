@@ -1,0 +1,76 @@
+{
+  "id": "series_204",
+  "type": "series",
+  "title": "BÖRÜ: Esquadrão Lobo",
+  "originalTitle": "Börü",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/jSJy27yMybtzou7eiUZTa03zWFI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pxlRMd57lNIvMvXF5UVxgrgS6wO.jpg",
+  "overview": "Os agentes da unidade de operações especiais da polícia turca têm de enfrentar o perigo em missões arriscadas e a tragédia na vida pessoal.",
+  "rating": 7.078,
+  "genres": [
+    "acao",
+    "aventura",
+    "guerra"
+  ],
+  "producer": "netflix",
+  "tmdbId": 75365,
+  "xtream": {
+    "seriesId": 204
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3144012",
+          "episodeId": 3144012,
+          "season": 1,
+          "episode": 1,
+          "title": "Börü S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144013",
+          "episodeId": 3144013,
+          "season": 1,
+          "episode": 2,
+          "title": "Börü S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144014",
+          "episodeId": 3144014,
+          "season": 1,
+          "episode": 3,
+          "title": "Börü S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144015",
+          "episodeId": 3144015,
+          "season": 1,
+          "episode": 4,
+          "title": "Börü S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144016",
+          "episodeId": 3144016,
+          "season": 1,
+          "episode": 5,
+          "title": "Börü S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3144017",
+          "episodeId": 3144017,
+          "season": 1,
+          "episode": 6,
+          "title": "Börü S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "series_1228",
+  "type": "series",
+  "title": "Two Weeks to Live",
+  "originalTitle": "Two Weeks to Live",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/cOhQYHbHVo03elgWA4mTW5bzNAg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2Q5jGREd9xUISF75EGZl1pNA9k4.jpg",
+  "overview": "Depois da morte de seu pai, a jovem Kim cresce isolada do mundo, sendo criada por sua rígida mãe. Aos 21 anos ela decide sair em uma missão para vingar seu pai e parte em uma jornada imprevisível e intrigante.",
+  "rating": 7.3,
+  "genres": [
+    "comedia",
+    "acao",
+    "aventura",
+    "crime"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 91445,
+  "xtream": {
+    "seriesId": 1228
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3191798",
+          "episodeId": 3191798,
+          "season": 1,
+          "episode": 1,
+          "title": "Two Weeks to Live S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3191799",
+          "episodeId": 3191799,
+          "season": 1,
+          "episode": 2,
+          "title": "Two Weeks to Live S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3191800",
+          "episodeId": 3191800,
+          "season": 1,
+          "episode": 3,
+          "title": "Two Weeks to Live S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3191801",
+          "episodeId": 3191801,
+          "season": 1,
+          "episode": 4,
+          "title": "Two Weeks to Live S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3191802",
+          "episodeId": 3191802,
+          "season": 1,
+          "episode": 5,
+          "title": "Two Weeks to Live S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3191803",
+          "episodeId": 3191803,
+          "season": 1,
+          "episode": 6,
+          "title": "Two Weeks to Live S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

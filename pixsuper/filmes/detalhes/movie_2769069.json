@@ -1,0 +1,34 @@
+{
+  "id": "movie_2769069",
+  "type": "movie",
+  "title": "Come and play",
+  "originalTitle": "Come and play",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/3Vzqo5ysQqCuDxNteAtD6NOoWWC.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 3,
+  "genres": [
+    "terror",
+    "misterio"
+  ],
+  "cast": [
+    {
+      "name": "Sebastián González Sierra",
+      "character": "Sebastián",
+      "profile": ""
+    },
+    {
+      "name": "María Andrea González",
+      "character": "Ghost Girl",
+      "profile": ""
+    }
+  ],
+  "director": "Sebastián González Sierra",
+  "tmdbId": 739087,
+  "xtream": {
+    "streamId": 2769069,
+    "containerExtension": "mp4"
+  }
+}

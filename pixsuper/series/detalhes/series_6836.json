@@ -1,0 +1,76 @@
+{
+  "id": "series_6836",
+  "type": "series",
+  "title": "El Turco",
+  "originalTitle": "El Turco",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/xXc32nIY6IEEqhyZG20Z1mka0qc.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cyfyZvzxnnqRp8UjPSIwlHv6pWe.jpg",
+  "overview": "No século XVI, o soldado Balaban e a misteriosa Glória vivem um romance enquanto lutam pelos direitos do povoado de Moena na batalha épica contra os italianos do palácio de Trento.",
+  "rating": 7.5,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "globoplay",
+  "tmdbId": 220377,
+  "xtream": {
+    "seriesId": 6836
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3352899",
+          "episodeId": 3352899,
+          "season": 1,
+          "episode": 1,
+          "title": "El Turco S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352900",
+          "episodeId": 3352900,
+          "season": 1,
+          "episode": 2,
+          "title": "El Turco S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352901",
+          "episodeId": 3352901,
+          "season": 1,
+          "episode": 3,
+          "title": "El Turco S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352902",
+          "episodeId": 3352902,
+          "season": 1,
+          "episode": 4,
+          "title": "El Turco S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352903",
+          "episodeId": 3352903,
+          "season": 1,
+          "episode": 5,
+          "title": "El Turco S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3352904",
+          "episodeId": 3352904,
+          "season": 1,
+          "episode": 6,
+          "title": "El Turco S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

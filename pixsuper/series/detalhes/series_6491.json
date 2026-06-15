@@ -1,0 +1,92 @@
+{
+  "id": "series_6491",
+  "type": "series",
+  "title": "O Conde de Monte Cristo",
+  "originalTitle": "Il Conte di Montecristo",
+  "year": 2025,
+  "poster": "https://image.tmdb.org/t/p/w500/1TObZr9AfuG1I4jQcbk5DmeCU01.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mKZLq5Vy3InX1dFHtSFPxodCiOx.jpg",
+  "overview": "Edmond Dantes, um marinheiro falsamente acusado de traição, é aprisionado no Château d'If, perto de Marselha. Depois de escapar e adotar a identidade do Conde de Monte Cristo, ele planeja vingança contra aqueles que o acusaram.",
+  "rating": 7.765,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 240456,
+  "xtream": {
+    "seriesId": 6491
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3344077",
+          "episodeId": 3344077,
+          "season": 1,
+          "episode": 1,
+          "title": "O Conde de Monte Cristo [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3344078",
+          "episodeId": 3344078,
+          "season": 1,
+          "episode": 2,
+          "title": "O Conde de Monte Cristo [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3344079",
+          "episodeId": 3344079,
+          "season": 1,
+          "episode": 3,
+          "title": "O Conde de Monte Cristo [L] S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3344080",
+          "episodeId": 3344080,
+          "season": 1,
+          "episode": 4,
+          "title": "O Conde de Monte Cristo [L] S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3344081",
+          "episodeId": 3344081,
+          "season": 1,
+          "episode": 5,
+          "title": "O Conde de Monte Cristo [L] S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3344082",
+          "episodeId": 3344082,
+          "season": 1,
+          "episode": 6,
+          "title": "O Conde de Monte Cristo [L] S01 E06",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3344083",
+          "episodeId": 3344083,
+          "season": 1,
+          "episode": 7,
+          "title": "O Conde de Monte Cristo [L] S01 E07",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3344084",
+          "episodeId": 3344084,
+          "season": 1,
+          "episode": 8,
+          "title": "O Conde de Monte Cristo [L] S01 E08",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

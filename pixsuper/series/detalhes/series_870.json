@@ -1,0 +1,51 @@
+{
+  "id": "series_870",
+  "type": "series",
+  "title": "Nova York Contra a Máfia",
+  "originalTitle": "Fear City: New York vs The Mafia",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/5vDGvg369Ti63TnYzjfsaryieSm.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/2fLr6ndbfh5IYF0LLnRlFhb1PYV.jpg",
+  "overview": "Cinco famílias mafiosas controlavam Nova York com mão de ferro nos anos 1970 e 80. Até que um grupo de agentes federais tentou o que parecia impossível: acabar com elas.",
+  "rating": 6.756,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 105489,
+  "xtream": {
+    "seriesId": 870
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3176624",
+          "episodeId": 3176624,
+          "season": 1,
+          "episode": 1,
+          "title": "Nova York Contra a Máfia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176625",
+          "episodeId": 3176625,
+          "season": 1,
+          "episode": 2,
+          "title": "Nova York Contra a Máfia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3176626",
+          "episodeId": 3176626,
+          "season": 1,
+          "episode": 3,
+          "title": "Nova York Contra a Máfia S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

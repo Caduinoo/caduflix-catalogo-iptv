@@ -1,0 +1,75 @@
+{
+  "id": "series_6268",
+  "type": "series",
+  "title": "Joan",
+  "originalTitle": "Joan",
+  "year": 2024,
+  "poster": "https://image.tmdb.org/t/p/w500/x0l9OYTcwO2BvCZcFWEnAA8YEZ1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/60IFA2WovZfCXJYxhpwC3DU1uTD.jpg",
+  "overview": "Um drama de seis partes do canal ITV, inspirado na história real de Joan Hannington, a ladra de joias mais famosa do Reino Unido, estrelado por Sophie Turner. Fugindo de um relacionamento catastrófico com o criminoso Gary Darvil, a jornada de Joan da miséria para uma ladra de diamantes habilidosa se desenrola no cenário de uma Londres vibrante e aspiracional dos anos 1980.",
+  "rating": 6.6,
+  "genres": [
+    "drama",
+    "crime"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 214259,
+  "xtream": {
+    "seriesId": 6268
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3338840",
+          "episodeId": 3338840,
+          "season": 1,
+          "episode": 1,
+          "title": "Joan S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338841",
+          "episodeId": 3338841,
+          "season": 1,
+          "episode": 2,
+          "title": "Joan S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338842",
+          "episodeId": 3338842,
+          "season": 1,
+          "episode": 3,
+          "title": "Joan S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338843",
+          "episodeId": 3338843,
+          "season": 1,
+          "episode": 4,
+          "title": "Joan S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338844",
+          "episodeId": 3338844,
+          "season": 1,
+          "episode": 5,
+          "title": "Joan S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3338845",
+          "episodeId": 3338845,
+          "season": 1,
+          "episode": 6,
+          "title": "Joan S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

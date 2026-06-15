@@ -1,0 +1,59 @@
+{
+  "id": "series_1311",
+  "type": "series",
+  "title": "Fleming",
+  "originalTitle": "Fleming",
+  "year": 2014,
+  "poster": "https://image.tmdb.org/t/p/w500/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/T1Vha4ZptEh5AWNCnQAVUnhA3t.jpg",
+  "overview": "Um drama cheio de ação baseado na história de vida de Ian Fleming, o criador de James Bond.",
+  "rating": 6.8,
+  "genres": [
+    "drama",
+    "guerra"
+  ],
+  "producer": "lionsgate",
+  "tmdbId": 60602,
+  "xtream": {
+    "seriesId": 1311
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3194445",
+          "episodeId": 3194445,
+          "season": 1,
+          "episode": 1,
+          "title": "Fleming S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194446",
+          "episodeId": 3194446,
+          "season": 1,
+          "episode": 2,
+          "title": "Fleming S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194447",
+          "episodeId": 3194447,
+          "season": 1,
+          "episode": 3,
+          "title": "Fleming S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3194448",
+          "episodeId": 3194448,
+          "season": 1,
+          "episode": 4,
+          "title": "Fleming S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

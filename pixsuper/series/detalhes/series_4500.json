@@ -1,0 +1,76 @@
+{
+  "id": "series_4500",
+  "type": "series",
+  "title": "Uma Família Quase Perfeita",
+  "originalTitle": "En helt vanlig familj",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/bcyiNYMCVsEjlN876v5OusXrD77.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qY5OVoLHeIaE2F0GrhY613aARyB.jpg",
+  "overview": "O mundo de uma família aparentemente perfeita é abalado quando um assassinato prova que eles são capazes de fazer qualquer coisa para se proteger.",
+  "rating": 6.9,
+  "genres": [
+    "crime",
+    "drama",
+    "familia"
+  ],
+  "producer": "netflix",
+  "tmdbId": 235571,
+  "xtream": {
+    "seriesId": 4500
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3291569",
+          "episodeId": 3291569,
+          "season": 1,
+          "episode": 1,
+          "title": "Uma Familia Quase Perfeita S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291570",
+          "episodeId": 3291570,
+          "season": 1,
+          "episode": 2,
+          "title": "Uma Familia Quase Perfeita S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291571",
+          "episodeId": 3291571,
+          "season": 1,
+          "episode": 3,
+          "title": "Uma Familia Quase Perfeita S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291572",
+          "episodeId": 3291572,
+          "season": 1,
+          "episode": 4,
+          "title": "Uma Familia Quase Perfeita S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291573",
+          "episodeId": 3291573,
+          "season": 1,
+          "episode": 5,
+          "title": "Uma Familia Quase Perfeita S01 E05",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3291574",
+          "episodeId": 3291574,
+          "season": 1,
+          "episode": 6,
+          "title": "Uma Familia Quase Perfeita S01 E06",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

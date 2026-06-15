@@ -1,0 +1,34 @@
+{
+  "id": "movie_2768712",
+  "type": "movie",
+  "title": "Blink",
+  "originalTitle": "Blink",
+  "year": 2011,
+  "poster": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-poster.png",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 0,
+  "runtime": 15,
+  "genres": [
+    "drama",
+    "ficcao"
+  ],
+  "cast": [
+    {
+      "name": "Kyle Buchanan",
+      "character": "Matt Parker",
+      "profile": "https://image.tmdb.org/t/p/w185/3fbl4vohrn5xV1DEh8IUcI5raAq.jpg"
+    },
+    {
+      "name": "James Cade",
+      "character": "Lucas",
+      "profile": "https://image.tmdb.org/t/p/w185/rokGTf2AhIFjF2DZU4dVJNZ9nyv.jpg"
+    }
+  ],
+  "director": "Miles Jay",
+  "tmdbId": 204273,
+  "xtream": {
+    "streamId": 2768712,
+    "containerExtension": "mp4"
+  }
+}

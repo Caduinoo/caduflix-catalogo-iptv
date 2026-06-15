@@ -1,0 +1,51 @@
+{
+  "id": "series_3765",
+  "type": "series",
+  "title": "Superpoderosos: A História da DC",
+  "originalTitle": "Superpowered: The DC Story",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/5TAo6BSKPIW7B1QnTRZFTJNME75.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fCY4E2J7grHY1RBRtflHcLiFQTN.jpg",
+  "overview": "Com mais de três horas repletas de ação, essa série documental apresenta uma visão abrangente e interna de personagens icônicos da DC, seu impacto cultural e o legado duradouro.",
+  "rating": 7.4,
+  "genres": [
+    "documentario",
+    "historia"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 229516,
+  "xtream": {
+    "seriesId": 3765
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3272212",
+          "episodeId": 3272212,
+          "season": 1,
+          "episode": 1,
+          "title": "Superpoderosos: A História da DC [L] S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272213",
+          "episodeId": 3272213,
+          "season": 1,
+          "episode": 2,
+          "title": "Superpoderosos: A História da DC [L] S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3272214",
+          "episodeId": 3272214,
+          "season": 1,
+          "episode": 3,
+          "title": "Superpoderosos: A História da DC [L] S01 E03",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

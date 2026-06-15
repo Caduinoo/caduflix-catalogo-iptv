@@ -1,0 +1,36 @@
+{
+  "id": "movie_3127351",
+  "type": "movie",
+  "title": "Biosfera",
+  "originalTitle": "Biosphere",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/uJFZbXZQQYTeMAFPh565JpxpJHW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xWy4X28TRHeS3wWY6sKFvJ7canB.jpg",
+  "overview": "Em um futuro não muito distante, os últimos dois homens na Terra precisam se adaptar e evoluir para salvar a humanidade.",
+  "rating": 4.843,
+  "runtime": 96,
+  "genres": [
+    "comedia",
+    "drama",
+    "ficcao",
+    "fantasia"
+  ],
+  "cast": [
+    {
+      "name": "Sterling K. Brown",
+      "character": "Ray",
+      "profile": "https://image.tmdb.org/t/p/w185/uq4kBHad6mOA4iXpX8f16PQJBEA.jpg"
+    },
+    {
+      "name": "Mark Duplass",
+      "character": "Billy",
+      "profile": "https://image.tmdb.org/t/p/w185/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+    }
+  ],
+  "director": "Mel Eslyn",
+  "tmdbId": 865797,
+  "xtream": {
+    "streamId": 3127351,
+    "containerExtension": "mp4"
+  }
+}

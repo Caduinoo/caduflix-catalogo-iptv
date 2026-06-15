@@ -1,0 +1,60 @@
+{
+  "id": "movie_2772200",
+  "type": "movie",
+  "title": "O Grande Golpe",
+  "originalTitle": "O Grande Golpe",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/lnsxBXKuOoyS3tyxZT1yFivigOf.jpg",
+  "backdrop": "https://caduinoo.github.io/caduflix-catalogo-iptv/pixsuper/assets/placeholder-backdrop.png",
+  "overview": "",
+  "rating": 10,
+  "runtime": 12,
+  "genres": [
+    "acao",
+    "crime",
+    "drama"
+  ],
+  "cast": [
+    {
+      "name": "Thiago Mouazzen",
+      "character": "Rafael Yasin",
+      "profile": "https://image.tmdb.org/t/p/w185/6i0VhQAqhSBcozxbkAJqFw3CTiO.jpg"
+    },
+    {
+      "name": "Thalia Caldart",
+      "character": "Marcella",
+      "profile": ""
+    },
+    {
+      "name": "Guilherme Uzeda",
+      "character": "Leonardo Cunha",
+      "profile": "https://image.tmdb.org/t/p/w185/nbEe7Ps8RlePljsVCuo9IbAwUAi.jpg"
+    },
+    {
+      "name": "André Brienza",
+      "character": "Cadu",
+      "profile": "https://image.tmdb.org/t/p/w185/3e5y3olru3adPo7YPTuXWeMfP1y.jpg"
+    },
+    {
+      "name": "Laura Hornos",
+      "character": "Larissa",
+      "profile": ""
+    },
+    {
+      "name": "Maurício Cresóstomo",
+      "character": "Fernando Yasin",
+      "profile": ""
+    },
+    {
+      "name": "Cinthia Dias",
+      "character": "Bianca Recepcionista",
+      "profile": ""
+    }
+  ],
+  "director": "Armando Rodrigues",
+  "tmdbId": 1140372,
+  "xtream": {
+    "streamId": 2772200,
+    "containerExtension": "mp4"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "series_4911",
+  "type": "series",
+  "title": "Consciência³",
+  "originalTitle": "Consciência³",
+  "year": 2019,
+  "poster": "https://image.tmdb.org/t/p/w500/kqeKO3FlhJ1YqwoPEjot4nXeh1O.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zQupTI6mvgXvw5sAEZQA86mRnWH.jpg",
+  "overview": "A série investiga o fenômeno da consciência. A investigação terá as seguintes abordagens: 1) neurológica: a consciência enquanto fenômeno bioquímico funcional do cérebro humano; 2) psicológica: a consciência enquanto fenômeno psíquico-existencial; 3) filosófica: a ciência da consciência. Em cada episódio, três renomados estudiosos tratarão de temas específicos ligados à consciência.",
+  "rating": 0,
+  "genres": [
+    "nacional"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 245021,
+  "xtream": {
+    "seriesId": 4911
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3303256",
+          "episodeId": 3303256,
+          "season": 1,
+          "episode": 1,
+          "title": "Consciencia S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3303257",
+          "episodeId": 3303257,
+          "season": 1,
+          "episode": 2,
+          "title": "Consciencia S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3303258",
+          "episodeId": 3303258,
+          "season": 1,
+          "episode": 3,
+          "title": "Consciencia S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3303259",
+          "episodeId": 3303259,
+          "season": 1,
+          "episode": 4,
+          "title": "Consciencia S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3303260",
+          "episodeId": 3303260,
+          "season": 1,
+          "episode": 5,
+          "title": "Consciencia S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

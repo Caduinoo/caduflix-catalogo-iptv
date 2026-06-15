@@ -1,0 +1,114 @@
+{
+  "id": "series_1536",
+  "type": "series",
+  "title": "El Cid",
+  "originalTitle": "El Cid",
+  "year": 2020,
+  "poster": "https://image.tmdb.org/t/p/w500/qgKB7PgoAIUXNAs8xr4OjThgp4C.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/iyxHHqI6n6I89t6QBOMeGxVm18v.jpg",
+  "overview": "Lá pelo ano 1000, a Espanha é dominada pelos mouros, e a esperança está toda com El Cid. Um cavaleiro heroico e nobre espanhol que sabe que uma nação dividida não pode vencer e que a luta não é só contra os invasores, mas também para unir seu povo.",
+  "rating": 7.2,
+  "genres": [
+    "acao",
+    "aventura",
+    "drama",
+    "guerra"
+  ],
+  "producer": "prime_video",
+  "tmdbId": 94167,
+  "xtream": {
+    "seriesId": 1536
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3203382",
+          "episodeId": 3203382,
+          "season": 1,
+          "episode": 1,
+          "title": "El Cid S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203383",
+          "episodeId": 3203383,
+          "season": 1,
+          "episode": 2,
+          "title": "El Cid S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203384",
+          "episodeId": 3203384,
+          "season": 1,
+          "episode": 3,
+          "title": "El Cid S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203385",
+          "episodeId": 3203385,
+          "season": 1,
+          "episode": 4,
+          "title": "El Cid S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203386",
+          "episodeId": 3203386,
+          "season": 1,
+          "episode": 5,
+          "title": "El Cid S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "id": "episode_3203387",
+          "episodeId": 3203387,
+          "season": 2,
+          "episode": 1,
+          "title": "El Cid S02 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203388",
+          "episodeId": 3203388,
+          "season": 2,
+          "episode": 2,
+          "title": "El Cid S02 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203389",
+          "episodeId": 3203389,
+          "season": 2,
+          "episode": 3,
+          "title": "El Cid S02 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203390",
+          "episodeId": 3203390,
+          "season": 2,
+          "episode": 4,
+          "title": "El Cid S02 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3203391",
+          "episodeId": 3203391,
+          "season": 2,
+          "episode": 5,
+          "title": "El Cid S02 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

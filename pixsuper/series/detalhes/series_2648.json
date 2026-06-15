@@ -1,0 +1,59 @@
+{
+  "id": "series_2648",
+  "type": "series",
+  "title": "D.B. Cooper: Desaparecimento no Ar",
+  "originalTitle": "D.B. Cooper: Where Are You?!",
+  "year": 2022,
+  "poster": "https://image.tmdb.org/t/p/w500/lUuLpCdqQFIW197xGmmf5OK1HjE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1o15pWCkpJgds9Fl1wehVQq5hSN.jpg",
+  "overview": "Em 1971, um homem sequestrou um avião, saltou de paraquedas com todo o dinheiro roubado e saiu impune. Décadas depois, sua identidade continua sendo um mistério.",
+  "rating": 5.9,
+  "genres": [
+    "documentario",
+    "crime"
+  ],
+  "producer": "netflix",
+  "tmdbId": 204302,
+  "xtream": {
+    "seriesId": 2648
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3244422",
+          "episodeId": 3244422,
+          "season": 1,
+          "episode": 1,
+          "title": "D.B. Cooper: Desaparecimento no Ar S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3244423",
+          "episodeId": 3244423,
+          "season": 1,
+          "episode": 2,
+          "title": "D.B. Cooper: Desaparecimento no Ar S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3244424",
+          "episodeId": 3244424,
+          "season": 1,
+          "episode": 3,
+          "title": "D.B. Cooper: Desaparecimento no Ar S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3244425",
+          "episodeId": 3244425,
+          "season": 1,
+          "episode": 4,
+          "title": "D.B. Cooper: Desaparecimento no Ar S01 E04",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "series_6446",
+  "type": "series",
+  "title": "Decodificando Desastres",
+  "originalTitle": "Destruction Decoded",
+  "year": 2023,
+  "poster": "https://image.tmdb.org/t/p/w500/fJKQJluhPiW8vHf1fpOeopqyCbp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vomW7961PogLJewNkmiKKEmEC5L.jpg",
+  "overview": "Imagens de arquivo e efeitos especiais de ponta são usados para explorar desastres globais, mostrando o impacto que esses eventos podem causar e fornecendo uma compreensão de como e por que eles ocorrem.",
+  "rating": 10,
+  "genres": [
+    "documentario"
+  ],
+  "producer": "discovery_plus",
+  "tmdbId": 231644,
+  "xtream": {
+    "seriesId": 6446
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3343373",
+          "episodeId": 3343373,
+          "season": 1,
+          "episode": 1,
+          "title": "Decodificando Desastres S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3343374",
+          "episodeId": 3343374,
+          "season": 1,
+          "episode": 2,
+          "title": "Decodificando Desastres S01 E02",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}

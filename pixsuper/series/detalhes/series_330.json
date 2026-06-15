@@ -1,0 +1,67 @@
+{
+  "id": "series_330",
+  "type": "series",
+  "title": "Rio Heroes",
+  "originalTitle": "Rio Heroes",
+  "year": 2018,
+  "poster": "https://image.tmdb.org/t/p/w500/6QqB9WxeV9htZTr4LQ9VThIrUNh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xNinfGS2HUcn5zGe9OwnNFQGJBj.jpg",
+  "overview": "Jorge Pereira (Murilo Rosa) é um lutador brasileiro de jiu-jitsu que nunca gostou de obedecer regras. Esse foi um dos motivos que o levou a criar um campeonato de vale-tudo semiclandestino, e não demorou muito para que a atividade ganhasse fama para além das fronteiras do País, conquistando público nos Estados Unidos.",
+  "rating": 8.5,
+  "genres": [
+    "drama",
+    "nacional"
+  ],
+  "producer": "outras_produtoras",
+  "tmdbId": 77448,
+  "xtream": {
+    "seriesId": 330
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "id": "episode_3148766",
+          "episodeId": 3148766,
+          "season": 1,
+          "episode": 1,
+          "title": "Rio Heroes S01 E01",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3148767",
+          "episodeId": 3148767,
+          "season": 1,
+          "episode": 2,
+          "title": "Rio Heroes S01 E02",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3148768",
+          "episodeId": 3148768,
+          "season": 1,
+          "episode": 3,
+          "title": "Rio Heroes S01 E03",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3148769",
+          "episodeId": 3148769,
+          "season": 1,
+          "episode": 4,
+          "title": "Rio Heroes S01 E04",
+          "containerExtension": "mp4"
+        },
+        {
+          "id": "episode_3148770",
+          "episodeId": 3148770,
+          "season": 1,
+          "episode": 5,
+          "title": "Rio Heroes S01 E05",
+          "containerExtension": "mp4"
+        }
+      ]
+    }
+  ]
+}
