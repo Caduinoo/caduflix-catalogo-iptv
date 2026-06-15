@@ -1,229 +1,17 @@
 {
-  "generatedAt": "2026-06-14T15:22:17-03:00",
-  "date": "2026-06-14",
+  "generatedAt": "2026-06-15T12:24:11-03:00",
+  "date": "2026-06-15",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_juventude_x_ponte_preta_1100",
-      "time": "11:00",
-      "timestamp": "2026-06-14T11:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Juventude",
-      "awayTeam": "Ponte Preta",
-      "title": "Juventude x Ponte Preta",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "ESPN"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "ESPN",
-          "keywords": [
-            "espn",
-            "espn brasil",
-            "espn 2",
-            "espn 3",
-            "espn 4"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Juventude",
-        "Ponte Preta",
-        "Juventude x Ponte Preta",
-        "ESPN"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Juventude x Ponte Preta - 11h00 - SD (ESPN)",
-          "Juventude x Ponte Preta - 11h00 - HD (ESPN)",
-          "Juventude x Ponte Preta - 11h00 - FHD (ESPN)"
-        ]
-      }
-    },
-    {
-      "id": "game_sao_bernardo_x_sport_recife_1100",
-      "time": "11:00",
-      "timestamp": "2026-06-14T11:00:00-03:00",
-      "competition": "",
-      "homeTeam": "São Bernardo",
-      "awayTeam": "Sport Recife",
-      "title": "São Bernardo x Sport Recife",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Premiere"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Premiere",
-          "keywords": [
-            "premiere",
-            "premiere clubes",
-            "premiere hd",
-            "premiere fhd"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "São Bernardo",
-        "Sport Recife",
-        "São Bernardo x Sport Recife",
-        "Premiere"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "São Bernardo x Sport Recife - 11h00 - SD (Premiere)",
-          "São Bernardo x Sport Recife - 11h00 - HD (Premiere)",
-          "São Bernardo x Sport Recife - 11h00 - FHD (Premiere)"
-        ]
-      }
-    },
-    {
-      "id": "game_alemanha_x_curacao_1400",
-      "time": "14:00",
-      "timestamp": "2026-06-14T14:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Alemanha",
-      "awayTeam": "Curaçao",
-      "title": "Alemanha x Curaçao",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Alemanha",
-        "Curaçao",
-        "Alemanha x Curaçao",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Alemanha x Curaçao - 14h00 - SD (CazéTV)",
-          "Alemanha x Curaçao - 14h00 - HD (CazéTV)",
-          "Alemanha x Curaçao - 14h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_paysandu_x_inter_de_limeira_1600",
+      "id": "game_belgica_x_egito_1600",
       "time": "16:00",
-      "timestamp": "2026-06-14T16:00:00-03:00",
+      "timestamp": "2026-06-15T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "Paysandu",
-      "awayTeam": "Inter De Limeira",
-      "title": "Paysandu x Inter De Limeira",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "SportyNet"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD"
-      ],
-      "broadcasts": [
-        {
-          "name": "SportyNet",
-          "keywords": [
-            "sportynet"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Paysandu",
-        "Inter De Limeira",
-        "Paysandu x Inter De Limeira",
-        "SportyNet"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Paysandu x Inter De Limeira - 16h00 - SD (SportyNet)",
-          "Paysandu x Inter De Limeira - 16h00 - HD (SportyNet)"
-        ]
-      }
-    },
-    {
-      "id": "game_malaga_x_almeria_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-14T16:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Malaga",
-      "awayTeam": "Almeria",
-      "title": "Malaga x Almeria",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "ESPN"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "ESPN",
-          "keywords": [
-            "espn",
-            "espn brasil",
-            "espn 2",
-            "espn 3",
-            "espn 4"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Malaga",
-        "Almeria",
-        "Malaga x Almeria",
-        "ESPN"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Malaga x Almeria - 16h00 - SD (ESPN 4)",
-          "Malaga x Almeria - 16h00 - HD (ESPN 4)",
-          "Malaga x Almeria - 16h00 - FHD (ESPN 4)"
-        ]
-      }
-    },
-    {
-      "id": "game_holanda_x_japao_1700",
-      "time": "17:00",
-      "timestamp": "2026-06-14T17:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Holanda",
-      "awayTeam": "Japão",
-      "title": "Holanda x Japão",
+      "homeTeam": "Bélgica",
+      "awayTeam": "Egito",
+      "title": "Bélgica x Egito",
       "status": "scheduled",
       "indicatedChannels": [
         "Sportv"
@@ -246,156 +34,28 @@
         }
       ],
       "searchKeywords": [
-        "Holanda",
-        "Japão",
-        "Holanda x Japão",
+        "Bélgica",
+        "Egito",
+        "Bélgica x Egito",
         "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Holanda x Japão - 17h00 - SD (SporTV)",
-          "Holanda x Japão - 17h00 - HD (SporTV)",
-          "Holanda x Japão - 17h00 - FHD (SporTV)"
+          "Bélgica x Egito - 16h00 - SD (SporTV)",
+          "Bélgica x Egito - 16h00 - HD (SporTV)",
+          "Bélgica x Egito - 16h00 - FHD (SporTV)"
         ]
       }
     },
     {
-      "id": "game_botafogo_sp_x_operario_pr_1900",
+      "id": "game_arabia_saudita_x_uruguai_1900",
       "time": "19:00",
-      "timestamp": "2026-06-14T19:00:00-03:00",
+      "timestamp": "2026-06-15T19:00:00-03:00",
       "competition": "",
-      "homeTeam": "Botafogo SP",
-      "awayTeam": "Operario-PR",
-      "title": "Botafogo SP x Operario-PR",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "ESPN"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "ESPN",
-          "keywords": [
-            "espn",
-            "espn brasil",
-            "espn 2",
-            "espn 3",
-            "espn 4"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Botafogo SP",
-        "Operario-PR",
-        "Botafogo SP x Operario-PR",
-        "ESPN"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Botafogo SP x Operario-PR - 19h00 - SD (ESPN 4)",
-          "Botafogo SP x Operario-PR - 19h00 - HD (ESPN 4)",
-          "Botafogo SP x Operario-PR - 19h00 - FHD (ESPN 4)"
-        ]
-      }
-    },
-    {
-      "id": "game_novorizontino_x_nautico_recife_1900",
-      "time": "19:00",
-      "timestamp": "2026-06-14T19:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Novorizontino",
-      "awayTeam": "Nautico Recife",
-      "title": "Novorizontino x Nautico Recife",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "ESPN"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "ESPN",
-          "keywords": [
-            "espn",
-            "espn brasil",
-            "espn 2",
-            "espn 3",
-            "espn 4"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Novorizontino",
-        "Nautico Recife",
-        "Novorizontino x Nautico Recife",
-        "ESPN"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Novorizontino x Nautico Recife - 19h00 - SD (ESPN 4)",
-          "Novorizontino x Nautico Recife - 19h00 - HD (ESPN 4)",
-          "Novorizontino x Nautico Recife - 19h00 - FHD (ESPN 4)"
-        ]
-      }
-    },
-    {
-      "id": "game_volta_redonda_x_confianca_1930",
-      "time": "19:30",
-      "timestamp": "2026-06-14T19:30:00-03:00",
-      "competition": "",
-      "homeTeam": "Volta Redonda",
-      "awayTeam": "Confiança",
-      "title": "Volta Redonda x Confiança",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "SportyNet"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "SportyNet",
-          "keywords": [
-            "sportynet"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Volta Redonda",
-        "Confiança",
-        "Volta Redonda x Confiança",
-        "SportyNet"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Volta Redonda x Confiança - 19h30 - SD (SportyNet)",
-          "Volta Redonda x Confiança - 19h30 - HD (SportyNet)",
-          "Volta Redonda x Confiança - 19h30 - FHD (SportyNet)"
-        ]
-      }
-    },
-    {
-      "id": "game_costa_do_marfim_x_equador_2000",
-      "time": "20:00",
-      "timestamp": "2026-06-14T20:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Costa do Marfim",
-      "awayTeam": "Equador",
-      "title": "Costa do Marfim x Equador",
+      "homeTeam": "Arábia Saudita",
+      "awayTeam": "Uruguai",
+      "title": "Arábia Saudita x Uruguai",
       "status": "scheduled",
       "indicatedChannels": [
         "Sportv"
@@ -418,61 +78,17 @@
         }
       ],
       "searchKeywords": [
-        "Costa do Marfim",
-        "Equador",
-        "Costa do Marfim x Equador",
+        "Arábia Saudita",
+        "Uruguai",
+        "Arábia Saudita x Uruguai",
         "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Costa do Marfim x Equador - 20h00 - SD (SporTV)",
-          "Costa do Marfim x Equador - 20h00 - HD (SporTV)",
-          "Costa do Marfim x Equador - 20h00 - FHD (SporTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_suecia_x_tunisia_2300",
-      "time": "23:00",
-      "timestamp": "2026-06-14T23:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Suécia",
-      "awayTeam": "Tunísia",
-      "title": "Suécia x Tunísia",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Sportv"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Suécia",
-        "Tunísia",
-        "Suécia x Tunísia",
-        "Sportv"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Suécia x Tunísia - 23h00 - SD (SporTV)",
-          "Suécia x Tunísia - 23h00 - HD (SporTV)",
-          "Suécia x Tunísia - 23h00 - FHD (SporTV)"
+          "Arábia Saudita x Uruguai - 19h00 - SD (SporTV)",
+          "Arábia Saudita x Uruguai - 19h00 - HD (SporTV)",
+          "Arábia Saudita x Uruguai - 19h00 - FHD (SporTV)"
         ]
       }
     }
