@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-16T03:42:52-03:00",
+  "generatedAt": "2026-06-16T11:25:19-03:00",
   "date": "2026-06-16",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_belgica_x_egito_1600",
+      "id": "game_franca_x_senegal_1600",
       "time": "16:00",
       "timestamp": "2026-06-16T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "Bélgica",
-      "awayTeam": "Egito",
-      "title": "Bélgica x Egito",
+      "homeTeam": "França",
+      "awayTeam": "Senegal",
+      "title": "França x Senegal",
       "status": "scheduled",
       "indicatedChannels": [
-        "Sportv"
+        "CazéTV"
       ],
       "availableQualities": [
         "SD",
@@ -23,42 +23,41 @@
       ],
       "broadcasts": [
         {
-          "name": "Sportv",
+          "name": "CazéTV",
           "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
           ]
         }
       ],
       "searchKeywords": [
-        "Bélgica",
-        "Egito",
-        "Bélgica x Egito",
-        "Sportv"
+        "França",
+        "Senegal",
+        "França x Senegal",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Bélgica x Egito - 16h00 - SD (SporTV)",
-          "Bélgica x Egito - 16h00 - HD (SporTV)",
-          "Bélgica x Egito - 16h00 - FHD (SporTV)"
+          "França x Senegal - 16h00 - SD (CazéTV)",
+          "França x Senegal - 16h00 - HD (CazéTV)",
+          "França x Senegal - 16h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_arabia_saudita_x_uruguai_1900",
+      "id": "game_iraque_x_noruega_1900",
       "time": "19:00",
       "timestamp": "2026-06-16T19:00:00-03:00",
       "competition": "",
-      "homeTeam": "Arábia Saudita",
-      "awayTeam": "Uruguai",
-      "title": "Arábia Saudita x Uruguai",
+      "homeTeam": "Iraque",
+      "awayTeam": "Noruega",
+      "title": "Iraque x Noruega",
       "status": "scheduled",
       "indicatedChannels": [
-        "Sportv"
+        "CazéTV"
       ],
       "availableQualities": [
         "SD",
@@ -67,28 +66,124 @@
       ],
       "broadcasts": [
         {
-          "name": "Sportv",
+          "name": "CazéTV",
           "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
           ]
         }
       ],
       "searchKeywords": [
-        "Arábia Saudita",
-        "Uruguai",
-        "Arábia Saudita x Uruguai",
-        "Sportv"
+        "Iraque",
+        "Noruega",
+        "Iraque x Noruega",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Arábia Saudita x Uruguai - 19h00 - SD (SporTV)",
-          "Arábia Saudita x Uruguai - 19h00 - HD (SporTV)",
-          "Arábia Saudita x Uruguai - 19h00 - FHD (SporTV)"
+          "Iraque x Noruega - 19h00 - SD (CazéTV)",
+          "Iraque x Noruega - 19h00 - HD (CazéTV)",
+          "Iraque x Noruega - 19h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_fortaleza_x_america_mg_2000",
+      "time": "20:00",
+      "timestamp": "2026-06-16T20:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Fortaleza",
+      "awayTeam": "América-MG",
+      "title": "Fortaleza x América-MG",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "Xsports",
+        "ESPN"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "Xsports",
+          "keywords": [
+            "xsports"
+          ]
+        },
+        {
+          "name": "ESPN",
+          "keywords": [
+            "espn",
+            "espn brasil",
+            "espn 2",
+            "espn 3",
+            "espn 4"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Fortaleza",
+        "América-MG",
+        "Fortaleza x América-MG",
+        "Xsports",
+        "ESPN"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Fortaleza x América-MG - 20h00 - HD (Xsports)",
+          "Fortaleza x América-MG - 20h00 - FHD (Xsports)",
+          "Fortaleza x América-MG - 20h00 - SD (ESPN)",
+          "Fortaleza x América-MG - 20h00 - HD (ESPN)",
+          "Fortaleza x América-MG - 20h00 - FHD (ESPN)"
+        ]
+      }
+    },
+    {
+      "id": "game_argentina_x_argelia_2200",
+      "time": "22:00",
+      "timestamp": "2026-06-16T22:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Argentina",
+      "awayTeam": "Argélia",
+      "title": "Argentina x Argélia",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Argentina",
+        "Argélia",
+        "Argentina x Argélia",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Argentina x Argélia - 22h00 - SD (CazéTV)",
+          "Argentina x Argélia - 22h00 - HD (CazéTV)",
+          "Argentina x Argélia - 22h00 - FHD (CazéTV)"
         ]
       }
     }
