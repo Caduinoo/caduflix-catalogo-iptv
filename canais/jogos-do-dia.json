@@ -1,167 +1,9 @@
 {
-  "generatedAt": "2026-06-17T19:51:54-03:00",
+  "generatedAt": "2026-06-17T22:37:20-03:00",
   "date": "2026-06-17",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
-    {
-      "id": "game_austria_x_jordania_0100",
-      "time": "01:00",
-      "timestamp": "2026-06-17T01:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Áustria",
-      "awayTeam": "Jordânia",
-      "title": "Áustria x Jordânia",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
-          ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Áustria",
-        "Jordânia",
-        "Áustria x Jordânia",
-        "Globo",
-        "Sportv",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Áustria x Jordânia - 01h00 - SD (Globo)",
-          "Áustria x Jordânia - 01h00 - HD (Globo)",
-          "Áustria x Jordânia - 01h00 - FHD (Globo)",
-          "Áustria x Jordânia - 01h00 - SD (Sportv)",
-          "Áustria x Jordânia - 01h00 - HD (Sportv)",
-          "Áustria x Jordânia - 01h00 - FHD (Sportv)",
-          "Áustria x Jordânia - 01h00 - SD (CazéTV)",
-          "Áustria x Jordânia - 01h00 - HD (CazéTV)",
-          "Áustria x Jordânia - 01h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_portugal_x_rd_do_congo_1400",
-      "time": "14:00",
-      "timestamp": "2026-06-17T14:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Portugal",
-      "awayTeam": "RD do Congo",
-      "title": "Portugal x RD do Congo",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Portugal",
-        "RD do Congo",
-        "Portugal x RD do Congo",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Portugal x RD do Congo - 14h00 - SD (CazéTV)",
-          "Portugal x RD do Congo - 14h00 - HD (CazéTV)",
-          "Portugal x RD do Congo - 14h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_inglaterra_x_croacia_1700",
-      "time": "17:00",
-      "timestamp": "2026-06-17T17:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Inglaterra",
-      "awayTeam": "Croácia",
-      "title": "Inglaterra x Croácia",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Inglaterra",
-        "Croácia",
-        "Inglaterra x Croácia",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Inglaterra x Croácia - 17h00 - SD (CazéTV)",
-          "Inglaterra x Croácia - 17h00 - HD (CazéTV)",
-          "Inglaterra x Croácia - 17h00 - FHD (CazéTV)"
-        ]
-      }
-    },
     {
       "id": "game_gana_x_panama_2000",
       "time": "20:00",
@@ -215,9 +57,7 @@
       "title": "Uzbequistão x Colômbia",
       "status": "scheduled",
       "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -225,15 +65,6 @@
         "FHD"
       ],
       "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
         {
           "name": "Sportv",
           "keywords": [
@@ -243,37 +74,20 @@
             "sportv hd",
             "sportv fhd"
           ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
         }
       ],
       "searchKeywords": [
         "Uzbequistão",
         "Colômbia",
         "Uzbequistão x Colômbia",
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Uzbequistão x Colômbia - 23h00 - SD (Globo)",
-          "Uzbequistão x Colômbia - 23h00 - HD (Globo)",
-          "Uzbequistão x Colômbia - 23h00 - FHD (Globo)",
           "Uzbequistão x Colômbia - 23h00 - SD (Sportv)",
           "Uzbequistão x Colômbia - 23h00 - HD (Sportv)",
-          "Uzbequistão x Colômbia - 23h00 - FHD (Sportv)",
-          "Uzbequistão x Colômbia - 23h00 - SD (CazéTV)",
-          "Uzbequistão x Colômbia - 23h00 - HD (CazéTV)",
-          "Uzbequistão x Colômbia - 23h00 - FHD (CazéTV)"
+          "Uzbequistão x Colômbia - 23h00 - FHD (Sportv)"
         ]
       }
     }
