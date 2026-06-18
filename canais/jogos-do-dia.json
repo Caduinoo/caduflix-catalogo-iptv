@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T09:31:45-03:00",
+  "generatedAt": "2026-06-18T13:42:04-03:00",
   "date": "2026-06-18",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
@@ -143,8 +143,7 @@
       "title": "Sport x Atlético-GO",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "availableQualities": [
         "SD",
@@ -161,33 +160,20 @@
             "espn 3",
             "espn 4"
           ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
         }
       ],
       "searchKeywords": [
         "Sport",
         "Atlético-GO",
         "Sport x Atlético-GO",
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
           "Sport x Atlético-GO - 21h00 - SD (ESPN)",
           "Sport x Atlético-GO - 21h00 - HD (ESPN)",
-          "Sport x Atlético-GO - 21h00 - FHD (ESPN)",
-          "Sport x Atlético-GO - 21h00 - SD (Disney+)",
-          "Sport x Atlético-GO - 21h00 - HD (Disney+)",
-          "Sport x Atlético-GO - 21h00 - FHD (Disney+)"
+          "Sport x Atlético-GO - 21h00 - FHD (ESPN)"
         ]
       }
     },
@@ -201,9 +187,7 @@
       "title": "México x Coreia do Sul",
       "status": "scheduled",
       "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -211,15 +195,6 @@
         "FHD"
       ],
       "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
         {
           "name": "Sportv",
           "keywords": [
@@ -229,37 +204,20 @@
             "sportv hd",
             "sportv fhd"
           ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
         }
       ],
       "searchKeywords": [
         "México",
         "Coreia do Sul",
         "México x Coreia do Sul",
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "México x Coreia do Sul - 22h00 - SD (Globo)",
-          "México x Coreia do Sul - 22h00 - HD (Globo)",
-          "México x Coreia do Sul - 22h00 - FHD (Globo)",
           "México x Coreia do Sul - 22h00 - SD (Sportv)",
           "México x Coreia do Sul - 22h00 - HD (Sportv)",
-          "México x Coreia do Sul - 22h00 - FHD (Sportv)",
-          "México x Coreia do Sul - 22h00 - SD (CazéTV)",
-          "México x Coreia do Sul - 22h00 - HD (CazéTV)",
-          "México x Coreia do Sul - 22h00 - FHD (CazéTV)"
+          "México x Coreia do Sul - 22h00 - FHD (Sportv)"
         ]
       }
     }
