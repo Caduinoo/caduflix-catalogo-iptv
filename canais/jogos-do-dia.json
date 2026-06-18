@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-17T22:37:20-03:00",
-  "date": "2026-06-17",
+  "generatedAt": "2026-06-18T09:31:45-03:00",
+  "date": "2026-06-18",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_gana_x_panama_2000",
-      "time": "20:00",
-      "timestamp": "2026-06-17T20:00:00-03:00",
+      "id": "game_tchequia_x_africa_do_sul_1300",
+      "time": "13:00",
+      "timestamp": "2026-06-18T13:00:00-03:00",
       "competition": "",
-      "homeTeam": "Gana",
-      "awayTeam": "Panamá",
-      "title": "Gana x Panamá",
+      "homeTeam": "Tchéquia",
+      "awayTeam": "África do Sul",
+      "title": "Tchéquia x África do Sul",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -33,31 +33,31 @@
         }
       ],
       "searchKeywords": [
-        "Gana",
-        "Panamá",
-        "Gana x Panamá",
+        "Tchéquia",
+        "África do Sul",
+        "Tchéquia x África do Sul",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Gana x Panamá - 20h00 - SD (CazéTV)",
-          "Gana x Panamá - 20h00 - HD (CazéTV)",
-          "Gana x Panamá - 20h00 - FHD (CazéTV)"
+          "Tchéquia x África do Sul - 13h00 - SD (CazéTV)",
+          "Tchéquia x África do Sul - 13h00 - HD (CazéTV)",
+          "Tchéquia x África do Sul - 13h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_uzbequistao_x_colombia_2300",
-      "time": "23:00",
-      "timestamp": "2026-06-17T23:00:00-03:00",
+      "id": "game_suica_x_bosnia_1600",
+      "time": "16:00",
+      "timestamp": "2026-06-18T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "Uzbequistão",
-      "awayTeam": "Colômbia",
-      "title": "Uzbequistão x Colômbia",
+      "homeTeam": "Suíça",
+      "awayTeam": "Bósnia",
+      "title": "Suíça x Bósnia",
       "status": "scheduled",
       "indicatedChannels": [
-        "Sportv"
+        "CazéTV"
       ],
       "availableQualities": [
         "SD",
@@ -65,6 +65,161 @@
         "FHD"
       ],
       "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Suíça",
+        "Bósnia",
+        "Suíça x Bósnia",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Suíça x Bósnia - Herzegovina - 16h00 - SD (CazéTV)",
+          "Suíça x Bósnia - Herzegovina - 16h00 - HD (CazéTV)",
+          "Suíça x Bósnia - Herzegovina - 16h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_canada_x_qatar_1900",
+      "time": "19:00",
+      "timestamp": "2026-06-18T19:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Canadá",
+      "awayTeam": "Qatar",
+      "title": "Canadá x Qatar",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Canadá",
+        "Qatar",
+        "Canadá x Qatar",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Canadá x Qatar - 19h00 - SD (CazéTV)",
+          "Canadá x Qatar - 19h00 - HD (CazéTV)",
+          "Canadá x Qatar - 19h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_sport_x_atletico_go_2100",
+      "time": "21:00",
+      "timestamp": "2026-06-18T21:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Sport",
+      "awayTeam": "Atlético-GO",
+      "title": "Sport x Atlético-GO",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "ESPN",
+        "Disney Plus"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "ESPN",
+          "keywords": [
+            "espn",
+            "espn brasil",
+            "espn 2",
+            "espn 3",
+            "espn 4"
+          ]
+        },
+        {
+          "name": "Disney Plus",
+          "keywords": [
+            "disney plus",
+            "disney+",
+            "star plus",
+            "star+"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Sport",
+        "Atlético-GO",
+        "Sport x Atlético-GO",
+        "ESPN",
+        "Disney Plus"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Sport x Atlético-GO - 21h00 - SD (ESPN)",
+          "Sport x Atlético-GO - 21h00 - HD (ESPN)",
+          "Sport x Atlético-GO - 21h00 - FHD (ESPN)",
+          "Sport x Atlético-GO - 21h00 - SD (Disney+)",
+          "Sport x Atlético-GO - 21h00 - HD (Disney+)",
+          "Sport x Atlético-GO - 21h00 - FHD (Disney+)"
+        ]
+      }
+    },
+    {
+      "id": "game_mexico_x_coreia_do_sul_2200",
+      "time": "22:00",
+      "timestamp": "2026-06-18T22:00:00-03:00",
+      "competition": "",
+      "homeTeam": "México",
+      "awayTeam": "Coreia do Sul",
+      "title": "México x Coreia do Sul",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "Globo",
+        "Sportv",
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "Globo",
+          "keywords": [
+            "globo",
+            "rede globo",
+            "globo sp",
+            "globo rj"
+          ]
+        },
         {
           "name": "Sportv",
           "keywords": [
@@ -74,20 +229,37 @@
             "sportv hd",
             "sportv fhd"
           ]
+        },
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
         }
       ],
       "searchKeywords": [
-        "Uzbequistão",
-        "Colômbia",
-        "Uzbequistão x Colômbia",
-        "Sportv"
+        "México",
+        "Coreia do Sul",
+        "México x Coreia do Sul",
+        "Globo",
+        "Sportv",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Uzbequistão x Colômbia - 23h00 - SD (Sportv)",
-          "Uzbequistão x Colômbia - 23h00 - HD (Sportv)",
-          "Uzbequistão x Colômbia - 23h00 - FHD (Sportv)"
+          "México x Coreia do Sul - 22h00 - SD (Globo)",
+          "México x Coreia do Sul - 22h00 - HD (Globo)",
+          "México x Coreia do Sul - 22h00 - FHD (Globo)",
+          "México x Coreia do Sul - 22h00 - SD (Sportv)",
+          "México x Coreia do Sul - 22h00 - HD (Sportv)",
+          "México x Coreia do Sul - 22h00 - FHD (Sportv)",
+          "México x Coreia do Sul - 22h00 - SD (CazéTV)",
+          "México x Coreia do Sul - 22h00 - HD (CazéTV)",
+          "México x Coreia do Sul - 22h00 - FHD (CazéTV)"
         ]
       }
     }
