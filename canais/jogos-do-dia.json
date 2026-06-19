@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T09:53:48-03:00",
+  "generatedAt": "2026-06-19T13:13:30-03:00",
   "date": "2026-06-19",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
@@ -100,7 +100,7 @@
       "title": "Brasil x Haiti",
       "status": "scheduled",
       "indicatedChannels": [
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -109,12 +109,13 @@
       ],
       "broadcasts": [
         {
-          "name": "CazéTV",
+          "name": "Sportv",
           "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
+            "sportv",
+            "sportv 2",
+            "sportv 3",
+            "sportv hd",
+            "sportv fhd"
           ]
         }
       ],
@@ -122,14 +123,14 @@
         "Brasil",
         "Haiti",
         "Brasil x Haiti",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Brasil x Haiti - 21h30 - SD (CazéTV)",
-          "Brasil x Haiti - 21h30 - HD (CazéTV)",
-          "Brasil x Haiti - 21h30 - FHD (CazéTV)"
+          "Brasil x Haiti - 21h30 - SD (SPORTV)",
+          "Brasil x Haiti - 21h30 - HD (SPORTV)",
+          "Brasil x Haiti - 21h30 - FHD (SPORTV)"
         ]
       }
     }
