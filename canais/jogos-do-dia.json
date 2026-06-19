@@ -1,60 +1,17 @@
 {
-  "generatedAt": "2026-06-18T22:51:29-03:00",
-  "date": "2026-06-18",
+  "generatedAt": "2026-06-19T09:53:48-03:00",
+  "date": "2026-06-19",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_tchequia_x_africa_do_sul_1300",
-      "time": "13:00",
-      "timestamp": "2026-06-18T13:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Tchéquia",
-      "awayTeam": "África do Sul",
-      "title": "Tchéquia x África do Sul",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Tchéquia",
-        "África do Sul",
-        "Tchéquia x África do Sul",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Tchéquia x África do Sul - 13h00 - SD (CazéTV)",
-          "Tchéquia x África do Sul - 13h00 - HD (CazéTV)",
-          "Tchéquia x África do Sul - 13h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_suica_x_bosnia_1600",
+      "id": "game_estados_unidos_x_australia_1600",
       "time": "16:00",
-      "timestamp": "2026-06-18T16:00:00-03:00",
+      "timestamp": "2026-06-19T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "Suíça",
-      "awayTeam": "Bósnia",
-      "title": "Suíça x Bósnia",
+      "homeTeam": "Estados Unidos",
+      "awayTeam": "Austrália",
+      "title": "Estados Unidos x Austrália",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -76,28 +33,28 @@
         }
       ],
       "searchKeywords": [
-        "Suíça",
-        "Bósnia",
-        "Suíça x Bósnia",
+        "Estados Unidos",
+        "Austrália",
+        "Estados Unidos x Austrália",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Suíça x Bósnia - Herzegovina - 16h00 - SD (CazéTV)",
-          "Suíça x Bósnia - Herzegovina - 16h00 - HD (CazéTV)",
-          "Suíça x Bósnia - Herzegovina - 16h00 - FHD (CazéTV)"
+          "Estados Unidos x Austrália - 16h00 - SD (CazéTV)",
+          "Estados Unidos x Austrália - 16h00 - HD (CazéTV)",
+          "Estados Unidos x Austrália - 16h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_canada_x_qatar_1900",
+      "id": "game_escocia_x_marrocos_1900",
       "time": "19:00",
-      "timestamp": "2026-06-18T19:00:00-03:00",
+      "timestamp": "2026-06-19T19:00:00-03:00",
       "competition": "",
-      "homeTeam": "Canadá",
-      "awayTeam": "Qatar",
-      "title": "Canadá x Qatar",
+      "homeTeam": "Escócia",
+      "awayTeam": "Marrocos",
+      "title": "Escócia x Marrocos",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -119,31 +76,31 @@
         }
       ],
       "searchKeywords": [
-        "Canadá",
-        "Qatar",
-        "Canadá x Qatar",
+        "Escócia",
+        "Marrocos",
+        "Escócia x Marrocos",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Canadá x Qatar - 19h00 - SD (CazéTV)",
-          "Canadá x Qatar - 19h00 - HD (CazéTV)",
-          "Canadá x Qatar - 19h00 - FHD (CazéTV)"
+          "Escócia x Marrocos - 19h00 - SD (CazéTV)",
+          "Escócia x Marrocos - 19h00 - HD (CazéTV)",
+          "Escócia x Marrocos - 19h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_sport_x_atletico_go_2100",
-      "time": "21:00",
-      "timestamp": "2026-06-18T21:00:00-03:00",
+      "id": "game_brasil_x_haiti_2130",
+      "time": "21:30",
+      "timestamp": "2026-06-19T21:30:00-03:00",
       "competition": "",
-      "homeTeam": "Sport",
-      "awayTeam": "Atlético-GO",
-      "title": "Sport x Atlético-GO",
+      "homeTeam": "Brasil",
+      "awayTeam": "Haiti",
+      "title": "Brasil x Haiti",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN"
+        "CazéTV"
       ],
       "availableQualities": [
         "SD",
@@ -152,72 +109,27 @@
       ],
       "broadcasts": [
         {
-          "name": "ESPN",
+          "name": "CazéTV",
           "keywords": [
-            "espn",
-            "espn brasil",
-            "espn 2",
-            "espn 3",
-            "espn 4"
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
           ]
         }
       ],
       "searchKeywords": [
-        "Sport",
-        "Atlético-GO",
-        "Sport x Atlético-GO",
-        "ESPN"
+        "Brasil",
+        "Haiti",
+        "Brasil x Haiti",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Sport x Atlético-GO - 21h00 - SD (ESPN)",
-          "Sport x Atlético-GO - 21h00 - HD (ESPN)",
-          "Sport x Atlético-GO - 21h00 - FHD (ESPN)"
-        ]
-      }
-    },
-    {
-      "id": "game_mexico_x_coreia_do_sul_2200",
-      "time": "22:00",
-      "timestamp": "2026-06-18T22:00:00-03:00",
-      "competition": "",
-      "homeTeam": "México",
-      "awayTeam": "Coreia do Sul",
-      "title": "México x Coreia do Sul",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Sportv"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "México",
-        "Coreia do Sul",
-        "México x Coreia do Sul",
-        "Sportv"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "México x Coreia do Sul - 22h00 - SD (Sportv)",
-          "México x Coreia do Sul - 22h00 - HD (Sportv)",
-          "México x Coreia do Sul - 22h00 - FHD (Sportv)"
+          "Brasil x Haiti - 21h30 - SD (CazéTV)",
+          "Brasil x Haiti - 21h30 - HD (CazéTV)",
+          "Brasil x Haiti - 21h30 - FHD (CazéTV)"
         ]
       }
     }
