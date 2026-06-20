@@ -1,81 +1,9 @@
 {
-  "generatedAt": "2026-06-20T08:25:14-03:00",
+  "generatedAt": "2026-06-20T12:09:59-03:00",
   "date": "2026-06-20",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
-    {
-      "id": "game_turquia_x_paraguai_0000",
-      "time": "00:00",
-      "timestamp": "2026-06-20T00:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Turquia",
-      "awayTeam": "Paraguai",
-      "title": "Turquia x Paraguai",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
-          ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Turquia",
-        "Paraguai",
-        "Turquia x Paraguai",
-        "Globo",
-        "Sportv",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Turquia x Paraguai - 00h00 - SD (Globo)",
-          "Turquia x Paraguai - 00h00 - HD (Globo)",
-          "Turquia x Paraguai - 00h00 - FHD (Globo)",
-          "Turquia x Paraguai - 00h00 - SD (Sportv)",
-          "Turquia x Paraguai - 00h00 - HD (Sportv)",
-          "Turquia x Paraguai - 00h00 - FHD (Sportv)",
-          "Turquia x Paraguai - 00h00 - SD (CazéTV)",
-          "Turquia x Paraguai - 00h00 - HD (CazéTV)",
-          "Turquia x Paraguai - 00h00 - FHD (CazéTV)"
-        ]
-      }
-    },
     {
       "id": "game_londrina_x_athletic_1100",
       "time": "11:00",
@@ -86,8 +14,7 @@
       "title": "Londrina x Athletic",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "availableQualities": [
         "SD",
@@ -104,33 +31,20 @@
             "espn 3",
             "espn 4"
           ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
         }
       ],
       "searchKeywords": [
         "Londrina",
         "Athletic",
         "Londrina x Athletic",
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
           "Londrina x Athletic - 11h00 - SD (ESPN)",
           "Londrina x Athletic - 11h00 - HD (ESPN)",
-          "Londrina x Athletic - 11h00 - FHD (ESPN)",
-          "Londrina x Athletic - 11h00 - SD (Disney+)",
-          "Londrina x Athletic - 11h00 - HD (Disney+)",
-          "Londrina x Athletic - 11h00 - FHD (Disney+)"
+          "Londrina x Athletic - 11h00 - FHD (ESPN)"
         ]
       }
     },
