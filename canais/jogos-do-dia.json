@@ -1,81 +1,9 @@
 {
-  "generatedAt": "2026-06-21T08:51:47-03:00",
+  "generatedAt": "2026-06-21T12:15:54-03:00",
   "date": "2026-06-21",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
-    {
-      "id": "game_tunisia_x_japao_0100",
-      "time": "01:00",
-      "timestamp": "2026-06-21T01:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Tunísia",
-      "awayTeam": "Japão",
-      "title": "Tunísia x Japão",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
-          ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Tunísia",
-        "Japão",
-        "Tunísia x Japão",
-        "Globo",
-        "Sportv",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Tunísia x Japão - 01h00 - SD (Globo)",
-          "Tunísia x Japão - 01h00 - HD (Globo)",
-          "Tunísia x Japão - 01h00 - FHD (Globo)",
-          "Tunísia x Japão - 01h00 - SD (Sportv)",
-          "Tunísia x Japão - 01h00 - HD (Sportv)",
-          "Tunísia x Japão - 01h00 - FHD (Sportv)",
-          "Tunísia x Japão - 01h00 - SD (CazéTV)",
-          "Tunísia x Japão - 01h00 - HD (CazéTV)",
-          "Tunísia x Japão - 01h00 - FHD (CazéTV)"
-        ]
-      }
-    },
     {
       "id": "game_avai_x_cuiaba_1100",
       "time": "11:00",
@@ -86,8 +14,7 @@
       "title": "Avaí x Cuiabá",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "availableQualities": [
         "SD",
@@ -104,33 +31,20 @@
             "espn 3",
             "espn 4"
           ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
         }
       ],
       "searchKeywords": [
         "Avaí",
         "Cuiabá",
         "Avaí x Cuiabá",
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
           "Avaí x Cuiabá - 11h00 - SD (ESPN)",
           "Avaí x Cuiabá - 11h00 - HD (ESPN)",
-          "Avaí x Cuiabá - 11h00 - FHD (ESPN)",
-          "Avaí x Cuiabá - 11h00 - SD (Disney+)",
-          "Avaí x Cuiabá - 11h00 - HD (Disney+)",
-          "Avaí x Cuiabá - 11h00 - FHD (Disney+)"
+          "Avaí x Cuiabá - 11h00 - FHD (ESPN)"
         ]
       }
     },
@@ -230,8 +144,7 @@
       "title": "CRB x Fortaleza",
       "status": "scheduled",
       "indicatedChannels": [
-        "SportyNet",
-        "Disney Plus"
+        "SportyNet"
       ],
       "availableQualities": [
         "SD",
@@ -244,33 +157,20 @@
           "keywords": [
             "sportynet"
           ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
         }
       ],
       "searchKeywords": [
         "CRB",
         "Fortaleza",
         "CRB x Fortaleza",
-        "SportyNet",
-        "Disney Plus"
+        "SportyNet"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
           "CRB x Fortaleza - 16h00 - SD (SportyNet)",
           "CRB x Fortaleza - 16h00 - HD (SportyNet)",
-          "CRB x Fortaleza - 16h00 - FHD (SportyNet)",
-          "CRB x Fortaleza - 16h00 - SD (Disney+)",
-          "CRB x Fortaleza - 16h00 - HD (Disney+)",
-          "CRB x Fortaleza - 16h00 - FHD (Disney+)"
+          "CRB x Fortaleza - 16h00 - FHD (SportyNet)"
         ]
       }
     },
@@ -327,12 +227,9 @@
       "title": "Goiás x Operário-PR",
       "status": "scheduled",
       "indicatedChannels": [
-        "Xsports",
-        "SportyNet",
-        "Disney Plus"
+        "Xsports"
       ],
       "availableQualities": [
-        "SD",
         "HD",
         "FHD"
       ],
@@ -342,42 +239,19 @@
           "keywords": [
             "xsports"
           ]
-        },
-        {
-          "name": "SportyNet",
-          "keywords": [
-            "sportynet"
-          ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
         }
       ],
       "searchKeywords": [
         "Goiás",
         "Operário-PR",
         "Goiás x Operário-PR",
-        "Xsports",
-        "SportyNet",
-        "Disney Plus"
+        "Xsports"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
           "Goiás x Operário-PR - 18h30 - HD (Xsports)",
-          "Goiás x Operário-PR - 18h30 - FHD (Xsports)",
-          "Goiás x Operário-PR - 18h30 - SD (SportyNet)",
-          "Goiás x Operário-PR - 18h30 - HD (SportyNet)",
-          "Goiás x Operário-PR - 18h30 - FHD (SportyNet)",
-          "Goiás x Operário-PR - 18h30 - SD (Disney+)",
-          "Goiás x Operário-PR - 18h30 - HD (Disney+)",
-          "Goiás x Operário-PR - 18h30 - FHD (Disney+)"
+          "Goiás x Operário-PR - 18h30 - FHD (Xsports)"
         ]
       }
     },
@@ -434,9 +308,7 @@
       "title": "Nova Zelândia x Egito",
       "status": "scheduled",
       "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -444,15 +316,6 @@
         "FHD"
       ],
       "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
         {
           "name": "Sportv",
           "keywords": [
@@ -462,37 +325,20 @@
             "sportv hd",
             "sportv fhd"
           ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
         }
       ],
       "searchKeywords": [
         "Nova Zelândia",
         "Egito",
         "Nova Zelândia x Egito",
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Nova Zelândia x Egito - 22h00 - SD (Globo)",
-          "Nova Zelândia x Egito - 22h00 - HD (Globo)",
-          "Nova Zelândia x Egito - 22h00 - FHD (Globo)",
           "Nova Zelândia x Egito - 22h00 - SD (Sportv)",
           "Nova Zelândia x Egito - 22h00 - HD (Sportv)",
-          "Nova Zelândia x Egito - 22h00 - FHD (Sportv)",
-          "Nova Zelândia x Egito - 22h00 - SD (CazéTV)",
-          "Nova Zelândia x Egito - 22h00 - HD (CazéTV)",
-          "Nova Zelândia x Egito - 22h00 - FHD (CazéTV)"
+          "Nova Zelândia x Egito - 22h00 - FHD (Sportv)"
         ]
       }
     }
