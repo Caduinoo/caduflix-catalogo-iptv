@@ -1,17 +1,103 @@
 {
-  "generatedAt": "2026-06-22T03:39:57-03:00",
+  "generatedAt": "2026-06-22T11:49:59-03:00",
   "date": "2026-06-22",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_avai_x_cuiaba_1100",
-      "time": "11:00",
-      "timestamp": "2026-06-22T11:00:00-03:00",
+      "id": "game_argentina_x_austria_1400",
+      "time": "14:00",
+      "timestamp": "2026-06-22T14:00:00-03:00",
       "competition": "",
-      "homeTeam": "Avaí",
-      "awayTeam": "Cuiabá",
-      "title": "Avaí x Cuiabá",
+      "homeTeam": "Argentina",
+      "awayTeam": "Áustria",
+      "title": "Argentina x Áustria",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Argentina",
+        "Áustria",
+        "Argentina x Áustria",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Argentina x Áustria - 14h00 - SD (CazéTV)",
+          "Argentina x Áustria - 14h00 - HD (CazéTV)",
+          "Argentina x Áustria - 14h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_franca_x_iraque_1800",
+      "time": "18:00",
+      "timestamp": "2026-06-22T18:00:00-03:00",
+      "competition": "",
+      "homeTeam": "França",
+      "awayTeam": "Iraque",
+      "title": "França x Iraque",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "França",
+        "Iraque",
+        "França x Iraque",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "França x Iraque - 18h00 - SD (CazéTV)",
+          "França x Iraque - 18h00 - HD (CazéTV)",
+          "França x Iraque - 18h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_ponte_preta_x_novorizontino_2000",
+      "time": "20:00",
+      "timestamp": "2026-06-22T20:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Ponte Preta",
+      "awayTeam": "Novorizontino",
+      "title": "Ponte Preta x Novorizontino",
       "status": "scheduled",
       "indicatedChannels": [
         "ESPN"
@@ -34,278 +120,28 @@
         }
       ],
       "searchKeywords": [
-        "Avaí",
-        "Cuiabá",
-        "Avaí x Cuiabá",
+        "Ponte Preta",
+        "Novorizontino",
+        "Ponte Preta x Novorizontino",
         "ESPN"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Avaí x Cuiabá - 11h00 - SD (ESPN)",
-          "Avaí x Cuiabá - 11h00 - HD (ESPN)",
-          "Avaí x Cuiabá - 11h00 - FHD (ESPN)"
+          "Ponte Preta x Novorizontino - 20h00 - SD (ESPN)",
+          "Ponte Preta x Novorizontino - 20h00 - HD (ESPN)",
+          "Ponte Preta x Novorizontino - 20h00 - FHD (ESPN)"
         ]
       }
     },
     {
-      "id": "game_espanha_x_arabia_saudita_1300",
-      "time": "13:00",
-      "timestamp": "2026-06-22T13:00:00-03:00",
+      "id": "game_noruega_x_senegal_2100",
+      "time": "21:00",
+      "timestamp": "2026-06-22T21:00:00-03:00",
       "competition": "",
-      "homeTeam": "Espanha",
-      "awayTeam": "Arábia Saudita",
-      "title": "Espanha x Arábia Saudita",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Espanha",
-        "Arábia Saudita",
-        "Espanha x Arábia Saudita",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Espanha x Arábia Saudita - 13h00 - SD (CazéTV)",
-          "Espanha x Arábia Saudita - 13h00 - HD (CazéTV)",
-          "Espanha x Arábia Saudita - 13h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_belgica_x_ira_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-22T16:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Bélgica",
-      "awayTeam": "Irã",
-      "title": "Bélgica x Irã",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Bélgica",
-        "Irã",
-        "Bélgica x Irã",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Bélgica x Irã - 16h00 - SD (CazéTV)",
-          "Bélgica x Irã - 16h00 - HD (CazéTV)",
-          "Bélgica x Irã - 16h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_crb_x_fortaleza_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-22T16:00:00-03:00",
-      "competition": "",
-      "homeTeam": "CRB",
-      "awayTeam": "Fortaleza",
-      "title": "CRB x Fortaleza",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "SportyNet"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "SportyNet",
-          "keywords": [
-            "sportynet"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "CRB",
-        "Fortaleza",
-        "CRB x Fortaleza",
-        "SportyNet"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "CRB x Fortaleza - 16h00 - SD (SportyNet)",
-          "CRB x Fortaleza - 16h00 - HD (SportyNet)",
-          "CRB x Fortaleza - 16h00 - FHD (SportyNet)"
-        ]
-      }
-    },
-    {
-      "id": "game_sao_bernardo_x_juventude_1700",
-      "time": "17:00",
-      "timestamp": "2026-06-22T17:00:00-03:00",
-      "competition": "",
-      "homeTeam": "São Bernardo",
-      "awayTeam": "Juventude",
-      "title": "São Bernardo x Juventude",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Premiere"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Premiere",
-          "keywords": [
-            "premiere",
-            "premiere clubes",
-            "premiere hd",
-            "premiere fhd"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "São Bernardo",
-        "Juventude",
-        "São Bernardo x Juventude",
-        "Premiere"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "São Bernardo x Juventude - 17h00 - SD (Premiere)",
-          "São Bernardo x Juventude - 17h00 - HD (Premiere)",
-          "São Bernardo x Juventude - 17h00 - FHD (Premiere)"
-        ]
-      }
-    },
-    {
-      "id": "game_goias_x_operario_pr_1830",
-      "time": "18:30",
-      "timestamp": "2026-06-22T18:30:00-03:00",
-      "competition": "",
-      "homeTeam": "Goiás",
-      "awayTeam": "Operário-PR",
-      "title": "Goiás x Operário-PR",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Xsports"
-      ],
-      "availableQualities": [
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Xsports",
-          "keywords": [
-            "xsports"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Goiás",
-        "Operário-PR",
-        "Goiás x Operário-PR",
-        "Xsports"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Goiás x Operário-PR - 18h30 - HD (Xsports)",
-          "Goiás x Operário-PR - 18h30 - FHD (Xsports)"
-        ]
-      }
-    },
-    {
-      "id": "game_uruguai_x_cabo_verde_1900",
-      "time": "19:00",
-      "timestamp": "2026-06-22T19:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Uruguai",
-      "awayTeam": "Cabo Verde",
-      "title": "Uruguai x Cabo Verde",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Uruguai",
-        "Cabo Verde",
-        "Uruguai x Cabo Verde",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Uruguai x Cabo Verde - 19h00 - SD (CazéTV)",
-          "Uruguai x Cabo Verde - 19h00 - HD (CazéTV)",
-          "Uruguai x Cabo Verde - 19h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_nova_zelandia_x_egito_2200",
-      "time": "22:00",
-      "timestamp": "2026-06-22T22:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Nova Zelândia",
-      "awayTeam": "Egito",
-      "title": "Nova Zelândia x Egito",
+      "homeTeam": "Noruega",
+      "awayTeam": "Senegal",
+      "title": "Noruega x Senegal",
       "status": "scheduled",
       "indicatedChannels": [
         "Sportv"
@@ -328,17 +164,17 @@
         }
       ],
       "searchKeywords": [
-        "Nova Zelândia",
-        "Egito",
-        "Nova Zelândia x Egito",
+        "Noruega",
+        "Senegal",
+        "Noruega x Senegal",
         "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Nova Zelândia x Egito - 22h00 - SD (Sportv)",
-          "Nova Zelândia x Egito - 22h00 - HD (Sportv)",
-          "Nova Zelândia x Egito - 22h00 - FHD (Sportv)"
+          "Noruega x Senegal - 21h00 - SD (Sportv)",
+          "Noruega x Senegal - 21h00 - HD (Sportv)",
+          "Noruega x Senegal - 21h00 - FHD (Sportv)"
         ]
       }
     }
