@@ -1,167 +1,9 @@
 {
-  "generatedAt": "2026-06-23T19:21:56-03:00",
+  "generatedAt": "2026-06-23T21:07:43-03:00",
   "date": "2026-06-23",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
-    {
-      "id": "game_jordania_x_argelia_0000",
-      "time": "00:00",
-      "timestamp": "2026-06-23T00:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Jordânia",
-      "awayTeam": "Argélia",
-      "title": "Jordânia x Argélia",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
-          ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Jordânia",
-        "Argélia",
-        "Jordânia x Argélia",
-        "Globo",
-        "Sportv",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Jordânia x Argélia - 00h00 - SD (Globo)",
-          "Jordânia x Argélia - 00h00 - HD (Globo)",
-          "Jordânia x Argélia - 00h00 - FHD (Globo)",
-          "Jordânia x Argélia - 00h00 - SD (Sportv)",
-          "Jordânia x Argélia - 00h00 - HD (Sportv)",
-          "Jordânia x Argélia - 00h00 - FHD (Sportv)",
-          "Jordânia x Argélia - 00h00 - SD (CazéTV)",
-          "Jordânia x Argélia - 00h00 - HD (CazéTV)",
-          "Jordânia x Argélia - 00h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_portugal_x_uzbequistao_1400",
-      "time": "14:00",
-      "timestamp": "2026-06-23T14:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Portugal",
-      "awayTeam": "Uzbequistão",
-      "title": "Portugal x Uzbequistão",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Portugal",
-        "Uzbequistão",
-        "Portugal x Uzbequistão",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Portugal x Uzbequistão - 14h00 - SD (CazéTV)",
-          "Portugal x Uzbequistão - 14h00 - HD (CazéTV)",
-          "Portugal x Uzbequistão - 14h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_inglaterra_x_gana_1700",
-      "time": "17:00",
-      "timestamp": "2026-06-23T17:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Inglaterra",
-      "awayTeam": "Gana",
-      "title": "Inglaterra x Gana",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Inglaterra",
-        "Gana",
-        "Inglaterra x Gana",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Inglaterra x Gana - 17h00 - SD (CazéTV)",
-          "Inglaterra x Gana - 17h00 - HD (CazéTV)",
-          "Inglaterra x Gana - 17h00 - FHD (CazéTV)"
-        ]
-      }
-    },
     {
       "id": "game_panama_x_croacia_2000",
       "time": "20:00",
@@ -215,8 +57,7 @@
       "title": "América-MG x Criciúma",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "availableQualities": [
         "SD",
@@ -233,33 +74,20 @@
             "espn 3",
             "espn 4"
           ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
         }
       ],
       "searchKeywords": [
         "América-MG",
         "Criciúma",
         "América-MG x Criciúma",
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
           "América-MG x Criciúma - 20h00 - SD (ESPN)",
           "América-MG x Criciúma - 20h00 - HD (ESPN)",
-          "América-MG x Criciúma - 20h00 - FHD (ESPN)",
-          "América-MG x Criciúma - 20h00 - SD (Disney+)",
-          "América-MG x Criciúma - 20h00 - HD (Disney+)",
-          "América-MG x Criciúma - 20h00 - FHD (Disney+)"
+          "América-MG x Criciúma - 20h00 - FHD (ESPN)"
         ]
       }
     },
@@ -273,9 +101,7 @@
       "title": "Colômbia x RD Congo",
       "status": "scheduled",
       "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -283,15 +109,6 @@
         "FHD"
       ],
       "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
         {
           "name": "Sportv",
           "keywords": [
@@ -301,37 +118,20 @@
             "sportv hd",
             "sportv fhd"
           ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
         }
       ],
       "searchKeywords": [
         "Colômbia",
         "RD Congo",
         "Colômbia x RD Congo",
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Colômbia x RD Congo - 23h00 - SD (Globo)",
-          "Colômbia x RD Congo - 23h00 - HD (Globo)",
-          "Colômbia x RD Congo - 23h00 - FHD (Globo)",
           "Colômbia x RD Congo - 23h00 - SD (Sportv)",
           "Colômbia x RD Congo - 23h00 - HD (Sportv)",
-          "Colômbia x RD Congo - 23h00 - FHD (Sportv)",
-          "Colômbia x RD Congo - 23h00 - SD (CazéTV)",
-          "Colômbia x RD Congo - 23h00 - HD (CazéTV)",
-          "Colômbia x RD Congo - 23h00 - FHD (CazéTV)"
+          "Colômbia x RD Congo - 23h00 - FHD (Sportv)"
         ]
       }
     }
