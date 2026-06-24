@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-24T02:10:43-03:00",
+  "generatedAt": "2026-06-24T08:53:11-03:00",
   "date": "2026-06-24",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_panama_x_croacia_2000",
-      "time": "20:00",
-      "timestamp": "2026-06-24T20:00:00-03:00",
+      "id": "game_suica_x_canada_1600",
+      "time": "16:00",
+      "timestamp": "2026-06-24T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "Panamá",
-      "awayTeam": "Croácia",
-      "title": "Panamá x Croácia",
+      "homeTeam": "Suíça",
+      "awayTeam": "Canadá",
+      "title": "Suíça x Canadá",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -33,31 +33,31 @@
         }
       ],
       "searchKeywords": [
-        "Panamá",
-        "Croácia",
-        "Panamá x Croácia",
+        "Suíça",
+        "Canadá",
+        "Suíça x Canadá",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Panamá x Croácia - 20h00 - SD (CazéTV)",
-          "Panamá x Croácia - 20h00 - HD (CazéTV)",
-          "Panamá x Croácia - 20h00 - FHD (CazéTV)"
+          "Suíça x Canadá - 16h00 - SD (CazéTV)",
+          "Suíça x Canadá - 16h00 - HD (CazéTV)",
+          "Suíça x Canadá - 16h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_america_mg_x_criciuma_2000",
-      "time": "20:00",
-      "timestamp": "2026-06-24T20:00:00-03:00",
+      "id": "game_herzegovina_x_qatar_1600",
+      "time": "16:00",
+      "timestamp": "2026-06-24T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "América-MG",
-      "awayTeam": "Criciúma",
-      "title": "América-MG x Criciúma",
+      "homeTeam": "Herzegovina",
+      "awayTeam": "Qatar",
+      "title": "Herzegovina x Qatar",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN"
+        "CazéTV"
       ],
       "availableQualities": [
         "SD",
@@ -66,42 +66,41 @@
       ],
       "broadcasts": [
         {
-          "name": "ESPN",
+          "name": "CazéTV",
           "keywords": [
-            "espn",
-            "espn brasil",
-            "espn 2",
-            "espn 3",
-            "espn 4"
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
           ]
         }
       ],
       "searchKeywords": [
-        "América-MG",
-        "Criciúma",
-        "América-MG x Criciúma",
-        "ESPN"
+        "Herzegovina",
+        "Qatar",
+        "Herzegovina x Qatar",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "América-MG x Criciúma - 20h00 - SD (ESPN)",
-          "América-MG x Criciúma - 20h00 - HD (ESPN)",
-          "América-MG x Criciúma - 20h00 - FHD (ESPN)"
+          "Bósnia - Herzegovina x Qatar - 16h00 - SD (CazéTV)",
+          "Bósnia - Herzegovina x Qatar - 16h00 - HD (CazéTV)",
+          "Bósnia - Herzegovina x Qatar - 16h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_colombia_x_rd_congo_2300",
-      "time": "23:00",
-      "timestamp": "2026-06-24T23:00:00-03:00",
+      "id": "game_escocia_x_brasil_1900",
+      "time": "19:00",
+      "timestamp": "2026-06-24T19:00:00-03:00",
       "competition": "",
-      "homeTeam": "Colômbia",
-      "awayTeam": "RD Congo",
-      "title": "Colômbia x RD Congo",
+      "homeTeam": "Escócia",
+      "awayTeam": "Brasil",
+      "title": "Escócia x Brasil",
       "status": "scheduled",
       "indicatedChannels": [
-        "Sportv"
+        "CazéTV"
       ],
       "availableQualities": [
         "SD",
@@ -110,28 +109,170 @@
       ],
       "broadcasts": [
         {
-          "name": "Sportv",
+          "name": "CazéTV",
           "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
           ]
         }
       ],
       "searchKeywords": [
-        "Colômbia",
-        "RD Congo",
-        "Colômbia x RD Congo",
-        "Sportv"
+        "Escócia",
+        "Brasil",
+        "Escócia x Brasil",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Colômbia x RD Congo - 23h00 - SD (Sportv)",
-          "Colômbia x RD Congo - 23h00 - HD (Sportv)",
-          "Colômbia x RD Congo - 23h00 - FHD (Sportv)"
+          "Escócia x Brasil - 19h00 - SD (CazéTV)",
+          "Escócia x Brasil - 19h00 - HD (CazéTV)",
+          "Escócia x Brasil - 19h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_marrocos_x_haiti_1900",
+      "time": "19:00",
+      "timestamp": "2026-06-24T19:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Marrocos",
+      "awayTeam": "Haiti",
+      "title": "Marrocos x Haiti",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Marrocos",
+        "Haiti",
+        "Marrocos x Haiti",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Marrocos x Haiti - 19h00 - SD (CazéTV)",
+          "Marrocos x Haiti - 19h00 - HD (CazéTV)",
+          "Marrocos x Haiti - 19h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_tchequia_x_mexico_2200",
+      "time": "22:00",
+      "timestamp": "2026-06-24T22:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Tchéquia",
+      "awayTeam": "México",
+      "title": "Tchéquia x México",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "Globo",
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "Globo",
+          "keywords": [
+            "globo",
+            "rede globo",
+            "globo sp",
+            "globo rj"
+          ]
+        },
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Tchéquia",
+        "México",
+        "Tchéquia x México",
+        "Globo",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Tchéquia x México - 22h00 - SD (Globo)",
+          "Tchéquia x México - 22h00 - HD (Globo)",
+          "Tchéquia x México - 22h00 - FHD (Globo)",
+          "Tchéquia x México - 22h00 - SD (CazéTV)",
+          "Tchéquia x México - 22h00 - HD (CazéTV)",
+          "Tchéquia x México - 22h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_africa_do_sul_x_coreia_do_sul_2200",
+      "time": "22:00",
+      "timestamp": "2026-06-24T22:00:00-03:00",
+      "competition": "",
+      "homeTeam": "África do Sul",
+      "awayTeam": "Coreia do Sul",
+      "title": "África do Sul x Coreia do Sul",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "África do Sul",
+        "Coreia do Sul",
+        "África do Sul x Coreia do Sul",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "África do Sul x Coreia do Sul - 22h00 - SD (CazéTV)",
+          "África do Sul x Coreia do Sul - 22h00 - HD (CazéTV)",
+          "África do Sul x Coreia do Sul - 22h00 - FHD (CazéTV)"
         ]
       }
     }
