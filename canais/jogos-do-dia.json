@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T08:53:11-03:00",
+  "generatedAt": "2026-06-24T12:38:04-03:00",
   "date": "2026-06-24",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
@@ -100,7 +100,7 @@
       "title": "Escócia x Brasil",
       "status": "scheduled",
       "indicatedChannels": [
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -109,12 +109,13 @@
       ],
       "broadcasts": [
         {
-          "name": "CazéTV",
+          "name": "Sportv",
           "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
+            "sportv",
+            "sportv 2",
+            "sportv 3",
+            "sportv hd",
+            "sportv fhd"
           ]
         }
       ],
@@ -122,14 +123,14 @@
         "Escócia",
         "Brasil",
         "Escócia x Brasil",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Escócia x Brasil - 19h00 - SD (CazéTV)",
-          "Escócia x Brasil - 19h00 - HD (CazéTV)",
-          "Escócia x Brasil - 19h00 - FHD (CazéTV)"
+          "Escócia x Brasil - 19h00 - SD (SPORTV)",
+          "Escócia x Brasil - 19h00 - HD (SPORTV)",
+          "Escócia x Brasil - 19h00 - FHD (SPORTV)"
         ]
       }
     },
@@ -186,8 +187,7 @@
       "title": "Tchéquia x México",
       "status": "scheduled",
       "indicatedChannels": [
-        "Globo",
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -196,21 +196,13 @@
       ],
       "broadcasts": [
         {
-          "name": "Globo",
+          "name": "Sportv",
           "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
+            "sportv",
+            "sportv 2",
+            "sportv 3",
+            "sportv hd",
+            "sportv fhd"
           ]
         }
       ],
@@ -218,18 +210,14 @@
         "Tchéquia",
         "México",
         "Tchéquia x México",
-        "Globo",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Tchéquia x México - 22h00 - SD (Globo)",
-          "Tchéquia x México - 22h00 - HD (Globo)",
-          "Tchéquia x México - 22h00 - FHD (Globo)",
-          "Tchéquia x México - 22h00 - SD (CazéTV)",
-          "Tchéquia x México - 22h00 - HD (CazéTV)",
-          "Tchéquia x México - 22h00 - FHD (CazéTV)"
+          "Tchéquia x México - 22h00 - SD (SPORTV)",
+          "Tchéquia x México - 22h00 - HD (SPORTV)",
+          "Tchéquia x México - 22h00 - FHD (SPORTV)"
         ]
       }
     },
