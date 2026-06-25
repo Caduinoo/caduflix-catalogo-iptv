@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-06-25T02:14:37-03:00",
+  "generatedAt": "2026-06-25T08:48:41-03:00",
   "date": "2026-06-25",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_suica_x_canada_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-25T16:00:00-03:00",
+      "id": "game_equador_x_alemanha_1700",
+      "time": "17:00",
+      "timestamp": "2026-06-25T17:00:00-03:00",
       "competition": "",
-      "homeTeam": "Suíça",
-      "awayTeam": "Canadá",
-      "title": "Suíça x Canadá",
+      "homeTeam": "Equador",
+      "awayTeam": "Alemanha",
+      "title": "Equador x Alemanha",
       "status": "scheduled",
       "indicatedChannels": [
+        "Globo",
         "CazéTV"
       ],
       "availableQualities": [
@@ -22,6 +23,15 @@
         "FHD"
       ],
       "broadcasts": [
+        {
+          "name": "Globo",
+          "keywords": [
+            "globo",
+            "rede globo",
+            "globo sp",
+            "globo rj"
+          ]
+        },
         {
           "name": "CazéTV",
           "keywords": [
@@ -33,74 +43,36 @@
         }
       ],
       "searchKeywords": [
-        "Suíça",
-        "Canadá",
-        "Suíça x Canadá",
+        "Equador",
+        "Alemanha",
+        "Equador x Alemanha",
+        "Globo",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Suíça x Canadá - 16h00 - SD (CazéTV)",
-          "Suíça x Canadá - 16h00 - HD (CazéTV)",
-          "Suíça x Canadá - 16h00 - FHD (CazéTV)"
+          "Equador x Alemanha - 17h00 - SD (Globo)",
+          "Equador x Alemanha - 17h00 - HD (Globo)",
+          "Equador x Alemanha - 17h00 - FHD (Globo)",
+          "Equador x Alemanha - 17h00 - SD (CazéTV)",
+          "Equador x Alemanha - 17h00 - HD (CazéTV)",
+          "Equador x Alemanha - 17h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_herzegovina_x_qatar_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-25T16:00:00-03:00",
+      "id": "game_curacao_x_costa_do_marfim_1700",
+      "time": "17:00",
+      "timestamp": "2026-06-25T17:00:00-03:00",
       "competition": "",
-      "homeTeam": "Herzegovina",
-      "awayTeam": "Qatar",
-      "title": "Herzegovina x Qatar",
+      "homeTeam": "Curaçao",
+      "awayTeam": "Costa do Marfim",
+      "title": "Curaçao x Costa do Marfim",
       "status": "scheduled",
       "indicatedChannels": [
+        "Sportv",
         "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Herzegovina",
-        "Qatar",
-        "Herzegovina x Qatar",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Bósnia - Herzegovina x Qatar - 16h00 - SD (CazéTV)",
-          "Bósnia - Herzegovina x Qatar - 16h00 - HD (CazéTV)",
-          "Bósnia - Herzegovina x Qatar - 16h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_escocia_x_brasil_1900",
-      "time": "19:00",
-      "timestamp": "2026-06-25T19:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Escócia",
-      "awayTeam": "Brasil",
-      "title": "Escócia x Brasil",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -117,31 +89,44 @@
             "sportv hd",
             "sportv fhd"
           ]
+        },
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
         }
       ],
       "searchKeywords": [
-        "Escócia",
-        "Brasil",
-        "Escócia x Brasil",
-        "Sportv"
+        "Curaçao",
+        "Costa do Marfim",
+        "Curaçao x Costa do Marfim",
+        "Sportv",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Escócia x Brasil - 19h00 - SD (SPORTV)",
-          "Escócia x Brasil - 19h00 - HD (SPORTV)",
-          "Escócia x Brasil - 19h00 - FHD (SPORTV)"
+          "Curaçao x Costa do Marfim - 17h00 - SD (Sportv 2)",
+          "Curaçao x Costa do Marfim - 17h00 - HD (Sportv 2)",
+          "Curaçao x Costa do Marfim - 17h00 - FHD (Sportv 2)",
+          "Curaçao x Costa do Marfim - 17h00 - SD (CazéTV)",
+          "Curaçao x Costa do Marfim - 17h00 - HD (CazéTV)",
+          "Curaçao x Costa do Marfim - 17h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_marrocos_x_haiti_1900",
-      "time": "19:00",
-      "timestamp": "2026-06-25T19:00:00-03:00",
+      "id": "game_tunisia_x_holanda_2000",
+      "time": "20:00",
+      "timestamp": "2026-06-25T20:00:00-03:00",
       "competition": "",
-      "homeTeam": "Marrocos",
-      "awayTeam": "Haiti",
-      "title": "Marrocos x Haiti",
+      "homeTeam": "Tunísia",
+      "awayTeam": "Holanda",
+      "title": "Tunísia x Holanda",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -163,31 +148,32 @@
         }
       ],
       "searchKeywords": [
-        "Marrocos",
-        "Haiti",
-        "Marrocos x Haiti",
+        "Tunísia",
+        "Holanda",
+        "Tunísia x Holanda",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Marrocos x Haiti - 19h00 - SD (CazéTV)",
-          "Marrocos x Haiti - 19h00 - HD (CazéTV)",
-          "Marrocos x Haiti - 19h00 - FHD (CazéTV)"
+          "Tunísia x Holanda - 20h00 - SD (CazéTV)",
+          "Tunísia x Holanda - 20h00 - HD (CazéTV)",
+          "Tunísia x Holanda - 20h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_tchequia_x_mexico_2200",
-      "time": "22:00",
-      "timestamp": "2026-06-25T22:00:00-03:00",
+      "id": "game_japao_x_suecia_2000",
+      "time": "20:00",
+      "timestamp": "2026-06-25T20:00:00-03:00",
       "competition": "",
-      "homeTeam": "Tchéquia",
-      "awayTeam": "México",
-      "title": "Tchéquia x México",
+      "homeTeam": "Japão",
+      "awayTeam": "Suécia",
+      "title": "Japão x Suécia",
       "status": "scheduled",
       "indicatedChannels": [
-        "Sportv"
+        "Sportv",
+        "CazéTV"
       ],
       "availableQualities": [
         "SD",
@@ -204,31 +190,174 @@
             "sportv hd",
             "sportv fhd"
           ]
+        },
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
         }
       ],
       "searchKeywords": [
-        "Tchéquia",
-        "México",
-        "Tchéquia x México",
-        "Sportv"
+        "Japão",
+        "Suécia",
+        "Japão x Suécia",
+        "Sportv",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Tchéquia x México - 22h00 - SD (SPORTV)",
-          "Tchéquia x México - 22h00 - HD (SPORTV)",
-          "Tchéquia x México - 22h00 - FHD (SPORTV)"
+          "Japão x Suécia - 20h00 - SD (Sportv)",
+          "Japão x Suécia - 20h00 - HD (Sportv)",
+          "Japão x Suécia - 20h00 - FHD (Sportv)",
+          "Japão x Suécia - 20h00 - SD (CazéTV)",
+          "Japão x Suécia - 20h00 - HD (CazéTV)",
+          "Japão x Suécia - 20h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_africa_do_sul_x_coreia_do_sul_2200",
-      "time": "22:00",
-      "timestamp": "2026-06-25T22:00:00-03:00",
+      "id": "game_cuiaba_x_londrina_2030",
+      "time": "20:30",
+      "timestamp": "2026-06-25T20:30:00-03:00",
       "competition": "",
-      "homeTeam": "África do Sul",
-      "awayTeam": "Coreia do Sul",
-      "title": "África do Sul x Coreia do Sul",
+      "homeTeam": "Cuiabá",
+      "awayTeam": "Londrina",
+      "title": "Cuiabá x Londrina",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "ESPN",
+        "Disney Plus"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "ESPN",
+          "keywords": [
+            "espn",
+            "espn brasil",
+            "espn 2",
+            "espn 3",
+            "espn 4"
+          ]
+        },
+        {
+          "name": "Disney Plus",
+          "keywords": [
+            "disney plus",
+            "disney+",
+            "star plus",
+            "star+"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Cuiabá",
+        "Londrina",
+        "Cuiabá x Londrina",
+        "ESPN",
+        "Disney Plus"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Cuiabá x Londrina - 20h30 - SD (ESPN)",
+          "Cuiabá x Londrina - 20h30 - HD (ESPN)",
+          "Cuiabá x Londrina - 20h30 - FHD (ESPN)",
+          "Cuiabá x Londrina - 20h30 - SD (Disney+)",
+          "Cuiabá x Londrina - 20h30 - HD (Disney+)",
+          "Cuiabá x Londrina - 20h30 - FHD (Disney+)"
+        ]
+      }
+    },
+    {
+      "id": "game_turquia_x_estados_unidos_2300",
+      "time": "23:00",
+      "timestamp": "2026-06-25T23:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Turquia",
+      "awayTeam": "Estados Unidos",
+      "title": "Turquia x Estados Unidos",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "Globo",
+        "Sportv",
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "Globo",
+          "keywords": [
+            "globo",
+            "rede globo",
+            "globo sp",
+            "globo rj"
+          ]
+        },
+        {
+          "name": "Sportv",
+          "keywords": [
+            "sportv",
+            "sportv 2",
+            "sportv 3",
+            "sportv hd",
+            "sportv fhd"
+          ]
+        },
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Turquia",
+        "Estados Unidos",
+        "Turquia x Estados Unidos",
+        "Globo",
+        "Sportv",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Turquia x Estados Unidos - 23h00 - SD (Globo)",
+          "Turquia x Estados Unidos - 23h00 - HD (Globo)",
+          "Turquia x Estados Unidos - 23h00 - FHD (Globo)",
+          "Turquia x Estados Unidos - 23h00 - SD (Sportv)",
+          "Turquia x Estados Unidos - 23h00 - HD (Sportv)",
+          "Turquia x Estados Unidos - 23h00 - FHD (Sportv)",
+          "Turquia x Estados Unidos - 23h00 - SD (CazéTV)",
+          "Turquia x Estados Unidos - 23h00 - HD (CazéTV)",
+          "Turquia x Estados Unidos - 23h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_paraguai_x_australia_2300",
+      "time": "23:00",
+      "timestamp": "2026-06-25T23:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Paraguai",
+      "awayTeam": "Austrália",
+      "title": "Paraguai x Austrália",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -250,17 +379,17 @@
         }
       ],
       "searchKeywords": [
-        "África do Sul",
-        "Coreia do Sul",
-        "África do Sul x Coreia do Sul",
+        "Paraguai",
+        "Austrália",
+        "Paraguai x Austrália",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "África do Sul x Coreia do Sul - 22h00 - SD (CazéTV)",
-          "África do Sul x Coreia do Sul - 22h00 - HD (CazéTV)",
-          "África do Sul x Coreia do Sul - 22h00 - FHD (CazéTV)"
+          "Paraguai x Austrália - 23h00 - SD (CazéTV)",
+          "Paraguai x Austrália - 23h00 - HD (CazéTV)",
+          "Paraguai x Austrália - 23h00 - FHD (CazéTV)"
         ]
       }
     }
