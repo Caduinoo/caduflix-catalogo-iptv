@@ -1,96 +1,9 @@
 {
-  "generatedAt": "2026-06-27T09:16:19-03:00",
+  "generatedAt": "2026-06-27T11:53:42-03:00",
   "date": "2026-06-27",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
-    {
-      "id": "game_nova_zelandia_x_belgica_0000",
-      "time": "00:00",
-      "timestamp": "2026-06-27T00:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Nova Zelândia",
-      "awayTeam": "Bélgica",
-      "title": "Nova Zelândia x Bélgica",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Nova Zelândia",
-        "Bélgica",
-        "Nova Zelândia x Bélgica",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Nova Zelândia x Bélgica - 00h00 - SD (CazéTV)",
-          "Nova Zelândia x Bélgica - 00h00 - HD (CazéTV)",
-          "Nova Zelândia x Bélgica - 00h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_egito_x_ira_0000",
-      "time": "00:00",
-      "timestamp": "2026-06-27T00:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Egito",
-      "awayTeam": "Irã",
-      "title": "Egito x Irã",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Sportv"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Egito",
-        "Irã",
-        "Egito x Irã",
-        "Sportv"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Egito x Irã - 00h00 - SD (Sportv)",
-          "Egito x Irã - 00h00 - HD (Sportv)",
-          "Egito x Irã - 00h00 - FHD (Sportv)"
-        ]
-      }
-    },
     {
       "id": "game_operario_pr_x_america_mg_1100",
       "time": "11:00",
