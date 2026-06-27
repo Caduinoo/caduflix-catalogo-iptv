@@ -1,61 +1,17 @@
 {
-  "generatedAt": "2026-06-27T02:02:46-03:00",
+  "generatedAt": "2026-06-27T08:02:48-03:00",
   "date": "2026-06-27",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_noruega_x_franca_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-27T16:00:00-03:00",
+      "id": "game_nova_zelandia_x_belgica_0000",
+      "time": "00:00",
+      "timestamp": "2026-06-27T00:00:00-03:00",
       "competition": "",
-      "homeTeam": "Noruega",
-      "awayTeam": "França",
-      "title": "Noruega x França",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Sportv"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Noruega",
-        "França",
-        "Noruega x França",
-        "Sportv"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Noruega x França - 16h00 - SD (Sportv)",
-          "Noruega x França - 16h00 - HD (Sportv)",
-          "Noruega x França - 16h00 - FHD (Sportv)"
-        ]
-      }
-    },
-    {
-      "id": "game_senegal_x_iraque_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-27T16:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Senegal",
-      "awayTeam": "Iraque",
-      "title": "Senegal x Iraque",
+      "homeTeam": "Nova Zelândia",
+      "awayTeam": "Bélgica",
+      "title": "Nova Zelândia x Bélgica",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -77,66 +33,201 @@
         }
       ],
       "searchKeywords": [
-        "Senegal",
-        "Iraque",
-        "Senegal x Iraque",
+        "Nova Zelândia",
+        "Bélgica",
+        "Nova Zelândia x Bélgica",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Senegal x Iraque - 16h00 - SD (CazéTV)",
-          "Senegal x Iraque - 16h00 - HD (CazéTV)",
-          "Senegal x Iraque - 16h00 - FHD (CazéTV)"
+          "Nova Zelândia x Bélgica - 00h00 - SD (CazéTV)",
+          "Nova Zelândia x Bélgica - 00h00 - HD (CazéTV)",
+          "Nova Zelândia x Bélgica - 00h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_novorizontino_x_vila_nova_1900",
-      "time": "19:00",
-      "timestamp": "2026-06-27T19:00:00-03:00",
+      "id": "game_egito_x_ira_0000",
+      "time": "00:00",
+      "timestamp": "2026-06-27T00:00:00-03:00",
       "competition": "",
-      "homeTeam": "Novorizontino",
-      "awayTeam": "Vila Nova",
-      "title": "Novorizontino x Vila Nova",
+      "homeTeam": "Egito",
+      "awayTeam": "Irã",
+      "title": "Egito x Irã",
       "status": "scheduled",
       "indicatedChannels": [
-        "Xsports"
+        "Globo",
+        "Sportv",
+        "CazéTV"
       ],
       "availableQualities": [
+        "SD",
         "HD",
         "FHD"
       ],
       "broadcasts": [
         {
-          "name": "Xsports",
+          "name": "Globo",
           "keywords": [
-            "xsports"
+            "globo",
+            "rede globo",
+            "globo sp",
+            "globo rj"
+          ]
+        },
+        {
+          "name": "Sportv",
+          "keywords": [
+            "sportv",
+            "sportv 2",
+            "sportv 3",
+            "sportv hd",
+            "sportv fhd"
+          ]
+        },
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
           ]
         }
       ],
       "searchKeywords": [
-        "Novorizontino",
-        "Vila Nova",
-        "Novorizontino x Vila Nova",
-        "Xsports"
+        "Egito",
+        "Irã",
+        "Egito x Irã",
+        "Globo",
+        "Sportv",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Novorizontino x Vila Nova - 19h00 - HD (Xsports)",
-          "Novorizontino x Vila Nova - 19h00 - FHD (Xsports)"
+          "Egito x Irã - 00h00 - SD (Globo)",
+          "Egito x Irã - 00h00 - HD (Globo)",
+          "Egito x Irã - 00h00 - FHD (Globo)",
+          "Egito x Irã - 00h00 - SD (Sportv)",
+          "Egito x Irã - 00h00 - HD (Sportv)",
+          "Egito x Irã - 00h00 - FHD (Sportv)",
+          "Egito x Irã - 00h00 - SD (CazéTV)",
+          "Egito x Irã - 00h00 - HD (CazéTV)",
+          "Egito x Irã - 00h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_uruguai_x_espanha_2100",
-      "time": "21:00",
-      "timestamp": "2026-06-27T21:00:00-03:00",
+      "id": "game_operario_pr_x_america_mg_1100",
+      "time": "11:00",
+      "timestamp": "2026-06-27T11:00:00-03:00",
       "competition": "",
-      "homeTeam": "Uruguai",
-      "awayTeam": "Espanha",
-      "title": "Uruguai x Espanha",
+      "homeTeam": "Operário-PR",
+      "awayTeam": "América-MG",
+      "title": "Operário-PR x América-MG",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "ESPN",
+        "Disney Plus"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "ESPN",
+          "keywords": [
+            "espn",
+            "espn brasil",
+            "espn 2",
+            "espn 3",
+            "espn 4"
+          ]
+        },
+        {
+          "name": "Disney Plus",
+          "keywords": [
+            "disney plus",
+            "disney+",
+            "star plus",
+            "star+"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Operário-PR",
+        "América-MG",
+        "Operário-PR x América-MG",
+        "ESPN",
+        "Disney Plus"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Operário-PR x América-MG - 11h00 - SD (ESPN)",
+          "Operário-PR x América-MG - 11h00 - HD (ESPN)",
+          "Operário-PR x América-MG - 11h00 - FHD (ESPN)",
+          "Operário-PR x América-MG - 11h00 - SD (Disney+)",
+          "Operário-PR x América-MG - 11h00 - HD (Disney+)",
+          "Operário-PR x América-MG - 11h00 - FHD (Disney+)"
+        ]
+      }
+    },
+    {
+      "id": "game_criciuma_x_sao_bernardo_1600",
+      "time": "16:00",
+      "timestamp": "2026-06-27T16:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Criciúma",
+      "awayTeam": "São Bernardo",
+      "title": "Criciúma x São Bernardo",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "Disney Plus"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "Disney Plus",
+          "keywords": [
+            "disney plus",
+            "disney+",
+            "star plus",
+            "star+"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Criciúma",
+        "São Bernardo",
+        "Criciúma x São Bernardo",
+        "Disney Plus"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Criciúma x São Bernardo - 16h00 - SD (Disney+)",
+          "Criciúma x São Bernardo - 16h00 - HD (Disney+)",
+          "Criciúma x São Bernardo - 16h00 - FHD (Disney+)"
+        ]
+      }
+    },
+    {
+      "id": "game_panama_x_inglaterra_1800",
+      "time": "18:00",
+      "timestamp": "2026-06-27T18:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Panamá",
+      "awayTeam": "Inglaterra",
+      "title": "Panamá x Inglaterra",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -158,31 +249,31 @@
         }
       ],
       "searchKeywords": [
-        "Uruguai",
-        "Espanha",
-        "Uruguai x Espanha",
+        "Panamá",
+        "Inglaterra",
+        "Panamá x Inglaterra",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Uruguai x Espanha - 21h00 - SD (CazéTV)",
-          "Uruguai x Espanha - 21h00 - HD (CazéTV)",
-          "Uruguai x Espanha - 21h00 - FHD (CazéTV)"
+          "Panamá x Inglaterra - 18h00 - SD (CazéTV)",
+          "Panamá x Inglaterra - 18h00 - HD (CazéTV)",
+          "Panamá x Inglaterra - 18h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_cabo_verde_x_arabia_saudita_2100",
-      "time": "21:00",
-      "timestamp": "2026-06-27T21:00:00-03:00",
+      "id": "game_croacia_x_gana_1800",
+      "time": "18:00",
+      "timestamp": "2026-06-27T18:00:00-03:00",
       "competition": "",
-      "homeTeam": "Cabo Verde",
-      "awayTeam": "Arábia Saudita",
-      "title": "Cabo Verde x Arábia Saudita",
+      "homeTeam": "Croácia",
+      "awayTeam": "Gana",
+      "title": "Croácia x Gana",
       "status": "scheduled",
       "indicatedChannels": [
-        "Sportv"
+        "CazéTV"
       ],
       "availableQualities": [
         "SD",
@@ -190,6 +281,189 @@
         "FHD"
       ],
       "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Croácia",
+        "Gana",
+        "Croácia x Gana",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Croácia x Gana - 18h00 - SD (CazéTV)",
+          "Croácia x Gana - 18h00 - HD (CazéTV)",
+          "Croácia x Gana - 18h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_colombia_x_portugal_2030",
+      "time": "20:30",
+      "timestamp": "2026-06-27T20:30:00-03:00",
+      "competition": "",
+      "homeTeam": "Colômbia",
+      "awayTeam": "Portugal",
+      "title": "Colômbia x Portugal",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Colômbia",
+        "Portugal",
+        "Colômbia x Portugal",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Colômbia x Portugal - 20h30 - SD (CazéTV)",
+          "Colômbia x Portugal - 20h30 - HD (CazéTV)",
+          "Colômbia x Portugal - 20h30 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_rd_congo_x_uzbequistao_2030",
+      "time": "20:30",
+      "timestamp": "2026-06-27T20:30:00-03:00",
+      "competition": "",
+      "homeTeam": "RD Congo",
+      "awayTeam": "Uzbequistão",
+      "title": "RD Congo x Uzbequistão",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "RD Congo",
+        "Uzbequistão",
+        "RD Congo x Uzbequistão",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "RD Congo x Uzbequistão - 20h30 - SD (CazéTV)",
+          "RD Congo x Uzbequistão - 20h30 - HD (CazéTV)",
+          "RD Congo x Uzbequistão - 20h30 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_jordania_x_argentina_2300",
+      "time": "23:00",
+      "timestamp": "2026-06-27T23:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Jordânia",
+      "awayTeam": "Argentina",
+      "title": "Jordânia x Argentina",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Jordânia",
+        "Argentina",
+        "Jordânia x Argentina",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Jordânia x Argentina - 23h00 - SD (CazéTV)",
+          "Jordânia x Argentina - 23h00 - HD (CazéTV)",
+          "Jordânia x Argentina - 23h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_argelia_x_austria_2300",
+      "time": "23:00",
+      "timestamp": "2026-06-27T23:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Argélia",
+      "awayTeam": "Áustria",
+      "title": "Argélia x Áustria",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "Globo",
+        "Sportv",
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "Globo",
+          "keywords": [
+            "globo",
+            "rede globo",
+            "globo sp",
+            "globo rj"
+          ]
+        },
         {
           "name": "Sportv",
           "keywords": [
@@ -199,20 +473,37 @@
             "sportv hd",
             "sportv fhd"
           ]
+        },
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
         }
       ],
       "searchKeywords": [
-        "Cabo Verde",
-        "Arábia Saudita",
-        "Cabo Verde x Arábia Saudita",
-        "Sportv"
+        "Argélia",
+        "Áustria",
+        "Argélia x Áustria",
+        "Globo",
+        "Sportv",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Cabo Verde x Arábia Saudita - 21h00 - SD (Sportv 2)",
-          "Cabo Verde x Arábia Saudita - 21h00 - HD (Sportv 2)",
-          "Cabo Verde x Arábia Saudita - 21h00 - FHD (Sportv 2)"
+          "Argélia x Áustria - 23h00 - SD (Globo)",
+          "Argélia x Áustria - 23h00 - HD (Globo)",
+          "Argélia x Áustria - 23h00 - FHD (Globo)",
+          "Argélia x Áustria - 23h00 - SD (Sportv)",
+          "Argélia x Áustria - 23h00 - HD (Sportv)",
+          "Argélia x Áustria - 23h00 - FHD (Sportv)",
+          "Argélia x Áustria - 23h00 - SD (CazéTV)",
+          "Argélia x Áustria - 23h00 - HD (CazéTV)",
+          "Argélia x Áustria - 23h00 - FHD (CazéTV)"
         ]
       }
     }
