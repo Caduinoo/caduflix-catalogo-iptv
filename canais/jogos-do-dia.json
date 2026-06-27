@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T08:02:48-03:00",
+  "generatedAt": "2026-06-27T09:16:19-03:00",
   "date": "2026-06-27",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
@@ -57,9 +57,7 @@
       "title": "Egito x Irã",
       "status": "scheduled",
       "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -67,15 +65,6 @@
         "FHD"
       ],
       "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
         {
           "name": "Sportv",
           "keywords": [
@@ -85,37 +74,20 @@
             "sportv hd",
             "sportv fhd"
           ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
         }
       ],
       "searchKeywords": [
         "Egito",
         "Irã",
         "Egito x Irã",
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Egito x Irã - 00h00 - SD (Globo)",
-          "Egito x Irã - 00h00 - HD (Globo)",
-          "Egito x Irã - 00h00 - FHD (Globo)",
           "Egito x Irã - 00h00 - SD (Sportv)",
           "Egito x Irã - 00h00 - HD (Sportv)",
-          "Egito x Irã - 00h00 - FHD (Sportv)",
-          "Egito x Irã - 00h00 - SD (CazéTV)",
-          "Egito x Irã - 00h00 - HD (CazéTV)",
-          "Egito x Irã - 00h00 - FHD (CazéTV)"
+          "Egito x Irã - 00h00 - FHD (Sportv)"
         ]
       }
     },
@@ -129,8 +101,7 @@
       "title": "Operário-PR x América-MG",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "availableQualities": [
         "SD",
@@ -147,33 +118,20 @@
             "espn 3",
             "espn 4"
           ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
         }
       ],
       "searchKeywords": [
         "Operário-PR",
         "América-MG",
         "Operário-PR x América-MG",
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
           "Operário-PR x América-MG - 11h00 - SD (ESPN)",
           "Operário-PR x América-MG - 11h00 - HD (ESPN)",
-          "Operário-PR x América-MG - 11h00 - FHD (ESPN)",
-          "Operário-PR x América-MG - 11h00 - SD (Disney+)",
-          "Operário-PR x América-MG - 11h00 - HD (Disney+)",
-          "Operário-PR x América-MG - 11h00 - FHD (Disney+)"
+          "Operário-PR x América-MG - 11h00 - FHD (ESPN)"
         ]
       }
     },
@@ -445,9 +403,7 @@
       "title": "Argélia x Áustria",
       "status": "scheduled",
       "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -455,15 +411,6 @@
         "FHD"
       ],
       "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
         {
           "name": "Sportv",
           "keywords": [
@@ -473,37 +420,20 @@
             "sportv hd",
             "sportv fhd"
           ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
         }
       ],
       "searchKeywords": [
         "Argélia",
         "Áustria",
         "Argélia x Áustria",
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Argélia x Áustria - 23h00 - SD (Globo)",
-          "Argélia x Áustria - 23h00 - HD (Globo)",
-          "Argélia x Áustria - 23h00 - FHD (Globo)",
           "Argélia x Áustria - 23h00 - SD (Sportv)",
           "Argélia x Áustria - 23h00 - HD (Sportv)",
-          "Argélia x Áustria - 23h00 - FHD (Sportv)",
-          "Argélia x Áustria - 23h00 - SD (CazéTV)",
-          "Argélia x Áustria - 23h00 - HD (CazéTV)",
-          "Argélia x Áustria - 23h00 - FHD (CazéTV)"
+          "Argélia x Áustria - 23h00 - FHD (Sportv)"
         ]
       }
     }
