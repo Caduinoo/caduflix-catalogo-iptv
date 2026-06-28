@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T08:15:47-03:00",
+  "generatedAt": "2026-06-28T11:55:09-03:00",
   "date": "2026-06-28",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
@@ -48,122 +48,6 @@
       }
     },
     {
-      "id": "game_athletic_x_avai_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-28T16:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Athletic",
-      "awayTeam": "Avaí",
-      "title": "Athletic x Avaí",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "ESPN",
-        "Disney Plus"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "ESPN",
-          "keywords": [
-            "espn",
-            "espn brasil",
-            "espn 2",
-            "espn 3",
-            "espn 4"
-          ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Athletic",
-        "Avaí",
-        "Athletic x Avaí",
-        "ESPN",
-        "Disney Plus"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Athletic x Avaí - 16h00 - SD (ESPN)",
-          "Athletic x Avaí - 16h00 - HD (ESPN)",
-          "Athletic x Avaí - 16h00 - FHD (ESPN)",
-          "Athletic x Avaí - 16h00 - SD (Disney+)",
-          "Athletic x Avaí - 16h00 - HD (Disney+)",
-          "Athletic x Avaí - 16h00 - FHD (Disney+)"
-        ]
-      }
-    },
-    {
-      "id": "game_atletico_go_x_ponte_preta_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-28T16:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Atlético-GO",
-      "awayTeam": "Ponte Preta",
-      "title": "Atlético-GO x Ponte Preta",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "ESPN",
-        "Disney Plus"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "ESPN",
-          "keywords": [
-            "espn",
-            "espn brasil",
-            "espn 2",
-            "espn 3",
-            "espn 4"
-          ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Atlético-GO",
-        "Ponte Preta",
-        "Atlético-GO x Ponte Preta",
-        "ESPN",
-        "Disney Plus"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Atlético-GO x Ponte Preta - 16h00 - SD (ESPN)",
-          "Atlético-GO x Ponte Preta - 16h00 - HD (ESPN)",
-          "Atlético-GO x Ponte Preta - 16h00 - FHD (ESPN)",
-          "Atlético-GO x Ponte Preta - 16h00 - SD (Disney+)",
-          "Atlético-GO x Ponte Preta - 16h00 - HD (Disney+)",
-          "Atlético-GO x Ponte Preta - 16h00 - FHD (Disney+)"
-        ]
-      }
-    },
-    {
       "id": "game_juventude_x_ceara_1600",
       "time": "16:00",
       "timestamp": "2026-06-28T16:00:00-03:00",
@@ -173,8 +57,7 @@
       "title": "Juventude x Ceará",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "availableQualities": [
         "SD",
@@ -191,33 +74,20 @@
             "espn 3",
             "espn 4"
           ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
         }
       ],
       "searchKeywords": [
         "Juventude",
         "Ceará",
         "Juventude x Ceará",
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
           "Juventude x Ceará - 16h00 - SD (ESPN)",
           "Juventude x Ceará - 16h00 - HD (ESPN)",
-          "Juventude x Ceará - 16h00 - FHD (ESPN)",
-          "Juventude x Ceará - 16h00 - SD (Disney+)",
-          "Juventude x Ceará - 16h00 - HD (Disney+)",
-          "Juventude x Ceará - 16h00 - FHD (Disney+)"
+          "Juventude x Ceará - 16h00 - FHD (ESPN)"
         ]
       }
     },
@@ -231,8 +101,6 @@
       "title": "Fortaleza x Sport",
       "status": "scheduled",
       "indicatedChannels": [
-        "Xsports",
-        "SportyNet",
         "Disney Plus"
       ],
       "availableQualities": [
@@ -241,18 +109,6 @@
         "FHD"
       ],
       "broadcasts": [
-        {
-          "name": "Xsports",
-          "keywords": [
-            "xsports"
-          ]
-        },
-        {
-          "name": "SportyNet",
-          "keywords": [
-            "sportynet"
-          ]
-        },
         {
           "name": "Disney Plus",
           "keywords": [
@@ -267,18 +123,11 @@
         "Fortaleza",
         "Sport",
         "Fortaleza x Sport",
-        "Xsports",
-        "SportyNet",
         "Disney Plus"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Fortaleza x Sport - 18h30 - HD (Xsports)",
-          "Fortaleza x Sport - 18h30 - FHD (Xsports)",
-          "Fortaleza x Sport - 18h30 - SD (SportyNet)",
-          "Fortaleza x Sport - 18h30 - HD (SportyNet)",
-          "Fortaleza x Sport - 18h30 - FHD (SportyNet)",
           "Fortaleza x Sport - 18h30 - SD (Disney+)",
           "Fortaleza x Sport - 18h30 - HD (Disney+)",
           "Fortaleza x Sport - 18h30 - FHD (Disney+)"
