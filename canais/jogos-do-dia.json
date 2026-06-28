@@ -1,20 +1,64 @@
 {
-  "generatedAt": "2026-06-28T02:43:21-03:00",
+  "generatedAt": "2026-06-28T08:15:47-03:00",
   "date": "2026-06-28",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_operario_pr_x_america_mg_1100",
-      "time": "11:00",
-      "timestamp": "2026-06-28T11:00:00-03:00",
+      "id": "game_africa_do_sul_x_canada_1600",
+      "time": "16:00",
+      "timestamp": "2026-06-28T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "Operário-PR",
-      "awayTeam": "América-MG",
-      "title": "Operário-PR x América-MG",
+      "homeTeam": "África do Sul",
+      "awayTeam": "Canadá",
+      "title": "África do Sul x Canadá",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN"
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "África do Sul",
+        "Canadá",
+        "África do Sul x Canadá",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "África do Sul x Canadá - 16h00 - SD (CazéTV)",
+          "África do Sul x Canadá - 16h00 - HD (CazéTV)",
+          "África do Sul x Canadá - 16h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_athletic_x_avai_1600",
+      "time": "16:00",
+      "timestamp": "2026-06-28T16:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Athletic",
+      "awayTeam": "Avaí",
+      "title": "Athletic x Avaí",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "ESPN",
+        "Disney Plus"
       ],
       "availableQualities": [
         "SD",
@@ -31,41 +75,7 @@
             "espn 3",
             "espn 4"
           ]
-        }
-      ],
-      "searchKeywords": [
-        "Operário-PR",
-        "América-MG",
-        "Operário-PR x América-MG",
-        "ESPN"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Operário-PR x América-MG - 11h00 - SD (ESPN)",
-          "Operário-PR x América-MG - 11h00 - HD (ESPN)",
-          "Operário-PR x América-MG - 11h00 - FHD (ESPN)"
-        ]
-      }
-    },
-    {
-      "id": "game_criciuma_x_sao_bernardo_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-28T16:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Criciúma",
-      "awayTeam": "São Bernardo",
-      "title": "Criciúma x São Bernardo",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Disney Plus"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
+        },
         {
           "name": "Disney Plus",
           "keywords": [
@@ -77,31 +87,36 @@
         }
       ],
       "searchKeywords": [
-        "Criciúma",
-        "São Bernardo",
-        "Criciúma x São Bernardo",
+        "Athletic",
+        "Avaí",
+        "Athletic x Avaí",
+        "ESPN",
         "Disney Plus"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Criciúma x São Bernardo - 16h00 - SD (Disney+)",
-          "Criciúma x São Bernardo - 16h00 - HD (Disney+)",
-          "Criciúma x São Bernardo - 16h00 - FHD (Disney+)"
+          "Athletic x Avaí - 16h00 - SD (ESPN)",
+          "Athletic x Avaí - 16h00 - HD (ESPN)",
+          "Athletic x Avaí - 16h00 - FHD (ESPN)",
+          "Athletic x Avaí - 16h00 - SD (Disney+)",
+          "Athletic x Avaí - 16h00 - HD (Disney+)",
+          "Athletic x Avaí - 16h00 - FHD (Disney+)"
         ]
       }
     },
     {
-      "id": "game_panama_x_inglaterra_1800",
-      "time": "18:00",
-      "timestamp": "2026-06-28T18:00:00-03:00",
+      "id": "game_atletico_go_x_ponte_preta_1600",
+      "time": "16:00",
+      "timestamp": "2026-06-28T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "Panamá",
-      "awayTeam": "Inglaterra",
-      "title": "Panamá x Inglaterra",
+      "homeTeam": "Atlético-GO",
+      "awayTeam": "Ponte Preta",
+      "title": "Atlético-GO x Ponte Preta",
       "status": "scheduled",
       "indicatedChannels": [
-        "CazéTV"
+        "ESPN",
+        "Disney Plus"
       ],
       "availableQualities": [
         "SD",
@@ -110,41 +125,56 @@
       ],
       "broadcasts": [
         {
-          "name": "CazéTV",
+          "name": "ESPN",
           "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
+            "espn",
+            "espn brasil",
+            "espn 2",
+            "espn 3",
+            "espn 4"
+          ]
+        },
+        {
+          "name": "Disney Plus",
+          "keywords": [
+            "disney plus",
+            "disney+",
+            "star plus",
+            "star+"
           ]
         }
       ],
       "searchKeywords": [
-        "Panamá",
-        "Inglaterra",
-        "Panamá x Inglaterra",
-        "CazéTV"
+        "Atlético-GO",
+        "Ponte Preta",
+        "Atlético-GO x Ponte Preta",
+        "ESPN",
+        "Disney Plus"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Panamá x Inglaterra - 18h00 - SD (CazéTV)",
-          "Panamá x Inglaterra - 18h00 - HD (CazéTV)",
-          "Panamá x Inglaterra - 18h00 - FHD (CazéTV)"
+          "Atlético-GO x Ponte Preta - 16h00 - SD (ESPN)",
+          "Atlético-GO x Ponte Preta - 16h00 - HD (ESPN)",
+          "Atlético-GO x Ponte Preta - 16h00 - FHD (ESPN)",
+          "Atlético-GO x Ponte Preta - 16h00 - SD (Disney+)",
+          "Atlético-GO x Ponte Preta - 16h00 - HD (Disney+)",
+          "Atlético-GO x Ponte Preta - 16h00 - FHD (Disney+)"
         ]
       }
     },
     {
-      "id": "game_croacia_x_gana_1800",
-      "time": "18:00",
-      "timestamp": "2026-06-28T18:00:00-03:00",
+      "id": "game_juventude_x_ceara_1600",
+      "time": "16:00",
+      "timestamp": "2026-06-28T16:00:00-03:00",
       "competition": "",
-      "homeTeam": "Croácia",
-      "awayTeam": "Gana",
-      "title": "Croácia x Gana",
+      "homeTeam": "Juventude",
+      "awayTeam": "Ceará",
+      "title": "Juventude x Ceará",
       "status": "scheduled",
       "indicatedChannels": [
-        "CazéTV"
+        "ESPN",
+        "Disney Plus"
       ],
       "availableQualities": [
         "SD",
@@ -153,41 +183,57 @@
       ],
       "broadcasts": [
         {
-          "name": "CazéTV",
+          "name": "ESPN",
           "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
+            "espn",
+            "espn brasil",
+            "espn 2",
+            "espn 3",
+            "espn 4"
+          ]
+        },
+        {
+          "name": "Disney Plus",
+          "keywords": [
+            "disney plus",
+            "disney+",
+            "star plus",
+            "star+"
           ]
         }
       ],
       "searchKeywords": [
-        "Croácia",
-        "Gana",
-        "Croácia x Gana",
-        "CazéTV"
+        "Juventude",
+        "Ceará",
+        "Juventude x Ceará",
+        "ESPN",
+        "Disney Plus"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Croácia x Gana - 18h00 - SD (CazéTV)",
-          "Croácia x Gana - 18h00 - HD (CazéTV)",
-          "Croácia x Gana - 18h00 - FHD (CazéTV)"
+          "Juventude x Ceará - 16h00 - SD (ESPN)",
+          "Juventude x Ceará - 16h00 - HD (ESPN)",
+          "Juventude x Ceará - 16h00 - FHD (ESPN)",
+          "Juventude x Ceará - 16h00 - SD (Disney+)",
+          "Juventude x Ceará - 16h00 - HD (Disney+)",
+          "Juventude x Ceará - 16h00 - FHD (Disney+)"
         ]
       }
     },
     {
-      "id": "game_colombia_x_portugal_2030",
-      "time": "20:30",
-      "timestamp": "2026-06-28T20:30:00-03:00",
+      "id": "game_fortaleza_x_sport_1830",
+      "time": "18:30",
+      "timestamp": "2026-06-28T18:30:00-03:00",
       "competition": "",
-      "homeTeam": "Colômbia",
-      "awayTeam": "Portugal",
-      "title": "Colômbia x Portugal",
+      "homeTeam": "Fortaleza",
+      "awayTeam": "Sport",
+      "title": "Fortaleza x Sport",
       "status": "scheduled",
       "indicatedChannels": [
-        "CazéTV"
+        "Xsports",
+        "SportyNet",
+        "Disney Plus"
       ],
       "availableQualities": [
         "SD",
@@ -196,41 +242,60 @@
       ],
       "broadcasts": [
         {
-          "name": "CazéTV",
+          "name": "Xsports",
           "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
+            "xsports"
+          ]
+        },
+        {
+          "name": "SportyNet",
+          "keywords": [
+            "sportynet"
+          ]
+        },
+        {
+          "name": "Disney Plus",
+          "keywords": [
+            "disney plus",
+            "disney+",
+            "star plus",
+            "star+"
           ]
         }
       ],
       "searchKeywords": [
-        "Colômbia",
-        "Portugal",
-        "Colômbia x Portugal",
-        "CazéTV"
+        "Fortaleza",
+        "Sport",
+        "Fortaleza x Sport",
+        "Xsports",
+        "SportyNet",
+        "Disney Plus"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Colômbia x Portugal - 20h30 - SD (CazéTV)",
-          "Colômbia x Portugal - 20h30 - HD (CazéTV)",
-          "Colômbia x Portugal - 20h30 - FHD (CazéTV)"
+          "Fortaleza x Sport - 18h30 - HD (Xsports)",
+          "Fortaleza x Sport - 18h30 - FHD (Xsports)",
+          "Fortaleza x Sport - 18h30 - SD (SportyNet)",
+          "Fortaleza x Sport - 18h30 - HD (SportyNet)",
+          "Fortaleza x Sport - 18h30 - FHD (SportyNet)",
+          "Fortaleza x Sport - 18h30 - SD (Disney+)",
+          "Fortaleza x Sport - 18h30 - HD (Disney+)",
+          "Fortaleza x Sport - 18h30 - FHD (Disney+)"
         ]
       }
     },
     {
-      "id": "game_rd_congo_x_uzbequistao_2030",
-      "time": "20:30",
-      "timestamp": "2026-06-28T20:30:00-03:00",
+      "id": "game_nautico_x_goias_1830",
+      "time": "18:30",
+      "timestamp": "2026-06-28T18:30:00-03:00",
       "competition": "",
-      "homeTeam": "RD Congo",
-      "awayTeam": "Uzbequistão",
-      "title": "RD Congo x Uzbequistão",
+      "homeTeam": "Náutico",
+      "awayTeam": "Goiás",
+      "title": "Náutico x Goiás",
       "status": "scheduled",
       "indicatedChannels": [
-        "CazéTV"
+        "Premiere"
       ],
       "availableQualities": [
         "SD",
@@ -239,114 +304,27 @@
       ],
       "broadcasts": [
         {
-          "name": "CazéTV",
+          "name": "Premiere",
           "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
+            "premiere",
+            "premiere clubes",
+            "premiere hd",
+            "premiere fhd"
           ]
         }
       ],
       "searchKeywords": [
-        "RD Congo",
-        "Uzbequistão",
-        "RD Congo x Uzbequistão",
-        "CazéTV"
+        "Náutico",
+        "Goiás",
+        "Náutico x Goiás",
+        "Premiere"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "RD Congo x Uzbequistão - 20h30 - SD (CazéTV)",
-          "RD Congo x Uzbequistão - 20h30 - HD (CazéTV)",
-          "RD Congo x Uzbequistão - 20h30 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_jordania_x_argentina_2300",
-      "time": "23:00",
-      "timestamp": "2026-06-28T23:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Jordânia",
-      "awayTeam": "Argentina",
-      "title": "Jordânia x Argentina",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "CazéTV"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Jordânia",
-        "Argentina",
-        "Jordânia x Argentina",
-        "CazéTV"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Jordânia x Argentina - 23h00 - SD (CazéTV)",
-          "Jordânia x Argentina - 23h00 - HD (CazéTV)",
-          "Jordânia x Argentina - 23h00 - FHD (CazéTV)"
-        ]
-      }
-    },
-    {
-      "id": "game_argelia_x_austria_2300",
-      "time": "23:00",
-      "timestamp": "2026-06-28T23:00:00-03:00",
-      "competition": "",
-      "homeTeam": "Argélia",
-      "awayTeam": "Áustria",
-      "title": "Argélia x Áustria",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Sportv"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Sportv",
-          "keywords": [
-            "sportv",
-            "sportv 2",
-            "sportv 3",
-            "sportv hd",
-            "sportv fhd"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Argélia",
-        "Áustria",
-        "Argélia x Áustria",
-        "Sportv"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Argélia x Áustria - 23h00 - SD (Sportv)",
-          "Argélia x Áustria - 23h00 - HD (Sportv)",
-          "Argélia x Áustria - 23h00 - FHD (Sportv)"
+          "Náutico x Goiás - 18h30 - SD (Premiere)",
+          "Náutico x Goiás - 18h30 - HD (Premiere)",
+          "Náutico x Goiás - 18h30 - FHD (Premiere)"
         ]
       }
     }
