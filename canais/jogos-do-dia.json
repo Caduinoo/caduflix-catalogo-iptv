@@ -1,17 +1,47 @@
 {
-  "generatedAt": "2026-06-29T03:04:08-03:00",
+  "generatedAt": "2026-06-29T10:14:24-03:00",
   "date": "2026-06-29",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_africa_do_sul_x_canada_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-29T16:00:00-03:00",
+      "id": "game_brasil_x_japao_1400",
+      "time": "14:00",
+      "timestamp": "2026-06-29T14:00:00-03:00",
       "competition": "",
-      "homeTeam": "África do Sul",
-      "awayTeam": "Canadá",
-      "title": "África do Sul x Canadá",
+      "homeTeam": "Brasil",
+      "awayTeam": "Japão",
+      "title": "Brasil x Japão",
+      "status": "scheduled",
+      "indicatedChannels": [],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [],
+      "searchKeywords": [
+        "Brasil",
+        "Japão",
+        "Brasil x Japão"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Brasil x Japão - 14h00 - SD SPORTV",
+          "Brasil x Japão - 14h00 - HD SPORTV",
+          "Brasil x Japão - 14h00 - FHD SPORTV"
+        ]
+      }
+    },
+    {
+      "id": "game_alemanha_x_paraguai_1730",
+      "time": "17:30",
+      "timestamp": "2026-06-29T17:30:00-03:00",
+      "competition": "",
+      "homeTeam": "Alemanha",
+      "awayTeam": "Paraguai",
+      "title": "Alemanha x Paraguai",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -33,31 +63,31 @@
         }
       ],
       "searchKeywords": [
-        "África do Sul",
-        "Canadá",
-        "África do Sul x Canadá",
+        "Alemanha",
+        "Paraguai",
+        "Alemanha x Paraguai",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "África do Sul x Canadá - 16h00 - SD (CazéTV)",
-          "África do Sul x Canadá - 16h00 - HD (CazéTV)",
-          "África do Sul x Canadá - 16h00 - FHD (CazéTV)"
+          "Alemanha x Paraguai - 17h30 - SD (CazéTV)",
+          "Alemanha x Paraguai - 17h30 - HD (CazéTV)",
+          "Alemanha x Paraguai - 17h30 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_juventude_x_ceara_1600",
-      "time": "16:00",
-      "timestamp": "2026-06-29T16:00:00-03:00",
+      "id": "game_holanda_x_marrocos_2200",
+      "time": "22:00",
+      "timestamp": "2026-06-29T22:00:00-03:00",
       "competition": "",
-      "homeTeam": "Juventude",
-      "awayTeam": "Ceará",
-      "title": "Juventude x Ceará",
+      "homeTeam": "Holanda",
+      "awayTeam": "Marrocos",
+      "title": "Holanda x Marrocos",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN"
+        "CazéTV"
       ],
       "availableQualities": [
         "SD",
@@ -66,114 +96,27 @@
       ],
       "broadcasts": [
         {
-          "name": "ESPN",
+          "name": "CazéTV",
           "keywords": [
-            "espn",
-            "espn brasil",
-            "espn 2",
-            "espn 3",
-            "espn 4"
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
           ]
         }
       ],
       "searchKeywords": [
-        "Juventude",
-        "Ceará",
-        "Juventude x Ceará",
-        "ESPN"
+        "Holanda",
+        "Marrocos",
+        "Holanda x Marrocos",
+        "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Juventude x Ceará - 16h00 - SD (ESPN)",
-          "Juventude x Ceará - 16h00 - HD (ESPN)",
-          "Juventude x Ceará - 16h00 - FHD (ESPN)"
-        ]
-      }
-    },
-    {
-      "id": "game_fortaleza_x_sport_1830",
-      "time": "18:30",
-      "timestamp": "2026-06-29T18:30:00-03:00",
-      "competition": "",
-      "homeTeam": "Fortaleza",
-      "awayTeam": "Sport",
-      "title": "Fortaleza x Sport",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Disney Plus"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Fortaleza",
-        "Sport",
-        "Fortaleza x Sport",
-        "Disney Plus"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Fortaleza x Sport - 18h30 - SD (Disney+)",
-          "Fortaleza x Sport - 18h30 - HD (Disney+)",
-          "Fortaleza x Sport - 18h30 - FHD (Disney+)"
-        ]
-      }
-    },
-    {
-      "id": "game_nautico_x_goias_1830",
-      "time": "18:30",
-      "timestamp": "2026-06-29T18:30:00-03:00",
-      "competition": "",
-      "homeTeam": "Náutico",
-      "awayTeam": "Goiás",
-      "title": "Náutico x Goiás",
-      "status": "scheduled",
-      "indicatedChannels": [
-        "Premiere"
-      ],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [
-        {
-          "name": "Premiere",
-          "keywords": [
-            "premiere",
-            "premiere clubes",
-            "premiere hd",
-            "premiere fhd"
-          ]
-        }
-      ],
-      "searchKeywords": [
-        "Náutico",
-        "Goiás",
-        "Náutico x Goiás",
-        "Premiere"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Náutico x Goiás - 18h30 - SD (Premiere)",
-          "Náutico x Goiás - 18h30 - HD (Premiere)",
-          "Náutico x Goiás - 18h30 - FHD (Premiere)"
+          "Holanda x Marrocos - 22h00 - SD (CazéTV)",
+          "Holanda x Marrocos - 22h00 - HD (CazéTV)",
+          "Holanda x Marrocos - 22h00 - FHD (CazéTV)"
         ]
       }
     }
