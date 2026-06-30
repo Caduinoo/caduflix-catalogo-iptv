@@ -1,47 +1,17 @@
 {
-  "generatedAt": "2026-06-30T02:16:07-03:00",
+  "generatedAt": "2026-06-30T08:49:36-03:00",
   "date": "2026-06-30",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
   "items": [
     {
-      "id": "game_brasil_x_japao_1400",
+      "id": "game_costa_do_marfim_x_noruega_1400",
       "time": "14:00",
       "timestamp": "2026-06-30T14:00:00-03:00",
       "competition": "",
-      "homeTeam": "Brasil",
-      "awayTeam": "Japão",
-      "title": "Brasil x Japão",
-      "status": "scheduled",
-      "indicatedChannels": [],
-      "availableQualities": [
-        "SD",
-        "HD",
-        "FHD"
-      ],
-      "broadcasts": [],
-      "searchKeywords": [
-        "Brasil",
-        "Japão",
-        "Brasil x Japão"
-      ],
-      "sourceMeta": {
-        "provider": "pixsuper",
-        "rawNames": [
-          "Brasil x Japão - 14h00 - SD SPORTV",
-          "Brasil x Japão - 14h00 - HD SPORTV",
-          "Brasil x Japão - 14h00 - FHD SPORTV"
-        ]
-      }
-    },
-    {
-      "id": "game_alemanha_x_paraguai_1730",
-      "time": "17:30",
-      "timestamp": "2026-06-30T17:30:00-03:00",
-      "competition": "",
-      "homeTeam": "Alemanha",
-      "awayTeam": "Paraguai",
-      "title": "Alemanha x Paraguai",
+      "homeTeam": "Costa do Marfim",
+      "awayTeam": "Noruega",
+      "title": "Costa do Marfim x Noruega",
       "status": "scheduled",
       "indicatedChannels": [
         "CazéTV"
@@ -63,30 +33,133 @@
         }
       ],
       "searchKeywords": [
-        "Alemanha",
-        "Paraguai",
-        "Alemanha x Paraguai",
+        "Costa do Marfim",
+        "Noruega",
+        "Costa do Marfim x Noruega",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Alemanha x Paraguai - 17h30 - SD (CazéTV)",
-          "Alemanha x Paraguai - 17h30 - HD (CazéTV)",
-          "Alemanha x Paraguai - 17h30 - FHD (CazéTV)"
+          "Costa do Marfim x Noruega - 14h00 - SD (CazéTV)",
+          "Costa do Marfim x Noruega - 14h00 - HD (CazéTV)",
+          "Costa do Marfim x Noruega - 14h00 - FHD (CazéTV)"
         ]
       }
     },
     {
-      "id": "game_holanda_x_marrocos_2200",
+      "id": "game_franca_x_suecia_1800",
+      "time": "18:00",
+      "timestamp": "2026-06-30T18:00:00-03:00",
+      "competition": "",
+      "homeTeam": "França",
+      "awayTeam": "Suécia",
+      "title": "França x Suécia",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "CazéTV"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "CazéTV",
+          "keywords": [
+            "caze",
+            "cazetv",
+            "cazé tv",
+            "cazé"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "França",
+        "Suécia",
+        "França x Suécia",
+        "CazéTV"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "França x Suécia - 18h00 - SD (CazéTV)",
+          "França x Suécia - 18h00 - HD (CazéTV)",
+          "França x Suécia - 18h00 - FHD (CazéTV)"
+        ]
+      }
+    },
+    {
+      "id": "game_botafogo_sp_x_crb_2000",
+      "time": "20:00",
+      "timestamp": "2026-06-30T20:00:00-03:00",
+      "competition": "",
+      "homeTeam": "Botafogo-SP",
+      "awayTeam": "CRB",
+      "title": "Botafogo-SP x CRB",
+      "status": "scheduled",
+      "indicatedChannels": [
+        "ESPN",
+        "Disney Plus"
+      ],
+      "availableQualities": [
+        "SD",
+        "HD",
+        "FHD"
+      ],
+      "broadcasts": [
+        {
+          "name": "ESPN",
+          "keywords": [
+            "espn",
+            "espn brasil",
+            "espn 2",
+            "espn 3",
+            "espn 4"
+          ]
+        },
+        {
+          "name": "Disney Plus",
+          "keywords": [
+            "disney plus",
+            "disney+",
+            "star plus",
+            "star+"
+          ]
+        }
+      ],
+      "searchKeywords": [
+        "Botafogo-SP",
+        "CRB",
+        "Botafogo-SP x CRB",
+        "ESPN",
+        "Disney Plus"
+      ],
+      "sourceMeta": {
+        "provider": "pixsuper",
+        "rawNames": [
+          "Botafogo-SP x CRB - 20h00 - SD (ESPN)",
+          "Botafogo-SP x CRB - 20h00 - HD (ESPN)",
+          "Botafogo-SP x CRB - 20h00 - FHD (ESPN)",
+          "Botafogo-SP x CRB - 20h00 - SD (Disney+)",
+          "Botafogo-SP x CRB - 20h00 - HD (Disney+)",
+          "Botafogo-SP x CRB - 20h00 - FHD (Disney+)"
+        ]
+      }
+    },
+    {
+      "id": "game_mexico_x_equador_2200",
       "time": "22:00",
       "timestamp": "2026-06-30T22:00:00-03:00",
       "competition": "",
-      "homeTeam": "Holanda",
-      "awayTeam": "Marrocos",
-      "title": "Holanda x Marrocos",
+      "homeTeam": "México",
+      "awayTeam": "Equador",
+      "title": "México x Equador",
       "status": "scheduled",
       "indicatedChannels": [
+        "Globo",
+        "Sportv",
         "CazéTV"
       ],
       "availableQualities": [
@@ -95,6 +168,25 @@
         "FHD"
       ],
       "broadcasts": [
+        {
+          "name": "Globo",
+          "keywords": [
+            "globo",
+            "rede globo",
+            "globo sp",
+            "globo rj"
+          ]
+        },
+        {
+          "name": "Sportv",
+          "keywords": [
+            "sportv",
+            "sportv 2",
+            "sportv 3",
+            "sportv hd",
+            "sportv fhd"
+          ]
+        },
         {
           "name": "CazéTV",
           "keywords": [
@@ -106,17 +198,25 @@
         }
       ],
       "searchKeywords": [
-        "Holanda",
-        "Marrocos",
-        "Holanda x Marrocos",
+        "México",
+        "Equador",
+        "México x Equador",
+        "Globo",
+        "Sportv",
         "CazéTV"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "Holanda x Marrocos - 22h00 - SD (CazéTV)",
-          "Holanda x Marrocos - 22h00 - HD (CazéTV)",
-          "Holanda x Marrocos - 22h00 - FHD (CazéTV)"
+          "México x Equador - 22h00 - SD (Globo)",
+          "México x Equador - 22h00 - HD (Globo)",
+          "México x Equador - 22h00 - FHD (Globo)",
+          "México x Equador - 22h00 - SD (Sportv)",
+          "México x Equador - 22h00 - HD (Sportv)",
+          "México x Equador - 22h00 - FHD (Sportv)",
+          "México x Equador - 22h00 - SD (CazéTV)",
+          "México x Equador - 22h00 - HD (CazéTV)",
+          "México x Equador - 22h00 - FHD (CazéTV)"
         ]
       }
     }
