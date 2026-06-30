@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T08:49:36-03:00",
+  "generatedAt": "2026-06-30T12:39:25-03:00",
   "date": "2026-06-30",
   "timezone": "America/Sao_Paulo",
   "source": "pixsuper",
@@ -100,8 +100,7 @@
       "title": "Botafogo-SP x CRB",
       "status": "scheduled",
       "indicatedChannels": [
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "availableQualities": [
         "SD",
@@ -118,33 +117,20 @@
             "espn 3",
             "espn 4"
           ]
-        },
-        {
-          "name": "Disney Plus",
-          "keywords": [
-            "disney plus",
-            "disney+",
-            "star plus",
-            "star+"
-          ]
         }
       ],
       "searchKeywords": [
         "Botafogo-SP",
         "CRB",
         "Botafogo-SP x CRB",
-        "ESPN",
-        "Disney Plus"
+        "ESPN"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
           "Botafogo-SP x CRB - 20h00 - SD (ESPN)",
           "Botafogo-SP x CRB - 20h00 - HD (ESPN)",
-          "Botafogo-SP x CRB - 20h00 - FHD (ESPN)",
-          "Botafogo-SP x CRB - 20h00 - SD (Disney+)",
-          "Botafogo-SP x CRB - 20h00 - HD (Disney+)",
-          "Botafogo-SP x CRB - 20h00 - FHD (Disney+)"
+          "Botafogo-SP x CRB - 20h00 - FHD (ESPN)"
         ]
       }
     },
@@ -158,9 +144,7 @@
       "title": "México x Equador",
       "status": "scheduled",
       "indicatedChannels": [
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "availableQualities": [
         "SD",
@@ -168,15 +152,6 @@
         "FHD"
       ],
       "broadcasts": [
-        {
-          "name": "Globo",
-          "keywords": [
-            "globo",
-            "rede globo",
-            "globo sp",
-            "globo rj"
-          ]
-        },
         {
           "name": "Sportv",
           "keywords": [
@@ -186,37 +161,20 @@
             "sportv hd",
             "sportv fhd"
           ]
-        },
-        {
-          "name": "CazéTV",
-          "keywords": [
-            "caze",
-            "cazetv",
-            "cazé tv",
-            "cazé"
-          ]
         }
       ],
       "searchKeywords": [
         "México",
         "Equador",
         "México x Equador",
-        "Globo",
-        "Sportv",
-        "CazéTV"
+        "Sportv"
       ],
       "sourceMeta": {
         "provider": "pixsuper",
         "rawNames": [
-          "México x Equador - 22h00 - SD (Globo)",
-          "México x Equador - 22h00 - HD (Globo)",
-          "México x Equador - 22h00 - FHD (Globo)",
           "México x Equador - 22h00 - SD (Sportv)",
           "México x Equador - 22h00 - HD (Sportv)",
-          "México x Equador - 22h00 - FHD (Sportv)",
-          "México x Equador - 22h00 - SD (CazéTV)",
-          "México x Equador - 22h00 - HD (CazéTV)",
-          "México x Equador - 22h00 - FHD (CazéTV)"
+          "México x Equador - 22h00 - FHD (Sportv)"
         ]
       }
     }
